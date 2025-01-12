@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "b3bb4912c18b230f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c9a7d8c665ec88a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffcdbbc36a13eb5c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d3d28e4628d5b0ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd586046ab6c04db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "581793ba6e53cf14",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "aa22d1710833c6c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "sda tranche",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fe0e9f88f1e303b3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301.5
+  },
+  "right": {
+    "id": "d6554af7f7699467",
+    "type": "split",
+    "children": [
+      {
+        "id": "4eb12f228edec2a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da090e9c8faebac3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "7d35f5b6696bff31",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "06e3822c3ca98eb6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1200b66f7a2d3ee8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "3dff6d7aeed036a8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6449ebb6b9cf2b96",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 378.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "media-extended:Open media": false,
+      "graph:Open graph view": false,
+      "publish:Publish changes...": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ffcdbbc36a13eb5c",
+  "lastOpenFiles": [
+    "Space Systems/Missions/SDA Proliferated Warfighter Space Architecture (PWSA).md",
+    "Space Systems/Missions/Mission Operations Control Center for MethaneSAT.md",
+    "breaking-defense-pwsa-graphic.webp",
+    "Vault-Assets/Images/Pasted image 20250111224806.png",
+    "🏠 Start Here.md",
+    "🟢 Subsidiaries.md",
+    "Organization/Subsidiaries/Advanced Solutions Inc.md",
+    "Organization/Subsidiaries/Planetary Systems Corporation (PSC).md",
+    "Organization/Subsidiaries/Rocket Lab National Security (RLNS).md",
+    "Organization/Subsidiaries/Rocket Lab Australia.md",
+    "Organization/Subsidiaries/Sinclair Interplanetary.md",
+    "Organization/Subsidiaries/SolAero Technologies.md",
+    "Organization/Partners/Kinéis.md",
+    "💰 Acquisitions.md",
+    "Financial/Capital Raises/2024 Convertible Senior Note.md",
+    "Organization/Executive Leadership.md",
+    "Space Systems/Missions/ESCAPADE.md",
+    "Space Systems/Missions/GLIDE.md",
+    "Space Systems/Missions/Globalstar (MDA) Satellite Buses.md",
+    "Space Systems/Missions/SDA Tranche 1 - Initial Warfighting Capability.md",
+    "Space Systems/Missions/SDA Tranche 2 - Enhanced Global Coverage.md",
+    "Space Systems/Missions/Venus Life Finder.md",
+    "News/Rocket Lab Selects Subcontractors to Support SDA Satellite Constellation Development.md",
+    "News/Rocket Lab on Track to Advance U.S. Defense Capabilities, Passing Major Milestone in Development of Spacecraft Constellation for Space Development Agency.md",
+    "News/Rocket Lab Makes its Defense Prime Debut with $0.5 Billion Contract to Design and Build Satellite Constellation for Space Development Agency.md",
+    "Organization/Partners/Space Development Agency (SDA).md",
+    "Organization/Partners/Advanced Space.md",
+    "Pasted image 20250111225723.jpg",
+    "Pasted image 20250111225527.jpg",
+    "Pasted image 20250111225347.jpg",
+    "Vault-Assets/PDFs/RL-SolAero-Data-Sheet-Z4J.pdf",
+    "Vault-Assets/Images/DYCDyj0U0AEJT7J.png",
+    "Vault-Assets/PDFs/2000785M-MkII-MLB-User-Manual.pdf",
+    "Vault-Assets/PDFs/RL-SolAero-Data-Sheet-ZTJ+-v7.pdf",
+    "Vault-Assets/PDFs/RL-SolAero-Data-Sheet-ZTJ.pdf",
+    "Vault-Assets/PDFs/RL-SolAero-Data-Sheet-ZTJ-Omega.pdf",
+    "Vault-Assets/PDFs/RL-SolAero-Data-Sheet-Z4J+-v8.pdf",
+    "Vault-Assets/Images/Pasted image 20250111151250.png",
+    "Vault-Assets/Images/Pasted image 20250111151020.png",
+    "Vault-Assets/Images/Pasted image 20250111150840.png",
+    "Vault-Assets/PDFs/2002337G-CSD-Data-Sheet-compressed2.pdf",
+    "Vault-Assets/PDFs/2004600-ASD-Data-Sheet2.pdf",
+    "Vault-Assets/PDFs/2003336F-Advanced-Lightband-Users-Manual.pdf",
+    "Vault-Assets/Images/Pasted image 20250111150350.png",
+    "Vault-Assets/PDFs/RW-0.01-Datasheet-v3.0.pdf",
+    "Untitled.canvas",
+    "Subsidiaries/Untitled.canvas"
+  ]
+}

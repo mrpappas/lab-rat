@@ -1,0 +1,13 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Customer": "multitext",
+    "mission": "multitext",
+    "partner": "multitext",
+    "location": "multitext",
+    "insider": "multitext",
+    "author": "multitext"
+  }
+}
