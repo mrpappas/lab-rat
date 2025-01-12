@@ -5,7 +5,7 @@ website: https://e-space.com/
 >[!summary]
 E-Space is a low Earth orbit ([[🌍 Orbits#LEO|LEO]]) satellite communications company focused on building a sustainable satellite network. The company aims to deploy low-cost, small satellites that offer global connectivity while minimizing space debris through collision avoidance and deorbiting technologies. E-Space emphasizes modular satellite design, efficient manufacturing, and a focus on sustainability to enable scalable and responsible space-based communications solutions for commercial, government, and IoT applications.
 
-### 🚀 Launches
+## 🚀 Launches
 
 ```dataview
 table launch_date, outcome

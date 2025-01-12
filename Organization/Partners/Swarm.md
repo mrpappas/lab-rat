@@ -9,7 +9,7 @@ Subsidiary of [[SpaceX]]
 Swarm Technologies, a subsidiary of SpaceX, provides affordable and reliable global satellite connectivity for IoT (Internet of Things) devices. Using its constellation of miniature satellites, known as SpaceBEEs, Swarm delivers low-cost, low-bandwidth communication for industries like agriculture, maritime, logistics, and environmental monitoring. The company’s focus is on enabling global coverage for IoT applications, even in remote and underserved areas, through its compact hardware and efficient data services. As part of SpaceX, Swarm leverages synergies in innovation and infrastructure to expand its reach and make satellite IoT connectivity accessible worldwide.
 
 
-### 🚀 Launches
+## 🚀 Launches
 
 ```dataview
 table launch_date, outcome

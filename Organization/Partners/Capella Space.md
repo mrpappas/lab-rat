@@ -34,7 +34,7 @@ Features:
 
 ![[Pasted image 20241225001756.jpg]]
 
-### 🚀 Launches
+## 🚀 Launches
 
 ```dataview
 table launch_date, outcome

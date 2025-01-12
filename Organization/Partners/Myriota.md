@@ -9,7 +9,7 @@ Myriota is an Australian company specializing in low-power, direct-to-satellite 
 Myriota’s technology enables industries such as agriculture, utilities, environmental monitoring, and asset tracking to connect devices globally without relying on traditional terrestrial infrastructure. Their system allows ultra-low-power communication, extending the life of IoT devices in remote locations for years on minimal energy.
 
 
-### 🚀 Launches
+## 🚀 Launches
 
 ```dataview
 table launch_date, outcome

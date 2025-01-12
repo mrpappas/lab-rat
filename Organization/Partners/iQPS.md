@@ -9,7 +9,7 @@ iQPS (Institute for Q-shu Pioneers of Space) is a Japanese company focused on de
 They are working toward establishing a constellation of 36 small SAR satellites, aiming to provide near-real-time imaging with high-frequency revisits. Their compact satellites deliver sub-meter resolution data, enabling industries such as disaster management, infrastructure monitoring, agriculture, and defense to benefit from precise and timely Earth observation insights.
 iQPS has launched several satellites to demonstrate its SAR capabilities and is actively scaling its constellation to offer comprehensive global coverage.
 
-### 🚀 Launches
+## 🚀 Launches
 
 ```dataview
 table launch_date, outcome

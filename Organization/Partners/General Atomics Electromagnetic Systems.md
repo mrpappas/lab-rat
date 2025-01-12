@@ -8,7 +8,7 @@ website: https://www.ga.com/about/ems
 General Atomics Electromagnetic Systems (GA-EMS) designs and manufactures advanced technology solutions, including electromagnetic launch and power systems, space systems, and missile defense technologies. GA-EMS supports defense, aerospace, and commercial markets with innovations such as railguns, directed energy systems, satellite platforms, and components like spacecraft structures, payloads, and propulsion systems. The company plays a key role in space-based surveillance, satellite manufacturing, and national security programs.
 
 
-### 🚀 Launches
+## 🚀 Launches
 
 ```dataview
 table launch_date, outcome

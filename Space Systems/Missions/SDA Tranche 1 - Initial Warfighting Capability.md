@@ -1,9 +1,12 @@
+---
+customer: "[[Space Development Agency (SDA)]]"
+---
 >[!summary]
 Tranche 1 of [[SDA Proliferated Warfighter Space Architecture (PWSA)]]. Serves as the backbone for Joint All Domain Command and Control (JADC2), providing regional persistence for Link 16, advanced missile tracking and warning, and beyond-line-of-sight targeting.
-
+>
 **Total Satellites**: 154 operational + 4 demo
 
-### Transport Layer
+## 🚚 Transport Layer
 
 **Function**: Provides low-latency data connectivity and communication links.
 **Satellites**: 126 satellites equipped with optical communications terminals (OCTs) and Ka-band RF capabilities.
@@ -12,7 +15,7 @@ Tranche 1 of [[SDA Proliferated Warfighter Space Architecture (PWSA)]]. Serves a
 - [[Lockheed Martin]]: Awarded a contract for 42 satellites.
 - [[Northrop Grumman]]: Awarded a contract for 42 satellites.
 
-### Tracking Layer:
+## 📡 Tracking Layer:
 
 **Function**: Equipped with infrared (IR) sensors for missile warning and tracking.
 **Satellites**: 28 satellites.
@@ -20,16 +23,16 @@ Tranche 1 of [[SDA Proliferated Warfighter Space Architecture (PWSA)]]. Serves a
 - [[L3Harris Technologies]]: Awarded a contract for 14 satellites.
 - [[SpaceX]]: Awarded a contract for 14 satellites.
 
-### Demonstration and Experimentation System (T1DES):
+## 🔬 Demonstration and Experimentation System (T1DES):
 
-Function: Demonstrates new capabilities for future tranches.
-Satellites: 12 tactical demonstration satellites.
-Contracts Awarded:
-[[York Space Systems]]: Awarded a contract for these satellites.
+**Function**: Demonstrates new capabilities for future tranches.
+**Satellites**: 12 tactical demonstration satellites.
+**Contracts Awarded**:
+- [[York Space Systems]]: Awarded a contract for these satellites.
 
-### Ground Segment:
+## 🌍 Ground Segment:
 
-Contract Awarded:
+**Contract Awarded**:
 - [[General Dynamics Mission Systems]]: Awarded a contract worth up to $324 million to establish ground operations, including two operations centers and multiple ground stations.
 
 ## 📰 News

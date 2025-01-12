@@ -2,7 +2,7 @@
 name: Boston University
 website: https://www.bu.edu/
 ---
-### 🚀 Launches
+## 🚀 Launches
 
 ```dataview
 table launch_date, outcome

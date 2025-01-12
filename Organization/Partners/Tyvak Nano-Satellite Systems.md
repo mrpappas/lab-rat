@@ -9,7 +9,7 @@ Absorbed by [[Terran Orbital]]
 Tyvak Nano-Satellite Systems designs and builds advanced small satellites, offering end-to-end solutions for commercial, government, and defense missions. With expertise in nano-satellite technology and rapid deployment, Tyvak delivers cost-effective, high-performance spacecraft tailored to meet specific mission needs, enabling operations in low Earth orbit and beyond. As part of Terran Orbital, Tyvak drives innovation in the growing small satellite market, supporting critical applications for clients like NASA and the Department of Defense.
 
 ---
-### 🚀 Launches
+## 🚀 Launches
 
 ```dataview
 table launch_date, outcome

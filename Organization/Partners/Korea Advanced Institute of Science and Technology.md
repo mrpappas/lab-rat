@@ -9,7 +9,7 @@ The **Korea Advanced Institute of Science and Technology (KAIST)** is South Kore
 >
 KAIST collaborates with international partners and government agencies, playing a significant role in South Korea's space program by fostering innovation, talent development, and the deployment of cutting-edge space technologies.
 
-### 🚀 Launches
+## 🚀 Launches
 
 ```dataview
 table launch_date, outcome

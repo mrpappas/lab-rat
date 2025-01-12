@@ -10,7 +10,7 @@ Born out of the **[Argos system](https://en.wikipedia.org/wiki/Argos_(satellite_
 >
 Kinéis positions itself as a key player in the growing IoT space market, offering cost-effective and energy-efficient solutions for global data collection and transmission.
 
-### 🚀 Launches
+## 🚀 Launches
 
 ```dataview
 table launch_date, outcome

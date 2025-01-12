@@ -3,6 +3,10 @@ title: "Rocket Lab Announces Third Quarter 2021 Financial Results and Issues Gui
 source: "https://www.rocketlabusa.com/updates/rocket-lab-announces-third-quarter-2021-financial-results-and-issues-guidance-for-the-fourth-quarter-2021/"
 author:
   - "[[Rocket Lab]]"
+mission: 
+ - "[[LOXSAT]]"
+customer:
+ - "[[Eta Space]]"
 published: 2021-11-15
 description: "*Q3 2021 Financial Results Highlights*"
 

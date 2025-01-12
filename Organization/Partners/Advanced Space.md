@@ -16,7 +16,7 @@ In this orbit, CAPSTONE will orbit together with the Moon as it orbits Earth and
 
 ![[capstone_05-19jan22_0_0.webp]]
 
-### 🚀 Launches
+## 🚀 Launches
 
 ```dataview
 table launch_date, outcome
