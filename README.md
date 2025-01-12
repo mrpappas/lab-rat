@@ -7,11 +7,11 @@ An [Obsidian](https://obsidian.md/) vault for all things [Rocket Lab](https://ww
 
 There are two ways to use this vault: Web or Locally. Local gives you much more ability to create cool dashboards, write your own data queries, etc. Web works right out of the box without the need to install anything. 
 
-## Web Vaut
+## 🌐 Web Vault
 
 Coming Soon!
 
-## Local Installation / Use
+## 🖥️ Local Installation / Use
 ### 1. Download & Install [Obsidian](https://obsidian.md/)
 
 ![Pasted image 20250112034225.png](https://i.imgur.com/4SkUbED.png)
