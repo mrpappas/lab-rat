@@ -21,7 +21,7 @@ Electron is a two-stage, partially reusable orbital launch vehicle developed by 
 ## Rutherford Engine
 
 >[!summary]
-Designed and built by Rocket Lab, the Rutherford engine is the world’s first 3D printed and electric pump-fed orbital rocket engine. 
+Designed and built by Rocket Lab, the Rutherford engine is the world’s first 3D printed and electric pump-fed orbital rocket engine. Rutherford engines are used as both first stage and second stage engines on the Electron launch vehicle, with nine engines on the first stage and a single vacuum optimized engine on the second stage. The sea level versions on Electron’s first stage produce 25 kN (5,600 lbf) of thrust each and with a specific impulse of 311 seconds, while the vacuum optimized version on Electron’s second stage produces a max thrust of 26 kN (5,800 lbf) of thrust and a specific impulse of 343 seconds. 
 
 ![[Pasted image 20241229230746.png]]
 
@@ -33,8 +33,6 @@ Designed and built by Rocket Lab, the Rutherford engine is the world’s first 3
 | Diameter                             | .25m / 9.8 in     |
 
 The Rutherford engine’s production scalability is facilitated by additively manufactured, or 3D printed, primary components. With a 3D printed combustion chamber, injectors, pumps, and main propellant valves, Rutherford has the most 3D printed components of any rocket engine in the world. These primary components can be printed in 24 hours, drastically reducing production timelines compared with traditional production methods.
-
-Rutherford engines are used as both first stage and second stage engines on the Electron launch vehicle, with nine engines on the first stage and a single vacuum optimized engine on the second stage. The sea level versions on Electron’s first stage produce 24 kN (5,500 lbf) of thrust each and with a specific impulse of 311 seconds, while the vacuum optimized version on Electron’s second stage produces a max thrust of 24 kN (5,500 lbf) of thrust and a specific impulse of 343 seconds.
 
 Instead of being powered by traditional gas turbine pumps, Rutherford uses a cycle of brushless DC electric motors and high-performance lithium polymer batteries to drive its propellant pumps. This cuts down on much of the complex turbomachinery typically required for gas generator cycle engines, meaning that the Rutherford is simpler to build than a traditional engine but still can achieve 90% efficiency.
 

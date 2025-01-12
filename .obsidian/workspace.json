@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cb2db285db8dbdd2",
+        "id": "59bea4c6fa3015f5",
         "type": "tabs",
         "children": [
           {
-            "id": "d9fc90950b8c393e",
+            "id": "1fcac8e5be6ec466",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Organization/Partners/UNSW Canberra Space.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "UNSW Canberra Space"
+              "title": "New tab"
             }
           }
         ]
@@ -137,11 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Organization/Partners/UNSW Canberra Space.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of UNSW Canberra Space"
+              "title": "Outline"
             }
           },
           {
@@ -188,8 +181,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6449ebb6b9cf2b96",
+  "active": "1fcac8e5be6ec466",
   "lastOpenFiles": [
+    "Vault-Assets/Images/Pasted image 20250112153524.jpg",
+    "Vault-Assets/Images/Pasted image 20250112183604.png",
+    "haste-payload-diagram.svg",
+    "Vault-Assets/Images/Pasted image 20250112153620.jpg",
+    "Launch/HASTE.md",
+    "✅ To Do List.md",
+    "Organization/Partners/Leidos.md",
+    "Launch/Electron.md",
+    "Launch/Neutron.md",
+    "🚀 Launches.md",
+    "Launch/Launches/057 'Stonehenge' - HASTE.md",
+    "Vault-Assets/Images/Pasted image 20250112181533.jpg",
+    "Pasted image 20250112181509.jpg",
+    "Launch/Launches/058 'Owl The Way Up' - Electron.md",
+    "Launch/🌍 Orbits.md",
+    "Organization/Partners/UNSW Canberra Space.md",
     "Organization/Partners/USTRANSCOM.md",
     "Organization/Partners/UTIAS Space Flight Laboratory.md",
     "Organization/Partners/Valve.md",
@@ -205,28 +214,11 @@
     "Organization/Partners/MDA.md",
     "Organization/Partners/Unseenlabs.md",
     "Organization/Partners/BlackSky.md",
-    "Organization/Partners/Boston University.md",
-    "Organization/Partners/UNSW Canberra Space.md",
-    "Organization/Partners/U.S. Space Force.md",
-    "Organization/Partners/U.S. Department of Defense.md",
-    "Organization/Partners/U.S. Army.md",
-    "Organization/Partners/U.S. Air Force.md",
-    "Organization/Partners/Tyvak Nano-Satellite Systems.md",
-    "Organization/Partners/Trisept.md",
-    "Organization/Partners/The University of Auckland.md",
-    "Organization/Partners/Synspective.md",
-    "Organization/Partners/Swedish National Space Agency.md",
-    "Pasted image 20250112153620.jpg",
-    "Pasted image 20250112153524.jpg",
     "Vault-Assets/Images/Pasted image 20250112144616.jpg",
     "Vault-Assets/Images/Pasted image 20250112142552.jpg",
     "Vault-Assets/Images/Globalstar_constellation-Globalstar.webp",
     "Vault-Assets/Images/Pasted image 20250112141351.jpg",
-    "Vault-Assets/Images/Pasted image 20250112140125.jpg",
     "F3738-TROPICS-Press-Kit.pdf",
-    "Vault-Assets/Images/Pasted image 20250112033513.png",
-    "Vault-Assets/Images/Pasted image 20250112034736.png",
-    "Vault-Assets/Images/Pasted image 20250112034633.png",
     "Vault-Assets/PDFs/RL-SolAero-Data-Sheet-Z4J.pdf",
     "Vault-Assets/PDFs/2000785M-MkII-MLB-User-Manual.pdf",
     "Vault-Assets/PDFs/RL-SolAero-Data-Sheet-ZTJ+-v7.pdf",

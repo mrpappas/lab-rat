@@ -1,4 +1,6 @@
 >[!example] Not in any particular order
+
+>[!warning] This is all just first pass, not 'finished'
 ## 📍 Locations
 
 - [ ] Finish [[Launch Complex 2]]
@@ -19,9 +21,9 @@
 
 ## 🚀 Launch
 
-- [ ] Finish [[Electron]]
+- [x] Finish [[Electron]]
 - [ ] [[Neutron]]
-- [ ] [[HASTE]]
+- [x] [[HASTE]]
 
 ## 🛰️ Spacecraft
 
@@ -36,3 +38,8 @@
 - [ ] Finish [[ESCAPADE]]
 - [ ] [[VICTUS HAZE]]
 - [ ] [[Mission Operations Control Center for MethaneSAT]]
+
+## 💼 SEC Filings
+
+- [ ] Add latest SEC filings
+- [ ] Implement automation pipeline for SEC filings
