@@ -29,7 +29,7 @@ Rocket Lab’s 16th Electron launch 'Return to Sender' successfully launched Nov
 The Electron launch vehicle lofted 30 satellites to a sun-synchronous orbit at 500 km altitude for a range of customers, including [[TriSept]], [[Unseenlabs]], [[Swarm]], Auckland Programme for Space Systems, and global gaming software company [[Valve]]. 
 >
 This mission also included Rocket Lab's first attempt to bring Electron’s first stage back to Earth under a parachute system for a controlled water landing before collection by a recovery vessel - a major milestone in Rocket Lab’s pursuit to make Electron a reusable rocket to support an increased launch cadence for small satellites.
-
+>
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72157716860025163/)
 
 ## 📰 News

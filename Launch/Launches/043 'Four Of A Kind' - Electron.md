@@ -26,7 +26,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/four-of-a-
 The mission launched on January 31st, 2024 at 19:34 NZDT (January 31st, 2024 06:34 UTC) from Rocket Lab Launch Complex 1 in New Zealand. 'Four Of A Kind' deployed four Space Situational Awareness (SSA) satellites for [[Spire Global]], Inc’s (Spire) customer [[NorthStar Earth & Space]] (NorthStar). NorthStar´s satellites, built and operated by Spire, will be the first to simultaneously monitor all near-Earth orbits from space, delivering a radically enhanced level of SSA services to the global satellite community, with timely and precise information for space object detection, tracking, orbit determination, collision avoidance, navigation, and proximity alerts.
 >
 The mission also included the successful splashdown and recovery of Electron's first stage after the rocket stage returned to Earth from space.
-
+>
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720314477718/)
 
 ## 📰 News

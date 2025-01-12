@@ -25,7 +25,7 @@ The mission was named ‘The Owl’s Night Begins’ in a nod to Synspective’s
 The StriX-α satellite onboard this mission was the first of a series of spacecraft deployments for Synspective’s planned constellation of more than 30 SAR small satellites to collate data of metropolitan centers across Asia on a daily basis that can be used for urban development planning, construction and infrastructure monitoring, and disaster response.
 
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/with/72177720301776244)
-## 📦 Payload
+### 📦 Payload
 
 x1 [[Synspective#🛰️ Space Systems#StriX|Strix]] Series Satellite for [[Synspective]]
 ## 📰 News

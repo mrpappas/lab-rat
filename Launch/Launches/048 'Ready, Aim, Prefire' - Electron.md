@@ -25,7 +25,7 @@ The two dedicated missions will each deploy one satellite to a 525km circular or
 NASA’s PREFIRE mission is a climate change-focused mission that that will systematically measure the heat, in the form of infrared and far-infrared wavelengths, lost from Earth’s polar regions for the first time. Extreme storms, flooding, and coastal erosion are examples of weather outcomes that are influenced by climate conditions in the Arctic and Antarctica. Once deployed to their separate orbits, the two PREFIRE satellites will criss-cross over the Arctic and Antarctica measuring thermal infrared radiation – the same type of energy emitted from a heat lamp – that will make climate models more accurate and help predict changes caused by global warming. PREFIRE consists of two 6U CubeSats with a baseline mission length of 10 months.
 >
 The missions will be Rocket Lab’s 48th and 49th Electron launches overall and its sixth and seventh launches of 2024.
-
+>
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720316727356/)
 
 ## 📰 News

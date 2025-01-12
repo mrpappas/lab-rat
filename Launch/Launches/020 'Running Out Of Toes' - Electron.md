@@ -20,7 +20,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/running-ou
 
 >[!summary]
 Launched in May 2021 from Launch Complex 1 in New Zealand, the ‘Running Out Of Toes’, mission was Rocket Lab’s 20th Electron launch overall and the second of three planned ocean splashdown recovery missions. The mission was scheduled to deploy two Earth-observation satellites for BlackSky’s global monitoring constellation, but Electron experienced an anomaly shortly before stage two ignition, resulting in the loss of the mission. 
-
+>
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720302067868/)
 
 ## 📰 News

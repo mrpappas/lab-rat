@@ -20,9 +20,10 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/haste-a-la
 >[!summary]
 This mission provided hypersonic test launch capabilities under the Multi-Service Advanced Capability Hypersonics Test Bed (MACH-TB) project, which aims to increase hypersonic flight testing for the United States in support of technology maturation. The project was awarded by Naval Surface Warfare Center (NSWC) Crane through the Strategic and Spectrum Missions Advanced Resilient Trusted Systems (S2MARTS) Other Transaction Authority (OTA) vehicle on behalf of the U.S. Department of Defense Test Resource Management Center (TRMC).
 >
-Rocket Lab’s launch vehicle showcased a new suite of cutting-edge technologies optimized for hypersonic technology tests with vastly increased payloads. Rocket Lab also designed, manufactured, assembled, and integrated the experimental hypersonic instrumentation which was launched on this mission, but on a highly accelerated timeline.
-
-🚫 No Official Mission Photo Album
+Rocket Lab’s launch vehicle showcased a new suite of cutting-edge technologies optimized for hypersonic technology tests with vastly increased payloads. Rocket Lab also designed, manufactured, assembled, and integrated the experimental hypersonic 
+instrumentation which was launched on this mission, but on a highly accelerated timeline.
+>
+>🚫 No Official Mission Photo Album
 
 ## 📰 News
 ```dataview
@@ -33,14 +34,12 @@ sort published desc
 ```
 
 
----
 ## 📽️ Launch Video
 
 🚫 No Official Livestream
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/1dBfpv9TIdw" title="Rocket Lab&#39;s Electron - HASTE A La Vista Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
 
----
 ## 🎙️ Press Kit
 
 🚫 No Press Kit Issued for this Mission

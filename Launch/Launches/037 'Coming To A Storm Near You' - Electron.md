@@ -25,8 +25,7 @@ NASA’s TROPICS constellation will monitor the formation and evolution of tropi
 The constellation, which is part of NASA’s Earth System Science Pathfinder Program, consists of four CubeSats that require launch to a specific orbit at an altitude of 550 kilometers and inclination of about 30 degrees. All four satellites needed to be deployed into their operational orbit within a 60-day period, making Electron the ideal launch vehicle as it enables dedicated launch to unique orbits on highly responsive timelines. 
 >
 More info on TROPICS: [Mission Overview | TROPICS](https://tropics.ll.mit.edu/CMS/tropics/Mission-Overview)
-
-
+>
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720308583318/)
 
 ## 📰 News

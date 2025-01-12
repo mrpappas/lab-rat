@@ -26,7 +26,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/in-focus/
 Planet had nine of their latest generation SuperDove satellites deployed to a 500km morning-crossing Sun Synchronous Orbit (SSO). Each of the nine SuperDoves were integrated with and deployed from Rocket Lab’s [[Maxwell CubeSat Dispenser]]s, the industry’s lightest CubeSat dispenser in its class. Planet’s Flock 4e’ of SuperDoves join the company’s constellation of Earth-observation satellites already on orbit providing medium-resolution global coverage and near-daily revisit.
 >
 The 10th and final payload, Canon Electronics Inc.’s CE-SAT-IIB, was arranged by satellite rideshare and mission management provider Spaceflight Inc. CE-SAT-IIB is a technical demonstration microsatellite developed by Canon Electronics Inc. It has a middle-size telescope equipped with an ultra-high sensitivity camera to take night images of the Earth and small size telescopes which are suitable for CubeSat use.
-
+>
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72157716860029003/)
 ## 📰 News
 ```dataview

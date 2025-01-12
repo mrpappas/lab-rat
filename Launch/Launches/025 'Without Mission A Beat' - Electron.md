@@ -23,7 +23,7 @@ Rocket Lab launched the “Without Mission A Beat” mission from Rocket Lab Lau
 “Without Mission A Beat” carried a pair of BlackSky rapid-revisit, high-resolution Earth-imaging satellites to low Earth orbit, which expanded BlackSky’s constellation to 14 satellites. Rocket Lab has delivered the majority of BlackSky’s constellation to orbit on Electron missions since 2019.
 >
 “Without Mission A Beat” was Rocket Lab’s 25th Electron launch brought the total number of satellites launched by the company to 112. 
-
+>
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720301776029/)
 
 ## 📰 News

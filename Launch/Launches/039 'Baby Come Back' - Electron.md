@@ -33,7 +33,7 @@ The ‘Baby Come Back’ mission is a rideshare mission and will carry satellite
 [[UTIAS Space Flight Laboratory]]:  Space Flight Laboratory (SFL) selected Rocket Lab to launch Telesat’s LEO 3 demonstration satellite that will provide continuity for customer and ecosystem vendor testing campaigns following the decommissioning of Telesat’s Phase 1 LEO satellite.
 >
 [[Spire Global]] Global:  Spire will launch two 3U satellites carrying Global Navigation Satellite System Radio Occultation (GNSS-RO) payloads to replenish its fully deployed constellation of more than 100 multipurpose satellites. Spire’s satellites observe the Earth in real time using radio frequency technology. The data acquired by Spire’s GNSS-RO payloads provide global weather intelligence that can be assimilated into weather models to improve the accuracy of forecasts. Spire is the largest producer of GNSS-RO weather data, collecting over 20,000 RO profiles a day.
-
+>
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720309411224/)
 
 ## 📰 News

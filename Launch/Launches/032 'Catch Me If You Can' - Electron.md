@@ -23,7 +23,7 @@ Launched from Pad B at Rocket Lab Launch Complex 1 on New Zealand’s Mahia Peni
 The mission deployed its 152nd satellite to orbit, the MATS science payload for the [[Swedish National Space Agency]]. 
 >
 The “Catch Me If You Can” mission also resulted in a successful ocean splashdown of the Electron rocket’s first stage. Rocket Lab had planned to attempt amid-air capture of Electron’s first stage with a helicopter if conditions allowed, however not all requirements were met to ensure a successful capture Due to a brief telemetry loss with Electron’s first stage during its atmospheric re-entry, the helicopter was moved out of the capture zone per standard safety procedure. The Electron first stage completed a safe splashdown and will be brought back to Rocket Lab’s production facility for inspection and analysis.
-
+>
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720303420541/)
 
 ## 📰 News

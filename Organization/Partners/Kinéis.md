@@ -42,12 +42,7 @@ The Kinéis IoT satellites are a constellation of advanced nanosatellites design
 
 ![[Pasted image 20241224231429.jpg]]
 
----
 ## ✏️ Notes
 
 Kinéis currently operates the [Argos System](https://en.wikipedia.org/wiki/Argos_(satellite_system)), an international scientific collaboration between [[CNES]], the National Oceanic and Atmospheric Administration (NOAA), the European Organization for the Exploitation of Meteorological Satellites (EUMETSAT) and the Indian Space Research Organization (ISRO), to monitor wildlife, fisheries, and to collect data about Earth’s climate and environment through CLS. Kinéis’ new constellation will complete the current system with more powerful 30kg-class nanosats that integrate IoT technology and a ship-tracking Automatic Identification System (AIS). Once deployed, this technology will allow Kinéis to expand across multiple industries and scale from 20,000 devices connected to millions.
 
----
-## 📰 News
-
-- [Rocket Lab Lands Multi-Launch Deal to Deploy Entire IoT Satellite Constellation for Kinéis](https://www.rocketlabusa.com/updates/rocket-lab-lands-multi-launch-deal-to-deploy-entire-iot-satellite-constellation-for-kineis/)

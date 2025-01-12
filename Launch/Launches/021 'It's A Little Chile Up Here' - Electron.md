@@ -23,7 +23,7 @@ Rocket Lab launched a dedicated mission for the United States Space Force (USSF)
 Rocket Lab carried the Monolith satellite for the USSF's Space Test Program (STP) to space to explore and demonstrate the use of a deployable sensor, where the sensor’s mass is a substantial fraction of the total mass of the spacecraft, changing the spacecraft’s dynamic properties and testing ability to maintain spacecraft attitude control. Analysis from the use of a deployable sensor aims to enable the use of smaller satellite buses when building future deployable sensors such as weather satellites, thereby reducing the cost, complexity, and development timelines.
 >
 The mission was named ‘It’s a Little Chile Up Here’ in a nod to the beloved green chile of New Mexico where the Space Test Program is based. ‘It’s a Little Chile Up Here’ was Rocket Lab’s fourth launch for the year and the company’s 21st Electron launch overall.
-
+>
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720301764530/)
 
 ## 📰 News

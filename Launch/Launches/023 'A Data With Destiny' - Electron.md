@@ -23,7 +23,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/a-data-wit
 'A Data With Destiny’ was part of a multi-launch agreement for BlackSky between Rocket Lab and Spaceflight Inc., which is providing integration and mission management services for BlackSky. This mission will deploy the 11th and 12th satellites of BlackSky’s low Earth orbit constellation.
 >
 The two Gen-2 satellites on this mission, along with those previously launched by Rocket Lab for BlackSky, represent the largest number of satellites BlackSky has dedicated to a single launch provider to date.
-
+>
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720301764145/)
 
 ## 📰 News

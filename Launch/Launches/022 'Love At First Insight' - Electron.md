@@ -24,7 +24,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/love-at-fi
 The ‘Love At First Insight’ mission, arranged for BlackSky through launch services provider Spaceflight Inc., was Electron’s 22nd lift-off from Rocket Lab Launch Complex 1 on New Zealand’s Mahia Peninsula. Following lift-off at 01:38 UTC, 18 November 2021, Electron successfully delivered the two BlackSky Gen-2 Earth-imaging satellites to a circular 430km orbit, growing BlackSky’s constellation of real-time geospatial monitoring spacecraft and bringing the total number of satellites deployed by Rocket Lab to 107.
 >
 The mission also included a controlled ocean splashdown and recovery of Electron’s first stage. For the first time, Rocket Lab stationed a helicopter in the recovery zone around 200 nautical miles offshore to track and observe the descending stage in preparation for future aerial capture attempts. The helicopter successfully tracked the returning rocket and completed communications tests in the recovery zone, bringing Rocket Lab a step closer to catching a rocket from the sky, bringing it back to the production complex for refurbishment, and then launching it to space again.
-
+>
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720301777099/)
 
 ## 📰 News

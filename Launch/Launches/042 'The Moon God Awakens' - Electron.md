@@ -26,7 +26,7 @@ The mission carried iQPS’s QPS-SAR-5 satellite named “TSUKUYOMI-I” into or
 QPS-SAR-5 is a synthetic-aperture radar (SAR) satellite that joins iQPS's QPS-SAR-6 satellite already in orbit. iQPS’s satellites are small, high-performance SAR satellites that use a lightweight, large, stowable antenna to collect high resolution images of Earth, even through clouds and adverse weather conditions. Ultimately, the iQPS constellation is planned to have 36 satellites capable of monitoring specific fixed points on Earth every 10 minutes.
 >
 In addition to being launched by Electron, the QPS-SAR-5 satellite used Rocket Lab’s Mark II Motorized Lightband (MLB) as its separation system demonstrating the Company’s vertically integrated space systems strategy.
-
+>
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720311276533/)
 
 ## 📰 News
@@ -41,15 +41,6 @@ sort published desc
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/iLwTLqaCnQ8" title="Rocket Lab&#39;s Electron - The Moon God Awakens Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
 
----
-## 💰 Contract
-
-
----
-## ✏️ Notes
-
-
----
 ## 🎙️ Press Kit
 
 ![[The-Moon-God-Awakens-Press-Kit5.pdf]]

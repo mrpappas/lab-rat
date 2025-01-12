@@ -23,7 +23,7 @@ The “Virginia is for Launch Lovers” mission was Rocket Lab's **first [[Elect
 The mission deployed three satellites for [[HawkEye 360]], a radio frequency geospatial analytics company, to a 550km low Earth orbit at 18:00 ET on January 24, 2023.
 >
 Launch Complex 2 supplements Rocket Lab’s existing site, Launch Complex 1 in New Zealand, from which 32 Electron missions have already launched. This extensive launch heritage already makes Electron the most frequently launched small orbital rocket globally, and now with two launch complexes combined, Rocket Lab can support more than 130 launch opportunities every year, delivering unmatched flexibility for rapid, responsive launch for government and commercial satellite operators. The launch pad and production complex for Rocket Lab’s large reusable Neutron launch vehicle will also be located at the Mid-Atlantic Regional Spaceport, streamlining operations across small and large launch.
-
+>
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720302855243/)
 
 ## 📰 News

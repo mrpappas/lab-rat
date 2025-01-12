@@ -19,7 +19,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/another-on
 
 >[!summary]
 This mission launched a single communication microsatellite for OHB Group that will enable specific frequencies to support future services from orbit. The launch was Rocket Lab’s 18th Electron mission and was procured for OHB Group through OHB Cosmos International Launch Service GmbH, the launch service division of OHB Group. OHB Cosmos is responsible for launching the spacecraft built by the Group's satellite manufacturers based in Germany, Sweden, and Czech Republic.
-
+>
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720302069738/)
 
 ## 📰 News

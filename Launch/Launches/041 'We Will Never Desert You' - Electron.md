@@ -26,10 +26,10 @@ Anomaly occurred 2 minutes 30 seconds into the flight.
 >
 "The cause of the anomaly is a highly complex set of conditions that are extremely difficult to replicate in testing. However, we believe the findings of the Rocket Lab investigation team overwhelmingly indicate that an electrical arc occurred within the power supply system that provides high voltage to the Rutherford engine’s motor controllers, shorting the battery packs which provide power to the launch vehicle’s upper stage."
 [Source](https://www.businesswire.com/news/home/20231108450544/en/Rocket-Lab-Announces-Third-Quarter-2023-Financial-Results-Issues-Guidance-For-Fourth-Quarter-2023-and-Revenue-Guidance-for-First-Quarter-2024)
-
+>
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720311276483/)
 
-## 📦 Payload
+### 📦 Payload
 
 x1 [[Capella Space#🛰️ Space Systems#Acadia|Acadia SAR]] Satellite
 
@@ -45,7 +45,6 @@ sort published desc
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/AfYFqsk_NGk" title="Rocket Lab&#39;s Electron - We Will Never Desert You Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
 
----
 ## ✏️ Notes
 
 
@@ -63,7 +62,6 @@ Three rare conditions had to present simultaneously in the low-pressure space en
 Source: [[Rocket Lab Sets Next Electron Launch Window, Provides Update on Anomaly Review]]
 
 
----
 ## 🎙️ Press Kit
 
 ![[FINAL-Capella-We-Will-Never-Desert-You-Press-Kit.pdf]]

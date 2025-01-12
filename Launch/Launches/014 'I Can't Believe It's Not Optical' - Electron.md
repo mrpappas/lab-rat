@@ -23,7 +23,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/i-cant-bel
 Capella’s payload, ‘Sequoia’, is a single 100 kg class microsatellite which will be the first publicly available satellite in the company’s commercial Synthetic Aperture Radar (SAR) constellation. By positioning the satellite to a 45-degree inclination, Capella Space will maximize coverage over important areas such as the Middle East, Korea, Japan, Europe, South East Asia, Africa, and the U.S.
 >
 The mission name is a nod to Capella’s SAR technology that provides high quality images of the Earth day or night, and in any weather conditions. Capella’s space-based radar can detect sub-0.5 meter changes on the surface of the Earth, providing insights and data that can be used for security, agricultural and infrastructure monitoring, as well as disaster response and recovery.
-
+>
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72157716859999646/)
 
 ## 📰 News

@@ -30,9 +30,9 @@ Rocket Lab has been the exclusive launch provider for [[Synspective]] to date an
 >- The Owl Spreads its Wings: Launched September 2022
 >
 Synspective is a satellite data solutions provider with its own constellation of SAR satellites. [[📦 Payload Types#Synthetic Aperture Radar (SAR)|Synthetic Aperture Rader (SAR)]] is an active system that transmits microwave pulses toward the Earth's surface and receives the reflected signals to create an image of the target area. Unlike other imaging technologies, SAR can penetrate clouds and other atmospheric conditions, enabling it to collect data day or night with frequent revisit rates.
-
+>
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720315392064/)
-## 📦 Payload
+### 📦 Payload
 
 x1 [[Synspective#🛰️ Space Systems#StriX|Strix]] Series Satellite for [[Synspective]]
 
