@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4c9a7d8c665ec88a",
+        "id": "ac828aa4b830be85",
         "type": "tabs",
         "children": [
           {
-            "id": "ffcdbbc36a13eb5c",
+            "id": "dc43f0b5511bb21f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -166,8 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378.5,
-    "collapsed": true
+    "width": 378.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,41 +180,46 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "media-extended:Open media": false,
       "graph:Open graph view": false,
       "publish:Publish changes...": false,
+      "media-extended:Open media": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ffcdbbc36a13eb5c",
+  "active": "dc43f0b5511bb21f",
   "lastOpenFiles": [
+    "Pasted image 20250112034736.png",
+    "Pasted image 20250112034633.png",
+    "Pasted image 20250112034225.png",
+    "Pasted image 20250112034202.png",
+    "Organization/Partners/Kinéis.md",
+    "README.md",
+    "Pasted image 20250112033513.png",
+    "🚀 Launches.md",
+    "💼 SEC Filings (2024).md",
+    "Organization/Partners/iQPS.md",
+    "Launch/Launches/058 'Owl The Way Up' - Electron.md",
+    "Filings/2024/Form 4/12-12-24 Form 4 - Edward H. Frank.md",
+    "Launch/Launches/057 'Stonehenge' - HASTE.md",
+    "Organization/People/Peter Beck.md",
+    "Organization/People/Adam Spice.md",
+    "Rocket Lab.md",
+    "🎙️ Interviews.md",
+    "🏠 Start Here.md",
+    "💰 Acquisitions.md",
+    "Organization/Subsidiaries/Planetary Systems Corporation (PSC).md",
+    "🟢 Subsidiaries.md",
+    "Organization/Subsidiaries/Advanced Solutions Inc.md",
+    "🙋‍♂️ People.md",
+    "🤝 Partners.md",
+    "📰 News.md",
+    "🏛️ Board of Directors.md",
+    "Launch/Launches/055 'HASTE A La Vista' - HASTE.md",
     "Space Systems/Missions/SDA Proliferated Warfighter Space Architecture (PWSA).md",
     "Space Systems/Missions/Mission Operations Control Center for MethaneSAT.md",
     "breaking-defense-pwsa-graphic.webp",
     "Vault-Assets/Images/Pasted image 20250111224806.png",
-    "🏠 Start Here.md",
-    "🟢 Subsidiaries.md",
-    "Organization/Subsidiaries/Advanced Solutions Inc.md",
-    "Organization/Subsidiaries/Planetary Systems Corporation (PSC).md",
     "Organization/Subsidiaries/Rocket Lab National Security (RLNS).md",
-    "Organization/Subsidiaries/Rocket Lab Australia.md",
-    "Organization/Subsidiaries/Sinclair Interplanetary.md",
-    "Organization/Subsidiaries/SolAero Technologies.md",
-    "Organization/Partners/Kinéis.md",
-    "💰 Acquisitions.md",
-    "Financial/Capital Raises/2024 Convertible Senior Note.md",
-    "Organization/Executive Leadership.md",
-    "Space Systems/Missions/ESCAPADE.md",
-    "Space Systems/Missions/GLIDE.md",
-    "Space Systems/Missions/Globalstar (MDA) Satellite Buses.md",
-    "Space Systems/Missions/SDA Tranche 1 - Initial Warfighting Capability.md",
-    "Space Systems/Missions/SDA Tranche 2 - Enhanced Global Coverage.md",
-    "Space Systems/Missions/Venus Life Finder.md",
-    "News/Rocket Lab Selects Subcontractors to Support SDA Satellite Constellation Development.md",
-    "News/Rocket Lab on Track to Advance U.S. Defense Capabilities, Passing Major Milestone in Development of Spacecraft Constellation for Space Development Agency.md",
-    "News/Rocket Lab Makes its Defense Prime Debut with $0.5 Billion Contract to Design and Build Satellite Constellation for Space Development Agency.md",
-    "Organization/Partners/Space Development Agency (SDA).md",
-    "Organization/Partners/Advanced Space.md",
     "Pasted image 20250111225723.jpg",
     "Pasted image 20250111225527.jpg",
     "Pasted image 20250111225347.jpg",
@@ -221,13 +230,9 @@
     "Vault-Assets/PDFs/RL-SolAero-Data-Sheet-ZTJ.pdf",
     "Vault-Assets/PDFs/RL-SolAero-Data-Sheet-ZTJ-Omega.pdf",
     "Vault-Assets/PDFs/RL-SolAero-Data-Sheet-Z4J+-v8.pdf",
-    "Vault-Assets/Images/Pasted image 20250111151250.png",
-    "Vault-Assets/Images/Pasted image 20250111151020.png",
-    "Vault-Assets/Images/Pasted image 20250111150840.png",
     "Vault-Assets/PDFs/2002337G-CSD-Data-Sheet-compressed2.pdf",
     "Vault-Assets/PDFs/2004600-ASD-Data-Sheet2.pdf",
     "Vault-Assets/PDFs/2003336F-Advanced-Lightband-Users-Manual.pdf",
-    "Vault-Assets/Images/Pasted image 20250111150350.png",
     "Vault-Assets/PDFs/RW-0.01-Datasheet-v3.0.pdf",
     "Untitled.canvas",
     "Subsidiaries/Untitled.canvas"

@@ -7,8 +7,7 @@ linkedin: https://www.linkedin.com/in/peter-beck-ab7b63b/
 tags:
  - board-member
 ---
-
-![[Pasted image 20241126235110.png|400]]
+![[Pasted image 20241126235110.png]]
 
 >[!summary]
 **Sir Peter Beck** is the founder, President, and CEO of Rocket Lab. Since founding the company in 2006, he has transformed it into a global leader in rocket, satellite, and spacecraft development. Under his leadership, Rocket Lab pioneered innovations like 3D-printed and electric-pump-fed rocket engines, as well as carbon composite fuel tanks. He also spearheaded the creation of [[Launch Complex 1]] in New Zealand, enabling international aerospace collaboration.
