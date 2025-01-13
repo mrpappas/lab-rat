@@ -1,6 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "propertiesInDocument": "source",
+  "propertiesInDocument": "visible",
   "readableLineLength": false,
   "defaultViewMode": "preview",
   "autoConvertHtml": false,

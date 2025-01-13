@@ -1,7 +1,9 @@
 >[!summary]
-Hypersonic Accelerator Suborbital Test Electron (HASTE) is a suborbital testbed launch vehicle derived from the Electron orbital rocket. HASTE provides flight test opportunities for hypersonic and suborbital system technology development. It successfully launched its first mission [[038 'Scout's Arrow' - HASTE]] on 18 June 2023, for [[Leidos]].
+Hypersonic Accelerator Suborbital Test Electron (HASTE) is a **suborbital testbed** launch vehicle derived from the Electron orbital rocket. HASTE provides flight test opportunities for hypersonic and suborbital system technology development. It successfully launched its first mission [[038 'Scout's Arrow' - HASTE]] on 18 June 2023, for [[Leidos]].
 >
-HASTE has a payload capacity of 700 kg (1,500 lb), double that of orbital [[Electron]]. It can deploy payloads from 80 km (50 mi) altitude and higher.
+A **suborbital testbed** is a launch vehicle that reaches outer space but does not complete a full orbit around the Earth. Suborbital testbeds are used to develop hypersonic and suborbital system technologies.
+>
+HASTE has a payload capacity of 700 kg (1,540 lbs), double that of orbital [[Electron]]. It can deploy payloads from 80 km (50 mi) altitude and higher.
 >
 > 🚀 https://www.rocketlabusa.com/launch/haste/
 >🔗 https://en.wikipedia.org/wiki/Rocket_Lab#HASTE_suborbital_rocket
@@ -9,10 +11,10 @@ HASTE has a payload capacity of 700 kg (1,500 lb), double that of orbital [[Elec
 ![[Pasted image 20250112181533.jpg|450]]
 
 
-| Payload Mass                | ~700 kg / 1,540 lbs    |
-| --------------------------- | ---------------------- |
-| Payload Separation Velocity | 3 km/sec to 7.5 km/sec |
-| Payload Separation Altitude | 80 km +                |
+| Payload Mass                    | ~700 kg / 1,540 lbs    |
+| ------------------------------- | ---------------------- |
+| **Payload Separation Velocity** | 3 km/sec to 7.5 km/sec |
+| **Payload Separation Altitude** | 80 km +                |
 
 ## 🛠️ Configurations
 

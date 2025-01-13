@@ -18,6 +18,7 @@
 
 - [ ] Add News articles from 3rd party (probably https://spacenews.com/) 
 - [ ] Add backlinks to the content of all articles
+- [ ] Try to find at least one article for each person in [[🙋‍♂️ People]]
 
 ## 🚀 Launch
 
@@ -43,3 +44,16 @@
 
 - [ ] Add latest SEC filings
 - [ ] Implement automation pipeline for SEC filings
+
+## ⚔️ Competitors
+
+- [ ] [[Firefly Aerospace]]
+- [ ] [[General Dynamics Mission Systems]]
+- [ ] [[L3Harris Technologies]]
+- [ ] [[Northrop Grumman]]
+- [ ] [[Sierra Space]]
+- [ ] [[SpaceX]]
+- [ ] [[Terran Orbital]]
+- [ ] [[ULA (United Launch Alliance)]]
+- [ ] [[Virgin Orbit]]
+

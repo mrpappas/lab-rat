@@ -18,7 +18,7 @@ mission_link:
 >[!Success] Mission Success
 
 >[!summary]
->Put mission summary here
+>Classified customer, classified payload.
 
 ## 📰 News
 ```dataview
