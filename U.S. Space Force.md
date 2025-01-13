@@ -1,0 +1,24 @@
+---
+name: U.S. Space Force
+website: https://www.spaceforce.mil/
+---
+
+>[!summary]
+>The U.S. Space Force (USSF), established on December 20, 2019, is the sixth branch of the United States Armed Forces and is dedicated to organizing, training, and equipping military personnel for operations in space. As the first new military branch since 1947, the Space Force focuses on ensuring U.S. superiority in the increasingly contested and congested space domain. Its primary responsibilities include maintaining and protecting critical space-based assets, such as GPS, missile warning, and secure communication satellites, as well as developing capabilities to deter and counter threats from adversaries' space activities. The USSF oversees space situational awareness, orbital debris management, and the advancement of space technologies, working closely with the Department of Defense, NASA, and private industry. With its headquarters at the Pentagon and major operations through Space Operations Command, the Space Force plays a crucial role in supporting national security and enabling global military operations.
+
+## 🚀 Launches
+
+| File                                                                                                              | launch_date      | outcome |
+| ----------------------------------------------------------------------------------------------------------------- | ---------------- | ------- |
+| [[./021 'It's A Little Chile Up Here' - Electron\|021 'It's A Little Chile Up Here' - Electron]] | 2021-07-29 06:00 | Success |
+
+## 📰 News
+| File                                                                                                                                                                                                                                                                 | Title                                                                                                                        | Published          |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[./Rocket Lab Selected by Space Systems Command to Build and Launch Spacecraft for Tactically Responsive Space (TacRS) Mission\|Rocket Lab Selected by Space Systems Command to Build and Launch Spacecraft for Tactically Responsive Space (TacRS) Mission]] | Rocket Lab Selected by Space Systems Command to Build and Launch Spacecraft for Tactically Responsive Space (TacRS) Mission  | April 11, 2024     |
+| [[./U.S. Space Force Awards Rocket Lab Launch Contract for Space Test Program (STP)-S30\|U.S. Space Force Awards Rocket Lab Launch Contract for Space Test Program (STP)-S30]]                                                                                 | U.S. Space Force Awards Rocket Lab Launch Contract for Space Test Program (STP)-S30                                          | April 08, 2024     |
+| [[./Rocket Lab to Supply Solar Power for United States Space Force’s New Missile Warning Satellites  Rocket Lab\|Rocket Lab to Supply Solar Power for United States Space Force’s New Missile Warning Satellites  Rocket Lab]]                                 | Rocket Lab to Supply Solar Power for United States Space Force’s New Missile Warning Satellites                              | July 27, 2022      |
+| [[./Rocket Lab Wins News/Rocket Lab Wins $24m U.S. Space Force Contract to Develop Neutron Upper Stage.md4m U.S. Space Force Contract to Develop Neutron Upper Stage\|Rocket Lab Wins $24m U.S. Space Force Contract to Develop Neutron Upper Stage]]                                                                                             | Rocket Lab Wins $24m U.S. Space Force Contract to Develop Neutron Upper Stage                                                | September 27, 2021 |
+| [[./Rocket Lab Successfully Launches U.S. Space Force Mission\|Rocket Lab Successfully Launches U.S. Space Force Mission]]                                                                                                                                     | Rocket Lab Successfully Launches U.S. Space Force Mission                                                                    | July 29, 2021      |
+| [[./Rocket Lab to Launch U.S. Space Force Mission from Launch Complex 1 in New Zealand\|Rocket Lab to Launch U.S. Space Force Mission from Launch Complex 1 in New Zealand]]                                                                                   | Rocket Lab to Launch U.S. Space Force Mission from Launch Complex 1 in New Zealand                                           | July 27, 2021      |
+
