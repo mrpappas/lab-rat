@@ -1,0 +1,3 @@
+**About Photon**
+
+Photon is Rocket Lab’s flight proven, configurable spacecraft tailored for missions ranging from low Earth orbit through to planetary destinations. Photon is based on Rocket Lab’s heritage Electron Kick Stage, leveraging numerous components that have significant flight heritage, including the Curie engine, an in-house designed and developed in-space propulsion system. Photon evolves the Kick Stage by incorporating high-power generation, high-accuracy attitude determination and control, enhanced propulsion subsystems, and radiation-tolerant avionics to provide a bundled launch-plus-satellite offering.
