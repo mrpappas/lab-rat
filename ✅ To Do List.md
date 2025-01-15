@@ -19,9 +19,9 @@
 
 ## 🚀 Launch
 
-- [ ] Finish [[Electron]]
+- [x] Finish [[Electron]]
 - [ ] [[Neutron]]
-- [ ] [[HASTE]]
+- [x] [[HASTE]]
 
 ## 🛰️ Spacecraft
 
@@ -36,3 +36,17 @@
 - [ ] Finish [[ESCAPADE]]
 - [ ] [[VICTUS HAZE]]
 - [ ] [[Mission Operations Control Center for MethaneSAT]]
+
+## ⚔️ Competitors
+
+- [ ] [[Firefly Aerospace]]
+- [ ] [[General Dynamics Mission Systems]]
+- [ ] [[L3Harris Technologies]]
+- [ ] [[Northrop Grumman]]
+- [ ] [[Sierra Space]]
+- [ ] [[SpaceX]]
+- [ ] [[Terran Orbital]]
+- [ ] [[ULA (United Launch Alliance)]]
+- [ ] [[Virgin Orbit]]
+
+

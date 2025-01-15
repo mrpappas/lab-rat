@@ -1,12 +1,13 @@
 {
   "enabledCssSnippets": [
-    "hide-properties"
+    "styles"
   ],
   "cssTheme": "",
   "theme": "system",
   "accentColor": "",
   "nativeMenus": false,
-  "baseFontSize": 18,
+  "baseFontSize": 16,
   "interfaceFontFamily": "",
-  "textFontFamily": ""
+  "textFontFamily": "",
+  "baseFontSizeAction": false
 }

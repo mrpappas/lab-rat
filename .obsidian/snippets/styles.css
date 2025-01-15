@@ -1,16 +1,11 @@
-
-/* Remove link styling */  
-a.internal-link, a.external-link {
-  text-decoration: none !important;
+/* Links and underline handling*/
+body:not(.links-int-on) {
+  --link-decoration: none;
 }
 
-/* Optional: Change link color on hover for better visibility */
-a.internal-link:hover, a.external-link:hover {
-  text-decoration: none; /* Ensures underline is not added on hover */
-  color: var(--text-accent-hover); /* Adjust hover color as needed */
+body:not(.links-ext-on) {
+  --link-external-decoration: none;
 }
-
-
 
 /* Styling for Dataview plugin tables in dark theme */
 .dataview.table-view-table {

@@ -12,7 +12,7 @@ linkedin: https://www.linkedin.com/in/adam-spice-086120/
 >Mr. Spice has served as Rocket Lab’s Chief Financial Officer since May 2018. From January 2011 until May 2018, he was Vice President and Chief Financial Officer at [MaxLinear, Inc](https://www.maxlinear.com/)., a provider of radio frequency, analog and mixed-signal integrated circuits for the connected home, wired and wireless infrastructure, and industrial and multimarket applications. From October 2009 to November 2010, Mr. Spice was the Chief Financial Officer of Symwave Corporation, a venture backed fabless semiconductor company until its sale to Standard Microsystems Corporation (SMSC). From July 2000 until September 2009, Mr. Spice held a variety of financial and operational executive roles at [Broadcom Corporation](https://www.broadcom.com/), a creator of semiconductor solutions for wired and wireless communications. From June 1996 until July 2000, Mr. Spice worked as a finance manager for [Intel](https://www.intel.com/content/www/us/en/homepage.html), a microchips manufacturer. Mr. Spice has a Bachelor of Business Administration from the Brigham Young university and an MBA from The University of Texas at Austin. 
 [Source](https://www.rocketlabusa.com/about/team/)
 
-## 💼 **SEC** Filings
+## 💼 SEC Filings
 
 ```dataview
 table Filing_Type as "Filing Type", Filing_Date as "Date"

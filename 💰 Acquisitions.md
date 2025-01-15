@@ -11,9 +11,9 @@ Rocket Lab has made 6 strategic acquisitions, 4 companies and 2 asset purchases:
 
 Rocket Lab purchased many of [[Virgin Orbit]]'s assets after their bankruptcy:
 
-- [Official Rocket Lab Release](rocketlabusa.com/updates/rocket-lab-bolsters-neutron-rocket-program-with-purchase-of-virgin-orbit-long-beach-california-assets/)
-- [Spacenews.com Article](https://spacenews.com/rocket-lab-opens-engine-facility-in-former-virgin-orbit-headquarters/)
-- [[5-25-23 8-K - Asset Purchase Agreement (APA) with Virgin Orbit Holdings|SEC Filing]]
+- [[Rocket Lab Bolsters Neutron Rocket Program with Purchase of Virgin Orbit Long Beach California Assets|📰 New Release]]
+- [🔗 Spacenews.com Article](https://spacenews.com/rocket-lab-opens-engine-facility-in-former-virgin-orbit-headquarters/)
+- [[5-25-23 8-K - Asset Purchase Agreement (APA) with Virgin Orbit Holdings|💼 SEC Filing]]
 
 ### SailGp
 
