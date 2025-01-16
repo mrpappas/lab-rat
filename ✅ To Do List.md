@@ -20,6 +20,7 @@
 ## 🚀 Launch
 
 - [x] Finish [[Electron]]
+- [ ] [[Electron#Curie Engine]]
 - [ ] [[Neutron]]
 - [x] [[HASTE]]
 

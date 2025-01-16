@@ -18,10 +18,12 @@ Electron is a two-stage, partially reusable orbital launch vehicle developed by 
 
 >[!warning] This video is a bit old at this point but does a great job breaking down Electron and Rutherford
 <iframe width="1227" height="690" src="https://www.youtube.com/embed/C0STPK3g9c8" title="Is Rocket Lab the new SpaceX? The Electron VS Falcon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Rutherford Engine
 
 >[!summary]
-Designed and built by Rocket Lab, the Rutherford engine is the world’s first 3D printed and electric pump-fed orbital rocket engine. 
+Rutherford is a liquid-propellant rocket engine designed by Rocket Lab and manufactured in Long Beach, California. It uses LOX (liquid oxygen) and RP-1 (refined kerosene) as its propellants and is the first flight-ready engine to use the electric-pump-fed cycle. The rocket uses a similar engine arrangement to the Falcon 9; a two-stage rocket using a cluster of nine identical engines on the first stage, and one vacuum-optimized version with a longer nozzle on the second stage. This arrangement is also known as an octaweb. The sea-level version produces 24.9 kN (5,600 lbf) of thrust and has a specific impulse of 311 s (3.05 km/s), while the vacuum optimized-version produces 25.8 kN (5,800 lbf) of thrust and has a specific impulse of 343 s (3.36 km/s).
+> 🔗 https://en.wikipedia.org/wiki/Rutherford_(rocket_engine)
 
 ![[Pasted image 20241229230746.png]]
 
@@ -45,7 +47,10 @@ Rutherford engines are manufactured at Rocket Lab’s headquarters in Long Beach
 
 ## Kick Stage
 
-Electron’s unique Kick Stage is designed to deliver small satellites to precise and unique orbits, whether flying as dedicated or rideshare.
+>[!summary]
+Rocket Lab has also developed an optional third stage, known as the "kick stage", designed to circularize the orbits of its satellite payloads. The stage also puts satellites into a more accurate orbit in less time. The Electron kick stage is equipped with a single [[#Curie Engine]] engine that is capable of performing multiple burns, uses an unspecified "green" bipropellant, and is 3D printed. It was first used during Electron's second flight. The kick stage can transport up to 150 kg (330 lb) of payload.
+>
+>Rocket Lab has also developed a derivative spacecraft of the kick stage, [[Photon]], which is intended for use on lunar and interplanetary missions. Photon will be capable of delivering small payloads of up to 30 kg (66 lb) into lunar orbit.
 
 - Deployment of payloads at multiple planes/inclinations
 - Higher altitude deployment
@@ -56,6 +61,9 @@ Electron’s unique Kick Stage is designed to deliver small satellites to precis
 
 ![[Pasted image 20250112153620.jpg]]
 
+## Curie Engine
+
+Curie engine stuff goes here
 ## 📰 News
 ```dataview
 table title as "Title", published as "Published"

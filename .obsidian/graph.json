@@ -1,58 +1,37 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:News  ",
+      "query": "path: Organization/Partners",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 14601495
       }
     },
     {
-      "query": "path:Organization/People",
+      "query": "path:Organization/People  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "path:Launch/Launches  ",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "path:Filings  ",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
-      }
-    },
-    {
-      "query": "path:Organization/Partners  ",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
+        "rgb": 14426335
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.04427083333333,
   "lineSizeMultiplier": 0.40625,
-  "collapse-forces": true,
-  "centerStrength": 0.473958333333333,
-  "repelStrength": 9.58333333333333,
-  "linkStrength": 0.453125,
-  "linkDistance": 260,
-  "scale": 0.16348370567220555,
+  "collapse-forces": false,
+  "centerStrength": 0.354166666666667,
+  "repelStrength": 11.5625,
+  "linkStrength": 0.484375,
+  "linkDistance": 500,
+  "scale": 0.0593261718750008,
   "close": true
 }
