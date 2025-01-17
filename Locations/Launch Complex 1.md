@@ -11,14 +11,13 @@ Located within Launch Complex 1 are Rocket Lab’s private range control facilit
 >[!quote]
 "Capable of launching once every 72 hours" [Source](https://youtu.be/l0ntnOtJDbw?t=46)
 
----
 ## 📍Location
 
 Māhia 4198, New Zealand
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2622.610251783618!2d177.86450314328516!3d-39.260810156571644!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6d664a88779d3e21%3A0x77d0487cde5861f3!2sRocket%20Lab%20Launch%20Complex%201!5e1!3m2!1sen!2sus!4v1734236244697!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
----
+
 ## 🏭 Facilities
 
 ### 🚀 Launch Pad A (LC-1A)
@@ -60,7 +59,13 @@ Completed in December 2019, LC-1B became operational with its first launch on 28
 ### ⛽ Propellant Storage Facilities
 Storage facilities for Liquid Oxygen (LOX) and Rocket-grade Kerosene (RP-1) for fueling of [[Electron]] Rockets
 
----
+## 📽️ Media
+  
+<iframe width="750" height="427" src="https://www.youtube.com/embed/U1j8ldnZ-gM" title="Rocket Lab Launch Complex 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="750" height="427" src="https://www.youtube.com/embed/l0ntnOtJDbw" title="Introducing LC-1B" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 ## 📰 News
 ```dataview
@@ -81,11 +86,4 @@ where location = [[Launch Complex 1]]
 sort launch_date desc
 
 ```
-
-## 📽️ Media
-
-  
-<iframe width="750" height="427" src="https://www.youtube.com/embed/U1j8ldnZ-gM" title="Rocket Lab Launch Complex 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="750" height="427" src="https://www.youtube.com/embed/l0ntnOtJDbw" title="Introducing LC-1B" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

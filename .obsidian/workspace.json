@@ -11,14 +11,15 @@
             "id": "9f28d8283c6dff2b",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Launch/Launches/057 'Stonehenge' - HASTE.md",
-                "bFile": "Launch/Launches/057 'Stonehenge' - HASTE.md",
-                "aRef": ""
+                "file": "Locations/Launch Complex 2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 057 'Stonehenge' - HASTE"
+              "icon": "lucide-file",
+              "title": "Launch Complex 2"
             }
           }
         ]
@@ -52,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "astrix",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -188,33 +188,34 @@
   },
   "active": "9f28d8283c6dff2b",
   "lastOpenFiles": [
-    "🎙️ Interviews.md",
-    "Launch/Launches/055 'HASTE A La Vista' - HASTE.md",
-    "🚀 Launches.md",
-    "Launch/Launches/057 'Stonehenge' - HASTE.md",
-    "Organization/Partners/Astrix Astronautics.md",
+    "Locations/Launch Complex 1.md",
+    "Locations/Launch Complex 2.md",
+    "Pasted image 20250117182853.jpg",
+    "🙋 People.md",
+    "Organization/People/Lars Hoffman.md",
     "Organization/People/Adam Spice.md",
-    "Organization/People/Peter Beck.md",
-    "Rocket Lab.md",
-    "💼 SEC Filings (2024).md",
-    "🟢 Subsidiaries.md",
-    "README.md",
-    "risk-classification-fact-sheet.pdf",
-    "🤝 Partners.md",
-    "Organization/Partners/Synspective.md",
-    "Space Systems/📦 Payload Types.md",
-    "Launch/Launches/058 'Owl The Way Up' - Electron.md",
-    "🏠 Start Here.md",
-    "💰 Acquisitions.md",
+    "Organization/People/Ben Pappas.md",
+    "Filings/2024/13G+13D/12-05-24 SC 13DA - Peter Beck.md",
     "💼 SEC Filings (All).md",
+    "💼 SEC Filings (2024).md",
+    "🏠 Start Here.md",
+    "🤝 Partners.md",
     "📰 News.md",
-    "🙋‍♂️ People.md",
-    "News/CEO wins Innovator of the Year at 2015 New Zealander of the Year Awards.md",
-    "Filings/2024/Form 4/12-12-24 Form 4 - Edward H. Frank.md",
-    "Organization/Partners/Capella Space.md",
-    "News/Rocket Lab Announces Launch Window for Next Capella Space Mission.md",
-    "News/Rocket Lab Announces Date of First Quarter 2023 Financial Results.md",
+    "🎙️ Interviews.md",
+    "🚀 Launches.md",
     "Organization/Partners/BlackSky.md",
+    "Launch/Launches/035 'The Beat Goes On' - Electron.md",
+    "💰 Acquisitions.md",
+    "✅ To Do List.md",
+    "🏛️ Board of Directors.md",
+    "News/Rocket Lab Selected by NASA to Provide Neutron Launch Services Under VADR Launch Contract.md",
+    "Space Systems/⚖️ NASA Mission and Instrument Risk Classification.md",
+    "Organization/People/Peter Beck.md",
+    "Launch/Launches/051 'Owl For One, One For Owl' - Electron.md",
+    "Locations/Launch Complex 3.md",
+    "Launch/Neutron.md",
+    "Space Systems/Missions/National Security Space Launch (NSSL) Lane 1.md",
+    "risk-classification-fact-sheet.pdf",
     "publish.css",
     "Vault-Assets/Images/Pasted image 20250112153620.jpg",
     "Vault-Assets/Images/Pasted image 20250112153524.jpg",
