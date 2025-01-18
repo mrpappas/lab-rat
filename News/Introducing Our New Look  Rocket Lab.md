@@ -1,4 +1,5 @@
 ---
+
 title: "Introducing Our New Look "
 source: "https://www.rocketlabusa.com/updates/introducing-our-new-look/"
 author:
@@ -7,6 +8,13 @@ published: 2022-02-17
 description: "*Introducing our new look. *"
 
 ---
+
+**Title:** Introducing Our New Look 
+**Source:** https://www.rocketlabusa.com/updates/introducing-our-new-look/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-02-17
+**Description:** *Introducing our new look. *
+
 **Introducing our new look.** 
 
 One of our values at Rocket Lab is to be ever evolving. It’s this mindset that led us to evolving Electron into a reusable rocket. It guided our decision to develop a larger launch vehicle, Neutron, to meet the growing needs of the constellation market. And it underpins our growth strategy to go beyond launch and deliver complete mission solutions as an end-to-end space company.

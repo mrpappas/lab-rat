@@ -1,4 +1,5 @@
 ---
+
 title: Rocket Lab to Expand Colorado Footprint with New Space Systems Complex 
 source: https://www.rocketlabusa.com/updates/rocket-lab-to-expand-colorado-footprint-with-new-space-systems-complex/
 author:
@@ -12,6 +13,15 @@ partner:
 tags:
   - space-systems
 ---
+
+#space-systems
+**Title:** Rocket Lab to Expand Colorado Footprint with New Space Systems Complex
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-expand-colorado-footprint-with-new-space-systems-complex/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-02-02
+**Description:** Surge in customer demand and headcount growth drives expansion that is expected to more than double Rocket Lab’s presence in the nation’s second largest space economy
+**Location:** [[Space Systems Complex - Littleton, CO]]
+**Partner:** [[Advanced Solutions Inc]]
 
 *Surge in customer demand and headcount growth drives expansion that is expected to more than double Rocket Lab’s presence in the nation’s second largest space economy*
 

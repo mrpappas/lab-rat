@@ -1,4 +1,5 @@
 ---
+
 title: BlackSky Signs New Block Buy for Five Rocket Lab Launches  
 source: https://www.rocketlabusa.com/updates/blacksky-signs-new-block-buy-for-five-rocket-lab-launches/
 author:
@@ -11,6 +12,14 @@ tags:
   - electron
   - contract
 ---
+
+#electron #contract
+**Title:** BlackSky Signs New Block Buy for Five Rocket Lab Launches
+**Source:** https://www.rocketlabusa.com/updates/blacksky-signs-new-block-buy-for-five-rocket-lab-launches/
+**Author:** [[Rocket Lab]]
+**Published:** 2023-08-08
+**Description:** *BlackSky purchases another five Electron launches, bringing the total number of Rocket Lab missions contracted by the commercial satellite constellation operator to eleven *
+**Customer:** [[BlackSky]]
 
 Source: https://www.rocketlabusa.com/updates/blacksky-signs-new-block-buy-for-five-rocket-lab-launches/
 

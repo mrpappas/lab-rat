@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Increases Electron Payload Capacity, Enabling Interplanetary Missions and Reusability  "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-increases-electron-payload-capacity-enabling-interplanetary-missions-and-reusability/"
 author:
@@ -8,6 +9,14 @@ description: "*Rocket Lab Increases Electron Payload Capacity, Enabling Interpla
 tags:
  - electron
 ---
+
+#electron
+**Title:** Rocket Lab Increases Electron Payload Capacity, Enabling Interplanetary Missions and Reusability  
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-increases-electron-payload-capacity-enabling-interplanetary-missions-and-reusability/
+**Author:** [[Rocket Lab]]
+**Published:** 2020-08-04
+**Description:** *Rocket Lab Increases Electron Payload Capacity, Enabling Interplanetary Missions and Reusability *
+
 **Rocket Lab Increases Electron Payload Capacity, Enabling Interplanetary Missions and Reusability** 
 
 *Rocket Lab has released additional performance from its Rutherford engines, boosting the payload capacity on the Electron launch vehicle and Photon satellite bus* 

@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Selected to Build Solar Panels for NASA’s CADRE Mobile Robot Program "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-selected-to-build-solar-panels-for-nasas-cadre-mobile-robot-program/"
 author:
@@ -11,6 +12,15 @@ tags:
   - "space-systems"
   - "solar"
 ---
+
+#space-systems #solar
+**Title:** Rocket Lab Selected to Build Solar Panels for NASA’s CADRE Mobile Robot Program 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-selected-to-build-solar-panels-for-nasas-cadre-mobile-robot-program/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-10-14
+**Description:** *Long Beach, Calif. Oct. 14, 2022* – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, today announced it has been selected by NASA’s Jet Propulsion Laboratory (JPL) to supply solar panels that will power NASA’s shoe-box-sized mobile robots as part of the Cooperative Autonomous Distributed Robotic Explorers (CADRE) program.
+**Customer:** [[NASA]]
+**Partner:** [[SolAero Technologies]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-selected-to-build-solar-panels-for-nasas-cadre-mobile-robot-program/
 

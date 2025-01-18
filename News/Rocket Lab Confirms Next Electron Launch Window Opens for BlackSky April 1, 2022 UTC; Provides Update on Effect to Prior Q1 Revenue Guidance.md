@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Confirms Next Electron Launch Window Opens for BlackSky April 1, 2022 UTC; Provides Update on Effect to Prior Q1 Revenue Guidance "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-confirms-next-electron-launch-window-opens-for-blacksky-april-1-2022-utc-provides-update-on-effect-to-prior-q1-revenue-guidance/"
 author:
@@ -13,6 +14,16 @@ tags:
  - electron
  - launch
 ---
+
+#electron #launch
+**Title:** Rocket Lab Confirms Next Electron Launch Window Opens for BlackSky April 1, 2022 UTC; Provides Update on Effect to Prior Q1 Revenue Guidance 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-confirms-next-electron-launch-window-opens-for-blacksky-april-1-2022-utc-provides-update-on-effect-to-prior-q1-revenue-guidance/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-03-24
+**Description:** *Rocket Lab Confirms Next Electron Launch Window Opens for BlackSky April 1, 2022 UTC; Provides Update on Effect to Prior Q1 Revenue Guidance*
+**Customer:** [[BlackSky]]
+**Mission:** [[025 'Without Mission A Beat' - Electron]]
+
 **Rocket Lab Confirms Next Electron Launch Window Opens for BlackSky April 1, 2022 UTC; Provides Update on Effect to Prior Q1 Revenue Guidance**
 
 *Long Beach, California. 24 March 2022* – Rocket Lab USA, Inc (Nasdaq: [RKLB](https://investors.rocketlabusa.com/)) (“Rocket Lab”), a leading launch and space systems company, has today announced the launch window for its next Electron mission, a dedicated mission for BlackSky (NYSE: [BKSY](http://www.blacksky.com/)) through global launch services provider Spaceflight Inc., begins April 1, 2022 UTC.   This launch window opening in April rather than March is weather related and will result in this mission and its related revenue being recognized in Rocket Lab’s fiscal Q2 2022, versus in fiscal Q1 2022 as was previously anticipated at the time Rocket Lab provided Q1 2022 financial guidance in conjunction with its Q4 2021 preliminary earnings release on February 28, 2022.  As a result, Rocket Lab is updating its expected Q1 2022 revenue outlook from the range of $42 million to $47 million previously provided on February 28, 2022, to approximately $40 million.

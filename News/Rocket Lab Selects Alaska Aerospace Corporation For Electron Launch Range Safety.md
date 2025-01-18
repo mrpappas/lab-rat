@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Selects Alaska Aerospace Corporation For Electron Launch Range Safety"
 source: "https://www.rocketlabusa.com/updates/rocket-lab-selects-alaska-aerospace-corporation-for-electron-launch-range-safety/"
 author:
@@ -10,6 +11,14 @@ partner:
 tags:
  - electron
 ---
+
+#electron
+**Title:** Rocket Lab Selects Alaska Aerospace Corporation For Electron Launch Range Safety
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-selects-alaska-aerospace-corporation-for-electron-launch-range-safety/
+**Author:** [[Rocket Lab]]
+**Published:** 2015-11-30
+**Description:** Rocket Lab announced they have selected Alaska Aerospace Corporation (AAC) to provide range safety support for their upcoming Electron launches in 2016. AAC’s core business area is space launch. It developed, owns, and operates the Pacific Spaceport Complex – Alaska (PSCA), a state-of-the-industry spaceport that provides access to planetary orbital space for commercial and government customers.
+**Partner:** [[Alaska Aerospace Corporation]]
 
 Rocket Lab announced they have selected Alaska Aerospace Corporation (AAC) to provide range safety support for their upcoming Electron launches in 2016.  AAC’s core business area is space launch. It developed, owns, and operates the Pacific Spaceport Complex – Alaska (PSCA), a state-of-the-industry spaceport that provides access to planetary orbital space for commercial and government customers.
 

@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Selected to Launch NASA’s Advanced Composite Solar Sail System "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-selected-to-launch-nasas-advanced-composite-solar-sail-system/"
 author:
@@ -13,6 +14,16 @@ tags:
  - contract
  - electron
 ---
+
+#contract #electron
+**Title:** Rocket Lab Selected to Launch NASA’s Advanced Composite Solar Sail System 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-selected-to-launch-nasas-advanced-composite-solar-sail-system/
+**Author:** [[Rocket Lab]]
+**Published:** 2021-10-06
+**Description:** *Rocket Lab Selected to Launch NASA’s Advanced Composite Solar Sail System*
+**Customer:** [[NASA]]
+**Mission:** [[047 'Beginning Of The Swarm' - Electron]]
+
 **Rocket Lab Selected to Launch NASA’s Advanced Composite Solar Sail System**
 
 *The Electron rocket will deploy an innovative satellite designed to test new deployable structures and materials technologies for solar sail propulsion systems, paving the way for sunlight to power future deep space exploration*

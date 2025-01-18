@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab to Launch Climate Change Research Mission Focused on Arctic Ice Caps for NASA "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-to-launch-climate-change-research-mission-focused-on-arctic-ice-caps-for-nasa/"
 author:
@@ -13,6 +14,16 @@ tags:
   - "contract"
   - "electron"
 ---
+
+#contract #electron
+**Title:** Rocket Lab to Launch Climate Change Research Mission Focused on Arctic Ice Caps for NASA 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-launch-climate-change-research-mission-focused-on-arctic-ice-caps-for-nasa/
+**Author:** [[Rocket Lab]]
+**Published:** 2023-08-14
+**Description:** Across two Electron launches in 2024, Rocket Lab will deploy NASA’s PREFIRE mission to study naturally occurring radiation at the Arctic to better understand its impact on melting glaciers, sea ice, clouds and water, and climate modelling and forecasting.
+**Customer:** [[NASA]]
+**Mission:** [[048 'Ready, Aim, Prefire' - Electron]], [[049 'PREFIRE and ICE' - Electron]]
+
 *Across two Electron launches in 2024, Rocket Lab will deploy NASA’s PREFIRE mission to study naturally occurring radiation at the Arctic to better understand its impact on melting glaciers, sea ice, clouds and water, and climate modelling and forecasting.*
 
 **Long Beach, California. August 14, 2023.** – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced it has signed a double-launch deal with NASA to deliver the Agency’s climate change research-focused mission, PREFIRE, to low Earth orbit in 2024.

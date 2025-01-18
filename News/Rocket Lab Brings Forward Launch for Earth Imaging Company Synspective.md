@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Brings Forward Launch for Earth Imaging Company Synspective "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-brings-forward-launch-for-earth-imaging-company-synspective/"
 author:
@@ -13,6 +14,16 @@ tags:
  - electron
  - launch
 ---
+
+#electron #launch
+**Title:** Rocket Lab Brings Forward Launch for Earth Imaging Company Synspective 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-brings-forward-launch-for-earth-imaging-company-synspective/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-02-09
+**Description:** The mission is the first of three upcoming dedicated Electron launches for Synspective and demonstrates Rocket Lab’s flexible and responsive launch capability.
+**Customer:** [[Synspective]]
+**Mission:** [[024 'The Owl's Night Continues' - Electron]]
+
 *The mission is the first of three upcoming dedicated Electron launches for [[Synspective]] and demonstrates Rocket Lab’s flexible and responsive launch capability.*
 
 **Long Beach, California. February 9, 2021.** Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced the launch window for a dedicated Electron mission for Japanese Earth imaging company [[Synspective]]. The 14-day launch window opens February 28th NZT and will lift-off from Rocket Lab’s Launch Complex 1 in New Zealand. Originally slated to launch after Rocket Lab’s next mission for another customer, Rocket Lab has brought the Synspective mission forward in the manifest to accommodate shifts in customer timelines.

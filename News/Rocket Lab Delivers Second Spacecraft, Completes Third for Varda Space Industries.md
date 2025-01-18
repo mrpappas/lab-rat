@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Delivers Second Spacecraft, Completes Third for Varda Space Industries "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-delivers-second-spacecraft-completes-third-for-varda-space-industries/"
 author:
@@ -9,6 +10,14 @@ customer: "[[Varda Space Industries]]"
 tags:
   - "space-systems"
 ---
+
+#space-systems
+**Title:** Rocket Lab Delivers Second Spacecraft, Completes Third for Varda Space Industries 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-delivers-second-spacecraft-completes-third-for-varda-space-industries/
+**Author:** [[Rocket Lab]]
+**Published:** 2024-12-17
+**Description:** *Long Beach, Calif. December 17, 2024* – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, has successfully delivered its second Pioneer spacecraft to Vandenberg Space Force Base and completed production and testing of a third for Varda Space Industries, Inc. (“Varda”), the world's first orbital pharmaceutical processing and hypersonic Earth re-entry logistics company.
+**Customer:** [[Varda Space Industries]]
 
 **Source**: https://www.rocketlabusa.com/updates/rocket-lab-delivers-second-spacecraft-completes-third-for-varda-space-industries/
 
@@ -26,5 +35,4 @@ Rocket Lab’s ability to complete production and testing of a third spacecraft 
 
 "This mission is another step toward high cadence reentry," said Varda CEO and co-founder Will Bruey. "Soon, reentry will be as common as launch."
 
-Learn more about Rocket Lab’s spacecraft for Varda: [Varda Space Industries  (rocketlabusa.com)](https://www.rocketlabusa.com/missions/upcoming-missions/varda-space-industries/) 
-
+Learn more about Rocket Lab’s spacecraft for Varda: [Varda Space Industries  (rocketlabusa.com)](https://www.rocketlabusa.com/missions/upcoming-missions/varda-space-industries/)

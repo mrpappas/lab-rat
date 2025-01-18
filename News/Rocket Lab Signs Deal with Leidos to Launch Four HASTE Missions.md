@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Signs Deal with Leidos to Launch Four HASTE Missions  "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-signs-deal-with-leidos-to-launch-four-haste-missions/"
 author:
@@ -10,6 +11,14 @@ tags:
   - "contract"
   - "HASTE"
 ---
+
+#contract #HASTE
+**Title:** Rocket Lab Signs Deal with Leidos to Launch Four HASTE Missions  
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-signs-deal-with-leidos-to-launch-four-haste-missions/
+**Author:** [[Rocket Lab]]
+**Published:** 2023-09-12
+**Description:** *The four new missions follow on from the success of Rocket Lab’s first HASTE launch for Leidos in June this year*
+**Customer:** [[Leidos]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-signs-deal-with-leidos-to-launch-four-haste-missions/
 

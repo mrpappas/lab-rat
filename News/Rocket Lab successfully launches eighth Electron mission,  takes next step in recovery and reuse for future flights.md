@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab successfully launches eighth Electron mission,  takes next step in recovery and reuse for future flights "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-eighth-electron-mission-takes-next-step-in-recovery-and-reuse-for-future-flights/"
 author:
@@ -15,6 +16,16 @@ tags:
  - electron
  - launch
 ---
+
+#electron #launch
+**Title:** Rocket Lab successfully launches eighth Electron mission,  takes next step in recovery and reuse for future flights 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-eighth-electron-mission-takes-next-step-in-recovery-and-reuse-for-future-flights/
+**Author:** [[Rocket Lab]]
+**Published:** 2019-08-20
+**Description:** *The successful mission brings the total count of satellites deployed by Rocket Lab to 39 and continues the company’s record of 100% mission success for customers*
+**Customer:** [[BlackSky]], [[U.S. Air Force]], [[Unseenlabs]]
+**Mission:** [[008 'Look Ma, No Hands' - Electron]]
+
 **The successful mission brings the total count of satellites deployed by Rocket Lab to 39 and continues the company’s record of 100% mission success for customers**
 
 **Māhia Peninsula, New Zealand. 20 August 2019** – A Rocket Lab Electron launch vehicle successfully lifted off from Launch Complex 1 on New Zealand’s Māhia Peninsula at 12:12 am, 20 August 2019 NZST (12:12 pm, 19 August 2019 UTC). The mission, named ‘Look Ma, No Hands,’ included the first satellite in a new maritime surveillance constellation for UNSEENLABS. The launch also saw satellites deployed for rideshare provider Spaceflight, including the BlackSky Global-4 satellite and two United States Air Force technology demonstrators.

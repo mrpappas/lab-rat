@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab’s Electron Launch Vehicle Certified by NASA  "
 source: "https://www.rocketlabusa.com/updates/rocket-labs-electron-launch-vehicle-certified-by-nasa/"
 author:
@@ -10,6 +11,15 @@ customer:
 tags:
  - electron
 ---
+
+#electron
+**Title:** Rocket Lab’s Electron Launch Vehicle Certified by NASA  
+**Source:** https://www.rocketlabusa.com/updates/rocket-labs-electron-launch-vehicle-certified-by-nasa/
+**Author:** [[Rocket Lab]]
+**Published:** 2020-03-17
+**Description:** *Rocket Lab’s Electron Launch Vehicle Certified by NASA *
+**Customer:** [[NASA]]
+
 **Rocket Lab’s Electron Launch Vehicle Certified by NASA** 
 
 *The certification enables NASA to launch small satellites on Electron, providing confidence for the nation’s low-cost science, research and exploration payloads*

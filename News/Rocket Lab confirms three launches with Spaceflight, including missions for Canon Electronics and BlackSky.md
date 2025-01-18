@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab confirms three launches with Spaceflight, including missions for Canon Electronics and BlackSky "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-confirms-three-launches-with-spaceflight-including-missions-for-canon-electronics-and-blacksky/"
 author:
@@ -13,6 +14,15 @@ tags:
  - electron
  - contract
 ---
+
+#electron #contract
+**Title:** Rocket Lab confirms three launches with Spaceflight, including missions for Canon Electronics and BlackSky 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-confirms-three-launches-with-spaceflight-including-missions-for-canon-electronics-and-blacksky/
+**Author:** [[Rocket Lab]]
+**Published:** 2018-06-11
+**Description:** *Rocket Lab confirms three launches with Spaceflight, including missions for Canon Electronics and BlackSky*
+**Customer:** [[Spaceflight]], [[Canon Electronics]], [[BlackSky]]
+
 **Rocket Lab confirms three launches with Spaceflight, including missions for Canon Electronics and BlackSky**
 
 Huntington Beach, California, 11 June 2018:

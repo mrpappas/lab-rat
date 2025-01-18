@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab to Launch Finnish Satellite Developing Next-Generation Space Junk Removal Technologies "
 source: "https://www.rocketlabusa.com/updates/new-blog-post-6/"
 author:
@@ -13,6 +14,16 @@ tags:
  - electron
  - contract
 ---
+
+#electron #contract
+**Title:** Rocket Lab to Launch Finnish Satellite Developing Next-Generation Space Junk Removal Technologies 
+**Source:** https://www.rocketlabusa.com/updates/new-blog-post-6/
+**Author:** [[Rocket Lab]]
+**Published:** 2021-08-16
+**Description:** AuroraSat-1 will test spacecraft hardware developed for sustainable space use including water-based propulsion jets and plasma brakes
+**Customer:** [[Aurora Propulsion Technologies]]
+**Mission:** [[026 'There And Back Again' - Electron]]
+
 AuroraSat-1 will test spacecraft hardware developed for sustainable space use including water-based propulsion jets and plasma brakes
 
 Long Beach, California. August 16, 2021 – Rocket Lab, a leading launch provider and space systems company, has today announced it will launch a satellite to test space junk removal technologies for Aurora Propulsion Technologies, a Finnish company dedicated to the sustainable use of space.

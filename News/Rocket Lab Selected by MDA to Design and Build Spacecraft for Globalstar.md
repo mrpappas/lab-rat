@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Selected by MDA to Design and Build Spacecraft for Globalstar "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-selected-by-mda-to-design-and-build-spacecraft-for-globalstar/"
 author:
@@ -13,6 +14,15 @@ mission:
 tags:
  - space-systems
 ---
+
+#space-systems
+**Title:** Rocket Lab Selected by MDA to Design and Build Spacecraft for Globalstar 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-selected-by-mda-to-design-and-build-spacecraft-for-globalstar/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-02-24
+**Description:** *Rocket Lab Selected by MDA to Design and Build Spacecraft for Globalstar*
+**Customer:** [[MDA]], [[Globalstar]]
+**Mission:** [[Globalstar (MDA) Satellite Buses]]
 
 **Rocket Lab Selected by MDA to Design and Build Spacecraft for Globalstar**
 
@@ -31,4 +41,3 @@ All 17 of the 500kg spacecraft will be designed and manufactured at Rocket Lab�
 The contract is the result of a very detailed and highly competitive bid and evaluation process and Rocket Lab is honoured to have been selected by MDA. We believe Rocket Lab’s proposal met MDA’s and Globalstar’s stringent technical and schedule requirements, offered efficiencies through Rocket Lab’s high level of vertical integration, and that there is also strong cultural and operational alignment between the companies to deliver innovation and agility in today’s satellite market.
 
 Rocket Lab’s suite of spacecraft components and subsystems include reaction wheels, star trackers, space solar power, radios, flight software, ground software, and separation systems. More than 1,000 spacecraft globally have successfully flown with hardware from Rocket Lab and the four companies it has acquired since 2020.
-

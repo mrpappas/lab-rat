@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Successfully Launches 15th Mission, Deploys Satellites for Planet, Canon Electronics Inc. "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-15th-mission-deploys-satellites-for-planet-canon-electronics-inc/"
 author:
@@ -15,6 +16,16 @@ tags:
  - electron
  - launch
 ---
+
+#electron #launch
+**Title:** Rocket Lab Successfully Launches 15th Mission, Deploys Satellites for Planet, Canon Electronics Inc. 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-15th-mission-deploys-satellites-for-planet-canon-electronics-inc/
+**Author:** [[Rocket Lab]]
+**Published:** 2020-10-29
+**Description:** *Mahia, New Zealand. 29 October 2020* – Rocket Lab, a space systems company and the global leader in dedicated small satellite launch, has successfully launched its 15th Electron mission and deployed Earth-imaging satellites for Planet and Spaceflight Inc. customer Canon Electronics. The mission was Rocket Lab’s fifth for this year, making Electron the second-most frequently flown U.S. launch vehicle in 2020.
+**Customer:** [[Planet Labs]], [[Spaceflight]], [[Canon Electronics]]
+**Mission:** [[015 'In Focus' - Electron]]
+
 **Mahia, New Zealand. 29 October 2020** – Rocket Lab, a space systems company and the global leader in dedicated small satellite launch, has successfully launched its 15<sup>th</sup> Electron mission and deployed Earth-imaging satellites for Planet and Spaceflight Inc. customer Canon Electronics. The mission was Rocket Lab’s fifth for this year, making Electron the second-most frequently flown U.S. launch vehicle in 2020.
 
 The ‘In Focus’ mission launched from Rocket Lab Launch Complex 1 on New Zealand’s Māhia Peninsula at 21:21 UTC, 28 October 2020. The Electron launch vehicle successfully deployed ten commercial small satellites to a 500km circular orbit, bringing the total number of payloads deployed by Rocket Lab to 65. 

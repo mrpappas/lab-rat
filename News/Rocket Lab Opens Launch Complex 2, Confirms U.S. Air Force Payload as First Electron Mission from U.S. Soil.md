@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Opens Launch Complex 2, Confirms U.S. Air Force Payload as First Electron Mission from U.S. Soil "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-opens-launch-complex-2-confirms-u-s-air-force-payload-as-first-electron-mission-from-u-s-soil/"
 author:
@@ -11,6 +12,16 @@ location: "[[Launch Complex 2]]"
 tags:
  - electron
 ---
+
+#electron
+**Title:** Rocket Lab Opens Launch Complex 2, Confirms U.S. Air Force Payload as First Electron Mission from U.S. Soil 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-opens-launch-complex-2-confirms-u-s-air-force-payload-as-first-electron-mission-from-u-s-soil/
+**Author:** [[Rocket Lab]]
+**Published:** 2019-12-12
+**Description:** Scheduled for lift-off in Q2 2020, the mission will be Rocket Lab’s first launch from U.S. soil
+**Customer:** [[U.S. Air Force]]
+**Location:** [[Launch Complex 2]]
+
 *Scheduled for lift-off in Q2 2020, the mission will be Rocket Lab’s first launch from U.S. soil* 
 
 **Launch Complex 2, Wallops Flight Facility, Virginia**. – Rocket Lab, the global leader in small satellite launch, has today officially opened Launch Complex 2, the company’s first U.S. launch site, and confirmed the inaugural mission from the site will be a dedicated flight for the U.S. Air Force.

@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Granted Air Force Research Lab Award to Showcase Digital Engineering with New Archimedes Rocket Engine "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-granted-air-force-research-lab-award-to-showcase-digital-engineering-with-new-archimedes-rocket-engine/"
 author:
@@ -10,6 +11,14 @@ tags:
   - "neutron"
   - "award"
 ---
+
+#neutron #award
+**Title:** Rocket Lab Granted Air Force Research Lab Award to Showcase Digital Engineering with New Archimedes Rocket Engine 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-granted-air-force-research-lab-award-to-showcase-digital-engineering-with-new-archimedes-rocket-engine/
+**Author:** [[Rocket Lab]]
+**Published:** 2024-11-12
+**Description:** The federal defense contract will see Rocket Lab collaborate with AFRL on advanced digital engineering processes for the Archimedes engine, a critical integration for National Security Space Launch.
+**Customer:** [[U.S. Air Force]]
 
 **Source**: https://www.rocketlabusa.com/updates/rocket-lab-granted-air-force-research-lab-award-to-showcase-digital-engineering-with-new-archimedes-rocket-engine/
 
@@ -32,4 +41,3 @@ Other Department of Defense agreements in place that support Neutron’s develop
 The Archimedes engine is an oxidizer-rich staged combustion cycle engine that will power the reusable first stage of Neutron and the new rocket’s second stage that is designed to carry up to 13,000 kilograms of payload to space. Capable of producing up to 165,000 (733 kilonewtons) pounds of thrust per engine, Archimedes operates at lower stress levels than other rocket engines to enable rapid and reliable reusability.  The combined thrust of nine Archimedes engines for Neutron’s first stage is designed to reach 1,450,000 lbf total. Archimedes uses a cryogenic propellant mix of liquid oxygen and methane to enable higher reusability and performance, and many of its critical components are 3D printed including Archimedes’ turbo pump housings, pre-burner and main chamber components, valve housings, and engine structural components.
 
 The Archimedes engine will power Rocket Lab’s new reusable medium-lift rocket Neutron, a next-generation challenger to deliver a cost-effective, reliable, and responsive launch service for commercial and government missions. The advanced design of Neutron includes carbon composite for all of the rocket’s major structures and an innovative upper stage that enables high-performance for complex satellite deployments, including the deployment of satellite mega-constellations.
-

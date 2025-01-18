@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab to Launch Dedicated Mission for Japanese Space Industry Start-up Company Synspective "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-to-launch-dedicated-mission-for-japanese-space-industry-start-up-company-synspective/"
 author:
@@ -13,6 +14,16 @@ tags:
  - electron
  - contract
 ---
+
+#electron #contract
+**Title:** Rocket Lab to Launch Dedicated Mission for Japanese Space Industry Start-up Company Synspective 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-launch-dedicated-mission-for-japanese-space-industry-start-up-company-synspective/
+**Author:** [[Rocket Lab]]
+**Published:** 2020-04-14
+**Description:** *Rocket Lab to Launch Dedicated Mission for Japanese Space Industry Start-up Company Synspective*
+**Customer:** [[Synspective]]
+**Mission:** [[017 'The Owl's Night Begins' - Electron]]
+
 **Rocket Lab to Launch Dedicated Mission for Japanese Space Industry Start-up Company Synspective**
 
 *The mission will launch the first satellite of Synspective’s StriX constellation which will provide commercially available Earth-observation data*  

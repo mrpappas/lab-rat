@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab’s Next Mission to Launch Satellites for NASA, NRO and the University of New South Wales "
 source: "https://www.rocketlabusa.com/updates/media-release-rocket-labs-next-mission-to-launch-satellites-for-nasa-nro-and-the-university-of-new-south-wales/"
 author:
@@ -16,6 +17,16 @@ tags:
  - electron
  - launch
 ---
+
+#electron #launch
+**Title:** Rocket Lab’s Next Mission to Launch Satellites for NASA, NRO and the University of New South Wales 
+**Source:** https://www.rocketlabusa.com/updates/media-release-rocket-labs-next-mission-to-launch-satellites-for-nasa-nro-and-the-university-of-new-south-wales/
+**Author:** [[Rocket Lab]]
+**Published:** 2020-03-09
+**Description:** *Rocket Lab’s Next Mission to Launch Satellites for NASA, NRO and the University of New South Wales*
+**Customer:** [[Boston University]], [[NASA]], [[National Reconnaissance Office (NRO)]], [[UNSW Canberra Space]]
+**Mission:** [[012 'Don't Stop Me Now' - Electron]]
+
 **Rocket Lab’s Next Mission to Launch Satellites for NASA, NRO and the University of New South Wales**
 
 *Rocket Lab’s next rideshare mission will enable university research into Earth’s magnetic field, support the testing of new smallsat communications architecture and demonstrate a streamlined, commercial approach for getting government small satellites into space.*

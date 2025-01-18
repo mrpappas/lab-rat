@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Provides First Half 2021 Financial Results Update "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-provides-first-half-2021-financial-results-update/"
 author:
@@ -6,6 +7,13 @@ author:
 published: 2021-09-08
 description: "Revenue of $29.5M, representing 237% Year-on-Year revenue growth, accompanied by an expansion in gross margins from negative 67% to a positive 13%."
 ---
+
+**Title:** Rocket Lab Provides First Half 2021 Financial Results Update 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-provides-first-half-2021-financial-results-update/
+**Author:** [[Rocket Lab]]
+**Published:** 2021-09-08
+**Description:** Revenue of $29.5M, representing 237% Year-on-Year revenue growth, accompanied by an expansion in gross margins from negative 67% to a positive 13%.
+
 - Revenue of $29.5M, representing 237% Year-on-Year revenue growth, accompanied by an expansion in gross margins from negative 67% to a positive 13%.
 - Increasing diversity in revenue, with Space Systems contributing 18% of total revenue in the period, compared to 3% in the prior year, accompanied with gross margins of 65%.
 - Backlog grew 136% Year-on-Year to $141.4 million as of June 30, 2021 as compared to backlog of $59.9 million as of June 30, 2020.
@@ -34,4 +42,3 @@ description: "Revenue of $29.5M, representing 237% Year-on-Year revenue growth, 
 **Conference Call Information**
 
 Rocket Lab will host a conference call for investors at 1:30 p.m. PT (4:30 p.m. ET) today to discuss these business highlights and financial results, and to provide our outlook for the third quarter ending September 30, 2021, fourth quarter ending December 31, 2021, and other updates. The live webcast and a replay of the webcast will be available on Rocket Lab’s Investor Relations website: [https://investors.rocketlabusa.com/events-and-presentations/events](https://cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Finvestors.rocketlabusa.com%2Fevents-and-presentations%2Fevents&esheet=52488270&newsitemid=20210908006048&lan=en-US&anchor=https%3A%2F%2Finvestors.rocketlabusa.com%2Fevents-and-presentations%2Fevents&index=1&md5=5cf9c106e33bf31089ca9dd19a9e87bb)
-

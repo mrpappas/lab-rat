@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Unveils Plans for New 8-Ton Class Reusable Rocket for Mega-Constellation Deployment "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-unveils-plans-for-new-8-ton-class-reusable-rocket-for-mega-constellation-deployment/"
 author:
@@ -8,6 +9,14 @@ description: "*Rocket Lab Unveils Plans for New 8-Ton Class Reusable Rocket for 
 tags:
  - neutron
 ---
+
+#neutron
+**Title:** Rocket Lab Unveils Plans for New 8-Ton Class Reusable Rocket for Mega-Constellation Deployment 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-unveils-plans-for-new-8-ton-class-reusable-rocket-for-mega-constellation-deployment/
+**Author:** [[Rocket Lab]]
+**Published:** 2021-03-01
+**Description:** *Rocket Lab Unveils Plans for New 8-Ton Class Reusable Rocket for Mega-Constellation Deployment*
+
 **Rocket Lab Unveils Plans for New 8-Ton Class Reusable Rocket for Mega-Constellation Deployment**
 
 *The advanced new rocket, Neutron, will transform space access by delivering reliable and cost-effective launch services for satellite mega-constellations, deep space missions and human spaceflight* 

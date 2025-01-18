@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab signs contract to launch first satellites for Kleos Space constellation "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-signs-contract-to-launch-first-satellites-for-kleos-space-constellation/"
 author:
@@ -11,6 +12,15 @@ tags:
  - electron
  - contract
 ---
+
+#electron #contract
+**Title:** Rocket Lab signs contract to launch first satellites for Kleos Space constellation 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-signs-contract-to-launch-first-satellites-for-kleos-space-constellation/
+**Author:** [[Rocket Lab]]
+**Published:** 2018-09-19
+**Description:** *Luxembourg and Huntington Beach, California. 19 September 2018.* US orbital launch provider Rocket Lab has signed a contract with Luxembourg-based satellite technology company Kleos Space to launch scouting mission satellites that will geolocate maritime radio to guard borders, protect assets and save lives.
+**Customer:** [[Kleos Space]]
+
 Luxembourg and Huntington Beach, California. 19 September 2018. US orbital launch provider Rocket Lab has signed a contract with Luxembourg-based satellite technology company Kleos Space to launch scouting mission satellites that will geolocate maritime radio to guard borders, protect assets and save lives.
 
 The Kleos Scouting Mission (KSM) will form the cornerstones of a 20-system constellation that will geolocate VHF transmissions from marine vessels to provide global activity-based intelligence data as a service. The Kleos Space constellation will detect radio transmissions and pinpoint their origin and timing, enabling governments and organizations to detect activity such as drug and people smuggling, illegal fishing and piracy, and also identify those in need of search and rescue at sea. 

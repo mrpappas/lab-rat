@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Partners With KSAT To Streamline Satellite Communications for Customers with Upgraded Ground Station Service "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-partners-with-ksat-to-streamline-satellite-communications-for-customers-with-upgraded-ground-station-service/"
 author:
@@ -8,6 +9,13 @@ description: "The new ground station service streamlines operations for Rocket L
 partner: "[[KSAT]]"
 
 ---
+
+**Title:** Rocket Lab Partners With KSAT To Streamline Satellite Communications for Customers with Upgraded Ground Station Service 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-partners-with-ksat-to-streamline-satellite-communications-for-customers-with-upgraded-ground-station-service/
+**Author:** [[Rocket Lab]]
+**Published:** 2024-08-06
+**Description:** The new ground station service streamlines operations for Rocket Lab customers’ across a wide variety of missions – from satellite deorbit and re-entry missions to launches on Neutron for interplanetary missions.
+**Partner:** [[KSAT]]
 
 **Source**: https://www.rocketlabusa.com/updates/rocket-lab-partners-with-ksat-to-streamline-satellite-communications-for-customers-with-upgraded-ground-station-service/
 

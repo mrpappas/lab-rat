@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Adds New Mission to 2024 Launch Manifest, Schedules Launch in Coming Days "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-adds-new-mission-to-2024-launch-manifest-schedules-launch-in-coming-days/"
 author:
@@ -11,6 +12,15 @@ tags:
   - "launch"
   - "electron"
 ---
+
+#launch #electron
+**Title:** Rocket Lab Adds New Mission to 2024 Launch Manifest, Schedules Launch in Coming Days 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-adds-new-mission-to-2024-launch-manifest-schedules-launch-in-coming-days/
+**Author:** [[Rocket Lab]]
+**Published:** 2024-10-16
+**Description:** The introduction of this latest mission to Electron’s 2024 launch manifest, less than two months since the launch contract was signed, represents Rocket Lab’s fastest contract-to-launch turnaround ever.
+**Customer:** [[E-Space]]
+**Mission:** [[054 'Changes In Latitudes, Changes In Attitudes' - Electron]]
 
 **Source**: https://www.rocketlabusa.com/updates/rocket-lab-adds-new-mission-to-2024-launch-manifest-schedules-launch-in-coming-days/
 
@@ -27,4 +37,3 @@ The mission will be Rocket Lab’s 12th launch of 2024, increasing the Company�
 Rocket Lab Founder and CEO, Sir Peter Beck says: “Electron delivers what other rockets and rideshare programs can’t: a dedicated and responsive launch service that is tailored to each customer’s specific needs, allowing them to launch to precisely where they want and when they want on incredibly short notice. This quick turnaround from contract to launch is not only a showcase of Electron’s capability, but also of the relentless and fast-paced execution by the experienced team behind it that continues to deliver trusted and reliable access to space for our customers.”
 
 The launch will broadcast live at [www.rocketlabusa.com/live-stream](https://cts.businesswire.com/ct/CT?id=smartlink&url=http%3A%2F%2Fwww.rocketlabusa.com%2Flive-stream&esheet=54136802&lan=en-US&anchor=www.rocketlabusa.com%2Flive-stream&index=1&md5=9c58c738950d3b770d94ee09131cab6a). For launch updates, follow Rocket Lab across its social media profiles.
-

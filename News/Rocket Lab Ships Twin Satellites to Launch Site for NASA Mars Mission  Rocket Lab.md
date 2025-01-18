@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Ships Twin Satellites to Launch Site for NASA Mars Mission "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-ships-twin-satellites-to-launch-site-for-nasa-mars-mission/"
 author:
@@ -10,6 +11,15 @@ mission: "[[ESCAPADE]]"
 tags:
   - "space-systems"
 ---
+
+#space-systems
+**Title:** Rocket Lab Ships Twin Satellites to Launch Site for NASA Mars Mission 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-ships-twin-satellites-to-launch-site-for-nasa-mars-mission/
+**Author:** [[Rocket Lab]]
+**Published:** 2024-08-16
+**Description:** Long Beach, Calif. August 16, 2024– Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, has successfully packed and shipped two Mars-bound spacecraft to Cape Canaveral, FL in preparation for launch. These twin spacecraft for the Escape and Plasma Acceleration and Dynamics Explorers (ESCAPADE) heliophysics mission were designed, built, integrated, and tested by Rocket Lab for the University of California Berkeley’s Space Science Laboratory and NASA.
+**Customer:** [[NASA]]
+**Mission:** [[ESCAPADE]]
 
 **Source**: https://www.rocketlabusa.com/updates/rocket-lab-ships-twin-satellites-to-launch-site-for-nasa-mars-mission/
 
@@ -28,4 +38,3 @@ Once launched, the ESCAPADE mission will measure plasma and magnetic fields arou
 Images :  [https://www.flickr.com/photos/rocketlab/albums/72177720319488550](https://www.flickr.com/photos/rocketlab/albums/72177720319488550)
 
 More info:  [https://www.rocketlabusa.com/missions/escapade/](https://www.rocketlabusa.com/missions/escapade/)
-

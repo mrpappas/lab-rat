@@ -1,4 +1,5 @@
 ---
+
 title: "Opening up access to science education:  Rocket Lab scholarship applications now open "
 source: "https://www.rocketlabusa.com/updates/opening-up-access-to-science-education-rocket-lab-scholarship-applications-now-open/"
 author:
@@ -6,6 +7,13 @@ author:
 published: 2019-07-28
 description: "Hawke’s Bay students interested in becoming innovators, scientists, and engineers, are being offered the opportunity to pursue STEM education thanks to Rocket Lab’s 2019 tertiary scholarship."
 ---
+
+**Title:** Opening up access to science education:  Rocket Lab scholarship applications now open 
+**Source:** https://www.rocketlabusa.com/updates/opening-up-access-to-science-education-rocket-lab-scholarship-applications-now-open/
+**Author:** [[Rocket Lab]]
+**Published:** 2019-07-28
+**Description:** Hawke’s Bay students interested in becoming innovators, scientists, and engineers, are being offered the opportunity to pursue STEM education thanks to Rocket Lab’s 2019 tertiary scholarship.
+
 Hawke’s Bay students interested in becoming innovators, scientists, and engineers, are being offered the opportunity to pursue STEM education thanks to Rocket Lab’s 2019 tertiary scholarship.
 
 Applications are now open for the annual Rocket Lab Scholarship, which offers $20,000 across four years of study one outstanding undergraduate student each year. The scholarship also provides students with hands-on mentorship towards the end of their degree from leading space and engineering experts at Rocket Lab.

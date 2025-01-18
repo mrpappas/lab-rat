@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Completes Post-Flight Analysis for Electron 'Its a Test'  "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-completes-post-flight-analysis/"
 author:
@@ -12,6 +13,16 @@ tags:
  - electron
  - launch
 ---
+
+#electron #launch
+**Title:** Rocket Lab Completes Post-Flight Analysis for Electron 'Its a Test'  
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-completes-post-flight-analysis/
+**Author:** [[Rocket Lab]]
+**Published:** 2017-08-07
+**Description:** Rocket Lab has completed an internal review of data from its May 25 test flight of its Electron rocket. The review found the launch had to be terminated due to an independent contractor’s ground equipment issue, rather than an issue with the rocket. Rocket Lab’s investigation board has identified the root causes and corrective actions.
+**Customer:** n/a
+**Mission:** [[001 'It's a Test' - Electron]]
+
 Rocket Lab has completed an internal review of data from its May 25 test flight of its Electron rocket. The review found the launch had to be terminated due to an independent contractor’s ground equipment issue, rather than an issue with the rocket. Rocket Lab’s investigation board has identified the root causes and corrective actions.
 
 The Federal Aviation Administration, the primary body responsible for licensing the launch, has overseen Rocket Lab’s comprehensive investigation and will review the findings.

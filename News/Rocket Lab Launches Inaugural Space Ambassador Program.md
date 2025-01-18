@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Launches Inaugural Space Ambassador Program  "
 source: "https://www.rocketlabusa.com/updates/new-blog-post-4/"
 author:
@@ -7,6 +8,13 @@ published: 2021-07-08
 description: "*Rocket Lab Launches Inaugural Space Ambassador Program*"
 
 ---
+
+**Title:** Rocket Lab Launches Inaugural Space Ambassador Program  
+**Source:** https://www.rocketlabusa.com/updates/new-blog-post-4/
+**Author:** [[Rocket Lab]]
+**Published:** 2021-07-08
+**Description:** *Rocket Lab Launches Inaugural Space Ambassador Program*
+
 Rocket Lab Launches Inaugural Space Ambassador Program 
 
 Rocket Lab is backing the next generation of Kiwi space experts with nationwide education tour

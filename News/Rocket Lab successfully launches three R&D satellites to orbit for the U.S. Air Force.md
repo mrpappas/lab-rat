@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab successfully launches three R&D satellites to orbit for the U.S. Air Force "
 source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-three-r-and-d-satellites-to-orbit-for-the-u-s-air-force/
 author:
@@ -14,6 +15,16 @@ tags:
   - electron
   - launch
 ---
+
+#electron #launch
+**Title:** Rocket Lab successfully launches three R&D satellites to orbit for the U.S. Air Force 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-three-r-and-d-satellites-to-orbit-for-the-u-s-air-force/
+**Author:** [[Rocket Lab]]
+**Published:** 2019-05-05
+**Description:** *Rocket Lab successfully launches three R&amp;D satellites to orbit for the U.S. Air Force*
+**Customer:** [[U.S. Air Force]], [[York Space Systems]]
+**Mission:** [[006 'STP-27RD' - Electron]]
+
 **Rocket Lab successfully launches three R&D satellites to orbit for the U.S. Air Force**
 
 The launch took place just five weeks after Rocket Lab’s last orbital mission, demonstrating the company’s ability to provide rapid, responsive space access for government payloads.

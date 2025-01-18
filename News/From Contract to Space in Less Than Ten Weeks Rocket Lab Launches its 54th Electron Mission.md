@@ -1,4 +1,5 @@
 ---
+
 title: "From Contract to Space in Less Than Ten Weeks: Rocket Lab Launches its 54th Electron Mission "
 source: "https://www.rocketlabusa.com/updates/from-contract-to-space-in-less-than-ten-weeks-rocket-lab-launches-its-54th-electron-mission/"
 author:
@@ -12,6 +13,15 @@ tags:
   - "electron"
   - "contract"
 ---
+
+#launch #electron #contract
+**Title:** From Contract to Space in Less Than Ten Weeks: Rocket Lab Launches its 54th Electron Mission 
+**Source:** https://www.rocketlabusa.com/updates/from-contract-to-space-in-less-than-ten-weeks-rocket-lab-launches-its-54th-electron-mission/
+**Author:** [[Rocket Lab]]
+**Published:** 2024-11-05
+**Description:** The contract for Rocket Lab’s latest launch was signed less than ten weeks before lift-off, making it one of the fastest contract-to-launch turnarounds in Company history.
+**Customer:** [[E-Space]]
+**Mission:** [[054 'Changes In Latitudes, Changes In Attitudes' - Electron]]
 
 **Source**: https://www.rocketlabusa.com/updates/from-contract-to-space-in-less-than-ten-weeks-rocket-lab-launches-its-54th-electron-mission/
 
@@ -28,4 +38,3 @@ Rocket Lab founder and CEO, Sir Peter Beck, says: “Another successful launch s
 A replay of today’s launch broadcast can be found at [www.rocketlabusa.com/live-stream](https://www.rocketlabusa.com/live-stream).
 
 Details of Rocket Lab’s next launch will be announced shortly.
-

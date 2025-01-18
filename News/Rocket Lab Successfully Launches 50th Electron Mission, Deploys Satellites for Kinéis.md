@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Successfully Launches 50th Electron Mission, Deploys Satellites for Kinéis  "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-50th-electron-mission-deploys-satellites-for-kineis/"
 author:
@@ -11,6 +12,15 @@ tags:
   - "launch"
   - "electron"
 ---
+
+#launch #electron
+**Title:** Rocket Lab Successfully Launches 50th Electron Mission, Deploys Satellites for Kinéis  
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-50th-electron-mission-deploys-satellites-for-kineis/
+**Author:** [[Rocket Lab]]
+**Published:** 2024-06-21
+**Description:** *Electron reaches 50 launches faster than any other commercially developed rocket in history*
+**Customer:** [[Kinéis]]
+**Mission:** [[050 'No Time Toulouse' - Electron]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-50th-electron-mission-deploys-satellites-for-kineis/
 

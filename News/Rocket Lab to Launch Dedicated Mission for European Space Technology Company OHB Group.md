@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab to Launch Dedicated Mission for European Space Technology Company OHB Group "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-to-launch-dedicated-mission-for-european-space-technology-company-ohb-group/"
 author:
@@ -13,6 +14,16 @@ tags:
  - electron
  - contract
 ---
+
+#electron #contract
+**Title:** Rocket Lab to Launch Dedicated Mission for European Space Technology Company OHB Group 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-launch-dedicated-mission-for-european-space-technology-company-ohb-group/
+**Author:** [[Rocket Lab]]
+**Published:** 2020-08-25
+**Description:** *Rocket Lab to Launch Dedicated Mission for European Space Technology Company OHB Group*
+**Customer:** [[OHB Group]]
+**Mission:** [[018 'Another One Leaves the Crust' - Electron]]
+
 **Rocket Lab to Launch Dedicated Mission for European Space Technology Company OHB Group**
 
 Long Beach, California. August 25, 2020 – Rocket Lab has today announced that leading European space technology company OHB Group has signed a contract for a dedicated launch on an Electron rocket. The launch was procured through OHB Cosmos International Launch Service GmbH, the launch service division of the OHB Group.

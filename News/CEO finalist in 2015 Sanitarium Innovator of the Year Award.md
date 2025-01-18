@@ -1,4 +1,5 @@
 ---
+
 title: "CEO finalist in 2015 Sanitarium Innovator of the Year Award "
 source: "https://www.rocketlabusa.com/updates/ceo-finalist-in-2015-sanitarium-innovator-of-the-year-award/"
 author:
@@ -8,6 +9,14 @@ description: "Rocket Lab CEO, Peter Beck, has been named a finalist for innovato
 insider:
  - "[[Peter Beck]]"
 ---
+
+**Title:** CEO finalist in 2015 Sanitarium Innovator of the Year Award 
+**Source:** https://www.rocketlabusa.com/updates/ceo-finalist-in-2015-sanitarium-innovator-of-the-year-award/
+**Author:** [[Rocket Lab]]
+**Published:** 2015-08-18
+**Description:** Rocket Lab CEO, Peter Beck, has been named a finalist for innovator of the year at the 2015 New Zealander of the Year Awards.
+**Insider:** [[Peter Beck]]
+
 Rocket Lab CEO, Peter Beck, has been named a finalist for innovator of the year at the 2015 New Zealander of the Year Awards.
 
 “Peter Beck, the CEO of Rocket Lab Ltd, is redefining the space industry,” according to event organisers. Peter’s nomination reflects his commitment to making space accessible – reducing cost, improving fuel efficiency, and increasing the frequency and availability of launches.

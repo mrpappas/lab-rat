@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Signs Multi-Launch Deal to Further Deploy Synspective Constellation "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-signs-multi-launch-deal-to-further-deploy-synspective-constellation/"
 author:
@@ -10,6 +11,14 @@ tags:
   - "electron"
   - "contract"
 ---
+
+#electron #contract
+**Title:** Rocket Lab Signs Multi-Launch Deal to Further Deploy Synspective Constellation 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-signs-multi-launch-deal-to-further-deploy-synspective-constellation/
+**Author:** [[Rocket Lab]]
+**Published:** 2023-07-13
+**Description:** *Rocket Lab Signs Multi-Launch Deal to Further Deploy Synspective Constellation*
+**Customer:** [[Synspective]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-signs-multi-launch-deal-to-further-deploy-synspective-constellation/
 

@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab, Developer of the Electron Orbital Vehicle, Closes Series B Round "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-developer-of-the-electron-orbital-vehicle-closes-series-b-round-2/"
 author:
@@ -10,6 +11,15 @@ tags:
  - capital-raise
  - electron
 ---
+
+#capital-raise #electron
+**Title:** Rocket Lab, Developer of the Electron Orbital Vehicle, Closes Series B Round 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-developer-of-the-electron-orbital-vehicle-closes-series-b-round-2/
+**Author:** [[Rocket Lab]]
+**Published:** 2015-03-31
+**Description:** Rocket Lab announced today that it has completed a Series B financing round, led by Bessemer Venture Partners (BVP[http://www.bvp.com/]) with full participation from existing investors Khosla Ventures and K1W1 investment fund. In addition, Lockheed Martin will make a strategic investment in Rocket Lab to support the exploration of future aerospace technologies.
+**Event:** [[2015 Series B Funding]]
+
 Rocket Lab announced today that it has completed a Series B financing round, led by Bessemer Venture Partners ([BVP](http://www.bvp.com/)) with full participation from existing investors Khosla Ventures and K1W1 investment fund. In addition, Lockheed Martin will make a strategic investment in Rocket Lab to support the exploration of future aerospace technologies.
 
 The company will use the funding to complete the Electron launch system and plans to begin operations as a commercial launch provider as early as 2016.

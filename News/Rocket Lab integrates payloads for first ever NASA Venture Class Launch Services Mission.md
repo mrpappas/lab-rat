@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab integrates payloads for first ever NASA Venture Class Launch Services Mission "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-integrates-payloads-for-first-ever-nasa-venture-class-launch-services-mission/"
 author:
@@ -13,6 +14,16 @@ tags:
  - electron
  - launch
 ---
+
+#electron #launch
+**Title:** Rocket Lab integrates payloads for first ever NASA Venture Class Launch Services Mission 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-integrates-payloads-for-first-ever-nasa-venture-class-launch-services-mission/
+**Author:** [[Rocket Lab]]
+**Published:** 2018-04-25
+**Description:** Huntington Beach, California and Auckland, New Zealand April 25, 2018:
+**Customer:** [[NASA]]
+**Mission:** [[004 'NASA ELaNa-19' - Electron]]
+
 Huntington Beach, California and Auckland, New Zealand April 25, 2018:
 
 Rocket Lab and NASA have carried out the integration of the CubeSat payloads scheduled to launch on the Electron rocket in the first half of 2018 for NASA’s first ever Venture Class Launch Services (VCLS) mission. The flight will constitute the smallest class of dedicated launch services used by NASA and marks a significant milestone for Rocket Lab in providing such access to space for a NASA-sponsored mission of small satellites.

@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Announces Launch Window for Inaugural Electron Mission from Launch Complex 2 in Virginia  "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-announces-launch-window-for-inaugural-electron-mission-from-launch-complex-2-in-virginia/"
 author:
@@ -11,6 +12,15 @@ tags:
   - "launch"
   - "electron"
 ---
+
+#launch #electron
+**Title:** Rocket Lab Announces Launch Window for Inaugural Electron Mission from Launch Complex 2 in Virginia  
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-announces-launch-window-for-inaugural-electron-mission-from-launch-complex-2-in-virginia/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-11-09
+**Description:** *After more than 30 missions from Launch Complex 1, Electron is set to lift off from U.S. soil for the first time creating a new responsive launch capability for the nation*
+**Customer:** [[HawkEye 360]]
+**Mission:** [[033 'Virginia is for Launch Lovers' - Electron]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-announces-launch-window-for-inaugural-electron-mission-from-launch-complex-2-in-virginia/
 

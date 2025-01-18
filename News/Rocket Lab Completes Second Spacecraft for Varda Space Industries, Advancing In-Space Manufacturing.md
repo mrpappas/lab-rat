@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Completes Second Spacecraft for Varda Space Industries, Advancing In-Space Manufacturing  "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-completes-second-spacecraft-for-varda-space-industries-advancing-in-space-manufacturing/"
 author:
@@ -9,6 +10,14 @@ customer: "[[Varda Space Industries]]"
 tags:
   - "space-systems"
 ---
+
+#space-systems
+**Title:** Rocket Lab Completes Second Spacecraft for Varda Space Industries, Advancing In-Space Manufacturing  
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-completes-second-spacecraft-for-varda-space-industries-advancing-in-space-manufacturing/
+**Author:** [[Rocket Lab]]
+**Published:** 2024-09-26
+**Description:** *Long Beach, Calif. September 26, 2024* – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, has completed testing and integration of its second Pioneer spacecraft for Varda Space Industries, Inc. (“Varda”), the world's first in-space pharmaceutical processing and hypersonic Earth re-entry logistics company.
+**Customer:** [[Varda Space Industries]]
 
 **Source**: https://www.rocketlabusa.com/updates/rocket-lab-completes-second-spacecraft-for-varda-space-industries-advancing-in-space-manufacturing/
 
@@ -25,4 +34,3 @@ Designed and built at Rocket Lab’s Spacecraft Production Complex and Headquart
 Rocket Lab’s Pioneer spacecraft is a flight proven highly configurable medium delta-V platform designed to support large payloads, re-entry capabilities, and dynamic space operations.  
 
 Learn more about Rocket Lab and Varda’s partnership: [Varda Space Industries  (rocketlabusa.com)](https://www.rocketlabusa.com/missions/upcoming-missions/varda-space-industries/)
-

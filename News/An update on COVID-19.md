@@ -1,4 +1,5 @@
 ---
+
 title: "An update on COVID-19 "
 source: "https://www.rocketlabusa.com/updates/an-update-on-covid-19/"
 author:
@@ -6,6 +7,13 @@ author:
 published: 2020-03-21
 description: "*An update on Rocket Lab's response to COVID-19*"
 ---
+
+**Title:** An update on COVID-19 
+**Source:** https://www.rocketlabusa.com/updates/an-update-on-covid-19/
+**Author:** [[Rocket Lab]]
+**Published:** 2020-03-21
+**Description:** *An update on Rocket Lab's response to COVID-19*
+
 **An update on Rocket Lab's response to COVID-19**
 
 As the COVID-19 situation has developed globally, we’ve been collaborating with our team members, customers, and health officials to ensure we’re doing all we can to protect our people and play our part in reducing the spread of the virus.

@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Increases Space Systems Offerings with New Products for Small Satellites "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-increases-space-systems-offerings-with-new-products-for-small-satellites/"
 author:
@@ -8,6 +9,13 @@ description: "New interplanetary radio and reaction wheel for constellations to 
 tags:
   - "space-systems"
 ---
+
+#space-systems
+**Title:** Rocket Lab Increases Space Systems Offerings with New Products for Small Satellites 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-increases-space-systems-offerings-with-new-products-for-small-satellites/
+**Author:** [[Rocket Lab]]
+**Published:** 2023-02-08
+**Description:** New interplanetary radio and reaction wheel for constellations to close key gaps in the supply chain.
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-increases-space-systems-offerings-with-new-products-for-small-satellites/
 

@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Completes Anomaly Review, Next Mission on the Pad in July "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-completes-anomaly-review-next-mission-on-the-pad-in-july/"
 author:
@@ -13,6 +14,16 @@ tags:
  - anomaly
  - electron
 ---
+
+#anomaly #electron
+**Title:** Rocket Lab Completes Anomaly Review, Next Mission on the Pad in July 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-completes-anomaly-review-next-mission-on-the-pad-in-july/
+**Author:** [[Rocket Lab]]
+**Published:** 2021-07-19
+**Description:** *Long Beach, California. July 19, 2021* – Leading launch and space systems company Rocket Lab today announced it has concluded an extensive review into the cause of the anomaly that resulted in the loss of its “Running Out Of Toes” mission launched on May 15, 2021. With the root cause of the issue identified and corrective measures now in place, Electron will be back on the pad for the next mission from Launch Complex 1 later this month.
+**Customer:** [[BlackSky]]
+**Mission:** [[020 'Running Out Of Toes' - Electron]]
+
 **Long Beach, California. July 19, 2021** – Leading launch and space systems company Rocket Lab today announced it has concluded an extensive review into the cause of the anomaly that resulted in the loss of its “Running Out Of Toes” mission launched on May 15, 2021. With the root cause of the issue identified and corrective measures now in place, Electron will be back on the pad for the next mission from Launch Complex 1 later this month.
 
 The May 15 anomaly occurred after 17 successful orbital flights of the Electron launch vehicle which has deployed more than 100 satellites to orbit since 2018. Immediately following the anomaly, Rocket Lab launched a rigorous internal review, assembling its investigation team with oversight by the Federal Aviation Administration (FAA). The investigation team scoured thousands of channels of telemetry and systems data from the flight and worked systematically through an extensive fault tree analysis to determine the cause of the failure.

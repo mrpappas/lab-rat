@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Reveals First Battery-Powered Rocket for Commercial Launches to Space "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-reveals-first-battery-powered-rocket-for-commercial-launches-to-space/"
 author:
@@ -9,6 +10,14 @@ tags:
  - rutherford
  - electron
 ---
+
+#rutherford #electron
+**Title:** Rocket Lab Reveals First Battery-Powered Rocket for Commercial Launches to Space 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-reveals-first-battery-powered-rocket-for-commercial-launches-to-space/
+**Author:** [[Rocket Lab]]
+**Published:** 2015-05-31
+**Description:** *Rocket Lab Reveals First Battery-Powered Rocket for Commercial Launches to Space*
+
 Rocket Lab Reveals First Battery-Powered Rocket for Commercial Launches to Space
 
 First-of-its-kind technology to offer affordable, high-frequency launches of small satellites

@@ -1,4 +1,5 @@
 ---
+
 title: "Varda Space Industries Orders Fourth Photon Spacecraft from Rocket Lab to Enable In-Space Manufacturing "
 source: "https://www.rocketlabusa.com/updates/varda-space-industries-orders-fourth-photon-spacecraft-from-rocket-lab-to-enable-in-space-manufacturing/"
 author:
@@ -12,6 +13,17 @@ insider:
 tags:
  - space-systems
 ---
+
+#space-systems
+**Title:** Varda Space Industries Orders Fourth Photon Spacecraft from Rocket Lab to Enable In-Space Manufacturing 
+**Source:** https://www.rocketlabusa.com/updates/varda-space-industries-orders-fourth-photon-spacecraft-from-rocket-lab-to-enable-in-space-manufacturing/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-05-24
+**Description:** *Varda Space Industries Orders Fourth Photon Spacecraft from Rocket Lab to Enable In-Space Manufacturing*
+**Customer:** [[Varda Space Industries]]
+**Mission:** None
+**Insider:** None
+
 **Varda Space Industries Orders Fourth Photon Spacecraft from Rocket Lab to Enable In-Space Manufacturing**
 
 *The order for the Photon spacecraft, designed and manufactured by Rocket Lab, follows a previous bulk-order by Varda for three Photons to enable manufacture of high-value products in space and return to Earth*

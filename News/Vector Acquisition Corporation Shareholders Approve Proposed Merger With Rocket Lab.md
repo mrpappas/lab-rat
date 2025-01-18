@@ -1,4 +1,5 @@
 ---
+
 title: "Vector Acquisition Corporation Shareholders Approve Proposed Merger With Rocket Lab "
 source: "https://www.rocketlabusa.com/updates/vector-acquisition-corporation-shareholders-approve-proposed-merger-with-rocket-lab/"
 author:
@@ -8,6 +9,14 @@ description: "*Vector Acquisition Corporation Shareholders Approve Proposed Merg
 partner: 
  - "[[Vector Acquisition Corporation (VACQ)]]"
 ---
+
+**Title:** Vector Acquisition Corporation Shareholders Approve Proposed Merger With Rocket Lab 
+**Source:** https://www.rocketlabusa.com/updates/vector-acquisition-corporation-shareholders-approve-proposed-merger-with-rocket-lab/
+**Author:** [[Rocket Lab]]
+**Published:** 2021-08-25
+**Description:** *Vector Acquisition Corporation Shareholders Approve Proposed Merger With Rocket Lab*
+**Partner:** [[Vector Acquisition Corporation (VACQ)]]
+
 ## Vector Acquisition Corporation Shareholders Approve Proposed Merger With Rocket Lab
 
 Transaction to Close on August 25, 2021
@@ -27,4 +36,3 @@ The merger is scheduled to close on August 25, 2021, and the common stock and wa
 “This significant milestone accelerates our ability to unlock the full potential of space through our launch and spacecraft platforms,” said Peter Beck, Founder and CEO of Rocket Lab. “With the support of public shareholders, I’m excited to build on our established track record of mission success as we continue to transform the way we use and access space.”
 
 The formal results of the vote will be included in a Current Report on Form 8-K to be filed by Vector with the Securities and Exchange Commission.
-

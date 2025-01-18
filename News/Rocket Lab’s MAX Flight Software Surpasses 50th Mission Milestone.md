@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab’s MAX Flight Software Surpasses 50th Mission Milestone  "
 source: "https://www.rocketlabusa.com/updates/rocket-labs-max-flight-software-surpasses-50th-mission-milestone/"
 author:
@@ -9,6 +10,14 @@ partner: "[[Advanced Solutions Inc]]"
 tags:
   - "space-software"
 ---
+
+#space-software
+**Title:** Rocket Lab’s MAX Flight Software Surpasses 50th Mission Milestone  
+**Source:** https://www.rocketlabusa.com/updates/rocket-labs-max-flight-software-surpasses-50th-mission-milestone/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-07-14
+**Description:** The revolutionary off-the-shelf flight software has now enabled more than 50 missions on orbit.
+**Partner:** [[Advanced Solutions Inc]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-labs-max-flight-software-surpasses-50th-mission-milestone/
 

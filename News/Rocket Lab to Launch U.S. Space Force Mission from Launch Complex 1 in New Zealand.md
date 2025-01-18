@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab to Launch U.S. Space Force Mission from Launch Complex 1 in New Zealand "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-to-launch-u-s-space-force-mission-from-launch-complex-1-in-new-zealand/"
 author:
@@ -13,6 +14,16 @@ tags:
  - electron
  - launch
 ---
+
+#electron #launch
+**Title:** Rocket Lab to Launch U.S. Space Force Mission from Launch Complex 1 in New Zealand 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-launch-u-s-space-force-mission-from-launch-complex-1-in-new-zealand/
+**Author:** [[Rocket Lab]]
+**Published:** 2021-07-27
+**Description:** *Rocket Lab to Launch U.S. Space Force Mission from Launch Complex 1 in New Zealand*
+**Customer:** [[U.S. Space Force]]
+**Mission:** [[021 'It's A Little Chile Up Here' - Electron]]
+
 **Rocket Lab to Launch U.S. Space Force Mission from Launch Complex 1 in New Zealand**
 
 Long Beach, California. July 27, 2021 – Rocket Lab, the leading launch and space systems company, today announced it will open a launch window from tomorrow to launch a research and development satellite to low Earth orbit from Launch Complex 1 in New Zealand for the United States Space Force (USSF).

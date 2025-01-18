@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Completes Archimedes Engine Build, Begins Engine Test Campaign "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-completes-archimedes-engine-build-begins-engine-test-campaign/"
 author:
@@ -9,6 +10,13 @@ tags:
   - "neutron"
   - "archimedes"
 ---
+
+#neutron #archimedes
+**Title:** Rocket Lab Completes Archimedes Engine Build, Begins Engine Test Campaign 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-completes-archimedes-engine-build-begins-engine-test-campaign/
+**Author:** [[Rocket Lab]]
+**Published:** 2024-05-06
+**Description:** The new 3D printed, reusable rocket engine for Rocket Lab’s Neutron launch vehicle begins an intensive test campaign at NASA’s Stennis Space Center in Mississippi in preparation for Neutron’s first launch.
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-completes-archimedes-engine-build-begins-engine-test-campaign/
 

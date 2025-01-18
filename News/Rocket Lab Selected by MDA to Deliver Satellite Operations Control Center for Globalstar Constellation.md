@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Selected by MDA to Deliver Satellite Operations Control Center for Globalstar Constellation "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-selected-by-mda-to-deliver-satellite-operations-control-center-for-globalstar-constellation/"
 author:
@@ -11,6 +12,14 @@ customer:
 tags:
   - "space-systems"
 ---
+
+#space-systems
+**Title:** Rocket Lab Selected by MDA to Deliver Satellite Operations Control Center for Globalstar Constellation 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-selected-by-mda-to-deliver-satellite-operations-control-center-for-globalstar-constellation/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-11-09
+**Description:** *LONG BEACH, Calif. 9 November 2022* – Rocket Lab USA, Inc (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, today announced it has been selected by MDA Ltd (TSX: MDA) to develop the Satellite Operations Control Center (SOCC) for Globalstar’s (NYSE American: GSAT) growing constellation. MDA is the prime contractor for Globalstar’s new Low Earth Orbit constellation.
+**Customer:** [[MDA]], [[Globalstar]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-selected-by-mda-to-deliver-satellite-operations-control-center-for-globalstar-constellation/
 

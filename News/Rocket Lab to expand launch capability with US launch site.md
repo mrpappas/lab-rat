@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab to expand launch capability with US launch site   "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-to-expand-launch-capability-with-us-launch-site/"
 author:
@@ -11,6 +12,15 @@ location:
 tags:
  - electron
 ---
+
+#electron
+**Title:** Rocket Lab to expand launch capability with US launch site   
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-expand-launch-capability-with-us-launch-site/
+**Author:** [[Rocket Lab]]
+**Published:** 2018-07-10
+**Description:** Huntington Beach, California. 10 July 2018.
+**Location:** [[Launch Complex 2]], [[Wallops Flight Facility]]
+
 Huntington Beach, California. 10 July 2018.
 
 US orbital launch provider Rocket Lab has today confirmed plans to expand its launch capability by developing a US launch site, with four US space ports shortlisted to launch the Electron rocket. Final selection is underway with Cape Canaveral, Wallops Flight Facility, Pacific Spaceport Complex – Alaska and Vandenberg Air Force Base. A decision on the confirmed site, to be named Launch Complex 2, is expected to be made in August 2018. 

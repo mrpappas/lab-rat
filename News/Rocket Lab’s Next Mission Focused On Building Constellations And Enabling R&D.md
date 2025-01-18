@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab’s Next Mission Focused On Building Constellations And Enabling R&D "
 source: "https://www.rocketlabusa.com/updates/rocket-labs-next-mission-focused-on-building-constellations-and-enabling-r-and-d/"
 author:
@@ -15,6 +16,16 @@ tags:
  - electron
  - contract
 ---
+
+#electron #contract
+**Title:** Rocket Lab’s Next Mission Focused On Building Constellations And Enabling R&D 
+**Source:** https://www.rocketlabusa.com/updates/rocket-labs-next-mission-focused-on-building-constellations-and-enabling-r-and-d/
+**Author:** [[Rocket Lab]]
+**Published:** 2019-07-22
+**Description:** *The rideshare mission will loft another Earth-imaging satellite for BlackSky’s constellation, a satellite for a new maritime tracking constellation, and two United States Air Force research satellites *
+**Customer:** [[BlackSky]], [[U.S. Air Force]], [[Unseenlabs]]
+**Mission:** [[008 'Look Ma, No Hands' - Electron]]
+
 ***The rideshare mission will loft another Earth-imaging satellite for BlackSky’s constellation, a satellite for a new maritime tracking constellation, and two United States Air Force research satellites*** 
 
 **Huntington Beach, California. 22 July, 2019** – Rocket Lab, the global leader in dedicated small satellite launch, has today announced its next launch is a mission carrying satellites destined to begin a new constellation for UNSEENLABS, as well as more rideshare payloads for Spaceflight, consisting of a spacecraft for BlackSky and the United States Air Force Space Command.

@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Closes Acquisition Of Space Hardware Company Planetary Systems Corporation "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-closes-acquisition-of-space-hardware-company-planetary-systems-corporation/"
 author:
@@ -14,6 +15,15 @@ tags:
  - acquisition
  - space-systems
 ---
+
+#acquisition #space-systems
+**Title:** Rocket Lab Closes Acquisition Of Space Hardware Company Planetary Systems Corporation 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-closes-acquisition-of-space-hardware-company-planetary-systems-corporation/
+**Author:** [[Rocket Lab]]
+**Published:** 2021-12-01
+**Description:** *Long Beach, California. 01 December, 2021* – Rocket Lab USA, Inc. (Nasdaq: RKLB[https://investors.rocketlabusa.com/]) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, announced today that it has closed the previously-announced transaction to acquire Planetary Systems Corporation (PSC), a Maryland-based spacecraft separation systems company, for $42 million in cash and 1,720,841 shares of the Company’s common stock, plus the potential for an additional 956,023 shares of common stock for a performance earnout based on PSC’s CY 2022 and 2023 financial...
+**Partner:** [[Planetary Systems Corporation (PSC)]]
+**Insider:** [[Mike Whalen]], [[Walter Holemans]]
 
 **Long Beach, California. 01 December, 2021** – Rocket Lab USA, Inc. (Nasdaq: [RKLB](https://investors.rocketlabusa.com/)) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, announced today that it has closed the previously-announced transaction to acquire [[Planetary Systems Corporation (PSC)]], a Maryland-based spacecraft separation systems company, for $42 million in cash and 1,720,841 shares of the Company’s common stock, plus the potential for an additional 956,023 shares of common stock for a performance earnout based on PSC’s CY 2022 and 2023 financial results. Rocket Lab announced the execution of the agreement to acquire PSC on 15 November, 2021 pending certain closing conditions.
 

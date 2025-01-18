@@ -1,4 +1,5 @@
 ---
+
 date: 2015-03-31
 net_proceeds: unknown
 valuation: unknown
@@ -9,6 +10,12 @@ investors:
  - "[[K1W1 Investment Fund]]"
  - "[[Lockheed Martin]]"
 ---
+
+**Date:** 2015-03-31
+**Net Proceeds:** unknown
+**Valuation:** unknown
+**Lead Investor:** [[Bessemer Venture Partners]]
+**Investors:** [[Bessemer Venture Partners]], [[Khosla Ventures]], [[K1W1 Investment Fund]], [[Lockheed Martin]]
 
 >[!Summary]
 The funding advanced the development of the **[[Electron]] launch vehicle** and prepared the company for commercial launch operations. This round solidified Rocket Lab’s position as a leader in small satellite launches, paving the way for its future growth and success.

@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab to Recover Electron Rocket, Introduce Helicopter Operations During Next Launch "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-to-recover-electron-rocket-introduce-helicopter-operations-during-next-launch/"
 author:
@@ -11,6 +12,16 @@ tags:
  - electron
  - reusability
 ---
+
+#electron #reusability
+**Title:** Rocket Lab to Recover Electron Rocket, Introduce Helicopter Operations During Next Launch 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-recover-electron-rocket-introduce-helicopter-operations-during-next-launch/
+**Author:** [[Rocket Lab]]
+**Published:** 2021-10-19
+**Description:** The mission is the latest in Rocket Lab’s program to make Electron the first reusable orbital launch vehicle dedicated to small satellites.  After splashing down in the ocean, Electron’s first stage will be recovered by ship and transported back to Rocket Lab’s production complex for analysis.  For the first time, a helicopter will track and observe Electron’s descent in preparation for future missions which aim to use helicopters to intercept and capture returning rocket boosters mid-air as they return to Earth under parachute.
+**Customer:** [[BlackSky]]
+**Mission:** [[022 'Love At First Insight' - Electron]]
+
 The mission is the latest in Rocket Lab’s program to make Electron the first reusable orbital launch vehicle dedicated to small satellites.
 After splashing down in the ocean, Electron’s first stage will be recovered by ship and transported back to Rocket Lab’s production complex for analysis.
 For the first time, a helicopter will track and observe Electron’s descent in preparation for future missions which aim to use helicopters to intercept and capture returning rocket boosters mid-air as they return to Earth under parachute.

@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Successfully Launches Second Mission for Synspective, Deploys 110th Satellite to Orbit "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-second-mission-for-synspective-deploys-110th-satellite-to-orbit/"
 author:
@@ -13,6 +14,16 @@ tags:
  - electron
  - launch
 ---
+
+#electron #launch
+**Title:** Rocket Lab Successfully Launches Second Mission for Synspective, Deploys 110th Satellite to Orbit 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-second-mission-for-synspective-deploys-110th-satellite-to-orbit/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-03-01
+**Description:** *Rocket Lab Successfully Launches Second Mission for Synspective, Deploys 110th Satellite to Orbit*
+**Customer:** [[Synspective]]
+**Mission:** [[024 'The Owl's Night Continues' - Electron]]
+
 **Rocket Lab Successfully Launches Second Mission for Synspective, Deploys 110th Satellite to Orbit**
 
 **Mahia, New Zealand. March 1, 2022** – Rocket Lab USA, Inc (Nasdaq: [RKLB](https://investors.rocketlabusa.com/)), a leading launch and space systems company, has successfully deployed a second Synthetic Aperture Radar (SAR) satellite to orbit for data and solutions provider Synspective, bringing the total number of satellites deployed by Rocket Lab to 110. ‘The Owl’s Night Continues” mission is Rocket Lab’s 24th Electron launch.

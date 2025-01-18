@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Selected by Space Systems Command to Build and Launch Spacecraft for Tactically Responsive Space (TacRS) Mission "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-selected-by-space-systems-command-to-build-and-launch-spacecraft-for-tactically-responsive-space-tacrs-mission/"
 author:
@@ -12,6 +13,15 @@ tags:
   - "launch"
   - "electron"
 ---
+
+#space-systems #launch #electron
+**Title:** Rocket Lab Selected by Space Systems Command to Build and Launch Spacecraft for Tactically Responsive Space (TacRS) Mission 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-selected-by-space-systems-command-to-build-and-launch-spacecraft-for-tactically-responsive-space-tacrs-mission/
+**Author:** [[Rocket Lab]]
+**Published:** 2024-04-11
+**Description:** The $32 million contract will see Rocket Lab design and manufacture a spacecraft to conduct rendezvous proximity operations, before launching it on Electron with 24 hours’ notice for Space Systems Command’s VICTUS HAZE mission.
+**Customer:** [[U.S. Space Force]]
+**Mission:** [[VICTUS HAZE]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-selected-by-space-systems-command-to-build-and-launch-spacecraft-for-tactically-responsive-space-tacrs-mission/
 

@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab to deliver payloads to the Moon and beyond with Photon "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-to-deliver-payloads-to-the-moon-and-beyond-with-photon/"
 author:
@@ -8,6 +9,14 @@ description: "*Rocket Lab to deliver payloads to the Moon and beyond with Photon
 tags:
  - photon
 ---
+
+#photon
+**Title:** Rocket Lab to deliver payloads to the Moon and beyond with Photon 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-deliver-payloads-to-the-moon-and-beyond-with-photon/
+**Author:** [[Rocket Lab]]
+**Published:** 2019-10-21
+**Description:** *Rocket Lab to deliver payloads to the Moon and beyond with Photon*
+
 **Rocket Lab to deliver payloads to the Moon and beyond with Photon**
 
 *Extended range Photon missions to medium, geostationary and lunar orbits will support deeper space exploration and the return of human presence on the moon*

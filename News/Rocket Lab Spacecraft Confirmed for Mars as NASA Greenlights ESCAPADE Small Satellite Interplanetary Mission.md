@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Spacecraft Confirmed for Mars as NASA Greenlights ESCAPADE Small Satellite Interplanetary Mission "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-spacecraft-confirmed-for-mars-as-nasa-greenlights-escapade-small-satellite-interplanetary-mission/"
 author:
@@ -13,6 +14,16 @@ tags:
  - space-systems
  - contract
 ---
+
+#space-systems #contract
+**Title:** Rocket Lab Spacecraft Confirmed for Mars as NASA Greenlights ESCAPADE Small Satellite Interplanetary Mission 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-spacecraft-confirmed-for-mars-as-nasa-greenlights-escapade-small-satellite-interplanetary-mission/
+**Author:** [[Rocket Lab]]
+**Published:** 2021-08-23
+**Description:** The ESCAPADE mission - led by the University of California Berkeley Space Sciences Laboratory to study Mars’ magnetosphere - with two Rocket Lab Photon spacecraft has received NASA approval to move toward launch.
+**Customer:** [[NASA]]
+**Mission:** [[ESCAPADE]]
+
 *The ESCAPADE mission - led by the University of California Berkeley Space Sciences Laboratory to study Mars’ magnetosphere - with two Rocket Lab Photon spacecraft has received NASA approval to move toward launch.*
 
 **Long Beach, California. 23 August, 2021.** Rocket Lab, a global leader in dedicated launch and space systems, today announced it will begin final mission design and commence manufacturing two interplanetary Photon spacecraft for a science mission to Mars, delivering Decadal-class science at a fraction of the cost of typical planetary missions.

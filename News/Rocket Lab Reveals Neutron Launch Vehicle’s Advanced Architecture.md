@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Reveals Neutron Launch Vehicle’s Advanced Architecture "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-reveals-neutron-launch-vehicles-advanced-architecture/"
 author:
@@ -8,6 +9,14 @@ description: "*Live streamed web event reveals detailed Neutron rocket architect
 tags:
  - neutron
 ---
+
+#neutron
+**Title:** Rocket Lab Reveals Neutron Launch Vehicle’s Advanced Architecture 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-reveals-neutron-launch-vehicles-advanced-architecture/
+**Author:** [[Rocket Lab]]
+**Published:** 2021-12-02
+**Description:** *Live streamed web event reveals detailed Neutron rocket architecture for the first time:*
+
 **Live streamed web event reveals detailed Neutron rocket architecture for the first time:**
 
 - *New Archimedes rocket engine designed for reliability and reuse*

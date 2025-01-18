@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Sets New Date for First Electron Launch From U.S. Soil "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-sets-new-date-for-first-electron-launch-from-u-s-soil/"
 author:
@@ -11,6 +12,15 @@ tags:
   - "launch"
   - "electron"
 ---
+
+#launch #electron
+**Title:** Rocket Lab Sets New Date for First Electron Launch From U.S. Soil 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-sets-new-date-for-first-electron-launch-from-u-s-soil/
+**Author:** [[Rocket Lab]]
+**Published:** 2023-01-11
+**Description:** *Rocket Lab Sets New Date for First Electron Launch From U.S. Soil*
+**Customer:** [[HawkEye 360]]
+**Mission:** [[033 'Virginia is for Launch Lovers' - Electron]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-sets-new-date-for-first-electron-launch-from-u-s-soil/
 

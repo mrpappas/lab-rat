@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Sets Launch Date for 51st Electron Mission, Prepares to Deploy Latest Satellites in Multi-Launch Contract for Synspective  "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-sets-launch-date-for-51st-electron-mission-prepares-to-deploy-latest-satellites-in-multi-launch-contract-for-synspective/"
 author:
@@ -11,6 +12,15 @@ tags:
   - "launch"
   - "electron"
 ---
+
+#launch #electron
+**Title:** Rocket Lab Sets Launch Date for 51st Electron Mission, Prepares to Deploy Latest Satellites in Multi-Launch Contract for Synspective  
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-sets-launch-date-for-51st-electron-mission-prepares-to-deploy-latest-satellites-in-multi-launch-contract-for-synspective/
+**Author:** [[Rocket Lab]]
+**Published:** 2024-07-24
+**Description:** *Long Beach, California. 24 July, 2024* – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced the launch window for its 51st Electron launch, a mission that will launch the latest satellite in a constellation being built by its long-standing customer Synspective.
+**Customer:** [[Synspective]]
+**Mission:** [[051 'Owl For One, One For Owl' - Electron]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-sets-launch-date-for-51st-electron-mission-prepares-to-deploy-latest-satellites-in-multi-launch-contract-for-synspective/
 

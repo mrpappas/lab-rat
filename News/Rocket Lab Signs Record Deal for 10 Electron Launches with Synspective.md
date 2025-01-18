@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Signs Record Deal for 10 Electron Launches with Synspective   "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-signs-record-deal-for-10-electron-launches-with-synspective/"
 author:
@@ -10,6 +11,14 @@ tags:
   - "contract"
   - "electron"
 ---
+
+#contract #electron
+**Title:** Rocket Lab Signs Record Deal for 10 Electron Launches with Synspective   
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-signs-record-deal-for-10-electron-launches-with-synspective/
+**Author:** [[Rocket Lab]]
+**Published:** 2024-06-18
+**Description:** *The deal is Rocket Lab’s largest Electron launch agreement to date and continues a long-standing partnership with Japanese Earth observation company Synspective*
+**Customer:** [[Synspective]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-signs-record-deal-for-10-electron-launches-with-synspective/
 
@@ -28,4 +37,3 @@ By launching as the sole payload on Electron, Synspective has control over the l
 Synspective founder and CEO, Dr. Motoyuki Arai, said: “We are pleased to have reached an agreement with Rocket Lab to launch 10 new satellites. This agreement gives us a solid foundation and confidence, as Rocket Lab is an innovative launch provider. We look to accelerate building our satellite constellation and expand our services in the future. We appreciate Rocket Lab's significant role in moving our business forward. We will continue to build an analytics platform that enables visualization and analysis of global environmental and economic activities, starting with constructing a SAR satellite constellation. These efforts will help make human activities sustainable for our generation and address the challenges of a changing global environment and depleting resources.”
 
 Rt Hon Christopher Luxon, Prime Minister of New Zealand, said: “New Zealand innovation in space technology is rapidly putting our country on the map in this fast-growing industry. I am very pleased to witness the signing of this significant contract during my first visit to Japan as Prime Minister – it is a clear demonstration of the many opportunities to grow trade and prosperity between our two nations. Collaboration with international partners is critical to enabling our space industry to maximise its potential on the global stage.”
-

@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Inks Dedicated Launch Deal with Japanese Earth Imaging Company iQPS "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-inks-dedicated-launch-deal-with-japanese-earth-imaging-company-iqps/"
 author:
@@ -11,6 +12,15 @@ tags:
   - "contract"
   - "electron"
 ---
+
+#contract #electron
+**Title:** Rocket Lab Inks Dedicated Launch Deal with Japanese Earth Imaging Company iQPS 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-inks-dedicated-launch-deal-with-japanese-earth-imaging-company-iqps/
+**Author:** [[Rocket Lab]]
+**Published:** 2023-08-17
+**Description:** *Rocket Lab has stepped in to provide iQPS with an expedited dedicated launch on Electron*
+**Customer:** [[iQPS]]
+**Mission:** [[042 'The Moon God Awakens' - Electron]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-inks-dedicated-launch-deal-with-japanese-earth-imaging-company-iqps/
 
@@ -27,4 +37,3 @@ iQPS CEO Dr. Shunsuke Onishi commented, "We are very pleased to announce the new
 QPS-SAR-5 is a synthetic-aperture radar (SAR) satellite that will join a constellation after QPS-SAR-6 already in orbit. iQPS’s satellites are small, high-performance SAR satellites that use a lightweight, large, stowable antenna to collect high resolution images of Earth, even through clouds and adverse weather conditions. Ultimately, the iQPS constellation is planned to have 36 satellites capable of monitoring specific fixed points on Earth every 10 minutes.
 
 In addition to being launched by Electron, the QPS-SAR-5 satellite will use Rocket Lab’s Mark II Motorized Lightband (MLB) as its separation system demonstrating the Company’s vertically integrated space systems strategy.
-

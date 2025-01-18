@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab to launch three R&D satellites for the U.S. Air Force "
 source: https://www.rocketlabusa.com/updates/rocket-lab-to-launch-three-r-and-d-satellites-for-the-u-s-air-force/
 author:
@@ -14,6 +15,16 @@ tags:
   - electron
   - contract
 ---
+
+#electron #contract
+**Title:** Rocket Lab to launch three R&D satellites for the U.S. Air Force 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-launch-three-r-and-d-satellites-for-the-u-s-air-force/
+**Author:** [[Rocket Lab]]
+**Published:** 2019-04-04
+**Description:** *Rocket Lab to launch three R&amp;D satellites for the U.S. Air Force*
+**Customer:** [[U.S. Air Force]], [[York Space Systems]]
+**Mission:** [[006 'STP-27RD' - Electron]]
+
 **Rocket Lab to launch three R&D satellites for the U.S. Air Force**
 
  *The mission has been procured by the Space Test Program in partnership with Defense Innovation Unit (DIU) as part of its Rapid Agile Launch Initiative.* 

@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab partners with Kongsberg Satellite Services for Electron and Photon ground station support "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-partners-with-kongsberg-satellite-services-for-electron-and-photon-ground-station-support/"
 author:
@@ -11,6 +12,15 @@ tags:
  - space-systems
  - photon
 ---
+
+#space-systems #photon
+**Title:** Rocket Lab partners with Kongsberg Satellite Services for Electron and Photon ground station support 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-partners-with-kongsberg-satellite-services-for-electron-and-photon-ground-station-support/
+**Author:** [[Rocket Lab]]
+**Published:** 2019-10-22
+**Description:** *Rocket Lab partners with Kongsberg Satellite Services for Electron and Photon ground station support*
+**Partner:** [[KSAT]]
+
 **Rocket Lab partners with Kongsberg Satellite Services for Electron and Photon ground station support**
 
 The partnership enables small satellite operators to procure complete mission services from Rocket Lab, including spacecraft design and build, launch and ground segment management.

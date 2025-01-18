@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Signs Launch Contract with Spaceflight  "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-signs-launch-contract-with-spaceflight/"
 author:
@@ -13,6 +14,16 @@ tags:
  - electron
  - contract
 ---
+
+#electron #contract
+**Title:** Rocket Lab Signs Launch Contract with Spaceflight  
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-signs-launch-contract-with-spaceflight/
+**Author:** [[Rocket Lab]]
+**Published:** 2017-05-18
+**Description:** Rocket Lab today announces a new customer contract with Spaceflight, the launch services and mission management provider. Spaceflight has purchased an Electron rocket to increase the frequency of its dedicated rideshare missions.
+**Customer:** [[Spaceflight]]
+**Mission:** [[007 'Make it Rain' - Electron]]
+
 Rocket Lab today announces a new customer contract with Spaceflight, the launch services and mission management provider. Spaceflight has purchased an Electron rocket to increase the frequency of its dedicated rideshare missions.
 
 Dedicated rideshare for smallsats is a launch where several payloads share the same vehicle to a specific destination. An entirely carbon-composite vehicle, designed to carry payloads of 225kg to an elliptical orbit and up to 150kg to a nominal 500km sun synchronous low earth orbit, the Electron is ideal for dedicated rideshare missions. It is especially suited to those serving difficult-to-come-by launch destinations, such as mid-inclination orbits for remote sensing satellites.

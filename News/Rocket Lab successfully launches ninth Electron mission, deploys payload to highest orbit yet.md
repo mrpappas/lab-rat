@@ -1,4 +1,5 @@
 ---
+
 title: Rocket Lab successfully launches ninth Electron mission, deploys payload to highest orbit yet 
 source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-ninth-electron-mission-deploys-payload-to-highest-orbit-yet/
 author:
@@ -13,6 +14,16 @@ tags:
  - electron
  - launch
 ---
+
+#electron #launch
+**Title:** Rocket Lab successfully launches ninth Electron mission, deploys payload to highest orbit yet
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-ninth-electron-mission-deploys-payload-to-highest-orbit-yet/
+**Author:** [[Rocket Lab]]
+**Published:** 2019-10-17
+**Description:** The successful mission brings the total count of satellites deployed by Rocket Lab to 40 and continues the company’s record of 100% mission success for customers
+**Customer:** [[Astro Digital]]
+**Mission:** [[009 'As The Crow Flies' - Electron]]
+
 *The successful mission brings the total count of satellites deployed by Rocket Lab to 40 and continues the company’s record of 100% mission success for customers*
 
 Auckland, New Zealand.  17 October 2019 – Rocket Lab, the global leader in dedicated small satellite launch, has successfully launched its ninth Electron mission, deploying a single spacecraft to orbit for satellite manufacturer Astro Digital.

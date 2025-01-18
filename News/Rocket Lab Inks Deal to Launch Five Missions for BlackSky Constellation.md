@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Inks Deal to Launch Five Missions for BlackSky Constellation  "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-inks-deal-to-launch-five-missions-for-blacksky-constellation/"
 author:
@@ -11,6 +12,15 @@ tags:
  - electron
  - contract
 ---
+
+#electron #contract
+**Title:** Rocket Lab Inks Deal to Launch Five Missions for BlackSky Constellation  
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-inks-deal-to-launch-five-missions-for-blacksky-constellation/
+**Author:** [[Rocket Lab]]
+**Published:** 2021-03-25
+**Description:** The deployment of nine of BlackSky’s latest-generation small sats across five Electron missions represents the largest number of satellites BlackSky has committed to a single launch provider to date.
+**Customer:** [[BlackSky]]
+
 *The deployment of nine of BlackSky’s latest-generation small sats across five Electron missions represents the largest number of satellites BlackSky has committed to a single launch provider to date.* 
 
 **Long Beach, California. 25 March 2021** – Rocket Lab, a global leader in launch and space systems, has today announced it will launch multiple missions to low Earth orbit for BlackSky, a leading provider of real-time geospatial intelligence and global monitoring services. 

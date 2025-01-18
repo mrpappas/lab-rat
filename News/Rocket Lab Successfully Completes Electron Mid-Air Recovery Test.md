@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Successfully Completes Electron Mid-Air Recovery Test   "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-completes-electron-mid-air-recovery-test-the-successful-test-brings-rocket-lab-another-step-closer-to-making-electron-a-reusable-launch-vehicle/"
 author:
@@ -8,6 +9,14 @@ description: "*Rocket Lab Successfully Completes Electron Mid-Air Recovery Test*
 tags:
  - electron
 ---
+
+#electron
+**Title:** Rocket Lab Successfully Completes Electron Mid-Air Recovery Test   
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-completes-electron-mid-air-recovery-test-the-successful-test-brings-rocket-lab-another-step-closer-to-making-electron-a-reusable-launch-vehicle/
+**Author:** [[Rocket Lab]]
+**Published:** 2020-04-08
+**Description:** *Rocket Lab Successfully Completes Electron Mid-Air Recovery Test*
+
 **Rocket Lab Successfully Completes Electron Mid-Air Recovery Test**
 
 *The successful test brings Rocket Lab another step closer to making Electron a reusable launch vehicle*  

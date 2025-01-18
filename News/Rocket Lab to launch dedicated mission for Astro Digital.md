@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab to launch dedicated mission for Astro Digital "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-to-launch-dedicated-mission-for-astro-digitalnew-blog-post/"
 author:
@@ -13,6 +14,16 @@ tags:
  - electron
  - launch
 ---
+
+#electron #launch
+**Title:** Rocket Lab to launch dedicated mission for Astro Digital 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-launch-dedicated-mission-for-astro-digitalnew-blog-post/
+**Author:** [[Rocket Lab]]
+**Published:** 2019-09-30
+**Description:** *Huntington Beach, California. 30 September, 2019* – Rocket Lab, the global leader in dedicated small satellite launch, has today announced Astro Digital as the customer for Rocket Lab’s ninth Electron mission, and fifth mission of 2019.
+**Customer:** [[Astro Digital]]
+**Mission:** [[009 'As The Crow Flies' - Electron]]
+
 Huntington Beach, California. 30 September, 2019 – Rocket Lab, the global leader in dedicated small satellite launch, has today announced Astro Digital as the customer for Rocket Lab’s ninth Electron mission, and fifth mission of 2019.
 
 The dedicated mission is scheduled to take place during a 14-day launch window opening on October 15 NZDT (14 October UTC). The mission will lift-off from Rocket Lab Launch Complex 1 on New Zealand’s Māhia Peninsula. Encapsulated in Electron’s fairing will be a single spacecraft for Astro Digital, a California-based satellite manufacturer and operator.

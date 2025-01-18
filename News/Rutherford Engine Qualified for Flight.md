@@ -1,4 +1,5 @@
 ---
+
 title: "Rutherford Engine Qualified for Flight "
 source: "https://www.rocketlabusa.com/updates/rutherford-engine-qualified-for-flight/"
 author:
@@ -9,6 +10,14 @@ tags:
  - rutherford
  - electron
 ---
+
+#rutherford #electron
+**Title:** Rutherford Engine Qualified for Flight 
+**Source:** https://www.rocketlabusa.com/updates/rutherford-engine-qualified-for-flight/
+**Author:** [[Rocket Lab]]
+**Published:** 2016-03-31
+**Description:** Rocket Lab today announced its Rutherford Engine has been qualified for flight after the completion of a rigorous test program.
+
 Rocket Lab today announced its Rutherford Engine has been qualified for flight after the completion of a rigorous test program.
 
 The 5,000 lbf Rutherford engine was created by Rocket Lab specifically for the company’s Electron launch vehicle. Rutherford has been tested extensively for over two years, and was qualified for flight after completing more than two hundred engine hot fires. The engine will first be flown during the Electron test program scheduled to run throughout the second half of 2016.

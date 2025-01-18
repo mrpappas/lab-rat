@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Unveils Spacecraft Bus Lineup  "
 source: "https://www.rocketlabusa.com/updates/new-blog-post-16/"
 author:
@@ -8,6 +9,13 @@ description: "*Rocket Lab Unveils Spacecraft Bus Lineup*"
 tags:
   - "space-systems"
 ---
+
+#space-systems
+**Title:** Rocket Lab Unveils Spacecraft Bus Lineup  
+**Source:** https://www.rocketlabusa.com/updates/new-blog-post-16/
+**Author:** [[Rocket Lab]]
+**Published:** 2024-02-27
+**Description:** *Rocket Lab Unveils Spacecraft Bus Lineup*
 
 Source: https://www.rocketlabusa.com/updates/new-blog-post-16/
 

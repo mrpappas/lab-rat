@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Schedules Next Electron Launch Just Eight Days After Previous Mission  "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-schedules-next-electron-launch-just-eight-days-after-previous-mission/"
 author:
@@ -11,6 +12,15 @@ tags:
   - "launch"
   - "electron"
 ---
+
+#launch #electron
+**Title:** Rocket Lab Schedules Next Electron Launch Just Eight Days After Previous Mission  
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-schedules-next-electron-launch-just-eight-days-after-previous-mission/
+**Author:** [[Rocket Lab]]
+**Published:** 2024-08-07
+**Description:** Long Beach, California. August 07, 2024 – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced it has scheduled the launch for its 52nd Electron mission which will deploy a single satellite for American space tech company Capella Space (“Capella”).
+**Customer:** [[Capella Space]]
+**Mission:** [[052 'A Sky Full Of SARs' - Electron]]
 
 **Source**: https://www.rocketlabusa.com/updates/rocket-lab-schedules-next-electron-launch-just-eight-days-after-previous-mission/
 

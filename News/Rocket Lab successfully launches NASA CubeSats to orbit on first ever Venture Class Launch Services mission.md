@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab successfully launches NASA CubeSats to orbit on first ever Venture Class Launch Services mission "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-nasa-cubesats-to-orbit-on-first-ever-venture-class-launch-services-mission/"
 author:
@@ -13,6 +14,16 @@ tags:
  - electron
  - launch
 ---
+
+#electron #launch
+**Title:** Rocket Lab successfully launches NASA CubeSats to orbit on first ever Venture Class Launch Services mission 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-nasa-cubesats-to-orbit-on-first-ever-venture-class-launch-services-mission/
+**Author:** [[Rocket Lab]]
+**Published:** 2018-12-16
+**Description:** *Rocket Lab successfully launches NASA CubeSats to orbit on first ever Venture Class Launch Services mission*
+**Customer:** [[NASA]]
+**Mission:** [[004 'NASA ELaNa-19' - Electron]]
+
 **Rocket Lab successfully launches NASA CubeSats to orbit on first ever Venture Class Launch Services mission**
 
 *The mission follows just five weeks after the successful ‘It’s Business Time’ launch in November, and marks Rocket Lab’s third orbital launch for 2018*

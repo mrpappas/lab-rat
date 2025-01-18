@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab launches milestone tenth mission, completes major success for reusable rocket program  "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-launches-milestone-tenth-mission-completes-major-success-for-reusable-rocket-program/"
 author:
@@ -16,6 +17,16 @@ tags:
  - launch
  - reusability
 ---
+
+#electron #launch #reusability
+**Title:** Rocket Lab launches milestone tenth mission, completes major success for reusable rocket program  
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-launches-milestone-tenth-mission-completes-major-success-for-reusable-rocket-program/
+**Author:** [[Rocket Lab]]
+**Published:** 2019-12-06
+**Description:** *Rocket Lab successfully completes a guided re-entry of the Electron launch vehicle first stage all the way to splashdown and continues track record of 100% mission success for customers with 47 satellites delivered to orbit to date.*
+**Customer:** [[Alba Orbital]], [[Spaceflight]], [[ALE]]
+**Mission:** [[010 'Running Out Of Fingers' - Electron]]
+
 **Rocket Lab successfully completes a guided re-entry of the Electron launch vehicle first stage all the way to splashdown and continues track record of 100% mission success for customers with 47 satellites delivered to orbit to date.**
 
 Huntington Beach, California. 6 December 2019 – Rocket Lab, the global leader in dedicated small satellite launch, has successfully launched its tenth Electron mission and deployed seven spacecraft to orbit during a launch that marks a major step towards reusable Electron rockets.

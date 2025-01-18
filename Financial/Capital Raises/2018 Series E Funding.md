@@ -1,4 +1,5 @@
 ---
+
 date: 2018-11-15
 net_proceeds: $140,000,000
 valuation: $1,000,000,000+
@@ -13,6 +14,12 @@ investors:
  - "[[K1W1 Investment Fund]]"
  - "[[ACC]]"
 ---
+
+**Date:** 2018-11-15
+**Net Proceeds:** $140,000,000
+**Valuation:** $1,000,000,000+
+**Lead Investor:** [[Future Fund]]
+**Investors:** [[Future Fund]], [[Greenspring Associates]], [[Khosla Ventures]], [[Bessemer Venture Partners]], [[DCVC]], [[Promus Ventures]], [[K1W1 Investment Fund]], [[ACC]]
 
 >[!Summary] 
 >- Rocket Lab reveals $140 million (USD) funding in Series E financing, closed in advance of the company’s second successful orbital mission, ‘It’s Business Time’ on 11 November.

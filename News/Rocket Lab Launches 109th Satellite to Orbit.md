@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Launches 109th Satellite to Orbit "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-launches-109th-satellite-to-orbit/"
 author:
@@ -13,6 +14,16 @@ tags:
  - electron
  - launch
 ---
+
+#electron #launch
+**Title:** Rocket Lab Launches 109th Satellite to Orbit 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-launches-109th-satellite-to-orbit/
+**Author:** [[Rocket Lab]]
+**Published:** 2021-12-09
+**Description:** *Mahia, New Zealand. December 09, 2021* – Rocket Lab USA, Inc (Nasdaq: RKLB[https://investors.rocketlabusa.com/]), a leading launch and space systems company, has successfully deployed two satellites to orbit for real-time geospatial intelligence company BlackSky (NYSE: BKSY[https://ir.blacksky.com/]), bringing the total number of satellites deployed by Rocket Lab to 109.
+**Customer:** [[BlackSky]]
+**Mission:** [[023 'A Data With Destiny' - Electron]]
+
 **Mahia, New Zealand. December 09,  2021** – Rocket Lab USA, Inc (Nasdaq: [RKLB](https://investors.rocketlabusa.com/)), a leading launch and space systems company, has successfully deployed two satellites to orbit for real-time geospatial intelligence company BlackSky (NYSE: [BKSY](https://ir.blacksky.com/)), bringing the total number of satellites deployed by Rocket Lab to 109.
 
 The ‘A Data With Destiny’ mission, arranged for BlackSky through global launch services provider Spaceflight Inc., was Electron’s 23<sup>rd</sup> lift-off from Rocket Lab Launch Complex 1 on New Zealand’s Mahia Peninsula. Following lift-off at 00:02 UTC, December 09 2021, Electron successfully delivered the two BlackSky Gen-2 Earth-imaging satellites to a circular 430km orbit, growing BlackSky’s constellation of real-time geospatial monitoring spacecraft to 12. BlackSky’s commissioning process for these satellites is now underway to bring them into service as quickly as possible, with the last pair of BlackSky satellites deployed by Rocket Lab beginning commercial operation and generating revenue within six days of launch.

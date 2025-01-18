@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Unveils Spacecraft Program "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-unveils-spacecraft-program/"
 author:
@@ -9,6 +10,14 @@ tags:
  - space-systems
  - photon
 ---
+
+#space-systems #photon
+**Title:** Rocket Lab Unveils Spacecraft Program 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-unveils-spacecraft-program/
+**Author:** [[Rocket Lab]]
+**Published:** 2019-04-08
+**Description:** *Rocket Lab Unveils Spacecraft Program *
+
 **Rocket Lab Unveils Spacecraft Program** 
 
 *Rocket Lab becomes an integrated spacecraft builder and launch provider, enabling small satellite operators to focus on delivering data and services from space*

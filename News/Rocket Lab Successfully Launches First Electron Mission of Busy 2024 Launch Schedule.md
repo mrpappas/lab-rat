@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Successfully Launches First Electron Mission of Busy 2024 Launch Schedule "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-first-electron-mission-of-busy-2024-launch-schedule/"
 author:
@@ -11,6 +12,14 @@ customer:
 mission: "[[043 'Four Of A Kind' - Electron]]"
 
 ---
+
+**Title:** Rocket Lab Successfully Launches First Electron Mission of Busy 2024 Launch Schedule 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-first-electron-mission-of-busy-2024-launch-schedule/
+**Author:** [[Rocket Lab]]
+**Published:** 2024-01-31
+**Description:** The ‘Four Of A Kind’ mission also included a successful splashdown of Electron’s first stage from the ocean after launch, furthering Rocket Lab’s efforts to make Electron the world’s first reusable small orbital rocket.
+**Customer:** [[Spire Global]], [[NorthStar Earth & Space]]
+**Mission:** [[043 'Four Of A Kind' - Electron]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-first-electron-mission-of-busy-2024-launch-schedule/
 

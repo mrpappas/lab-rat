@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Appoints Chief Operations Officer to Support Company Growth  "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-appoints-chief-operations-officer-to-support-company-growth/"
 author:
@@ -8,6 +9,13 @@ description: "*Long Beach, California. September 10, 2024* - Rocket Lab USA, Inc
 insider: "[[Frank Klein]]"
 
 ---
+
+**Title:** Rocket Lab Appoints Chief Operations Officer to Support Company Growth  
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-appoints-chief-operations-officer-to-support-company-growth/
+**Author:** [[Rocket Lab]]
+**Published:** 2024-09-10
+**Description:** *Long Beach, California. September 10, 2024* - Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced the appointment of Frank Klein as its new Chief Operations Officer (COO), effective September 16th, 2024.
+**Insider:** [[Frank Klein]]
 
 **Source**: https://www.rocketlabusa.com/updates/rocket-lab-appoints-chief-operations-officer-to-support-company-growth/
 
@@ -24,4 +32,3 @@ Rocket Lab Founder and CEO, Sir Peter Beck, says: “Frank is an experienced and
 Mr Klein says: “I’m incredibly excited about Rocket Lab. This is an opportunity to leverage my deep experience and industry knowledge to cement efficient operations at the foundation of the Company’s scale and growth. I am very much looking forward to joining the Rocket Lab team and bringing the best in production and operations practice from the automotive industry and applying it to this innovative and fast-paced company leading the future of aerospace.”
 
 Mr Klein holds a Masters’ Degree in Electrical and Industrial Engineering from Baden-Wuerttemberg Cooperative State University Stuttgart and a bachelor's degree in Business Administration from FernUniversität in Hagen.
-

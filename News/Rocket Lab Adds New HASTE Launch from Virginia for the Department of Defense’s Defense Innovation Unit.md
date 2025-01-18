@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Adds New HASTE Launch from Virginia for the Department of Defense’s Defense Innovation Unit "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-adds-new-haste-launch-from-virginia-for-the-department-of-defenses-defense-innovation-unit/"
 author:
@@ -12,6 +13,14 @@ tags:
   - "contract"
   - "HASTE"
 ---
+
+#contract #HASTE
+**Title:** Rocket Lab Adds New HASTE Launch from Virginia for the Department of Defense’s Defense Innovation Unit 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-adds-new-haste-launch-from-virginia-for-the-department-of-defenses-defense-innovation-unit/
+**Author:** [[Rocket Lab]]
+**Published:** 2023-11-08
+**Description:** This latest dedicated HASTE contract is the seventh mission to be added this year to Rocket Lab’s suborbital launch manifest
+**Customer:** [[Hypersonix]], [[U.S. Department of Defense]]
 
 **Source**: https://www.rocketlabusa.com/updates/rocket-lab-adds-new-haste-launch-from-virginia-for-the-department-of-defenses-defense-innovation-unit/
 

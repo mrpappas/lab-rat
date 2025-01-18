@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab to Launch NRO Mission from Wallops, Virginia  "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-to-launch-nro-mission-from-wallops-virginia/"
 author:
@@ -11,6 +12,15 @@ tags:
   - "launch"
   - "electron"
 ---
+
+#launch #electron
+**Title:** Rocket Lab to Launch NRO Mission from Wallops, Virginia  
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-launch-nro-mission-from-wallops-virginia/
+**Author:** [[Rocket Lab]]
+**Published:** 2024-02-21
+**Description:** The mission will be Rocket Lab’s first NRO launch from Wallops, Virginia, following four previous successful launches for the agency from New Zealand
+**Customer:** [[National Reconnaissance Office (NRO)]]
+**Mission:** [[046 'Live And Let Fly' - Electron]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-to-launch-nro-mission-from-wallops-virginia/
 

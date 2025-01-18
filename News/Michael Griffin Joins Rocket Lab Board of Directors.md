@@ -1,4 +1,5 @@
 ---
+
 title: "Michael Griffin Joins Rocket Lab Board of Directors "
 source: "https://www.rocketlabusa.com/updates/michael-griffin-joins-rocket-lab-board-of-directors/"
 author:
@@ -8,6 +9,14 @@ description: "*Michael Griffin Joins Rocket Lab Board of Directors*"
 insider:
  - "[[Michael D. Griffin]]"
 ---
+
+**Title:** Michael Griffin Joins Rocket Lab Board of Directors 
+**Source:** https://www.rocketlabusa.com/updates/michael-griffin-joins-rocket-lab-board-of-directors/
+**Author:** [[Rocket Lab]]
+**Published:** 2020-08-12
+**Description:** *Michael Griffin Joins Rocket Lab Board of Directors*
+**Insider:** [[Michael D. Griffin]]
+
 **Michael Griffin Joins Rocket Lab Board of Directors**
 
 *The former Under Secretary of Defense for Research and Engineering joins Rocket Lab’s board as the company continues to grow its launch and satellite divisions*

@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab successfully makes it to space "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-makes-it-to-space/"
 author:
@@ -12,6 +13,16 @@ tags:
  - electron
  - launch
 ---
+
+#electron #launch
+**Title:** Rocket Lab successfully makes it to space 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-makes-it-to-space/
+**Author:** [[Rocket Lab]]
+**Published:** 2017-05-24
+**Description:** Rocket Lab broke new ground today when its Electron rocket reached space at 16:23 NZST.
+**Customer:** n/a
+**Mission:** [['It's a Test' - Live News Updates  Rocket Lab]]
+
 [Rocket Lab](https://www.rocketlabusa.com/) broke new ground today when its Electron rocket reached space at 16:23 NZST.
 
 Electron lifted-off at 16:20 NZST from Rocket Lab Launch Complex 1 on the Mahia Peninsula in New Zealand. It was the first orbital-class rocket launched from from a private launch site in the world.

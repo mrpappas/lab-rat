@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab appoints Adam Spice as Chief Financial Officer "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-appoints-adam-spice-as-chief-financial-officer/"
 author:
@@ -8,6 +9,14 @@ description: "*Huntington Beach, California, 3 April 2018:*"
 insider:
  - "[[Adam Spice]]"
 ---
+
+**Title:** Rocket Lab appoints Adam Spice as Chief Financial Officer 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-appoints-adam-spice-as-chief-financial-officer/
+**Author:** [[Rocket Lab]]
+**Published:** 2018-04-03
+**Description:** *Huntington Beach, California, 3 April 2018:*
+**Insider:** [[Adam Spice]]
+
 **Huntington Beach, California, 3 April 2018:**
 
 US orbital launch provider Rocket Lab has today announced the appointment of Adam Spice as Chief Financial Officer, to be based at Rocket Lab headquarters in Huntington Beach, California.

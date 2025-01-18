@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab to open ‘Still Testing’ launch window on January 20 "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-to-open-still-testing-launch-window-on-january-20/"
 author:
@@ -14,6 +15,16 @@ tags:
  - electron
  - launch
 ---
+
+#electron #launch
+**Title:** Rocket Lab to open ‘Still Testing’ launch window on January 20 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-open-still-testing-launch-window-on-january-20/
+**Author:** [[Rocket Lab]]
+**Published:** 2018-01-12
+**Description:** *Friday January 12, 2018:* Rocket Lab, a US aerospace company with operations in New Zealand, will open a nine-day launch window from Saturday January 20, 2018 (NZDT) to carry out the company’s second test launch of the Electron rocket. During this time a four-hour launch window will open daily from 2:30 p.m. NZDT.
+**Customer:** [[Planet Labs]], [[Spire Global]]
+**Mission:** [[002 'Still Testing' - Electron]]
+
 **Friday January 12, 2018:** Rocket Lab, a US aerospace company with operations in New Zealand, will open a nine-day launch window from Saturday January 20, 2018 (NZDT) to carry out the company’s second test launch of the Electron rocket. During this time a four-hour launch window will open daily from 2:30 p.m. NZDT.
 
 The test launch, titled ‘Still Testing’, will take place from Rocket Lab’s Launch Complex 1 on the Māhia Peninsula, New Zealand. It follows on from the successful inaugural Electron test carried out on May 25, 2017.

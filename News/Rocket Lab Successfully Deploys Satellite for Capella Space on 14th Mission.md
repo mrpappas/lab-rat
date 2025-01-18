@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Successfully Deploys Satellite for Capella Space on 14th Mission "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-deploys-satellite-for-capella-space-on-14th-mission/"
 author:
@@ -13,6 +14,16 @@ tags:
  - electron
  - launch
 ---
+
+#electron #launch
+**Title:** Rocket Lab Successfully Deploys Satellite for Capella Space on 14th Mission 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-deploys-satellite-for-capella-space-on-14th-mission/
+**Author:** [[Rocket Lab]]
+**Published:** 2020-08-31
+**Description:** *Rocket Lab Successfully Deploys Satellite for Capella Space on 14th Mission*
+**Customer:** [[Capella Space]]
+**Mission:** [[014 'I Can't Believe It's Not Optical' - Electron]]
+
 **Rocket Lab Successfully Deploys Satellite for Capella Space on 14<sup>th</sup> Mission** 
 
 31 August 2020 UTC – Rocket Lab, a space systems company and the global leader in dedicated small satellite launch, has successfully launched its 14<sup>th</sup> Electron mission and deployed a single microsatellite for Capella Space. The mission was Rocket Lab’s fourth this year and takes the company’s total number of satellites deployed to 54.

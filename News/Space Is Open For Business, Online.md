@@ -1,4 +1,5 @@
 ---
+
 title: "Space Is Open For Business, Online "
 source: "https://www.rocketlabusa.com/updates/space-is-open-for-business-online/"
 author:
@@ -9,6 +10,14 @@ tags:
  - electron
  - space-systems
 ---
+
+#electron #space-systems
+**Title:** Space Is Open For Business, Online 
+**Source:** https://www.rocketlabusa.com/updates/space-is-open-for-business-online/
+**Author:** [[Rocket Lab]]
+**Published:** 2015-08-31
+**Description:** In a move to make space more accessible, Rocket Lab has released a system for booking satellite launches online.
+
 In a move to make space more accessible, Rocket Lab has released a system for booking satellite launches online.
 
 The system, announced today at the SmallSat conference in Utah, enables CubeSat customers to request a booking on Rocket Lab’s Electron, selecting a date, destination and even allowing them to select their position on the rocket.

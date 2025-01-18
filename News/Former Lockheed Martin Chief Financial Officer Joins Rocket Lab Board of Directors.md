@@ -1,4 +1,5 @@
 ---
+
 title: "Former Lockheed Martin Chief Financial Officer Joins Rocket Lab Board of Directors "
 source: "https://www.rocketlabusa.com/updates/new-blog-post-18/"
 author:
@@ -8,6 +9,14 @@ description: "Former Lockheed Martin Chief Financial Officer Joins Rocket Lab Bo
 insider: "[[Kenneth R. Possenriede]]"
 
 ---
+
+**Title:** Former Lockheed Martin Chief Financial Officer Joins Rocket Lab Board of Directors 
+**Source:** https://www.rocketlabusa.com/updates/new-blog-post-18/
+**Author:** [[Rocket Lab]]
+**Published:** 2024-08-22
+**Description:** Former Lockheed Martin Chief Financial Officer Joins Rocket Lab Board of Directors
+**Insider:** [[Kenneth R. Possenriede]]
+
 **Source**: https://www.rocketlabusa.com/updates/new-blog-post-18/
 ## Former Lockheed Martin Chief Financial Officer Joins Rocket Lab Board of Directors
 
@@ -22,4 +31,3 @@ A seasoned executive with strong business and financial acumen, Mr. Possenriede 
 Mr. Possenriede brings to Rocket Lab deep experience in capital markets, customer relationships and scaling businesses. Prior to assuming the post of CFO at Lockheed Martin Corporation, Mr. Possenriede served as Vice President of Finance and Program Management for Lockheed Martin Aeronautics Company where he was responsible for leading finances and program management processes, including accounting, contracts, business management, financial planning, scheduling and earned value. Mr. Possenriede also served as Vice President and Treasurer for Lockheed Martin Corporation. In that role, he was responsible for all aspects of the corporation’s worldwide banking activity, including global treasury operations, foreign exchange and capital markets, rating agency relations, capital planning, facilities and risk management. Mr. Possenriede also served as Lockheed Martin Corporation’s Vice President of Finance for the Electronic Systems organization, where he was responsible for all aspects of the business unit’s financial and contractual processes and commitments.
 
 Mr. Possenriede holds a Master of Business Administration from the University of Michigan and bachelor's degree from Rutgers University in economics. He also currently serves as an advisor to the Rutgers Foundation Board of Directors.
-

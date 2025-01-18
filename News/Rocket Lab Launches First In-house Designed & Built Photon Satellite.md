@@ -1,4 +1,5 @@
 ---
+
 title: Rocket Lab Launches First In-house Designed & Built Photon Satellite 
 source: https://www.rocketlabusa.com/updates/media-release-rocket-lab-launches-first-in-house-designed-and-built-photon-satellite/
 author:
@@ -14,6 +15,16 @@ tags:
  - launch
  - photon
 ---
+
+#electron #launch #photon
+**Title:** Rocket Lab Launches First In-house Designed & Built Photon Satellite
+**Source:** https://www.rocketlabusa.com/updates/media-release-rocket-lab-launches-first-in-house-designed-and-built-photon-satellite/
+**Author:** [[Rocket Lab]]
+**Published:** 2020-09-03
+**Description:** *Rocket Lab Launches First In-house Designed &amp; Built Photon Satellite*
+**Customer:** [[Capella Space]]
+**Mission:** [[014 'I Can't Believe It's Not Optical' - Electron]]
+
 **Rocket Lab Launches First In-house Designed & Built Photon Satellite**
 
 *The mission is Rocket Lab’s first full demonstration of an end-to-end mission service, encompassing satellite build, launch, and on-orbit operations*

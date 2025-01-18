@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab to fly Planet and Spire satellites on second test flight "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-to-fly-planet-and-spire-satellites-on-second-test-flight/"
 author:
@@ -14,6 +15,16 @@ tags:
  - electron
  - launch
 ---
+
+#electron #launch
+**Title:** Rocket Lab to fly Planet and Spire satellites on second test flight 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-fly-planet-and-spire-satellites-on-second-test-flight/
+**Author:** [[Rocket Lab]]
+**Published:** 2017-11-22
+**Description:** *Huntington Beach, California and Auckland, New Zealand September 25, 2017:*
+**Customer:** [[Planet Labs]], [[Spire Global]]
+**Mission:** [[002 'Still Testing' - Electron]]
+
 **Huntington Beach, California and Auckland, New Zealand September 25, 2017:**
 
 Rocket Lab today announced it will fly payloads for Planet and Spire aboard its upcoming second test flight, ‘Still Testing’, from Launch Complex 1 on the Māhia Peninsula, New Zealand. Rocket Lab’s Electron orbital launch vehicle will carry an Earth-imaging Dove satellite for [Planet](http://www.planet.com/) and two Lemur-2 satellites from [Spire](https://spire.com/) for weather mapping and ship traffic tracking.

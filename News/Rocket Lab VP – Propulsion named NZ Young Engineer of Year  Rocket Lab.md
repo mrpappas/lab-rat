@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab VP – Propulsion named NZ Young Engineer of Year "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-vp-propulsion-named-nz-young-engineer-of-year/"
 author:
@@ -8,6 +9,14 @@ description: "This evening in Wellington I had the pleasure of seeing Lachlan Ma
 insider:
  - "[[Lachlan Matchett]]"
 ---
+
+**Title:** Rocket Lab VP – Propulsion named NZ Young Engineer of Year 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-vp-propulsion-named-nz-young-engineer-of-year/
+**Author:** [[Rocket Lab]]
+**Published:** 2017-05-07
+**Description:** This evening in Wellington I had the pleasure of seeing Lachlan Matchett named New Zealand Young Engineer of the Year.
+**Insider:** [[Lachlan Matchett]]
+
 This evening in Wellington I had the pleasure of seeing Lachlan Matchett named New Zealand Young Engineer of the Year.
 
 Lachlan, who leads Rocket Lab’s propulsion team, is a phenomenal engineer and leader. To the group of us with him at the IPENZ event tonight, it was unsurprising when the award was announced.

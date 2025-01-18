@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Completes Integration and Testing of Twin Spacecraft for NASA Mars Mission "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-completes-integration-and-testing-of-twin-spacecraft-for-nasa-mars-mission/"
 author:
@@ -10,6 +11,15 @@ mission: "[[ESCAPADE]]"
 tags:
   - "space-systems"
 ---
+
+#space-systems
+**Title:** Rocket Lab Completes Integration and Testing of Twin Spacecraft for NASA Mars Mission 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-completes-integration-and-testing-of-twin-spacecraft-for-nasa-mars-mission/
+**Author:** [[Rocket Lab]]
+**Published:** 2024-07-29
+**Description:** Long Beach, Calif. July 29, 2024– Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, has completed integration and testing of two spacecraft destined for Mars orbit.
+**Customer:** [[NASA]]
+**Mission:** [[ESCAPADE]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-completes-integration-and-testing-of-twin-spacecraft-for-nasa-mars-mission/
 

@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Introduces Next-Generation Satellite Dispenser "
 source: "https://www.rocketlabusa.com/updates/new-blog-post-17/"
 author:
@@ -8,6 +9,13 @@ description: "*Long Beach, Calif. August 5, 2024*– Rocket Lab USA, Inc. (Nasda
 tags:
   - "space-systems"
 ---
+
+#space-systems
+**Title:** Rocket Lab Introduces Next-Generation Satellite Dispenser 
+**Source:** https://www.rocketlabusa.com/updates/new-blog-post-17/
+**Author:** [[Rocket Lab]]
+**Published:** 2024-08-05
+**Description:** *Long Beach, Calif. August 5, 2024*– Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, introduced its next generation satellite separation system, the Advanced Satellite Dispenser (ASD), at the Small Satellite Conference in Logan, Utah.
 
 **Source**: https://www.rocketlabusa.com/updates/new-blog-post-17/
 

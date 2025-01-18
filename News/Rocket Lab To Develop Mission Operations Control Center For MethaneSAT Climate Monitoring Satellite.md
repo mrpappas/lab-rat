@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab To Develop Mission Operations Control Center For MethaneSAT Climate Monitoring Satellite "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-to-develop-mission-operations-control-center-for-methanesat-climate-monitoring-satellite/"
 author:
@@ -12,6 +13,16 @@ mission:
 tags:
  - space-systems
 ---
+
+#space-systems
+**Title:** Rocket Lab To Develop Mission Operations Control Center For MethaneSAT Climate Monitoring Satellite 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-develop-mission-operations-control-center-for-methanesat-climate-monitoring-satellite/
+**Author:** [[Rocket Lab]]
+**Published:** 2021-04-22
+**Description:** *Long Beach, California. April 22nd , 2021 –* Rocket Lab, the global leader in launch and space systems, will play a critical role in an international climate change mission by developing a Mission Operations Control Center (MOCC) for MethaneSAT, a unique satellite mission created to foster and accelerate reductions in the emissions of methane, a potent greenhouse gas responsible for at least a quarter of today’s planetary warming.
+**Customer:** [[MethaneSAT]]
+**Mission:** [[Mission Operations Control Center for MethaneSAT]]
+
 **Long Beach, California. April 22<sup>nd</sup> , 2021 –** Rocket Lab, the global leader in launch and space systems, will play a critical role in an international climate change mission by developing a Mission Operations Control Center (MOCC) for MethaneSAT, a unique satellite mission created to foster and accelerate reductions in the emissions of methane, a potent greenhouse gas responsible for at least a quarter of today’s planetary warming.
 
 Led by the non-profit Environmental Defense Fund, the 350 kg class MethaneSAT will locate and measure methane from the oil, gas, and agriculture industries around the globe, enabling regulators, businesses, and researchers to track and reduce emissions faster. With a highly sensitive spectrometer capable of detecting methane concentrations as low as two parts per billion, MethaneSAT will quantify and report emissions in near real-time from sources large and small, providing regular monitoring of regions accounting for more than 80% of global oil and gas production. MethaneSAT will publish data free of charge so that stakeholders and the public can compare progress by both companies and countries.

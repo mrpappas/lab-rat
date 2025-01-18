@@ -1,4 +1,5 @@
 ---
+
 title: "How to bring a rocket back from space  "
 source: "https://www.rocketlabusa.com/updates/how-to-bring-a-rocket-back-from-space/"
 author:
@@ -16,6 +17,16 @@ mission:
 tags:
  - electron
 ---
+
+#electron
+**Title:** How to bring a rocket back from space  
+**Source:** https://www.rocketlabusa.com/updates/how-to-bring-a-rocket-back-from-space/
+**Author:** [[Rocket Lab]]
+**Published:** 2020-11-30
+**Description:** *Return to Sender Recovery Update*
+**Customer:** [[Trisept]], [[Unseenlabs]], [[Swarm]], [[The University of Auckland]], [[Valve]]
+**Mission:** [[016 'Return to Sender' - Electron]]
+
 ## **Return to Sender Recovery Update**
 
 A little over a week on from the Return to Sender mission, our team is still on a high from recovering an Electron booster for the first time. This was a monumental milestone and achievement for our recovery plans and sets us on a strong path to make Electron a reusable launch vehicle. Here’s how it all went down, and what’s next for the Rocket Lab reusability program.
@@ -51,4 +62,3 @@ We couldn’t have asked for a better outcome of our first recovery attempt and 
 ---
 
 ![How to bring a rocket back from space ](https://www.rocketlabusa.com/assets/Uploads/Return-to-Sender.jpg)
-

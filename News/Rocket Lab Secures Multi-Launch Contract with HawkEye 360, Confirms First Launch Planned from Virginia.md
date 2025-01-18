@@ -1,15 +1,25 @@
 ---
+
 title: "Rocket Lab Secures Multi-Launch Contract with HawkEye 360, Confirms First Launch Planned from Virginia "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-secures-multi-launch-contract-with-hawkeye-360-confirms-first-launch-planned-from-virginia/"
 author:
   - "[[Rocket Lab]]"
 published: 2022-04-19
 description: "*Rocket Lab Secures Multi-Launch Contract with HawkEye 360, Confirms First Launch Planned from Virginia*"
-customer: [[HawkEye 360]]
+customer: "[[HawkEye 360]]"
 tags: 
  - electron
  - contract
 ---
+
+#electron #contract
+**Title:** Rocket Lab Secures Multi-Launch Contract with HawkEye 360, Confirms First Launch Planned from Virginia 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-secures-multi-launch-contract-with-hawkeye-360-confirms-first-launch-planned-from-virginia/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-04-19
+**Description:** *Rocket Lab Secures Multi-Launch Contract with HawkEye 360, Confirms First Launch Planned from Virginia*
+**Customer:** [[HawkEye 360]]
+
 Rocket Lab Secures Multi-Launch Contract with HawkEye 360, Confirms First Launch Planned from Virginia
 
 Rocket Lab will launch three Electron missions for HawkEye 360, the first of which is expected to be the inaugural launch from Rocket Lab Launch Complex 2 in Virginia

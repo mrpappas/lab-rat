@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Signs Deal to Launch South Korean Satellite  "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-signs-deal-to-launch-south-korean-satellite/"
 author:
@@ -11,6 +12,15 @@ tags:
   - "contract"
   - "electron"
 ---
+
+#contract #electron
+**Title:** Rocket Lab Signs Deal to Launch South Korean Satellite  
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-signs-deal-to-launch-south-korean-satellite/
+**Author:** [[Rocket Lab]]
+**Published:** 2023-12-07
+**Description:** *KAIST’s NeonSat-1 will launch as the primary payload on an Electron rideshare mission with NASA in the first half of 2024.*
+**Customer:** [[Korea Advanced Institute of Science and Technology]]
+**Mission:** [[047 'Beginning Of The Swarm' - Electron]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-signs-deal-to-launch-south-korean-satellite/
 

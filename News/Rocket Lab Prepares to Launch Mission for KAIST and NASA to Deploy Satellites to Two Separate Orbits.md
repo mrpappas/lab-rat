@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Prepares to Launch Mission for KAIST and NASA to Deploy Satellites to Two Separate Orbits "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-prepares-to-launch-mission-for-kaist-and-nasa-to-deploy-satellites-to-two-separate-orbits/"
 author:
@@ -13,6 +14,15 @@ tags:
   - "launch"
   - "electron"
 ---
+
+#launch #electron
+**Title:** Rocket Lab Prepares to Launch Mission for KAIST and NASA to Deploy Satellites to Two Separate Orbits 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-prepares-to-launch-mission-for-kaist-and-nasa-to-deploy-satellites-to-two-separate-orbits/
+**Author:** [[Rocket Lab]]
+**Published:** 2024-04-01
+**Description:** This latest mission will see Rocket Lab perform multiple in-space engine burns to deploy two payloads to separate orbits several hundred kilometres apart.
+**Customer:** [[NASA]], [[Korea Advanced Institute of Science and Technology]]
+**Mission:** [[047 'Beginning Of The Swarm' - Electron]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-prepares-to-launch-mission-for-kaist-and-nasa-to-deploy-satellites-to-two-separate-orbits/
 

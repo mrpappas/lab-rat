@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab | The Space Company "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-deploys-satellite-for-synspective-caps-off-year-with-60-increase-in-launches-yoy/"
 author:
@@ -11,6 +12,15 @@ tags:
   - "launch"
   - "electron"
 ---
+
+#launch #electron
+**Title:** Rocket Lab | The Space Company 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-deploys-satellite-for-synspective-caps-off-year-with-60-increase-in-launches-yoy/
+**Author:** [[Rocket Lab]]
+**Published:** 2024-12-22
+**Description:** The end-to-end space company delivering reliable launch services, spacecraft, satellite components.
+**Customer:** [[Synspective]]
+**Mission:** [[058 'Owl The Way Up' - Electron]]
 
 **Source**: https://www.rocketlabusa.com/updates/rocket-lab-successfully-deploys-satellite-for-synspective-caps-off-year-with-60-increase-in-launches-yoy/
 

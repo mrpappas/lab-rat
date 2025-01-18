@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Progresses Flight Review, Recovers First Stage Following Successful Ocean Splashdown "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-progresses-flight-review-recovers-first-stage-following-successful-ocean-splashdown/"
 author:
@@ -14,6 +15,16 @@ tags:
  - launch
  - anomaly
 ---
+
+#electron #launch #anomaly
+**Title:** Rocket Lab Progresses Flight Review, Recovers First Stage Following Successful Ocean Splashdown 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-progresses-flight-review-recovers-first-stage-following-successful-ocean-splashdown/
+**Author:** [[Rocket Lab]]
+**Published:** 2021-05-17
+**Description:** *Rocket Lab Progresses Flight Review, Recovers First Stage Following Successful Ocean Splashdown*
+**Customer:** [[BlackSky]]
+**Mission:** [[020 'Running Out Of Toes' - Electron]]
+
 **Rocket Lab Progresses Flight Review, Recovers First Stage Following Successful Ocean Splashdown**
 
 **Long Beach, Calif. May 17<sup>th</sup>, 2021 -** On May 15, 2021, Rocket Lab experienced an anomaly almost three minutes into the company’s 20<sup>th</sup> Electron launch. Following a successful lift-off from Launch Complex 1, Electron proceeded through a nominal first stage engine burn, stage separation, and stage 2 ignition. Shortly after the second stage ignition the engine shut down, resulting in the loss of the mission.

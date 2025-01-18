@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab to Resume Electron Launches in August  "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-to-resume-electron-launches-in-august/"
 author:
@@ -16,6 +17,16 @@ tags:
  - electron
  - anomaly
 ---
+
+#electron #anomaly
+**Title:** Rocket Lab to Resume Electron Launches in August  
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-resume-electron-launches-in-august/
+**Author:** [[Rocket Lab]]
+**Published:** 2020-07-31
+**Description:** *Rocket Lab to Resume Electron Launches in August*
+**Customer:** [[Planet Labs]], [[Spaceflight]], [[Canon Electronics]], [[In-Space Missions]]
+**Mission:** [[013 'Pics Or It Didn't Happen' - Electron]]
+
 **Rocket Lab to Resume Electron Launches in August**
 
 *Four weeks after experiencing an in-flight anomaly, Rocket Lab has identified the issue and received approval from the Federal Aviation Administration to return to flight* 

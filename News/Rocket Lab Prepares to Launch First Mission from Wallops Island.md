@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Prepares to Launch First Mission from Wallops Island "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-prepares-to-launch-first-mission-from-wallops-island/"
 author:
@@ -11,6 +12,15 @@ tags:
   - "launch"
   - "electron"
 ---
+
+#launch #electron
+**Title:** Rocket Lab Prepares to Launch First Mission from Wallops Island 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-prepares-to-launch-first-mission-from-wallops-island/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-12-17
+**Description:** The mission will lift off from Rocket Lab Launch Complex 2 at Virginia Space’s Mid-Atlantic Regional Spaceport within the NASA Wallops Flight Facility
+**Customer:** [[HawkEye 360]]
+**Mission:** [[033 'Virginia is for Launch Lovers' - Electron]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-prepares-to-launch-first-mission-from-wallops-island/
 

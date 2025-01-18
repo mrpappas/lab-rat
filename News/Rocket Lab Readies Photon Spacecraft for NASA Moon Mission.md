@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Readies Photon Spacecraft for NASA Moon Mission "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-readies-photon-spacecraft-for-nasa-moon-mission/"
 author:
@@ -15,6 +16,16 @@ tags:
  - photon
  - electron
 ---
+
+#space-systems #photon #electron
+**Title:** Rocket Lab Readies Photon Spacecraft for NASA Moon Mission 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-readies-photon-spacecraft-for-nasa-moon-mission/
+**Author:** [[Rocket Lab]]
+**Published:** 2020-12-11
+**Description:** *Rocket Lab Readies Photon Spacecraft for NASA Moon Mission*
+**Customer:** [[NASA]], [[Advanced Space]]
+**Mission:** [[027 'CAPSTONE' - Electron]]
+
 **Rocket Lab Readies Photon Spacecraft for NASA Moon Mission**
 
 *The CAPSTONE mission will see Rocket Lab extend its reach far beyond Earth orbit for the first time to deploy an in-house designed and built Photon spacecraft to the Moon.*

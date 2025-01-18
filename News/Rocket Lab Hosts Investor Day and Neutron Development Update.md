@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Hosts Investor Day and Neutron Development Update "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-hosts-investor-day-and-neutron-development-update/"
 author:
@@ -8,6 +9,13 @@ description: "*New York,. 21 September, 2022 *– Rocket Lab USA, Inc (Nasdaq: R
 tags:
   - "neutron"
 ---
+
+#neutron
+**Title:** Rocket Lab Hosts Investor Day and Neutron Development Update 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-hosts-investor-day-and-neutron-development-update/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-09-21
+**Description:** *New York,. 21 September, 2022 *– Rocket Lab USA, Inc (Nasdaq: RKLB), a leading launch and space systems company, today hosted an Investor Day and Neutron Development Update at the Intrepid Air, Sea and Space Museum in New York City.
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-hosts-investor-day-and-neutron-development-update/
 

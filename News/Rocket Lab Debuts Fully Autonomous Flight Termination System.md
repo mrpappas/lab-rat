@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Debuts Fully Autonomous Flight Termination System  "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-debuts-fully-autonomous-flight-termination-system/"
 author:
@@ -14,6 +15,16 @@ mission:
 tags:
  - electron
 ---
+
+#electron
+**Title:** Rocket Lab Debuts Fully Autonomous Flight Termination System  
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-debuts-fully-autonomous-flight-termination-system/
+**Author:** [[Rocket Lab]]
+**Published:** 2019-12-09
+**Description:** *Rocket Lab demonstrated the system on the company’s recent 10th Electron launch in a move that will enable a higher launch cadence and deliver responsive launch capability*
+**Customer:** [[Alba Orbital]], [[Spaceflight]], [[ALE]]
+**Mission:** [[010 'Running Out Of Fingers' - Electron]]
+
 ***Rocket Lab demonstrated the system on the company’s recent 10th Electron launch in a move that will enable a higher launch cadence and deliver responsive launch capability*** 
 
 Huntington Beach, California. 9 December 2019 – Rocket Lab, the global leader in dedicated small satellite launch, has flown a fully Autonomous Flight Termination System (AFTS) for the first time on an Electron launch vehicle. The AFTS flown on the company’s most recent mission, ‘Running Out Of Fingers’, makes Rocket Lab one of only two U.S. launch companies to fly with an autonomous system.

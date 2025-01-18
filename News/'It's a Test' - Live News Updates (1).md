@@ -1,4 +1,5 @@
 ---
+
 title: "'It's a Test' - Live News Updates "
 source: "https://www.rocketlabusa.com/updates/live-news-updates/"
 author:
@@ -12,6 +13,16 @@ tags:
  - electron
  - launch
 ---
+
+#electron #launch
+**Title:** 'It's a Test' - Live News Updates 
+**Source:** https://www.rocketlabusa.com/updates/live-news-updates/
+**Author:** [[Rocket Lab]]
+**Published:** 2017-05-23
+**Description:** *Rocket Lab Testing Update - 23 May 2017 (NZST)*
+**Customer:** n/a
+**Mission:** [[001 'It's a Test' - Electron]]
+
 **Rocket Lab Testing Update - 23 May 2017 (NZST)**
 
 The launch is currently on hold due to weather conditions - high clouds are causing a risk of triboelectrification. More updates to follow.
@@ -27,4 +38,3 @@ Peter Beck, CEO and founder of Rocket Lab, says “Safety is Rocket Lab’s numb
 During the test phase, it’s common for planned launches to be postponed to ensure ideal conditions.The launch attempt will now occur on Tuesday 23 May 2017.
 
 For updates from Rocket Lab, follow us on Twitter [http://twitter.com/RocketLabUSA](https://twitter.com/RocketLabUSA)
-

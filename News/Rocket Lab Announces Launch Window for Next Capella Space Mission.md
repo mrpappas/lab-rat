@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Announces Launch Window for Next Capella Space Mission "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-announces-launch-window-for-next-capella-space-mission/"
 author:
@@ -11,6 +12,15 @@ tags:
   - "launch"
   - "electron"
 ---
+
+#launch #electron
+**Title:** Rocket Lab Announces Launch Window for Next Capella Space Mission 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-announces-launch-window-for-next-capella-space-mission/
+**Author:** [[Rocket Lab]]
+**Published:** 2023-09-07
+**Description:** The “We Will Never Desert You”mission will be Rocket Lab’s second launch for Capella Space in less than four weeks.
+**Customer:** [[Capella Space]]
+**Mission:** [[041 'We Will Never Desert You' - Electron]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-announces-launch-window-for-next-capella-space-mission/
 

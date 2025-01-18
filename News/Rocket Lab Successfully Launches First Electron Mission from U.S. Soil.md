@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Successfully Launches First Electron Mission from U.S. Soil "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-first-electron-mission-from-u-s-soil/"
 author:
@@ -11,6 +12,15 @@ tags:
   - "launch"
   - "electron"
 ---
+
+#launch #electron
+**Title:** Rocket Lab Successfully Launches First Electron Mission from U.S. Soil 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-first-electron-mission-from-u-s-soil/
+**Author:** [[Rocket Lab]]
+**Published:** 2023-01-24
+**Description:** *Rocket Lab Successfully Launches First U.S. Electron Mission*
+**Customer:** [[HawkEye 360]]
+**Mission:** [[033 'Virginia is for Launch Lovers' - Electron]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-first-electron-mission-from-u-s-soil/
 

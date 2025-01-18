@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab to Launch 31st Mission, Deploying Environmental Monitoring Satellite for General Atomics  "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-to-launch-31st-mission-deploying-environmental-monitoring-satellite-for-general-atomics/"
 author:
@@ -14,6 +15,16 @@ tags:
   - "launch"
   - "electron"
 ---
+
+#launch #electron
+**Title:** Rocket Lab to Launch 31st Mission, Deploying Environmental Monitoring Satellite for General Atomics  
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-launch-31st-mission-deploying-environmental-monitoring-satellite-for-general-atomics/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-10-04
+**Description:** As the eighth Electron mission of the year, the launch will see the Company surpass its previous record of seven launches in one year
+**Customer:** [[General Atomics Electromagnetic Systems]], [[CNES]], [[NOAA]]
+**Mission:** [[031 'It Argos Up From Here' - Electron]]
+
 *As the eighth Electron mission of the year, the launch will see the Company surpass its previous record of seven launches in one year*
 
 **LONG BEACH, Calif. Oct. 4, 2022** – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, is preparing to launch its 31<sup>st</sup> Electron rocket and 151<sup>st</sup> satellite to orbit during a dedicated mission for [[General Atomics Electromagnetic Systems]] (GA-EMS) on Friday, October 7 UTC.   

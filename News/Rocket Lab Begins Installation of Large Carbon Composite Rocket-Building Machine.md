@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Begins Installation of Large Carbon Composite Rocket-Building Machine "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-begins-installation-of-large-carbon-composite-rocket-building-machine/"
 author:
@@ -7,6 +8,12 @@ published: 2024-08-08
 description: "The 90-tonne Automated Fiber Placement (AFP) machine has been custom-designed and built for Rocket Lab and is expected to save around 150,000 manufacturing hours in the Neutron rocket’s production process."
 
 ---
+
+**Title:** Rocket Lab Begins Installation of Large Carbon Composite Rocket-Building Machine 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-begins-installation-of-large-carbon-composite-rocket-building-machine/
+**Author:** [[Rocket Lab]]
+**Published:** 2024-08-08
+**Description:** The 90-tonne Automated Fiber Placement (AFP) machine has been custom-designed and built for Rocket Lab and is expected to save around 150,000 manufacturing hours in the Neutron rocket’s production process.
 
 **Source**: https://www.rocketlabusa.com/updates/rocket-lab-begins-installation-of-large-carbon-composite-rocket-building-machine/
 
@@ -26,4 +33,3 @@ The AFP machine will also be leveraged to print smaller carbon composite Neutron
 
 ---
 ![[Pasted image 20241228034358.jpg]]
-

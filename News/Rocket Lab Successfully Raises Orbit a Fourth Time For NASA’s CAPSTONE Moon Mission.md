@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Successfully Raises Orbit a Fourth Time For NASA’s CAPSTONE Moon Mission "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-raises-orbit-a-fourth-time-for-nasas-capstone-moon-mission/"
 author:
@@ -15,6 +16,17 @@ tags:
  - space-systems
  - electron
 ---
+
+#space-systems #electron
+**Title:** Rocket Lab Successfully Raises Orbit a Fourth Time For NASA’s CAPSTONE Moon Mission 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-raises-orbit-a-fourth-time-for-nasas-capstone-moon-mission/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-06-30
+**Description:** *Long Beach, California. June 30, 2022* – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, today confirmed its Photon Lunar spacecraft has successfully brought the CAPSTONE s7atellite for NASA closer to the Moon with the completion of its fourth orbit raising maneuver.
+**Customer:** [[NASA]], [[Advanced Space]]
+**Mission:** [[027 'CAPSTONE' - Electron]]
+**Insider:** None
+
 **Long Beach, California. June 30, 2022** – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, today confirmed its Photon Lunar spacecraft has successfully brought the CAPSTONE satellite for NASA closer to the Moon with the completion of its fourth orbit raising maneuver.
 
 After CAPSTONE was successfully delivered to space on Rocket Lab’s Electron rocket and Photon Lunar spacecraft, NASA’s CubeSat remains attached to Photon as it periodically ignites its HyperCurie engine to accelerate the mission beyond Earth’s orbit.

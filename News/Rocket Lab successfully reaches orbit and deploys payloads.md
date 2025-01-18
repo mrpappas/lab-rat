@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab successfully reaches orbit and deploys payloads "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-reaches-orbit-and-deploys-payloads-january-21-2018/"
 author:
@@ -14,6 +15,16 @@ tags:
  - electron
  - launch
 ---
+
+#electron #launch
+**Title:** Rocket Lab successfully reaches orbit and deploys payloads 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-reaches-orbit-and-deploys-payloads-january-21-2018/
+**Author:** [[Rocket Lab]]
+**Published:** 2018-01-21
+**Description:** *Huntington Beach, California and Auckland, New Zealand January 21 2018:*
+**Customer:** [[Planet Labs]], [[Spire Global]]
+**Mission:** [[002 'Still Testing' - Electron]]
+
 **Huntington Beach, California and Auckland, New Zealand January 21 2018:**
 
 Rocket Lab has successfully reached orbit with the test flight of its second Electron orbital launch vehicle, Still Testing. Electron lifted-off at 14:43 NZDT from Rocket Lab Launch Complex 1 on the Māhia Peninsula in New Zealand.

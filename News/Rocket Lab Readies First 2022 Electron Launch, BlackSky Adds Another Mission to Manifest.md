@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Readies First 2022 Electron Launch, BlackSky Adds Another Mission to Manifest "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-readies-first-2022-electron-launch-blacksky-adds-another-mission-to-manifest/"
 author:
@@ -13,6 +14,16 @@ tags:
  - electron
  - launch
 ---
+
+#electron #launch
+**Title:** Rocket Lab Readies First 2022 Electron Launch, BlackSky Adds Another Mission to Manifest 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-readies-first-2022-electron-launch-blacksky-adds-another-mission-to-manifest/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-01-18
+**Description:** This 24th Electron launch is the latest in a multi-launch deal with Spaceflight Inc. for BlackSky, which has secured an additional dedicated mission on Rocket Lab’s 2022 launch manifest following multiple successful missions last year.
+**Customer:** [[BlackSky]]
+**Mission:** [[025 'Without Mission A Beat' - Electron]]
+
 *This 24<sup>th</sup> Electron launch is the latest in a multi-launch deal with Spaceflight Inc. for BlackSky, which has secured an additional dedicated mission on Rocket Lab’s 2022 launch manifest following multiple successful missions last year.*
 
 **Long Beach, California. 18 January 2022** – Rocket Lab USA, Inc (Nasdaq: [RKLB](https://investors.rocketlabusa.com/)), a leading launch and space systems company, has today announced the launch window for its first Electron mission in 2022, a dedicated mission for BlackSky (NYSE: [BKSY](http://www.blacksky.com/)) through global launch services provider Spaceflight Inc.

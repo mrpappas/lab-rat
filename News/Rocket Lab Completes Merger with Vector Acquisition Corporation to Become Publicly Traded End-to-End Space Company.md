@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Completes Merger with Vector Acquisition Corporation to Become Publicly Traded End-to-End Space Company "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-completes-merger-with-vector-acquisition-corporation-to-become-publicly-traded-end-to-end-space-company/"
 author:
@@ -7,6 +8,13 @@ published: 2021-08-25
 description: "*Rocket Lab Completes Merger with Vector Acquisition Corporation to Become Publicly Traded End-to-End Space Company*"
 
 ---
+
+**Title:** Rocket Lab Completes Merger with Vector Acquisition Corporation to Become Publicly Traded End-to-End Space Company 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-completes-merger-with-vector-acquisition-corporation-to-become-publicly-traded-end-to-end-space-company/
+**Author:** [[Rocket Lab]]
+**Published:** 2021-08-25
+**Description:** *Rocket Lab Completes Merger with Vector Acquisition Corporation to Become Publicly Traded End-to-End Space Company*
+
 **Rocket Lab Completes Merger with Vector Acquisition Corporation to Become Publicly Traded End-to-End Space Company**
 
 Rocket Lab’s common stock to commence trading on the Nasdaq under the ticker “RKLB” on August 25, 2021.

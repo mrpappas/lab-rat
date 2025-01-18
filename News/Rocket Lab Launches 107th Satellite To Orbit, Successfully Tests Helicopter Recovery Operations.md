@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Launches 107th Satellite To Orbit, Successfully Tests Helicopter Recovery Operations "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-launches-107th-satellite-to-orbit-successfully-tests-helicopter-recovery-operations/"
 author:
@@ -15,6 +16,16 @@ tags:
  - launch
  - reusability
 ---
+
+#electron #launch #reusability
+**Title:** Rocket Lab Launches 107th Satellite To Orbit, Successfully Tests Helicopter Recovery Operations 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-launches-107th-satellite-to-orbit-successfully-tests-helicopter-recovery-operations/
+**Author:** [[Rocket Lab]]
+**Published:** 2021-11-18
+**Description:** Mahia, New Zealand. 18 November 2021 – Rocket Lab (Nasdaq: RKLB[https://investors.rocketlabusa.com/]), a leading launch and space systems company, has successfully deployed two satellites to orbit for real-time geospatial monitoring company BlackSky (NYSE: BKSY[https://ir.blacksky.com/]). Rocket Lab also successfully introduced helicopter operations to a recovery mission for the first time, using a helicopter to observe and track the Electron rocket’s first stage as it descended to Earth under parachute as part of the company’s program to make Electron the world’s first reusable...
+**Customer:** [[BlackSky]], [[Spaceflight]]
+**Mission:** [[022 'Love At First Insight' - Electron]]
+
 Mahia, New Zealand. 18 November 2021 – Rocket Lab (Nasdaq: [RKLB](https://investors.rocketlabusa.com/)), a leading launch and space systems company, has successfully deployed two satellites to orbit for real-time geospatial monitoring company [[BlackSky]] (NYSE: [BKSY](https://ir.blacksky.com/)). Rocket Lab also successfully introduced helicopter operations to a recovery mission for the first time, using a helicopter to observe and track the Electron rocket’s first stage as it descended to Earth under parachute as part of the company’s program to make Electron the world’s first reusable, orbital-class commercial small rocket.
 
 The ‘Love At First Insight’ mission, arranged for BlackSky through launch services provider Spaceflight Inc., was Electron’s 22<sup>nd</sup> lift-off from Rocket Lab Launch Complex 1 on New Zealand’s Mahia Peninsula. Following lift-off at 01:38 UTC, 18 November 2021, Electron successfully delivered the two BlackSky Gen-2 Earth-imaging satellites to a circular 430km orbit, growing BlackSky’s constellation of real-time geospatial monitoring spacecraft and bringing the total number of satellites deployed by Rocket Lab to 107.

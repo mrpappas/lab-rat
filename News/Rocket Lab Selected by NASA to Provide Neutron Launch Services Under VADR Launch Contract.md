@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Selected by NASA to Provide Neutron Launch Services Under VADR Launch Contract | Rocket Lab"
 source: "https://www.rocketlabusa.com/updates/rocket-lab-selected-by-nasa-to-provide-neutron-launch-services-under-vadr-launch-contract/"
 author:
@@ -13,6 +14,16 @@ tags:
  - neutron
  - contract
 ---
+
+#neutron #contract
+**Title:** Rocket Lab Selected by NASA to Provide Neutron Launch Services Under VADR Launch Contract | Rocket Lab
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-selected-by-nasa-to-provide-neutron-launch-services-under-vadr-launch-contract/
+**Author:** [[Rocket Lab]]
+**Published:** 2025-01-09
+**Description:** *Long Beach, California. January 9, 2025*. Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced a mutual agreement with NASA has been reached to include Neutron launch services to the agency through Rocket Lab’s existing VADR (Venture-Class Acquisition of Dedicated and Rideshare) contract.
+**Customer:** [[NASA]]
+**Mission:** [[VADR]]
+
 **Long Beach, California. January 9, 2025**. Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced a mutual agreement with [[NASA]] has been reached to include Neutron launch services to the agency through Rocket Lab’s existing [[VADR]] (Venture-Class Acquisition of Dedicated and Rideshare) contract.
 
 Rocket Lab’s new medium-lift reusable rocket Neutron allows the opportunity for Rocket Lab to continue broadening access to space to deliver multiple missions across a range of orbits, including CubeSats, [[⚖️ NASA Mission and Instrument Risk Classification#Class D|Class D]] missions, and other payloads. With its small orbital launch vehicle [[Electron]] already on-ramped for NASA’s VADR missions, Rocket Lab has demonstrated time-sensitive back-to-back launches within two weeks for the VADR PREFIRE missions and completed a similar fast turnaround of two launches in May 2023 for the VADR TROPICS missions.

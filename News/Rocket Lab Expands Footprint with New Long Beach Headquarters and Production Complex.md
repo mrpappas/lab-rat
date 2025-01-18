@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Expands Footprint with New Long Beach Headquarters and Production Complex "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-expands-footprint-with-new-long-beach-headquarters-and-production-complex/"
 author:
@@ -7,6 +8,14 @@ published: 2020-01-14
 description: "*Rocket Lab Expands Footprint with New Long Beach Headquarters and Production Complex*"
 location: "[[Long Beach Complex]]"
 ---
+
+**Title:** Rocket Lab Expands Footprint with New Long Beach Headquarters and Production Complex 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-expands-footprint-with-new-long-beach-headquarters-and-production-complex/
+**Author:** [[Rocket Lab]]
+**Published:** 2020-01-14
+**Description:** *Rocket Lab Expands Footprint with New Long Beach Headquarters and Production Complex*
+**Location:** [[Long Beach Complex]]
+
 **Rocket Lab Expands Footprint with New Long Beach Headquarters and Production Complex**
 
 Huntington Beach, California. 14 January 2020 – Rocket Lab, the global leader in dedicated small satellite launch, has announced it will open a new facility which will serve as its Corporate Headquarters, provide incremental production capacity, and bring Mission Control Center capabilities to Long Beach, California.

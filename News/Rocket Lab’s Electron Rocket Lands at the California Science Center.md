@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab’s Electron Rocket Lands at the California Science Center "
 source: "https://www.rocketlabusa.com/updates/rocket-labs-electron-rocket-lands-at-the-california-science-center/"
 author:
@@ -8,6 +9,13 @@ description: "*Long Beach, Calif. June 24 2024*– Rocket Lab USA, Inc. (Nasdaq:
 tags:
   - "electron"
 ---
+
+#electron
+**Title:** Rocket Lab’s Electron Rocket Lands at the California Science Center 
+**Source:** https://www.rocketlabusa.com/updates/rocket-labs-electron-rocket-lands-at-the-california-science-center/
+**Author:** [[Rocket Lab]]
+**Published:** 2024-06-24
+**Description:** *Long Beach, Calif. June 24 2024*– Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, has donated one of its Electron rockets to the California Science Center’s Samuel Oschin Air and Space Center expansion project.
 
 Source: https://www.rocketlabusa.com/updates/rocket-labs-electron-rocket-lands-at-the-california-science-center/
 

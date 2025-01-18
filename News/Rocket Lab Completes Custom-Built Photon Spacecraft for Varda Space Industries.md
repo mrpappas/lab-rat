@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Completes Custom-Built Photon Spacecraft for Varda Space Industries  "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-completes-custom-built-photon-spacecraft-for-varda-space-industries/"
 author:
@@ -9,6 +10,14 @@ customer: "[[Varda Space Industries]]"
 tags:
   - "space-systems"
 ---
+
+#space-systems
+**Title:** Rocket Lab Completes Custom-Built Photon Spacecraft for Varda Space Industries  
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-completes-custom-built-photon-spacecraft-for-varda-space-industries/
+**Author:** [[Rocket Lab]]
+**Published:** 2023-05-09
+**Description:** *The spacecraft is the first of four to be completed for Varda Space Industries to enable in-space pharmaceutical manufacturing*
+**Customer:** [[Varda Space Industries]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-completes-custom-built-photon-spacecraft-for-varda-space-industries/
 

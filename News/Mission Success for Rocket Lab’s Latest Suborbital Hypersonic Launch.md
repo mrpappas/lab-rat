@@ -1,4 +1,5 @@
 ---
+
 title: "Mission Success for Rocket Lab’s Latest Suborbital Hypersonic Launch  "
 source: "https://www.rocketlabusa.com/updates/mission-success-for-rocket-labs-latest-suborbital-hypersonic-launch/"
 author:
@@ -11,6 +12,15 @@ tags:
   - "launch"
   - "HASTE"
 ---
+
+#launch #HASTE
+**Title:** Mission Success for Rocket Lab’s Latest Suborbital Hypersonic Launch  
+**Source:** https://www.rocketlabusa.com/updates/mission-success-for-rocket-labs-latest-suborbital-hypersonic-launch/
+**Author:** [[Rocket Lab]]
+**Published:** 2024-12-09
+**Description:** *Long Beach, Calif. 09 December, 2024.* Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced it successfully launched a suborbital mission in November to test hypersonic technology for the Department of Defense.
+**Customer:** [[U.S. Department of Defense]]
+**Mission:** [[055 'HASTE A La Vista' - HASTE]]
 
 **Source**: https://www.rocketlabusa.com/updates/mission-success-for-rocket-labs-latest-suborbital-hypersonic-launch/
 
@@ -25,4 +35,3 @@ Rocket Lab’s test platform showcased a new suite of cutting-edge technologies 
 Rocket Lab’s Vice President Global Launch Services, Brian Rogers, says: “Hypersonic technology testing is a critical need for the nation and one that we’re proud to be serving with our test launches. Again, we broke new ground with this launch, and our ability to deliver successful tests demonstrates our commitment to working with our government and industry partners in pushing the boundaries of hypersonic innovation.”
 
 Rocket Lab has been launching missions to space for commercial and government customers since 2017, with more than 200 payloads deployed from its United States and New Zealand launch sites.
-

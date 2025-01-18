@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Celebrates CHIPS Act Funding Preliminary Agreement in Albuquerque "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-celebrates-chips-act-funding-preliminary-agreement-in-albuquerque/"
 author:
@@ -9,6 +10,13 @@ tags:
   - "solar"
   - "award"
 ---
+
+#solar #award
+**Title:** Rocket Lab Celebrates CHIPS Act Funding Preliminary Agreement in Albuquerque 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-celebrates-chips-act-funding-preliminary-agreement-in-albuquerque/
+**Author:** [[Rocket Lab]]
+**Published:** 2024-07-16
+**Description:** Long Beach, Calif. July 16, 2024– Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, welcomed government and community leaders at its space-grade solar cells manufacturing facility in Albuquerque, New Mexico, on Monday, July 15, 2024, to celebrate Rocket Lab’s signed preliminary agreement under the U.S. CHIPS and Science Act.
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-celebrates-chips-act-funding-preliminary-agreement-in-albuquerque/
 

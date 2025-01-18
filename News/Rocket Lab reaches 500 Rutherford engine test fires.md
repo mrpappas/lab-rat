@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab reaches 500 Rutherford engine test fires "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-reaches-500-rutherford-engine-test-fires/"
 author:
@@ -9,6 +10,14 @@ tags:
  - electron
  - rutherford
 ---
+
+#electron #rutherford
+**Title:** Rocket Lab reaches 500 Rutherford engine test fires 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-reaches-500-rutherford-engine-test-fires/
+**Author:** [[Rocket Lab]]
+**Published:** 2018-01-31
+**Description:** *Huntington Beach, California and Auckland, New Zealand January 31, 2018: *
+
 **Huntington Beach, California and Auckland, New Zealand January 31, 2018:** 
 
 Rocket Lab, a US aerospace company with operations in New Zealand, has this month completed its 500<sup>th</sup> test fire of the orbital-class Rutherford rocket engine.

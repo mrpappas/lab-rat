@@ -1,4 +1,5 @@
 ---
+
 title: "Next Generation Electron Booster on the Pad  for Rocket Lab’s 10th Mission "
 source: "https://www.rocketlabusa.com/updates/next-generation-electron-booster-on-the-pad-for-rocket-labs-10th-mission/"
 author:
@@ -15,6 +16,16 @@ tags:
  - electron
  - launch
 ---
+
+#electron #launch
+**Title:** Next Generation Electron Booster on the Pad  for Rocket Lab’s 10th Mission 
+**Source:** https://www.rocketlabusa.com/updates/next-generation-electron-booster-on-the-pad-for-rocket-labs-10th-mission/
+**Author:** [[Rocket Lab]]
+**Published:** 2019-11-05
+**Description:** *Next Generation Electron Booster on the Pad for Rocket Lab’s 10th Mission*
+**Customer:** [[Alba Orbital]], [[Spaceflight]], [[ALE]]
+**Mission:** [[010 'Running Out Of Fingers' - Electron]]
+
 **Next Generation Electron Booster on the Pad for Rocket Lab’s 10<sup>th</sup> Mission**
 
 *The mission will carry several commercial small sats to orbit before Electron’s upgraded first stage undertakes a guided re-entry in a significant step towards reusable Rocket Lab vehicles.*

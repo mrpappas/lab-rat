@@ -1,4 +1,5 @@
 ---
+
 title: Rocket Lab Launches 16th Mission, Completes Booster Recovery 
 source: https://www.rocketlabusa.com/updates/rocket-lab-launches-16th-mission-completes-booster-recovery/
 author:
@@ -17,6 +18,16 @@ tags:
   - electron
   - launch
 ---
+
+#electron #launch
+**Title:** Rocket Lab Launches 16th Mission, Completes Booster Recovery
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-launches-16th-mission-completes-booster-recovery/
+**Author:** [[Rocket Lab]]
+**Published:** 2020-11-22
+**Description:** Rocket Lab Launches 16th Mission, Completes Booster Recovery
+**Customer:** [[Trisept]], [[Unseenlabs]], [[Swarm]], [[The University of Auckland]], [[Valve]]
+**Mission:** [[016 'Return to Sender' - Electron]]
+
 Rocket Lab Launches 16<sup>th</sup> Mission, Completes Booster Recovery 
 
 Mahia, New Zealand. 20 November 2020 – Rocket Lab, a space systems company and the global leader in dedicated small satellite launch, has successfully launched its 16<sup>th</sup> Electron mission and deployed 30 small satellites to orbit – the largest number of satellites deployed by Electron to date on a single mission.

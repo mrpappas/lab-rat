@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Successfully Launches 19th Electron, Deploys 100th Satellite  "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-19th-electron-deploys-100th-satellite/"
 author:
@@ -20,6 +21,16 @@ tags:
  - electron
  - launch
 ---
+
+#electron #launch
+**Title:** Rocket Lab Successfully Launches 19th Electron, Deploys 100th Satellite  
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-19th-electron-deploys-100th-satellite/
+**Author:** [[Rocket Lab]]
+**Published:** 2021-03-23
+**Description:** The successful rideshare mission brings the total count of satellites deployed by Rocket Lab to 104
+**Customer:** [[BlackSky]], [[Tyvak Nano-Satellite Systems]], [[Fleet Space]], [[Myriota]], [[UNSW Canberra Space]], [[Care Weather]], [[U.S. Army]], [[Trisept]]
+**Mission:** [[019 'They Go Up So Fast' - Electron]]
+
 *The successful rideshare mission brings the total count of satellites deployed by Rocket Lab to 104*
 
 **Long Beach, California. 23 March 2021** – Rocket Lab, a leading launch provider and space systems company, has successfully launched its 19th Electron mission and deployed six spacecraft to orbit for a range of government and commercial customers. The mission, named ‘They Go Up So Fast,’ also deployed Rocket Lab’s latest in-house manufactured Photon spacecraft to build flight heritage ahead of the upcoming CAPSTONE mission to the Moon for NASA.

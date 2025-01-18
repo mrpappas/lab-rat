@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab completes fit check for NASA VCLS ELaNa XIX mission "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-completes-fit-check-for-nasa-vcls-elana-xix-mission/"
 author:
@@ -13,6 +14,16 @@ tags:
  - electron
  - launch
 ---
+
+#electron #launch
+**Title:** Rocket Lab completes fit check for NASA VCLS ELaNa XIX mission 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-completes-fit-check-for-nasa-vcls-elana-xix-mission/
+**Author:** [[Rocket Lab]]
+**Published:** 2018-02-09
+**Description:** Early this month, Rocket Lab performed a successful fit check of the CubeSat dispensers for the NASA Venture Class Launch Service flight of the CubeSat Launch Initiative Educational Launch of Nanosatellites (ELaNa) XIX mission. The fit check was carried out at Rocket Lab’s Huntington Beach payload integration cleanroom.
+**Customer:** [[NASA]]
+**Mission:** [[004 'NASA ELaNa-19' - Electron]]
+
 Early this month, Rocket Lab performed a successful fit check of the CubeSat dispensers for the NASA Venture Class Launch Service flight of the CubeSat Launch Initiative Educational Launch of Nanosatellites (ELaNa) XIX mission. The fit check was carried out at Rocket Lab’s Huntington Beach payload integration cleanroom.
 
 Venture Class launches aim to provide dedicated launches for CubeSats that would normally fly as secondary payloads, enabling these science missions to get exactly where they need to go on orbit.

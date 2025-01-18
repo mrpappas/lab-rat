@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Spacecraft Built for Varda Successfully Operating on Orbit  "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-spacecraft-built-for-varda-successfully-operating-on-orbit/"
 author:
@@ -9,6 +10,14 @@ customer: "[[Varda Space Industries]]"
 tags:
   - "space-systems"
 ---
+
+#space-systems
+**Title:** Rocket Lab Spacecraft Built for Varda Successfully Operating on Orbit  
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-spacecraft-built-for-varda-successfully-operating-on-orbit/
+**Author:** [[Rocket Lab]]
+**Published:** 2023-06-12
+**Description:** The spacecraft is the first of four Rocket Lab has been contracted to build for Varda Space Industries to enable in-space manufacturing.
+**Customer:** [[Varda Space Industries]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-spacecraft-built-for-varda-successfully-operating-on-orbit/
 

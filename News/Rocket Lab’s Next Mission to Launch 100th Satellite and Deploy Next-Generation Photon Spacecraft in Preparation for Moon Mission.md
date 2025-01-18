@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab’s Next Mission to Launch 100th Satellite and Deploy Next-Generation Photon Spacecraft in Preparation for Moon Mission "
 source: "https://www.rocketlabusa.com/updates/rocket-labs-next-mission-to-launch-100th-satellite-and-deploy-next-generation-photon-spacecraft-in-preparation-for-moon-mission/"
 author:
@@ -21,6 +22,16 @@ tags:
  - launch
  - photon
 ---
+
+#electron #launch #photon
+**Title:** Rocket Lab’s Next Mission to Launch 100th Satellite and Deploy Next-Generation Photon Spacecraft in Preparation for Moon Mission 
+**Source:** https://www.rocketlabusa.com/updates/rocket-labs-next-mission-to-launch-100th-satellite-and-deploy-next-generation-photon-spacecraft-in-preparation-for-moon-mission/
+**Author:** [[Rocket Lab]]
+**Published:** 2021-02-09
+**Description:** The mission will deploy a range of satellites for commercial and government customers, as well as place a next-generation Photon spacecraft in orbit to build heritage for Rocket Lab’s upcoming mission to the Moon for NASA
+**Customer:** [[BlackSky]], [[Tyvak Nano-Satellite Systems]], [[Fleet Space]], [[Myriota]], [[UNSW Canberra Space]], [[Care Weather]], [[U.S. Army]], [[Trisept]]
+**Mission:** [[019 'They Go Up So Fast' - Electron]]
+
 *The mission will deploy a range of satellites for commercial and government customers, as well as place a next-generation Photon spacecraft in orbit to build heritage for Rocket Lab’s upcoming mission to the Moon for NASA*
 
 Rocket Lab, a leading launch provider and space systems company, has today announced its next mission will deploy a range of satellites for commercial and government satellite operators, and place a next-generation Photon spacecraft in orbit to build spacecraft heritage ahead of Rocket Lab’s mission to the Moon for NASA in Q3 this year.

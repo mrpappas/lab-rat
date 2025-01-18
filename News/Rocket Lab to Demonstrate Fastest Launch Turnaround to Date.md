@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab to Demonstrate Fastest Launch Turnaround to Date  "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-to-demonstrate-fastest-launch-turnaround-to-date/"
 author:
@@ -16,6 +17,16 @@ tags:
  - electron
  - launch
 ---
+
+#electron #launch
+**Title:** Rocket Lab to Demonstrate Fastest Launch Turnaround to Date  
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-demonstrate-fastest-launch-turnaround-to-date/
+**Author:** [[Rocket Lab]]
+**Published:** 2020-06-15
+**Description:** *Rocket Lab to Demonstrate Fastest Launch Turnaround to Date *
+**Customer:** [[Planet Labs]], [[Spaceflight]], [[Canon Electronics]], [[In-Space Missions]]
+**Mission:** [[013 'Pics Or It Didn't Happen' - Electron]]
+
 **Rocket Lab to Demonstrate Fastest Launch Turnaround to Date** 
 
 *Rocket Lab to demonstrate rapid launch capability by launching next mission just three weeks after previous launch*

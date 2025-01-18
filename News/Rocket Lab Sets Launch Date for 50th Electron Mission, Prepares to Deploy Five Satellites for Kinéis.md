@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Sets Launch Date for 50th Electron Mission, Prepares to Deploy Five Satellites for Kinéis "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-sets-launch-date-for-50th-electron-mission-prepares-to-deploy-five-satellites-for-kineis/"
 author:
@@ -11,6 +12,15 @@ tags:
   - "launch"
   - "electron"
 ---
+
+#launch #electron
+**Title:** Rocket Lab Sets Launch Date for 50th Electron Mission, Prepares to Deploy Five Satellites for Kinéis 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-sets-launch-date-for-50th-electron-mission-prepares-to-deploy-five-satellites-for-kineis/
+**Author:** [[Rocket Lab]]
+**Published:** 2024-06-07
+**Description:** The milestone mission is the first of five dedicated launches to deploy a 25-satellite constellation for French Internet-of-Things company Kinéis
+**Customer:** [[Kinéis]]
+**Mission:** [[050 'No Time Toulouse' - Electron]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-sets-launch-date-for-50th-electron-mission-prepares-to-deploy-five-satellites-for-kineis/
 

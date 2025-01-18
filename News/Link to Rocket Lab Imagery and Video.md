@@ -1,4 +1,5 @@
 ---
+
 title: "Link to Rocket Lab Imagery and Video "
 source: "https://www.rocketlabusa.com/updates/link-to-rocket-lab-imagery-and-video/"
 author:
@@ -6,6 +7,12 @@ author:
 published: 2013-11-04
 description: "Click here to access Rocket Lab imagery and video"
 ---
+
+**Title:** Link to Rocket Lab Imagery and Video 
+**Source:** https://www.rocketlabusa.com/updates/link-to-rocket-lab-imagery-and-video/
+**Author:** [[Rocket Lab]]
+**Published:** 2013-11-04
+**Description:** Click here to access Rocket Lab imagery and video
 
 [Click here](https://www.dropbox.com/sh/kumqcl235k3sghq/AAClqWXFMOufow8NijpjU0TKa?dl=0) to access Rocket Lab imagery and video
 

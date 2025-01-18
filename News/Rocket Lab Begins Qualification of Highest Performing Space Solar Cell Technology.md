@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Begins Qualification of Highest Performing Space Solar Cell Technology "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-begins-qualification-of-highest-performing-space-solar-cell-technology/"
 author:
@@ -11,6 +12,14 @@ tags:
  - solar
  - space-systems
 ---
+
+#solar #space-systems
+**Title:** Rocket Lab Begins Qualification of Highest Performing Space Solar Cell Technology 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-begins-qualification-of-highest-performing-space-solar-cell-technology/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-03-08
+**Description:** *Developed by SolAero Technologies Inc., a space solar power company recently acquired by Rocket Lab, the IMM-β solar cells are the highest efficiency commercial space solar cell*
+**Partner:** [[SolAero Technologies]]
 
 Developed by [[SolAero Technologies]] Inc., a space solar power company recently acquired by Rocket Lab, the IMM-β solar cells are the highest efficiency commercial space solar cell
 

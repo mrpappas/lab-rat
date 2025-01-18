@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Officially Opens Third Launch Pad, First Mission Scheduled to Launch Within a Week "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-officially-opens-third-launch-pad-first-mission-scheduled-to-launch-within-a-week/"
 author:
@@ -10,6 +11,15 @@ location:
 tags:
  - electron
 ---
+
+#electron
+**Title:** Rocket Lab Officially Opens Third Launch Pad, First Mission Scheduled to Launch Within a Week 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-officially-opens-third-launch-pad-first-mission-scheduled-to-launch-within-a-week/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-02-24
+**Description:** Located at Launch Complex 1 in New Zealand, the world’s first and only private orbital launch site, the new pad will enable Rocket Lab to double launch cadence
+**Location:** [[Launch Complex 1]]
+
 *Located at Launch Complex 1 in New Zealand, the world’s first and only private orbital launch site, the new pad will enable Rocket Lab to double launch cadence*
 
 **Mahia Peninsula, New Zealand. February 24, 2022** – Rocket Lab USA, Inc (Nasdaq: [RKLB](https://investors.rocketlabusa.com/)) (“Rocket Lab” or “the Company”),  a global leader in launch and space systems, today announced the completion of its second orbital launch pad at Launch Complex 1 in New Zealand – the Company’s third dedicated pad for its Electron rocket - and confirmed the new pad’s first mission will be a dedicated commercial launch scheduled to lift-off within a week’s time.

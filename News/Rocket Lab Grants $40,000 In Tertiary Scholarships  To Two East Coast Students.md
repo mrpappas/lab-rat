@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Grants $40,000 In Tertiary Scholarships  To Two East Coast Students "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-grants-40000-in-tertiary-scholarships-to-two-east-coast-students/"
 author:
@@ -6,6 +7,13 @@ author:
 published: 2021-12-01
 description: "Granted annually since 2017, the Rocket Lab Scholarship has for the first time been awarded twice in the same year to two Māori students studying a STEM degree at university"
 ---
+
+**Title:** Rocket Lab Grants $40,000 In Tertiary Scholarships  To Two East Coast Students 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-grants-40000-in-tertiary-scholarships-to-two-east-coast-students/
+**Author:** [[Rocket Lab]]
+**Published:** 2021-12-01
+**Description:** Granted annually since 2017, the Rocket Lab Scholarship has for the first time been awarded twice in the same year to two Māori students studying a STEM degree at university
+
 *Granted annually since 2017, the Rocket Lab Scholarship has for the first time been awarded twice in the same year to two Māori students studying a STEM degree at university* 
 
 **Auckland, New Zealand. 01 December 2021** – Rocket Lab (Nasdaq: [RKLB](https://investors.rocketlabusa.com/)), a leading launch and space systems company, has today awarded its annual Rocket Lab Scholarship to two recipients in the same year for the first time.
@@ -25,4 +33,3 @@ Rocket Lab founder and CEO, Peter Beck, says “Encouraging young New Zealanders
 With the double-awarding of the Rocket Lab Scholarship this year, Rocket Lab has now thrown its support behind six young students studying tertiary degrees in STEM to the tune of $120,000.
 
 The Rocket Lab Scholarship was founded to directly support the community surrounding Rocket Lab’s Launch Complex 1 on the Mahia Peninsula. It is designed to foster continued excellence and innovation amongst New Zealand’s next generation of science, technology, mathematics and engineering leaders. Applications for the annual scholarship open in term four each year at rocketlabusa.com.
-

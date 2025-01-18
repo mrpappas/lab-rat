@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Signs Multi-Launch Deal to Deploy Satellite Constellation for Capella Space "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-signs-multi-launch-deal-to-deploy-satellite-constellation-for-capella-space/"
 author:
@@ -10,6 +11,14 @@ tags:
   - "electron"
   - "contract"
 ---
+
+#electron #contract
+**Title:** Rocket Lab Signs Multi-Launch Deal to Deploy Satellite Constellation for Capella Space 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-signs-multi-launch-deal-to-deploy-satellite-constellation-for-capella-space/
+**Author:** [[Rocket Lab]]
+**Published:** 2023-02-28
+**Description:** The deal will see Rocket Lab launch four dedicated Electron missions for satellite and Earth imaging company Capella Space, in addition to a standalone mission scheduled for launch this month
+**Customer:** [[Capella Space]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-signs-multi-launch-deal-to-deploy-satellite-constellation-for-capella-space/
 

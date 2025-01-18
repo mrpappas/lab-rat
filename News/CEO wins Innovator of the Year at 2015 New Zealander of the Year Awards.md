@@ -1,4 +1,5 @@
 ---
+
 title: "CEO wins Innovator of the Year at 2015 New Zealander of the Year Awards "
 source: "https://www.rocketlabusa.com/updates/ceo-wins-innovator-of-the-year-at-2015-new-zealander-of-the-year-awards/"
 author:
@@ -8,6 +9,14 @@ description: "Peter Beck, founder and CEO of aerospace company Rocket Lab, has b
 insider:
  - "[[Peter Beck]]"
 ---
+
+**Title:** CEO wins Innovator of the Year at 2015 New Zealander of the Year Awards 
+**Source:** https://www.rocketlabusa.com/updates/ceo-wins-innovator-of-the-year-at-2015-new-zealander-of-the-year-awards/
+**Author:** [[Rocket Lab]]
+**Published:** 2015-03-31
+**Description:** Peter Beck, founder and CEO of aerospace company Rocket Lab, has been named Sanitarium Innovator of the Year at the 2015 Kiwibank New Zealander of the Year Awards.
+**Insider:** [[Peter Beck]]
+
 Peter Beck, founder and CEO of aerospace company Rocket Lab, has been named Sanitarium Innovator of the Year at the 2015 Kiwibank New Zealander of the Year Awards.
 
 The award was presented to Peter at an award ceremony in Auckland last night.

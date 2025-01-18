@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab and York Space Systems team up to develop rapid response launch capability "
 source: https://www.rocketlabusa.com/updates/rocket-lab-and-york-space-systems-team-up-to-develop-rapid-response-launch-capability/
 author:
@@ -10,6 +11,15 @@ tags:
   - space-systems
   - launch
 ---
+
+#space-systems #launch
+**Title:** Rocket Lab and York Space Systems team up to develop rapid response launch capability 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-and-york-space-systems-team-up-to-develop-rapid-response-launch-capability/
+**Author:** [[Rocket Lab]]
+**Published:** 2018-04-18
+**Description:** *Huntington Beach, California and Auckland, New Zealand April 18, 2018:*
+**Partner:** [[York Space Systems]]
+
 **Huntington Beach, California and Auckland, New Zealand April 18, 2018:**
 
 US orbital launch provider [Rocket Lab](https://www.rocketlabusa.com/) and spacecraft platform developer [[York Space Systems]] have entered into an MOU to develop a universal Interface Control Document (ICD) and supporting Concepts of Operations (CONOPS) that will streamline the manifesting process for small satellite launch customers.

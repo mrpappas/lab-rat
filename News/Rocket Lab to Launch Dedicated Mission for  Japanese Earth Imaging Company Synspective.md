@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab to Launch Dedicated Mission for  Japanese Earth Imaging Company Synspective  "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-to-launch-dedicated-mission-for-japanese-earth-imaging-company-synspective/"
 author:
@@ -13,6 +14,16 @@ tags:
  - electron
  - contract
 ---
+
+#electron #contract
+**Title:** Rocket Lab to Launch Dedicated Mission for  Japanese Earth Imaging Company Synspective  
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-launch-dedicated-mission-for-japanese-earth-imaging-company-synspective/
+**Author:** [[Rocket Lab]]
+**Published:** 2020-11-24
+**Description:** *Long Beach, California. 24 November 2020* – Rocket Lab, a space technology company and global leader in dedicated small satellite launch, has today announced Japanese Earth-imaging company Synspective as the customer for Rocket Lab’s 17th Electron launch, and its seventh mission of the year.
+**Customer:** [[Synspective]]
+**Mission:** [[017 'The Owl's Night Begins' - Electron]]
+
 **Long Beach, California. 24 November 2020** – Rocket Lab, a space technology company and global leader in dedicated small satellite launch, has today announced Japanese Earth-imaging company Synspective as the customer for Rocket Lab’s 17<sup>th</sup> Electron launch, and its seventh mission of the year.
 
 The dedicated mission for Synspective is scheduled for lift-off during a 14-day launch window opening on 12 December UTC and will launch from Rocket Lab Launch Complex 1 on New Zealand’s Māhia Peninsula to a targeted 500km circular low Earth orbit.

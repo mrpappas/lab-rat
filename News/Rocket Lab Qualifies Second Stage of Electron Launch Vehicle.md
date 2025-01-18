@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Qualifies Second Stage of Electron Launch Vehicle "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-qualifies-second-stage-of-electron-launch-vehicle/"
 author:
@@ -9,6 +10,14 @@ tags:
  - electron
  - rutherford
 ---
+
+#electron #rutherford
+**Title:** Rocket Lab Qualifies Second Stage of Electron Launch Vehicle 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-qualifies-second-stage-of-electron-launch-vehicle/
+**Author:** [[Rocket Lab]]
+**Published:** 2016-04-30
+**Description:** Rocket Lab[https://rocketlabusa.com/] announced today that it has successfully completed the qualification of the entire second stage of the Electron launch vehicle.
+
 [Rocket Lab](https://rocketlabusa.com/) announced today that it has successfully completed the qualification of the entire second stage of the Electron launch vehicle.
 
 The second stages are running at peak performance and are set to fly during the Electron test program scheduled to run throughout the second half of 2016.

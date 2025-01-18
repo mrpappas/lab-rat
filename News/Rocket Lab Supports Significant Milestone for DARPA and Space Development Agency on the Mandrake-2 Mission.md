@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Supports Significant Milestone for DARPA and Space Development Agency on the Mandrake-2 Mission "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-supports-significant-milestone-for-darpa-and-space-development-agency-on-the-mandrake-2-mission/"
 author:
@@ -11,6 +12,14 @@ customer:
 tags:
   - "space-software"
 ---
+
+#space-software
+**Title:** Rocket Lab Supports Significant Milestone for DARPA and Space Development Agency on the Mandrake-2 Mission 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-supports-significant-milestone-for-darpa-and-space-development-agency-on-the-mandrake-2-mission/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-07-13
+**Description:** Mission Achieves Successful Optical Crosslinks Between the Two Satellites
+**Customer:** [[DARPA]], [[Space Development Agency (SDA)]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-supports-significant-milestone-for-darpa-and-space-development-agency-on-the-mandrake-2-mission/
 

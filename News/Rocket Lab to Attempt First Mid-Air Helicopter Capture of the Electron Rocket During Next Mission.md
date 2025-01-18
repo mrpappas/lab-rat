@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab to Attempt First Mid-Air Helicopter Capture of the Electron Rocket During Next Mission "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-to-attempt-first-mid-air-helicopter-capture-of-the-electron-rocket-during-next-mission/"
 author:
@@ -18,6 +19,16 @@ tags:
  - launch
  - reusability
 ---
+
+#electron #launch #reusability
+**Title:** Rocket Lab to Attempt First Mid-Air Helicopter Capture of the Electron Rocket During Next Mission 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-attempt-first-mid-air-helicopter-capture-of-the-electron-rocket-during-next-mission/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-04-06
+**Description:** For the first time, Rocket Lab will attempt a mid-air helicopter capture of an Electron rocket as it returns to Earth from space, furthering the company’s program to make Electron the first reusable orbital small launch vehicle
+**Customer:** [[Alba Orbital]], [[Astrix Astronautics]], [[Aurora Propulsion Technologies]], [[E-Space]], [[Spaceflight]], [[Unseenlabs]]
+**Mission:** [[026 'There And Back Again' - Electron]]
+
 *For the first time, Rocket Lab will attempt a mid-air helicopter capture of an Electron rocket as it returns to Earth from space, furthering the company’s program to make Electron the first reusable orbital small launch vehicle*
 
 **LONG BEACH, California.** Rocket Lab USA, Inc (Nasdaq: RKLB) (“Rocket Lab”), a leading launch and space systems company, has announced today that during its next Electron launch, a commercial rideshare mission currently scheduled in April 2022, the company will attempt a mid-air helicopter capture of the Electron launch vehicle for the first time.

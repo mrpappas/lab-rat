@@ -1,4 +1,5 @@
 ---
+
 title: Rocket Lab successfully launches R3D2 satellite for DARPA  
 source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-r3d2-satellite-for-darpa/
 author:
@@ -13,6 +14,16 @@ tags:
  - electron
  - launch
 ---
+
+#electron #launch
+**Title:** Rocket Lab successfully launches R3D2 satellite for DARPA
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-r3d2-satellite-for-darpa/
+**Author:** [[Rocket Lab]]
+**Published:** 2019-03-28
+**Description:** *Rocket Lab successfully launches R3D2 satellite for DARPA *
+**Customer:** [[DARPA]]
+**Mission:** [[005 'DARPA R3D2' - Electron]]
+
 **Rocket Lab successfully launches R3D2 satellite for DARPA** 
 
 *The launch marks Rocket Lab’s 25<sup>th</sup> satellite deployed to orbit, continuing the company’s mission success heritage*

@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Closes Acquisition of Space Solar Power Products Company SolAero Holdings, Inc. "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-closes-acquisition-of-space-solar-power-products-company-solaero-holdings-inc/"
 author:
@@ -11,6 +12,15 @@ tags:
  - acquisition
  - solar
 ---
+
+#acquisition #solar
+**Title:** Rocket Lab Closes Acquisition of Space Solar Power Products Company SolAero Holdings, Inc. 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-closes-acquisition-of-space-solar-power-products-company-solaero-holdings-inc/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-01-18
+**Description:** Rocket Lab now operates the world’s largest production line of high-performing space solar cells
+**Partner:** [[SolAero Technologies]]
+
 *Rocket Lab now operates the world’s largest production line of high-performing space solar cells*
 
 **Long Beach, California. January 18, 2022** – Rocket Lab USA, Inc. (Nasdaq: [RKLB](https://investors.rocketlabusa.com/)) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced it has closed the previously-announced transaction to acquire SolAero Holdings, Inc. ([[SolAero Technologies]]), a premier supplier of space solar power products and precision aerospace structures for the global aerospace market, for $80 million in cash. Rocket Lab announced the execution of the agreement to acquire SolAero on December 13, 2021 pending certain closing conditions.

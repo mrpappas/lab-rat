@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab to Launch NASA Funded Commercial Moon Mission from New Zealand "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-to-launch-nasa-funded-commercial-moon-mission-from-new-zealand/"
 author:
@@ -13,6 +14,16 @@ mission:
 tags:
  - electron
 ---
+
+#electron
+**Title:** Rocket Lab to Launch NASA Funded Commercial Moon Mission from New Zealand 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-launch-nasa-funded-commercial-moon-mission-from-new-zealand/
+**Author:** [[Rocket Lab]]
+**Published:** 2021-08-06
+**Description:** *Rocket Lab to Launch NASA Funded Commercial Moon Mission from New Zealand*
+**Customer:** [[NASA]], [[Advanced Space]]
+**Mission:** [[027 'CAPSTONE' - Electron]]
+
 **Rocket Lab to Launch NASA Funded Commercial Moon Mission from New Zealand**
 
 *The CAPSTONE mission will be Rocket Lab’s first launch to the Moon*
@@ -29,5 +40,4 @@ Originally slated for lift-off from Rocket Lab’s Launch Complex 2 in Virginia,
 
 “Flexible isn’t a word usually used to describe lunar missions but operating two launch complexes gives us the freedom to select a site that best meets mission requirements and schedule,” said Rocket Lab Chief Executive Officer, Mr. Peter Beck. “Our team is immensely proud to be launching one of the first pathfinding missions to support NASA’s goal of delivering a sustainable and robust presence on the Moon. We’ve teamed up with the NASA Launch Services Program on previous Electron missions to low Earth orbit, so it’s exciting to be working with them again to go just a bit further than usual…some 380,000 km further.” 
 
-Advanced Space of Colorado, a leading commercial space solutions company, owns the satellite and operates the mission. CAPSTONE development is supported by NASA’s Space Technology Mission Directorate via the Small Spacecraft Technology Program at NASA’s Ames Research Center in California’s Silicon Valley.  Advanced Exploration Systems within NASA’s Human Exploration and Operations Mission Directorate supports the launch and mission operations. NASA’s Launch Services Program at Kennedy Space Center in Florida is responsible for launch management. 
-
+Advanced Space of Colorado, a leading commercial space solutions company, owns the satellite and operates the mission. CAPSTONE development is supported by NASA’s Space Technology Mission Directorate via the Small Spacecraft Technology Program at NASA’s Ames Research Center in California’s Silicon Valley.  Advanced Exploration Systems within NASA’s Human Exploration and Operations Mission Directorate supports the launch and mission operations. NASA’s Launch Services Program at Kennedy Space Center in Florida is responsible for launch management.

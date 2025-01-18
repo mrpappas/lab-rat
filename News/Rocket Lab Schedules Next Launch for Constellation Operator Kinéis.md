@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Schedules Next Launch for Constellation Operator Kinéis "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-schedules-next-launch-for-constellation-operator-kineis/"
 author:
@@ -11,6 +12,15 @@ tags:
   - "launch"
   - "electron"
 ---
+
+#launch #electron
+**Title:** Rocket Lab Schedules Next Launch for Constellation Operator Kinéis 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-schedules-next-launch-for-constellation-operator-kineis/
+**Author:** [[Rocket Lab]]
+**Published:** 2024-11-12
+**Description:** *The mission will be the third of five dedicated Electron launches booked by the French Internet-of-Things constellation operator*
+**Customer:** [[Kinéis]]
+**Mission:** [[056 'Ice AIS Baby' - Electron]]
 
 **Source**: https://www.rocketlabusa.com/updates/rocket-lab-schedules-next-launch-for-constellation-operator-kineis/
 
@@ -25,4 +35,3 @@ Rocket Lab founder and CEO, Peter Beck, says: “We’ve already successfully la
 Kinéis CEO, Alexandre Tisserant, says: “Kinéis continues to deploy its 25-satellite constellation on schedule. Efforts are being maintained by the technical teams who are operating our first 10 nanosatellites in flight and will be managing the positioning of the 5 new ones. This delicate operation is supported by the precision injection of our satellites into their positions by Rocket Lab's Electron launcher. In addition to IoT, we're delighted to announce the launch of a new service, satellite AIS, dedicated to the global maritime domain, a highly reliable sovereign offer, available in 2025. Ready for launch!”
 
 The mission is one of several Electron launches scheduled for lift-off before the end of the year, with 12 Electron launches already completed successfully in 2024, making this Rocket Lab’s busiest launch year to date.
-

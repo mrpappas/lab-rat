@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Awarded NASA Study Contract to Explore Bringing Rock Samples from Mars to Earth for the First Time "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-awarded-nasa-study-contract-to-explore-bringing-rock-samples-from-mars-to-earth-for-the-first-time/"
 author:
@@ -10,6 +11,14 @@ tags:
   - "contract"
 ---
 
+#contract
+**Title:** Rocket Lab Awarded NASA Study Contract to Explore Bringing Rock Samples from Mars to Earth for the First Time 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-awarded-nasa-study-contract-to-explore-bringing-rock-samples-from-mars-to-earth-for-the-first-time/
+**Author:** [[Rocket Lab]]
+**Published:** 2024-10-07
+**Description:** *The study proposes using Rocket Lab’s vertically integrated technologies to retrieve samples from the Red Planet for the first time in history as part of NASA’s Mars Sample Return Program.*
+**Customer:** [[NASA]]
+
 **Source**: https://www.rocketlabusa.com/updates/rocket-lab-awarded-nasa-study-contract-to-explore-bringing-rock-samples-from-mars-to-earth-for-the-first-time/
 
 ***The study proposes using Rocket Lab’s vertically integrated technologies to retrieve samples from the Red Planet for the first time in history as part of NASA’s Mars Sample Return Program.***
@@ -20,5 +29,4 @@ NASA’s Rapid Mission Design Studies for Mars Sample Return solicits industry p
 
 “Retrieving samples from Mars is one of the most ambitious and scientifically important endeavors humanity has ever embarked upon. We’ve developed an innovative mission concept to make it happen affordably and on an accelerated schedule,” said Rocket Lab founder and CEO, Sir Peter Beck. “Rocket Lab has been methodically implementing a strategy for cost-effective planetary science in recent years, making us uniquely suited to deliver a low cost, rapid Mars Sample Return. We’ve demonstrated this strategy by delivering a NASA mission to the Moon, enabling rendezvous and proximity operations in orbit, successfully re-entering a capsule from orbit to Earth, delivering two spacecraft to NASA for a Mars mission, and much more. We look forward to bringing our proven capabilities together to deliver a compelling, innovative mission solution that puts Mars rocks in the hands of scientists sooner.”
 
-Rocket Lab’s proposed mission architecture will be revealed once the study is complete in the coming months. 
-
+Rocket Lab’s proposed mission architecture will be revealed once the study is complete in the coming months.

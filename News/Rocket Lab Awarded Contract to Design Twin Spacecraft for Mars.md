@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Awarded Contract to Design Twin Spacecraft for Mars  "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-awarded-contract-to-design-twin-spacecraft-for-mars/"
 author:
@@ -13,6 +14,16 @@ tags:
  - space-systems
  - contract
 ---
+
+#space-systems #contract
+**Title:** Rocket Lab Awarded Contract to Design Twin Spacecraft for Mars  
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-awarded-contract-to-design-twin-spacecraft-for-mars/
+**Author:** [[Rocket Lab]]
+**Published:** 2021-06-15
+**Description:** Rocket Lab Awarded Subcontract to Design Twin Spacecraft for Mars
+**Customer:** [[NASA]]
+**Mission:** [[ESCAPADE]]
+
 Rocket Lab Awarded Subcontract to Design Twin Spacecraft for Mars 
 
 *The two Rocket Lab Photon spacecraft for the ESCAPADE mission to Mars are part of NASA’s Small Innovative Missions for Planetary Exploration (SIMPLEx) program* 

@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Selected by NASA to Launch Pathfinder Mission to the Moon "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-selected-by-nasa-to-launch-pathfinder-mission-to-the-moon/"
 author:
@@ -14,6 +15,16 @@ tags:
  - electron
  - contract
 ---
+
+#electron #contract
+**Title:** Rocket Lab Selected by NASA to Launch Pathfinder Mission to the Moon 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-selected-by-nasa-to-launch-pathfinder-mission-to-the-moon/
+**Author:** [[Rocket Lab]]
+**Published:** 2020-02-14
+**Description:** *Rocket Lab Selected by NASA to Launch Pathfinder Mission to the Moon*
+**Customer:** [[NASA]], [[Advanced Space]]
+**Mission:** [[027 'CAPSTONE' - Electron]]
+
 **Rocket Lab Selected by NASA to Launch Pathfinder Mission to the Moon**
 
 14 February 2020 – Rocket Lab, a space technology company and global leader in dedicated small satellite launch, has been selected by [[NASA]] as the launch provider for a small satellite mission to the same lunar orbit targeted for Gateway – an orbiting outpost astronauts will visit before descending to the surface of the Moon in a landing system as part of NASA’s Artemis program.

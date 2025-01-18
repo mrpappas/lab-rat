@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Appoints Richard French as Director – Global Government Launch Services "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-appoints-richard-french-as-director-global-government-launch-servicesnew-blog-post/"
 author:
@@ -8,6 +9,14 @@ description: "The award-winning engineer brings more than a decade of experience
 insider:
  - "[[Richard French]]"
 ---
+
+**Title:** Rocket Lab Appoints Richard French as Director – Global Government Launch Services 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-appoints-richard-french-as-director-global-government-launch-servicesnew-blog-post/
+**Author:** [[Rocket Lab]]
+**Published:** 2019-09-05
+**Description:** The award-winning engineer brings more than a decade of experience at NASA to lead Rocket Lab’s government services in the United States and international markets
+**Insider:** [[Richard French]]
+
 The award-winning engineer brings more than a decade of experience at NASA to lead Rocket Lab’s government services in the United States and international markets
 
 Huntington Beach, California – 5 September 2019: Rocket Lab, the global leader in dedicated small satellite launch, has appointed Richard French to the role of Director – Global Government Launch Services. Joining Rocket Lab following 12 years at NASA’s Jet Propulsion Laboratory (JPL), Mr. French’s new role will see him focus on providing launch and on-orbit solutions for United States civil space customers such as NASA and the National Oceanic and Atmospheric Administration (NOAA), as well as international civil space customers.

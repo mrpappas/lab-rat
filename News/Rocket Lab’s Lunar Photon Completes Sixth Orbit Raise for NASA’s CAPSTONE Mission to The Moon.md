@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab’s Lunar Photon Completes Sixth Orbit Raise for NASA’s CAPSTONE Mission to The Moon "
 source: "https://www.rocketlabusa.com/updates/rocket-labs-lunar-photon-completes-sixth-orbit-raise-for-nasas-capstone-mission-to-the-moon/"
 author:
@@ -15,6 +16,17 @@ tags:
  - space-systems
  - launch
 ---
+
+#space-systems #launch
+**Title:** Rocket Lab’s Lunar Photon Completes Sixth Orbit Raise for NASA’s CAPSTONE Mission to The Moon 
+**Source:** https://www.rocketlabusa.com/updates/rocket-labs-lunar-photon-completes-sixth-orbit-raise-for-nasas-capstone-mission-to-the-moon/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-07-01
+**Description:** LONG BEACH, Calif.--July 1, 2022--Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, today confirmed its Photon Lunar spacecraft successfully completed a sixth on-orbit burn of the HyperCurie engine, bringing the CAPSTONE satellite closer to the Moon. Lunar Photon’s apogee – the point at which the spacecraft is farthest from Earth during its orbit – is now 43,297 miles (69,680 km).
+**Customer:** [[NASA]], [[Advanced Space]]
+**Mission:** [[027 'CAPSTONE' - Electron]]
+**Insider:** None
+
 LONG BEACH, Calif.--July 1, 2022--Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, today confirmed its Photon Lunar spacecraft successfully completed a sixth on-orbit burn of the HyperCurie engine, bringing the CAPSTONE satellite closer to the Moon. Lunar Photon’s apogee – the point at which the spacecraft is farthest from Earth during its orbit – is now 43,297 miles (69,680 km).
 
 This sixth burn was originally scheduled to be two burns, but Rocket Lab’s space systems team determined the HyperCurie engine would be capable of performing a single maneuver to accomplish the same delta-v, so combined the two.

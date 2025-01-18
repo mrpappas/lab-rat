@@ -1,4 +1,5 @@
 ---
+
 title: Rocket Lab on Track to Advance U.S. Defense Capabilities, Passing Major Milestone in Development of Spacecraft Constellation for Space Development Agency | Rocket Lab
 source: https://www.rocketlabusa.com/updates/rocket-lab-on-track-to-advance-u-s-defense-capabilities-passing-major-milestone-in-development-of-spacecraft-constellation-for-space-development-agency-2/
 author:
@@ -12,6 +13,17 @@ insider:
 tags:
   - space-systems
 ---
+
+#space-systems
+**Title:** Rocket Lab on Track to Advance U.S. Defense Capabilities, Passing Major Milestone in Development of Spacecraft Constellation for Space Development Agency | Rocket Lab
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-on-track-to-advance-u-s-defense-capabilities-passing-major-milestone-in-development-of-spacecraft-constellation-for-space-development-agency-2/
+**Author:** [[Rocket Lab]]
+**Published:** 2025-01-09
+**Description:** *Long Beach, Calif. January 09, 202*5 – Rocket Lab National Security LLC (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced the successful completion of its Preliminary Design Review (PDR) for the Space Development Agency’s[https://www.sda.mil/] (SDA) Tranche 2 Transport Layer-Beta (T2TL-Beta) program. This milestone marks a critical step in Rocket Lab’s mission as a prime contractor to deliver 18 advanced data transport satellites for the U.S. Department of Defense’s Proliferated Warfighter Space Architecture (PWSA).
+**Customer:** [[Space Development Agency (SDA)]]
+**Mission:** [[SDA Tranche 2 - Enhanced Global Coverage]]
+**Insider:** None
+
 **Long Beach, Calif. January 09, 202**5 – Rocket Lab National Security LLC (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced the successful completion of its Preliminary Design Review (PDR) for the [Space Development Agency’s](https://www.sda.mil/) (SDA) Tranche 2 Transport Layer-Beta (T2TL-Beta) program. This milestone marks a critical step in Rocket Lab’s mission as a prime contractor to deliver 18 advanced data transport satellites for the U.S. Department of Defense’s Proliferated Warfighter Space Architecture (PWSA).
 
 The milestone positions Rocket Lab to move into the detailed design phase of the [$515 million firm-fixed-price contract awarded](https://www.rocketlabusa.com/updates/rocket-lab-makes-its-defense-prime-debut-with-0-5-billion-contract-to-design-and-build-satellite-constellation-for-space-development-agency/) in early 2024. Under this agreement, Rocket Lab will design, integrate, test, and commission the 18 T2TL-Beta satellites. Rocket Lab leads a capable team of payload providers to provide vital capacity to the PWSA, a cutting-edge low-Earth orbit (LEO) satellite constellation designed to provide secure, low-latency communications and missile tracking to the warfighter.

@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Successfully Launches 17th Electron Mission, Deploys SAR Satellite for Synspective "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-17th-electron-mission-deploys-sar-satellite-for-synspective/"
 author:
@@ -13,6 +14,16 @@ tags:
  - electron
  - launch
 ---
+
+#electron #launch
+**Title:** Rocket Lab Successfully Launches 17th Electron Mission, Deploys SAR Satellite for Synspective 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-17th-electron-mission-deploys-sar-satellite-for-synspective/
+**Author:** [[Rocket Lab]]
+**Published:** 2020-12-15
+**Description:** Rocket Lab, the leading dedicated small launch provider and space systems company, has successfully launched its 17th Electron mission, deploying the first spacecraft to orbit for synthetic aperture radar (SAR) satellite data and solutions provider Synspective.
+**Customer:** [[Synspective]]
+**Mission:** [[017 'The Owl's Night Begins' - Electron]]
+
 Rocket Lab, the leading dedicated small launch provider and space systems company, has successfully launched its 17th Electron mission, deploying the first spacecraft to orbit for synthetic aperture radar (SAR) satellite data and solutions provider [[Synspective]]. 
 
 ‘The Owl’s Night Begins’ launched from Rocket Lab Launch Complex 1 on New Zealand’s Māhia Peninsula at 10:09 UTC, 15 December 2020 and successfully deployed Synspective’s StriX-α to a 500km circular orbit. The mission brings the total number of payloads deployed by Rocket Lab to 96. 

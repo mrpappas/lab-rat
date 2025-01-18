@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Announces Third Quarter 2022 Results and Guidance for Fourth Quarter 2022 "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-announces-third-quarter-2022-results-and-guidance-for-fourth-quarter-2022/"
 author:
@@ -7,6 +8,12 @@ published: 2022-11-09
 description: "Record revenue of $63.1 million, representing 14% sequential quarter-on-quarter growth and 1,093% Year-on-Year quarterly revenue growth Fourth quarter revenue expected to range between $51 million and $54 million as Q4 launch customer pushes into 2023"
 
 ---
+
+**Title:** Rocket Lab Announces Third Quarter 2022 Results and Guidance for Fourth Quarter 2022 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-announces-third-quarter-2022-results-and-guidance-for-fourth-quarter-2022/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-11-09
+**Description:** Record revenue of $63.1 million, representing 14% sequential quarter-on-quarter growth and 1,093% Year-on-Year quarterly revenue growth Fourth quarter revenue expected to range between $51 million and $54 million as Q4 launch customer pushes into 2023
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-announces-third-quarter-2022-results-and-guidance-for-fourth-quarter-2022/
 
@@ -53,4 +60,3 @@ For the fourth quarter of 2022, Rocket Lab expects:
 - Expected Interest expenses (Income), net $1 million expense
 - Adjusted EBITDA loss of $12 million to $16 million
 - Basic Shares Outstanding 474 million
-

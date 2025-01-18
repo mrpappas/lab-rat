@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Completes Fifth Orbit Raise For NASA’s CAPSTONE Mission to The Moon  "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-completes-fifth-orbit-raise-for-nasas-capstone-mission-to-the-moon/"
 author:
@@ -15,6 +16,17 @@ tags:
  - space-systems
  - electron
 ---
+
+#space-systems #electron
+**Title:** Rocket Lab Completes Fifth Orbit Raise For NASA’s CAPSTONE Mission to The Moon  
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-completes-fifth-orbit-raise-for-nasas-capstone-mission-to-the-moon/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-06-30
+**Description:** *Long Beach, California. June 30, 2022 –* Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, today confirmed its Photon Lunar spacecraft successfully ignited its HyperCurie engine for a fifth time, further carrying NASA’s CAPSTONE satellite toward the Moon.
+**Customer:** [[NASA]], [[Advanced Space]]
+**Mission:** [[027 'CAPSTONE' - Electron]]
+**Insider:** None
+
 **Long Beach, California. June 30, 2022 –** Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, today confirmed its Photon Lunar spacecraft successfully ignited its HyperCurie engine for a fifth time, further carrying NASA’s CAPSTONE satellite toward the Moon.
 
 This fifth burn of the HyperCurie engine has propelled CAPSTONE and Photon deeper into space, successfully raising the spacecraft’s elliptical orbit. With this latest completed orbit-raising maneuver, Rocket Lab’s delivery of CAPSTONE to the Moon on Photon has now passed the half-way point of the mission’s second phase with Photon.

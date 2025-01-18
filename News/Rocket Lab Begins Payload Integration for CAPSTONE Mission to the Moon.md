@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Begins Payload Integration for CAPSTONE Mission to the Moon "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-begins-payload-integration-for-capstone-mission-to-the-moon/"
 author:
@@ -15,6 +16,17 @@ tags:
  - space-systems
  - electron
 ---
+
+#space-systems #electron
+**Title:** Rocket Lab Begins Payload Integration for CAPSTONE Mission to the Moon 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-begins-payload-integration-for-capstone-mission-to-the-moon/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-05-16
+**Description:** *Rocket Lab Begins Payload Integration for CAPSTONE Mission to the Moon*
+**Customer:** [[NASA]], [[Advanced Space]]
+**Mission:** [[027 'CAPSTONE' - Electron]]
+**Insider:** None
+
 Rocket Lab Begins Payload Integration for CAPSTONE Mission to the Moon
 
 Rocket Lab will launch the CAPSTONE spacecraft to a unique lunar transfer orbit using the Electron launch vehicle and Lunar Photon spacecraft bus, charting a new path for NASA's Moon-orbiting space station to be used by Artemis astronauts

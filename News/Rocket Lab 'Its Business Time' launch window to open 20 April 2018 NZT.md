@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab 'Its Business Time' launch window to open 20 April 2018 NZT "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-to-launch-first-commercial-mission-this-month/"
 author:
@@ -15,6 +16,16 @@ tags:
  - electron
  - launch
 ---
+
+#electron #launch
+**Title:** Rocket Lab 'Its Business Time' launch window to open 20 April 2018 NZT 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-launch-first-commercial-mission-this-month/
+**Author:** [[Rocket Lab]]
+**Published:** 2018-04-03
+**Description:** *Huntington Beach, California, 3 April 2018:*
+**Customer:** [[Spire Global]], [[Tyvak Nano-Satellite Systems]], [[Fleet Space]]
+**Mission:** [[003 'It's Business Time' - Electron]]
+
 **Huntington Beach, California, 3 April 2018:**
 
 US orbital launch provider Rocket Lab has today confirmed it will open a 14-day launch window this month to conduct the company’s first fully commercial launch. The mission, named ‘It’s Business Time’, includes manifested payloads for [Spire Global](https://spire.com/) and GeoOptics Inc., built by [Tyvak Nano-Satellite Systems.](http://www.tyvak.com/)

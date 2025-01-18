@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab to Acquire Space Hardware Company Planetary Systems Corporation "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-to-acquire-space-hardware-company-planetary-systems-corporation/"
 author:
@@ -11,6 +12,15 @@ tags:
  - acquisition
  - space-systems
 ---
+
+#acquisition #space-systems
+**Title:** Rocket Lab to Acquire Space Hardware Company Planetary Systems Corporation 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-acquire-space-hardware-company-planetary-systems-corporation/
+**Author:** [[Rocket Lab]]
+**Published:** 2021-11-15
+**Description:** The Acquisition Bolsters Rocket Lab’s Space Systems Business and End-to-End Space Solutions Offering across Launch, Spacecraft, and Space Hardware and Manufacture
+**Partner:** [[Planetary Systems Corporation (PSC)]]
+
 *The Acquisition Bolsters Rocket Lab’s Space Systems Business and End-to-End Space Solutions Offering across Launch, Spacecraft, and Space Hardware and Manufacture*
 
 **Long Beach, California. 15 November, 2021** – Rocket Lab USA, Inc. (Nasdaq: [RKLB](https://investors.rocketlabusa.com/)) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced it has signed a definitive agreement to acquire Planetary Systems Corporation (PSC), a Maryland-based spacecraft separation systems company, for $42 million in cash and 1,720,841 shares of the Company’s common stock, plus the potential for an additional 956,023 shares of common stock for a performance earnout based on PSC’s CY 2022 and 2023 financial results. The acquisition is expected to close in the fourth quarter of 2021.

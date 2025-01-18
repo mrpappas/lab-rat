@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab completes analysis of Still Testing launch abort "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-completes-analysis-of-still-testing-launch-abort/"
 author:
@@ -15,6 +16,16 @@ tags:
  - launch
  - abort
 ---
+
+#electron #launch #abort
+**Title:** Rocket Lab completes analysis of Still Testing launch abort 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-completes-analysis-of-still-testing-launch-abort/
+**Author:** [[Rocket Lab]]
+**Published:** 2017-12-13
+**Description:** *Wednesday 13 December, 2017:* Rocket Lab has completed analysis of the Electron test flight abort that occurred during the company’s ‘Still Testing’ launch attempt yesterday.
+**Customer:** [[Planet Labs]], [[Spire Global]]
+**Mission:** [[002 'Still Testing' - Electron]]
+
 **Wednesday 13 December, 2017:** Rocket Lab has completed analysis of the Electron test flight abort that occurred during the company’s ‘Still Testing’ launch attempt yesterday. 
 
 The analysis determined the launch was aborted due to rising liquid oxygen (LOx) temperatures feeding into one of the Electron’s nine Rutherford engines on the vehicle’s first stage. Rocket Lab has implemented corrective actions ahead of the next launch attempt, which is currently targeted for no earlier than 2.30 pm, Thursday 14 December NZDT. 

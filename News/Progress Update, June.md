@@ -1,4 +1,5 @@
 ---
+
 title: "Progress Update, June "
 source: "https://www.rocketlabusa.com/updates/progress-update-june/"
 author:
@@ -8,6 +9,14 @@ description: "*By Peter Beck, CEO*"
 insider:
  - "[[Peter Beck]]"
 ---
+
+**Title:** Progress Update, June 
+**Source:** https://www.rocketlabusa.com/updates/progress-update-june/
+**Author:** [[Rocket Lab]]
+**Published:** 2017-06-14
+**Description:** *By Peter Beck, CEO*
+**Insider:** [[Peter Beck]]
+
 **By Peter Beck, CEO**
 
 This week, I had the honor of being inducted into the EY World Entrepreneur Hall of Fame . To me, representing New Zealand at such prestigious business awards is a testament to not only the accomplishments of the team at Rocket Lab, but of the increasing importance of space as a commercial industry. We’re seeing a paradigm shift - traditionally, it has been countries that go to space, not companies.

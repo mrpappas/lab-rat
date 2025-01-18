@@ -1,4 +1,5 @@
 ---
+
 title: "The Kick Stage: Responsible Orbital Deployment  "
 source: "https://www.rocketlabusa.com/updates/the-kick-stage-responsible-orbital-deployment/"
 author:
@@ -10,6 +11,14 @@ tags:
  - curie
  - kick-stage
 ---
+
+#electron #curie #kick-stage
+**Title:** The Kick Stage: Responsible Orbital Deployment  
+**Source:** https://www.rocketlabusa.com/updates/the-kick-stage-responsible-orbital-deployment/
+**Author:** [[Rocket Lab]]
+**Published:** 2018-12-16
+**Description:** BLOG: The kick stage is a nimble but powerful extra stage on Electron, designed to circularize the orbits of small satellites. It takes small satellites exactly where they want to go, offering unmatched precision and flexibility for orbital deployment.
+
 BLOG: The kick stage is a nimble but powerful extra stage on Electron, designed to circularize the orbits of small satellites. It takes small satellites exactly where they want to go, offering unmatched precision and flexibility for orbital deployment.
 
 The kick stage is powered by the Curie engine, named after the physicist and chemist Marie Curie, and is developed and manufactured in-house by Rocket Lab. Much like Rocket Lab's Rutherford engine, the Curie engine employs 3D printing (additive manufacturing) techniques for speedy production.

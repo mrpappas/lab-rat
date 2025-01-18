@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab selects Wallops Flight Facility for US launch site "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-selects-wallops-flight-facility-for-us-launch-site/"
 author:
@@ -13,6 +14,15 @@ tags:
  - electron
  - neutron
 ---
+
+#electron #neutron
+**Title:** Rocket Lab selects Wallops Flight Facility for US launch site 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-selects-wallops-flight-facility-for-us-launch-site/
+**Author:** [[Rocket Lab]]
+**Published:** 2018-10-17
+**Description:** *Rocket Lab builds on existing launch capability with second orbital launch complex to enable more than 130 launches annually*
+**Location:** [[Launch Complex 2]], [[Launch Complex 3]], [[Wallops Flight Facility]]
+
 **Rocket Lab builds on existing launch capability with second orbital launch complex to enable more than 130 launches annually**  
 
 Wallops Flight Facility, Virginia. 17 October 2018.

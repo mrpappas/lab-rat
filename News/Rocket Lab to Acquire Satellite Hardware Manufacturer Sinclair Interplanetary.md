@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab to Acquire Satellite Hardware Manufacturer Sinclair Interplanetary  "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-to-acquire-satellite-hardware-manufacturer-sinclair-interplanetary/"
 author:
@@ -11,6 +12,15 @@ tags:
  - space-systems
  - acquisition
 ---
+
+#space-systems #acquisition
+**Title:** Rocket Lab to Acquire Satellite Hardware Manufacturer Sinclair Interplanetary  
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-acquire-satellite-hardware-manufacturer-sinclair-interplanetary/
+**Author:** [[Rocket Lab]]
+**Published:** 2020-03-16
+**Description:** *Rocket Lab to Acquire Satellite Hardware Manufacturer Sinclair Interplanetary *
+**Partner:** [[Sinclair Interplanetary]]
+
 **Rocket Lab to Acquire Satellite Hardware Manufacturer Sinclair Interplanetary** 
 
 *The combined capabilities of both companies will provide small satellite customers with optimized spacecraft solutions and cohesive launch services* 

@@ -1,4 +1,5 @@
 ---
+
 title: "Growing New Zealand’s space talent pool: Rocket Lab scholarship applications now open "
 source: "https://www.rocketlabusa.com/updates/growing-new-zealands-space-talent-pool-rocket-lab-scholarship-applications-now-open/"
 author:
@@ -6,6 +7,13 @@ author:
 published: 2018-09-18
 description: "Auckland, New Zealand. 18 September 2018."
 ---
+
+**Title:** Growing New Zealand’s space talent pool: Rocket Lab scholarship applications now open 
+**Source:** https://www.rocketlabusa.com/updates/growing-new-zealands-space-talent-pool-rocket-lab-scholarship-applications-now-open/
+**Author:** [[Rocket Lab]]
+**Published:** 2018-09-18
+**Description:** Auckland, New Zealand. 18 September 2018.
+
 Auckland, New Zealand. 18 September 2018.
 
 Applications for Rocket Lab’s 2018 tertiary scholarship are now open, offering New Zealand’s future innovators, scientists and engineers an opportunity to get a head-start in STEM careers.
@@ -29,4 +37,3 @@ Applications for the Rocket Lab scholarship close on 30 October 2018 for the 201
 For more information, and to apply, please visit:
 
 https://www.rocketlabusa.com/careers/scholarships/
-

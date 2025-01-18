@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Readies National Security Launch for National Reconnaissance Office "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-readies-national-security-launch-for-national-reconnaissance-office/"
 author:
@@ -11,6 +12,15 @@ tags:
   - "launch"
   - "electron"
 ---
+
+#launch #electron
+**Title:** Rocket Lab Readies National Security Launch for National Reconnaissance Office 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-readies-national-security-launch-for-national-reconnaissance-office/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-07-28
+**Description:** LONG BEACH, Calif.--28 July, 2022-- Rocket Lab USA, Inc. (Nasdaq: RKLB) has today confirmed that the second of two back-to-back national security launches for the National Reconnaissance Office (NRO) has been scheduled for August 2 UTC.
+**Customer:** [[National Reconnaissance Office (NRO)]]
+**Mission:** [[029 'Antipodean Adventure' - Electron]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-readies-national-security-launch-for-national-reconnaissance-office/
 

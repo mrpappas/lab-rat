@@ -1,4 +1,5 @@
 ---
+
 title: "Electron Roll-Out Complete at Launch Complex 2 Ahead of Upcoming U.S. Space Force Mission "
 source: "https://www.rocketlabusa.com/updates/electron-roll-out-complete-at-launch-complex-2-ahead-of-upcoming-u-s-space-force-mission/"
 author:
@@ -9,6 +10,14 @@ locatdion:
  - "[[Launch Complex 2]]"
 tags:
 ---
+
+**Title:** Electron Roll-Out Complete at Launch Complex 2 Ahead of Upcoming U.S. Space Force Mission 
+**Source:** https://www.rocketlabusa.com/updates/electron-roll-out-complete-at-launch-complex-2-ahead-of-upcoming-u-s-space-force-mission/
+**Author:** [[Rocket Lab]]
+**Published:** 2020-04-29
+**Description:** *Electron Roll-Out Complete at Launch Complex 2 Ahead of Upcoming U.S. Space Force Mission *
+**Locatdion:** [[Launch Complex 2]]
+
 **Electron Roll-Out Complete at Launch Complex 2 Ahead of Upcoming U.S. Space Force Mission** 
 
 *Scheduled for Q3 2020, the mission will be Rocket Lab’s first launch from U.S. soil* 

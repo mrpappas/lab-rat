@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Lands Multi-Launch Deal to Deploy Entire IoT Satellite Constellation for Kinéis "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-lands-multi-launch-deal-to-deploy-entire-iot-satellite-constellation-for-kineis/"
 author:
@@ -11,6 +12,15 @@ tags:
  - electron
  - contract
 ---
+
+#electron #contract
+**Title:** Rocket Lab Lands Multi-Launch Deal to Deploy Entire IoT Satellite Constellation for Kinéis 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-lands-multi-launch-deal-to-deploy-entire-iot-satellite-constellation-for-kineis/
+**Author:** [[Rocket Lab]]
+**Published:** 2021-09-08
+**Description:** The multi-launch contract will see Rocket Lab deploy 25 Internet-of-Things (IoT) satellites across five dedicated missions on the Electron launch vehicle
+**Customer:** [[Kinéis]]
+
 ## *The multi-launch contract will see Rocket Lab deploy 25 Internet-of-Things (IoT) satellites across five dedicated missions on the Electron launch vehicle*
 
 **Long Beach, California. September 08, 2021** – Rocket Lab USA, Inc (“Rocket Lab” or the “Company”) (Nasdaq: RKLB), a leading launch provider and space systems company, today announced it has been awarded a contract to deploy an entire satellite constellation across five dedicated Electron missions for Kinéis, a global Internet-of-Things (IoT) connectivity provider. 

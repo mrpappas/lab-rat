@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab selected by Ball Aerospace to Power NASA’s GLIDE Spacecraft "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-selected-by-ball-aerospace-to-power-nasas-glide-spacecraft-2/"
 author:
@@ -14,6 +15,17 @@ tags:
  - space-systems
  - solar
 ---
+
+#space-systems #solar
+**Title:** Rocket Lab selected by Ball Aerospace to Power NASA’s GLIDE Spacecraft 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-selected-by-ball-aerospace-to-power-nasas-glide-spacecraft-2/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-06-09
+**Description:** *Rocket Lab selected by Ball Aerospace to Power NASA’s GLIDE Spacecraft*
+**Customer:** [[Ball Aerospace]], [[NASA]]
+**Mission:** [[GLIDE]]
+**Partner:** [[SolAero Technologies]]
+
 **Rocket Lab selected by Ball Aerospace to Power NASA’s GLIDE Spacecraft**
 
 *Rocket Lab will supply the Solar Array Panel (SAP) for the GLIDE [Heliophysics](https://science.gsfc.nasa.gov/670/aboutheliophysics.html) mission*
@@ -27,4 +39,3 @@ The GLIDE spacecraft will launch with another Rocket Lab-powered spacecraft, als
 “Rocket Lab has become the ‘go-to’ provider of space solar power and space systems products throughout the space industry, including for ambitious heliophysics missions like GLIDE,” said Rocket Lab founder and CEO, Peter Beck. “I am grateful to our partners at Ball Aerospace for selecting Rocket Lab and excited to be working with them to support NASA’s Heliophysics missions to deliver advanced science.”
 
 Rocket Lab has provided power to multiple spacecraft as part of NASA’s Heliophysics Division missions including the Parker Solar Probe, the first-ever mission to “touch” the Sun that launched in 2018, and the Magnetospheric Multiscale (MMS) mission, a robotic space mission to study Earth’s magnetosphere that launched in 2015.
-

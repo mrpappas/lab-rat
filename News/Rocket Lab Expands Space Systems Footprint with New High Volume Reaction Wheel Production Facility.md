@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Expands Space Systems Footprint with New High Volume Reaction Wheel Production Facility "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-expands-space-systems-footprint-with-new-high-volume-reaction-wheel-production-facility/"
 author:
@@ -10,6 +11,14 @@ location:
 tags:
  - space-systems
 ---
+
+#space-systems
+**Title:** Rocket Lab Expands Space Systems Footprint with New High Volume Reaction Wheel Production Facility 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-expands-space-systems-footprint-with-new-high-volume-reaction-wheel-production-facility/
+**Author:** [[Rocket Lab]]
+**Published:** 2021-09-01
+**Description:** *Rocket Lab Expands Space Systems Footprint with New High Volume Reaction Wheel Production Facility*
+**Location:** [[Space Systems - Toronto, ON]]
 
 **Rocket Lab Expands Space Systems Footprint with New High Volume Reaction Wheel Production Facility**
 

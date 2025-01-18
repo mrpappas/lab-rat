@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab’s First Mission of 2021 to Launch Communications Satellite for OHB Group "
 source: "https://www.rocketlabusa.com/updates/rocket-labs-first-mission-of-2021-to-launch-communications-satellite-for-ohb-group/"
 author:
@@ -13,6 +14,16 @@ tags:
  - electron
  - launch
 ---
+
+#electron #launch
+**Title:** Rocket Lab’s First Mission of 2021 to Launch Communications Satellite for OHB Group 
+**Source:** https://www.rocketlabusa.com/updates/rocket-labs-first-mission-of-2021-to-launch-communications-satellite-for-ohb-group/
+**Author:** [[Rocket Lab]]
+**Published:** 2021-01-05
+**Description:** *Rocket Lab’s First Mission of 2021 to Launch Communications Satellite for OHB Group*
+**Customer:** [[OHB Group]]
+**Mission:** [[018 'Another One Leaves the Crust' - Electron]]
+
 **Rocket Lab’s First Mission of 2021 to Launch Communications Satellite for OHB Group**
 
 Long Beach, California. January 5, 2021 – Rocket Lab, the global leader in dedicated small satellite launch, has today announced its first Electron launch of the new year will be a dedicated mission for European space technology company OHB Group.

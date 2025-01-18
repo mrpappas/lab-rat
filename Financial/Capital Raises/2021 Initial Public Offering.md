@@ -1,8 +1,13 @@
 ---
+
 date: 2021-08-25
 net_proceeds: $777,000,000
 valuation: $4,800,000,000
 ---
+
+**Date:** 2021-08-25
+**Net Proceeds:** $777,000,000
+**Valuation:** $4,800,000,000
 
 >[!Summary]
 Rocket Lab went public via SPAC merger on August 25, 2021.

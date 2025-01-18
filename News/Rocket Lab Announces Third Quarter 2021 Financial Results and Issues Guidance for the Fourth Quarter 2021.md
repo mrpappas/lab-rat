@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Announces Third Quarter 2021 Financial Results and Issues Guidance for the Fourth Quarter 2021 "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-announces-third-quarter-2021-financial-results-and-issues-guidance-for-the-fourth-quarter-2021/"
 author:
@@ -11,6 +12,15 @@ published: 2021-11-15
 description: "*Q3 2021 Financial Results Highlights*"
 
 ---
+
+**Title:** Rocket Lab Announces Third Quarter 2021 Financial Results and Issues Guidance for the Fourth Quarter 2021 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-announces-third-quarter-2021-financial-results-and-issues-guidance-for-the-fourth-quarter-2021/
+**Author:** [[Rocket Lab]]
+**Mission:** [[LOXSAT]]
+**Customer:** [[Eta Space]]
+**Published:** 2021-11-15
+**Description:** *Q3 2021 Financial Results Highlights*
+
 **Q3 2021 Financial Results Highlights**
 
 - *Revenue above high end of prior guidance range at $5.3 million*
@@ -50,4 +60,3 @@ LONG BEACH, Calif. Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “t
 **Conference Call Information**
 
 Rocket Lab will host a conference call for investors at 1:30 p.m. PT (4:30 p.m. ET) today to discuss these business highlights and financial results, and to provide our outlook for the fourth quarter ending December 31, 2021 and other updates. The Company has also posted an investor presentation dated November 15, 2021 containing more detailed financial results as of and for the three and nine months ended September 30, 2021 to the investor section of the Company’s website at: [https://investors.rocketlabusa.com/events-and-presentations/presentations](https://cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Finvestors.rocketlabusa.com%2Fevents-and-presentations%2Fpresentations&esheet=52531521&newsitemid=20211115006183&lan=en-US&anchor=https%3A%2F%2Finvestors.rocketlabusa.com%2Fevents-and-presentations%2Fpresentations&index=1&md5=78b782e403cd1dd386be27f6b194f7c7) The live webcast and a replay of the webcast will be available on Rocket Lab’s Investor Relations website: [https://investors.rocketlabusa.com/events-and-presentations/events](https://cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Finvestors.rocketlabusa.com%2Fevents-and-presentations%2Fevents&esheet=52531521&newsitemid=20211115006183&lan=en-US&anchor=https%3A%2F%2Finvestors.rocketlabusa.com%2Fevents-and-presentations%2Fevents&index=2&md5=5f31994168ab7208960ee619cf28abce)
-

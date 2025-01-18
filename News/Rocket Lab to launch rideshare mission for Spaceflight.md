@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab to launch rideshare mission for Spaceflight "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-to-launch-rideshare-mission-for-spaceflight/"
 author:
@@ -15,6 +16,16 @@ tags:
  - electron 
  - contract
 ---
+
+#electron #contract
+**Title:** Rocket Lab to launch rideshare mission for Spaceflight 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-launch-rideshare-mission-for-spaceflight/
+**Author:** [[Rocket Lab]]
+**Published:** 2019-05-10
+**Description:** *Rocket Lab to launch rideshare mission for Spaceflight*
+**Customer:** [[Spaceflight]], [[BlackSky]], [[Melbourne Space Program]]
+**Mission:** [[007 'Make it Rain' - Electron]]
+
 Rocket Lab to launch rideshare mission for Spaceflight
 
 The mission will be Rocket Lab’s seventh Electron launch and continues the company’s monthly launch cadence

@@ -1,4 +1,5 @@
 ---
+
 title: "'It's a Test' - Live News Updates "
 source: "https://www.rocketlabusa.com/updates/its-a-test-live-news-updates-2/"
 author:
@@ -12,6 +13,16 @@ tags:
  - electron
  - launch
 ---
+
+#electron #launch
+**Title:** 'It's a Test' - Live News Updates 
+**Source:** https://www.rocketlabusa.com/updates/its-a-test-live-news-updates-2/
+**Author:** [[Rocket Lab]]
+**Published:** 2017-05-23
+**Description:** *Rocket Lab Testing Update ― 23 May 2017*
+**Customer:** n/a
+**Mission:** [[001 'It's a Test' - Electron]]
+
 **Rocket Lab Testing Update ― 23 May 2017**
 
 Rocket Lab scrubs test launch attempt from Launch Complex 1

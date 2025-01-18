@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Completes Final Launch Rehearsal Ahead of First Electron Mission from U.S. Soil "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-completes-final-launch-rehearsal-ahead-of-first-electron-mission-from-u-s-soil/"
 author:
@@ -11,6 +12,15 @@ tags:
   - "electron"
   - "launch"
 ---
+
+#electron #launch
+**Title:** Rocket Lab Completes Final Launch Rehearsal Ahead of First Electron Mission from U.S. Soil 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-completes-final-launch-rehearsal-ahead-of-first-electron-mission-from-u-s-soil/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-11-21
+**Description:** *With rocket and launch pad checkouts complete, Rocket Lab is ready for its first mission from U.S. soil at Launch Complex 2 in Virginia*
+**Customer:** [[HawkEye 360]]
+**Mission:** [[033 'Virginia is for Launch Lovers' - Electron]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-completes-final-launch-rehearsal-ahead-of-first-electron-mission-from-u-s-soil/
 

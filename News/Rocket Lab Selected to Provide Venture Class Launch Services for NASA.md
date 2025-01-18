@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Selected to Provide Venture Class Launch Services for NASA "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-selected-to-provide-venture-class-launch-services-for-nasa/"
 author:
@@ -11,6 +12,15 @@ tags:
  - electron
  - contract
 ---
+
+#electron #contract
+**Title:** Rocket Lab Selected to Provide Venture Class Launch Services for NASA 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-selected-to-provide-venture-class-launch-services-for-nasa/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-01-27
+**Description:** *Rocket Lab Selected to Provide Venture Class Launch Services for NASA *
+**Customer:** [[NASA]]
+
 **Rocket Lab Selected to Provide Venture Class Launch Services for NASA** 
 
 *Rocket Lab among companies selected to provide launch services for the agency’s Venture-Class Acquisition of Dedicated and Rideshare (VADR) missions, providing new opportunities for science and technology payloads and fostering a growing U.S. commercial launch market.*

@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Demonstrates New Orbital Maneuvering Capability with Most Complex Kick Stage Mission Yet "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-demonstrates-new-orbital-maneuvering-capability-with-most-complex-kick-stage-mission-yet/"
 author:
@@ -13,6 +14,16 @@ tags:
  - electron
  - launch
 ---
+
+#electron #launch
+**Title:** Rocket Lab Demonstrates New Orbital Maneuvering Capability with Most Complex Kick Stage Mission Yet 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-demonstrates-new-orbital-maneuvering-capability-with-most-complex-kick-stage-mission-yet/
+**Author:** [[Rocket Lab]]
+**Published:** 2021-01-26
+**Description:** *Rocket Lab Demonstrates New Orbital Maneuvering Capability with Most Complex Kick Stage Mission Yet*
+**Customer:** [[OHB Group]]
+**Mission:** [[018 'Another One Leaves the Crust' - Electron]]
+
 **Rocket Lab Demonstrates New Orbital Maneuvering Capability with Most Complex Kick Stage Mission Yet**
 
 *Launched just six months after contract signing, Rocket Lab’s ‘Another One Leaves The Crust’ mission demonstrated the longest on-orbit burn to date for the Kick Stage’s Curie engine* 

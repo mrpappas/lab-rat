@@ -1,4 +1,5 @@
 ---
+
 title: "It's Business Time at Rocket Lab  "
 source: "https://www.rocketlabusa.com/updates/its-business-time-at-rocket-lab/"
 author:
@@ -15,6 +16,16 @@ tags:
  - electron
  - launch
 ---
+
+#electron #launch
+**Title:** It's Business Time at Rocket Lab  
+**Source:** https://www.rocketlabusa.com/updates/its-business-time-at-rocket-lab/
+**Author:** [[Rocket Lab]]
+**Published:** 2018-03-13
+**Description:** *Huntington Beach, California. March 13, 2018:* US orbital launch provider Rocket Lab has today confirmed its next launch will be the company’s first fully commercial flight. Two Lemur-2 cubesats for launch customer Spire Global will be on board the upcoming launch, with the full manifest to be confirmed in coming weeks.
+**Customer:** [[Spire Global]], [[Tyvak Nano-Satellite Systems]], [[Fleet Space]]
+**Mission:** [[003 'It's Business Time' - Electron]]
+
 **Huntington Beach, California. March 13, 2018:** US orbital launch provider Rocket Lab has today confirmed its next launch will be the company’s first fully commercial flight. Two Lemur-2 cubesats for launch customer Spire Global will be on board the upcoming launch, with the full manifest to be confirmed in coming weeks.
 
 The flight’s name was put to a vote on social media, with “It’s Business Time” coming out as a clear fan favourite and a continuation of company’s previous flight names, “It’s a Test” and “Still Testing”.  

@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab To Launch Commercial Earth-Imaging Rideshare Mission For Planet, Canon Electronics "
 source: "https://www.rocketlabusa.com/updates/new-blog-post-2/"
 author:
@@ -15,6 +16,16 @@ tags:
  - electron
  - launch
 ---
+
+#electron #launch
+**Title:** Rocket Lab To Launch Commercial Earth-Imaging Rideshare Mission For Planet, Canon Electronics 
+**Source:** https://www.rocketlabusa.com/updates/new-blog-post-2/
+**Author:** [[Rocket Lab]]
+**Published:** 2020-09-21
+**Description:** *Rocket Lab To Launch Commercial Earth-Imaging Rideshare Mission For Planet, Canon Electronics*
+**Customer:** [[Planet Labs]], [[Spaceflight]], [[Canon Electronics]]
+**Mission:** [[015 'In Focus' - Electron]]
+
 **Rocket Lab To Launch Commercial Earth-Imaging Rideshare Mission For Planet, Canon Electronics**
 
 *This rideshare mission will be Electron’s 15th launch overall and fifth in 2020, making Electron the second most-frequently launched U.S. rocket this year.*

@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab-launched CAPSTONE Spacecraft Enters Lunar Orbit "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-launched-capstone-spacecraft-enters-lunar-orbit/"
 author:
@@ -11,6 +12,14 @@ customer:
 mission: "[[027 'CAPSTONE' - Electron]]"
 
 ---
+
+**Title:** Rocket Lab-launched CAPSTONE Spacecraft Enters Lunar Orbit 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-launched-capstone-spacecraft-enters-lunar-orbit/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-11-15
+**Description:** Almost five months after a successful launch by Rocket Lab, the CAPSTONE spacecraft has reached its lunar destination - a unique orbit around the Moon where the future Gateway space station will support NASA's Artemis missions.
+**Customer:** [[NASA]], [[Advanced Space]]
+**Mission:** [[027 'CAPSTONE' - Electron]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-launched-capstone-spacecraft-enters-lunar-orbit/
 

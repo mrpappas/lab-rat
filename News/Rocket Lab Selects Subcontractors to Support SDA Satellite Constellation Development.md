@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Selects Subcontractors to Support SDA Satellite Constellation Development "
 source: https://www.rocketlabusa.com/updates/rocket-lab-selects-subcontractors-to-support-sda-satellite-constellation-development/
 author:
@@ -10,6 +11,15 @@ mission: "[[SDA Tranche 2 - Enhanced Global Coverage]]"
 tags:
   - space-systems
 ---
+
+#space-systems
+**Title:** Rocket Lab Selects Subcontractors to Support SDA Satellite Constellation Development 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-selects-subcontractors-to-support-sda-satellite-constellation-development/
+**Author:** [[Rocket Lab]]
+**Published:** 2024-05-06
+**Description:** Long Beach, California. May 6, 2024. – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced it has completed the selection of subcontractors to provide payloads and ground systems for the 18 satellites the Company is developing for SDA (Space Development Agency).
+**Customer:** [[Space Development Agency (SDA)]]
+**Mission:** [[SDA Tranche 2 - Enhanced Global Coverage]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-selects-subcontractors-to-support-sda-satellite-constellation-development/
 
@@ -31,4 +41,4 @@ Redwire Space: Redwire Space, a global leader in space infrastructure, has been 
 
 Parsons Corporation: Parsons will be supplying the NEBULA Operations – Vendor Architecture (NOVA) which will be Rocket Lab’s ground system for managing operations for its 18 satellites.
 
-“Rocket Lab has a strong history of developing highly capable, resilient, and affordable space infrastructure. We’re excited to continue this heritage by delivering a reliable satellite constellation to SDA in support of PWSA,” said Rocket Lab founder and CEO, Peter Beck. “Rocket Lab technology has been delivering mission success in orbit for more than 20 years, so when we look for subcontractors to support our programs we select for performance and proven experience – something this hand-picked team has in abundance.”  
+“Rocket Lab has a strong history of developing highly capable, resilient, and affordable space infrastructure. We’re excited to continue this heritage by delivering a reliable satellite constellation to SDA in support of PWSA,” said Rocket Lab founder and CEO, Peter Beck. “Rocket Lab technology has been delivering mission success in orbit for more than 20 years, so when we look for subcontractors to support our programs we select for performance and proven experience – something this hand-picked team has in abundance.”

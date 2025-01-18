@@ -1,4 +1,5 @@
 ---
+
 title: $20,000 Rocket Lab Scholarship Awarded to Aspiring Young Māori Doctor 
 source: https://www.rocketlabusa.com/updates/20000-rocket-lab-scholarship-awarded-to-aspiring-young-maori-doctor/
 author:
@@ -7,6 +8,12 @@ published: 2023-02-24
 description: "*Auckland, New Zealand. February 24, 2023* – Rocket Lab USA Inc, (Nasdaq: RKLB), a leading launch and space systems company, has today awarded its $20,000 Rocket Lab Scholarship to a student determined to make a difference in health for Māori."
 
 ---
+
+**Title:** $20,000 Rocket Lab Scholarship Awarded to Aspiring Young Māori Doctor
+**Source:** https://www.rocketlabusa.com/updates/20000-rocket-lab-scholarship-awarded-to-aspiring-young-maori-doctor/
+**Author:** [[Rocket Lab]]
+**Published:** 2023-02-24
+**Description:** *Auckland, New Zealand. February 24, 2023* – Rocket Lab USA Inc, (Nasdaq: RKLB), a leading launch and space systems company, has today awarded its $20,000 Rocket Lab Scholarship to a student determined to make a difference in health for Māori.
 
 Source: https://www.rocketlabusa.com/updates/20000-rocket-lab-scholarship-awarded-to-aspiring-young-maori-doctor/
 

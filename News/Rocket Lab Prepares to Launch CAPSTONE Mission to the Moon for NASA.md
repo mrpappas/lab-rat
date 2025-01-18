@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Prepares to Launch CAPSTONE Mission to the Moon for NASA "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-prepares-to-launch-capstone-mission-to-the-moon-for-nasa/"
 author:
@@ -15,6 +16,17 @@ tags:
  - electron
  - space-systems
 ---
+
+#electron #space-systems
+**Title:** Rocket Lab Prepares to Launch CAPSTONE Mission to the Moon for NASA 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-prepares-to-launch-capstone-mission-to-the-moon-for-nasa/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-06-23
+**Description:** *Rocket Lab Prepares to Launch CAPSTONE Mission to the Moon for NASA*
+**Customer:** [[NASA]], [[Advanced Space]]
+**Mission:** [[027 'CAPSTONE' - Electron]]
+**Insider:** None
+
 **Rocket Lab Prepares to Launch CAPSTONE Mission to the Moon for NASA**
 
 *Rocket Lab will launch a microwave oven-sized CubeSat dubbed CAPSTONE to a never-before-flown orbit around the Moon, blazing a new efficient deep space route that NASA hopes to use for future human spaceflight missions*

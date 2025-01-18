@@ -1,4 +1,5 @@
 ---
+
 title: "Finalist in 2014 Innovators Awards "
 source: "https://www.rocketlabusa.com/updates/finalist-in-2014-innovators-awards/"
 author:
@@ -6,6 +7,12 @@ author:
 published: 2014-09-01
 description: "Rocket Lab is proud to be named amongst the finalists in the 2014 New Zealand Innovators Awards."
 ---
+
+**Title:** Finalist in 2014 Innovators Awards 
+**Source:** https://www.rocketlabusa.com/updates/finalist-in-2014-innovators-awards/
+**Author:** [[Rocket Lab]]
+**Published:** 2014-09-01
+**Description:** Rocket Lab is proud to be named amongst the finalists in the 2014 New Zealand Innovators Awards.
 
 Rocket Lab is proud to be named amongst the finalists in the 2014 New Zealand Innovators Awards.
 

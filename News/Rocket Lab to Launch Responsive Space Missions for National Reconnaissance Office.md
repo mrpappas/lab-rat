@@ -1,4 +1,5 @@
 ---
+
 title: Rocket Lab to Launch Responsive Space Missions for National Reconnaissance Office  
 source: https://www.rocketlabusa.com/updates/rocket-lab-to-launch-responsive-space-missions-for-national-reconnaissance-office/
 author:
@@ -14,6 +15,17 @@ insider:
 tags: 
  - electron
 ---
+
+#electron
+**Title:** Rocket Lab to Launch Responsive Space Missions for National Reconnaissance Office
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-launch-responsive-space-missions-for-national-reconnaissance-office/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-07-05
+**Description:** *Long Beach, California. July 5, 2022* – Rocket Lab USA, Inc (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, today announced its next two launches will be responsive space missions for the United States Government’s National Reconnaissance Office.
+**Customer:** [[National Reconnaissance Office (NRO)]]
+**Mission:** [[028 'Wise One Looks Ahead' - Electron]], [[029 'Antipodean Adventure' - Electron]]
+**Insider:** None
+
 **Long Beach, California. July 5, 2022** – Rocket Lab USA, Inc (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, today announced its next two launches will be responsive space missions for the United States Government’s National Reconnaissance Office.
 
 Launching from Rocket Lab Launch Complex 1 on two Electron rockets, Rocket Lab is scheduled to deploy satellites to space for the NRO within only 10 days of each other. NROL-162 (“Wise One Looks Ahead”) will launch from Rocket Lab Launch Complex 1’s Pad A no earlier than July 12, with NROL-199 (“Antipodean Adventure”) scheduled to launch from Pad B no earlier than July 22.

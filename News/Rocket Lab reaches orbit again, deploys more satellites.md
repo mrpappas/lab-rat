@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab reaches orbit again, deploys more satellites"
 source: "https://www.rocketlabusa.com/updates/rocket-lab-reaches-orbit-again-deploys-more-satellites/"
 author:
@@ -15,6 +16,16 @@ tags:
  - electron
  - launch
 ---
+
+#electron #launch
+**Title:** Rocket Lab reaches orbit again, deploys more satellites
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-reaches-orbit-again-deploys-more-satellites/
+**Author:** [[Rocket Lab]]
+**Published:** 2018-11-11
+**Description:** *Rocket Lab reaches orbit again, deploys more satellites*
+**Customer:** [[Spire Global]], [[Tyvak Nano-Satellite Systems]], [[Fleet Space]]
+**Mission:** [[003 'It's Business Time' - Electron]]
+
 **Rocket Lab reaches orbit again, deploys more satellites** 
 
 **Auckland, New Zealand. November 11, 2018:** Rocket Lab has continued the success of its 2018 orbital launch program with the launch of seven payloads to orbit today. The mission, named ‘It’s Business Time,’ marks Rocket Lab’s second successful orbital launch and deployment of customer satellites.

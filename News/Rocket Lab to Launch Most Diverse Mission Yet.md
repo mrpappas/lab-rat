@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab to Launch Most Diverse Mission Yet "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-to-launch-most-diverse-mission-yet/"
 author:
@@ -17,6 +18,16 @@ tags:
  - electron
  - launch
 ---
+
+#electron #launch
+**Title:** Rocket Lab to Launch Most Diverse Mission Yet 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-launch-most-diverse-mission-yet/
+**Author:** [[Rocket Lab]]
+**Published:** 2020-11-02
+**Description:** *Rocket Lab to Launch Most Diverse Mission Yet *
+**Customer:** [[Trisept]], [[Unseenlabs]], [[Swarm]], [[The University of Auckland]], [[Valve]]
+**Mission:** [[016 'Return to Sender' - Electron]]
+
 **Rocket Lab to Launch Most Diverse Mission Yet** 
 
 - *The mission will deploy 30 satellites to unique orbits using the Electron launch vehicle’s Kick Stage space tug*

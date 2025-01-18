@@ -1,8 +1,13 @@
 ---
+
 date: 2024-02-07
 net_proceeds: $300,300,000
 valuation: $2,690,000,000
 ---
+
+**Date:** 2024-02-07
+**Net Proceeds:** $300,300,000
+**Valuation:** $2,690,000,000
 
 >[!summary] 
 >- $300.3 million of net proceeds after adjusting for $43.2 million of capped call costs and approximately $11.5 million of underwriting costs and estimated offering expenses
@@ -20,5 +25,3 @@ valuation: $2,690,000,000
 https://finance.yahoo.com/news/rocket-lab-announces-closing-upsized-120000320.html
 
 ![[Pasted image 20241125224421.png]]
-
-

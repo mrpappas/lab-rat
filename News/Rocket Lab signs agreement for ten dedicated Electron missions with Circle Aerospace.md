@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab signs agreement for ten dedicated Electron missions with Circle Aerospace "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-signs-agreement-for-ten-dedicated-electron-missions-with-circle-aerospace/"
 author:
@@ -11,6 +12,15 @@ tags:
  - electron
  - contract
 ---
+
+#electron #contract
+**Title:** Rocket Lab signs agreement for ten dedicated Electron missions with Circle Aerospace 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-signs-agreement-for-ten-dedicated-electron-missions-with-circle-aerospace/
+**Author:** [[Rocket Lab]]
+**Published:** 2018-08-07
+**Description:** *Logan, Utah. 7 August 2018:* US orbital launch provider Rocket Lab has signed an agreement with Circle Aerospace for ten dedicated Electron launches, with the first launch scheduled to lift off in Q4 2019.
+**Customer:** [[Circle Aerospace]]
+
 **Logan, Utah. 7 August 2018:** US orbital launch provider Rocket Lab has signed an agreement with Circle Aerospace for ten dedicated Electron launches, with the first launch scheduled to lift off in Q4 2019. 
 
 Headquartered in Dubai, Circle Aerospace is a new turnkey launch brokerage and satellite development company serving to catalyze the growth of a commercial space and small satellite industry across the United Arab Emirates and wider Gulf Cooperation Council nations (GCC). Circle Aerospace offers full-spectrum, bespoke orbital solutions, including the design, build, and launch of payloads for customers worldwide.

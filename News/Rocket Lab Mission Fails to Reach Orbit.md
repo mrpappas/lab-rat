@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Mission Fails to Reach Orbit "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-mission-fails-to-reach-orbit/"
 author:
@@ -17,6 +18,16 @@ tags:
  - launch
  - anomaly
 ---
+
+#electron #launch #anomaly
+**Title:** Rocket Lab Mission Fails to Reach Orbit 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-mission-fails-to-reach-orbit/
+**Author:** [[Rocket Lab]]
+**Published:** 2020-07-04
+**Description:** *Rocket Lab Mission Fails to Reach Orbit*
+**Customer:** [[Planet Labs]], [[Spaceflight]], [[Canon Electronics]], [[In-Space Missions]]
+**Mission:** [[013 'Pics Or It Didn't Happen' - Electron]]
+
 **Rocket Lab Mission Fails to Reach Orbit**
 
 **Long Beach, Calif. July 4, 2020:** Following a successful lift-off, first stage burn, and stage separation, Rocket Lab experienced an anomaly during its 13<sup>th</sup> Electron mission ‘Pics Or It Didn’t Happen.’

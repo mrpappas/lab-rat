@@ -1,4 +1,5 @@
 ---
+
 title: Rocket Lab Delivers Final Solar Panels for NASA Gateway’s Power and Propulsion Element 
 source: https://www.rocketlabusa.com/updates/rocket-lab-delivers-final-solar-panels-for-nasa-gateways-power-and-propulsion-element/
 author:
@@ -11,6 +12,14 @@ customer:
 tags:
   - space-systems
 ---
+
+#space-systems
+**Title:** Rocket Lab Delivers Final Solar Panels for NASA Gateway’s Power and Propulsion Element
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-delivers-final-solar-panels-for-nasa-gateways-power-and-propulsion-element/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-11-03
+**Description:** *Critical to one of the world’s largest solar array assemblies, the solar panels will enable NASA’s Gateway lunar space station to be the most powerful electric propulsion spacecraft ever flown.*
+**Customer:** [[Maxar Technologies]], [[NASA]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-delivers-final-solar-panels-for-nasa-gateways-power-and-propulsion-element/
 

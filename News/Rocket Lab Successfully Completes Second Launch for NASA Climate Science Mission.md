@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Successfully Completes Second Launch for NASA Climate Science Mission  "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-completes-second-launch-for-nasa-climate-science-mission/"
 author:
@@ -11,6 +12,15 @@ tags:
   - "launch"
   - "electron"
 ---
+
+#launch #electron
+**Title:** Rocket Lab Successfully Completes Second Launch for NASA Climate Science Mission  
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-completes-second-launch-for-nasa-climate-science-mission/
+**Author:** [[Rocket Lab]]
+**Published:** 2024-06-05
+**Description:** The second of two Electron launches for NASA’s PREFIRE mission successfully lifted-off and deployed a climate monitoring satellite just eleven days after the first launch
+**Customer:** [[NASA]]
+**Mission:** [[049 'PREFIRE and ICE' - Electron]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-completes-second-launch-for-nasa-climate-science-mission/
 

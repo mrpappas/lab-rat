@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab and Planet Sign Launch Services Agreement "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-and-planet-sign-launch-services-agreement/"
 author:
@@ -11,6 +12,15 @@ tags:
  - electron
  - launch
 ---
+
+#electron #launch
+**Title:** Rocket Lab and Planet Sign Launch Services Agreement 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-and-planet-sign-launch-services-agreement/
+**Author:** [[Rocket Lab]]
+**Published:** 2016-08-18
+**Description:** Planet and Rocket Lab have signed a Launch Services Agreement for at least three dedicated launches on Rocket Lab’s Electron launch vehicle.
+**Customer:** [[Planet Labs]]
+
 Planet and Rocket Lab have signed a Launch Services Agreement for at least three dedicated launches on Rocket Lab’s Electron launch vehicle.
 
 The agreement will see Electron used to expand and replenish Planet’s existing on-orbit fleet of Dove satellites. Planet will utilize the full capacity of Electron for each of the launches, which are scheduled to begin in 2017.

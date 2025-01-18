@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Completes Successful First Hot Fire of Archimedes Engine for Neutron Rocket "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-completes-successful-first-hot-fire-of-archimedes-engine-for-neutron-rocket/"
 author:
@@ -9,6 +10,13 @@ tags:
   - "neutron"
   - "archimedes"
 ---
+
+#neutron #archimedes
+**Title:** Rocket Lab Completes Successful First Hot Fire of Archimedes Engine for Neutron Rocket 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-completes-successful-first-hot-fire-of-archimedes-engine-for-neutron-rocket/
+**Author:** [[Rocket Lab]]
+**Published:** 2024-08-08
+**Description:** Long Beach, Calif. August 8, 2024. – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced it has successfully hot fired its new rocket engine Archimedes for the first time, reaching a critical technical milestone toward first launch of the Company’s new medium-lift rocket, Neutron.
 
 **Source**: https://www.rocketlabusa.com/updates/rocket-lab-completes-successful-first-hot-fire-of-archimedes-engine-for-neutron-rocket/
 

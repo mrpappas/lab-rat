@@ -1,4 +1,5 @@
 ---
+
 title: Rocket Lab Successfully Launches 112th Satellite to Orbit 
 source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-112th-satellite-to-orbit/
 author:
@@ -13,6 +14,16 @@ tags:
   - electron
   - launch
 ---
+
+#electron #launch
+**Title:** Rocket Lab Successfully Launches 112th Satellite to Orbit
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-112th-satellite-to-orbit/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-04-03
+**Description:** *Mahia, New Zealand. April 3, 2022* – Rocket Lab USA, Inc (Nasdaq: RKLB[https://investors.rocketlabusa.com/]), a leading launch and space systems company, has successfully deployed two satellites to orbit for real-time geospatial intelligence company BlackSky (NYSE: BKSY[https://ir.blacksky.com/]), bringing the total number of satellites deployed by Rocket Lab to 112.
+**Customer:** [[BlackSky]]
+**Mission:** [[025 'Without Mission A Beat' - Electron]]
+
 Mahia, New Zealand. April 3,  2022 – Rocket Lab USA, Inc (Nasdaq: RKLB), a leading launch and space systems company, has successfully deployed two satellites to orbit for real-time geospatial intelligence company [[BlackSky]] (NYSE: BKSY), bringing the total number of satellites deployed by Rocket Lab to 112.
 
 The ‘Without Mission A Beat’ launch, arranged for BlackSky through global launch services provider Spaceflight Inc., was Electron’s 25th lift-off from Rocket Lab Launch Complex 1 on New Zealand’s Mahia Peninsula. Following lift-off at 12:41 UTC, April 2, Electron successfully delivered the pair of BlackSky Gen-2 Earth-imaging satellites to a circular 430km orbit, growing BlackSky’s constellation of real-time geospatial monitoring spacecraft to 14.

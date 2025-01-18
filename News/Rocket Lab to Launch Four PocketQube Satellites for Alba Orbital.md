@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab to Launch Four PocketQube Satellites for Alba Orbital "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-to-launch-four-pocketqube-satellites-for-alba-orbital/"
 author:
@@ -13,6 +14,16 @@ tags:
  - electron
  - contract
 ---
+
+#electron #contract
+**Title:** Rocket Lab to Launch Four PocketQube Satellites for Alba Orbital 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-launch-four-pocketqube-satellites-for-alba-orbital/
+**Author:** [[Rocket Lab]]
+**Published:** 2021-08-18
+**Description:** *Rocket Lab to Launch Four PocketQube Satellites for Alba Orbital*
+**Customer:** [[Alba Orbital]]
+**Mission:** [[026 'There And Back Again' - Electron]]
+
 **Rocket Lab to Launch Four PocketQube Satellites for Alba Orbital**
 
 *Launching on Electron in Q4 2021, the mission will deploy a range of pocket-sized satellites designed to demonstrate innovative radio and night-time Earth observation technologies*

@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Raises $75 Million in Funding for Production of Electron Rocket  "
 source: "https://www.rocketlabusa.com/updates/series-d-financing/"
 author:
@@ -10,6 +11,15 @@ tags:
  - capital-raise
  - electron
 ---
+
+#capital-raise #electron
+**Title:** Rocket Lab Raises $75 Million in Funding for Production of Electron Rocket  
+**Source:** https://www.rocketlabusa.com/updates/series-d-financing/
+**Author:** [[Rocket Lab]]
+**Published:** 2017-03-22
+**Description:** *By Peter Beck, CEO *
+**Event:** [[2017 Series D Funding]]
+
 **By Peter Beck, CEO**
 
 Today, we announced that Rocket Lab has closed a $75m Series D financing round, led by [Data Collective](http://www.dcvc.com/), with additional investors [Promus Ventures](http://www.promusventures.com/) and an undisclosed investor. We’ve partnered with this esteemed group of investors because of their experience in the space industry.  We also had renewed participation in this round from our existing investors - [Khosla Ventures](http://www.khoslaventures.com/), [Bessemer Venture Partners](https://www.bvp.com/) and K1W1 - who have provided continued expertise and support as we work to make space accessible to everyone. The closure of the round brings the total funding Rocket Lab has received to date to $148 million, with the company value now in excess of $1 billion (USD).    

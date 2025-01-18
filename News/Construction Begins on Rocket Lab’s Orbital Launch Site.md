@@ -1,4 +1,5 @@
 ---
+
 title: "Construction Begins on Rocket Lab’s Orbital Launch Site "
 source: "https://www.rocketlabusa.com/updates/construction-begins-on-rocket-labs-orbital-launch-site/"
 author:
@@ -8,6 +9,14 @@ description: "Rocket Lab began construction of an orbital launch site on New Zea
 location:
  - "[[Launch Complex 1]]"
 ---
+
+**Title:** Construction Begins on Rocket Lab’s Orbital Launch Site 
+**Source:** https://www.rocketlabusa.com/updates/construction-begins-on-rocket-labs-orbital-launch-site/
+**Author:** [[Rocket Lab]]
+**Published:** 2015-12-31
+**Description:** Rocket Lab began construction of an orbital launch site on New Zealand’s Mahia Peninsula last week.
+**Location:** [[Launch Complex 1]]
+
 Rocket Lab began construction of an orbital launch site on New Zealand’s Mahia Peninsula last week.
 
 The site will be home to the first launch of Rocket Lab’s Electron vehicle, designed to lift a 150kg payload to a 500km sun-synchronous orbit. Construction of the site will be completed in the first quarter of 2016 in preparation for the test flights of Electron.

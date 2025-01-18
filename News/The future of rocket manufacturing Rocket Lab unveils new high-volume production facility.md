@@ -1,4 +1,5 @@
 ---
+
 title: "The future of rocket manufacturing: Rocket Lab unveils new high-volume production facility  "
 source: "https://www.rocketlabusa.com/updates/the-future-of-rocket-manufacturing-rocket-lab-unveils-new-high-volume-production-facility/"
 author:
@@ -10,6 +11,15 @@ location:
 tags:
  - electron
 ---
+
+#electron
+**Title:** The future of rocket manufacturing: Rocket Lab unveils new high-volume production facility  
+**Source:** https://www.rocketlabusa.com/updates/the-future-of-rocket-manufacturing-rocket-lab-unveils-new-high-volume-production-facility/
+**Author:** [[Rocket Lab]]
+**Published:** 2018-10-12
+**Description:** The extensive facility expands Rocket Lab’s global footprint and enables rapid mass production of the Electron rocket
+**Location:** [[Production Facility - Auckland, NZ]]
+
 The extensive facility expands Rocket Lab’s global footprint and enables rapid mass production of the Electron rocket
 
 12 October, 2018. Rocket Lab has expanded its global footprint with the unveiling of a new production facility that rethinks the way orbital rockets are built. The new 7,500 sq/m (80,700 sq/ft) rocket development and production facility in Auckland, is designed for rapid mass production of the Electron rocket. Adding to Rocket Lab’s existing production facility and headquarters in Huntington Beach, California, the new facility brings Rocket Lab’s manufacturing footprint to more than 4.5 acres and enables the company to build an Electron rocket every week.

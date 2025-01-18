@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab prepares to launch historic CubeSat mission for NASA  "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-prepares-to-launch-historic-small-satellite-mission-for-nasa/"
 author:
@@ -13,6 +14,16 @@ tags:
  - electron
  - launch
 ---
+
+#electron #launch
+**Title:** Rocket Lab prepares to launch historic CubeSat mission for NASA  
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-prepares-to-launch-historic-small-satellite-mission-for-nasa/
+**Author:** [[Rocket Lab]]
+**Published:** 2018-12-04
+**Description:** *Rocket Lab prepares to launch historic CubeSat mission for NASA *
+**Customer:** [[NASA]]
+**Mission:** [[004 'NASA ELaNa-19' - Electron]]
+
 **Rocket Lab prepares to launch historic CubeSat mission for NASA**
 
 **Huntington Beach, California – December 4, 2018** – US small satellite launch company Rocket Lab is gearing up for the company’s third orbital launch of the year, the Educational Launch of Nanosatellites (ELaNa)-19 mission for NASA. The launch is a significant moment for the small satellite industry, as it’s the first time NASA CubeSats will enjoy a dedicated ride to orbit on a commercial launch vehicle, thanks to NASA’s forward-leaning Venture Class Launch Services (VCLS) initiative.  VCLS is managed by NASA’s Launch Services Program headquartered at Kennedy Space Center in Florida.

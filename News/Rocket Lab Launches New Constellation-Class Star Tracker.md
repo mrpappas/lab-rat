@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Launches New Constellation-Class Star Tracker "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-launches-new-constellation-class-star-tracker/"
 author:
@@ -8,6 +9,13 @@ description: "New class of star trackerdesigned to support high-volume constella
 tags:
   - "space-systems"
 ---
+
+#space-systems
+**Title:** Rocket Lab Launches New Constellation-Class Star Tracker 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-launches-new-constellation-class-star-tracker/
+**Author:** [[Rocket Lab]]
+**Published:** 2023-04-13
+**Description:** New class of star trackerdesigned to support high-volume constellations based on high heritage technology.
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-launches-new-constellation-class-star-tracker/
 

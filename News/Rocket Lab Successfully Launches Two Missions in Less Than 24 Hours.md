@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Successfully Launches Two Missions in Less Than 24 Hours  "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-two-missions-in-less-than-24-hours/"
 author:
@@ -16,6 +17,15 @@ tags:
   - "electron"
   - "HASTE"
 ---
+
+#launch #electron #HASTE
+**Title:** Rocket Lab Successfully Launches Two Missions in Less Than 24 Hours  
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-two-missions-in-less-than-24-hours/
+**Author:** [[Rocket Lab]]
+**Published:** 2024-11-25
+**Description:** Two missions launched in less than 24 hours from two pads in two different hemispheres, setting a new company record for fastest launch turnaround.
+**Customer:** [[Kinéis]], [[U.S. Department of Defense]]
+**Mission:** [[056 'Ice AIS Baby' - Electron]], [[055 'HASTE A La Vista' - HASTE]]
 
 **Source**: https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-two-missions-in-less-than-24-hours/
 

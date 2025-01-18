@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab to Attempt First Stage Recovery on Next Mission "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-to-attempt-first-stage-recovery-on-next-mission/"
 author:
@@ -17,6 +18,16 @@ tags:
  - electron
  - launch
 ---
+
+#electron #launch
+**Title:** Rocket Lab to Attempt First Stage Recovery on Next Mission 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-attempt-first-stage-recovery-on-next-mission/
+**Author:** [[Rocket Lab]]
+**Published:** 2020-11-05
+**Description:** For the first time, Rocket Lab will attempt to bring the first stage of an Electron launch vehicle back to Earth under a parachute after launch
+**Customer:** [[Trisept]], [[Unseenlabs]], [[Swarm]], [[The University of Auckland]], [[Valve]]
+**Mission:** [[016 'Return to Sender' - Electron]]
+
 *For the first time, Rocket Lab will attempt to bring the first stage of an Electron launch vehicle back to Earth under a parachute after launch*
 
 **Long Beach, California. November 5, 2020** – Rocket Lab has today revealed that it will attempt to recover the first stage of its Electron rocket during its next mission, the ‘Return to Sender’ launch, scheduled for lift-off in mid-November. The test will see Rocket Lab attempt to bring Electron’s first stage back to Earth under a parachute system for a controlled water landing before collection by a recovery vessel.

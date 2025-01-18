@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Successfully Launches U.S. Space Force Mission "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-u-s-space-force-mission/"
 author:
@@ -13,6 +14,16 @@ tags:
  - electron
  - launch
 ---
+
+#electron #launch
+**Title:** Rocket Lab Successfully Launches U.S. Space Force Mission 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-u-s-space-force-mission/
+**Author:** [[Rocket Lab]]
+**Published:** 2021-07-29
+**Description:** *Rocket Lab Successfully Launches U.S. Space Force Mission*
+**Customer:** [[U.S. Space Force]]
+**Mission:** [[021 'It's A Little Chile Up Here' - Electron]]
+
 **Rocket Lab Successfully Launches U.S. Space Force Mission**
 
 **Mahia, New Zealand. 29 July, 2021** – Rocket Lab, the leading launch provider and space systems company, has successfully launched a research and development satellite to orbit for the United States Space Force (USSF). The mission was Rocket Lab’s fourth launch for the year and its 21<sup>st</sup> Electron mission overall.

@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Announces Conference Call to Review Second Quarter 2021 Financial Results "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-announces-conference-call-to-review-second-quarter-2021-financial-results/"
 author:
@@ -6,6 +7,13 @@ author:
 published: 2021-08-17
 description: "*Rocket Lab Announces Conference Call to Review Second Quarter 2021 Financial Results*"
 ---
+
+**Title:** Rocket Lab Announces Conference Call to Review Second Quarter 2021 Financial Results 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-announces-conference-call-to-review-second-quarter-2021-financial-results/
+**Author:** [[Rocket Lab]]
+**Published:** 2021-08-17
+**Description:** *Rocket Lab Announces Conference Call to Review Second Quarter 2021 Financial Results*
+
 **Rocket Lab Announces Conference Call to Review Second Quarter 2021 Financial Results**
 
 **Long Beach, California. August 17, 2021** – Rocket Lab USA, Inc. (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced that it will release its financial results for the second quarter 2021 following the close of the U.S. markets on Wednesday, September 8, 2021. Rocket Lab will host a corresponding conference call at 1:30 p.m. Pacific Time (4:30 p.m. Eastern Time).
@@ -27,4 +35,3 @@ Speaker: Peter Beck, Founder and Chief Executive
 Presentation: Friday, September 10, 11:05 a.m. PDT
 
 Speakers: Peter Beck, Founder and Chief Executive, and Adam Spice, Chief Financial Officer
-

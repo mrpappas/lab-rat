@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Awarded $14m in Contracts to Supply Satellite Separation Systems for Space Development Agency’s Tranche 1 Transport Layer "
 source: https://www.rocketlabusa.com/updates/rocket-lab-awarded-14m-in-contracts-to-supply-satellite-separation-systems-for-space-development-agencys-tranche-1-transport-layer/
 author:
@@ -10,6 +11,15 @@ mission: "[[SDA Tranche 1 - Initial Warfighting Capability]]"
 tags:
   - space-systems
 ---
+
+#space-systems
+**Title:** Rocket Lab Awarded $14m in Contracts to Supply Satellite Separation Systems for Space Development Agency’s Tranche 1 Transport Layer 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-awarded-14m-in-contracts-to-supply-satellite-separation-systems-for-space-development-agencys-tranche-1-transport-layer/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-11-09
+**Description:** *The contracts represent the highest value orders for Rocket Lab’s separation systems to date*
+**Customer:** [[Space Development Agency (SDA)]]
+**Mission:** [[SDA Tranche 1 - Initial Warfighting Capability]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-awarded-14m-in-contracts-to-supply-satellite-separation-systems-for-space-development-agencys-tranche-1-transport-layer/
 
@@ -26,4 +36,3 @@ Part of the National Defense Space Architecture (NDSA), SDA’s Transport Layer 
 Previously, Rocket Lab’s Lightbands has been used on NASA International Space Station and Space Shuttle missions, on all major U.S. and international rockets.
 
 The Lightbands are a part of Rocket Lab’s vertically-integrated Space Systems offering that also includes the in-house manufactured and operated spacecraft, satellite dispensers, and satellite components such as reaction wheels and star trackers, solar panels, and flight software.
-

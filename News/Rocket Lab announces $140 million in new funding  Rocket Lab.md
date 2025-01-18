@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab announces $140 million in new funding "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-announces-140-million-in-new-funding/"
 author:
@@ -9,6 +10,15 @@ event: "[[2018 Series E Funding]]"
 tags:
  - capital-raise
 ---
+
+#capital-raise
+**Title:** Rocket Lab announces $140 million in new funding 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-announces-140-million-in-new-funding/
+**Author:** [[Rocket Lab]]
+**Published:** 2018-11-15
+**Description:** * Rocket Lab announces $140 million in new funding*
+**Event:** [[2018 Series E Funding]]
+
 **Rocket Lab announces $140 million in new funding**
 
 - Rocket Lab reveals $140 million (USD) funding in Series E financing, closed in advance of the company’s second successful orbital mission, ‘It’s Business Time’ on 11 November.

@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Welcomes Dr. Edward Frank to Board of Directors "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-welcomes-dr-edward-frank-to-board-of-directors/"
 author:
@@ -8,6 +9,13 @@ description: "*Long Beach, California. 6 September 2022* – Rocket Lab USA, Inc
 insider: "[[Edward H. Frank]]"
 
 ---
+
+**Title:** Rocket Lab Welcomes Dr. Edward Frank to Board of Directors 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-welcomes-dr-edward-frank-to-board-of-directors/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-09-06
+**Description:** *Long Beach, California. 6 September 2022* – Rocket Lab USA, Inc (Nasdaq: RKLB[https://investors.rocketlabusa.com/]) (“Rocket Lab” or “the Company”) a leading launch and space systems company, today announced that Dr. Edward Frank has been elected to the Company’s Board of Directors.
+**Insider:** [[Edward H. Frank]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-welcomes-dr-edward-frank-to-board-of-directors/
 

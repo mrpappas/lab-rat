@@ -1,4 +1,5 @@
 ---
+
 title: "Electron Test Launch Window Announced  "
 source: "https://www.rocketlabusa.com/updates/electron-test-window/"
 author:
@@ -12,6 +13,16 @@ tags:
  - electron
  - launch
 ---
+
+#electron #launch
+**Title:** Electron Test Launch Window Announced  
+**Source:** https://www.rocketlabusa.com/updates/electron-test-window/
+**Author:** [[Rocket Lab]]
+**Published:** 2017-05-15
+**Description:** Here we go! We are about to open a 10 day launch attempt window from May 22, 2017, for the first launch attempt of our Electron rocket.
+**Customer:** n/a
+**Mission:** [[001 'It's a Test' - Electron]]
+
 Here we go! We are about to open a 10 day launch attempt window from May 22, 2017, for the first launch attempt of our Electron rocket.
 
 The launch, titled ‘It’s a Test’, will take place from our private orbital launch site, Launch Complex 1, on the Māhia Peninsula, New Zealand.

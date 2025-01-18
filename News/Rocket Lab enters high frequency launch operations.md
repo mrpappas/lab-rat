@@ -1,4 +1,5 @@
 ---
+
 title: Rocket Lab enters high frequency launch operations
 source: https://www.rocketlabusa.com/updates/rocket-lab-enters-high-frequency-launch-operations/
 author:
@@ -16,6 +17,16 @@ mission:
 tags:
   - electron
 ---
+
+#electron
+**Title:** Rocket Lab enters high frequency launch operations
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-enters-high-frequency-launch-operations/
+**Author:** [[Rocket Lab]]
+**Published:** 2018-10-30
+**Description:** *It’s Business Time launch window confirmed as concurrent launch operations underway for back-to-back missions in November and December*
+**Customer:** [[Spire Global]], [[Tyvak Nano-Satellite Systems]], [[Fleet Space]], [[NASA]]
+**Mission:** [[003 'It's Business Time' - Electron]], [[004 'NASA ELaNa-19' - Electron]]
+
 **It’s Business Time launch window confirmed as concurrent launch operations underway for back-to-back missions in November and December**
 
 **Huntington Beach, California. 30 October, 2018:** US orbital launch provider Rocket Lab has today confirmed the launch window for the upcoming ‘It’s Business Time’ mission. The nine-day launch window will open from 11 to 19 November (NZDT), with daily launch opportunities between 16:00 – 20:00 NZDT (03:00 – 07:00 UTC).

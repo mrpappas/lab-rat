@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Readies Launch Complex 2 for Electron Launches From U.S. Soil "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-readies-launch-complex-2-for-electron-launches-from-u-s-soil/"
 author:
@@ -10,6 +11,15 @@ location:
 tags:
  - electron
 ---
+
+#electron
+**Title:** Rocket Lab Readies Launch Complex 2 for Electron Launches From U.S. Soil 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-readies-launch-complex-2-for-electron-launches-from-u-s-soil/
+**Author:** [[Rocket Lab]]
+**Published:** 2019-09-18
+**Description:** *Rocket Lab Readies Launch Complex 2 for Electron Launches From U.S. Soil*
+**Location:** [[Launch Complex 2]]
+
 **Rocket Lab Readies Launch Complex 2 for Electron Launches From U.S. Soil**
 
 **Wallops Island, Virginia. 18 September 2019** – Rocket Lab, the global leader in dedicated small satellite launch, and Virginia Space at the Mid-Atlantic Regional Spaceport (MARS), have completed a major construction milestone ahead of the first Electron launch from U.S. soil. The recent installation of the launch platform at Rocket Lab’s second launch site, Launch Complex 2, marks one of the final steps in the construction of the new pad being built by the Rocket Lab and Virginia Space teams.

@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab to Recover Electron Booster on Next Mission "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-to-recover-electron-booster-on-next-mission/"
 author:
@@ -13,6 +14,16 @@ tags:
  - electron
  - launch
 ---
+
+#electron #launch
+**Title:** Rocket Lab to Recover Electron Booster on Next Mission 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-recover-electron-booster-on-next-mission/
+**Author:** [[Rocket Lab]]
+**Published:** 2021-04-08
+**Description:** *Bringing a Rocket Back from Space: Rocket Lab to Recover Electron Booster on Next Mission *
+**Customer:** [[BlackSky]]
+**Mission:** [[020 'Running Out Of Toes' - Electron]]
+
 **Bringing a Rocket Back from Space: Rocket Lab to Recover Electron Booster on Next Mission** 
 
 *Rocket Lab will attempt to bring an intact rocket back from space in another major step toward making Electron the first reusable orbital small launch vehicle* 

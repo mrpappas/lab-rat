@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Successfully Deploys 34 Satellites and Catches Rocket Booster Returning from Space with Helicopter "
 source: "https://www.rocketlabusa.com/updates/new-blog-post-8/"
 author:
@@ -19,6 +20,16 @@ tags:
  - launch
  - reusability
 ---
+
+#electron #launch #reusability
+**Title:** Rocket Lab Successfully Deploys 34 Satellites and Catches Rocket Booster Returning from Space with Helicopter 
+**Source:** https://www.rocketlabusa.com/updates/new-blog-post-8/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-05-02
+**Description:** *Long Beach, Calif. May 2, 2022:* Rocket Lab (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, has successfully launched its 26th Electron mission, deploying 34 satellites to orbit. Rocket Lab has now deployed a total of 146 satellites to orbit with the Electron launch vehicle.
+**Customer:** [[Alba Orbital]], [[Astrix Astronautics]], [[Aurora Propulsion Technologies]], [[E-Space]], [[Spaceflight]], [[Unseenlabs]]
+**Mission:** [[026 'There And Back Again' - Electron]]
+
 **Long Beach, Calif. May 2, 2022:** Rocket Lab (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, has successfully launched its 26th Electron mission, deploying 34 satellites to orbit. Rocket Lab has now deployed a total of 146 satellites to orbit with the Electron launch vehicle.
 
 The “There And Back Again” mission also saw Rocket Lab complete a mid-air capture of the Electron booster with a helicopter for the first time. After launching to space, Electron’s first stage returned to Earth under a parachute. At 6,500 ft, Rocket Lab’s Sikorsky S-92 helicopter rendezvoused with the returning stage and used a hook on a long line to capture the parachute line. The mid-air capture is a major milestone in Rocket Lab’s pursuit to make Electron a reusable rocket to increase launch frequency and reduce launch costs for small satellites. After the catch, the helicopter pilot detected different load characteristics than previously experienced in testing and offloaded the stage for a successful splashdown. The stage is being loaded onto Rocket Lab’s recovery vessel for transport back to the Company’s production complex for analysis and assessment for re-flight as planned.

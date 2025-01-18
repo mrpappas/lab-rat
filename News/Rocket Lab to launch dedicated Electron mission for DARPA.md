@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab to launch dedicated Electron mission for DARPA "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-to-launch-dedicated-electron-mission-for-darpa/"
 author:
@@ -13,6 +14,16 @@ tags:
  - electron
  - contract
 ---
+
+#electron #contract
+**Title:** Rocket Lab to launch dedicated Electron mission for DARPA 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-launch-dedicated-electron-mission-for-darpa/
+**Author:** [[Rocket Lab]]
+**Published:** 2019-01-22
+**Description:** *Rocket Lab to launch dedicated Electron mission for DARPA*
+**Customer:** [[DARPA]]
+**Mission:** [[005 'DARPA R3D2' - Electron]]
+
 **Rocket Lab to launch dedicated Electron mission for [[DARPA]]**
 
 **The mission intends to space-qualify a new membrane reflect-array antenna and highlights the Electron rocket’s suitability as a responsive, flexible and rapidly-acquired launch service for commercial and government missions alike**

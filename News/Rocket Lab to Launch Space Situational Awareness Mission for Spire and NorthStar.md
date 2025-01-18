@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab to Launch Space Situational Awareness Mission for Spire and NorthStar "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-to-launch-space-situational-awareness-mission-for-spire-and-northstar/"
 author:
@@ -13,6 +14,15 @@ tags:
   - "launch"
   - "electron"
 ---
+
+#launch #electron
+**Title:** Rocket Lab to Launch Space Situational Awareness Mission for Spire and NorthStar 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-launch-space-situational-awareness-mission-for-spire-and-northstar/
+**Author:** [[Rocket Lab]]
+**Published:** 2024-01-08
+**Description:** Rocket Lab will also attempt to recover Electron’s first stage from the mission in next step for reusability.
+**Customer:** [[Spire Global]], [[NorthStar Earth & Space]]
+**Mission:** [[043 'Four Of A Kind' - Electron]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-to-launch-space-situational-awareness-mission-for-spire-and-northstar/
 

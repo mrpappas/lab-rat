@@ -1,4 +1,5 @@
 ---
+
 date: 2017-03-22
 net_proceeds: $75,000,000
 valuation: $1,000,000,000
@@ -11,7 +12,13 @@ investors:
  - Undisclosed Investor
 ---
 
- >[!Summary]
+**Date:** 2017-03-22
+**Net Proceeds:** $75,000,000
+**Valuation:** $1,000,000,000
+**Lead Investor:** [[DCVC]]
+**Investors:** [[Promus Ventures]], [[Khosla Ventures]], [[Bessemer Venture Partners]], [[K1W1 Investment Fund]], Undisclosed Investor
+
+>[!Summary]
 This funding round brought Rocket Lab's total funding to **$148 million** and valued the company at over **$1 billion**, achieving "unicorn" status. The investment enabled Rocket Lab to enhance its launch services, aiming to provide frequent and cost-effective access to space for small satellite operators.
 >
 The funds were allocated to:

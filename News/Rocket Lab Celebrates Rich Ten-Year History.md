@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Celebrates Rich Ten-Year History "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-celebrates-rich-ten-year-history/"
 author:
@@ -6,6 +7,13 @@ author:
 published: 2016-06-30
 description: "Rocket Lab is this week celebrating its ten-year anniversary. Founded in June 2006 as a center for advanced space systems, Rocket Lab is best known for its Electron orbital launch program."
 ---
+
+**Title:** Rocket Lab Celebrates Rich Ten-Year History 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-celebrates-rich-ten-year-history/
+**Author:** [[Rocket Lab]]
+**Published:** 2016-06-30
+**Description:** Rocket Lab is this week celebrating its ten-year anniversary. Founded in June 2006 as a center for advanced space systems, Rocket Lab is best known for its Electron orbital launch program.
+
 Rocket Lab is this week celebrating its ten-year anniversary. Founded in June 2006 as a center for advanced space systems, Rocket Lab is best known for its Electron orbital launch program.
 
 The company has a rich history of developing propulsion systems and launch vehicles for a multitude of government and commercial customers. Rocket Lab has successfully launched over 80 sounding rockets and in 2009 became the first private company to reach space from the Southern Hemisphere.

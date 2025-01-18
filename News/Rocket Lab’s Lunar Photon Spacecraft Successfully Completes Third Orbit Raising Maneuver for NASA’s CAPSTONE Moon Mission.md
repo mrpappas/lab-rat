@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab’s Lunar Photon Spacecraft Successfully Completes Third Orbit Raising Maneuver for NASA’s CAPSTONE Moon Mission "
 source: "https://www.rocketlabusa.com/updates/rocket-labs-lunar-photon-spacecraft-successfully-completes-third-orbit-raising-maneuver-for-nasas-capstone-moon-mission/"
 author:
@@ -15,6 +16,17 @@ tags:
  - space-systems
  - electron
 ---
+
+#space-systems #electron
+**Title:** Rocket Lab’s Lunar Photon Spacecraft Successfully Completes Third Orbit Raising Maneuver for NASA’s CAPSTONE Moon Mission 
+**Source:** https://www.rocketlabusa.com/updates/rocket-labs-lunar-photon-spacecraft-successfully-completes-third-orbit-raising-maneuver-for-nasas-capstone-moon-mission/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-06-29
+**Description:** *Long Beach, California. June 29, 2022 *- Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, today announced its Lunar Photon spacecraft has successfully completed the third of seven planned orbit raising maneuvers, bringing the CAPSTONE spacecraft closer to the Moon.
+**Customer:** [[NASA]], [[Advanced Space]]
+**Mission:** [[027 'CAPSTONE' - Electron]]
+**Insider:** None
+
 **Long Beach, California. June 29, 2022** \- Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, today announced its Lunar Photon spacecraft has successfully completed the third of seven planned orbit raising maneuvers, bringing the CAPSTONE spacecraft closer to the Moon.
 
 Owned and operated by Advanced Space on behalf of NASA, the Cislunar Autonomous Positioning System Technology Operations and Navigation Experiment (CAPSTONE) CubeSat will be the first spacecraft to test the Near Rectilinear Halo Orbit (NRHO) around the Moon. This is the same orbit intended for NASA’s [Gateway](https://cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fwww.nasa.gov%2Fgateway&esheet=52766494&newsitemid=20220629005956&lan=en-US&anchor=Gateway&index=1&md5=999baacd12faed53975a3883d256d9c6), a multipurpose Moon-orbiting station that will provide essential support for long-term astronaut lunar missions as part of the Artemis program.

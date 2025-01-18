@@ -1,4 +1,5 @@
 ---
+
 title: "Electron Rocket Arrives at Launch Complex 2 for Rocket Lab’s Inaugural Mission from Virginia "
 source: "https://www.rocketlabusa.com/updates/electron-rocket-arrives-at-launch-complex-2-for-rocket-labs-inaugural-mission-from-virginia/"
 author:
@@ -11,6 +12,15 @@ tags:
   - "launch"
   - "electron"
 ---
+
+#launch #electron
+**Title:** Electron Rocket Arrives at Launch Complex 2 for Rocket Lab’s Inaugural Mission from Virginia 
+**Source:** https://www.rocketlabusa.com/updates/electron-rocket-arrives-at-launch-complex-2-for-rocket-labs-inaugural-mission-from-virginia/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-10-12
+**Description:** *Electron Rocket Arrives at Launch Complex 2 for Rocket Lab’s Inaugural Mission from Virginia*
+**Customer:** [[HawkEye 360]]
+**Mission:** [[033 'Virginia is for Launch Lovers' - Electron]]
 
 Source: https://www.rocketlabusa.com/updates/electron-rocket-arrives-at-launch-complex-2-for-rocket-labs-inaugural-mission-from-virginia/
 

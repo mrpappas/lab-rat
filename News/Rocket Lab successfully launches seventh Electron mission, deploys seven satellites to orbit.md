@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab successfully launches seventh Electron mission, deploys seven satellites to orbit "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-seventh-electron-mission-deploys-seven-satellites-to-orbit/"
 author:
@@ -15,6 +16,16 @@ tags:
  - electron 
  - launch
 ---
+
+#electron #launch
+**Title:** Rocket Lab successfully launches seventh Electron mission, deploys seven satellites to orbit 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-seventh-electron-mission-deploys-seven-satellites-to-orbit/
+**Author:** [[Rocket Lab]]
+**Published:** 2019-06-29
+**Description:** Rocket Lab successfully launches seventh Electron mission, deploys seven satellites to orbit
+**Customer:** [[Spaceflight]], [[BlackSky]], [[Melbourne Space Program]]
+**Mission:** [[007 'Make it Rain' - Electron]]
+
 Rocket Lab successfully launches seventh Electron mission, deploys seven satellites to orbit
 
  The rideshare launch for Spaceflight continues Rocket Lab’s record of 100% mission success for small satellite customers  

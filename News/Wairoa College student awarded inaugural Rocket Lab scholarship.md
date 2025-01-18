@@ -1,4 +1,5 @@
 ---
+
 title: "Wairoa College student awarded inaugural Rocket Lab scholarship "
 source: "https://www.rocketlabusa.com/updates/wairoa-college-student-awarded-inaugural-rocket-lab-scholarship/"
 author:
@@ -6,6 +7,13 @@ author:
 published: 2017-12-21
 description: "Rocket Lab has announced the recipient of its inaugural tertiary scholarship, with a Wairoa College student taking out the award."
 ---
+
+**Title:** Wairoa College student awarded inaugural Rocket Lab scholarship 
+**Source:** https://www.rocketlabusa.com/updates/wairoa-college-student-awarded-inaugural-rocket-lab-scholarship/
+**Author:** [[Rocket Lab]]
+**Published:** 2017-12-21
+**Description:** Rocket Lab has announced the recipient of its inaugural tertiary scholarship, with a Wairoa College student taking out the award.
+
 Rocket Lab has announced the recipient of its inaugural tertiary scholarship, with a Wairoa College student taking out the award.
 
 Year 13 student Arianna Ormond demonstrated her passion for engineering throughout a rigorous application process, before being awarded the scholarship to study a Bachelor of Engineering at the University of Canterbury. Miss Ormond plans to specialise in mechatronics, an interdisciplinary engineering field that includes aspects of mechanical, computer and electrical engineering.

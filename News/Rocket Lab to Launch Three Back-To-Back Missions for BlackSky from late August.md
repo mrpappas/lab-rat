@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab to Launch Three Back-To-Back Missions for BlackSky from late August "
 source: "https://www.rocketlabusa.com/updates/new-blog-post-5/"
 author:
@@ -15,6 +16,16 @@ tags:
  - contract
  - electron
 ---
+
+#contract #electron
+**Title:** Rocket Lab to Launch Three Back-To-Back Missions for BlackSky from late August 
+**Source:** https://www.rocketlabusa.com/updates/new-blog-post-5/
+**Author:** [[Rocket Lab]]
+**Published:** 2021-08-10
+**Description:** The next Electron rocket on the pad is the first of three dedicated missions for BlackSky scheduled for lift-off from late August through September.
+**Customer:** [[BlackSky]]
+**Mission:** [[022 'Love At First Insight' - Electron]], [[023 'A Data With Destiny' - Electron]], [[025 'Without Mission A Beat' - Electron]]
+
 *The next Electron rocket on the pad is the first of three dedicated missions for BlackSky scheduled for lift-off from late August through September.*
 
 Long Beach, California. August 10, 2021 – Rocket Lab, a leading launch provider and space systems company, has today announced its next mission is part of a rapid launch schedule of three dedicated Electron missions for Spaceflight Inc.’s customer, global monitoring provider BlackSky. 

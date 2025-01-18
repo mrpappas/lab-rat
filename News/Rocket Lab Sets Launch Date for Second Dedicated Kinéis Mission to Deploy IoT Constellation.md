@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Sets Launch Date for Second Dedicated Kinéis Mission to Deploy IoT Constellation  "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-sets-launch-date-for-second-dedicated-kineis-mission-to-deploy-iot-constellation/"
 author:
@@ -11,6 +12,15 @@ tags:
   - "launch"
   - "electron"
 ---
+
+#launch #electron
+**Title:** Rocket Lab Sets Launch Date for Second Dedicated Kinéis Mission to Deploy IoT Constellation  
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-sets-launch-date-for-second-dedicated-kineis-mission-to-deploy-iot-constellation/
+**Author:** [[Rocket Lab]]
+**Published:** 2024-09-03
+**Description:** The upcoming mission will be the second in a series of five dedicated Electron launches for Kinéis, designed to provide global Internet of Things (IoT) accessibility worldwide.
+**Customer:** [[Kinéis]]
+**Mission:** [[053 'Kineis Killed the RadIOT Star' - Electron]]
 
 **Source**: https://www.rocketlabusa.com/updates/rocket-lab-sets-launch-date-for-second-dedicated-kineis-mission-to-deploy-iot-constellation/
 
@@ -36,4 +46,3 @@ than would be possible on a larger rideshare mission. Tailored mission parameter
 - After the first Curie engine burn to circularize the Kick Stage’s orbit, Curie will ignite again for an eight second burn to set a specific argument of perigee, enabling Kinéis to deploy five satellites to a precise location for each one of the five launches,
 - All five satellites will be deployed in a precise sequence in singles and as pairs to build out the constellation exactly as Kinéis needs it,
 - Finally, Curie will conduct a perigee lowering burn to reduce the Kick Stage’s orbital lifetime to keep space sustainable.
-

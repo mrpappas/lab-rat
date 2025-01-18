@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Successfully Launches 53rd Electron Mission, Deploys Another Five Satellites for Kinéis "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-53rd-electron-mission-deploys-another-five-satellites-for-kineis/"
 author:
@@ -11,6 +12,15 @@ tags:
   - "launch"
   - "electron"
 ---
+
+#launch #electron
+**Title:** Rocket Lab Successfully Launches 53rd Electron Mission, Deploys Another Five Satellites for Kinéis 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-53rd-electron-mission-deploys-another-five-satellites-for-kineis/
+**Author:** [[Rocket Lab]]
+**Published:** 2024-09-21
+**Description:** Mahia, New Zealand. September 21, 2024. – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today successfully launched its 53rd Electron mission and deployed five satellites to Low Earth Orbit for French Internet-of-Things (IoT) company Kinéis.
+**Customer:** [[Kinéis]]
+**Mission:** [[053 'Kineis Killed the RadIOT Star' - Electron]]
 
 **Source**: https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-53rd-electron-mission-deploys-another-five-satellites-for-kineis/
 

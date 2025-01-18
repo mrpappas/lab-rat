@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Launches 40th Electron Mission, Successfully Flies Reused Engine "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-launches-40th-electron-mission-successfully-flies-reused-engine/"
 author:
@@ -12,6 +13,15 @@ tags:
   - "electron"
   - "rutherford"
 ---
+
+#launch #electron #rutherford
+**Title:** Rocket Lab Launches 40th Electron Mission, Successfully Flies Reused Engine 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-launches-40th-electron-mission-successfully-flies-reused-engine/
+**Author:** [[Rocket Lab]]
+**Published:** 2023-08-24
+**Description:** *Rocket Lab Launches 40th Electron Mission, Successfully Flies Reused Engine*
+**Customer:** [[Capella Space]]
+**Mission:** [[040 'We Love The Nightlife' - Electron]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-launches-40th-electron-mission-successfully-flies-reused-engine/
 

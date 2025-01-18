@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Brings Forward Milestone Recovery Mission    "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-brings-forward-milestone-recovery-mission/"
 author:
@@ -11,6 +12,15 @@ tags:
   - "launch"
   - "electron"
 ---
+
+#launch #electron
+**Title:** Rocket Lab Brings Forward Milestone Recovery Mission    
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-brings-forward-milestone-recovery-mission/
+**Author:** [[Rocket Lab]]
+**Published:** 2023-08-23
+**Description:** *Rocket Lab Brings Forward Milestone Recovery Mission *
+**Customer:** [[Capella Space]]
+**Mission:** [[040 'We Love The Nightlife' - Electron]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-brings-forward-milestone-recovery-mission/
 

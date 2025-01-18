@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Sets Launch Window to Deploy Synspective Satellites  "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-sets-launch-window-to-deploy-synspective-satellites/"
 author:
@@ -11,6 +12,15 @@ tags:
   - "launch"
   - "electron"
 ---
+
+#launch #electron
+**Title:** Rocket Lab Sets Launch Window to Deploy Synspective Satellites  
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-sets-launch-window-to-deploy-synspective-satellites/
+**Author:** [[Rocket Lab]]
+**Published:** 2024-12-05
+**Description:** The mission will be Rocket Lab’s sixth launch for Synspective, out of a total of 16 missions booked on Electron by the Japanese Earth observation company.
+**Customer:** [[Synspective]]
+**Mission:** [[058 'Owl The Way Up' - Electron]]
 
 **Source**: https://www.rocketlabusa.com/updates/rocket-lab-sets-launch-window-to-deploy-synspective-satellites/
 

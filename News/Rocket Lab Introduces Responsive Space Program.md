@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Introduces Responsive Space Program  "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-introduces-responsive-space-program/"
 author:
@@ -7,6 +8,12 @@ published: 2022-07-06
 description: "The program will on-ramp customers by creating tailored responsive launch and satellite development solutions, granting them access to Rocket Lab’s rapid, 24-hour call up launch service and rapid satellite build capability"
 
 ---
+
+**Title:** Rocket Lab Introduces Responsive Space Program  
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-introduces-responsive-space-program/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-07-06
+**Description:** The program will on-ramp customers by creating tailored responsive launch and satellite development solutions, granting them access to Rocket Lab’s rapid, 24-hour call up launch service and rapid satellite build capability
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-introduces-responsive-space-program/
 

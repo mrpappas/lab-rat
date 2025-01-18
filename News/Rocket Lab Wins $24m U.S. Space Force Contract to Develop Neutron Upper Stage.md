@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Wins $24m U.S. Space Force Contract to Develop Neutron Upper Stage "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-wins-24m-u-s-space-force-contract-to-develop-neutron-upper-stage/"
 author:
@@ -11,6 +12,15 @@ tags:
  - neutron
  - contract
 ---
+
+#neutron #contract
+**Title:** Rocket Lab Wins $24m U.S. Space Force Contract to Develop Neutron Upper Stage 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-wins-24m-u-s-space-force-contract-to-develop-neutron-upper-stage/
+**Author:** [[Rocket Lab]]
+**Published:** 2021-09-27
+**Description:** The agreement will fund the development of Neutron’s upper stage launch system in support of national security and defense requirements.
+**Customer:** [[U.S. Space Force]]
+
 *The agreement will fund the development of Neutron’s upper stage launch system in support of national security and defense requirements.*
 
 **Long Beach, California. September 27, 2021** – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, has been awarded a $24.35 million contract with the U.S. Space Force’s Space Systems Command (SSC) for development of the Neutron launch vehicle’s upper stage. The agreement signifies Rocket Lab’s commitment to becoming a launch provider for the National Security Space Launch (NSSL) program, which launches the United States' most critical missions. 

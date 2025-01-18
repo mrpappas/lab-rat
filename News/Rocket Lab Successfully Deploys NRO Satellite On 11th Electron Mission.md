@@ -1,4 +1,5 @@
 ---
+
 title: Rocket Lab Successfully Deploys NRO Satellite On 11th Electron Mission 
 source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-deploys-nro-satellite-on-11th-electron-mission/
 author:
@@ -13,6 +14,16 @@ tags:
  - electron
  - launch
 ---
+
+#electron #launch
+**Title:** Rocket Lab Successfully Deploys NRO Satellite On 11th Electron Mission
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-deploys-nro-satellite-on-11th-electron-mission/
+**Author:** [[Rocket Lab]]
+**Published:** 2020-01-31
+**Description:** Mahia Peninsula, 31 January 2020 -* *Rocket Lab, a space technology company and global leader in dedicated small satellite launch, has successfully deployed a payload to orbit for the National Reconnaissance Office (NRO) in the company’s 11th Electron mission.
+**Customer:** [[National Reconnaissance Office (NRO)]]
+**Mission:** [[011 'Birds of a Feather' - Electron]]
+
 Mahia Peninsula, 31 January 2020 - Rocket Lab, a space technology company and global leader in dedicated small satellite launch, has successfully deployed a payload to orbit for the [[National Reconnaissance Office (NRO)]] in the company’s 11<sup>th</sup> Electron mission.
 
 The mission, named ‘Birds of a Feather’, lifted off from Rocket Lab Launch Complex on New Zealand’s Māhia Peninsula at 02:56 UTC (15:56 NZDT, 31 January 2020). The mission was Rocket Lab’s first launch for 2020 and was the first dedicated launch of an NRO payload from New Zealand.

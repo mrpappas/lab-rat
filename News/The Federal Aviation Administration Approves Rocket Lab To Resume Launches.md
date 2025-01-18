@@ -1,4 +1,5 @@
 ---
+
 title: "The Federal Aviation Administration Approves Rocket Lab To Resume Launches    "
 source: "https://www.rocketlabusa.com/updates/the-federal-aviation-administration-approves-rocket-lab-to-resume-launches/"
 author:
@@ -13,6 +14,16 @@ tags:
  - anomaly
  - electron
 ---
+
+#anomaly #electron
+**Title:** The Federal Aviation Administration Approves Rocket Lab To Resume Launches    
+**Source:** https://www.rocketlabusa.com/updates/the-federal-aviation-administration-approves-rocket-lab-to-resume-launches/
+**Author:** [[Rocket Lab]]
+**Published:** 2021-06-02
+**Description:** *Long Beach, California. 02 June, 2021* – Rocket Lab, the leading launch and space systems company, announced today it has received authorization from the Federal Aviation Administration (FAA) to resume launches. The approval comes fewer than three weeks after Rocket Lab experienced an anomaly during its 20th launch, resulting in the loss of the mission.
+**Customer:** [[BlackSky]]
+**Mission:** [[020 'Running Out Of Toes' - Electron]]
+
 **Long Beach, California. 02 June, 2021** – Rocket Lab, the leading launch and space systems company, announced today it has received authorization from the Federal Aviation Administration (FAA) to resume launches. The approval comes fewer than three weeks after Rocket Lab experienced an anomaly during its 20<sup>th</sup> launch, resulting in the loss of the mission.
 
 Rocket Lab is leading the mishap investigation into the anomaly with oversight from the FAA; the federal licensing body for U.S. launch vehicles. While the FAA has confirmed that Rocket Lab’s launch license remains active, Rocket Lab will continue with a rigorous internal review into the anomaly. The review team is working through an extensive fault tree analysis to exhaust all potential causes for the anomaly and the full review is expected to be complete in the coming weeks, following which Rocket Lab anticipates a swift return to flight.

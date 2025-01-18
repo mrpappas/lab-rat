@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Successfully Deploys Satellites ~500km Apart to Separate Orbits  For KAIST and NASA "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-deploys-satellites-500km-apart-to-separate-orbits-for-kaist-and-nasa/"
 author:
@@ -13,6 +14,15 @@ tags:
   - "launch"
   - "electron"
 ---
+
+#launch #electron
+**Title:** Rocket Lab Successfully Deploys Satellites ~500km Apart to Separate Orbits  For KAIST and NASA 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-deploys-satellites-500km-apart-to-separate-orbits-for-kaist-and-nasa/
+**Author:** [[Rocket Lab]]
+**Published:** 2024-04-24
+**Description:** Following payload deployment to two separate orbits, Electron’s Kick Stage completed a final engine burn to lower its altitude and speed up its reentry to help reduce space junk.
+**Customer:** [[NASA]], [[Korea Advanced Institute of Science and Technology]]
+**Mission:** [[047 'Beginning Of The Swarm' - Electron]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-deploys-satellites-500km-apart-to-separate-orbits-for-kaist-and-nasa/
 

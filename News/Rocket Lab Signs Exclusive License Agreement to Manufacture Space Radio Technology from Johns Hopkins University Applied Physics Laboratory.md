@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Signs Exclusive License Agreement to Manufacture Space Radio Technology from Johns Hopkins University Applied Physics Laboratory "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-signs-exclusive-license-agreement-to-manufacture-space-radio-technology-from-johns-hopkins-university-applied-physics-laboratory/"
 author:
@@ -10,6 +11,15 @@ customer:
 tags:
  - space-systems
 ---
+
+#space-systems
+**Title:** Rocket Lab Signs Exclusive License Agreement to Manufacture Space Radio Technology from Johns Hopkins University Applied Physics Laboratory 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-signs-exclusive-license-agreement-to-manufacture-space-radio-technology-from-johns-hopkins-university-applied-physics-laboratory/
+**Author:** [[Rocket Lab]]
+**Published:** 2021-11-18
+**Description:** *Long Beach, California. November 18, 2021* – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced it has entered into an exclusive license agreement with the Johns Hopkins University Applied Physics Laboratory (APL) to commercialize near and deep space capable small spacecraft telemetry and control radio technology. The Frontier-S by Rocket Lab software defined radio (SDR) enables affordable communications and radio navigation for planetary and other missions beyond low Earth orbit (LEO), as well a...
+**Customer:** [[Johns Hopkins University Applied Physics Laboratory (APL)]]
+
 **Long Beach, California. November 18, 2021** – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced it has entered into an exclusive license agreement with the Johns Hopkins University Applied Physics Laboratory (APL) to commercialize near and deep space capable small spacecraft telemetry and control radio technology. The Frontier-S by Rocket Lab software defined radio (SDR) enables affordable communications and radio navigation for planetary and other missions beyond low Earth orbit (LEO), as well as communications and radio navigation for missions in GPS-denied environments.
 
 The Frontier-S by Rocket Lab, based on the APL Frontier Radio that flew on missions like the Van Allen Probes, Parker Solar Probe, and the Emirates Mars Mission, packs Deep Space Network and other common waveforms into a single board package with up-screened commercial components and low power digital signal processing for high reliability applications. Frontier-S by Rocket Lab includes extended functionality not typically available in a low-cost radio including a coherent transponder to enable radiometric navigation methods, timekeeping functions, and a hardware-based critical command decoder. Compatible with spacecraft as small as 6U cubsesats, the Frontier-S by Rocket Lab SDR offers a lightweight, low power, high radiation tolerant telemetry and command solution for deep space missions that is also affordable for missions in LEO demanding high reliability.

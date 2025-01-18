@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Selects Virginia for Neutron Launch Site & Extensive Manufacturing Complex "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-selects-virginia-for-neutron-launch-site-and-extensive-manufacturing-complex/"
 author:
@@ -11,6 +12,14 @@ location:
 tags:
  - neutron
 ---
+
+#neutron
+**Title:** Rocket Lab Selects Virginia for Neutron Launch Site & Extensive Manufacturing Complex 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-selects-virginia-for-neutron-launch-site-and-extensive-manufacturing-complex/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-02-28
+**Description:** Construction to Begin on Neutron Manufacturing, Operations, and Launch Facilities in Accomack County, Bringing As Many As 250 New Jobs to Eastern Shore
+**Location:** [[Neutron Production Complex]], [[Launch Complex 3]]
 
 Construction to Begin on Neutron Manufacturing, Operations, and Launch Facilities in Accomack County, Bringing As Many As 250 New Jobs to Eastern Shore
 

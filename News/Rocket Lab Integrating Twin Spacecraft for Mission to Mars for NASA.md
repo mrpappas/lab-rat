@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Integrating Twin Spacecraft for Mission to Mars for NASA "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-integrating-twin-spacecraft-for-mission-to-mars-for-nasa/"
 author:
@@ -10,6 +11,15 @@ mission: "[[ESCAPADE]]"
 tags:
   - "space-systems"
 ---
+
+#space-systems
+**Title:** Rocket Lab Integrating Twin Spacecraft for Mission to Mars for NASA 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-integrating-twin-spacecraft-for-mission-to-mars-for-nasa/
+**Author:** [[Rocket Lab]]
+**Published:** 2023-10-18
+**Description:** *Long Beach, California. Oct. 18, 2023* – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced that the two spacecraft the Company is building for NASA’s Escape and Plasma Acceleration and Dynamics Explorers (ESCAPADE) mission have entered the system integration phase in preparation for a planned launch in 2024.
+**Customer:** [[NASA]]
+**Mission:** [[ESCAPADE]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-integrating-twin-spacecraft-for-mission-to-mars-for-nasa/
 

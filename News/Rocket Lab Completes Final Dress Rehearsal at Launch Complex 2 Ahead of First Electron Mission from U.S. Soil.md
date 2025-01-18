@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Completes Final Dress Rehearsal at Launch Complex 2 Ahead of First Electron Mission from U.S. Soil "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-completes-final-dress-rehearsal-at-launch-complex-2-ahead-of-first-electron-mission-from-u-s-soil/"
 author:
@@ -7,6 +8,14 @@ published: 2020-09-17
 description: "*Rocket Lab Completes Final Dress Rehearsal at Launch Complex 2 Ahead of First Electron Mission from U.S. Soil *"
 location: "[[Launch Complex 2]]"
 ---
+
+**Title:** Rocket Lab Completes Final Dress Rehearsal at Launch Complex 2 Ahead of First Electron Mission from U.S. Soil 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-completes-final-dress-rehearsal-at-launch-complex-2-ahead-of-first-electron-mission-from-u-s-soil/
+**Author:** [[Rocket Lab]]
+**Published:** 2020-09-17
+**Description:** *Rocket Lab Completes Final Dress Rehearsal at Launch Complex 2 Ahead of First Electron Mission from U.S. Soil *
+**Location:** [[Launch Complex 2]]
+
 **Rocket Lab Completes Final Dress Rehearsal at Launch Complex 2 Ahead of First Electron Mission from U.S. Soil** 
 
 *All vehicle and pad system checkouts are now complete and Electron is ready for its first mission from Launch Complex 2, enabling a vital new space launch capability for the nation* 

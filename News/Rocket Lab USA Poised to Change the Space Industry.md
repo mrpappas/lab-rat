@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab USA Poised to Change the Space Industry "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-usa-poised-to-change-the-space-industry/"
 author:
@@ -8,6 +9,14 @@ description: "US Aerospace company Rocket Lab is developing a world-first launch
 tags:
  - electron
 ---
+
+#electron
+**Title:** Rocket Lab USA Poised to Change the Space Industry 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-usa-poised-to-change-the-space-industry/
+**Author:** [[Rocket Lab]]
+**Published:** 2014-07-29
+**Description:** US Aerospace company Rocket Lab is developing a world-first launch vehicle to deliver satellites into orbit cheaper and faster than ever before.
+
 *US Aerospace company Rocket Lab is developing a world-first launch vehicle to deliver satellites into orbit cheaper and faster than ever before.*
 
 Rocket Lab announced today its plan to revolutionize the global space industry with the creation of *Electron*, a lightweight, cost-effective rocket, making it easier for companies to launch small satellites into orbit.

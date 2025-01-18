@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab to Launch 150th Satellite on Upcoming Mission for Synspective "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-to-launch-150th-satellite-on-upcoming-mission-for-synspective/"
 author:
@@ -11,6 +12,15 @@ tags:
   - "launch"
   - "electron"
 ---
+
+#launch #electron
+**Title:** Rocket Lab to Launch 150th Satellite on Upcoming Mission for Synspective 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-launch-150th-satellite-on-upcoming-mission-for-synspective/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-08-15
+**Description:** *Long Beach, California. 15 August, 2022* – Rocket Lab USA, Inc (Nasdaq: RKLB) today announced its upcoming 30th Electron launch will deliver its 150th payload and 300th Rutherford engine to space. The mission is a dedicated launch for Japanese Earth-imaging satellite constellation operator Synspective.
+**Customer:** [[Synspective]]
+**Mission:** [[030 'The Owl Spreads Its Wings' - Electron]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-to-launch-150th-satellite-on-upcoming-mission-for-synspective/
 

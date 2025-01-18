@@ -1,4 +1,5 @@
 ---
+
 title: "Fleet Space Technologies joins Rocket Lab manifest for  It’s Business Time mission  "
 source: "https://www.rocketlabusa.com/updates/fleet-space-technologies-joins-rocket-lab-manifest-for-its-business-time-mission/"
 author:
@@ -12,6 +13,16 @@ mission:
 tags:
  - electron
 ---
+
+#electron
+**Title:** Fleet Space Technologies joins Rocket Lab manifest for  It’s Business Time mission  
+**Source:** https://www.rocketlabusa.com/updates/fleet-space-technologies-joins-rocket-lab-manifest-for-its-business-time-mission/
+**Author:** [[Rocket Lab]]
+**Published:** 2018-10-29
+**Description:** *Fleet’s two ‘Proxima’ satellites are the first scheduled launch of commercial CubeSats from an Australian company*
+**Customer:** [[Fleet Space]]
+**Mission:** [[003 'It's Business Time' - Electron]]
+
 **Fleet’s two ‘Proxima’ satellites are the first scheduled launch of commercial CubeSats from an Australian company**
 
 29 October, 2018: US orbital launch provider Rocket Lab has signed a contract with fast-growing Internet of Things (IoT) start-up Fleet Space Technologies to launch two satellites that will form the foundation of a global IoT communications constellation. The two Proxima satellites are the first of a fleet of small, low-cost satellites that will provide internet connectivity for millions of sensor devices based in remote locations on Earth.

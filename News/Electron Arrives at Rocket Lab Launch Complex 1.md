@@ -1,4 +1,5 @@
 ---
+
 title: "Electron Arrives at Rocket Lab Launch Complex 1 "
 source: "https://www.rocketlabusa.com/updates/electronarriveslaunchcomplex1/"
 author:
@@ -8,6 +9,14 @@ description: "Rocket Lab delivered its first Electron vehicle to Rocket Lab Laun
 tags:
  - electron
 ---
+
+#electron
+**Title:** Electron Arrives at Rocket Lab Launch Complex 1 
+**Source:** https://www.rocketlabusa.com/updates/electronarriveslaunchcomplex1/
+**Author:** [[Rocket Lab]]
+**Published:** 2017-02-16
+**Description:** Rocket Lab delivered its first Electron vehicle to Rocket Lab Launch Complex 1 late last night marking the beginning of preflight checkouts.
+
 Rocket Lab delivered its first Electron vehicle to Rocket Lab Launch Complex 1 late last night marking the beginning of preflight checkouts.
 
 The rocket was trucked to the Mahia Peninsula from Rocket Lab’s Auckland facility.

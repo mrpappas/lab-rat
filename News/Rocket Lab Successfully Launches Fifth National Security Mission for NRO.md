@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Successfully Launches Fifth National Security Mission for NRO "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-fifth-national-security-mission-for-nro/"
 author:
@@ -11,6 +12,15 @@ tags:
   - "launch"
   - "electron"
 ---
+
+#launch #electron
+**Title:** Rocket Lab Successfully Launches Fifth National Security Mission for NRO 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-fifth-national-security-mission-for-nro/
+**Author:** [[Rocket Lab]]
+**Published:** 2024-03-21
+**Description:** *The mission was Rocket Lab’s first launch for the National Reconnaissance Office from U.S. soil following four previous successful launches for the agency from New Zealand*
+**Customer:** [[National Reconnaissance Office (NRO)]]
+**Mission:** [[046 'Live And Let Fly' - Electron]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-fifth-national-security-mission-for-nro/
 
@@ -29,4 +39,3 @@ The mission was Rocket Lab’s fourth launch of 2024 and 46<sup>th</sup> Electro
 Images and video of the launch are available for download: [https://flic.kr/s/aHBqjBhU5m](https://flic.kr/s/aHBqjBhU5m)
 
 Launch replay can he found here: www.youtube.com/live/Coa3GZtotQo?si=NlhJ0YGiCIGr\_PgE
-

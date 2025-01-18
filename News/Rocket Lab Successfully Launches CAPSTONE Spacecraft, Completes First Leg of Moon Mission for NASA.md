@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Successfully Launches CAPSTONE Spacecraft, Completes First Leg of Moon Mission for NASA "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-capstone-spacecraft-completes-first-leg-of-moon-mission-for-nasa/"
 author:
@@ -15,6 +16,17 @@ tags:
  - space-systems
  - electron
 ---
+
+#space-systems #electron
+**Title:** Rocket Lab Successfully Launches CAPSTONE Spacecraft, Completes First Leg of Moon Mission for NASA 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-capstone-spacecraft-completes-first-leg-of-moon-mission-for-nasa/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-06-28
+**Description:** *Long Beach, California. June 28, 2022* – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, has successfully launched CAPSTONE, a microwave-oven-sized satellite designed to test a new orbit around the Moon for NASA.
+**Customer:** [[NASA]], [[Advanced Space]]
+**Mission:** [[027 'CAPSTONE' - Electron]]
+**Insider:** None
+
 **Long Beach, California. June 28, 2022** – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, has successfully launched CAPSTONE, a microwave-oven-sized satellite designed to test a new orbit around the Moon for NASA.
 
 CAPSTONE was launched at 09:55 UTC, June 28 on an Electron rocket from Rocket Lab Launch Complex 1 in Mahia, New Zealand.  The mission was Rocket Lab’s 27<sup>th</sup> Electron launch.

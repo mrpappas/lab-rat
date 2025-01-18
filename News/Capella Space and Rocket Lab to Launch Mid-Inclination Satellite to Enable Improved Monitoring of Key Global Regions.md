@@ -1,4 +1,5 @@
 ---
+
 title: "Capella Space and Rocket Lab to Launch Mid-Inclination Satellite to Enable Improved Monitoring of Key Global Regions "
 source: "https://www.rocketlabusa.com/updates/capella-space-and-rocket-lab-to-launch-mid-inclination-satellite-to-enable-improved-monitoring-of-key-global-regions/"
 author:
@@ -13,6 +14,16 @@ tags:
  - electron
  - contract
 ---
+
+#electron #contract
+**Title:** Capella Space and Rocket Lab to Launch Mid-Inclination Satellite to Enable Improved Monitoring of Key Global Regions 
+**Source:** https://www.rocketlabusa.com/updates/capella-space-and-rocket-lab-to-launch-mid-inclination-satellite-to-enable-improved-monitoring-of-key-global-regions/
+**Author:** [[Rocket Lab]]
+**Published:** 2020-03-05
+**Description:** Capella Space and Rocket Lab to Launch Mid-Inclination Satellite to Enable Improved Monitoring of Key Global Regions
+**Customer:** [[Capella Space]]
+**Mission:** [[014 'I Can't Believe It's Not Optical' - Electron]]
+
 Capella Space and Rocket Lab to Launch Mid-Inclination Satellite to Enable Improved Monitoring of Key Global Regions 
 
 *Rocket Lab launching dedicated mission for Capella Space to kick off series of Whitney satellite constellation*

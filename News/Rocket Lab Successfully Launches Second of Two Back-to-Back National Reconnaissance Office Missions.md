@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Successfully Launches Second of Two Back-to-Back National Reconnaissance Office Missions "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-second-of-two-back-to-back-national-reconnaissance-office-missions/"
 author:
@@ -11,6 +12,15 @@ tags:
   - "launch"
   - "electron"
 ---
+
+#launch #electron
+**Title:** Rocket Lab Successfully Launches Second of Two Back-to-Back National Reconnaissance Office Missions 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-second-of-two-back-to-back-national-reconnaissance-office-missions/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-08-04
+**Description:** *Long Beach, California. August 4, 2022* – Rocket Lab USA, Inc (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, has successfully launched its second of two back-to-back national security missions for the National Reconnaissance Office (NRO).
+**Customer:** [[National Reconnaissance Office (NRO)]]
+**Mission:** [[029 'Antipodean Adventure' - Electron]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-second-of-two-back-to-back-national-reconnaissance-office-missions/
 

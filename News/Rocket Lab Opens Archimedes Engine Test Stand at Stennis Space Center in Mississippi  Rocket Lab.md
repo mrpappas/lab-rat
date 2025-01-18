@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Opens Archimedes Engine Test Stand at Stennis Space Center in Mississippi "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-opens-archimedes-engine-test-stand-at-stennis-space-center-in-mississippi/"
 author:
@@ -10,6 +11,14 @@ tags:
   - "archimedes"
   - "neutron"
 ---
+
+#archimedes #neutron
+**Title:** Rocket Lab Opens Archimedes Engine Test Stand at Stennis Space Center in Mississippi 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-opens-archimedes-engine-test-stand-at-stennis-space-center-in-mississippi/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-11-04
+**Description:** The complex located at the Center’s A-3 Test Stand will be used to develop and test the Archimedes reusable engines, fast-tracking Rocket Lab’s development of the Neutron launch vehicle.
+**Location:** [[Archimedes Test Complex]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-opens-archimedes-engine-test-stand-at-stennis-space-center-in-mississippi/
 

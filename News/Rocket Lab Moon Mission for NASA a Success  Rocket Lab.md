@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Moon Mission for NASA a Success "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-moon-mission-for-nasa-a-success/"
 author:
@@ -15,6 +16,17 @@ tags:
  - space-systems
  - launch
 ---
+
+#space-systems #launch
+**Title:** Rocket Lab Moon Mission for NASA a Success 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-moon-mission-for-nasa-a-success/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-07-04
+**Description:** Rocket Lab successfully deploys CAPSTONE satellite to lunar transfer orbit for NASA, charting a new path to the Moon. CAPSTONE is testing a never-before-flown orbit of the Moon and is the first mission of NASA’s Artemis program
+**Customer:** [[NASA]], [[Advanced Space]]
+**Mission:** [[027 'CAPSTONE' - Electron]]
+**Insider:** None
+
 *Rocket Lab successfully deploys CAPSTONE satellite to lunar transfer orbit for NASA, charting a new path to the Moon. CAPSTONE is testing a never-before-flown orbit of the Moon and is the first mission of NASA’s Artemis program*
 
 Long Beach, California. July 4, 2022 – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, today announced it has successfully deployed a pathfinding satellite for NASA, setting it on a course to the Moon.  The deployment marks the successful completion of Rocket Lab’s first deep space mission, paving the way for the Company’s upcoming interplanetary missions to Mars and Venus. 

@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Sets Date for Second NASA TROPICS Launch to Deploy Storm Monitoring Constellation  "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-sets-date-for-second-nasa-tropics-launch-to-deploy-storm-monitoring-constellation/"
 author:
@@ -11,6 +12,16 @@ tags:
   - "launch"
   - "electron"
 ---
+
+#launch #electron
+**Title:** Rocket Lab Sets Date for Second NASA TROPICS Launch to Deploy Storm Monitoring Constellation  
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-sets-date-for-second-nasa-tropics-launch-to-deploy-storm-monitoring-constellation/
+**Author:** [[Rocket Lab]]
+**Published:** 2023-05-15
+**Description:** *Rocket Lab is preparing to launch the second half of NASA’s TROPICS satellite constellation as early as May 22, just two weeks after successfully completing the first launch*
+**Customer:** [[NASA]]
+**Mission:** [[037 'Coming To A Storm Near You' - Electron]]
+
 ***Rocket Lab is preparing to launch the second half of NASA’s TROPICS satellite constellation as early as May 22, just two weeks after successfully completing the first launch***
 
 **Mahia, New Zealand. May 15, 2023** – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, is preparing for the second of two dedicated Electron launches to deploy a constellation of storm monitoring satellites for NASA.

@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Announces Reusability Plans For Electron Rocket   "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-announces-reusability-plans-for-electron-rocket/"
 author:
@@ -8,6 +9,14 @@ description: "*Rocket Lab Announces Reusability Plans For Electron Rocket *"
 tags:
  - electron
 ---
+
+#electron
+**Title:** Rocket Lab Announces Reusability Plans For Electron Rocket   
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-announces-reusability-plans-for-electron-rocket/
+**Author:** [[Rocket Lab]]
+**Published:** 2019-08-06
+**Description:** *Rocket Lab Announces Reusability Plans For Electron Rocket *
+
 **Rocket Lab Announces Reusability Plans For Electron Rocket**  
 
 *Rocket Lab details plans to increase launch frequency by recovering and re-launching Electron’s first stage.*

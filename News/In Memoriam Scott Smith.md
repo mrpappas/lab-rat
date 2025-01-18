@@ -1,4 +1,5 @@
 ---
+
 title: "In Memoriam: Scott Smith "
 source: "https://www.rocketlabusa.com/updates/in-memoriam-scott-smith/"
 author:
@@ -9,6 +10,14 @@ insider:
  - "[[Scott Smith]]"
 
 ---
+
+**Title:** In Memoriam: Scott Smith 
+**Source:** https://www.rocketlabusa.com/updates/in-memoriam-scott-smith/
+**Author:** [[Rocket Lab]]
+**Published:** 2020-02-05
+**Description:** *In Memoriam: Scott Smith*
+**Insider:** [[Scott Smith]]
+
 **In Memoriam: Scott Smith**
 
 We are deeply saddened by the loss of Scott Smith, a Rocket Lab board member and dear friend to our team. Our thoughts are with his family and friends at this difficult time.

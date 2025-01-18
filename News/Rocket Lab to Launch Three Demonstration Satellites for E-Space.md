@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab to Launch Three Demonstration Satellites for E-Space "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-to-launch-three-demonstration-satellites-for-e-space/"
 author:
@@ -13,6 +14,15 @@ tags:
  - electron
  - launch
 ---
+
+#electron #launch
+**Title:** Rocket Lab to Launch Three Demonstration Satellites for E-Space 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-launch-three-demonstration-satellites-for-e-space/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-03-21
+**Description:** The launch is the first step in validating the technology behind E-Space’s mesh network of secure communication satellites designed to make space affordable and accessible.
+**Customer:** [[E-Space]]
+**Mission:** [[026 'There And Back Again' - Electron]]
 
 The launch is the first step in validating the technology behind E-Space’s mesh network of secure communication satellites designed to make space affordable and accessible.
 

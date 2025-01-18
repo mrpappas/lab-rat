@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Opens Engine Development Center in Long Beach  "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-opens-engine-development-center-in-long-beach/"
 author:
@@ -9,6 +10,14 @@ tags:
   - "archimedes"
   - "rutherford"
 ---
+
+#archimedes #rutherford
+**Title:** Rocket Lab Opens Engine Development Center in Long Beach  
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-opens-engine-development-center-in-long-beach/
+**Author:** [[Rocket Lab]]
+**Published:** 2023-10-04
+**Description:** The new advanced manufacturing and development center enables high-rate production of the Rutherford and Archimedes rocket engines
+
 *The new advanced manufacturing and development center enables high-rate production of the Rutherford and Archimedes rocket engines*
 
 **Long Beach, California. October 4, 2023** – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today officially opened the Company’s new Engine Development Center in Long Beach, California.

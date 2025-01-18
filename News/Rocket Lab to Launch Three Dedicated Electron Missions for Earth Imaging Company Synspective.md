@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab to Launch Three Dedicated Electron Missions for Earth Imaging Company Synspective   "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-to-launch-three-dedicated-electron-missions-for-earth-imaging-company-synspective/"
 author:
@@ -15,6 +16,16 @@ tags:
  - electron
  - contract
 ---
+
+#electron #contract
+**Title:** Rocket Lab to Launch Three Dedicated Electron Missions for Earth Imaging Company Synspective   
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-launch-three-dedicated-electron-missions-for-earth-imaging-company-synspective/
+**Author:** [[Rocket Lab]]
+**Published:** 2021-12-07
+**Description:** *Rocket Lab to Launch Three Dedicated Electron Missions for Earth Imaging Company Synspective *
+**Customer:** [[Synspective]]
+**Mission:** [[024 'The Owl's Night Continues' - Electron]], [[030 'The Owl Spreads Its Wings' - Electron]], [[045 'Owl Night Long' - Electron]]
+
 Rocket Lab to Launch Three Dedicated Electron Missions for Earth Imaging Company [[Synspective]]  
 
 The missions follow on from the launch of Synspective’s first satellite, [[Synspective#🛰️ Space Systems#StriX|StriX]]-α, by Rocket Lab in 2020

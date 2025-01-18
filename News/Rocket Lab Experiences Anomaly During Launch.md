@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Experiences Anomaly During Launch "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-experiences-anomaly-during-launch/"
 author:
@@ -14,6 +15,16 @@ tags:
  - launch
  - anomaly
 ---
+
+#electron #launch #anomaly
+**Title:** Rocket Lab Experiences Anomaly During Launch 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-experiences-anomaly-during-launch/
+**Author:** [[Rocket Lab]]
+**Published:** 2021-05-17
+**Description:** *Auckland, New Zealand. May 16, 2021*: Following a successful lift-off, first stage burn, and stage separation, Rocket Lab experienced an anomaly during its 20th Electron mission ‘Running Out Of Toes.’
+**Customer:** [[BlackSky]]
+**Mission:** [[020 'Running Out Of Toes' - Electron]]
+
 Auckland, New Zealand. May 16, 2021: Following a successful lift-off, first stage burn, and stage separation, Rocket Lab experienced an anomaly during its 20th Electron mission ‘Running Out Of Toes.’
 
 The issue occurred following second stage ignition during the flight on May 15, 2021 UTC, resulting in the loss of the mission. The launch vehicle’s second stage remained within the predicted launch corridor and caused no harm to the public, Rocket Lab’s launch or recovery crews, or the launch site. Electron’s first stage safely completed a successful splashdown under parachute and Rocket Lab’s recovery team is working to retrieve the stage from the ocean as planned.

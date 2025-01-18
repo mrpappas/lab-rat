@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Celebrates 100th Rutherford Engine Build "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-celebrates-100th-rutherford-engine-build/"
 author:
@@ -9,6 +10,14 @@ tags:
  - electron
  - rutherford
 ---
+
+#electron #rutherford
+**Title:** Rocket Lab Celebrates 100th Rutherford Engine Build 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-celebrates-100th-rutherford-engine-build/
+**Author:** [[Rocket Lab]]
+**Published:** 2019-07-08
+**Description:** *Rocket Lab Celebrates 100th Rutherford Engine Build *
+
 **Rocket Lab Celebrates 100<sup>th</sup> Rutherford Engine Build** 
 
 *Since the Rutherford engine’s inception in 2013, Rocket Lab has produced 100 flight-ready engines at its Huntington Beach Headquarters, flown 70 of them to space and conducted more than 850 successful engine test fires.*

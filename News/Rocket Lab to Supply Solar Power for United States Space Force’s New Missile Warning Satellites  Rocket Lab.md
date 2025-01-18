@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab to Supply Solar Power for United States Space Force’s New Missile Warning Satellites "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-to-supply-solar-power-for-united-states-space-forces-new-missile-warning-satellites/"
 author:
@@ -13,6 +14,15 @@ tags:
   - "space-systems"
   - "solar"
 ---
+
+#space-systems #solar
+**Title:** Rocket Lab to Supply Solar Power for United States Space Force’s New Missile Warning Satellites 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-supply-solar-power-for-united-states-space-forces-new-missile-warning-satellites/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-07-27
+**Description:** The solar cell assemblies will power three Lockheed Martin spacecraft designed to provide resilient space-based global missile warning capabilities to meet evolving threats from adversaries under the United States Space Force’s Next Generation Overhead Persistent Infrared (Next Gen OPIR) Geosynchronous Earth Orbit (GEO) program.
+**Customer:** [[Lockheed Martin]], [[U.S. Space Force]]
+**Partner:** [[SolAero Technologies]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-to-supply-solar-power-for-united-states-space-forces-new-missile-warning-satellites/
 

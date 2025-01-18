@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab successfully circularizes orbit with new Electron kick stage "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-circularizes-orbit-with-new-electron-kick-stage/"
 author:
@@ -14,6 +15,16 @@ tags:
  - electron
  - kick-stage
 ---
+
+#electron #kick-stage
+**Title:** Rocket Lab successfully circularizes orbit with new Electron kick stage 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-circularizes-orbit-with-new-electron-kick-stage/
+**Author:** [[Rocket Lab]]
+**Published:** 2018-01-23
+**Description:** *Huntington Beach, California and Auckland, New Zealand January 23 2018:<br />*Rocket Lab, a US aerospace company with operations in New Zealand, has successfully tested a previously unannounced kick stage on the Still Testing Electron launch vehicle, using it to circularize the orbits of the two Spire Lemur-2 CubeSats on board.
+**Customer:** [[Planet Labs]], [[Spire Global]]
+**Mission:** [[002 'Still Testing' - Electron]]
+
 **Huntington Beach, California and Auckland, New Zealand January 23 2018:  
 **Rocket Lab, a US aerospace company with operations in New Zealand, has successfully tested a previously unannounced kick stage on the Still Testing Electron launch vehicle, using it to circularize the orbits of the two Spire Lemur-2 CubeSats on board.
 

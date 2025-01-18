@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab and NASA sign Commercial Space Launch Act Agreement "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-and-nasa-sign-commercial-space-launch-act-agreement/"
 author:
@@ -11,6 +12,15 @@ tags:
  - electron
  - contract
 ---
+
+#electron #contract
+**Title:** Rocket Lab and NASA sign Commercial Space Launch Act Agreement 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-and-nasa-sign-commercial-space-launch-act-agreement/
+**Author:** [[Rocket Lab]]
+**Published:** 2015-07-31
+**Description:** Rocket Lab has signed a Commercial Space Launch Act Agreement with the National Aeronautics and Space Administration (NASA). The agreement enables Rocket Lab to use NASA resources – including personnel, facilities and equipment – for launch efforts.
+**Customer:** [[NASA]]
+
 Rocket Lab has signed a Commercial Space Launch Act Agreement with the National Aeronautics and Space Administration (NASA). The agreement enables Rocket Lab to use NASA resources – including personnel, facilities and equipment – for launch efforts.
 
 Rocket Lab is considering using NASA’s launch complexes to complement Rocket Lab’s primary launch range in New Zealand.

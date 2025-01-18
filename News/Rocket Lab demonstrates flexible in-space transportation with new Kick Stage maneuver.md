@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab demonstrates flexible in-space transportation with new Kick Stage maneuver "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-demonstrates-flexible-in-space-transportation-with-new-kick-stage-maneuver/"
 author:
@@ -15,6 +16,16 @@ tags:
  - electron
  - launch
 ---
+
+#electron #launch
+**Title:** Rocket Lab demonstrates flexible in-space transportation with new Kick Stage maneuver 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-demonstrates-flexible-in-space-transportation-with-new-kick-stage-maneuver/
+**Author:** [[Rocket Lab]]
+**Published:** 2020-10-30
+**Description:** Rocket Lab demonstrates flexible in-space transportation with new Kick Stage maneuver
+**Customer:** [[Planet Labs]], [[Spaceflight]], [[Canon Electronics]]
+**Mission:** [[015 'In Focus' - Electron]]
+
 Rocket Lab demonstrates flexible in-space transportation with new Kick Stage maneuver
 
 *Rocket Lab’s Kick Stage successfully completed plane change in orbit for the first time, further demonstrating the Kick Stage’s ability to enable custom orbits for small sats*

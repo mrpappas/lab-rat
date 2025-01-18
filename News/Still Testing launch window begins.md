@@ -1,4 +1,5 @@
 ---
+
 title: "Still Testing launch window begins "
 source: "https://www.rocketlabusa.com/updates/still-testing-launch-window-begins/"
 author:
@@ -14,6 +15,16 @@ tags:
  - electron
  - launch
 ---
+
+#electron #launch
+**Title:** Still Testing launch window begins 
+**Source:** https://www.rocketlabusa.com/updates/still-testing-launch-window-begins/
+**Author:** [[Rocket Lab]]
+**Published:** 2017-12-11
+**Description:** In the coming days we will attempt to launch the second Rocket Lab Electron rocket, Still Testing. As the name suggests, we are still very much in a test phase, but this flight is a significant milestone for our team and the next step in our mission to democratize space.
+**Customer:** [[Planet Labs]], [[Spire Global]]
+**Mission:** [[002 'Still Testing' - Electron]]
+
 In the coming days we will attempt to launch the second Rocket Lab Electron rocket, Still Testing. As the name suggests, we are still very much in a test phase, but this flight is a significant milestone for our team and the next step in our mission to democratize space.  
 
 The potential of space to help us better understand our planet and improve life on it yet to be realised. The benefits of more satellites in low Earth orbit are almost endless, including crucial applications such as improved weather monitoring and natural disaster prediction, to internet from space. This increased and improved data will give companies and organisations better insights into our world, enabling them to make better decisions.

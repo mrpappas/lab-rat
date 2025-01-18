@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Confirms Helicopter Capture Attempt  For Next Recovery Mission "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-confirms-helicopter-capture-attempt-for-next-recovery-mission/"
 author:
@@ -14,6 +15,15 @@ tags:
  - launch
  - reusability
 ---
+
+#electron #launch #reusability
+**Title:** Rocket Lab Confirms Helicopter Capture Attempt  For Next Recovery Mission 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-confirms-helicopter-capture-attempt-for-next-recovery-mission/
+**Author:** [[Rocket Lab]]
+**Published:** 2021-11-23
+**Description:** The confirmation follows the successful simulation of helicopter recovery operations at sea during the company’s 22nd Electron launch and third recovery mission last week.
+**Customer:** [[BlackSky]]
+**Mission:** [[022 'Love At First Insight' - Electron]]
 
 The confirmation follows the successful simulation of helicopter recovery operations at sea during the company’s 22nd Electron launch and third recovery mission last week.
 

@@ -1,4 +1,5 @@
 ---
+
 title: "NASA’s Communications Services Project Sees Inmarsat Government Select Rocket Lab to Develop L-Band Radio  "
 source: "https://www.rocketlabusa.com/updates/nasas-communications-services-project-sees-inmarsat-government-select-rocket-lab-to-develop-l-band-radio/"
 author:
@@ -11,6 +12,14 @@ customer:
 tags:
   - "space-systems"
 ---
+
+#space-systems
+**Title:** NASA’s Communications Services Project Sees Inmarsat Government Select Rocket Lab to Develop L-Band Radio  
+**Source:** https://www.rocketlabusa.com/updates/nasas-communications-services-project-sees-inmarsat-government-select-rocket-lab-to-develop-l-band-radio/
+**Author:** [[Rocket Lab]]
+**Published:** 2022-11-03
+**Description:** *NASA’s Communications Services Project Sees Inmarsat Government Select Rocket Lab to Develop L-Band Radio*
+**Customer:** [[Immersat Government]], [[NASA]]
 
 Source: https://www.rocketlabusa.com/updates/nasas-communications-services-project-sees-inmarsat-government-select-rocket-lab-to-develop-l-band-radio/
 
@@ -29,4 +38,3 @@ Rocket Lab’s Frontier-L radio is a transmitter that will support Inmarsat Gove
 Frontier-L join’s Rocket Lab’s existing line of radios including the software-defined telemetry, tracking, and command (TT&C) S-band Frontier-S and X-band Frontier-X radios which can support near Earth and deep space missions. Based on the Johns Hopkins University (JHU) Applied Physics Lab (APL) Frontier Radio, Frontier-L packs Deep Space Network (DSN) and other typical waveforms (SN, KSAT, SSC) into a compact package with up-screened commercial components for high reliability applications. The family of Frontier by Rocket Lab radios includes extended functionality not typically available in a low-cost radio including a coherent transponder to enable radiometric navigation methods, precision timekeeping functions, forward error correction (FEC) encoding and decoding, and a hardware based critical command decoder (CCD).
 
 Steve Gizinski, President, Inmarsat Government said “Inmarsat Government has joined with major space-based industry suppliers to demonstrate the capabilities of Inmarsat’s ELERA global, reliable satellite network, including for NASA’s Communications Services Project and Rocket Lab is a key partner for us. Rocket Lab’s Frontier-L radio will leverage InCommand on the ELERA network as an important new capability for ubiquitous command and control to enhance the operation of low Earth orbit spacecraft. This will enable new communications services for industry and government alike.”
-

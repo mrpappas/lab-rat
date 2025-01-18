@@ -1,4 +1,5 @@
 ---
+
 title: "Rocket Lab Completes Major Technical Milestone Ahead of Test Launches "
 source: "https://www.rocketlabusa.com/updates/rocket-lab-completes-final-major-technical-milestone-before-first-test-launches/"
 author:
@@ -8,6 +9,14 @@ description: "Rocket Lab today announced the flight qualification and acceptance
 tags:
  - electron
 ---
+
+#electron
+**Title:** Rocket Lab Completes Major Technical Milestone Ahead of Test Launches 
+**Source:** https://www.rocketlabusa.com/updates/rocket-lab-completes-final-major-technical-milestone-before-first-test-launches/
+**Author:** [[Rocket Lab]]
+**Published:** 2016-12-13
+**Description:** Rocket Lab today announced the flight qualification and acceptance of the first stage booster of the Electron launch vehicle.
+
 Rocket Lab today announced the flight qualification and acceptance of the first stage booster of the Electron launch vehicle.
 
 All primary components of the stage – including engines, vehicle structures, avionics and software systems - were designed, developed and tested in-house at Rocket Lab.
