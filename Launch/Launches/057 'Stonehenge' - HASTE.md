@@ -36,12 +36,20 @@ mission_link:
 >Put mission summary here
 
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table published as "Published"
 from "News"
 where contains(mission, [[057 'Stonehenge' - HASTE]])
 sort published desc
 ```
+%%
+
+| File                                                                                                                                       | Published       |
+| ------------------------------------------------------------------------------------------------------------------------------------------ | --------------- |
+| [[News/Rocket Lab Inks New Deal to Launch HASTE Mission from Virginia.md\|Rocket Lab Inks New Deal to Launch HASTE Mission from Virginia]] | August 08, 2023 |
+
+%%DATAVIEW_PUBLISHER: end %%
 
 ## 📽️ Launch Video
 

@@ -41,12 +41,22 @@ The Make It Rain mission launched multiple spacecraft as part of a rideshare fli
 The mission was named ‘Make it Rain’ in a nod to the high volume of rainfall in Seattle, where [[Spaceflight]] is headquartered, as well in New Zealand where Launch Complex 1 is located. Among the payloads on the mission for Spaceflight were [[BlackSky]]’s Global-3 satellite and [[Melbourne Space Program]]’s ACRUX-1 CubeSat.
 
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table published as "Published"
 from "News"
 where contains(mission, [[007 'Make it Rain' - Electron]])
 sort published desc
 ```
+%%
+
+| File                                                                                                                                                                                                   | Published     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------- |
+| [[News/Rocket Lab successfully launches seventh Electron mission, deploys seven satellites to orbit.md\|Rocket Lab successfully launches seventh Electron mission, deploys seven satellites to orbit]] | June 29, 2019 |
+| [[News/Rocket Lab to launch rideshare mission for Spaceflight.md\|Rocket Lab to launch rideshare mission for Spaceflight]]                                                                             | May 10, 2019  |
+| [[News/Rocket Lab Signs Launch Contract with Spaceflight   Rocket Lab.md\|Rocket Lab Signs Launch Contract with Spaceflight   Rocket Lab]]                                                             | May 18, 2017  |
+
+%%DATAVIEW_PUBLISHER: end %%
 
 ## 📽️ Launch Video
 

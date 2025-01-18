@@ -43,13 +43,24 @@ Planet had nine of their latest generation SuperDove satellites deployed to a 50
 The 10th and final payload, Canon Electronics Inc.’s CE-SAT-IIB, was arranged by satellite rideshare and mission management provider Spaceflight Inc. CE-SAT-IIB is a technical demonstration microsatellite developed by Canon Electronics Inc. It has a middle-size telescope equipped with an ultra-high sensitivity camera to take night images of the Earth and small size telescopes which are suitable for CubeSat use.
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72157716860029003/)
+
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table published as "Published"
 from "News"
 where contains(mission, [[015 'In Focus' - Electron]])
 sort published desc
 ```
+%%
+
+| File                                                                                                                                                                                                                   | Published          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[News/Rocket Lab demonstrates flexible in-space transportation with new Kick Stage maneuver.md\|Rocket Lab demonstrates flexible in-space transportation with new Kick Stage maneuver]]                               | October 30, 2020   |
+| [[News/Rocket Lab Successfully Launches 15th Mission, Deploys Satellites for Planet, Canon Electronics Inc..md\|Rocket Lab Successfully Launches 15th Mission, Deploys Satellites for Planet, Canon Electronics Inc.]] | October 29, 2020   |
+| [[News/Rocket Lab To Launch Commercial Earth-Imaging Rideshare Mission For Planet, Canon Electronics.md\|Rocket Lab To Launch Commercial Earth-Imaging Rideshare Mission For Planet, Canon Electronics]]               | September 21, 2020 |
+
+%%DATAVIEW_PUBLISHER: end %%
 
 ## 📽️ Launch Video
 

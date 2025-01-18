@@ -1,6 +1,6 @@
 ![[Pasted image 20241217005329.png]]
 
----
+
 ## LEO
 
 **Low Earth Orbit (LEO)**
@@ -11,7 +11,7 @@
   - **Starlink Satellites** ([[SpaceX]]) – Broadband internet constellation.  
   - **[[Planet Labs]] Dove Satellites** – Earth observation and imaging.  
 
----
+
 ## GEO 
 
 **Geostationary Orbit (GEO)**
@@ -22,7 +22,7 @@
   - **Intelsat Satellites** – Global communications and broadcasting.  
   - **Inmarsat Satellites** – Satellite communications for maritime and aviation sectors.  
 
----
+
 ## GSO
 
 **Geosynchronous Orbit (GSO)**  
@@ -33,7 +33,7 @@
   - **GOES (Geostationary Operational Environmental Satellites)** – Weather monitoring satellites.  
   - **QZSS (Quasi-Zenith Satellite System)** – Japanese satellite system providing regional positioning services.  
 
----
+
 ## MEO 
 
 **Medium Earth Orbit (MEO)**  
@@ -44,7 +44,7 @@
   - **Galileo Satellites** – European navigation system.  
   - **GLONASS Satellites** – Russian navigation system.  
 
----
+
 ## SSO
 
 **Sun-Synchronous Orbit (SSO)**  
@@ -55,7 +55,7 @@
   - **Landsat** – NASA's Earth observation program.  
   - **Planet Labs' Dove Satellites** – High-frequency imaging for Earth monitoring.  
 
----
+
 ## Polar
 
 **Polar Orbit**  
@@ -66,7 +66,7 @@
   - **Terra (NASA)** – Earth observation for climate and environmental data.  
   - **CryoSat-2** – ESA's satellite for ice thickness monitoring.  
 
----
+
 ## GTO
 
 **Geostationary Transfer Orbit (GTO)**  
@@ -77,7 +77,7 @@
   - **Weather Satellites** – Launch stages for satellites such as GOES before they circularize at GEO.  
   - **Commercial Launch Missions** – Many rockets like [[SpaceX]]'s Falcon 9 or Rocket Lab's Electron place payloads in GTO as a transfer stage.
 
----
+
 ## TLI
 
 **Trans-Lunar Injection (TLI)**

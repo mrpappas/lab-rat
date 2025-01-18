@@ -43,13 +43,21 @@ Rocket Lab’s rapid call-up launch capability, its standardized and rapid produ
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720321266011/)
 
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table published as "Published"
 from "News"
 where contains(mission, [[054 'Changes In Latitudes, Changes In Attitudes' - Electron]])
 sort published desc
 ```
+%%
 
+| File                                                                                                                                                                                                 | Published         |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[News/From Contract to Space in Less Than Ten Weeks Rocket Lab Launches its 54th Electron Mission.md\|From Contract to Space in Less Than Ten Weeks Rocket Lab Launches its 54th Electron Mission]] | November 05, 2024 |
+| [[News/Rocket Lab Adds New Mission to 2024 Launch Manifest, Schedules Launch in Coming Days.md\|Rocket Lab Adds New Mission to 2024 Launch Manifest, Schedules Launch in Coming Days]]               | October 16, 2024  |
+
+%%DATAVIEW_PUBLISHER: end %%
 ## 📽️ Launch Video
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/Pku19e-MHis" title="Rocket Lab&#39;s Electron - Changes In Latitudes, Changes In Attitudes Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     

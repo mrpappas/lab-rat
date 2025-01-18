@@ -51,12 +51,22 @@ Synspective is a satellite data solutions provider with its own constellation of
 x1 [[Synspective#🛰️ Space Systems#StriX|Strix]] Series Satellite for [[Synspective]]
 
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table published as "Published"
 from "News"
 where contains(mission, [[045 'Owl Night Long' - Electron]])
 sort published desc
 ```
+%%
+
+| File                                                                                                                                                                                                                                   | Published         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[News/Rocket Lab Successfully Launches 45th Electron Mission, 4th for Longtime Partner Synspective.md\|Rocket Lab Successfully Launches 45th Electron Mission, 4th for Longtime Partner Synspective]]                                 | March 13, 2024    |
+| [[News/Rocket Lab Schedules Launch Date for 45th Electron Mission to Deploy Earth-Imaging Satellite for Synspective.md\|Rocket Lab Schedules Launch Date for 45th Electron Mission to Deploy Earth-Imaging Satellite for Synspective]] | February 20, 2024 |
+| [[News/Rocket Lab to Launch Three Dedicated Electron Missions for Earth Imaging Company Synspective.md\|Rocket Lab to Launch Three Dedicated Electron Missions for Earth Imaging Company Synspective]]                                 | December 07, 2021 |
+
+%%DATAVIEW_PUBLISHER: end %%
 
 ## 📽️ Launch Video
 

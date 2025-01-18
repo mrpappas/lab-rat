@@ -44,12 +44,21 @@ The missions will be Rocket Lab’s 48th and 49th Electron launches overall and 
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720316727356/)
 
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table published as "Published"
 from "News"
 where contains(mission, [[048 'Ready, Aim, Prefire' - Electron]])
 sort published desc
 ```
+%%
+
+| File                                                                                                                                                                                           | Published       |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
+| [[News/Rocket Lab Prepares Back-To-Back Launches For Climate Change Research Mission For NASA.md\|Rocket Lab Prepares Back-To-Back Launches For Climate Change Research Mission For NASA]]     | April 29, 2024  |
+| [[News/Rocket Lab to Launch Climate Change Research Mission Focused on Arctic Ice Caps for NASA.md\|Rocket Lab to Launch Climate Change Research Mission Focused on Arctic Ice Caps for NASA]] | August 14, 2023 |
+
+%%DATAVIEW_PUBLISHER: end %%
 
 ## 📽️ Launch Video
 

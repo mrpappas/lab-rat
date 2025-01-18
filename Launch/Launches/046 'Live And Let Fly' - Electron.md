@@ -40,12 +40,21 @@ The ‘Live And Let Fly’ launch service was acquired using NRO’s Rapid Acqui
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720315524540/)
 
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table published as "Published"
 from "News"
 where contains(mission, [[046 'Live And Let Fly' - Electron]])
 sort published desc
 ```
+%%
+
+| File                                                                                                                                                           | Published         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[News/Rocket Lab Successfully Launches Fifth National Security Mission for NRO.md\|Rocket Lab Successfully Launches Fifth National Security Mission for NRO]] | March 21, 2024    |
+| [[News/Rocket Lab to Launch NRO Mission from Wallops, Virginia   Rocket Lab.md\|Rocket Lab to Launch NRO Mission from Wallops, Virginia   Rocket Lab]]         | February 21, 2024 |
+
+%%DATAVIEW_PUBLISHER: end %%
 
 ## 📽️ Launch Video
 

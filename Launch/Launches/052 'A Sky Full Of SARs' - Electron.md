@@ -43,12 +43,22 @@ Rocket Lab launched a dedicated mission for [[Capella Space]], a provider of SAR
 [[Capella Space#🛰️ Space Systems#Acadia|Acadia-3]] Satellite
 
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table published as "Published"
 from "News"
 where contains(mission, [[052 'A Sky Full Of SARs' - Electron]])
 sort published desc
 ```
+%%
+
+| File                                                                                                                                                                               | Published       |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
+| [[News/Rocket Lab Schedules Next Electron Launch Just Eight Days After Previous Mission.md\|Rocket Lab Schedules Next Electron Launch Just Eight Days After Previous Mission]]     | August 07, 2024 |
+| [[News/Rocket Lab Launch Update.md\|Rocket Lab Launch Update]]                                                                                                                     | July 18, 2024   |
+| [[News/Rocket Lab Sets Launch Window For Next Capella Space Mission From Launch Complex 1.md\|Rocket Lab Sets Launch Window For Next Capella Space Mission From Launch Complex 1]] | July 09, 2024   |
+
+%%DATAVIEW_PUBLISHER: end %%
 
 ## 📽️ Launch Video
 

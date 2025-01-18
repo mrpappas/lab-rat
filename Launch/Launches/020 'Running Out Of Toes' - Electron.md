@@ -39,12 +39,24 @@ Launched in May 2021 from Launch Complex 1 in New Zealand, the ‘Running Out Of
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720302067868/)
 
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table published as "Published"
 from "News"
-where contains(mission, [[020 'Running Out Of Toes' - Electron]])
+where contains(mission, [[022 'Love At First Insight' - Electron]])
 sort published desc
 ```
+%%
+
+| File                                                                                                                                                                                                         | Published         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
+| [[News/Rocket Lab Confirms Helicopter Capture Attempt  For Next Recovery Mission.md\|Rocket Lab Confirms Helicopter Capture Attempt  For Next Recovery Mission]]                                             | November 23, 2021 |
+| [[News/Rocket Lab Launches 107th Satellite To Orbit, Successfully Tests Helicopter Recovery Operations.md\|Rocket Lab Launches 107th Satellite To Orbit, Successfully Tests Helicopter Recovery Operations]] | November 18, 2021 |
+| [[News/Rocket Lab to Recover Electron Rocket, Introduce Helicopter Operations During Next Launch.md\|Rocket Lab to Recover Electron Rocket, Introduce Helicopter Operations During Next Launch]]             | October 19, 2021  |
+| [[News/Rocket Lab Launch Operations Underway For Two BlackSky Missions in November.md\|Rocket Lab Launch Operations Underway For Two BlackSky Missions in November]]                                         | October 11, 2021  |
+| [[News/Rocket Lab to Launch Three Back-To-Back Missions for BlackSky from late August.md\|Rocket Lab to Launch Three Back-To-Back Missions for BlackSky from late August]]                                   | August 10, 2021   |
+
+%%DATAVIEW_PUBLISHER: end %%
 
 ## 📽️ Launch Video
 

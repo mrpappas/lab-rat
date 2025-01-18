@@ -40,12 +40,22 @@ The pair of high-resolution, multi-spectral, Gen-2 satellites launched on [[Elec
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720306962454/)
 
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table published as "Published"
 from "News"
 where contains(mission, [[035 'The Beat Goes On' - Electron]])
 sort published desc
 ```
+%%
+
+| File                                                                                                                                                                                                                                                                                       | Published         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
+| [[News/Rocket Lab Successfully Launches 35th Electron Seven Days After Previous Launch, Sets New Company Record for Fastest Launch Turnaround.md\|Rocket Lab Successfully Launches 35th Electron Seven Days After Previous Launch, Sets New Company Record for Fastest Launch Turnaround]] | March 24, 2023    |
+| [[News/Rocket Lab to Launch Pair of Satellites for BlackSky from New Zealand Just Days After Successful Launch from Virginia.md\|Rocket Lab to Launch Pair of Satellites for BlackSky from New Zealand Just Days After Successful Launch from Virginia]]                                   | March 17, 2023    |
+| [[News/Rocket Lab Plans Two Launches Days Apart From Two Continents.md\|Rocket Lab Plans Two Launches Days Apart From Two Continents]]                                                                                                                                                     | February 28, 2023 |
+
+%%DATAVIEW_PUBLISHER: end %%
 
 ## 📽️ Launch Video
 

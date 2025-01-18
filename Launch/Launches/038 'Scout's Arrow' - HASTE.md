@@ -44,12 +44,20 @@ The HASTE suborbital launch vehicle is derived from the Company’s Electron roc
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720309200406/)
 
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table published as "Published"
 from "News"
 where contains(mission, [[038 'Scout's Arrow' - HASTE]])
 sort published desc
 ```
+%%
+
+| File                                                                                                                                                                                   | Published     |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| [[News/Rocket Lab Debuts HASTE Rocket with First Successful Suborbital Launch from Virginia.md\|Rocket Lab Debuts HASTE Rocket with First Successful Suborbital Launch from Virginia]] | June 17, 2023 |
+
+%%DATAVIEW_PUBLISHER: end %%
 
 ## 📽️ Launch Video
 

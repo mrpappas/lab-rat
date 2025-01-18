@@ -48,12 +48,26 @@ The “There And Back Again” mission deployed 34 satellites to a sun synchrono
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720301762910/)
 
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table published as "Published"
 from "News"
 where contains(mission, [[026 'There And Back Again' - Electron]])
 sort published desc
 ```
+%%
+
+| File                                                                                                                                                                                                                                     | Published          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[News/Rocket Lab to Take Next Major Step Toward Electron Reusability by Launching Pre-Flown Engine.md\|Rocket Lab to Take Next Major Step Toward Electron Reusability by Launching Pre-Flown Engine]]                                   | April 19, 2023     |
+| [[News/Rocket Lab Successfully Completes First Test Fire of Reused Rutherford Engine.md\|Rocket Lab Successfully Completes First Test Fire of Reused Rutherford Engine]]                                                                 | September 01, 2022 |
+| [[News/Rocket Lab Successfully Deploys 34 Satellites and Catches Rocket Booster Returning from Space with Helicopter.md\|Rocket Lab Successfully Deploys 34 Satellites and Catches Rocket Booster Returning from Space with Helicopter]] | May 02, 2022       |
+| [[News/Rocket Lab to Attempt First Mid-Air Helicopter Capture of the Electron Rocket During Next Mission.md\|Rocket Lab to Attempt First Mid-Air Helicopter Capture of the Electron Rocket During Next Mission]]                         | April 06, 2022     |
+| [[News/Rocket Lab to Launch Three Demonstration Satellites for E-Space.md\|Rocket Lab to Launch Three Demonstration Satellites for E-Space]]                                                                                             | March 21, 2022     |
+| [[News/Rocket Lab to Launch Four PocketQube Satellites for Alba Orbital.md\|Rocket Lab to Launch Four PocketQube Satellites for Alba Orbital]]                                                                                           | August 18, 2021    |
+| [[News/Rocket Lab to Launch Finnish Satellite Developing Next-Generation Space Junk Removal Technologies.md\|Rocket Lab to Launch Finnish Satellite Developing Next-Generation Space Junk Removal Technologies]]                         | August 16, 2021    |
+
+%%DATAVIEW_PUBLISHER: end %%
 
 ## 📽️ Launch Video
 

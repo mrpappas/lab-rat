@@ -45,12 +45,22 @@ The mission for Synspective marked a series of company milestones for Rocket Lab
 x1 [[Synspective#🛰️ Space Systems#StriX|Strix]] Series Satellite for [[Synspective]]
 
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table published as "Published"
 from "News"
 where contains(mission, [[030 'The Owl Spreads Its Wings' - Electron]])
 sort published desc
 ```
+%%
+
+| File                                                                                                                                                                                                   | Published          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
+| [[News/Rocket Lab Successfully Launches 30th Electron Rocket & 150th Satellite to Space.md\|Rocket Lab Successfully Launches 30th Electron Rocket & 150th Satellite to Space]]                         | September 15, 2022 |
+| [[News/Rocket Lab to Launch 150th Satellite on Upcoming Mission for Synspective.md\|Rocket Lab to Launch 150th Satellite on Upcoming Mission for Synspective]]                                         | August 15, 2022    |
+| [[News/Rocket Lab to Launch Three Dedicated Electron Missions for Earth Imaging Company Synspective.md\|Rocket Lab to Launch Three Dedicated Electron Missions for Earth Imaging Company Synspective]] | December 07, 2021  |
+
+%%DATAVIEW_PUBLISHER: end %%
 
 ## 📽️ Launch Video
 

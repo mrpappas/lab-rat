@@ -41,13 +41,21 @@ instrumentation which was launched on this mission, but on a highly accelerated 
 >🚫 No Official Mission Photo Album
 
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table published as "Published"
 from "News"
 where contains(mission, [[055 'HASTE A La Vista' - HASTE]])
 sort published desc
 ```
+%%
 
+| File                                                                                                                                                   | Published         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
+| [[News/Mission Success for Rocket Lab’s Latest Suborbital Hypersonic Launch.md\|Mission Success for Rocket Lab’s Latest Suborbital Hypersonic Launch]] | December 09, 2024 |
+| [[News/Rocket Lab Successfully Launches Two Missions in Less Than 24 Hours.md\|Rocket Lab Successfully Launches Two Missions in Less Than 24 Hours]]   | November 25, 2024 |
+
+%%DATAVIEW_PUBLISHER: end %%
 
 ## 📽️ Launch Video
 

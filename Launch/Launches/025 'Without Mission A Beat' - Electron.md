@@ -42,12 +42,23 @@ Rocket Lab launched the “Without Mission A Beat” mission from Rocket Lab Lau
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720301776029/)
 
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table published as "Published"
 from "News"
 where contains(mission, [[025 'Without Mission A Beat' - Electron]])
 sort published desc
 ```
+%%
+
+| File                                                                                                                                                                                                                                                                                                   | Published        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- |
+| [[News/Rocket Lab Successfully Launches 112th Satellite to Orbit.md\|Rocket Lab Successfully Launches 112th Satellite to Orbit]]                                                                                                                                                                       | April 03, 2022   |
+| [[News/Rocket Lab Confirms Next Electron Launch Window Opens for BlackSky April 1, 2022 UTC; Provides Update on Effect to Prior Q1 Revenue Guidance.md\|Rocket Lab Confirms Next Electron Launch Window Opens for BlackSky April 1, 2022 UTC; Provides Update on Effect to Prior Q1 Revenue Guidance]] | March 24, 2022   |
+| [[News/Rocket Lab Readies First 2022 Electron Launch, BlackSky Adds Another Mission to Manifest.md\|Rocket Lab Readies First 2022 Electron Launch, BlackSky Adds Another Mission to Manifest]]                                                                                                         | January 18, 2022 |
+| [[News/Rocket Lab to Launch Three Back-To-Back Missions for BlackSky from late August.md\|Rocket Lab to Launch Three Back-To-Back Missions for BlackSky from late August]]                                                                                                                             | August 10, 2021  |
+
+%%DATAVIEW_PUBLISHER: end %%
 
 ## 📽️ Launch Video
 

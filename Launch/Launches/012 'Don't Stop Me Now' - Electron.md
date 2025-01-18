@@ -46,12 +46,20 @@ The ANDESITE and NRO payloads were joined on the mission by the M2 Pathfinder sa
 The mission was been named ‘Don’t Stop Me Now’ in recognition of Rocket Lab board member and avid Queen fan [[Scott Smith]], who recently passed away.
 
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table published as "Published"
 from "News"
 where contains(mission, [[012 'Don't Stop Me Now' - Electron]])
 sort published desc
 ```
+%%
+
+| File                                                                                                                                                                                                               | Published      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------- |
+| [[News/Rocket Lab’s Next Mission to Launch Satellites for NASA, NRO and the University of New South Wales.md\|Rocket Lab’s Next Mission to Launch Satellites for NASA, NRO and the University of New South Wales]] | March 09, 2020 |
+
+%%DATAVIEW_PUBLISHER: end %%
 
 
 ## 📽️ Launch Video

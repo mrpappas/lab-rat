@@ -44,12 +44,23 @@ In addition to being launched by Electron, the QPS-SAR-5 satellite used Rocket L
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720311276533/)
 
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table published as "Published"
 from "News"
 where contains(mission, [[042 'The Moon God Awakens' - Electron]])
 sort published desc
 ```
+%%
+
+| File                                                                                                                                                                           | Published         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
+| [[News/Rocket Lab Reaches New Annual Launch Record with 10th Electron Mission This Year.md\|Rocket Lab Reaches New Annual Launch Record with 10th Electron Mission This Year]] | December 15, 2023 |
+| [[News/Rocket Lab Prepares to Launch iQPS Mission.md\|Rocket Lab Prepares to Launch iQPS Mission]]                                                                             | December 14, 2023 |
+| [[News/Rocket Lab Sets Next Electron Launch Window, Provides Update on Anomaly Review.md\|Rocket Lab Sets Next Electron Launch Window, Provides Update on Anomaly Review]]     | November 08, 2023 |
+| [[News/Rocket Lab Inks Dedicated Launch Deal with Japanese Earth Imaging Company iQPS.md\|Rocket Lab Inks Dedicated Launch Deal with Japanese Earth Imaging Company iQPS]]     | August 17, 2023   |
+
+%%DATAVIEW_PUBLISHER: end %%
 
 ## 📽️ Launch Video
 

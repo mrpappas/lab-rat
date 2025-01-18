@@ -44,13 +44,21 @@ These twin missions are a demonstration of responsive launch under NRO’s Rapid
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720301774032/)
 
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table published as "Published"
 from "News"
 where contains(mission, [[028 'Wise One Looks Ahead' - Electron]])
 sort published desc
 ```
+%%
 
+| File                                                                                                                                                                                                                                         | Published     |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| [[News/Rocket Lab Successfully Launches First of Two Responsive Space Missions for the  National Reconnaissance Office.md\|Rocket Lab Successfully Launches First of Two Responsive Space Missions for the  National Reconnaissance Office]] | July 13, 2022 |
+| [[News/Rocket Lab to Launch Responsive Space Missions for National Reconnaissance Office.md\|Rocket Lab to Launch Responsive Space Missions for National Reconnaissance Office]]                                                             | July 05, 2022 |
+
+%%DATAVIEW_PUBLISHER: end %%
 ## 📽️ Launch Video
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/f6Nphz4f9oY" title="Rocket Lab&#39;s Electron - Wise One Looks Ahead Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     

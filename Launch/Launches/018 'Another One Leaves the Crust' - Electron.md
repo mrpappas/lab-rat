@@ -38,13 +38,22 @@ This mission launched a single communication microsatellite for OHB Group that w
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720302069738/)
 
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table published as "Published"
 from "News"
 where contains(mission, [[018 'Another One Leaves the Crust' - Electron]])
 sort published desc
 ```
+%%
 
+| File                                                                                                                                                                                                                 | Published        |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[News/Rocket Lab Demonstrates New Orbital Maneuvering Capability with Most Complex Kick Stage Mission Yet.md\|Rocket Lab Demonstrates New Orbital Maneuvering Capability with Most Complex Kick Stage Mission Yet]] | January 26, 2021 |
+| [[News/Rocket Lab’s First Mission of 2021 to Launch Communications Satellite for OHB Group  Rocket Lab.md\|Rocket Lab’s First Mission of 2021 to Launch Communications Satellite for OHB Group  Rocket Lab]]         | January 05, 2021 |
+| [[News/Rocket Lab to Launch Dedicated Mission for European Space Technology Company OHB Group.md\|Rocket Lab to Launch Dedicated Mission for European Space Technology Company OHB Group]]                           | August 25, 2020  |
+
+%%DATAVIEW_PUBLISHER: end %%
 ## 📽️ Launch Video
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/NQyNuF-Du7c" title="Rocket Lab&#39;s Electron - Another One Leaves The Crust Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     

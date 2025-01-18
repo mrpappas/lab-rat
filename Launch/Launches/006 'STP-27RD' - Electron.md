@@ -44,12 +44,21 @@ The Falcon Orbital Debris Experiment (Falcon ODE), sponsored by the United State
 The final payload was the 150kg Harbinger satellite; a commercial small satellite built by York Space Systems and sponsored by the U.S Army to demonstrate the ability of an experimental commercial system to meet DoD space capability requirements.
 
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table published as "Published"
 from "News"
 where contains(mission, [[006 'STP-27RD' - Electron]])
 sort published desc
 ```
+%%
+
+| File                                                                                                                                                                                     | Published      |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| [[News/Rocket Lab successfully launches three R&D satellites to orbit for the U.S. Air Force.md\|Rocket Lab successfully launches three R&D satellites to orbit for the U.S. Air Force]] | May 05, 2019   |
+| [[News/Rocket Lab to launch three R&D satellites for the U.S. Air Force.md\|Rocket Lab to launch three R&D satellites for the U.S. Air Force]]                                           | April 04, 2019 |
+
+%%DATAVIEW_PUBLISHER: end %%
 
 ## 📽️ Launch Video
 

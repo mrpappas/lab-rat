@@ -42,12 +42,21 @@ The “Catch Me If You Can” mission also resulted in a successful ocean splash
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720303420541/)
 
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table published as "Published"
 from "News"
 where contains(mission, [[032 'Catch Me If You Can' - Electron]])
 sort published desc
 ```
+%%
+
+| File                                                                                                                                                                       | Published         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[News/Rocket Lab Successfully Deploys 152nd Satellite.md\|Rocket Lab Successfully Deploys 152nd Satellite]]                                                               | November 04, 2022 |
+| [[News/Rocket Lab to Attempt Next Mid-Air Helicopter Rocket Catch During Next Mission.md\|Rocket Lab to Attempt Next Mid-Air Helicopter Rocket Catch During Next Mission]] | November 01, 2022 |
+
+%%DATAVIEW_PUBLISHER: end %%
 
 ## 📽️ Launch Video
 

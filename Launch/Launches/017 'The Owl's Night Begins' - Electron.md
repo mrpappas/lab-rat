@@ -44,13 +44,22 @@ The StriX-α satellite onboard this mission was the first of a series of spacecr
 
 x1 [[Synspective#🛰️ Space Systems#StriX|Strix]] Series Satellite for [[Synspective]]
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table published as "Published"
 from "News"
 where contains(mission, [[017 'The Owl's Night Begins' - Electron]])
 sort published desc
 ```
+%%
 
+| File                                                                                                                                                                                                         | Published         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
+| [[News/Rocket Lab Successfully Launches 17th Electron Mission, Deploys SAR Satellite for Synspective.md\|Rocket Lab Successfully Launches 17th Electron Mission, Deploys SAR Satellite for Synspective]]     | December 15, 2020 |
+| [[News/Rocket Lab to Launch Dedicated Mission for  Japanese Earth Imaging Company Synspective.md\|Rocket Lab to Launch Dedicated Mission for  Japanese Earth Imaging Company Synspective]]                   | November 24, 2020 |
+| [[News/Rocket Lab to Launch Dedicated Mission for Japanese Space Industry Start-up Company Synspective.md\|Rocket Lab to Launch Dedicated Mission for Japanese Space Industry Start-up Company Synspective]] | April 14, 2020    |
+
+%%DATAVIEW_PUBLISHER: end %%
 ## 📽️ Launch Video
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/AmbjFv3wa68" title="Rocket Lab&#39;s Electron - The Owl&#39;s Night Begins Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     

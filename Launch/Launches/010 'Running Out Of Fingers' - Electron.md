@@ -41,12 +41,22 @@ Onboard this rideshare mission were six spacecraft comprised of 5cm PocketQube m
 ‘Running Out Of Fingers’ also included the first guided, full telemetry re-entry of the Electron launch vehicle’s first stage as part of Rocket Lab’s plans to re-use and re-fly rocket boosters in future missions. Recovery instrumentation on-board this flight included guidance and navigation hardware, including S-band telemetry and on-board flight computer systems, to live-gather data during the first stage’s atmospheric re-entry, as well as a reaction control system to orient the booster.
 
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table published as "Published"
 from "News"
 where contains(mission, [[010 'Running Out Of Fingers' - Electron]])
 sort published desc
 ```
+%%
+
+| File                                                                                                                                                                                                           | Published         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[News/Rocket Lab Debuts Fully Autonomous Flight Termination System.md\|Rocket Lab Debuts Fully Autonomous Flight Termination System]]                                                                         | December 09, 2019 |
+| [[News/Rocket Lab launches milestone tenth mission, completes major success for reusable rocket program.md\|Rocket Lab launches milestone tenth mission, completes major success for reusable rocket program]] | December 06, 2019 |
+| [[News/Next Generation Electron Booster on the Pad  for Rocket Lab’s 10th Mission.md\|Next Generation Electron Booster on the Pad  for Rocket Lab’s 10th Mission]]                                             | November 05, 2019 |
+
+%%DATAVIEW_PUBLISHER: end %%
 
 ## 📽️ Launch Video
 

@@ -41,12 +41,21 @@ The “Owl The Way Up” mission launched from Rocket Lab [[Launch Complex 1]] i
 x1 [[Synspective#🛰️ Space Systems#StriX|Strix]] Series Satellite for [[Synspective]]
 
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table published as "Published"
 from "News"
 where contains(mission, [[058 'Owl The Way Up' - Electron]])
 sort published desc
 ```
+%%
+
+| File                                                                                                                                                                                                                               | Published         |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[News/Rocket Lab Successfully Deploys Satellite for Synspective, Caps Off Year with 60% Increase in Launches YoY.md\|Rocket Lab Successfully Deploys Satellite for Synspective, Caps Off Year with 60% Increase in Launches YoY]] | December 22, 2024 |
+| [[News/Rocket Lab Sets Launch Window to Deploy Synspective Satellites.md\|Rocket Lab Sets Launch Window to Deploy Synspective Satellites]]                                                                                         | December 05, 2024 |
+
+%%DATAVIEW_PUBLISHER: end %%
 
 ## 📽️ Launch Video
 

@@ -42,12 +42,22 @@ The mission name is a nod to Capella’s SAR technology that provides high quali
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72157716859999646/)
 
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table published as "Published"
 from "News"
 where contains(mission, [[014 'I Can't Believe It's Not Optical' - Electron]])
 sort published desc
 ```
+%%
+
+| File                                                                                                                                                                                                                                                   | Published          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
+| [[News/Rocket Lab Launches First In-house Designed & Built Photon Satellite.md\|Rocket Lab Launches First In-house Designed & Built Photon Satellite]]                                                                                                 | September 03, 2020 |
+| [[News/Rocket Lab Successfully Deploys Satellite for Capella Space on 14th Mission.md\|Rocket Lab Successfully Deploys Satellite for Capella Space on 14th Mission]]                                                                                   | August 31, 2020    |
+| [[News/Capella Space and Rocket Lab to Launch Mid-Inclination Satellite to Enable Improved Monitoring of Key Global Regions.md\|Capella Space and Rocket Lab to Launch Mid-Inclination Satellite to Enable Improved Monitoring of Key Global Regions]] | March 05, 2020     |
+
+%%DATAVIEW_PUBLISHER: end %%
 
 ## 📽️ Launch Video
 
