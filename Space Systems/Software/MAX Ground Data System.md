@@ -1,6 +1,9 @@
 ---
+
 subsidiary: "[[Advanced Solutions Inc]]"
 ---
+
+**Subsidiary:** [[Advanced Solutions Inc]]
 
 >[!summary]
 Developed to support the entire spacecraft lifecycle, MAX GDS is a ground software solution that provides complete spacecraft command and control for all spacecraft and constellations.

@@ -1,7 +1,11 @@
 ---
+
 name: CNES (France’s National Centre for Space Studies)
 website: https://cnes.fr/en
 ---
+
+**Name:** CNES (France’s National Centre for Space Studies)
+**Website:** https://cnes.fr/en
 
 >[!summary]
 >

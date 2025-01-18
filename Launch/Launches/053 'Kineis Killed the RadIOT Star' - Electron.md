@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -15,6 +16,20 @@ payload_mass: 150 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/kineis-killed-the-radiot-star/
 ---
+
+#electron #launch #success
+**Mission Name:** Kinéis Killed the RadIOT Star
+**Launch Date:** 2024-09-20 23:01
+**Outcome:** Success
+**Customer:** [[Kinéis]]
+**Location:** [[Launch Complex 1]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#LEO]]
+**Target Orbit:** 643 km | 98°
+**Payload Mass:** 150 kg
+**Recovery:** No Attempt
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/kineis-killed-the-radiot-star/
+
 >[!success] Mission Success
 
 >[!summary]

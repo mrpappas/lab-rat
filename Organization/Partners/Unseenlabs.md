@@ -1,7 +1,11 @@
 ---
+
 name: Unseenlabs
 website: https://unseenlabs.space/
 ---
+
+**Name:** Unseenlabs
+**Website:** https://unseenlabs.space/
 
 >[!summary]
 **Unseenlabs** is a French company specializing in **space-based radio frequency (RF) detection and geolocation**. Leveraging its constellation of **nanosatellites** in low Earth orbit (LEO), Unseenlabs provides **maritime surveillance** services by detecting and geolocating RF signals emitted by ships, even those operating with their **Automatic Identification System (AIS) turned off**. 

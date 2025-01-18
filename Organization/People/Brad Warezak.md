@@ -1,10 +1,17 @@
 ---
+
 name: Brad Warezak
 role: Chief Information Officer
 shares_owned: 
 joined: 2022-05-01
 linkedin: https://www.linkedin.com/in/bradwarezak/
 ---
+
+**Name:** Brad Warezak
+**Role:** Chief Information Officer
+**Shares Owned:** 
+**Joined:** 2022-05-01
+**Linkedin:** https://www.linkedin.com/in/bradwarezak/
 
 ![[Pasted image 20241127003519.png]]
 

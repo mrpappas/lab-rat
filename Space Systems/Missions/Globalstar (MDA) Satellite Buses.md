@@ -1,8 +1,11 @@
 ---
+
 customer: 
  - "[[Globalstar]]"
  - "[[MDA]]"
 ---
+
+**Customer:** [[Globalstar]], [[MDA]]
 
 >[!summary]
 >In February 2022, Rocket Lab was awarded a $143 million subcontract by [[MDA]] to lead the design and manufacture of 17 spacecraft buses for [[Globalstar]]’s new [[🌍 Orbits#LEO|Low Earth Orbit]] satellites.

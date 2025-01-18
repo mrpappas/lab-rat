@@ -1,10 +1,17 @@
 ---
+
 name: David Cowan
 role: Partner at [[Bessemer Venture Partners]]
 shares_owned: 294,310 (Direct), 199,084 (Indirect via entities)
 joined: 2021-09-07
 linkedin: https://www.linkedin.com/in/davidjcowan/
 ---
+
+**Name:** David Cowan
+**Role:** Partner at [[Bessemer Venture Partners]]
+**Shares Owned:** 294,310 (Direct), 199,084 (Indirect via entities)
+**Joined:** 2021-09-07
+**Linkedin:** https://www.linkedin.com/in/davidjcowan/
 
 ![[Pasted image 20241207213350.png|300]]
 

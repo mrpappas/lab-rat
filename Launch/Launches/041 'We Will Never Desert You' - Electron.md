@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -16,6 +17,19 @@ payload_mass: 165 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/we-will-never-desert-you/
 ---
+
+#electron #launch #failure #anomaly
+**Mission Name:** We Will Never Desert You
+**Launch Date:** 2023-09-19 06:55
+**Outcome:** Failure
+**Customer:** [[Capella Space]]
+**Location:** [[Launch Complex 1]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#LEO]]
+**Target Orbit:** 640 km | 53°
+**Payload Mass:** 165 kg
+**Recovery:** No Attempt
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/we-will-never-desert-you/
 
 >[!Failure] Mission Failure
 

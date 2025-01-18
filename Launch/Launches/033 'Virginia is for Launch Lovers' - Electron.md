@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -15,6 +16,20 @@ payload_mass: 40 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/new-mission-page-2/
 ---
+
+#electron #launch #success
+**Mission Name:** Virginia is for Launch Lovers
+**Launch Date:** 2023-01-24 23:00
+**Outcome:** Success
+**Customer:** [[HawkEye 360]]
+**Location:** [[Launch Complex 2]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#LEO]]
+**Target Orbit:** 550 km | 40.5°
+**Payload Mass:** 40 kg
+**Recovery:** No Attempt
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/new-mission-page-2/
+
 >[!success] Mission Success
 
 >[!summary]

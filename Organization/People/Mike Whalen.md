@@ -5,6 +5,11 @@ shares_owned:
 joined: 2021-11-15
 linkedin: https://www.linkedin.com/in/mike-whalen-230b24b/
 ---
+**Name:** Mike Whalen
+**Role:** Vice President - Separation Systems
+**Shares Owned:** 
+**Joined:** 2021-11-15
+**Linkedin**: https://www.linkedin.com/in/mike-whalen-230b24b/
 
 ![[Pasted image 20241127003349.png|300]]
 

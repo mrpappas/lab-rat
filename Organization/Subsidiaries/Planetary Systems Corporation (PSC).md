@@ -1,9 +1,16 @@
 ---
+
 name: Planetary Systems Corporation (PSC)
 website: https://www.rocketlabusa.com/space-systems/separation-systems/
 acquired: 2021-11-15
 cost: $42,000,000
 ---
+
+**Name:** Planetary Systems Corporation (PSC)
+**Website:** https://www.rocketlabusa.com/space-systems/separation-systems/
+**Acquired:** 2021-11-15
+**Cost:** $42,000,000
+
 >[!summary]
 Planetary Systems Corporation (PSC) is a Maryland-based company specializing in spacecraft deployment technologies. Renowned for its lightweight, reliable separation systems, such as the Motorized Lightband and Canisterized Satellite Dispensers, PSC supports efficient and cost-effective payload integration for small and medium satellites. The company serves both commercial and government customers, focusing on enhancing satellite deployment capabilities.
 ## 💰 Acquisition
@@ -33,6 +40,3 @@ where contains(partner, [[Planetary Systems Corporation (PSC)]])
 sort Filing_Date desc
 
 ```
-
-
-

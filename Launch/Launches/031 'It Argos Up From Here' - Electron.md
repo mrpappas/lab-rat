@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -15,6 +16,20 @@ payload_mass: 118 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/it-argos-up-from-here/
 ---
+
+#electron #launch #success
+**Mission Name:** It Argos Up From Here
+**Launch Date:** 2022-10-07 17:09
+**Outcome:** Success
+**Customer:** [[General Atomics Electromagnetic Systems]]
+**Location:** [[Launch Complex 1]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#SSO]]
+**Target Orbit:** 750 km | 98°
+**Payload Mass:** 118 kg
+**Recovery:** No Attempt
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/it-argos-up-from-here/
+
 >[!success] Mission Success
 
 >[!summary]

@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -19,6 +20,20 @@ payload_mass: 45 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/its-business-time/
 ---
+
+#electron #launch #success
+**Mission Name:** It's Business Time
+**Launch Date:** 2018-11-11 03:50
+**Outcome:** Success
+**Customer:** [[Spire Global]], [[Tyvak Nano-Satellite Systems]], [[Fleet Space]]
+**Location:** [[Launch Complex 1]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#LEO]]
+**Target Orbit:** 500 km | 85°
+**Payload Mass:** 45 kg
+**Recovery:** No Attempt
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/its-business-time/
+
 >[!success] Mission Success
 
 >[!summary] 

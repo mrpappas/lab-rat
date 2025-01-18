@@ -1,7 +1,11 @@
 ---
+
 name: Advanced Space
 website: https://advancedspace.com/
 ---
+
+**Name:** Advanced Space
+**Website:** https://advancedspace.com/
 
 >[!summary]
 Advanced Space is a Colorado-based company specializing in mission design, navigation, and operations for space exploration, with a focus on cislunar and deep space missions. Known for their expertise in orbital dynamics and spacecraft navigation, Advanced Space supports commercial and government clients, including NASA. They are notably the operator of the CAPSTONE mission (Cislunar Autonomous Positioning System Technology Operations and Navigation Experiment), a pathfinding CubeSat mission to the Moon that demonstrates navigation technology for the Gateway program in NASA's Artemis initiative. The company aims to advance the use of innovative technologies for sustainable space exploration.

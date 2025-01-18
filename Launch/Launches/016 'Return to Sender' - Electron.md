@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -21,6 +22,20 @@ payload_mass: 200 kg
 recovery: Success (Ocean Landing)
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/flight-16/
 ---
+
+#electron #launch #rideshare #success
+**Mission Name:** Return to Sender
+**Launch Date:** 2020-11-20 02:20
+**Outcome:** Success
+**Customer:** [[Trisept]], [[Unseenlabs]], [[Swarm]], [[The University of Auckland]], [[Valve]]
+**Location:** [[Launch Complex 1]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#SSO]]
+**Target Orbit:** 500 km | 97.3°
+**Payload Mass:** 200 kg
+**Recovery:** Success (Ocean Landing)
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/flight-16/
+
 >[!success] Mission Success
 
 >[!summary]

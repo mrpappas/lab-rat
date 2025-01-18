@@ -5,6 +5,11 @@ shares_owned:
 joined: 2021-11-15
 ---
 
+**Name:** Walter Holemans
+**Role:** Engineering Fellow
+**Shares Owned:** 
+**Joined:** 2021-11-15
+
 ![[Pasted image 20241127003859.png]]
 
 >[!summary]

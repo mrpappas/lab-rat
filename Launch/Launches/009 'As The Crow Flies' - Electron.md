@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -15,6 +16,20 @@ payload_mass: 20 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/as-the-crow-flies/
 ---
+
+#electron #launch #success
+**Mission Name:** As The Crow Flies
+**Launch Date:** 2019-10-17 01:22
+**Outcome:** Success
+**Customer:** [[Astro Digital]]
+**Location:** [[Launch Complex 1]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#LEO]]
+**Target Orbit:** 1200 km | 87.9°
+**Payload Mass:** 20 kg
+**Recovery:** No Attempt
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/as-the-crow-flies/
+
 >[!success] Mission Success
 
 >[!summary] 

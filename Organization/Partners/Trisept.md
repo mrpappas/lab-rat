@@ -1,7 +1,11 @@
 ---
+
 name: Trisept
 website: https://trisept.com/
 ---
+
+**Name:** Trisept
+**Website:** https://trisept.com/
 
 >[!summary]
 TriSept provides launch integration, mission management, and engineering services for satellite missions of all sizes. With expertise spanning rideshare coordination, dedicated launches, and complex multi-payload deployments, TriSept ensures reliable and efficient access to space for commercial, government, and defense customers. Their proven track record, combined with mission assurance and innovative solutions, enables seamless integration from concept to orbit.

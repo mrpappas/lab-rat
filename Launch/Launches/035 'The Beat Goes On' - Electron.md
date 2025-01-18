@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -15,6 +16,20 @@ payload_mass: 120 kg
 recovery: Success (Ocean Landing)
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/the-beat-goes-on/
 ---
+
+#electron #launch #success
+**Mission Name:** The Beat Goes On
+**Launch Date:** 2023-03-24 09:14
+**Outcome:** Success
+**Customer:** [[BlackSky]]
+**Location:** [[Launch Complex 1]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#LEO]]
+**Target Orbit:** 450 km | 42°
+**Payload Mass:** 120 kg
+**Recovery:** Success (Ocean Landing)
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/the-beat-goes-on/
+
 >[!success] Mission Success
 
 >[!summary]

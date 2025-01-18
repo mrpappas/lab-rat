@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -15,6 +16,20 @@ payload_mass: 100 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/owl-the-way-up/
 ---
+
+#electron #launch #success
+**Mission Name:** Owl The Way Up
+**Launch Date:** 2024-12-21 14:16
+**Outcome:** Success
+**Customer:** [[Synspective]]
+**Location:** [[Launch Complex 1]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#LEO]]
+**Target Orbit:** 574 km 97°
+**Payload Mass:** 100 kg
+**Recovery:** No Attempt
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/owl-the-way-up/
+
 >[!Success] Mission Success
 
 >[!summary]

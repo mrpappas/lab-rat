@@ -1,10 +1,17 @@
 ---
+
 name: Andrew Bunker
 role: Vice President - Government Operations and Business Strategy
 shares_owned: 
 joined: 2018-05-01
 linkedin: https://www.linkedin.com/in/andrew-r-bunker/
 ---
+
+**Name:** Andrew Bunker
+**Role:** Vice President - Government Operations and Business Strategy
+**Shares Owned:** 
+**Joined:** 2018-05-01
+**Linkedin:** https://www.linkedin.com/in/andrew-r-bunker/
 
 ![[Pasted image 20241127003228.png|300]]
 

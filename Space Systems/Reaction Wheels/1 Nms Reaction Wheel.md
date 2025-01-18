@@ -1,6 +1,9 @@
 ---
+
 subsidiary: "[[Sinclair Interplanetary]]"
 ---
+
+**Subsidiary:** [[Sinclair Interplanetary]]
 
 >[!summary]
 Rocket Lab's largest wheel, suitable for 100 kg Earth-observation missions. There are currently 52 units on-orbit on 13 spacecraft, with the first launch in June 2016.

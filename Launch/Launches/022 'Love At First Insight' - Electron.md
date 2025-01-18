@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -18,6 +19,20 @@ payload_mass: 120 kg
 recovery: Success (Ocean Landing)  
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/love-at-first-insight/
 ---
+
+#electron #launch #success
+**Mission Name:** Love At First Insight
+**Launch Date:** 2021-11-18 01:38
+**Outcome:** Success
+**Customer:** [[BlackSky]], [[Spaceflight]]
+**Location:** [[Launch Complex 1]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#LEO]]
+**Target Orbit:** 430 km | 42°
+**Payload Mass:** 120 kg
+**Recovery:** Success (Ocean Landing)
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/love-at-first-insight/
+
 >[!success] Mission Success
 
 >[!summary]
@@ -42,4 +57,3 @@ sort published desc
 ## 🎙️ Press Kit
 
 ![[Rocket-Lab-F22-Love-At-First-Insight-Press-Kit.pdf]]
-

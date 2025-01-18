@@ -1,9 +1,15 @@
 ---
+
 name: Advanced Solutions Inc
 website: https://www.rocketlabusa.com/space-systems/space-software/
 acquired: 2021 October
 cost: $40 million (with an additional performance-based earnout of up to $5.5 million)
 ---
+
+**Name:** Advanced Solutions Inc
+**Website:** https://www.rocketlabusa.com/space-systems/space-software/
+**Acquired:** 2021 October
+**Cost:** $40 million (with an additional performance-based earnout of up to $5.5 million)
 
 >[!summary]
 >Advanced Solutions Inc. (ASI), now a part of Rocket Lab, specializes in innovative space software and mission solutions. ASI is renowned for its Maxwell Autonomous Flight Software, a state-of-the-art guidance, navigation, and control (GNC) system designed to enable fully autonomous spacecraft operations. This software is pivotal for mission success, providing high-precision navigation, robust fault tolerance, and optimized trajectory planning for satellites, spacecraft, and other orbital systems.
@@ -39,6 +45,3 @@ where contains(partner, [[Advanced Solutions Inc]])
 sort Filing_Date desc
 
 ```
-
-
-

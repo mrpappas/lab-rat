@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -15,6 +16,20 @@ payload_mass: 150 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/the-owls-night-continues/
 ---
+
+#electron #launch #success
+**Mission Name:** The Owl's Night Continues
+**Launch Date:** 2022-02-28 20:37
+**Outcome:** Success
+**Customer:** [[Synspective]]
+**Location:** [[Launch Complex 1]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#SSO]]
+**Target Orbit:** 561 km | 97°
+**Payload Mass:** 150 kg
+**Recovery:** No Attempt
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/the-owls-night-continues/
+
 >[!success] Mission Success
 
 >[!summary]

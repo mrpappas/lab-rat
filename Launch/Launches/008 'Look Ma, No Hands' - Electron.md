@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -18,6 +19,20 @@ payload_mass: 80 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/to-be-announced/
 ---
+
+#electron #launch #success
+**Mission Name:** Look Ma, No Hands
+**Launch Date:** 2019-08-19 12:12
+**Outcome:** Success
+**Customer:** [[BlackSky]], [[U.S. Air Force]], [[Unseenlabs]]
+**Location:** [[Launch Complex 1]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#LEO]]
+**Target Orbit:** 510 km | 94.8°
+**Payload Mass:** 80 kg
+**Recovery:** No Attempt
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/to-be-announced/
+
 >[!success] Mission Success
 
 >[!summary]

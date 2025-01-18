@@ -1,6 +1,10 @@
 ---
+
 customer: "[[Space Development Agency (SDA)]]"
 ---
+
+**Customer:** [[Space Development Agency (SDA)]]
+
 >[!summary]
 >In 2020, Rocket Lab was selected by [[Eta Space]] to use [[Electron]] and [[Photon]] to conduct a flight demonstration of a complete cryogenic fluid management system in orbit for [[NASA]] - essentially, build, launch, and test a cryogenic fuel depot in low Earth orbit.
 >

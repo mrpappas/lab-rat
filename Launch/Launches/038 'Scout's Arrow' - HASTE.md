@@ -1,4 +1,5 @@
 ---
+
 tags:
   - haste
   - launch
@@ -15,6 +16,20 @@ payload_mass: unknown
 recovery: n/a
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/scouts-arrow/
 ---
+
+#haste #launch #success
+**Mission Name:** Scout's Arrow
+**Launch Date:** 2023-06-18 01:24
+**Outcome:** Success
+**Customer:** [[Leidos]]
+**Location:** [[Launch Complex 2]]
+**Vehicle:** [[HASTE]]
+**Orbit Type:** n/a
+**Target Orbit:** Suborbital
+**Payload Mass:** unknown
+**Recovery:** n/a
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/scouts-arrow/
+
 >[!success] Mission Success
 
 >[!summary]
@@ -38,5 +53,4 @@ sort published desc
 
 ## 📽️ Launch Video
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/CnS8kBTNY1w" title="Rocket Lab&#39;s Electron - Scout&#39;s Arrow Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
-
+<iframe width="800" height="450" src="https://www.youtube.com/embed/CnS8kBTNY1w" title="Rocket Lab&#39;s Electron - Scout&#39;s Arrow Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

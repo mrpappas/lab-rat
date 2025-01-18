@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -18,6 +19,20 @@ payload_mass: Classified
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/changes-in-latitudes-changes-in-attitudes/
 ---
+
+#electron #launch #success
+**Mission Name:** Changes In Latitudes, Changes In Attitudes
+**Launch Date:** 2024-11-05 10:54
+**Outcome:** Success
+**Customer:** [[E-Space]], Confidential Customer
+**Location:** [[Launch Complex 1]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#LEO]]
+**Target Orbit:** Classified
+**Payload Mass:** Classified
+**Recovery:** No Attempt
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/changes-in-latitudes-changes-in-attitudes/
+
 >[!Success] Mission Success
 
 >[!summary]
@@ -51,4 +66,4 @@ sort published desc
 
 ## 🎙️ Press Kit
 
-🚫 No Press Kit. Confidential customer. 
+🚫 No Press Kit. Confidential customer.

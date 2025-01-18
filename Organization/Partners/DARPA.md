@@ -1,7 +1,11 @@
 ---
+
 name: DARPA (Defense Advanced Research Projects Agency)
 website: https://www.darpa.mil/
 ---
+
+**Name:** DARPA (Defense Advanced Research Projects Agency)
+**Website:** https://www.darpa.mil/
 
 >[!summary]
 >The Defense Advanced Research Projects Agency (DARPA) is a research and development agency of the United States Department of Defense that focuses on developing new technologies for the military. DARPA's mission is to make significant investments in breakthrough technologies that will transform national security.

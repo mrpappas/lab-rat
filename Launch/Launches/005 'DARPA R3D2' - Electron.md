@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -15,6 +16,20 @@ payload_mass: 150 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/darpa-r3d2/
 ---
+
+#electron #launch #success
+**Mission Name:** DARPA R3D2
+**Launch Date:** 2019-03-28 23:27
+**Outcome:** Success
+**Customer:** [[DARPA]]
+**Location:** [[Launch Complex 1]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#LEO]]
+**Target Orbit:** 425 km | 39.5°
+**Payload Mass:** 150 kg
+**Recovery:** No Attempt
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/darpa-r3d2/
+
 >[!success] Mission Success
 
 >[!summary]

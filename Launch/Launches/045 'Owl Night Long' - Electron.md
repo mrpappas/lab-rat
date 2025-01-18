@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -17,6 +18,19 @@ payload_mass: 100 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/owl-night-long/
 ---
+
+#electron #launch #success
+**Mission Name:** Owl Night Long
+**Launch Date:** 2024-03-12 14:00
+**Outcome:** Success
+**Customer:** [[Synspective]]
+**Location:** [[Launch Complex 1]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#SSO]]
+**Target Orbit:** 561 km | 97°
+**Payload Mass:** 100 kg
+**Recovery:** No Attempt
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/owl-night-long/
 
 >[!Success] Mission Success
 

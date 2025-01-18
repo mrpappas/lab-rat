@@ -1,6 +1,9 @@
 ---
+
 subsidiary: "[[Sinclair Interplanetary]]"
 ---
+
+**Subsidiary:** [[Sinclair Interplanetary]]
 
 >[!summary]
 >Rocket Lab's mid-sized wheel designed for spacecraft classes within 250-600 kg range. The design leverages the same principles and high reliability parts with flight heritage in our other 

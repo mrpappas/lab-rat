@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -15,6 +16,20 @@ payload_mass: Unknown
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/its-a-little-chile-up-here/
 ---
+
+#electron #launch #success
+**Mission Name:** It's A Little Chile Up Here
+**Launch Date:** 2021-07-29 06:00
+**Outcome:** Success
+**Customer:** [[U.S. Space Force]]
+**Location:** [[Launch Complex 1]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#LEO]]
+**Target Orbit:** 600 km | 37°
+**Payload Mass:** Unknown
+**Recovery:** No Attempt
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/its-a-little-chile-up-here/
+
 >[!success] Mission Success
 
 >[!summary]

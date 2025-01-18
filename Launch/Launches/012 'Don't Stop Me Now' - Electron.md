@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -19,6 +20,20 @@ payload_mass: Classified
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/dont-stop-me-now/
 ---
+
+#electron #launch #success
+**Mission Name:** Don't Stop Me Now
+**Launch Date:** 2020-06-13 05:12
+**Outcome:** Success
+**Customer:** [[Boston University]], [[NASA]], [[National Reconnaissance Office (NRO)]], [[UNSW Canberra Space]]
+**Location:** [[Launch Complex 1]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#LEO]]
+**Target Orbit:** 570 x 590 km | 97.75°
+**Payload Mass:** Classified
+**Recovery:** No Attempt
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/dont-stop-me-now/
+
 >[!success] Mission Success
 
 >[!summary] 

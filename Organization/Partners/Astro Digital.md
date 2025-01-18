@@ -1,7 +1,11 @@
 ---
+
 name: Astro Digital
 website: https://astrodigital.com/
 ---
+
+**Name:** Astro Digital
+**Website:** https://astrodigital.com/
 
 >[!summary]
 Astro Digital is a satellite manufacturer and operator specializing in delivering turnkey solutions for Earth observation, communications, and data analytics. The company focuses on designing, building, and operating small satellite systems to provide rapid access to data for commercial and government customers. Astro Digital offers customizable platforms for satellite missions, including payload integration, mission operations, and ground support. Known for its flexible approach, the company serves clients requiring Earth imagery, environmental monitoring, and IoT data transmission.

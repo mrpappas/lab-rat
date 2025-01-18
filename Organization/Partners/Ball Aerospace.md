@@ -1,7 +1,11 @@
 ---
+
  name: Ball Aerospace
  website: https://en.wikipedia.org/wiki/Ball_Aerospace_%26_Technologies
 ---
+
+**Name:** Ball Aerospace
+**Website:** https://en.wikipedia.org/wiki/Ball_Aerospace_%26_Technologies
 
 >[!summary]
 >Ball Aerospace & Technologies Corp., commonly Ball Aerospace, was an American manufacturer of spacecraft, components and instruments for national defense, civil space and commercial space applications.

@@ -1,4 +1,5 @@
 ---
+
 tags:
   - haste
   - launch
@@ -15,6 +16,20 @@ payload_mass: unknown
 recovery: n/a
 mission_link: 
 ---
+
+#haste #launch #success
+**Mission Name:** Stonehendge
+**Launch Date:** 2024-12-13 00:00
+**Outcome:** Success
+**Customer:** Unknown*
+**Location:** [[Launch Complex 2]]
+**Vehicle:** [[HASTE]]
+**Orbit Type:** n/a
+**Target Orbit:** Suborbital
+**Payload Mass:** unknown
+**Recovery:** n/a
+**Mission Link:** None
+
 >[!Success] Mission Success
 
 >[!summary]

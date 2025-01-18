@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -21,6 +22,20 @@ payload_mass: Unknown
 recovery: Partial Failure (Aerial Capture)
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/there-and-back-again/
 ---
+
+#electron #launch #success
+**Mission Name:** There And Back Again
+**Launch Date:** 2022-05-02 22:49
+**Outcome:** Success
+**Customer:** [[Alba Orbital]], [[Astrix Astronautics]], [[Aurora Propulsion Technologies]], [[E-Space]], [[Spaceflight]], [[Unseenlabs]]
+**Location:** [[Launch Complex 1]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#SSO]]
+**Target Orbit:** 520 km | 94°
+**Payload Mass:** Unknown
+**Recovery:** Partial Failure (Aerial Capture)
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/there-and-back-again/
+
 >[!success] Mission Success
 
 >[!summary]

@@ -1,4 +1,5 @@
 ---
+
 name: Matthew Ocko
 role: Board Member (DCVC)
 shares_owned: 3,388,249
@@ -7,6 +8,13 @@ linkedin: https://www.linkedin.com/in/mattocko/
 tags: 
  - board-member
 ---
+
+#board-member
+**Name:** Matthew Ocko
+**Role:** Board Member (DCVC)
+**Shares Owned:** 3,388,249
+**Joined:** 2021-09-07
+**Linkedin:** https://www.linkedin.com/in/mattocko/
 
 ![[Pasted image 20241126235532.png|300]]
 

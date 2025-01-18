@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -15,6 +16,20 @@ payload_mass: Classified
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/antipodean-adventure/
 ---
+
+#electron #launch #success
+**Mission Name:** Antipodean Adventure
+**Launch Date:** 2022-08-04 05:00
+**Outcome:** Success
+**Customer:** [[National Reconnaissance Office (NRO)]]
+**Location:** [[Launch Complex 1]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#LEO]]
+**Target Orbit:** 620 km | 70°
+**Payload Mass:** Classified
+**Recovery:** No Attempt
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/antipodean-adventure/
+
 >[!success] Mission Success
 
 >[!summary]

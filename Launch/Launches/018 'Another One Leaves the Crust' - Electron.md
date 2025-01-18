@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -15,6 +16,20 @@ payload_mass: 50 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/another-one-leaves-the-crust/
 ---
+
+#electron #launch #success
+**Mission Name:** Another One Leaves The Crust
+**Launch Date:** 2021-01-20 07:26
+**Outcome:** Success
+**Customer:** [[OHB Group]]
+**Location:** [[Launch Complex 1]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#LEO]]
+**Target Orbit:** 1200 km | 90°
+**Payload Mass:** 50 kg
+**Recovery:** No Attempt
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/another-one-leaves-the-crust/
+
 >[!success] Mission Success
 
 >[!summary]

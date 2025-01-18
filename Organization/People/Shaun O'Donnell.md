@@ -6,6 +6,12 @@ joined: 2007-09-01
 linkedin: https://www.linkedin.com/in/shaun-o-donnell-30b22a4a/
 ---
 
+**Name:** Shaun O'Donnell
+**Role:** Chief Engineer - Special Projects
+**Shares Owned:** 705,485
+**Joined:** 2007-09-01
+**Linkedin**: https://www.linkedin.com/in/shaun-o-donnell-30b22a4a/
+
 ![[Pasted image 20241127002707.png|300]]
 
 >[!summary]

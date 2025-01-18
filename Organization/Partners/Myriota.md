@@ -1,7 +1,11 @@
 ---
+
 name: Myriota
 website: https://myriota.com/
 ---
+
+**Name:** Myriota
+**Website:** https://myriota.com/
 
 >[!summary]
 Myriota is an Australian company specializing in low-power, direct-to-satellite IoT (Internet of Things) connectivity. Headquartered in Adelaide, Myriota provides affordable and efficient solutions for transmitting small amounts of data from remote sensors and devices via its satellite constellation.

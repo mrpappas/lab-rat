@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -16,6 +17,20 @@ payload_mass: 224 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/stronger-together/
 ---
+
+#electron #launch #success
+**Mission Name:** Stronger Together
+**Launch Date:** 2023-03-16 22:38
+**Outcome:** Success
+**Customer:** [[Capella Space]]
+**Location:** [[Launch Complex 2]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#LEO]]
+**Target Orbit:** 600 km | 44°
+**Payload Mass:** 224 kg
+**Recovery:** No Attempt
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/stronger-together/
+
 >[!success] Mission Success
 
 >[!summary]

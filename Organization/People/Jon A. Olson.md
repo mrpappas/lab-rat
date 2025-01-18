@@ -1,4 +1,5 @@
 ---
+
 name: Jon A. Olson
 role: Independent Director
 shares_owned: 432,275
@@ -7,6 +8,13 @@ linkedin: https://www.linkedin.com/in/jon-olson-70055711/
 tags:
  - board-member
 ---
+
+#board-member
+**Name:** Jon A. Olson
+**Role:** Independent Director
+**Shares Owned:** 432,275
+**Joined:** 2021-09-07
+**Linkedin:** https://www.linkedin.com/in/jon-olson-70055711/
 
 ![[Pasted image 20241126235617.png|300]]
 

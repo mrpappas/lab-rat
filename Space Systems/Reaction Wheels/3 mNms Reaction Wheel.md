@@ -1,6 +1,9 @@
 ---
+
 subsidiary: "[[Sinclair Interplanetary]]"
 ---
+
+**Subsidiary:** [[Sinclair Interplanetary]]
 
 >[!summary]
 >This wheel is so tiny that 3 wheels can be carried in a 1U Cubesat. A 4-wheel pyramid configuration is also possible.

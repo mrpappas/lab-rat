@@ -6,6 +6,12 @@ joined: 2024-12-03
 linkedin: https://www.linkedin.com/in/vinod-khosla-65387416/
 ---
 
+**Name:** Vinod Khosla
+**Role:** Director (Khosla Ventures)
+**Shares Owned:** 26,323,617 (Indirect)  
+**Joined:** 2024-12-03
+**Linkedin**: https://www.linkedin.com/in/vinod-khosla-65387416/
+
 ![[Pasted image 20241208020117.png|300]]
 
 >[!summary]
@@ -24,12 +30,13 @@ sort Filing_Date desc
 ```
 %%
 
-| File                                                                                            | Filing Type                                      | Date              |
-| ----------------------------------------------------------------------------------------------- | ------------------------------------------------ | ----------------- |
-| [[Filings/2024/Form 4/12-03-24 Form 4 - Khosla Ventures.md\|12-03-24 Form 4 - Khosla Ventures]] | [[Filings/Filing Definitions.md#Form 4\|Form 4]] | December 03, 2024 |
-| [[Filings/2024/Form 4/8-28-24 Form 4 - Khosla Ventures.md\|8-28-24 Form 4 - Khosla Ventures]]   | [[Filings/Filing Definitions.md#Form 4\|Form 4]] | August 28, 2024   |
-| [[Filings/2024/Form 4/8-14-24 Form 4 - Khosla Ventures.md\|8-14-24 Form 4 - Khosla Ventures]]   | [[Filings/Filing Definitions.md#Form 4\|Form 4]] | August 14, 2024   |
-| [[Filings/2024/Form 4/5-13-24 Form 4 - Khosla Ventures.md\|5-13-24 Form 4 - Khosla Ventures]]   | [[Filings/Filing Definitions.md#Form 4\|Form 4]] | May 13, 2024      |
+| File                                                                                                | Filing Type                                      | Date              |
+| --------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ----------------- |
+| [[Filings/2025/Form 4/2025-01-14 Form 4 - Khosla Ventures.md\|2025-01-14 Form 4 - Khosla Ventures]] | [[Filings/Filing Definitions.md#Form 4\|Form 4]] | January 14, 2025  |
+| [[Filings/2024/Form 4/12-03-24 Form 4 - Khosla Ventures.md\|12-03-24 Form 4 - Khosla Ventures]]     | [[Filings/Filing Definitions.md#Form 4\|Form 4]] | December 03, 2024 |
+| [[Filings/2024/Form 4/8-28-24 Form 4 - Khosla Ventures.md\|8-28-24 Form 4 - Khosla Ventures]]       | [[Filings/Filing Definitions.md#Form 4\|Form 4]] | August 28, 2024   |
+| [[Filings/2024/Form 4/8-14-24 Form 4 - Khosla Ventures.md\|8-14-24 Form 4 - Khosla Ventures]]       | [[Filings/Filing Definitions.md#Form 4\|Form 4]] | August 14, 2024   |
+| [[Filings/2024/Form 4/5-13-24 Form 4 - Khosla Ventures.md\|5-13-24 Form 4 - Khosla Ventures]]       | [[Filings/Filing Definitions.md#Form 4\|Form 4]] | May 13, 2024      |
 
 %%DATAVIEW_PUBLISHER: end %%
 

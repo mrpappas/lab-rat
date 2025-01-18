@@ -1,4 +1,5 @@
 ---
+
 tags:
   - haste
   - launch
@@ -15,6 +16,20 @@ payload_mass: unknown
 recovery: n/a
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/haste-a-la-vista/
 ---
+
+#haste #launch #success
+**Mission Name:** HASTE A La Vista
+**Launch Date:** 2024-11-24 06:00
+**Outcome:** Success
+**Customer:** [[U.S. Department of Defense]]
+**Location:** [[Launch Complex 2]]
+**Vehicle:** [[HASTE]]
+**Orbit Type:** n/a
+**Target Orbit:** Suborbital
+**Payload Mass:** unknown
+**Recovery:** n/a
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/haste-a-la-vista/
+
 >[!Success] Mission Success
 
 >[!summary]

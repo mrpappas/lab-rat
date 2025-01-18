@@ -1,10 +1,17 @@
 ---
+
 name: Alek Derejian
 role: Vice President - New Zealand Operations
 shares_owned: 
 joined: 2020-10-1
 linkedin: https://www.linkedin.com/in/aderejian/
 ---
+
+**Name:** Alek Derejian
+**Role:** Vice President - New Zealand Operations
+**Shares Owned:** 
+**Joined:** 2020-10-1
+**Linkedin:** https://www.linkedin.com/in/aderejian/
 
 ![[Pasted image 20241127002841.png|300]]
 

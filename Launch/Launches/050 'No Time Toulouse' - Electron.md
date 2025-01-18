@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -15,6 +16,20 @@ payload_mass: 150 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/no-time-toulouse/
 ---
+
+#electron #launch #success
+**Mission Name:** No Time Toulouse
+**Launch Date:** 2024-06-18 18:13
+**Outcome:** Success
+**Customer:** [[Kinéis]]
+**Location:** [[Launch Complex 1]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#SSO]]
+**Target Orbit:** 635 km | 98°
+**Payload Mass:** 150 kg
+**Recovery:** No Attempt
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/no-time-toulouse/
+
 >[!Success] Mission Success
 
 >[!summary]

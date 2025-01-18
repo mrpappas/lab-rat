@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -15,7 +16,21 @@ payload_mass: 15 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/prefire-and-ice/
 ---
- >[!Success] Mission Success
+
+#electron #launch #success
+**Mission Name:** PREFIRE and ICE
+**Launch Date:** 2024-06-05 03:15
+**Outcome:** Success
+**Customer:** [[NASA]]
+**Location:** [[Launch Complex 1]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#SSO]]
+**Target Orbit:** 525 km | 97.5°
+**Payload Mass:** 15 kg
+**Recovery:** No Attempt
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/prefire-and-ice/
+
+>[!Success] Mission Success
  
 >[!summary]
 'PREFIRE and Ice' was the second of two back-to-back dedicated [[Electron]] launches for NASA's PREFIRE mission [Polar Radiant Energy in the Far-InfraRed Experiment](https://science.nasa.gov/mission/prefire/)

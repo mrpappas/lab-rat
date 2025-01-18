@@ -1,8 +1,11 @@
 ---
+
 name: Capella Space
 website: https://www.capellaspace.com/
 ---
 
+**Name:** Capella Space
+**Website:** https://www.capellaspace.com/
 
 >[!summary]
 Capella Space is an American space tech company with data and satellite solutions for government and commercial use. A pioneer in the Earth observation industry, Capella is the first U.S. company with a constellation of [[📦 Payload Types#Synthetic Aperture Radar (SAR)|Synthetic Aperture Rader (SAR)]] satellites, delivering the best quality, highest resolution SAR imagery commercially available. Capella provides easy access to frequent and timely information affecting dozens of industries worldwide, including defense and intelligence, supply chain, insurance, maritime and others. Its market-leading SAR satellites are matched with unparalleled data infrastructure to quickly deliver reliable global insights that sharpen our understanding of the changing world – improving decisions about commerce, conservation, and security on Earth. Headquartered in San Francisco, California with additional locations in Denver, Colorado and Washington, D.C., Capella's satellites are operated, designed, and manufactured in the USA.

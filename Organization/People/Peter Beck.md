@@ -1,12 +1,19 @@
 ---
 name: Peter Beck
 role: Founder, President and Chief Executive Officer, Chair of the Board
-shares_owned: 50,951,250 (indirect)
+shares_owned: 789,373 (direct), 50,951,250 (indirect)
 joined: 2006-01-01
 linkedin: https://www.linkedin.com/in/peter-beck-ab7b63b/
 tags:
  - board-member
 ---
+
+**Name:** Peter Beck
+**Role:** Founder, President and Chief Executive Officer, Chair of the Board
+**Shares Owned:** 50,951,250 (indirect)
+**Joined:** 2023-11-01
+**Linkedin**: https://www.linkedin.com/in/peter-beck-ab7b63b/
+
 ![[Pasted image 20241126235110.png|450]]
 
 >[!summary]
@@ -26,16 +33,19 @@ sort Filing_Date desc
 ```
 %%
 
-| File                                                                                                                                         | Filing Type                                                  | Date               |
-| -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ------------------ |
-| [[Filings/2024/13G+13D/12-05-24 SC 13DA - Peter Beck.md\|12-05-24 SC 13DA - Peter Beck]]                                                     | [[Filings/Filing Definitions.md#Schedule 13D\|Schedule 13D]] | December 05, 2024  |
-| [[Filings/2024/8-K/12-05-24 8-K - Preferred Stock Agreement – Sir Peter Beck.md\|12-05-24 8-K - Preferred Stock Agreement – Sir Peter Beck]] | [[Filings/Filing Definitions.md#8-K\|Form 8-K]]              | December 05, 2024  |
-| [[Filings/2024/Form 4/12-05-24 Form 4 - Peter Beck.md\|12-05-24 Form 4 - Peter Beck]]                                                        | [[Filings/Filing Definitions.md#Form 4\|Form 4]]             | December 05, 2024  |
-| [[Filings/2023/13G+13D/9-18-23 SC 13DA - Peter Beck.md\|9-18-23 SC 13DA - Peter Beck]]                                                       | [[Filings/Filing Definitions.md#Schedule 13D\|Schedule 13D]] | September 18, 2023 |
-| [[Filings/2023/Form 4/9-13-23 Form 4 - Peter Beck.md\|9-13-23 Form 4 - Peter Beck]]                                                          | [[Filings/Filing Definitions.md#Form 4\|Form 4]]             | September 13, 2023 |
-| [[Filings/2023/Form 144/9-11-23 Form 144 - Peter Beck.md\|9-11-23 Form 144 - Peter Beck]]                                                    | [[Filings/Filing Definitions.md#Form 144\|Form 144]]         | September 11, 2023 |
-| [[Filings/2021/13G+13D/9-07-21 SC 13D - Peter Beck.md\|9-07-21 SC 13D - Peter Beck]]                                                         | [[Filings/Filing Definitions.md#Schedule 13D\|Schedule 13D]] | September 07, 2021 |
-| [[Filings/2021/Form 3/9-07-21 Form 3 - Peter Beck.md\|9-07-21 Form 3 - Peter Beck]]                                                          | [[Filings/Filing Definitions.md#Form 3\|Form 3]]             | September 07, 2021 |
+| File                                                                                                                                                             | Filing Type                                                  | Date               |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ------------------ |
+| [[Filings/2025/Form 4/2025-01-10 Form 4 - Peter Beck.md\|2025-01-10 Form 4 - Peter Beck]]                                                                        | [[Filings/Filing Definitions.md#Form 4\|Form 4]]             | January 10, 2025   |
+| [[Filings/2025/13G + 13D/01-07-2025 13D - Preferred Stock Exchange and Ownership Details.md\|01-07-2025 13D - Preferred Stock Exchange and Ownership Details]]   | [[Filings/Filing Definitions.md#Schedule 13D\|Schedule 13D]] | January 07, 2025   |
+| [[Filings/2025/8-K/01-07-2025 8-K - Preferred Stock Exchange with The Equatorial Trust.md\|01-07-2025 8-K - Preferred Stock Exchange with The Equatorial Trust]] | [[Filings/Filing Definitions.md#8-K\|8-K]]                   | January 07, 2025   |
+| [[Filings/2024/13G+13D/12-05-24 SC 13DA - Peter Beck.md\|12-05-24 SC 13DA - Peter Beck]]                                                                         | [[Filings/Filing Definitions.md#Schedule 13D\|Schedule 13D]] | December 05, 2024  |
+| [[Filings/2024/8-K/12-05-24 8-K - Preferred Stock Agreement – Sir Peter Beck.md\|12-05-24 8-K - Preferred Stock Agreement – Sir Peter Beck]]                     | [[Filings/Filing Definitions.md#8-K\|Form 8-K]]              | December 05, 2024  |
+| [[Filings/2024/Form 4/12-05-24 Form 4 - Peter Beck.md\|12-05-24 Form 4 - Peter Beck]]                                                                            | [[Filings/Filing Definitions.md#Form 4\|Form 4]]             | December 05, 2024  |
+| [[Filings/2023/13G+13D/9-18-23 SC 13DA - Peter Beck.md\|9-18-23 SC 13DA - Peter Beck]]                                                                           | [[Filings/Filing Definitions.md#Schedule 13D\|Schedule 13D]] | September 18, 2023 |
+| [[Filings/2023/Form 4/9-13-23 Form 4 - Peter Beck.md\|9-13-23 Form 4 - Peter Beck]]                                                                              | [[Filings/Filing Definitions.md#Form 4\|Form 4]]             | September 13, 2023 |
+| [[Filings/2023/Form 144/9-11-23 Form 144 - Peter Beck.md\|9-11-23 Form 144 - Peter Beck]]                                                                        | [[Filings/Filing Definitions.md#Form 144\|Form 144]]         | September 11, 2023 |
+| [[Filings/2021/13G+13D/9-07-21 SC 13D - Peter Beck.md\|9-07-21 SC 13D - Peter Beck]]                                                                             | [[Filings/Filing Definitions.md#Schedule 13D\|Schedule 13D]] | September 07, 2021 |
+| [[Filings/2021/Form 3/9-07-21 Form 3 - Peter Beck.md\|9-07-21 Form 3 - Peter Beck]]                                                                              | [[Filings/Filing Definitions.md#Form 3\|Form 3]]             | September 07, 2021 |
 
 %%DATAVIEW_PUBLISHER: end %%
 

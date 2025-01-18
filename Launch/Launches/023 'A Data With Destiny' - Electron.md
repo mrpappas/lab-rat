@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -15,6 +16,20 @@ payload_mass: 120 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/a-data-with-destiny/
 ---
+
+#electron #launch #success
+**Mission Name:** A Data With Destiny
+**Launch Date:** 2021-12-09 00:02
+**Outcome:** Success
+**Customer:** [[BlackSky]]
+**Location:** [[Launch Complex 1]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#LEO]]
+**Target Orbit:** 430 km | 42°
+**Payload Mass:** 120 kg
+**Recovery:** No Attempt
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/a-data-with-destiny/
+
 >[!success] Mission Success
 
 >[!summary]

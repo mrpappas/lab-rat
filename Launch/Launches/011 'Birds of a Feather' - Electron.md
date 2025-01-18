@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -15,6 +16,20 @@ payload_mass: Classified
 recovery: Controlled (Atmosphere Test)
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/birds-of-a-feather/
 ---
+
+#electron #launch #success
+**Mission Name:** Birds of a Feather
+**Launch Date:** 2020-01-31 02:56
+**Outcome:** Success
+**Customer:** [[National Reconnaissance Office (NRO)]]
+**Location:** [[Launch Complex 1]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#LEO]]
+**Target Orbit:** 400 km | 37°
+**Payload Mass:** Classified
+**Recovery:** Controlled (Atmosphere Test)
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/birds-of-a-feather/
+
 >[!success] Mission Success
 
 >[!summary] 

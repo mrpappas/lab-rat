@@ -1,6 +1,9 @@
 ---
+
 subsidiary: "[[Advanced Solutions Inc]]"
 ---
+
+**Subsidiary:** [[Advanced Solutions Inc]]
 
 >[!summary]
 >Flight proven off-the-shelf flight software providing the foundation for complex space missions from day one.

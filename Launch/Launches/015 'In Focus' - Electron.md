@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -18,6 +19,20 @@ payload_mass: 72 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/in-focus/
 ---
+
+#electron #launch #success
+**Mission Name:** In Focus
+**Launch Date:** 2020-10-28 21:21
+**Outcome:** Success
+**Customer:** [[Planet Labs]], [[Spaceflight]], [[Canon Electronics]]
+**Location:** [[Launch Complex 1]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#SSO]]
+**Target Orbit:** 500 km | 97.5°
+**Payload Mass:** 72 kg
+**Recovery:** No Attempt
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/in-focus/
+
 >[!success] Mission Success
 
 >[!summary]

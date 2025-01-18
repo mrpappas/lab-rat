@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -17,7 +18,21 @@ payload_mass: 115 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/beginning-of-the-swarm/
 ---
- >[!Success] Mission Success
+
+#electron #launch #success
+**Mission Name:** Beginning Of The Swarm
+**Launch Date:** 2024-04-23 22:00
+**Outcome:** Success
+**Customer:** [[NASA]], [[Korea Advanced Institute of Science and Technology]]
+**Location:** [[Launch Complex 1]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#SSO]]
+**Target Orbit:** 520 km (Neonsat-1), 1,000 km (ACS3), 97°
+**Payload Mass:** 115 kg
+**Recovery:** No Attempt
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/beginning-of-the-swarm/
+
+>[!Success] Mission Success
 
 >[!summary]
 The ‘Beginning Of The Swarm’ mission launched from Rocket Lab [[Launch Complex 1]] in Mahia, New Zealand at 10:32 am NZT on April 24th, 2024. [[Electron]] carried two satellites for two separate customers: NEONSAT-1, an Earth observation satellite for the Satellite Technology Research Center (SaTReC) at the [[Korea Advanced Institute of Science and Technology]] (KAIST), and [[NASA]]’s Advanced Composite Solar Sail System (ACS3).

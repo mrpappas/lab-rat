@@ -1,6 +1,10 @@
 ---
+
 customer: "[[Space Development Agency (SDA)]]"
 ---
+
+**Customer:** [[Space Development Agency (SDA)]]
+
 >[!summary]
 Tranche 1 of [[SDA Proliferated Warfighter Space Architecture (PWSA)]]. Serves as the backbone for Joint All Domain Command and Control (JADC2), providing regional persistence for Link 16, advanced missile tracking and warning, and beyond-line-of-sight targeting.
 >

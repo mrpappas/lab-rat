@@ -1,6 +1,9 @@
 ---
+
 subsidiary: "[[Sinclair Interplanetary]]"
 ---
+
+**Subsidiary:** [[Sinclair Interplanetary]]
 
 >[!summary]
 >This wheel packs high-torque motor phase current control electronics into a small package. There are 52 units on-orbit on 16 spacecraft, with the first launch in June 2014.

@@ -1,7 +1,11 @@
 ---
+
 name: Astroscale-Japan
 website: https://astroscale.com/
 ---
+
+**Name:** Astroscale-Japan
+**Website:** https://astroscale.com/
 
 >[!summary]
 Astroscale-Japan is a subsidiary of Astroscale Holdings, a company dedicated to addressing space sustainability by providing on-orbit servicing solutions. Focused on debris removal, satellite life extension, and end-of-life services, Astroscale develops technologies to clean up existing space debris and ensure responsible satellite deorbiting. The company’s missions, such as *ELSA-d* (End-of-Life Services by Astroscale-demonstration) and *ADRAS-J* (Active Debris Removal by Astroscale-Japan), demonstrate capabilities in docking with, capturing, and deorbiting defunct satellites and debris to maintain a sustainable space environment.

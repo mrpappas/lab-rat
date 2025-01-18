@@ -1,3 +1,6 @@
+
+>[!tip] For more info on Rocket Lab's SEC filings [check out their investor relations page](https://investors.rocketlabusa.com/financials/sec-filings/default.aspx)
+
 %% DATAVIEW_PUBLISHER: start
 ```
 table Filing_Type as "Filing Type", Filing_Date as "Date"
@@ -10,6 +13,10 @@ sort Filing_Date desc
 
 | File                                                                                                                                                                                                                                | Filing Type                                                        | Date               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------ |
+| [[Filings/2025/Form 4/2025-01-14 Form 4 - Khosla Ventures.md\|2025-01-14 Form 4 - Khosla Ventures]]                                                                                                                                 | [[Filings/Filing Definitions.md#Form 4\|Form 4]]                   | January 14, 2025   |
+| [[Filings/2025/Form 4/2025-01-10 Form 4 - Peter Beck.md\|2025-01-10 Form 4 - Peter Beck]]                                                                                                                                           | [[Filings/Filing Definitions.md#Form 4\|Form 4]]                   | January 10, 2025   |
+| [[Filings/2025/13G + 13D/01-07-2025 13D - Preferred Stock Exchange and Ownership Details.md\|01-07-2025 13D - Preferred Stock Exchange and Ownership Details]]                                                                      | [[Filings/Filing Definitions.md#Schedule 13D\|Schedule 13D]]       | January 07, 2025   |
+| [[Filings/2025/8-K/01-07-2025 8-K - Preferred Stock Exchange with The Equatorial Trust.md\|01-07-2025 8-K - Preferred Stock Exchange with The Equatorial Trust]]                                                                    | [[Filings/Filing Definitions.md#8-K\|8-K]]                         | January 07, 2025   |
 | [[Filings/2024/Form 4/12-12-24 Form 4 - Edward H. Frank.md\|12-12-24 Form 4 - Edward H. Frank]]                                                                                                                                     | [[Filings/Filing Definitions.md#Form 4\|Form 4]]                   | December 12, 2024  |
 | [[Filings/2024/Form 144/12-11-24 Form 144- Nina Armagno.md\|12-11-24 Form 144- Nina Armagno]]                                                                                                                                       | [[Filings/Filing Definitions.md#Form 144\|Form 144]]               | December 11, 2024  |
 | [[Filings/2024/13G+13D/12-05-24 SC 13DA - Peter Beck.md\|12-05-24 SC 13DA - Peter Beck]]                                                                                                                                            | [[Filings/Filing Definitions.md#Schedule 13D\|Schedule 13D]]       | December 05, 2024  |

@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -17,6 +18,20 @@ payload_mass: 180 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/stp-27rd/
 ---
+
+#electron #launch #success
+**Mission Name:** STP-27RD
+**Launch Date:** 2019-05-05 06:00
+**Outcome:** Success
+**Customer:** [[U.S. Air Force]], [[York Space Systems]]
+**Location:** [[Launch Complex 1]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#LEO]]
+**Target Orbit:** 500 km | 40°
+**Payload Mass:** 180 kg
+**Recovery:** No Attempt
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/stp-27rd/
+
 >[!success] Mission Success
 
 >[!summary]

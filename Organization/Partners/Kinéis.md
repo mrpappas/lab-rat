@@ -1,7 +1,11 @@
 ---
+
 name: Kinéis
 website: https://www.kineis.com/en/spatial-iot-connectivity/
 ---
+
+**Name:** Kinéis
+**Website:** https://www.kineis.com/en/spatial-iot-connectivity/
 
 >[!summary]
 **Kinéis** is a French company specializing in **[[📦 Payload Types#Internet of Things (IoT)|Internet of Things (IoT)]]** connectivity through satellite technology. The company operates a constellation of nanosatellites designed to provide global IoT connectivity, enabling devices in remote or inaccessible locations to transmit data. 
@@ -67,4 +71,3 @@ The Kinéis IoT satellites are a constellation of advanced nanosatellites design
 ## ✏️ Notes
 
 Kinéis currently operates the [Argos System](https://en.wikipedia.org/wiki/Argos_(satellite_system)), an international scientific collaboration between [[CNES]], the National Oceanic and Atmospheric Administration (NOAA), the European Organization for the Exploitation of Meteorological Satellites (EUMETSAT) and the Indian Space Research Organization (ISRO), to monitor wildlife, fisheries, and to collect data about Earth’s climate and environment through CLS. Kinéis’ new constellation will complete the current system with more powerful 30kg-class nanosats that integrate IoT technology and a ship-tracking Automatic Identification System (AIS). Once deployed, this technology will allow Kinéis to expand across multiple industries and scale from 20,000 devices connected to millions.
-

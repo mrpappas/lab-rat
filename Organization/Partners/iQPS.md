@@ -1,8 +1,11 @@
 ---
+
 name: iQPS (Institute for Q-shu Pioneers of Space, Inc.)
 website: https://i-qps.net/en/
 ---
 
+**Name:** iQPS (Institute for Q-shu Pioneers of Space, Inc.)
+**Website:** https://i-qps.net/en/
 
 >[!summary]
 iQPS (Institute for Q-shu Pioneers of Space) is a Japanese company focused on developing and deploying synthetic aperture radar (SAR) satellites.

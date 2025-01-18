@@ -1,4 +1,5 @@
 ---
+
 name: Alexander R. Slusky
 role: Board Member (Vector Capital)
 shares_owned: 119,889
@@ -7,6 +8,13 @@ linkedin: https://www.linkedin.com/in/alex-slusky-02a7/
 tags:
   - board-member
 ---
+
+#board-member
+**Name:** Alexander R. Slusky
+**Role:** Board Member (Vector Capital)
+**Shares Owned:** 119,889
+**Joined:** 2020-09-24
+**Linkedin:** https://www.linkedin.com/in/alex-slusky-02a7/
 
 ![[Pasted image 20241126235832.png|300]]
 

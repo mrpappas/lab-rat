@@ -5,6 +5,11 @@ shares_owned:
 joined: 2017-08-01
 linkedin: https://www.linkedin.com/in/morgan-connaughton-4a211835/
 ---
+**Name:** Morgan Connaughton
+**Role:** Vice President - Marketing and Communications
+**Shares Owned:** 
+**Joined:** 2017-08-01
+**Linkedin**: https://www.linkedin.com/in/morgan-connaughton-4a211835/
 
 ![[Pasted image 20241127003422.png|300]]
 

@@ -1,6 +1,9 @@
 ---
+
 subsidiary: "[[Sinclair Interplanetary]]"
 ---
+
+**Subsidiary:** [[Sinclair Interplanetary]]
 
 >[!summary]
 >This wheel is ideally suited for smaller cubesats. There are 10 units on-orbit on 4 spacecraft, with the first launch in June 2014

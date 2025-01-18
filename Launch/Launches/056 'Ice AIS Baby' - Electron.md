@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -15,6 +16,20 @@ payload_mass: 150 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/ice-ais-baby/
 ---
+
+#electron #launch #success
+**Mission Name:** Ice AIS Baby
+**Launch Date:** 2024-11-25 04:55
+**Outcome:** Success
+**Customer:** [[Kinéis]]
+**Location:** [[Launch Complex 1]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#LEO]]
+**Target Orbit:** 643 km 97
+**Payload Mass:** 150 kg
+**Recovery:** No Attempt
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/ice-ais-baby/
+
 >[!Success] Mission Success
 
 >[!summary]

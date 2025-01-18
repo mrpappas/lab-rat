@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -15,6 +16,20 @@ payload_mass: 10 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/coming-to-a-storm-near-you/
 ---
+
+#electron #launch #success
+**Mission Name:** Coming To A Storm Near You
+**Launch Date:** 2023-05-26 03:46
+**Outcome:** Success
+**Customer:** [[NASA]]
+**Location:** [[Launch Complex 1]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#LEO]]
+**Target Orbit:** 550 km | 32°
+**Payload Mass:** 10 kg
+**Recovery:** No Attempt
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/coming-to-a-storm-near-you/
+
 >[!success] Mission Success
 
 >[!summary]

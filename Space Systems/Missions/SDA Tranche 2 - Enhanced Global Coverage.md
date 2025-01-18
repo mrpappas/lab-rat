@@ -1,6 +1,10 @@
 ---
+
 customer: "[[Space Development Agency (SDA)]]"
 ---
+
+**Customer:** [[Space Development Agency (SDA)]]
+
 >[!summary]
 Tranche 2 of [[SDA Proliferated Warfighter Space Architecture (PWSA)]]. Enhances and replenishes capabilities provided by Tranche 1, increasing the number of satellites to enable near-global stereo coverage for missile warning and tracking.
 >

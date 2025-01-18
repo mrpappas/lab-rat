@@ -39,7 +39,7 @@ sort name asc
 | [[Organization/People/Mike Whalen.md\|Mike Whalen]]                       | Vice President - Separation Systems                                | \-                                                |
 | [[Organization/People/Morgan Connaughton.md\|Morgan Connaughton]]         | Vice President - Marketing and Communications                      | \-                                                |
 | [[Organization/People/Nina Armagno.md\|Nina Armagno]]                     | Independent Director                                               | 142,294                                           |
-| [[Organization/People/Peter Beck.md\|Peter Beck]]                         | Founder, President and Chief Executive Officer, Chair of the Board | 50,951,250 (indirect)                             |
+| [[Organization/People/Peter Beck.md\|Peter Beck]]                         | Founder, President and Chief Executive Officer, Chair of the Board | 789,373 (direct), 50,951,250 (indirect)           |
 | [[Organization/People/Richard French.md\|Richard French]]                 | Vice President - Business Development and Strategy, Space Systems  | \-                                                |
 | [[Organization/People/Sandy Tirtey.md\|Sandy Tirtey]]                     | Senior Director - Global Commercial Launch Services                | \-                                                |
 | [[Organization/People/Scott Smith.md\|Scott Smith]]                       | Director                                                           | \-                                                |

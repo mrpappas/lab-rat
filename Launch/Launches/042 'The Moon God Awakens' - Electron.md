@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -15,6 +16,19 @@ payload_mass: 100 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/the-moon-god-awakes/
 ---
+
+#electron #launch #success
+**Mission Name:** The Moon God Awakens
+**Launch Date:** 2023-12-15 04:05
+**Outcome:** Success
+**Customer:** [[iQPS]]
+**Location:** [[Launch Complex 1]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#LEO]]
+**Target Orbit:** 575 km | 42°
+**Payload Mass:** 100 kg
+**Recovery:** No Attempt
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/the-moon-god-awakes/
 
 >[!Success] Mission Success
 

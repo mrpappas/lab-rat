@@ -1,8 +1,11 @@
 ---
+
 name: Fleet Space
 website: https://www.fleetspace.com/
 ---
 
+**Name:** Fleet Space
+**Website:** https://www.fleetspace.com/
 
 >[!summary]
 Fleet Space Technologies is an Australian company specializing in satellite-based connectivity solutions, focusing on Internet of Things (IoT) applications. Fleet operates a constellation of small low Earth orbit ([[🌍 Orbits#LEO|LEO]]) satellites that provide global, low-power, and cost-effective communications for industries such as mining, energy, agriculture, and defense. Their [ExoSphere](https://www.fleetspace.com/mineral-exploration) service combines satellite technology with geophysical sensors to support exploration and resource management. Fleet Space emphasizes innovation in nanosatellite design and rapid deployment to enable scalable IoT solutions.

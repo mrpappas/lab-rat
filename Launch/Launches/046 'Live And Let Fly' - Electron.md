@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -15,6 +16,20 @@ payload_mass: Classified
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/live-and-let-fly/
 ---
+
+#electron #launch #success
+**Mission Name:** Live And Let Fly
+**Launch Date:** 2024-03-21 06:40
+**Outcome:** Success
+**Customer:** [[National Reconnaissance Office (NRO)]]
+**Location:** [[Launch Complex 2]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#LEO]]
+**Target Orbit:** Classified
+**Payload Mass:** Classified
+**Recovery:** No Attempt
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/live-and-let-fly/
+
 >[!Success] Mission Success
 
 >[!summary]

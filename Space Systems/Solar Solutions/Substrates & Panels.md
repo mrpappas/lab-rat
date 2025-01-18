@@ -1,6 +1,9 @@
 ---
+
 subsidiary: "[[SolAero Technologies]]"
 ---
+
+**Subsidiary:** [[SolAero Technologies]]
 
 https://www.rocketlabusa.com/space-systems/solar/substrates-and-panels/
 ## Composite satellite bus and payload structures and PVA panel substrates

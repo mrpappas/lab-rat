@@ -1,6 +1,9 @@
 ---
+
 subsidiary: "[[Sinclair Interplanetary]]"
 ---
+
+**Subsidiary:** [[Sinclair Interplanetary]]
 
 >[!summary]
 >High-performance star tracker for small spacecraft. Extensively flown and tested, we have more than 90 on orbit right now.

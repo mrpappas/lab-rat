@@ -1,6 +1,10 @@
 ---
+
 subsidiary: "[[SolAero Technologies]]"
 ---
+
+**Subsidiary:** [[SolAero Technologies]]
+
 >[!summary] Features
 > - Triple-Junction Solar Cells
 > - 30.2% Minimum Average BOL Efficiency

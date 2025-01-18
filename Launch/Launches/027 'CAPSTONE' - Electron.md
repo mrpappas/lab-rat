@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -17,6 +18,20 @@ payload_mass: 80kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/capstone/
 ---
+
+#electron #launch #success
+**Mission Name:** CAPSTONE
+**Launch Date:** 2022-06-28 09:55
+**Outcome:** Success
+**Customer:** [[NASA]], [[Advanced Space]]
+**Location:** [[Launch Complex 1]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#TLI]]
+**Target Orbit:** Translunar Injection (TLI)
+**Payload Mass:** 80kg
+**Recovery:** No Attempt
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/capstone/
+
 >[!success] Mission Success
 
 >[!summary]

@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -15,6 +16,20 @@ payload_mass: 120 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/without-mission-a-beat/
 ---
+
+#electron #launch #success
+**Mission Name:** Without Mission A Beat
+**Launch Date:** 2022-04-02 12:41
+**Outcome:** Success
+**Customer:** [[BlackSky]]
+**Location:** [[Launch Complex 1]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#LEO]]
+**Target Orbit:** 430 km | 53°
+**Payload Mass:** 120 kg
+**Recovery:** No Attempt
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/without-mission-a-beat/
+
 >[!success] Mission Success
 
 >[!summary]

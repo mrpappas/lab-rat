@@ -1,8 +1,11 @@
 ---
+
 customer: 
  - "[[NASA]]"
  - "[[Ball Aerospace]]"
 ---
+
+**Customer:** [[NASA]], [[Ball Aerospace]]
 
 >[!summary]
 >The National Oceanic and Atmospheric Administration’s (NOAA’s) Space Weather Follow On-Lagrange 1 (SWFO-L1) includes a Rocket Lab-powered spacecraft built by [[Ball Aerospace]]. SWFO-L1 is expected to launch alongside the NASA [[GLIDE]] mission in 2025

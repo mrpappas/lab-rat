@@ -1,7 +1,12 @@
 ---
+
 name: Eta Space
 website: https://etaspace.com/about
 ---
+
+**Name:** Eta Space
+**Website:** https://etaspace.com/about
+
 >[!summary]
 >Eta Space is a U.S.-based company specializing in cryogenic fluid management technologies for space applications. Founded in 2019, the company focuses on the storage, transfer, and utilization of cryogenic propellants such as liquid oxygen (LOX) and liquid hydrogen (LH2), which are critical for rocket propulsion and in-space operations. Eta Space develops innovative systems for long-duration cryogenic storage in microgravity, addressing challenges like boil-off and efficient thermal insulation.
 >

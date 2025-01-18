@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -19,6 +20,20 @@ payload_mass: 75 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/pics-or-it-didnt-happen/
 ---
+
+#electron #launch #success
+**Mission Name:** Pics Or It Didn't Happen
+**Launch Date:** 2020-07-04 21:19
+**Outcome:** Failure
+**Customer:** [[Planet Labs]], [[Spaceflight]], [[Canon Electronics]], [[In-Space Missions]]
+**Location:** [[Launch Complex 1]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#SSO]]
+**Target Orbit:** 500 km | 97.5°
+**Payload Mass:** 75 kg
+**Recovery:** No Attempt
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/pics-or-it-didnt-happen/
+
 >[!failure] Mission Failure
 
 >[!summary]

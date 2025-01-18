@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -15,6 +16,19 @@ payload_mass: 100 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/the-owl-spreads-its-wings/
 ---
+
+#electron #launch #success
+**Mission Name:** The Owl Spreads Its Wings
+**Launch Date:** 2022-09-15 20:30
+**Outcome:** Success
+**Customer:** [[Synspective]]
+**Location:** [[Launch Complex 1]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#SSO]]
+**Target Orbit:** 563 km | 97°
+**Payload Mass:** 100 kg
+**Recovery:** No Attempt
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/the-owl-spreads-its-wings/
 
 >[!success] Mission Success
 

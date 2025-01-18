@@ -1,4 +1,5 @@
 ---
+
 name: Merline Saintil
 role: Lead Independent Director
 shares_owned: 432,275
@@ -7,6 +8,13 @@ linkedin: https://www.linkedin.com/in/msaintil/
 tags: 
  - board-member
 ---
+
+#board-member
+**Name:** Merline Saintil
+**Role:** Lead Independent Director
+**Shares Owned:** 432,275
+**Joined:** 2021-09-07
+**Linkedin:** https://www.linkedin.com/in/msaintil/
 
 ![[Pasted image 20241126235757.png|300]]
 

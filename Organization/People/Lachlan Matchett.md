@@ -1,10 +1,17 @@
 ---
+
 name: Lachlan Matchett
 role: Deputy Chief Engineer
 shares_owned: 
 joined: 2013-01-01
 linkedin: https://www.linkedin.com/in/lachlan-matchett-9524813b/
 ---
+
+**Name:** Lachlan Matchett
+**Role:** Deputy Chief Engineer
+**Shares Owned:** 
+**Joined:** 2013-01-01
+**Linkedin:** https://www.linkedin.com/in/lachlan-matchett-9524813b/
 
 ![[Pasted image 20241127003056.png|300]]
 

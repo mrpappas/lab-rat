@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -15,6 +16,20 @@ payload_mass: 100 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/i-cant-believe-its-not-optical/
 ---
+
+#electron #launch #success
+**Mission Name:** I Can't Believe It's Not Optical
+**Launch Date:** 2020-08-31 03:05
+**Outcome:** Success
+**Customer:** [[Capella Space]]
+**Location:** [[Launch Complex 1]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#LEO]]
+**Target Orbit:** 500 km | 45°
+**Payload Mass:** 100 kg
+**Recovery:** No Attempt
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/i-cant-believe-its-not-optical/
+
 >[!success] Mission Success
 
 >[!summary] 

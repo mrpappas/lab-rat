@@ -1,7 +1,11 @@
 ---
+
 name: NorthStar Earth & Space
 website: https://northstar-data.com/
 ---
+
+**Name:** NorthStar Earth & Space
+**Website:** https://northstar-data.com/
 
 >[!summary]
 NorthStar Earth & Space is a Canadian company focused on Earth observation and space situational awareness (SSA). Headquartered in Montreal, NorthStar operates and develops satellite constellations designed to provide data for monitoring Earth's environment and tracking objects in orbit.

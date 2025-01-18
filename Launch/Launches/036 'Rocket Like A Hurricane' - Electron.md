@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -15,6 +16,20 @@ payload_mass: 10 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/rocket-like-a-hurricane/
 ---
+
+#electron #launch #success
+**Mission Name:** Rocket Like A Hurricane
+**Launch Date:** 2023-05-08 01:00
+**Outcome:** Success
+**Customer:** [[NASA]]
+**Location:** [[Launch Complex 1]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#LEO]]
+**Target Orbit:** 550 km | 32°
+**Payload Mass:** 10 kg
+**Recovery:** No Attempt
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/rocket-like-a-hurricane/
+
 >[!success] Mission Success
 
 >[!summary]

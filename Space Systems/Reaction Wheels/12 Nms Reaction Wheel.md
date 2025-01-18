@@ -1,6 +1,9 @@
 ---
+
 subsidiary: "[[Sinclair Interplanetary]]"
 ---
+
+**Subsidiary:** [[Sinclair Interplanetary]]
 
 >[!summary]
 Rocket Lab's largest wheel in production designed for long-life and reliability. The 12Nms is ideal for high volume constellation missions and spacecraft with masses as high as 600-650 kg.

@@ -8,6 +8,12 @@ tags:
  - board-member
 ---
 
+**Name:** Nina Armagno
+**Role:** Independent Director
+**Shares Owned:** 142,294
+**Joined:** 2023-11-01
+**Linkedin**: https://www.linkedin.com/in/nina-armagno-471a351a9/
+
 ![[Pasted image 20241126235158.png|300]]
 
 >[!summary]

@@ -1,4 +1,5 @@
 ---
+
 name: Edward H. Frank
 role: Independent Director
 shares_owned: 146,044
@@ -7,6 +8,13 @@ linkedin: https://www.linkedin.com/in/edfrank/
 tags:
   - board-member
 ---
+
+#board-member
+**Name:** Edward H. Frank
+**Role:** Independent Director
+**Shares Owned:** 146,044
+**Joined:** 2022-09-06
+**Linkedin:** https://www.linkedin.com/in/edfrank/
 
 ![[Pasted image 20241126235446.png|300]]
 

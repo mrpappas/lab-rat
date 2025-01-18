@@ -1,4 +1,5 @@
 ---
+
 name: Kenneth R. Possenriede
 role: Independent Director
 shares_owned: 90,218
@@ -7,6 +8,13 @@ linkedin: https://www.linkedin.com/in/ken-possenriede-756514195/
 tags:
  - board-member
 ---
+
+#board-member
+**Name:** Kenneth R. Possenriede
+**Role:** Independent Director
+**Shares Owned:** 90,218
+**Joined:** 2024-08-23
+**Linkedin:** https://www.linkedin.com/in/ken-possenriede-756514195/
 
 ![[Pasted image 20241126235720.png]]
 

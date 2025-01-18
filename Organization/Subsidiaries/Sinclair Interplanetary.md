@@ -1,9 +1,15 @@
 ---
+
 name: Sinclair Interplanetary
 website: https://www.rocketlabusa.com/space-systems/satellite-components/
 acquired: 2020-04-30
 cost: Undisclosed
 ---
+
+**Name:** Sinclair Interplanetary
+**Website:** https://www.rocketlabusa.com/space-systems/satellite-components/
+**Acquired:** 2020-04-30
+**Cost:** Undisclosed
 
 >[!summary]
 >Sinclair Interplanetary is a satellite hardware company specializing in the design and manufacture of high-performance spacecraft components. Acquired by Rocket Lab in 2020, Sinclair provides products such as reaction wheels and star trackers, which are critical for satellite attitude control and navigation. Known for their reliability and compact design, Sinclair's components are used in small and medium-sized satellites across various commercial, academic, and government missions. The company plays a key role in supporting Rocket Lab’s end-to-end space systems and satellite manufacturing capabilities.

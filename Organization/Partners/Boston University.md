@@ -1,7 +1,12 @@
 ---
+
 name: Boston University
 website: https://www.bu.edu/
 ---
+
+**Name:** Boston University
+**Website:** https://www.bu.edu/
+
 ## 🚀 Launches
 %%DATAVIEW_PUBLISHER: start
 ```

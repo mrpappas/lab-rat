@@ -1,10 +1,17 @@
 ---
+
 name: Brian Rogers
 role: Vice President – Global Launch Services
 shares_owned: 
 joined: 2021-04-01
 linkedin: https://www.linkedin.com/in/brian-rogers-244443111/
 ---
+
+**Name:** Brian Rogers
+**Role:** Vice President – Global Launch Services
+**Shares Owned:** 
+**Joined:** 2021-04-01
+**Linkedin:** https://www.linkedin.com/in/brian-rogers-244443111/
 
 ![[Pasted image 20241127003136.png|300]]
 

@@ -1,6 +1,9 @@
 ---
+
 subsidiary: "[[Advanced Solutions Inc]]"
 ---
+
+**Subsidiary:** [[Advanced Solutions Inc]]
 
 >[!summary]
 A complete spacecraft simulation environment in STK that embeds a desktop version of MAX Flight Software.

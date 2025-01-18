@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -24,6 +25,20 @@ payload_mass: Unknown
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/they-go-up-so-fast/
 ---
+
+#electron #launch #success
+**Mission Name:** They Go Up So Fast
+**Launch Date:** 2021-03-22 22:30
+**Outcome:** Success
+**Customer:** [[BlackSky]], [[Tyvak Nano-Satellite Systems]], [[Fleet Space]], [[Myriota]], [[UNSW Canberra Space]], [[Care Weather]], [[U.S. Army]], [[Trisept]]
+**Location:** [[Launch Complex 1]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#LEO]]
+**Target Orbit:** 450 km and 550 km | 45°
+**Payload Mass:** Unknown
+**Recovery:** No Attempt
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/they-go-up-so-fast/
+
 >[!success] Mission Success
 
 >[!summary]

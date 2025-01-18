@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -18,6 +19,20 @@ payload_mass: 77 kg
 recovery: Controlled (Atmosphere Test)
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/running-out-of-fingers/
 ---
+
+#electron #launch #success
+**Mission Name:** Running Out Of Fingers
+**Launch Date:** 2019-12-06 08:18
+**Outcome:** Success
+**Customer:** [[Alba Orbital]], [[Spaceflight]], [[ALE]]
+**Location:** [[Launch Complex 1]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#LEO]]
+**Target Orbit:** 385 x 400 km | 97°
+**Payload Mass:** 77 kg
+**Recovery:** Controlled (Atmosphere Test)
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/running-out-of-fingers/
+
 >[!success] Mission Success
 
 >[!summary] 

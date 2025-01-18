@@ -1,8 +1,11 @@
 ---
+
 name: Synspective
 website: https://synspective.com/
 ---
 
+**Name:** Synspective
+**Website:** https://synspective.com/
 
 >[!summary]
 Synspective is a Japanese startup that develops and operates [[📦 Payload Types#Synthetic Aperture Radar (SAR)|Synthetic Aperture Radar (SAR)]] satellites to provide high-frequency, high-resolution Earth observation data. The company’s mission is to enable smarter decision-making through precise geospatial insights, focusing on areas such as urban development, disaster response, infrastructure monitoring, and resource management. By leveraging its constellation of SAR satellites, Synspective delivers consistent, cloud-penetrating imagery, ensuring reliable data regardless of weather or lighting conditions. Its solutions support governments and businesses in addressing global challenges through advanced analytics and actionable intelligence.

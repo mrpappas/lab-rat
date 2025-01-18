@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -17,6 +18,19 @@ payload_mass: 112 kg
 recovery: Success (Ocean Landing)
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/four-of-a-kind/
 ---
+
+#electron #launch #success
+**Mission Name:** Four Of A Kind
+**Launch Date:** 2024-01-31 06:34
+**Outcome:** Success
+**Customer:** [[Spire Global]], [[NorthStar Earth & Space]]
+**Location:** [[Launch Complex 1]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#LEO]]
+**Target Orbit:** 530 km | 97°
+**Payload Mass:** 112 kg
+**Recovery:** Success (Ocean Landing)
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/four-of-a-kind/
 
 >[!Success] Mission Success
 

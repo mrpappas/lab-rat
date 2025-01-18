@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -15,6 +16,20 @@ payload_mass: 50 kg
 recovery: Partial Failure (Aerial Capture)
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/catch-me-if-you-can/
 ---
+
+#electron #launch #success
+**Mission Name:** Catch Me If You Can
+**Launch Date:** 2022-11-04 17:27
+**Outcome:** Success
+**Customer:** [[Swedish National Space Agency]]
+**Location:** [[Launch Complex 1]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#SSO]]
+**Target Orbit:** 585 km | 97.66°
+**Payload Mass:** 50 kg
+**Recovery:** Partial Failure (Aerial Capture)
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/catch-me-if-you-can/
+
 >[!success] Mission Success
 
 >[!summary]

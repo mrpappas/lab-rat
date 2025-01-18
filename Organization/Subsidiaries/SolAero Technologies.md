@@ -1,9 +1,16 @@
 ---
+
 name: SolAero
 website: https://www.rocketlabusa.com/space-systems/solar/
 acquired: 2022-01-18
 cost: $80,000,000
 ---
+
+**Name:** SolAero
+**Website:** https://www.rocketlabusa.com/space-systems/solar/
+**Acquired:** 2022-01-18
+**Cost:** $80,000,000
+
 >[!summary]
 SolAero Technologies is a leading provider of high-performance solar cells, solar panels, and composite structural products for spacecraft. Based in Albuquerque, New Mexico, the company is renowned for its space-grade photovoltaics, which power satellites, space probes, and rovers, including high-profile missions like NASA's James Webb Space Telescope and Mars rovers. SolAero’s advanced manufacturing capabilities and lightweight designs make it a key supplier for commercial, civil, and national security space programs.
 
@@ -37,6 +44,3 @@ where contains(partner, [[SolAero Technologies]])
 sort Filing_Date desc
 
 ```
-
-
-

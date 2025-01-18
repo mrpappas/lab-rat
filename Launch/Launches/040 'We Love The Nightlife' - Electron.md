@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -16,6 +17,20 @@ payload_mass: 165 kg
 recovery: Success (Ocean Landing)
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/new-mission-page-3/
 ---
+
+#electron #launch #success #rutherford
+**Mission Name:** We Love The Nightlife
+**Launch Date:** 2023-08-24 23:45
+**Outcome:** Success
+**Customer:** [[Capella Space]]
+**Location:** [[Launch Complex 1]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#LEO]]
+**Target Orbit:** 640 km | 53°
+**Payload Mass:** 165 kg
+**Recovery:** Success (Ocean Landing)
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/new-mission-page-3/
+
 >[!success] Mission Success
 
 >[!summary]

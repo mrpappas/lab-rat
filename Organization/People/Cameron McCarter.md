@@ -1,10 +1,17 @@
 ---
+
 name: Cameron McCarter
 role: Vice President - Global Supply Chain
 shares_owned: 
 joined: 2024-06-01
 linkedin: https://www.linkedin.com/in/cammccarter/
 ---
+
+**Name:** Cameron McCarter
+**Role:** Vice President - Global Supply Chain
+**Shares Owned:** 
+**Joined:** 2024-06-01
+**Linkedin:** https://www.linkedin.com/in/cammccarter/
 
 **Role**: Vice President - Global Supply Chain
 [🔗 LinkedIn](https://www.linkedin.com/in/cammccarter/)

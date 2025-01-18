@@ -1,6 +1,9 @@
 ---
+
 subsidiary: "[[Sinclair Interplanetary]]"
 ---
+
+**Subsidiary:** [[Sinclair Interplanetary]]
 
 >[!summary]
 >The ST-16HV is an attitude determination sensor based on the heritage, high-performance ST-16RT2 star tracker.

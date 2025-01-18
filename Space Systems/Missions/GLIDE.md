@@ -1,8 +1,11 @@
 ---
+
 customer: 
  - "[[NASA]]"
  - "[[Ball Aerospace]]"
 ---
+
+**Customer:** [[NASA]], [[Ball Aerospace]]
 
 >[!summary]
 >In 2022, Rocket Lab was selected by [[Ball Aerospace]] to manufacture the [[Substrates & Panels|Solar Array Panel (SAP)]] to power NASA’s Global Lyman-Alpha Imager of Dynamic Exosphere (GLIDE) spacecraft. GLIDE is a [heliophysics](https://science.nasa.gov/heliophysics/) mission intended to study variability in Earth’s atmosphere and is expected to launch in 2025.

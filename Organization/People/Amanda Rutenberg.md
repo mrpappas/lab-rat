@@ -1,10 +1,17 @@
 ---
+
 name: Amanda Rutenberg
 role: Deputy General Counsel
 shares_owned: 
 joined: 2022-06-01
 linkedin: https://www.linkedin.com/in/amanda-rutenberg-980805101/
 ---
+
+**Name:** Amanda Rutenberg
+**Role:** Deputy General Counsel
+**Shares Owned:** 
+**Joined:** 2022-06-01
+**Linkedin:** https://www.linkedin.com/in/amanda-rutenberg-980805101/
 
 ![[Pasted image 20241127003749.png|300]]
 

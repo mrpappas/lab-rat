@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -19,6 +20,20 @@ payload_mass: 86 kg
 recovery: Success (Ocean Landing)
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/baby-come-back/
 ---
+
+#electron #launch #success
+**Mission Name:** Baby Come Back
+**Launch Date:** 2023-07-18 01:27
+**Outcome:** Success
+**Customer:** [[NASA]], [[UTIAS Space Flight Laboratory]], [[Telesat]], [[Spire Global]]
+**Location:** [[Launch Complex 1]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#SSO]]
+**Target Orbit:** 1000 km | 99.45°
+**Payload Mass:** 86 kg
+**Recovery:** Success (Ocean Landing)
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/baby-come-back/
+
 >[!success] Mission Success
 
 >[!summary]

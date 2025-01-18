@@ -8,6 +8,11 @@ linkedin: https://www.linkedin.com/in/michael-griffin-8209101b2/
 tags:
 
 ---
+**Name:** Michael D. Griffin
+**Role:** Director (former)
+**Shares Owned:** 
+**Joined:** 2024-09-16
+**Linkedin:** https://www.linkedin.com/in/michael-griffin-8209101b2/
 
 >[!failure] No Longer With Rocket Lab
 

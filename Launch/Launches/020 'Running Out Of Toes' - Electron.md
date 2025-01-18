@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -16,6 +17,20 @@ payload_mass: 120 kg
 recovery: Success (Ocean Landing)
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/running-out-of-toes/
 ---
+
+#electron #launch #failure #anomaly
+**Mission Name:** Running Out Of Toes
+**Launch Date:** 2021-05-15 11:11
+**Outcome:** Failure
+**Customer:** [[BlackSky]]
+**Location:** [[Launch Complex 1]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#LEO]]
+**Target Orbit:** 430 km | 50°
+**Payload Mass:** 120 kg
+**Recovery:** Success (Ocean Landing)
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/running-out-of-toes/
+
 >[!failure] Mission Failure
 
 >[!summary]

@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -18,6 +19,20 @@ payload_mass: 80 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/make-it-rain
 ---
+
+#electron #launch #success
+**Mission Name:** Make It Rain
+**Launch Date:** 2019-06-29 04:30
+**Outcome:** Success
+**Customer:** [[Spaceflight]], [[BlackSky]], [[Melbourne Space Program]]
+**Location:** [[Launch Complex 1]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#LEO]]
+**Target Orbit:** 450 km | 45°
+**Payload Mass:** 80 kg
+**Recovery:** No Attempt
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/make-it-rain
+
 >[!success] Mission Success
 
 >[!summary]

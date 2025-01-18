@@ -1,6 +1,10 @@
 ---
+
 subsidiary: "[[SolAero Technologies]]"
 ---
+
+**Subsidiary:** [[SolAero Technologies]]
+
 >[!summary] Features
 >- 31.3% Minimum Average Efficiency
 >- 4-junction n-on-p solar cell on germanium substrate

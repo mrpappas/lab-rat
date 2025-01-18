@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -15,7 +16,21 @@ payload_mass: 100 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/owl-for-one-one-for-owl/
 ---
- >[!Success] Mission Success
+
+#electron #launch #success
+**Mission Name:** Owl For One, One For Owl
+**Launch Date:** 2024-08-02 16:39
+**Outcome:** Success
+**Customer:** [[Synspective]]
+**Location:** [[Launch Complex 1]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#LEO]]
+**Target Orbit:** 543 km | 43°
+**Payload Mass:** 100 kg
+**Recovery:** No Attempt
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/owl-for-one-one-for-owl/
+
+>[!Success] Mission Success
 
 >[!summary]
 Rocket Lab launched a dedicated mission for [[Synspective]], a Japanese Earth observation company deploying a constellation of synthetic aperture radar (SAR) satellites designed to deliver imagery that can detect millimetre-level changes to the Earth’s surface from space. 

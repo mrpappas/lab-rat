@@ -1,8 +1,11 @@
 ---
+
 name: BlackSky
 website: https://www.blacksky.com/
 ---
 
+**Name:** BlackSky
+**Website:** https://www.blacksky.com/
 
 >[!summary]
 BlackSky is a **U.S.-based geospatial intelligence company** that specializes in providing **real-time Earth observation data** and **analytics**. The company operates a constellation of **low Earth orbit (LEO) satellites** designed to capture high-resolution imagery multiple times per day. BlackSky integrates satellite imagery with **artificial intelligence (AI)** and other data sources to deliver **actionable insights** for applications such as **defense, disaster response, supply chain monitoring, and infrastructure management**. BlackSky's subscription-based platform offers near real-time access to **global monitoring** capabilities, enabling rapid decision-making for commercial and government clients.

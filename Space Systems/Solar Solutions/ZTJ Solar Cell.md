@@ -1,6 +1,9 @@
 ---
+
 subsidiary: "[[SolAero Technologies]]"
 ---
+
+**Subsidiary:** [[SolAero Technologies]]
 
 >[!summary] Features
 > - Standard triple-junction solar cells

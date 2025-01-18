@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -17,6 +18,20 @@ payload_mass: 13 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/still-testing/
 ---
+
+#electron #launch #success
+**Mission Name:** Still Testing
+**Launch Date:** 2018-01-21 02:43
+**Outcome:** Success
+**Customer:** [[Planet Labs]], [[Spire Global]]
+**Location:** [[Launch Complex 1]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#LEO]]
+**Target Orbit:** 400 km | 82.9°
+**Payload Mass:** 13 kg
+**Recovery:** No Attempt
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/still-testing/
+
 >[!success] Mission Success
 
 >[!summary]  
@@ -34,4 +49,4 @@ sort published desc
 
 ## 📽️ Launch Video
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/eg5234BOED8" title="Rocket Lab&#39;s Electron - &#39;Still Testing&#39; Launch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>   
+<iframe width="800" height="450" src="https://www.youtube.com/embed/eg5234BOED8" title="Rocket Lab&#39;s Electron - &#39;Still Testing&#39; Launch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

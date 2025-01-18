@@ -1,6 +1,9 @@
 ---
+
 subsidiary: "[[Sinclair Interplanetary]]"
 ---
+
+**Subsidiary:** [[Sinclair Interplanetary]]
 
 >[!summary]
 >[[Sinclair Interplanetary]]’s first wheel design, and still the most popular. First launched in April 2008, there are now more than 50 units on-orbit. Many of these are onboard the University of Toronto SpaceFlight Lab's GNB series of spacecraft. They fit comfortably into a 6U to 12U cubesat.

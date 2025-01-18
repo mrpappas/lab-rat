@@ -1,6 +1,10 @@
 ---
+
 subsidiary: "[[Planetary Systems Corporation (PSC)]]"
 ---
+
+**Subsidiary:** [[Planetary Systems Corporation (PSC)]]
+
 >[!summary]
 >The Canisterized Satellite Dispenser (CSD) is a reliable, testable, and cost-effective deployment mechanism for small secondary or tertiary
 payloads. It fully encapsulates the payload during launch and thus provides mission assurance for both the primary payload and launch vehicle (LV).

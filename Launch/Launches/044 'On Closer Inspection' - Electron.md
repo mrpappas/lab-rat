@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -15,6 +16,19 @@ payload_mass: 150 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/on-closer-inspection/
 ---
+
+#electron #launch #success
+**Mission Name:** On Closer Inspection
+**Launch Date:** 2024-02-19 14:52
+**Outcome:** Success
+**Customer:** [[Astroscale-Japan]]
+**Location:** [[Launch Complex 1]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#SSO]]
+**Target Orbit:** 600 km | 98°
+**Payload Mass:** 150 kg
+**Recovery:** No Attempt
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/on-closer-inspection/
 
 >[!Success] Mission Success
 

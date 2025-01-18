@@ -1,4 +1,5 @@
 ---
+
 tags:
   - electron
   - launch
@@ -15,6 +16,20 @@ payload_mass: 0 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/its-a-test/
 ---
+
+#electron #launch #failure
+**Mission Name:** It's a Test
+**Launch Date:** 2017-05-25 04:20
+**Outcome:** Failure
+**Customer:** N/A
+**Location:** [[Launch Complex 1]]
+**Vehicle:** [[Electron]]
+**Orbit Type:** [[🌍 Orbits#LEO]]
+**Target Orbit:** 500 km | 85°
+**Payload Mass:** 0 kg
+**Recovery:** No Attempt
+**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/its-a-test/
+
 >[!failure] Mission Failure
 
 >[!summary]
