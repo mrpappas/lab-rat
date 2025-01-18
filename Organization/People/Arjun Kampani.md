@@ -75,7 +75,7 @@ sort published desc
 -  General Dynamics
 -  Anteon
 
----
+
 ## Notes
 
 - Worked at Aerojet Rocketdyne during the same time period as [[Amanda Rutenberg]]

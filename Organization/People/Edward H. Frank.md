@@ -59,7 +59,7 @@ sort published desc
 -  Apple 
 -  IEEE
 
----
+
 ## Notes
 
 - Worked at Broadcom during the same time period as [[Adam Spice]] and [[Brad Warezak]]

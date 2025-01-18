@@ -69,5 +69,3 @@ sort published desc
 -  Paypal
 -  Adobe
 -  Sun Microsystems
-## SEC Filings
-- [[11-27-24 Form 4 - Merline Saintil]]

@@ -75,7 +75,7 @@ sort published desc
 -  [Entropic](https://www.entropic.com/) - Treasurer, Secretary, and Director 
 -  [Enevate](https://www.enevate.com/) - Board Member
 
----
+
 ## ✏️ Notes
 
 - Worked at Broadcom during the same time period as [[Brad Warezak]] and [[Edward H. Frank]]

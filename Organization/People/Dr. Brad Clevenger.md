@@ -51,7 +51,7 @@ sort published desc
 -  [[SolAero Technologies]]
 -  Emcore
 
----
+
 ## Notes
 
 -  Dr. Clevenger was President and CEO of [[SolAero Technologies]] before the acquisition

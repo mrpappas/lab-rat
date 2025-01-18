@@ -54,7 +54,7 @@ sort published desc
 %%DATAVIEW_PUBLISHER: end %%
 
 
----
+
 ## Former Organizations
 
 -  Vector Capital
