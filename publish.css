@@ -1,59 +1,55 @@
-/* Links and underline handling*/
+/* Links and underline handling */
 body:not(.links-int-on) {
-    --link-decoration: none;
-  }
-  
-  body:not(.links-ext-on) {
-    --link-external-decoration: none;
-  }
-  
-  /* Styling for Dataview plugin tables in dark theme */
-  .dataview.table-view-table {
-      border-collapse: collapse;
-  
-      background-color: #1e1e1e; /* Obsidian dark theme base background */
-      color: #c0c0c0; /* Subtle light text */
-    }
-    
-    .dataview.table-view-table tr:nth-child(odd) {
-      background-color: #262626; /* Slightly lighter dark for odd rows */
-    }
-    
-    .dataview.table-view-table tr:nth-child(even) {
-      background-color: #1e1e1e; /* Base dark theme for even rows */
-    }
-    
-    .dataview.table-view-table th {
-      background-color: #333333; /* Dark gray for the header */
-      color: #ffffff; /* White text for header */
-      font-weight: bold;
-      border-bottom: 1px solid #444444; /* Subtle border for header separation */
-    }
-    
-    .dataview.table-view-table td, .dataview.table-view-table th {
-      padding: 8px;
-      text-align: left;
-      border-bottom: 1px solid #444444; /* Subtle border for row separation */
-    }
-    
-    /* Hover effect that overrides alternating row styles */
-    .dataview.table-view-table tr:hover td {
-      background-color: #444444 !important; /* Highlight on hover for rows */
-      color: #ffffff; /* Ensure text is legible on hover */
-    }
-    
-    .pdf-embed, .markdown-source-view .pdf-embed, 
-    .markdown-source-view.mod-cm6 .cm-content > .pdf-embed, .internal-embed.pdf-embed:not(.image-embed) {
-        max-width: 900px; 
-    }
-  
-  
-  
-  
-  /* Change Summary Callout background color */
-  .callout[data-callout="summary"] {
+  --link-decoration: none;
+}
+
+body:not(.links-ext-on) {
+  --link-external-decoration: none;
+}
+
+/* Styling for Dataview plugin tables in dark theme */
+table {
+    width: 100%; /* Make tables full width */
+    border-collapse: collapse;
+    table-layout: fixed; /* Fixed layout for consistent column sizes */
+    background-color: #1e1e1e; /* Obsidian dark theme base background */
+    color: #c0c0c0; /* Subtle light text */
+}
+
+table tr:nth-child(odd) {
+    background-color: #262626; /* Slightly lighter dark for odd rows */
+}
+
+table tr:nth-child(even) {
+    background-color: #1e1e1e; /* Base dark theme for even rows */
+}
+
+table th {
+    background-color: #333333; /* Dark gray for the header */
+    color: #ffffff; /* White text for header */
+    font-weight: bold;
+    border-bottom: 1px solid #444444; /* Subtle border for header separation */
+}
+
+table td, table th {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #444444; /* Subtle border for row separation */
+    word-wrap: break-word; /* Prevent content overflow */
+}
+
+/* Hover effect that overrides alternating row styles */
+table tr:hover td {
+    background-color: #444444 !important; /* Highlight on hover for rows */
+    color: #ffffff; /* Ensure text is legible on hover */
+}
+
+.pdf-embed, .markdown-source-view .pdf-embed, 
+.markdown-source-view.mod-cm6 .cm-content > .pdf-embed, .internal-embed.pdf-embed:not(.image-embed) {
+    max-width: 900px;
+}
+
+/* Change Summary Callout background color */
+.callout[data-callout="summary"] {
     background-color: rgb(40, 40, 40);
-  }
-  
-  
-  
+}
