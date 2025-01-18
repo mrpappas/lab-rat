@@ -11,14 +11,18 @@ Through [NASA's Tipping Point program](https://newspaceeconomy.ca/2024/05/03/nas
 ![[Pasted image 20250112141351.jpg]]
 
 ## 📰 News
-
-```dataview
-table title as "Title", published as "Published"
+%% DATAVIEW_PUBLISHER: start
+```
+table published as "Published"
 from "News"
 where contains(mission, [[LOXSAT]])
 sort published desc
 
 ```
+%%
 
+| File                                                                                                                                                                                                                             | Published         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[News/Rocket Lab Announces Third Quarter 2021 Financial Results and Issues Guidance for the Fourth Quarter 2021.md\|Rocket Lab Announces Third Quarter 2021 Financial Results and Issues Guidance for the Fourth Quarter 2021]] | November 15, 2021 |
 
-
+%% DATAVIEW_PUBLISHER: end %%

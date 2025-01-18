@@ -15,23 +15,42 @@ Shaun holds an Electrical and Electronic Engineering degree from the University 
 [Source](https://www.rocketlabusa.com/about/team/)
 
 
-## SEC Filings
-```dataview
+## 💼 SEC Filings
+%%DATAVIEW_PUBLISHER: start
+```
 table Filing_Type as "Filing Type", Filing_Date as "Date"
 from "Filings"
 where Insider = [[Shaun O'Donnell]]
 sort Filing_Date desc
+
 ```
+%%
+
+| File                                                                                                                                                                                               | Filing Type                                      | Date               |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ------------------ |
+| [[Filings/2022/8-K/10-28-22 8-K - Shaun O'Donnell Transitions to Chief Engineer for Neutron Development.md\|10-28-22 8-K - Shaun O'Donnell Transitions to Chief Engineer for Neutron Development]] | [[Filings/Filing Definitions.md#8-K\|8-K]]       | October 28, 2022   |
+| [[Filings/2022/Form 4/9-15-22 Form 4 - Shaun O'Donnell.md\|9-15-22 Form 4 - Shaun O'Donnell]]                                                                                                      | [[Filings/Filing Definitions.md#Form 4\|Form 4]] | September 15, 2022 |
+| [[Filings/2022/Form 4/9-09-22 Form 4 - Shaun O'Donnell.md\|9-09-22 Form 4 - Shaun O'Donnell]]                                                                                                      | [[Filings/Filing Definitions.md#Form 4\|Form 4]] | September 09, 2022 |
+| [[Filings/2022/Form 4/9-08-22 Form 4 - Shaun O'Donnell.md\|9-08-22 Form 4 - Shaun O'Donnell]]                                                                                                      | [[Filings/Filing Definitions.md#Form 4\|Form 4]] | September 08, 2022 |
+| [[Filings/2021/Form 3/9-07-21 Form 3 - Shaun O'Donnell.md\|9-07-21 Form 3 - Shaun O'Donnell]]                                                                                                      | [[Filings/Filing Definitions.md#Form 3\|Form 3]] | September 07, 2021 |
+
+%%DATAVIEW_PUBLISHER: end %%
 
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table title as "Title", published as "Published"
 from "News"
 where contains(insider, [[Shaun O'Donnell]])
 sort published desc
 ```
+%%
 
----
+| File | Title | Published |
+| ---- | ----- | --------- |
+
+%%DATAVIEW_PUBLISHER: end %%
+
 ## Other Organizations
 
 - Novitas Technology Development LTD

@@ -9,13 +9,25 @@ Synspective is a Japanese startup that develops and operates [[📦 Payload Type
 
 
 ## 🚀 Launches
-
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table launch_date, outcome
 from "Launch/Launches"
 where contains(customer, [[Synspective]])
 sort launch_date desc
 ```
+%%
+
+| File                                                                                                          | launch_date      | outcome |
+| ------------------------------------------------------------------------------------------------------------- | ---------------- | ------- |
+| [[Launch/Launches/058 'Owl The Way Up' - Electron.md\|058 'Owl The Way Up' - Electron]]                       | 2024-12-21 14:16 | Success |
+| [[Launch/Launches/051 'Owl For One, One For Owl' - Electron.md\|051 'Owl For One, One For Owl' - Electron]]   | 2024-08-02 16:39 | Success |
+| [[Launch/Launches/045 'Owl Night Long' - Electron.md\|045 'Owl Night Long' - Electron]]                       | 2024-03-12 14:00 | Success |
+| [[Launch/Launches/030 'The Owl Spreads Its Wings' - Electron.md\|030 'The Owl Spreads Its Wings' - Electron]] | 2022-09-15 20:30 | Success |
+| [[Launch/Launches/024 'The Owl's Night Continues' - Electron.md\|024 'The Owl's Night Continues' - Electron]] | 2022-02-28 20:37 | Success |
+| [[Launch/Launches/017 'The Owl's Night Begins' - Electron.md\|017 'The Owl's Night Begins' - Electron]]       | 2020-12-15 10:09 | Success |
+
+%%DATAVIEW_PUBLISHER: end %%
 
 
 ## 🛰️ Space Systems
@@ -52,11 +64,34 @@ Example use cases include:
 
 ![[Pasted image 20241224215520.png]]
 
----
+
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table title as "Title", published as "Published"
 from "News"
 where contains(customer, [[Synspective]])
 sort published desc
 ```
+%%
+
+| File                                                                                                                                                                                                                                                                                   | Title                                                                                                                                  | Published          |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[News/Rocket Lab Successfully Deploys Satellite for Synspective, Caps Off Year with 60% Increase in Launches YoY.md\|Rocket Lab Successfully Deploys Satellite for Synspective, Caps Off Year with 60% Increase in Launches YoY]]                                                     | Rocket Lab \| The Space Company                                                                                                        | December 22, 2024  |
+| [[News/Rocket Lab Sets Launch Window to Deploy Synspective Satellites.md\|Rocket Lab Sets Launch Window to Deploy Synspective Satellites]]                                                                                                                                             | Rocket Lab Sets Launch Window to Deploy Synspective Satellites                                                                         | December 05, 2024  |
+| [[News/Rocket Lab Successfully Completes Latest Launch for Synspective.md\|Rocket Lab Successfully Completes Latest Launch for Synspective]]                                                                                                                                           | Rocket Lab Successfully Completes Latest Launch for Synspective                                                                        | August 03, 2024    |
+| [[News/Rocket Lab Sets Launch Date for 51st Electron Mission, Prepares to Deploy Latest Satellites in Multi-Launch Contract for Synspective.md\|Rocket Lab Sets Launch Date for 51st Electron Mission, Prepares to Deploy Latest Satellites in Multi-Launch Contract for Synspective]] | Rocket Lab Sets Launch Date for 51st Electron Mission, Prepares to Deploy Latest Satellites in Multi-Launch Contract for Synspective   | July 24, 2024      |
+| [[News/Rocket Lab Signs Record Deal for 10 Electron Launches with Synspective.md\|Rocket Lab Signs Record Deal for 10 Electron Launches with Synspective]]                                                                                                                             | Rocket Lab Signs Record Deal for 10 Electron Launches with Synspective                                                                 | June 18, 2024      |
+| [[News/Rocket Lab Successfully Launches 45th Electron Mission, 4th for Longtime Partner Synspective.md\|Rocket Lab Successfully Launches 45th Electron Mission, 4th for Longtime Partner Synspective]]                                                                                 | Rocket Lab Successfully Launches 45th Electron Mission, 4th for Longtime Partner Synspective                                           | March 13, 2024     |
+| [[News/Rocket Lab Schedules Launch Date for 45th Electron Mission to Deploy Earth-Imaging Satellite for Synspective.md\|Rocket Lab Schedules Launch Date for 45th Electron Mission to Deploy Earth-Imaging Satellite for Synspective]]                                                 | Rocket Lab Schedules Launch Date for 45th Electron Mission to Deploy Earth-Imaging Satellite for Synspective                           | February 20, 2024  |
+| [[News/Rocket Lab Signs Multi-Launch Deal to Further Deploy Synspective Constellation.md\|Rocket Lab Signs Multi-Launch Deal to Further Deploy Synspective Constellation]]                                                                                                             | Rocket Lab Signs Multi-Launch Deal to Further Deploy Synspective Constellation                                                         | July 13, 2023      |
+| [[News/Rocket Lab Successfully Launches 30th Electron Rocket & 150th Satellite to Space.md\|Rocket Lab Successfully Launches 30th Electron Rocket & 150th Satellite to Space]]                                                                                                         | Rocket Lab Successfully Launches 30th Electron Rocket & 150th Satellite to Space                                                       | September 15, 2022 |
+| [[News/Rocket Lab to Launch 150th Satellite on Upcoming Mission for Synspective.md\|Rocket Lab to Launch 150th Satellite on Upcoming Mission for Synspective]]                                                                                                                         | Rocket Lab to Launch 150th Satellite on Upcoming Mission for Synspective                                                               | August 15, 2022    |
+| [[News/Rocket Lab Successfully Launches Second Mission for Synspective, Deploys 110th Satellite to Orbit.md\|Rocket Lab Successfully Launches Second Mission for Synspective, Deploys 110th Satellite to Orbit]]                                                                       | Rocket Lab Successfully Launches Second Mission for Synspective, Deploys 110th Satellite to Orbit                                      | March 01, 2022     |
+| [[News/Rocket Lab Brings Forward Launch for Earth Imaging Company Synspective.md\|Rocket Lab Brings Forward Launch for Earth Imaging Company Synspective]]                                                                                                                             | Rocket Lab Brings Forward Launch for Earth Imaging Company Synspective                                                                 | February 09, 2022  |
+| [[News/Rocket Lab to Launch Three Dedicated Electron Missions for Earth Imaging Company Synspective.md\|Rocket Lab to Launch Three Dedicated Electron Missions for Earth Imaging Company Synspective]]                                                                                 | Rocket Lab to Launch Three Dedicated Electron Missions for Earth Imaging Company Synspective                                           | December 07, 2021  |
+| [[News/Rocket Lab Successfully Launches 17th Electron Mission, Deploys SAR Satellite for Synspective.md\|Rocket Lab Successfully Launches 17th Electron Mission, Deploys SAR Satellite for Synspective]]                                                                               | Rocket Lab Successfully Launches 17th Electron Mission, Deploys SAR Satellite for Synspective                                          | December 15, 2020  |
+| [[News/Rocket Lab to Launch Dedicated Mission for  Japanese Earth Imaging Company Synspective.md\|Rocket Lab to Launch Dedicated Mission for  Japanese Earth Imaging Company Synspective]]                                                                                             | Rocket Lab to Launch Dedicated Mission for  Japanese Earth Imaging Company Synspective                                                 | November 24, 2020  |
+| [[News/Rocket Lab to Launch Dedicated Mission for Japanese Space Industry Start-up Company Synspective.md\|Rocket Lab to Launch Dedicated Mission for Japanese Space Industry Start-up Company Synspective]]                                                                           | Rocket Lab to Launch Dedicated Mission for Japanese Space Industry Start-up Company Synspective                                        | April 14, 2020     |
+
+%%DATAVIEW_PUBLISHER: end %%

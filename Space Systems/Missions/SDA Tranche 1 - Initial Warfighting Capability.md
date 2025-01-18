@@ -36,12 +36,19 @@ Tranche 1 of [[SDA Proliferated Warfighter Space Architecture (PWSA)]]. Serves a
 - [[General Dynamics Mission Systems]]: Awarded a contract worth up to $324 million to establish ground operations, including two operations centers and multiple ground stations.
 
 ## 📰 News
-
-```dataview
-table title as "Title", published as "Published"
+%% DATAVIEW_PUBLISHER: start
+```
+table published as "Published"
 from "News"
 where contains(mission, [[SDA Proliferated Warfighter Space Architecture (PWSA)]])
 or contains(mission, [[SDA Tranche 1 - Initial Warfighting Capability]])
 sort published desc
 
 ```
+%%
+
+| File                                                                                                                                                                                                                                                                                   | Published         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[News/Rocket Lab Awarded $14m in Contracts to Supply Satellite Separation Systems for Space Development Agency’s Tranche 1 Transport Layer.md\|Rocket Lab Awarded $14m in Contracts to Supply Satellite Separation Systems for Space Development Agency’s Tranche 1 Transport Layer]] | November 09, 2022 |
+
+%% DATAVIEW_PUBLISHER: end %%

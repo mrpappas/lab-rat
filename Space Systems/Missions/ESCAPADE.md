@@ -9,12 +9,25 @@ customer:
 >https://science.nasa.gov/mission/escapade/
 
 <iframe width="1006" height="566" src="https://www.youtube.com/embed/o8Hn1GNz5oo" title="Makers of: Mars Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## 📰 News
 
-```dataview
-table title as "Title", published as "Published"
+%% DATAVIEW_PUBLISHER: start
+```
+table published as "Published"
 from "News"
 where contains(mission, [[ESCAPADE]])
 sort published desc
 
 ```
+%%
+
+| File                                                                                                                                                                                                                                   | Published        |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[News/Rocket Lab Ships Twin Satellites to Launch Site for NASA Mars Mission  Rocket Lab.md\|Rocket Lab Ships Twin Satellites to Launch Site for NASA Mars Mission  Rocket Lab]]                                                       | August 16, 2024  |
+| [[News/Rocket Lab Completes Integration and Testing of Twin Spacecraft for NASA Mars Mission.md\|Rocket Lab Completes Integration and Testing of Twin Spacecraft for NASA Mars Mission]]                                               | July 29, 2024    |
+| [[News/Rocket Lab Integrating Twin Spacecraft for Mission to Mars for NASA.md\|Rocket Lab Integrating Twin Spacecraft for Mission to Mars for NASA]]                                                                                   | October 18, 2023 |
+| [[News/Rocket Lab Spacecraft Confirmed for Mars as NASA Greenlights ESCAPADE Small Satellite Interplanetary Mission.md\|Rocket Lab Spacecraft Confirmed for Mars as NASA Greenlights ESCAPADE Small Satellite Interplanetary Mission]] | August 23, 2021  |
+| [[News/Rocket Lab Awarded Contract to Design Twin Spacecraft for Mars.md\|Rocket Lab Awarded Contract to Design Twin Spacecraft for Mars]]                                                                                             | June 15, 2021    |
+
+%% DATAVIEW_PUBLISHER: end %%

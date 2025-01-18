@@ -17,23 +17,38 @@ Richard holds a Masters degree in Space Systems Engineering and a Bachelors degr
 [Source](https://www.rocketlabusa.com/about/team/)
 
 
-## SEC Filings
-```dataview
+## 💼 SEC Filings
+%%DATAVIEW_PUBLISHER: start
+```
 table Filing_Type as "Filing Type", Filing_Date as "Date"
 from "Filings"
 where Insider = [[Richard French]]
 sort Filing_Date desc
+
 ```
+%%
+
+| File | Filing Type | Date |
+| ---- | ----------- | ---- |
+
+%%DATAVIEW_PUBLISHER: end %%
 
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table title as "Title", published as "Published"
 from "News"
 where contains(insider, [[Richard French]])
 sort published desc
 ```
+%%
 
----
+| File                                                                                                                                                                               | Title                                                                               | Published          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------ |
+| [[News/Rocket Lab Appoints Richard French as Director – Global Government Launch Services.md\|Rocket Lab Appoints Richard French as Director – Global Government Launch Services]] | Rocket Lab Appoints Richard French as Director – Global Government Launch Services  | September 05, 2019 |
+
+%%DATAVIEW_PUBLISHER: end %%
+
 ## Other Organizations
 
 -  [[NASA]]

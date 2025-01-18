@@ -7,17 +7,34 @@ website: https://www.smdc.army.mil/
 >The U.S. Army Space and Missile Defense Command (SMDC) is a critical component of the United States Army, specializing in space and missile defense operations to support national security. Headquartered in Redstone Arsenal, Alabama, SMDC provides expertise in developing and deploying technologies for missile defense, space operations, and global situational awareness. The command oversees satellite communications, space-based missile warning systems, and the Army's contributions to the Department of Defense's ballistic missile defense programs. SMDC also leads research and development efforts, advancing capabilities like directed energy weapons and hypersonic systems. With a focus on integrating space and missile defense into military operations, SMDC plays a pivotal role in protecting U.S. interests and maintaining strategic dominance in the increasingly contested space domain.
 
 ## 🚀 Launches
-
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table launch_date, outcome
 from "Launch/Launches"
 where contains(customer, [[U.S. Army]])
 sort launch_date desc
 ```
+%%
+
+| File                                                                                            | launch_date      | outcome |
+| ----------------------------------------------------------------------------------------------- | ---------------- | ------- |
+| [[Launch/Launches/019 'They Go Up So Fast' - Electron.md\|019 'They Go Up So Fast' - Electron]] | 2021-03-22 22:30 | Success |
+
+%%DATAVIEW_PUBLISHER: end %%
+
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table title as "Title", published as "Published"
 from "News"
 where contains(customer, [[U.S. Army]])
 sort published desc
 ```
+%%
+
+| File                                                                                                                                                                                                                                                                           | Title                                                                                                                             | Published         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[News/Rocket Lab Successfully Launches 19th Electron, Deploys 100th Satellite.md\|Rocket Lab Successfully Launches 19th Electron, Deploys 100th Satellite]]                                                                                                                   | Rocket Lab Successfully Launches 19th Electron, Deploys 100th Satellite                                                           | March 23, 2021    |
+| [[News/Rocket Lab’s Next Mission to Launch 100th Satellite and Deploy Next-Generation Photon Spacecraft in Preparation for Moon Mission.md\|Rocket Lab’s Next Mission to Launch 100th Satellite and Deploy Next-Generation Photon Spacecraft in Preparation for Moon Mission]] | Rocket Lab’s Next Mission to Launch 100th Satellite and Deploy Next-Generation Photon Spacecraft in Preparation for Moon Mission  | February 09, 2021 |
+
+%%DATAVIEW_PUBLISHER: end %%

@@ -18,22 +18,41 @@ Mr. Possenriede brings to Rocket Lab deep experience in capital markets, custome
 Mr. Possenriede holds a Master of Business Administration from the University of Michigan and bachelor's degree from Rutgers University in economics. He also currently serves as an advisor to the Rutgers Foundation Board of Directors.
 [Source](https://www.rocketlabusa.com/about/team/)
 
-## SEC Filings
-```dataview
+## 💼 SEC Filings
+%%DATAVIEW_PUBLISHER: start
+```
 table Filing_Type as "Filing Type", Filing_Date as "Date"
 from "Filings"
 where Insider = [[Kenneth R. Possenriede]]
 sort Filing_Date desc
+
 ```
+%%
+
+| File                                                                                                     | Filing Type                                      | Date               |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ------------------ |
+| [[Filings/2024/Form 4/9-23-24 Form 4 - Kenneth Possenriede.md\|9-23-24 Form 4 - Kenneth Possenriede]]    | [[Filings/Filing Definitions.md#Form 4\|Form 4]] | September 23, 2024 |
+| [[Filings/2024/8-K/8-23-24 8-K - Kenneth Possenriede Hired.md\|8-23-24 8-K - Kenneth Possenriede Hired]] | [[Filings/Filing Definitions.md#8-K\|8-K]]       | August 23, 2024    |
+| [[Filings/2024/Form 3/8-23-24 Form 3 - Kenneth Possenriede.md\|8-23-24 Form 3 - Kenneth Possenriede]]    | [[Filings/Filing Definitions.md#Form 3\|Form 3]] | August 23, 2024    |
+| [[Filings/2024/Form 4/8-23-24 Form 4 - Kenneth Possenriede.md\|8-23-24 Form 4 - Kenneth Possenriede]]    | [[Filings/Filing Definitions.md#Form 4\|Form 4]] | August 23, 2024    |
+
+%%DATAVIEW_PUBLISHER: end %%
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table title as "Title", published as "Published"
 from "News"
 where contains(insider, [[Kenneth R. Possenriede]])
 sort published desc
 ```
+%%
 
----
+| File                                                                                                                                                                               | Title                                                                               | Published       |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | --------------- |
+| [[News/Former Lockheed Martin Chief Financial Officer Joins Rocket Lab Board of Directors.md\|Former Lockheed Martin Chief Financial Officer Joins Rocket Lab Board of Directors]] | Former Lockheed Martin Chief Financial Officer Joins Rocket Lab Board of Directors  | August 22, 2024 |
+
+%%DATAVIEW_PUBLISHER: end %%
+
 ## Former Organizations
 
 -  Lockheed Martin (present)

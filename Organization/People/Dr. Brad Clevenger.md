@@ -16,23 +16,36 @@ Prior to joining EMCORE, Dr. Clevenger was a staff member of the the U.S. Depart
 Dr. Clevenger earned a Bachelor’s Degree in Chemistry from the University of Florida and a Ph.D. in Analytical Chemistry from the University of Texas at Austin.  He currently chairs and/or serves on several committees and working groups focused on economic development for and the health of the U.S. and National Security Space Industrial Base.
 [Source](https://www.rocketlabusa.com/about/team/)
 
-## SEC Filings
-```dataview
+## 💼 SEC Filings
+%%DATAVIEW_PUBLISHER: start
+```
 table Filing_Type as "Filing Type", Filing_Date as "Date"
 from "Filings"
 where Insider = [[Dr. Brad Clevenger]]
 sort Filing_Date desc
-```
 
+```
+%%
+
+| File | Filing Type | Date |
+| ---- | ----------- | ---- |
+
+%%DATAVIEW_PUBLISHER: end %%
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table title as "Title", published as "Published"
 from "News"
 where contains(insider, [[Dr. Brad Clevenger]])
 sort published desc
 ```
+%%
 
----
+| File | Title | Published |
+| ---- | ----- | --------- |
+
+%%DATAVIEW_PUBLISHER: end %%
+
 ## Former Organizations
 
 -  [[SolAero Technologies]]

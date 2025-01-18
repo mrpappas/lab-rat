@@ -19,22 +19,42 @@ Mr Klein also served as President of Magna Steyr AG, the automotive industry’s
 Mr Klein holds a Masters’ Degree in Electrical and Industrial Engineering from Baden-Wuerttemberg Cooperative State University Stuttgart and a bachelor's degree in Business Administration from FernUniversität in Hagen.
 [Source](https://www.rocketlabusa.com/about/team/)
 
-## SEC Filings
-```dataview
+## 💼 SEC Filings
+%%DATAVIEW_PUBLISHER: start
+```
 table Filing_Type as "Filing Type", Filing_Date as "Date"
 from "Filings"
 where Insider = [[Frank Klein]]
 sort Filing_Date desc
+
 ```
+%%
+
+| File                                                                                          | Filing Type                                          | Date               |
+| --------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ------------------ |
+| [[Filings/2024/Form 4/11-27-24 Form 4 - Frank Klein.md\|11-27-24 Form 4 - Frank Klein]]       | [[Filings/Filing Definitions.md#Form 4\|Form 4]]     | November 27, 2024  |
+| [[Filings/2024/Form 144/11-25-24 Form 144 - Frank Klein.md\|11-25-24 Form 144 - Frank Klein]] | [[Filings/Filing Definitions.md#Form 144\|Form 144]] | November 25, 2024  |
+| [[Filings/2024/Form 3/9-20-24 Form 3 - Frank Klein.md\|9-20-24 Form 3 - Frank Klein]]         | [[Filings/Filing Definitions.md#Form 3\|Form 3]]     | September 20, 2024 |
+| [[Filings/2024/Form 4/9-20-24 Form 4 - Frank Klein.md\|9-20-24 Form 4 - Frank Klein]]         | [[Filings/Filing Definitions.md#Form 4\|Form 4]]     | September 20, 2024 |
+| [[Filings/2024/8-K/9-10-24 8-K - Frank Klein Hired.md\|9-10-24 8-K - Frank Klein Hired]]      | [[Filings/Filing Definitions.md#8-K\|8-K]]           | September 10, 2024 |
+
+%%DATAVIEW_PUBLISHER: end %%
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table title as "Title", published as "Published"
 from "News"
 where contains(insider, [[Frank Klein]])
 sort published desc
 ```
+%%
 
----
+| File                                                                                                                                                       | Title                                                                    | Published          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------ |
+| [[News/Rocket Lab Appoints Chief Operations Officer to Support Company Growth.md\|Rocket Lab Appoints Chief Operations Officer to Support Company Growth]] | Rocket Lab Appoints Chief Operations Officer to Support Company Growth   | September 10, 2024 |
+
+%%DATAVIEW_PUBLISHER: end %%
+
 
 ## Former Organizations
 

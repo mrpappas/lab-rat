@@ -6,20 +6,39 @@ website: https://www.darpa.mil/
 >[!summary]
 >The Defense Advanced Research Projects Agency (DARPA) is a research and development agency of the United States Department of Defense that focuses on developing new technologies for the military. DARPA's mission is to make significant investments in breakthrough technologies that will transform national security.
 ## 🚀 Launches
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table launch_date, outcome
 from "Launch/Launches"
 where contains(customer, [[DARPA]])
 sort launch_date desc
 ```
+%%
+
+| File                                                                            | launch_date      | outcome |
+| ------------------------------------------------------------------------------- | ---------------- | ------- |
+| [[Launch/Launches/005 'DARPA R3D2' - Electron.md\|005 'DARPA R3D2' - Electron]] | 2019-03-28 23:27 | Success |
+
+%%DATAVIEW_PUBLISHER: end %%
+
+
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table title as "Title", published as "Published"
 from "News"
 where contains(customer, [[DARPA]])
 sort published desc
 ```
+%%
 
+| File                                                                                                                                                                                                                               | Title                                                                                                       | Published        |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[News/Rocket Lab Supports Significant Milestone for DARPA and Space Development Agency on the Mandrake-2 Mission.md\|Rocket Lab Supports Significant Milestone for DARPA and Space Development Agency on the Mandrake-2 Mission]] | Rocket Lab Supports Significant Milestone for DARPA and Space Development Agency on the Mandrake-2 Mission  | July 13, 2022    |
+| [[News/Rocket Lab successfully launches R3D2 satellite for DARPA.md\|Rocket Lab successfully launches R3D2 satellite for DARPA]]                                                                                                   | Rocket Lab successfully launches R3D2 satellite for DARPA                                                   | March 28, 2019   |
+| [[News/Rocket Lab to launch dedicated Electron mission for DARPA.md\|Rocket Lab to launch dedicated Electron mission for DARPA]]                                                                                                   | Rocket Lab to launch dedicated Electron mission for DARPA                                                   | January 22, 2019 |
+
+%%DATAVIEW_PUBLISHER: end %%
 ## 🛰️ Space Systems
 
 ### Mandrake-2

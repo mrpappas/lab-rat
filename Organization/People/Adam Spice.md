@@ -13,24 +13,57 @@ linkedin: https://www.linkedin.com/in/adam-spice-086120/
 [Source](https://www.rocketlabusa.com/about/team/)
 
 ## 💼 SEC Filings
-
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table Filing_Type as "Filing Type", Filing_Date as "Date"
 from "Filings"
 where Insider = [[Adam Spice]]
 sort Filing_Date desc
 
 ```
+%%
+
+| File                                                                                        | Filing Type                                          | Date               |
+| ------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ------------------ |
+| [[Filings/2024/Form 4/11-27-24 Form 4 - Adam Spice.md\|11-27-24 Form 4 - Adam Spice]]       | [[Filings/Filing Definitions.md#Form 4\|Form 4]]     | November 27, 2024  |
+| [[Filings/2024/Form 144/11-25-24 Form 144 - Adam Spice.md\|11-25-24 Form 144 - Adam Spice]] | [[Filings/Filing Definitions.md#Form 144\|Form 144]] | November 25, 2024  |
+| [[Filings/2024/Form 4/8-26-24 Form 4 - Adam Spice.md\|8-26-24 Form 4 - Adam Spice]]         | [[Filings/Filing Definitions.md#Form 4\|Form 4]]     | August 26, 2024    |
+| [[Filings/2024/Form 144/8-23-24 Form 144 - Adam Spice.md\|8-23-24 Form 144 - Adam Spice]]   | [[Filings/Filing Definitions.md#Form 144\|Form 144]] | August 23, 2024    |
+| [[Filings/2024/Form 4/5-28-24 Form 4 - Adam Spice.md\|5-28-24 Form 4 - Adam Spice]]         | [[Filings/Filing Definitions.md#Form 4\|Form 4]]     | May 28, 2024       |
+| [[Filings/2024/Form 144/5-24-24 Form 144 - Adam Spice.md\|5-24-24 Form 144 - Adam Spice]]   | [[Filings/Filing Definitions.md#Form 144\|Form 144]] | May 24, 2024       |
+| [[Filings/2024/Form 4/3-07-24 Form 4 - Adam Spice.md\|3-07-24 Form 4 - Adam Spice]]         | [[Filings/Filing Definitions.md#Form 4\|Form 4]]     | March 13, 2024     |
+| [[Filings/2024/Form 144/3-05-24 Form 144 - Adam Spice.md\|3-05-24 Form 144 - Adam Spice]]   | [[Filings/Filing Definitions.md#Form 144\|Form 144]] | March 05, 2024     |
+| [[Filings/2023/Form 4/11-30-23 Form 4 - Adam Spice.md\|11-30-23 Form 4 - Adam Spice]]       | [[Filings/Filing Definitions.md#Form 4\|Form 4]]     | November 30, 2023  |
+| [[Filings/2023/Form 144/11-29-23 Form 144 - Adam Spice.md\|11-29-23 Form 144 - Adam Spice]] | [[Filings/Filing Definitions.md#Form 144\|Form 144]] | November 29, 2023  |
+| [[Filings/2023/Form 4/8-29-23 Form 4 - Adam Spice.md\|8-29-23 Form 4 - Adam Spice]]         | [[Filings/Filing Definitions.md#Form 4\|Form 4]]     | August 29, 2023    |
+| [[Filings/2023/Form 144/8-25-23 Form 144 - Adam Spice.md\|8-25-23 Form 144 - Adam Spice]]   | [[Filings/Filing Definitions.md#Form 144\|Form 144]] | August 25, 2023    |
+| [[Filings/2023/Form 4/5-31-23 Form 4 - Adam Spice.md\|5-31-23 Form 4 - Adam Spice]]         | [[Filings/Filing Definitions.md#Form 4\|Form 4]]     | May 30, 2023       |
+| [[Filings/2023/Form 144/5-26-23 Form 144 - Adam Spice.md\|5-26-23 Form 144 - Adam Spice]]   | [[Filings/Filing Definitions.md#Form 144\|Form 144]] | May 26, 2023       |
+| [[Filings/2023/Form 4/3-13-23 Form 4 - Adam Spice.md\|3-13-23 Form 4 - Adam Spice]]         | [[Filings/Filing Definitions.md#Form 4\|Form 4]]     | March 13, 2023     |
+| [[Filings/2022/Form 4/11-29-22 Form 4 - Adam Spice.md\|11-29-22 Form 4 - Adam Spice]]       | [[Filings/Filing Definitions.md#Form 4\|Form 4]]     | November 29, 2022  |
+| [[Filings/2022/Form 4/8-26-22 Form 4 - Adam Spice.md\|8-26-22 Form 4 - Adam Spice]]         | [[Filings/Filing Definitions.md#Form 4\|Form 4]]     | August 26, 2022    |
+| [[Filings/2022/Form 4/5-16-22 Form 4 - Adam Spice.md\|5-16-22 Form 4 - Adam Spice]]         | [[Filings/Filing Definitions.md#Form 4\|Form 4]]     | May 16, 2022       |
+| [[Filings/2021/Form 3/9-07-21 Form 3 - Adam Spice.md\|9-07-21 Form 3 - Adam Spice]]         | [[Filings/Filing Definitions.md#Form 3\|Form 3]]     | September 07, 2021 |
+
+%%DATAVIEW_PUBLISHER: end %%
 
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table title as "Title", published as "Published"
 from "News"
 where contains(insider, [[Adam Spice]])
 sort published desc
 ```
+%%
 
----
+| File                                                                                                                             | Title                                                      | Published      |
+| -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | -------------- |
+| [[News/Rocket Lab appoints Adam Spice as Chief Financial Officer.md\|Rocket Lab appoints Adam Spice as Chief Financial Officer]] | Rocket Lab appoints Adam Spice as Chief Financial Officer  | April 03, 2018 |
+
+%%DATAVIEW_PUBLISHER: end %%
+
+
 ## 📇 Other Organizations
 
 #### Former Orgs

@@ -19,23 +19,38 @@ Beyond his venture capital endeavors, Cowan co-founded VeriSign, serving as its 
 Cowan has been ranked among the top venture capitalists globally, including a sixth-place ranking on Forbes' Midas List and a tie for fourth in the Midas List Hall of Fame.
 Through his strategic investments and leadership, David Cowan has significantly influenced the growth and success of Rocket Lab and other technology ventures.
 
-## SEC Filings
-```dataview
+## 💼 SEC Filings
+%%DATAVIEW_PUBLISHER: start
+```
 table Filing_Type as "Filing Type", Filing_Date as "Date"
 from "Filings"
 where Insider = [[David Cowan]]
 sort Filing_Date desc
-```
 
+```
+%%
+
+| File                                                                                  | Filing Type                                      | Date               |
+| ------------------------------------------------------------------------------------- | ------------------------------------------------ | ------------------ |
+| [[Filings/2022/Form 4/6-27-22 Form 4 - David Cowan.md\|6-27-22 Form 4 - David Cowan]] | [[Filings/Filing Definitions.md#Form 4\|Form 4]] | June 27, 2022      |
+| [[Filings/2021/Form 3/9-07-21 Form 3 - David Cowan.md\|9-07-21 Form 3 - David Cowan]] | [[Filings/Filing Definitions.md#Form 3\|Form 3]] | September 07, 2021 |
+
+%%DATAVIEW_PUBLISHER: end %%
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table title as "Title", published as "Published"
 from "News"
 where contains(insider, [[David Cowan]])
 sort published desc
 ```
+%%
 
----
+| File | Title | Published |
+| ---- | ----- | --------- |
+
+%%DATAVIEW_PUBLISHER: end %%
+
 ## Former Organizations
 
 - VeriSign

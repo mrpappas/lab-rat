@@ -8,17 +8,39 @@ TriSept provides launch integration, mission management, and engineering service
 
 
 ## 🚀 Launches
-
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table launch_date, outcome
 from "Launch/Launches"
 where contains(customer, [[Trisept]])
 sort launch_date desc
 ```
+%%
+
+| File                                                                                            | launch_date      | outcome |
+| ----------------------------------------------------------------------------------------------- | ---------------- | ------- |
+| [[Launch/Launches/019 'They Go Up So Fast' - Electron.md\|019 'They Go Up So Fast' - Electron]] | 2021-03-22 22:30 | Success |
+| [[Launch/Launches/016 'Return to Sender' - Electron.md\|016 'Return to Sender' - Electron]]     | 2020-11-20 02:20 | Success |
+
+%%DATAVIEW_PUBLISHER: end %%
+
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table title as "Title", published as "Published"
 from "News"
 where contains(customer, [[Trisept]])
 sort published desc
 ```
+%%
+
+| File                                                                                                                                                                                                                                                                           | Title                                                                                                                             | Published         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[News/Rocket Lab Successfully Launches 19th Electron, Deploys 100th Satellite.md\|Rocket Lab Successfully Launches 19th Electron, Deploys 100th Satellite]]                                                                                                                   | Rocket Lab Successfully Launches 19th Electron, Deploys 100th Satellite                                                           | March 23, 2021    |
+| [[News/Rocket Lab’s Next Mission to Launch 100th Satellite and Deploy Next-Generation Photon Spacecraft in Preparation for Moon Mission.md\|Rocket Lab’s Next Mission to Launch 100th Satellite and Deploy Next-Generation Photon Spacecraft in Preparation for Moon Mission]] | Rocket Lab’s Next Mission to Launch 100th Satellite and Deploy Next-Generation Photon Spacecraft in Preparation for Moon Mission  | February 09, 2021 |
+| [[News/How to bring a rocket back from space.md\|How to bring a rocket back from space]]                                                                                                                                                                                       | How to bring a rocket back from space                                                                                             | November 30, 2020 |
+| [[News/Rocket Lab Launches 16th Mission, Completes Booster Recovery.md\|Rocket Lab Launches 16th Mission, Completes Booster Recovery]]                                                                                                                                         | Rocket Lab Launches 16th Mission, Completes Booster Recovery                                                                      | November 22, 2020 |
+| [[News/Rocket Lab to Attempt First Stage Recovery on Next Mission.md\|Rocket Lab to Attempt First Stage Recovery on Next Mission]]                                                                                                                                             | Rocket Lab to Attempt First Stage Recovery on Next Mission                                                                        | November 05, 2020 |
+| [[News/Rocket Lab to Launch Most Diverse Mission Yet.md\|Rocket Lab to Launch Most Diverse Mission Yet]]                                                                                                                                                                       | Rocket Lab to Launch Most Diverse Mission Yet                                                                                     | November 02, 2020 |
+
+%%DATAVIEW_PUBLISHER: end %%

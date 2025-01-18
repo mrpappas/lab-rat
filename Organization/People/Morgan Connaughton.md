@@ -19,23 +19,37 @@ Ms. Bailey earned her bachelor’s degree in Communication Studies from th
 [Source](https://www.rocketlabusa.com/about/team/)
 
 
-## SEC Filings
-```dataview
+## 💼 SEC Filings
+%%DATAVIEW_PUBLISHER: start
+```
 table Filing_Type as "Filing Type", Filing_Date as "Date"
 from "Filings"
 where Insider = [[Morgan Connaughton]]
 sort Filing_Date desc
+
 ```
+%%
+
+| File | Filing Type | Date |
+| ---- | ----------- | ---- |
+
+%%DATAVIEW_PUBLISHER: end %%
 
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table title as "Title", published as "Published"
 from "News"
 where contains(insider, [[Morgan Connaughton]])
 sort published desc
 ```
+%%
 
----
+| File | Title | Published |
+| ---- | ----- | --------- |
+
+%%DATAVIEW_PUBLISHER: end %%
+
 ## Former Organizations
 
 -  Porter Novelli

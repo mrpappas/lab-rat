@@ -3,10 +3,12 @@ title: "Rocket Lab Selected by NASA to Provide Neutron Launch Services Under VAD
 source: "https://www.rocketlabusa.com/updates/rocket-lab-selected-by-nasa-to-provide-neutron-launch-services-under-vadr-launch-contract/"
 author:
   - "[[Rocket Lab]]"
-published: 2025-1-09
+published: 2025-01-09
 description: "*Long Beach, California. January 9, 2025*. Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced a mutual agreement with NASA has been reached to include Neutron launch services to the agency through Rocket Lab’s existing VADR (Venture-Class Acquisition of Dedicated and Rideshare) contract."
 customer:
  - "[[NASA]]"
+mission: 
+ - "[[VADR]]"
 tags:
  - neutron
  - contract

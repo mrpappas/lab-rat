@@ -16,23 +16,38 @@ Mr. Whalen has more than 28 years of national security and aerospace experience 
 Mr. Whalen previously served as a US Naval Aviator accruing more than 500 combat flight-hours and holds a BS in Materials Engineering from Drexel University.
 [Source](https://www.rocketlabusa.com/about/team/)
 
-## SEC Filing
-```dataview
+## 💼 SEC Filings
+%%DATAVIEW_PUBLISHER: start
+```
 table Filing_Type as "Filing Type", Filing_Date as "Date"
 from "Filings"
 where Insider = [[Mike Whalen]]
 sort Filing_Date desc
+
 ```
+%%
+
+| File | Filing Type | Date |
+| ---- | ----------- | ---- |
+
+%%DATAVIEW_PUBLISHER: end %%
 
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table title as "Title", published as "Published"
 from "News"
 where contains(insider, [[Mike Whalen]])
 sort published desc
 ```
+%%
 
----
+| File                                                                                                                                                                                     | Title                                                                                  | Published         |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ----------------- |
+| [[News/Rocket Lab Closes Acquisition Of Space Hardware Company Planetary Systems Corporation.md\|Rocket Lab Closes Acquisition Of Space Hardware Company Planetary Systems Corporation]] | Rocket Lab Closes Acquisition Of Space Hardware Company Planetary Systems Corporation  | December 01, 2021 |
+
+%%DATAVIEW_PUBLISHER: end %%
+
 ## Former Organizations
 
 -  [[Planetary Systems Corporation (PSC)]]

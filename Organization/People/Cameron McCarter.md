@@ -16,23 +16,38 @@ Cameron McCarter is Rocket Lab’s Vice President of Supply Chain and is respons
 Cameron holds a Bachelor of Science in Business Management from Arizona State University, as well as a Master of Business Administration from the Thunderbird School of Global Management.
 [Source](https://www.rocketlabusa.com/about/team/)
 
-## SEC Filings
-```dataview
+## 💼 SEC Filings
+%%DATAVIEW_PUBLISHER: start
+```
 table Filing_Type as "Filing Type", Filing_Date as "Date"
 from "Filings"
 where Insider = [[Cameron McCarter]]
 sort Filing_Date desc
+
 ```
+%%
+
+| File | Filing Type | Date |
+| ---- | ----------- | ---- |
+
+%%DATAVIEW_PUBLISHER: end %%
 
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table title as "Title", published as "Published"
 from "News"
 where contains(insider, [[Cameron McCarter]])
 sort published desc
 ```
+%%
 
----
+| File | Title | Published |
+| ---- | ----- | --------- |
+
+%%DATAVIEW_PUBLISHER: end %%
+
+
 ## Former Organizations
 
 -  SunPower

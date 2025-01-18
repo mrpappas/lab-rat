@@ -10,22 +10,46 @@ website: https://unseenlabs.space/
 
 
 ## 🚀 Launches
-
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table launch_date, outcome
 from "Launch/Launches"
 where contains(customer, [[Unseenlabs]])
 sort launch_date desc
 ```
+%%
+
+| File                                                                                                | launch_date      | outcome |
+| --------------------------------------------------------------------------------------------------- | ---------------- | ------- |
+| [[Launch/Launches/026 'There And Back Again' - Electron.md\|026 'There And Back Again' - Electron]] | 2022-05-02 22:49 | Success |
+| [[Launch/Launches/016 'Return to Sender' - Electron.md\|016 'Return to Sender' - Electron]]         | 2020-11-20 02:20 | Success |
+| [[Launch/Launches/008 'Look Ma, No Hands' - Electron.md\|008 'Look Ma, No Hands' - Electron]]       | 2019-08-19 12:12 | Success |
+
+%%DATAVIEW_PUBLISHER: end %%
+
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table title as "Title", published as "Published"
 from "News"
 where contains(customer, [[Unseenlabs]])
 sort published desc
 ```
+%%
 
----
+| File                                                                                                                                                                                                                                                 | Title                                                                                                                | Published         |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[News/Rocket Lab Successfully Deploys 34 Satellites and Catches Rocket Booster Returning from Space with Helicopter.md\|Rocket Lab Successfully Deploys 34 Satellites and Catches Rocket Booster Returning from Space with Helicopter]]             | Rocket Lab Successfully Deploys 34 Satellites and Catches Rocket Booster Returning from Space with Helicopter        | May 02, 2022      |
+| [[News/Rocket Lab to Attempt First Mid-Air Helicopter Capture of the Electron Rocket During Next Mission.md\|Rocket Lab to Attempt First Mid-Air Helicopter Capture of the Electron Rocket During Next Mission]]                                     | Rocket Lab to Attempt First Mid-Air Helicopter Capture of the Electron Rocket During Next Mission                    | April 06, 2022    |
+| [[News/How to bring a rocket back from space.md\|How to bring a rocket back from space]]                                                                                                                                                             | How to bring a rocket back from space                                                                                | November 30, 2020 |
+| [[News/Rocket Lab Launches 16th Mission, Completes Booster Recovery.md\|Rocket Lab Launches 16th Mission, Completes Booster Recovery]]                                                                                                               | Rocket Lab Launches 16th Mission, Completes Booster Recovery                                                         | November 22, 2020 |
+| [[News/Rocket Lab to Attempt First Stage Recovery on Next Mission.md\|Rocket Lab to Attempt First Stage Recovery on Next Mission]]                                                                                                                   | Rocket Lab to Attempt First Stage Recovery on Next Mission                                                           | November 05, 2020 |
+| [[News/Rocket Lab to Launch Most Diverse Mission Yet.md\|Rocket Lab to Launch Most Diverse Mission Yet]]                                                                                                                                             | Rocket Lab to Launch Most Diverse Mission Yet                                                                        | November 02, 2020 |
+| [[News/Rocket Lab successfully launches eighth Electron mission,  takes next step in recovery and reuse for future flights.md\|Rocket Lab successfully launches eighth Electron mission,  takes next step in recovery and reuse for future flights]] | Rocket Lab successfully launches eighth Electron mission,  takes next step in recovery and reuse for future flights  | August 20, 2019   |
+| [[News/Rocket Lab’s Next Mission Focused On Building Constellations And Enabling R&D.md\|Rocket Lab’s Next Mission Focused On Building Constellations And Enabling R&D]]                                                                             | Rocket Lab’s Next Mission Focused On Building Constellations And Enabling R&D                                        | July 22, 2019     |
+
+%%DATAVIEW_PUBLISHER: end %%
+
 ## ✏️ Notes
 
  - On April 29 2024 **Unseen Labs** announced their next-gen satellite constellation, planned to be launched in 2026. This new constellation would expand "its surveillance capabilities to include terrestrial and space environments in addition to maritime". This announcement was made shortly after they secured and €85 Million capital raise. 

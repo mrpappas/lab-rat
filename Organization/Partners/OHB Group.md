@@ -8,17 +8,35 @@ OHB Group is a leading European space and technology company specializing in the
 
 
 ## 🚀 Launches
-
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table launch_date, outcome
 from "Launch/Launches"
 where contains(customer, [[OHB Group]])
 sort launch_date desc
 ```
+%%
+
+| File                                                                                                                | launch_date      | outcome |
+| ------------------------------------------------------------------------------------------------------------------- | ---------------- | ------- |
+| [[Launch/Launches/018 'Another One Leaves the Crust' - Electron.md\|018 'Another One Leaves the Crust' - Electron]] | 2021-01-20 07:26 | Success |
+
+%%DATAVIEW_PUBLISHER: end %%
+
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table title as "Title", published as "Published"
 from "News"
 where contains(customer, [[OHB Group]])
 sort published desc
 ```
+%%
+
+| File                                                                                                                                                                                                                 | Title                                                                                                | Published        |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------- |
+| [[News/Rocket Lab Demonstrates New Orbital Maneuvering Capability with Most Complex Kick Stage Mission Yet.md\|Rocket Lab Demonstrates New Orbital Maneuvering Capability with Most Complex Kick Stage Mission Yet]] | Rocket Lab Demonstrates New Orbital Maneuvering Capability with Most Complex Kick Stage Mission Yet  | January 26, 2021 |
+| [[News/Rocket Lab’s First Mission of 2021 to Launch Communications Satellite for OHB Group  Rocket Lab.md\|Rocket Lab’s First Mission of 2021 to Launch Communications Satellite for OHB Group  Rocket Lab]]         | Rocket Lab’s First Mission of 2021 to Launch Communications Satellite for OHB Group                  | January 05, 2021 |
+| [[News/Rocket Lab to Launch Dedicated Mission for European Space Technology Company OHB Group.md\|Rocket Lab to Launch Dedicated Mission for European Space Technology Company OHB Group]]                           | Rocket Lab to Launch Dedicated Mission for European Space Technology Company OHB Group               | August 25, 2020  |
+
+%%DATAVIEW_PUBLISHER: end %%

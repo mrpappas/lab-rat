@@ -8,19 +8,34 @@ website: https://www.yorkspacesystems.com/
 
 
 ## 🚀 Launches
-
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table launch_date, outcome
 from "Launch/Launches"
 where contains(customer, [[York Space Systems]])
 sort launch_date desc
 ```
+%%
+
+| File                                                                        | launch_date      | outcome |
+| --------------------------------------------------------------------------- | ---------------- | ------- |
+| [[Launch/Launches/006 'STP-27RD' - Electron.md\|006 'STP-27RD' - Electron]] | 2019-05-05 06:00 | Success |
+
+%%DATAVIEW_PUBLISHER: end %%
 
 ## 📰 News
-
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table title as "Title", published as "Published"
 from "News"
 where contains(customer, [[York Space Systems]])
 sort published desc
 ```
+%%
+
+| File                                                                                                                                                                                     | Title                                                                                  | Published      |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | -------------- |
+| [[News/Rocket Lab successfully launches three R&D satellites to orbit for the U.S. Air Force.md\|Rocket Lab successfully launches three R&D satellites to orbit for the U.S. Air Force]] | Rocket Lab successfully launches three R&D satellites to orbit for the U.S. Air Force  | May 05, 2019   |
+| [[News/Rocket Lab to launch three R&D satellites for the U.S. Air Force.md\|Rocket Lab to launch three R&D satellites for the U.S. Air Force]]                                           | Rocket Lab to launch three R&D satellites for the U.S. Air Force                       | April 04, 2019 |
+
+%%DATAVIEW_PUBLISHER: end %%

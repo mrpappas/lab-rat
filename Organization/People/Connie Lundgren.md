@@ -14,23 +14,36 @@ Connie Lundgren is Vice President of People & Culture and is responsible for Roc
 Connie is a graduate of California Polytechnic State University, San Luis Obispo, holds a Bachelor’s degree in political science, a Juris Doctor degree, and remains an active member of the California State Bar.
 [Source](https://www.rocketlabusa.com/about/team/)
 
-## SEC Filings
-```dataview
+## 💼 SEC Filings
+%%DATAVIEW_PUBLISHER: start
+```
 table Filing_Type as "Filing Type", Filing_Date as "Date"
 from "Filings"
 where Insider = [[Connie Lundgren]]
 sort Filing_Date desc
-```
 
+```
+%%
+
+| File | Filing Type | Date |
+| ---- | ----------- | ---- |
+
+%%DATAVIEW_PUBLISHER: end %%
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table title as "Title", published as "Published"
 from "News"
 where contains(insider, [[Connie Lundgren]])
 sort published desc
 ```
+%%
 
----
+| File | Title | Published |
+| ---- | ----- | --------- |
+
+%%DATAVIEW_PUBLISHER: end %%
+
 ## Former Organizations
 
 -  General Dynamics

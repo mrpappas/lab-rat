@@ -7,9 +7,16 @@ website: https://www.sailgptechnologies.com/
 >SailGP Technologies is a leading provider of high-performance design and engineering solutions, with a rich history rooted in elite-level sailing competitions. Specializing in advanced composite engineering, fluid dynamics, and control systems, the company has been instrumental in developing cutting-edge racing yachts, notably the F50 catamarans used in the SailGP racing series.
 
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table title as "Title", published as "Published"
 from "News"
-where contains(partner, [[SailGP]])
+where contains(customer, [[SailGP]])
 sort published desc
 ```
+%%
+
+| File | Title | Published |
+| ---- | ----- | --------- |
+
+%%DATAVIEW_PUBLISHER: end %%

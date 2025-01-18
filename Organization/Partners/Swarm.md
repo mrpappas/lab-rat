@@ -10,22 +10,40 @@ Swarm Technologies, a subsidiary of SpaceX, provides affordable and reliable glo
 
 
 ## 🚀 Launches
-
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table launch_date, outcome
 from "Launch/Launches"
 where contains(customer, [[Swarm]])
 sort launch_date desc
 ```
+%%
+
+| File                                                                                        | launch_date      | outcome |
+| ------------------------------------------------------------------------------------------- | ---------------- | ------- |
+| [[Launch/Launches/016 'Return to Sender' - Electron.md\|016 'Return to Sender' - Electron]] | 2020-11-20 02:20 | Success |
+
+%%DATAVIEW_PUBLISHER: end %%
+
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table title as "Title", published as "Published"
 from "News"
 where contains(customer, [[Swarm]])
 sort published desc
 ```
+%%
 
----
+| File                                                                                                                                   | Title                                                        | Published         |
+| -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ----------------- |
+| [[News/How to bring a rocket back from space.md\|How to bring a rocket back from space]]                                               | How to bring a rocket back from space                        | November 30, 2020 |
+| [[News/Rocket Lab Launches 16th Mission, Completes Booster Recovery.md\|Rocket Lab Launches 16th Mission, Completes Booster Recovery]] | Rocket Lab Launches 16th Mission, Completes Booster Recovery | November 22, 2020 |
+| [[News/Rocket Lab to Attempt First Stage Recovery on Next Mission.md\|Rocket Lab to Attempt First Stage Recovery on Next Mission]]     | Rocket Lab to Attempt First Stage Recovery on Next Mission   | November 05, 2020 |
+| [[News/Rocket Lab to Launch Most Diverse Mission Yet.md\|Rocket Lab to Launch Most Diverse Mission Yet]]                               | Rocket Lab to Launch Most Diverse Mission Yet                | November 02, 2020 |
+
+%%DATAVIEW_PUBLISHER: end %%
+
 ### ✏️ Notes
 
 - Acquired by [[SpaceX]] August 6 2021. [Source](https://www.satellitetoday.com/finance/2021/08/09/spacex-buys-out-satellite-iot-startup-swarm-technologies/)

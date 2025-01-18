@@ -16,11 +16,17 @@ NOAA plans to launch the SWFO-L1 satellite to Earth-Sun Lagrange Point 1 in 2025
 ![[Pasted image 20250112142552.jpg]]
 
 ## 📰 News
-
-```dataview
-table title as "Title", published as "Published"
+%% DATAVIEW_PUBLISHER: start
+```
+table published as "Published"
 from "News"
 where contains(mission, [[NOAA SWFO-L1]])
 sort published desc
 
 ```
+%%
+
+| File | Published |
+| ---- | --------- |
+
+%% DATAVIEW_PUBLISHER: end %%

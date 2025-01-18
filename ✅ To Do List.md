@@ -49,5 +49,7 @@
 - [ ] [[Terran Orbital]]
 - [ ] [[ULA (United Launch Alliance)]]
 - [ ] [[Virgin Orbit]]
+- [ ] [[Boeing]]
+- [ ] [[Millennium Space Systems]]
 
 

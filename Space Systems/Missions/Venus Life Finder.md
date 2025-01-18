@@ -7,14 +7,19 @@ Rocket Lab is sending the first private mission to Venus in search of supporting
 
 
 ## 📰 News
-
-```dataview
-table title as "Title", published as "Published"
+%% DATAVIEW_PUBLISHER: start
+```
+table published as "Published"
 from "News"
 where contains(mission, [[SDA Proliferated Warfighter Space Architecture (PWSA)]])
 or contains(mission, [[Venus Life Finder]])
 sort published desc
 
 ```
+%%
 
+| File | Published |
+| ---- | --------- |
+
+%% DATAVIEW_PUBLISHER: end %%
 ## ✏️ Notes

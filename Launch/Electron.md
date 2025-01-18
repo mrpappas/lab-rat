@@ -64,11 +64,19 @@ Rocket Lab has also developed an optional third stage, known as the "kick stage"
 ## Curie Engine
 
 Curie engine stuff goes here
+
 ## 📰 News
-```dataview
+
+%%DATAVIEW_PUBLISHER: start
+```
 table title as "Title", published as "Published"
 from "News"
-where contains(tags, "electron")
+where contains(tags, "Electron")
 sort published desc
 ```
+%%
 
+| File | Title | Published |
+| ---- | ----- | --------- |
+
+%%DATAVIEW_PUBLISHER: end%%

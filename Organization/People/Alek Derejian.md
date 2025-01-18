@@ -21,21 +21,36 @@ He has held positions as FAA, EASA and CAA NZ Part 145 Senior Person while runni
 [Source](https://www.rocketlabusa.com/about/team/)
 
 ## 💼 SEC Filings
-
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table Filing_Type as "Filing Type", Filing_Date as "Date"
 from "Filings"
 where Insider = [[Alek Derejian]]
 sort Filing_Date desc
+
 ```
+%%
+
+| File | Filing Type | Date |
+| ---- | ----------- | ---- |
+
+%%DATAVIEW_PUBLISHER: end %%
 
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table title as "Title", published as "Published"
 from "News"
 where contains(insider, [[Alek Derejian]])
 sort published desc
 ```
+%%
+
+| File | Title | Published |
+| ---- | ----- | --------- |
+
+%%DATAVIEW_PUBLISHER: end %%
+
 
 ---
 ## Former Organizations

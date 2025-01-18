@@ -25,11 +25,18 @@ Satellite health analysis and reporting, anomaly resolution, performance trendin
 
 ![[Globalstar_constellation-Globalstar.webp]]
 ## 📰 News
-
-```dataview
-table title as "Title", published as "Published"
+%% DATAVIEW_PUBLISHER: start
+```
+table published as "Published"
 from "News"
 where contains(mission, [[Globalstar (MDA) Satellite Buses]])
 sort published desc
 
 ```
+%%
+
+| File                                                                                                                                                           | Published         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[News/Rocket Lab Selected by MDA to Design and Build Spacecraft for Globalstar.md\|Rocket Lab Selected by MDA to Design and Build Spacecraft for Globalstar]] | February 24, 2022 |
+
+%% DATAVIEW_PUBLISHER: end %%

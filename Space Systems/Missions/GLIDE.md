@@ -15,11 +15,18 @@ https://www.rocketlabusa.com/missions/upcoming-missions/nasa-glide/
 
 ![[Pasted image 20250112144616.jpg]]
 ## 📰 News
-
-```dataview
-table title as "Title", published as "Published"
+%% DATAVIEW_PUBLISHER: start
+```
+table published as "Published"
 from "News"
 where contains(mission, [[GLIDE]])
 sort published desc
 
 ```
+%%
+
+| File                                                                                                                                                       | Published     |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| [[News/Rocket Lab selected by Ball Aerospace to Power NASA’s GLIDE Spacecraft.md\|Rocket Lab selected by Ball Aerospace to Power NASA’s GLIDE Spacecraft]] | June 09, 2022 |
+
+%% DATAVIEW_PUBLISHER: end %%

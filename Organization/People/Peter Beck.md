@@ -16,22 +16,49 @@ An award-winning engineer, Sir Peter has been honored with numerous accolades, i
 
 
 ## 💼 SEC Filings
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table Filing_Type as "Filing Type", Filing_Date as "Date"
 from "Filings"
 where Insider = [[Peter Beck]]
 sort Filing_Date desc
+
 ```
+%%
+
+| File                                                                                                                                         | Filing Type                                                  | Date               |
+| -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ------------------ |
+| [[Filings/2024/13G+13D/12-05-24 SC 13DA - Peter Beck.md\|12-05-24 SC 13DA - Peter Beck]]                                                     | [[Filings/Filing Definitions.md#Schedule 13D\|Schedule 13D]] | December 05, 2024  |
+| [[Filings/2024/8-K/12-05-24 8-K - Preferred Stock Agreement – Sir Peter Beck.md\|12-05-24 8-K - Preferred Stock Agreement – Sir Peter Beck]] | [[Filings/Filing Definitions.md#8-K\|Form 8-K]]              | December 05, 2024  |
+| [[Filings/2024/Form 4/12-05-24 Form 4 - Peter Beck.md\|12-05-24 Form 4 - Peter Beck]]                                                        | [[Filings/Filing Definitions.md#Form 4\|Form 4]]             | December 05, 2024  |
+| [[Filings/2023/13G+13D/9-18-23 SC 13DA - Peter Beck.md\|9-18-23 SC 13DA - Peter Beck]]                                                       | [[Filings/Filing Definitions.md#Schedule 13D\|Schedule 13D]] | September 18, 2023 |
+| [[Filings/2023/Form 4/9-13-23 Form 4 - Peter Beck.md\|9-13-23 Form 4 - Peter Beck]]                                                          | [[Filings/Filing Definitions.md#Form 4\|Form 4]]             | September 13, 2023 |
+| [[Filings/2023/Form 144/9-11-23 Form 144 - Peter Beck.md\|9-11-23 Form 144 - Peter Beck]]                                                    | [[Filings/Filing Definitions.md#Form 144\|Form 144]]         | September 11, 2023 |
+| [[Filings/2021/13G+13D/9-07-21 SC 13D - Peter Beck.md\|9-07-21 SC 13D - Peter Beck]]                                                         | [[Filings/Filing Definitions.md#Schedule 13D\|Schedule 13D]] | September 07, 2021 |
+| [[Filings/2021/Form 3/9-07-21 Form 3 - Peter Beck.md\|9-07-21 Form 3 - Peter Beck]]                                                          | [[Filings/Filing Definitions.md#Form 3\|Form 3]]             | September 07, 2021 |
+
+%%DATAVIEW_PUBLISHER: end %%
 
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table title as "Title", published as "Published"
 from "News"
 where contains(insider, [[Peter Beck]])
 sort published desc
 ```
+%%
 
----
+| File                                                                                                                                                         | Title                                                                    | Published        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------ | ---------------- |
+| [[News/Progress Update, June.md\|Progress Update, June]]                                                                                                     | Progress Update, June                                                    | June 14, 2017    |
+| [[News/CEO finalist in 2015 Sanitarium Innovator of the Year Award.md\|CEO finalist in 2015 Sanitarium Innovator of the Year Award]]                         | CEO finalist in 2015 Sanitarium Innovator of the Year Award              | August 18, 2015  |
+| [[News/CEO wins Innovator of the Year at 2015 New Zealander of the Year Awards.md\|CEO wins Innovator of the Year at 2015 New Zealander of the Year Awards]] | CEO wins Innovator of the Year at 2015 New Zealander of the Year Awards  | March 31, 2015   |
+| [[News/Rocket Lab Takes Home Two Innovation Awards.md\|Rocket Lab Takes Home Two Innovation Awards]]                                                         | Rocket Lab Takes Home Two Innovation Awards                              | October 31, 2014 |
+
+%%DATAVIEW_PUBLISHER: end %%
+
+
 ## Other Organizations
 
 n/a

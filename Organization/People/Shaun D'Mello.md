@@ -16,22 +16,36 @@ Shaun previously oversaw the execution of Electron test and launch operations, d
 While at Rocket Lab, Shaun has lead the site selection, design, development and operations of Rocket Lab's launch sites in USA and New Zealand including the world’s first private orbital launch range, Launch Complex 1 in Mahia, New Zealand. Shaun has been with the Rocket Lab team since 2014 and has held roles in engineering and leadership. Shaun holds a First Class Honors degree in Aerospace Engineering from the University of Sydney.
 [Source](https://www.rocketlabusa.com/about/team/)
 
-## SEC Filings
-```dataview
+## 💼 SEC Filings
+%%DATAVIEW_PUBLISHER: start
+```
 table Filing_Type as "Filing Type", Filing_Date as "Date"
 from "Filings"
 where Insider = [[Shaun D'Mello]]
 sort Filing_Date desc
+
 ```
+%%
+
+| File | Filing Type | Date |
+| ---- | ----------- | ---- |
+
+%%DATAVIEW_PUBLISHER: end %%
 
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table title as "Title", published as "Published"
 from "News"
 where contains(insider, [[Shaun D'Mello]])
 sort published desc
 ```
+%%
 
----
+| File | Title | Published |
+| ---- | ----- | --------- |
+
+%%DATAVIEW_PUBLISHER: end %%
+
 ## Other Organizations
 n/a
