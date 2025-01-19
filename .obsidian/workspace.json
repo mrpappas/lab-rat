@@ -11,15 +11,14 @@
             "id": "9f28d8283c6dff2b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "News/Rocket Lab Successfully Deploys Satellite for Synspective, Caps Off Year with 60% Increase in Launches YoY.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "aFile": "Launch/Launches/058 'Owl The Way Up' - Electron.md",
+                "bFile": "Launch/Launches/058 'Owl The Way Up' - Electron.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Rocket Lab Successfully Deploys Satellite for Synspective, Caps Off Year with 60% Increase in Launches YoY"
+              "icon": "diff",
+              "title": "Diff: 058 'Owl The Way Up' - Electron"
             }
           }
         ]
@@ -53,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#launch",
+                "query": "twitter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -188,6 +187,10 @@
   },
   "active": "9f28d8283c6dff2b",
   "lastOpenFiles": [
+    "🏠 Start Here.md",
+    "Misc/Reports/Payload Space's Rocket Lab Report.md",
+    "Launch/Launches/058 'Owl The Way Up' - Electron.md",
+    "News/Rocket Lab Successfully Deploys Satellite for Synspective, Caps Off Year with 60% Increase in Launches YoY.md",
     "Organization/Partners/Synspective.md",
     "Launch/Launches/010 'Running Out Of Fingers' - Electron.md",
     "Launch/Launches/009 'As The Crow Flies' - Electron.md",
@@ -202,7 +205,6 @@
     "Locations/Neutron Production Complex.md",
     "Locations/Long Beach Complex.md",
     "Locations/Launch Complex 3.md",
-    "Misc/Reports/Payload Space's Rocket Lab Report.md",
     "News/Wairoa College student awarded inaugural Rocket Lab scholarship.md",
     "News/Vector Acquisition Corporation Shareholders Approve Proposed Merger With Rocket Lab.md",
     "News/Varda Space Industries Orders Fourth Photon Spacecraft from Rocket Lab to Enable In-Space Manufacturing.md",
@@ -211,9 +213,6 @@
     "News/The future of rocket manufacturing Rocket Lab unveils new high-volume production facility.md",
     "News/The Federal Aviation Administration Approves Rocket Lab To Resume Launches.md",
     "News/Still Testing launch window begins.md",
-    "News/Stand-out Wairoa College student awarded Rocket Lab scholarship to pursue engineering future.md",
-    "News/Space Is Open For Business, Online.md",
-    "News/Space Flight Laboratory Selects Rocket Lab to Launch Telesat Broadband Satellite.md",
     "Rocket_Lab_Report_Final.pdf",
     "Misc/Reports",
     "Misc",
