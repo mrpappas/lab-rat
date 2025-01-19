@@ -26,15 +26,15 @@
 
 ## 🛰️ Spacecraft
 
-- [ ] Finish [[Explorer]]
-- [ ] [[Lightning]]
-- [ ] [[Photon]]
-- [ ] [[Pioneer]]
+- [x] Finish [[Explorer]]
+- [x] [[Lightning]]
+- [x] [[Photon]]
+- [x] [[Pioneer]]
 - [ ] Add corresponding spacecraft to missions, and launches
 
 ## 📡 Space Systems
 
-- [ ] Finish [[ESCAPADE]]
+- [x] Finish [[ESCAPADE]]
 - [ ] [[VICTUS HAZE]]
 - [ ] [[Mission Operations Control Center for MethaneSAT]]
 

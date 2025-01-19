@@ -26,14 +26,15 @@
             "id": "71941a9277e2bf6c",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Organization/Competitors/Terran Orbital.md",
-                "bFile": "Organization/Competitors/Terran Orbital.md",
-                "aRef": ""
+                "file": "Organization/People/Vinod Khosla.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Terran Orbital"
+              "icon": "lucide-file",
+              "title": "Vinod Khosla"
             }
           }
         ],
@@ -201,8 +202,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "71941a9277e2bf6c",
+  "active": "6449ebb6b9cf2b96",
   "lastOpenFiles": [
+    "Launch/Electron.md",
+    "Organization/People/Vinod Khosla.md",
+    "🙋 People.md",
+    "Organization/People/Adam Spice.md",
+    "🤝 Partners.md",
+    "🏠 Start Here.md",
+    "💼 SEC Filings (All).md",
+    "💼 SEC Filings (2025).md",
+    "💼 SEC Filings (2024).md",
+    "💰 Acquisitions.md",
+    "Financial/Capital Raises/2024 Convertible Senior Note.md",
+    "✅ To Do List.md",
+    "🛰️ Space Systems.md",
     "Organization/Competitors/Boeing.md",
     "Vault-Assets/PDFs/Owl-The-Way-Up-Press-Kit.md",
     "Organization/Competitors/Virgin Orbit.md",
@@ -216,21 +230,8 @@
     "Organization/Competitors/General Dynamics Mission Systems.md",
     "Organization/Competitors/Firefly Aerospace.md",
     "Organization/Competitors/Blue Origin.md",
-    "Launch/Launches/024 'The Owl's Night Continues' - Electron.md",
-    "Launch/Neutron.md",
-    "🛰️ Space Systems.md",
     "Vault-Assets/PDFs/Rocket_Lab_Report_Final.pdf",
-    "Space Systems/Star Trackers/ST-16HV Star Tracker.md",
-    "🙋 People.md",
     "Vault-Assets/Images/Pasted image 20250119153357.png",
-    "Space Systems/Spacecraft/Photon.md",
-    "Space Systems/Spacecraft/Pioneer.md",
-    "Organization/Partners/Varda Space Industries.md",
-    "News/Rocket Lab Inks Deal with Varda Space Industries to Supply Multiple Photon Spacecraft for Space Manufacturing Missions.md",
-    "News/Varda Space Industries Orders Fourth Photon Spacecraft from Rocket Lab to Enable In-Space Manufacturing.md",
-    "News/Rocket Lab Completes Custom-Built Photon Spacecraft for Varda Space Industries.md",
-    "News/Rocket Lab Successfully Returns Spacecraft Capsule to Earth, Brings Back Pharmaceuticals Made in Space.md",
-    "News/Rocket Lab Completes Second Spacecraft for Varda Space Industries, Advancing In-Space Manufacturing.md",
     "Vault-Assets/Images/Pasted image 20250119155834.png",
     "Vault-Assets/Images/Pasted image 20250119154914.png",
     "Vault-Assets/Images/Pasted image 20250119154242.jpg",
