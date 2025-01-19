@@ -10,7 +10,7 @@ insider:
  - "[[Scott Smith]]"
 
 ---
-
+>[!summary]
 **Title:** In Memoriam: Scott Smith 
 **Source:** https://www.rocketlabusa.com/updates/in-memoriam-scott-smith/
 **Author:** [[Rocket Lab]]

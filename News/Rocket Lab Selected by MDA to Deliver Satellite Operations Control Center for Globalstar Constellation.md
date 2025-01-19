@@ -12,7 +12,7 @@ customer:
 tags:
   - "space-systems"
 ---
-
+>[!summary]
 #space-systems
 **Title:** Rocket Lab Selected by MDA to Deliver Satellite Operations Control Center for Globalstar Constellation 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-selected-by-mda-to-deliver-satellite-operations-control-center-for-globalstar-constellation/

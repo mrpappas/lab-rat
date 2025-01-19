@@ -12,7 +12,7 @@ customer:
 mission: "[[027 'CAPSTONE' - Electron]]"
 
 ---
-
+>[!summary]
 **Title:** Rocket Lab-launched CAPSTONE Spacecraft Enters Lunar Orbit 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-launched-capstone-spacecraft-enters-lunar-orbit/
 **Author:** [[Rocket Lab]]

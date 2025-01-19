@@ -16,7 +16,7 @@ tags:
  - space-systems
  - electron
 ---
-
+>[!summary]
 #space-systems #electron
 **Title:** Rocket Lab Begins Payload Integration for CAPSTONE Mission to the Moon 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-begins-payload-integration-for-capstone-mission-to-the-moon/

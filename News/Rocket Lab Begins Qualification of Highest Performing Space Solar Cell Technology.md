@@ -12,7 +12,7 @@ tags:
  - solar
  - space-systems
 ---
-
+>[!summary]
 #solar #space-systems
 **Title:** Rocket Lab Begins Qualification of Highest Performing Space Solar Cell Technology 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-begins-qualification-of-highest-performing-space-solar-cell-technology/

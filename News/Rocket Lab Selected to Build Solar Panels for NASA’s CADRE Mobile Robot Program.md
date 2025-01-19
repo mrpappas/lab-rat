@@ -12,7 +12,7 @@ tags:
   - "space-systems"
   - "solar"
 ---
-
+>[!summary]
 #space-systems #solar
 **Title:** Rocket Lab Selected to Build Solar Panels for NASA’s CADRE Mobile Robot Program 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-selected-to-build-solar-panels-for-nasas-cadre-mobile-robot-program/

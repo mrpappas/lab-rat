@@ -12,7 +12,7 @@ published: 2021-11-15
 description: "*Q3 2021 Financial Results Highlights*"
 
 ---
-
+>[!summary]
 **Title:** Rocket Lab Announces Third Quarter 2021 Financial Results and Issues Guidance for the Fourth Quarter 2021 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-announces-third-quarter-2021-financial-results-and-issues-guidance-for-the-fourth-quarter-2021/
 **Author:** [[Rocket Lab]]

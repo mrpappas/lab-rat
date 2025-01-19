@@ -16,7 +16,7 @@ tags:
  - electron
  - launch
 ---
-
+>[!summary]
 #electron #launch
 **Title:** Rocket Lab Successfully Launches 15th Mission, Deploys Satellites for Planet, Canon Electronics Inc. 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-15th-mission-deploys-satellites-for-planet-canon-electronics-inc/

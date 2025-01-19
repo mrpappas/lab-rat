@@ -12,7 +12,7 @@ tags:
  - electron
  - contract
 ---
-
+>[!summary]
 #electron #contract
 **Title:** Rocket Lab Inks Deal to Launch Five Missions for BlackSky Constellation  
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-inks-deal-to-launch-five-missions-for-blacksky-constellation/

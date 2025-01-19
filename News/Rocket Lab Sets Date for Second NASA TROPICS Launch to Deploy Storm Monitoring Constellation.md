@@ -12,7 +12,7 @@ tags:
   - "launch"
   - "electron"
 ---
-
+>[!summary]
 #launch #electron
 **Title:** Rocket Lab Sets Date for Second NASA TROPICS Launch to Deploy Storm Monitoring Constellation  
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-sets-date-for-second-nasa-tropics-launch-to-deploy-storm-monitoring-constellation/

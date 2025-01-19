@@ -14,7 +14,7 @@ tags:
  - anomaly
  - electron
 ---
-
+>[!summary]
 #anomaly #electron
 **Title:** Rocket Lab Completes Anomaly Review, Next Mission on the Pad in July 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-completes-anomaly-review-next-mission-on-the-pad-in-july/

@@ -14,7 +14,7 @@ tags:
  - electron
  - contract
 ---
-
+>[!summary]
 #electron #contract
 **Title:** Rocket Lab Signs Launch Contract with Spaceflight  
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-signs-launch-contract-with-spaceflight/

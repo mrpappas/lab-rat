@@ -15,7 +15,7 @@ tags:
   - "launch"
   - "electron"
 ---
-
+>[!summary]
 #launch #electron
 **Title:** Rocket Lab to Launch NOAA-Supported Argos-4 Spacecraft for General Atomics to Support Environmental Monitoring from Space 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-launch-noaa-supported-argos-4-spacecraft-for-general-atomics-to-support-environmental-monitoring-from-space/

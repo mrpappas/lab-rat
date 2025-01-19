@@ -13,7 +13,7 @@ partner:
 tags:
   - space-systems
 ---
-
+>[!summary]
 #space-systems
 **Title:** Rocket Lab to Expand Colorado Footprint with New Space Systems Complex
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-expand-colorado-footprint-with-new-space-systems-complex/

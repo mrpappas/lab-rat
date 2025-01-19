@@ -8,7 +8,7 @@ published: 2020-01-14
 description: "*Rocket Lab Expands Footprint with New Long Beach Headquarters and Production Complex*"
 location: "[[Long Beach Complex]]"
 ---
-
+>[!summary]
 **Title:** Rocket Lab Expands Footprint with New Long Beach Headquarters and Production Complex 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-expands-footprint-with-new-long-beach-headquarters-and-production-complex/
 **Author:** [[Rocket Lab]]

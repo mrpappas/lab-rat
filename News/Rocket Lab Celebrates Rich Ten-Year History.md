@@ -7,7 +7,7 @@ author:
 published: 2016-06-30
 description: "Rocket Lab is this week celebrating its ten-year anniversary. Founded in June 2006 as a center for advanced space systems, Rocket Lab is best known for its Electron orbital launch program."
 ---
-
+>[!summary]
 **Title:** Rocket Lab Celebrates Rich Ten-Year History 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-celebrates-rich-ten-year-history/
 **Author:** [[Rocket Lab]]

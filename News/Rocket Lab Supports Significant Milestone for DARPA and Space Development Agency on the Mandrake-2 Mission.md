@@ -12,7 +12,7 @@ customer:
 tags:
   - "space-software"
 ---
-
+>[!summary]
 #space-software
 **Title:** Rocket Lab Supports Significant Milestone for DARPA and Space Development Agency on the Mandrake-2 Mission 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-supports-significant-milestone-for-darpa-and-space-development-agency-on-the-mandrake-2-mission/

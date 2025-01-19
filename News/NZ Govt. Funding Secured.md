@@ -7,7 +7,7 @@ author:
 published: 2013-01-01
 description: "The New Zealand Government today announced Rocket Lab among the recipients of Research and Development funding through the Callaghan Innovation Growth Grants program[http://www.callaghaninnovation.govt.nz/news-events/140m-rd-grants-business-growth]. The grants are aimed at encouraging high-tech NZ firms to carry out more Research and Development. Science and Innovation Minister Steven Joyce today congratulated each of the recipients, emphasising their proven performance in R&amp;D."
 ---
-
+>[!summary]
 **Title:** NZ Govt. Funding Secured 
 **Source:** https://www.rocketlabusa.com/updates/nz-govt-funding-secured/
 **Author:** [[Rocket Lab]]

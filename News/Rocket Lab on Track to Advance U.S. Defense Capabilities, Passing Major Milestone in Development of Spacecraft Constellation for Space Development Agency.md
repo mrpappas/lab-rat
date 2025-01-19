@@ -13,7 +13,7 @@ insider:
 tags:
   - space-systems
 ---
-
+>[!summary]
 #space-systems
 **Title:** Rocket Lab on Track to Advance U.S. Defense Capabilities, Passing Major Milestone in Development of Spacecraft Constellation for Space Development Agency | Rocket Lab
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-on-track-to-advance-u-s-defense-capabilities-passing-major-milestone-in-development-of-spacecraft-constellation-for-space-development-agency-2/

@@ -12,7 +12,7 @@ tags:
  - acquisition
  - solar
 ---
-
+>[!summary]
 #acquisition #solar
 **Title:** Rocket Lab Closes Acquisition of Space Solar Power Products Company SolAero Holdings, Inc. 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-closes-acquisition-of-space-solar-power-products-company-solaero-holdings-inc/

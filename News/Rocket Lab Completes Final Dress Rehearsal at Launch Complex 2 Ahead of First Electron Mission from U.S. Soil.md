@@ -8,7 +8,7 @@ published: 2020-09-17
 description: "*Rocket Lab Completes Final Dress Rehearsal at Launch Complex 2 Ahead of First Electron Mission from U.S. Soil *"
 location: "[[Launch Complex 2]]"
 ---
-
+>[!summary]
 **Title:** Rocket Lab Completes Final Dress Rehearsal at Launch Complex 2 Ahead of First Electron Mission from U.S. Soil 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-completes-final-dress-rehearsal-at-launch-complex-2-ahead-of-first-electron-mission-from-u-s-soil/
 **Author:** [[Rocket Lab]]

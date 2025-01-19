@@ -9,7 +9,7 @@ description: "Peter Beck, founder and CEO of aerospace company Rocket Lab, has b
 insider:
  - "[[Peter Beck]]"
 ---
-
+>[!summary]
 **Title:** CEO wins Innovator of the Year at 2015 New Zealander of the Year Awards 
 **Source:** https://www.rocketlabusa.com/updates/ceo-wins-innovator-of-the-year-at-2015-new-zealander-of-the-year-awards/
 **Author:** [[Rocket Lab]]

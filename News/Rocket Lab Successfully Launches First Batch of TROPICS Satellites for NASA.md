@@ -12,7 +12,7 @@ tags:
   - "launch"
   - "electron"
 ---
-
+>[!summary]
 #launch #electron
 **Title:** Rocket Lab Successfully Launches First Batch of TROPICS Satellites for NASA  
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-first-batch-of-tropics-satellites-for-nasa/

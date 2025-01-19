@@ -9,7 +9,7 @@ description: "Rocket Lab today announced the flight qualification and acceptance
 tags:
  - electron
 ---
-
+>[!summary]
 #electron
 **Title:** Rocket Lab Completes Major Technical Milestone Ahead of Test Launches 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-completes-final-major-technical-milestone-before-first-test-launches/

@@ -12,7 +12,7 @@ tags:
   - "launch"
   - "electron"
 ---
-
+>[!summary]
 #launch #electron
 **Title:** Rocket Lab Announces Launch Window for Inaugural Electron Mission from Launch Complex 2 in Virginia  
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-announces-launch-window-for-inaugural-electron-mission-from-launch-complex-2-in-virginia/

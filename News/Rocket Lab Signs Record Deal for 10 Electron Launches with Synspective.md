@@ -11,7 +11,7 @@ tags:
   - "contract"
   - "electron"
 ---
-
+>[!summary]
 #contract #electron
 **Title:** Rocket Lab Signs Record Deal for 10 Electron Launches with Synspective   
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-signs-record-deal-for-10-electron-launches-with-synspective/

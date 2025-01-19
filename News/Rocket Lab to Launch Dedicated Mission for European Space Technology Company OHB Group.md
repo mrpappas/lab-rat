@@ -14,7 +14,7 @@ tags:
  - electron
  - contract
 ---
-
+>[!summary]
 #electron #contract
 **Title:** Rocket Lab to Launch Dedicated Mission for European Space Technology Company OHB Group 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-launch-dedicated-mission-for-european-space-technology-company-ohb-group/

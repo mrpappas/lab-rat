@@ -7,7 +7,7 @@ author:
 published: 2021-09-08
 description: "Revenue of $29.5M, representing 237% Year-on-Year revenue growth, accompanied by an expansion in gross margins from negative 67% to a positive 13%."
 ---
-
+>[!summary]
 **Title:** Rocket Lab Provides First Half 2021 Financial Results Update 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-provides-first-half-2021-financial-results-update/
 **Author:** [[Rocket Lab]]

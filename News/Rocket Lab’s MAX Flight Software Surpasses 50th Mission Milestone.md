@@ -10,7 +10,7 @@ partner: "[[Advanced Solutions Inc]]"
 tags:
   - "space-software"
 ---
-
+>[!summary]
 #space-software
 **Title:** Rocket Lab’s MAX Flight Software Surpasses 50th Mission Milestone  
 **Source:** https://www.rocketlabusa.com/updates/rocket-labs-max-flight-software-surpasses-50th-mission-milestone/

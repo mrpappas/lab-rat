@@ -12,7 +12,7 @@ tags:
   - "HASTE"
   - "contract"
 ---
-
+>[!summary]
 #HASTE #contract
 **Title:** Rocket Lab Inks New Deal to Launch HASTE Mission from Virginia  
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-inks-new-deal-to-launch-haste-mission-from-virginia/

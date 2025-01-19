@@ -12,7 +12,7 @@ tags:
   - "launch"
   - "electron"
 ---
-
+>[!summary]
 #launch #electron
 **Title:** Rocket Lab Sets Launch Window to Deploy Synspective Satellites  
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-sets-launch-window-to-deploy-synspective-satellites/

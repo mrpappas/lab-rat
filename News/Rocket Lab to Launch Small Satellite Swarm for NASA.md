@@ -12,7 +12,7 @@ tags:
   - "contract"
   - "electron"
 ---
-
+>[!summary]
 #contract #electron
 **Title:** Rocket Lab to Launch Small Satellite Swarm for NASA  
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-launch-small-satellite-swarm-for-nasa/

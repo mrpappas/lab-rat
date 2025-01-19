@@ -8,7 +8,7 @@ published: 2024-08-08
 description: "The 90-tonne Automated Fiber Placement (AFP) machine has been custom-designed and built for Rocket Lab and is expected to save around 150,000 manufacturing hours in the Neutron rocket’s production process."
 
 ---
-
+>[!summary]
 **Title:** Rocket Lab Begins Installation of Large Carbon Composite Rocket-Building Machine 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-begins-installation-of-large-carbon-composite-rocket-building-machine/
 **Author:** [[Rocket Lab]]

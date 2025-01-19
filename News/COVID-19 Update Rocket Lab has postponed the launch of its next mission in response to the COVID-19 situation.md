@@ -7,7 +7,7 @@ author:
 published: 2020-03-24
 description: "*COVID-19 Update: Rocket Lab has postponed the launch of its next mission in response to the COVID-19 situation.*"
 ---
-
+>[!summary]
 **Title:** COVID-19 Update: Rocket Lab has postponed the launch of its next mission in response to the COVID-19 situation. 
 **Source:** https://www.rocketlabusa.com/updates/covid-19-update-rocket-lab-has-postponed-the-launch-of-its-next-mission-in-response-to-the-covid-19-situation/
 **Author:** [[Rocket Lab]]

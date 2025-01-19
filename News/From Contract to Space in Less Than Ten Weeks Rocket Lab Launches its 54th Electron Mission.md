@@ -13,7 +13,7 @@ tags:
   - "electron"
   - "contract"
 ---
-
+>[!summary]
 #launch #electron #contract
 **Title:** From Contract to Space in Less Than Ten Weeks: Rocket Lab Launches its 54th Electron Mission 
 **Source:** https://www.rocketlabusa.com/updates/from-contract-to-space-in-less-than-ten-weeks-rocket-lab-launches-its-54th-electron-mission/

@@ -13,7 +13,7 @@ tags:
  - electron
  - launch
 ---
-
+>[!summary]
 #electron #launch
 **Title:** 'It's a Test' - Media Advisory on Viewing a Launch of Rocket Lab's Electron Vehicle  
 **Source:** https://www.rocketlabusa.com/updates/advisory-on-viewing-a-launch-of-rocket-labs-electron-vehicle/

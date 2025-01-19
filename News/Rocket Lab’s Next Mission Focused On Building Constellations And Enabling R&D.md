@@ -16,7 +16,7 @@ tags:
  - electron
  - contract
 ---
-
+>[!summary]
 #electron #contract
 **Title:** Rocket Lab’s Next Mission Focused On Building Constellations And Enabling R&D 
 **Source:** https://www.rocketlabusa.com/updates/rocket-labs-next-mission-focused-on-building-constellations-and-enabling-r-and-d/

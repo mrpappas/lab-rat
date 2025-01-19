@@ -17,7 +17,7 @@ tags:
   - "electron"
   - "anomaly"
 ---
-
+>[!summary]
 #launch #electron #anomaly
 **Title:** Rocket Lab Sets Next Electron Launch Window, Provides Update on Anomaly Review 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-sets-next-electron-launch-window-provides-update-on-anomaly-review/

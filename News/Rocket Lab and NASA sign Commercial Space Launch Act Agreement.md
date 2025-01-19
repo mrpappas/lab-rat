@@ -12,7 +12,7 @@ tags:
  - electron
  - contract
 ---
-
+>[!summary]
 #electron #contract
 **Title:** Rocket Lab and NASA sign Commercial Space Launch Act Agreement 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-and-nasa-sign-commercial-space-launch-act-agreement/

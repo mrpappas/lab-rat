@@ -12,7 +12,7 @@ tags:
   - "launch"
   - "electron"
 ---
-
+>[!summary]
 #launch #electron
 **Title:** Rocket Lab Schedules Next Launch for Constellation Operator Kinéis 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-schedules-next-launch-for-constellation-operator-kineis/

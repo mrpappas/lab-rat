@@ -11,7 +11,7 @@ customer:
 tags:
  - space-systems
 ---
-
+>[!summary]
 #space-systems
 **Title:** News | Rocket Lab
 **Source:** https://www.rocketlabusa.com/updates/rocket-labs-second-reentry-class-spacecraft-for-varda-operating-on-orbit-supporting-payloads-for-air-force-research-lab-and-nasa/

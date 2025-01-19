@@ -9,7 +9,7 @@ description: "*Rocket Lab Unveils Plans for New 8-Ton Class Reusable Rocket for 
 tags:
  - neutron
 ---
-
+>[!summary]
 #neutron
 **Title:** Rocket Lab Unveils Plans for New 8-Ton Class Reusable Rocket for Mega-Constellation Deployment 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-unveils-plans-for-new-8-ton-class-reusable-rocket-for-mega-constellation-deployment/

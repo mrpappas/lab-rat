@@ -9,7 +9,7 @@ description: "*Long Beach, California. November 1, 2023* – Rocket Lab USA, Inc
 insider: "[[Nina Armagno]]"
 
 ---
-
+>[!summary]
 **Title:** Rocket Lab Welcomes Lt. Gen. Nina Armagno to Board of Directors 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-welcomes-lt-gen-nina-armagno-to-board-of-directors/
 **Author:** [[Rocket Lab]]

@@ -12,7 +12,7 @@ tags:
   - "launch"
   - "electron"
 ---
-
+>[!summary]
 #launch #electron
 **Title:** Rocket Lab Successfully Launches Second of Two Back-to-Back National Reconnaissance Office Missions 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-second-of-two-back-to-back-national-reconnaissance-office-missions/

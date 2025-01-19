@@ -9,7 +9,7 @@ description: "Rocket Lab is pleased to announce the completion of the world’s 
 location:
  - "[[Launch Complex 1]]"
 ---
-
+>[!summary]
 **Title:** Rocket Lab Launch Complex 1 Complete 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-launch-complex-1-ready-for-launches/
 **Author:** [[Rocket Lab]]

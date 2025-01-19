@@ -11,7 +11,7 @@ mission: "[[041 'We Will Never Desert You' - Electron]]"
 tags:
   - "electron"
 ---
-
+>[!summary]
 #electron
 **Title:** Rocket Lab Receives Federal Aviation Administration Authorization to Resume Launches 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-receives-federal-aviation-administration-authorization-to-resume-launches/

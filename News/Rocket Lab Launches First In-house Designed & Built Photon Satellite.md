@@ -15,7 +15,7 @@ tags:
  - launch
  - photon
 ---
-
+>[!summary]
 #electron #launch #photon
 **Title:** Rocket Lab Launches First In-house Designed & Built Photon Satellite
 **Source:** https://www.rocketlabusa.com/updates/media-release-rocket-lab-launches-first-in-house-designed-and-built-photon-satellite/

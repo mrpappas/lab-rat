@@ -19,7 +19,7 @@ tags:
  - launch
  - reusability
 ---
-
+>[!summary]
 #electron #launch #reusability
 **Title:** Rocket Lab to Attempt First Mid-Air Helicopter Capture of the Electron Rocket During Next Mission 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-attempt-first-mid-air-helicopter-capture-of-the-electron-rocket-during-next-mission/

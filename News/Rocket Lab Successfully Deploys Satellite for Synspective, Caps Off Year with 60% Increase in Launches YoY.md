@@ -12,7 +12,7 @@ tags:
   - "launch"
   - "electron"
 ---
-
+>[!summary]
 #launch #electron
 **Title:** Rocket Lab | The Space Company 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-deploys-satellite-for-synspective-caps-off-year-with-60-increase-in-launches-yoy/

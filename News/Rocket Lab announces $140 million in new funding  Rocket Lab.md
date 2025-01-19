@@ -10,7 +10,7 @@ event: "[[2018 Series E Funding]]"
 tags:
  - capital-raise
 ---
-
+>[!summary]
 #capital-raise
 **Title:** Rocket Lab announces $140 million in new funding 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-announces-140-million-in-new-funding/

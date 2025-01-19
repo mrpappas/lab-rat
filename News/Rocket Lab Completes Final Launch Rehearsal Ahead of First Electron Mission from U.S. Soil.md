@@ -12,7 +12,7 @@ tags:
   - "electron"
   - "launch"
 ---
-
+>[!summary]
 #electron #launch
 **Title:** Rocket Lab Completes Final Launch Rehearsal Ahead of First Electron Mission from U.S. Soil 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-completes-final-launch-rehearsal-ahead-of-first-electron-mission-from-u-s-soil/

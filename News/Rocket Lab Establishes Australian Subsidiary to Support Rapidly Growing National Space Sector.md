@@ -8,7 +8,7 @@ published: 2023-02-28
 description: "*Long Beach, California. February 28, 2023* – Rocket Lab USA, Inc. (Nasdaq: RKLB[https://www.nasdaq.com/market-activity/stocks/rklb-0]) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced it has established a new wholly-owned subsidiary, Rocket Lab Australia, to explore opportunities to support the expansion of Australia’s national space capabilities."
 partner: "[[Rocket Lab Australia]]"
 ---
-
+>[!summary]
 **Title:** Rocket Lab Establishes Australian Subsidiary to Support Rapidly Growing National Space Sector  
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-establishes-australian-subsidiary-to-support-rapidly-growing-national-space-sector/
 **Author:** [[Rocket Lab]]

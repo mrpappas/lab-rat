@@ -11,7 +11,7 @@ tags:
   - "contract"
   - "HASTE"
 ---
-
+>[!summary]
 #contract #HASTE
 **Title:** Rocket Lab Signs Deal with Leidos to Launch Four HASTE Missions  
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-signs-deal-with-leidos-to-launch-four-haste-missions/

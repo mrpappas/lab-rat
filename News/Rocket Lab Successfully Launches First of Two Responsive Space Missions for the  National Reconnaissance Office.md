@@ -12,7 +12,7 @@ tags:
   - "launch"
   - "electron"
 ---
-
+>[!summary]
 #launch #electron
 **Title:** Rocket Lab Successfully Launches First of Two Responsive Space Missions for the  National Reconnaissance Office  
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-first-of-two-responsive-space-missions-for-the-national-reconnaissance-office/

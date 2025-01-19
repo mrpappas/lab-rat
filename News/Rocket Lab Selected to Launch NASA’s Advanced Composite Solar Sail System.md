@@ -14,7 +14,7 @@ tags:
  - contract
  - electron
 ---
-
+>[!summary]
 #contract #electron
 **Title:** Rocket Lab Selected to Launch NASA’s Advanced Composite Solar Sail System 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-selected-to-launch-nasas-advanced-composite-solar-sail-system/

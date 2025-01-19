@@ -10,7 +10,7 @@ partner: "[[Advanced Solutions Inc]]"
 tags:
  - acquisition
 ---
-
+>[!summary]
 #acquisition
 **Title:** Rocket Lab Acquires Space Software Company Advanced Solutions, Inc 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-acquires-space-software-company-advanced-solutions-inc/

@@ -14,7 +14,7 @@ tags:
   - electron
   - launch
 ---
-
+>[!summary]
 #electron #launch
 **Title:** Rocket Lab Successfully Launches 112th Satellite to Orbit
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-112th-satellite-to-orbit/

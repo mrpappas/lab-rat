@@ -12,7 +12,7 @@ tags:
   - "electron"
   - "launch"
 ---
-
+>[!summary]
 #electron #launch
 **Title:** Rocket Lab Announces Launch Window for Next Mission in Multi-Launch Contract for Capella Space 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-announces-launch-window-for-next-mission-in-multi-launch-contract-for-capella-space/

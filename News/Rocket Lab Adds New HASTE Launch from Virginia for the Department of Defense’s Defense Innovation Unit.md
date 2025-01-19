@@ -13,7 +13,7 @@ tags:
   - "contract"
   - "HASTE"
 ---
-
+>[!summary]
 #contract #HASTE
 **Title:** Rocket Lab Adds New HASTE Launch from Virginia for the Department of Defense’s Defense Innovation Unit 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-adds-new-haste-launch-from-virginia-for-the-department-of-defenses-defense-innovation-unit/

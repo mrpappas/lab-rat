@@ -14,7 +14,7 @@ tags:
  - electron
  - contract
 ---
-
+>[!summary]
 #electron #contract
 **Title:** Rocket Lab confirms three launches with Spaceflight, including missions for Canon Electronics and BlackSky 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-confirms-three-launches-with-spaceflight-including-missions-for-canon-electronics-and-blacksky/

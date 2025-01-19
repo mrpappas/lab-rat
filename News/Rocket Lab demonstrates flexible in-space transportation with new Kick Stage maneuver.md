@@ -16,7 +16,7 @@ tags:
  - electron
  - launch
 ---
-
+>[!summary]
 #electron #launch
 **Title:** Rocket Lab demonstrates flexible in-space transportation with new Kick Stage maneuver 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-demonstrates-flexible-in-space-transportation-with-new-kick-stage-maneuver/

@@ -14,7 +14,7 @@ tags:
  - electron
  - launch
 ---
-
+>[!summary]
 #electron #launch
 **Title:** Rocket Lab Readies First 2022 Electron Launch, BlackSky Adds Another Mission to Manifest 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-readies-first-2022-electron-launch-blacksky-adds-another-mission-to-manifest/

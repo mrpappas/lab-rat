@@ -13,33 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Reports/Payload Space's Rocket Lab Report.md",
+                "file": "News/U.S. Space Force Awards Rocket Lab Launch Contract for Space Test Program (STP)-S30.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Payload Space's Rocket Lab Report"
-            }
-          }
-        ]
-      },
-      {
-        "id": "9db1f3456beccc33",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cef28800231bd014",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Misc/Reports/Payload Space's Rocket Lab Report.md",
-                "bFile": "Misc/Reports/Payload Space's Rocket Lab Report.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Payload Space's Rocket Lab Report"
+              "title": "U.S. Space Force Awards Rocket Lab Launch Contract for Space Test Program (STP)-S30"
             }
           }
         ]
@@ -206,37 +186,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cef28800231bd014",
+  "active": "9f28d8283c6dff2b",
   "lastOpenFiles": [
+    "News/Wairoa College student awarded inaugural Rocket Lab scholarship.md",
+    "News/Vector Acquisition Corporation Shareholders Approve Proposed Merger With Rocket Lab.md",
+    "News/Varda Space Industries Orders Fourth Photon Spacecraft from Rocket Lab to Enable In-Space Manufacturing.md",
+    "News/U.S. Space Force Awards Rocket Lab Launch Contract for Space Test Program (STP)-S30.md",
+    "News/The Kick Stage Responsible Orbital Deployment.md",
+    "News/The future of rocket manufacturing Rocket Lab unveils new high-volume production facility.md",
+    "News/The Federal Aviation Administration Approves Rocket Lab To Resume Launches.md",
+    "News/Still Testing launch window begins.md",
+    "News/Stand-out Wairoa College student awarded Rocket Lab scholarship to pursue engineering future.md",
+    "News/Space Is Open For Business, Online.md",
+    "News/Space Flight Laboratory Selects Rocket Lab to Launch Telesat Broadband Satellite.md",
+    "News/Rutherford Engine Test Fire  Rocket Lab.md",
+    "News/Rutherford Engine Qualified for Flight.md",
+    "News/Rocket Lab’s Second Reentry Class Spacecraft for Varda Operating on Orbit Supporting Payloads for Air Force Research Lab and NASA.md",
+    "News/Rocket Lab’s Next Mission to Launch Satellites for NASA, NRO and the University of New South Wales.md",
+    "News/Rocket Lab’s Next Mission to Launch 100th Satellite and Deploy Next-Generation Photon Spacecraft in Preparation for Moon Mission.md",
+    "News/Rocket Lab’s Next Mission Focused On Building Constellations And Enabling R&D.md",
+    "News/Rocket Lab’s MAX Flight Software Surpasses 50th Mission Milestone.md",
+    "News/Rocket Lab’s Lunar Photon Spacecraft Successfully Completes Third Orbit Raising Maneuver for NASA’s CAPSTONE Moon Mission.md",
+    "News/Rocket Lab’s Lunar Photon Completes Sixth Orbit Raise for NASA’s CAPSTONE Mission to The Moon.md",
+    "News/Rocket Lab’s First Mission of 2021 to Launch Communications Satellite for OHB Group  Rocket Lab.md",
+    "News/Rocket Lab’s Electron Rocket Lands at the California Science Center.md",
+    "News/Rocket Lab’s Electron Launch Vehicle Certified by NASA.md",
+    "News/Rocket Lab, Developer of the Electron Orbital Vehicle, Closes Series B Round.md",
+    "News/Rocket Lab-launched CAPSTONE Spacecraft Enters Lunar Orbit.md",
+    "News/Rocket Lab Wins Contract to Launch Orbital Debris Removal Demonstration Mission for Astroscale.md",
     "Rocket_Lab_Report_Final.pdf",
-    "Misc/Reports/Payload Space's Rocket Lab Report.md",
-    "Launch/Electron.md",
-    "Financial/Capital Raises/2021 Initial Public Offering.md",
-    "Financial/Capital Raises/2018 Series E Funding.md",
-    "Financial/Capital Raises/2017 Series D Funding.md",
-    "Financial/Capital Raises/2016 Series C Funding.md",
-    "Financial/Capital Raises/2015 Series B Funding.md",
-    "Financial/Capital Raises/2013 Series A Funding.md",
-    "News/'It's a Test' - Live News Updates  Rocket Lab.md",
     "Misc/Reports",
     "Misc",
-    "News/$20,000 Rocket Lab Scholarship Awarded to Aspiring Young Māori Doctor.md",
-    "News/'Still Testing' Press Kit.md",
-    "News/'It's a Test' update.md",
-    "News/'It's a Test' - Press Kit.md",
-    "News/'It's a Test' - Media Advisory on Viewing a Launch of Rocket Lab's Electron Vehicle.md",
-    "News/'It's a Test' - Live News Updates (2).md",
-    "News/'It's a Test' - Live News Updates (1).md",
-    "News/COVID-19 Update Rocket Lab has postponed the launch of its next mission in response to the COVID-19 situation.md",
-    "Locations/Archimedes Test Complex.md",
-    "Launch/HASTE.md",
-    "Launch/Neutron.md",
     "Vault-Assets/Images/Pasted image 20250119002432.png",
-    "Organization/People/Adam Spice.md",
-    "🎙️ Interviews.md",
-    "Organization/Subsidiaries/Planetary Systems Corporation (PSC).md",
-    "Organization/Subsidiaries/Rocket Lab Australia.md",
-    "Organization/Subsidiaries/Rocket Lab National Security (RLNS).md",
     "Vault-Assets/PDFs/EXC22_017 - Photon Doc_ƒ [Web].pdf",
     "Vault-Assets/PDFs/Ice-AIS-Baby-Press-Kit2.pdf",
     "Vault-Assets/PDFs/Owl-The-Way-Up-Press-Kit (1).pdf",

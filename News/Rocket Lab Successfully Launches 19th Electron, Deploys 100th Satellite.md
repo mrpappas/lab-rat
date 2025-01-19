@@ -21,7 +21,7 @@ tags:
  - electron
  - launch
 ---
-
+>[!summary]
 #electron #launch
 **Title:** Rocket Lab Successfully Launches 19th Electron, Deploys 100th Satellite  
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-19th-electron-deploys-100th-satellite/

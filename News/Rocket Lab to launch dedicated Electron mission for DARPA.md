@@ -14,7 +14,7 @@ tags:
  - electron
  - contract
 ---
-
+>[!summary]
 #electron #contract
 **Title:** Rocket Lab to launch dedicated Electron mission for DARPA 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-launch-dedicated-electron-mission-for-darpa/

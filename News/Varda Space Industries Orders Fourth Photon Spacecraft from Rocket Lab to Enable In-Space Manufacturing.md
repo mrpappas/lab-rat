@@ -13,7 +13,7 @@ insider:
 tags:
  - space-systems
 ---
-
+>[!summary]
 #space-systems
 **Title:** Varda Space Industries Orders Fourth Photon Spacecraft from Rocket Lab to Enable In-Space Manufacturing 
 **Source:** https://www.rocketlabusa.com/updates/varda-space-industries-orders-fourth-photon-spacecraft-from-rocket-lab-to-enable-in-space-manufacturing/

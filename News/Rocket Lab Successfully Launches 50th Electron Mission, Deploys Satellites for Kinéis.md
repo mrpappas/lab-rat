@@ -12,7 +12,7 @@ tags:
   - "launch"
   - "electron"
 ---
-
+>[!summary]
 #launch #electron
 **Title:** Rocket Lab Successfully Launches 50th Electron Mission, Deploys Satellites for Kinéis  
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-50th-electron-mission-deploys-satellites-for-kineis/

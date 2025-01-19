@@ -11,7 +11,7 @@ mission: "[[SDA Tranche 2 - Enhanced Global Coverage]]"
 tags:
   - space-systems
 ---
-
+>[!summary]
 #space-systems
 **Title:** Rocket Lab Makes its Defense Prime Debut with $0.5 Billion Contract to Design and Build Satellite Constellation for Space Development Agency 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-makes-its-defense-prime-debut-with-0-5-billion-contract-to-design-and-build-satellite-constellation-for-space-development-agency/

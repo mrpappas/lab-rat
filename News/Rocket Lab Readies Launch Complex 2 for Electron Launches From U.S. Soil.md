@@ -11,7 +11,7 @@ location:
 tags:
  - electron
 ---
-
+>[!summary]
 #electron
 **Title:** Rocket Lab Readies Launch Complex 2 for Electron Launches From U.S. Soil 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-readies-launch-complex-2-for-electron-launches-from-u-s-soil/

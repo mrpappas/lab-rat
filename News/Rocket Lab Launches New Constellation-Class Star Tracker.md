@@ -9,7 +9,7 @@ description: "New class of star trackerdesigned to support high-volume constella
 tags:
   - "space-systems"
 ---
-
+>[!summary]
 #space-systems
 **Title:** Rocket Lab Launches New Constellation-Class Star Tracker 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-launches-new-constellation-class-star-tracker/

@@ -7,7 +7,7 @@ author:
 published: 2021-07-12
 description: "*Auckland, New Zealand. 12 July, 2021* – For the first time ever, Rocket Lab is inviting the public into its Mission Control Centre in Auckland for an exclusive screening of the latest children’s movie Moonbound on Saturday 24 July."
 ---
-
+>[!summary]
 **Title:** Rocket Lab to Host Movies in Mission Control 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-host-movies-in-mission-control/
 **Author:** [[Rocket Lab]]

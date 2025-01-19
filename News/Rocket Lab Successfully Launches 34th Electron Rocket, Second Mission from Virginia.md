@@ -12,7 +12,7 @@ tags:
   - "launch"
   - "electron"
 ---
-
+>[!summary]
 #launch #electron
 **Title:** Rocket Lab Successfully Launches 34th Electron Rocket, Second Mission from Virginia 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-34th-electron-rocket-second-mission-from-virginia/

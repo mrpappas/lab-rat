@@ -14,7 +14,7 @@ tags:
  - electron
  - launch
 ---
-
+>[!summary]
 #electron #launch
 **Title:** Rocket Lab Successfully Deploys NRO Satellite On 11th Electron Mission
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-deploys-nro-satellite-on-11th-electron-mission/

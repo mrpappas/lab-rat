@@ -12,7 +12,7 @@ tags:
   - "contract"
   - "electron"
 ---
-
+>[!summary]
 #contract #electron
 **Title:** Rocket Lab Inks Dedicated Launch Deal with Japanese Earth Imaging Company iQPS 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-inks-dedicated-launch-deal-with-japanese-earth-imaging-company-iqps/

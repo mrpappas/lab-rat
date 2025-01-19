@@ -8,7 +8,7 @@ published: 2021-12-22
 description: "*Rocket Lab Announces Redemption of All Outstanding Warrants*"
 
 ---
-
+>[!summary]
 **Title:** Rocket Lab Announces Redemption of All Outstanding Warrants 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-announces-redemption-of-all-outstanding-warrants/
 **Author:** [[Rocket Lab]]

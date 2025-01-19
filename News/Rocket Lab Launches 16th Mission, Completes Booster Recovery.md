@@ -18,7 +18,7 @@ tags:
   - electron
   - launch
 ---
-
+>[!summary]
 #electron #launch
 **Title:** Rocket Lab Launches 16th Mission, Completes Booster Recovery
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-launches-16th-mission-completes-booster-recovery/

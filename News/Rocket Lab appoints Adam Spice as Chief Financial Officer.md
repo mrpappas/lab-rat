@@ -9,7 +9,7 @@ description: "*Huntington Beach, California, 3 April 2018:*"
 insider:
  - "[[Adam Spice]]"
 ---
-
+>[!summary]
 **Title:** Rocket Lab appoints Adam Spice as Chief Financial Officer 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-appoints-adam-spice-as-chief-financial-officer/
 **Author:** [[Rocket Lab]]

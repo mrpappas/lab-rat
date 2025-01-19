@@ -16,7 +16,7 @@ tags:
  - electron 
  - launch
 ---
-
+>[!summary]
 #electron #launch
 **Title:** Rocket Lab successfully launches seventh Electron mission, deploys seven satellites to orbit 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-seventh-electron-mission-deploys-seven-satellites-to-orbit/

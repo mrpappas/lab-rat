@@ -10,7 +10,7 @@ customer: "[[Varda Space Industries]]"
 tags:
   - "space-systems"
 ---
-
+>[!summary]
 #space-systems
 **Title:** Rocket Lab Spacecraft Built for Varda Successfully Operating on Orbit  
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-spacecraft-built-for-varda-successfully-operating-on-orbit/

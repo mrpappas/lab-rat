@@ -17,7 +17,7 @@ tags:
   - "electron"
   - "HASTE"
 ---
-
+>[!summary]
 #launch #electron #HASTE
 **Title:** Rocket Lab Successfully Launches Two Missions in Less Than 24 Hours  
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-two-missions-in-less-than-24-hours/

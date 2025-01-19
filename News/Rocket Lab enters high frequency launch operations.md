@@ -17,7 +17,7 @@ mission:
 tags:
   - electron
 ---
-
+>[!summary]
 #electron
 **Title:** Rocket Lab enters high frequency launch operations
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-enters-high-frequency-launch-operations/

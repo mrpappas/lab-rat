@@ -11,7 +11,7 @@ location:
 tags:
  - electron
 ---
-
+>[!summary]
 #electron
 **Title:** The future of rocket manufacturing: Rocket Lab unveils new high-volume production facility  
 **Source:** https://www.rocketlabusa.com/updates/the-future-of-rocket-manufacturing-rocket-lab-unveils-new-high-volume-production-facility/

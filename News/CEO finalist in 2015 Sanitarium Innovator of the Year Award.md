@@ -9,7 +9,7 @@ description: "Rocket Lab CEO, Peter Beck, has been named a finalist for innovato
 insider:
  - "[[Peter Beck]]"
 ---
-
+>[!summary]
 **Title:** CEO finalist in 2015 Sanitarium Innovator of the Year Award 
 **Source:** https://www.rocketlabusa.com/updates/ceo-finalist-in-2015-sanitarium-innovator-of-the-year-award/
 **Author:** [[Rocket Lab]]

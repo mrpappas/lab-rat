@@ -12,7 +12,7 @@ tags:
   - "launch"
   - "electron"
 ---
-
+>[!summary]
 #launch #electron
 **Title:** Rocket Lab Successfully Launches First Electron Mission from U.S. Soil 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-first-electron-mission-from-u-s-soil/

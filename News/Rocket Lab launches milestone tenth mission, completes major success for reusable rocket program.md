@@ -17,7 +17,7 @@ tags:
  - launch
  - reusability
 ---
-
+>[!summary]
 #electron #launch #reusability
 **Title:** Rocket Lab launches milestone tenth mission, completes major success for reusable rocket program  
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-launches-milestone-tenth-mission-completes-major-success-for-reusable-rocket-program/

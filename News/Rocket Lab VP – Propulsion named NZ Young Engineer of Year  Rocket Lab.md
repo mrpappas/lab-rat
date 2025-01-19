@@ -9,7 +9,7 @@ description: "This evening in Wellington I had the pleasure of seeing Lachlan Ma
 insider:
  - "[[Lachlan Matchett]]"
 ---
-
+>[!summary]
 **Title:** Rocket Lab VP – Propulsion named NZ Young Engineer of Year 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-vp-propulsion-named-nz-young-engineer-of-year/
 **Author:** [[Rocket Lab]]

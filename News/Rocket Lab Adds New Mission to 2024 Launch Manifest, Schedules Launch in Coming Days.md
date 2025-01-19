@@ -12,7 +12,7 @@ tags:
   - "launch"
   - "electron"
 ---
-
+>[!summary]
 #launch #electron
 **Title:** Rocket Lab Adds New Mission to 2024 Launch Manifest, Schedules Launch in Coming Days 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-adds-new-mission-to-2024-launch-manifest-schedules-launch-in-coming-days/

@@ -16,7 +16,7 @@ tags:
  - electron
  - launch
 ---
-
+>[!summary]
 #electron #launch
 **Title:** It's Business Time at Rocket Lab  
 **Source:** https://www.rocketlabusa.com/updates/its-business-time-at-rocket-lab/

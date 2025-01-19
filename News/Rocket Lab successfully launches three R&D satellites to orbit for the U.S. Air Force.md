@@ -15,7 +15,7 @@ tags:
   - electron
   - launch
 ---
-
+>[!summary]
 #electron #launch
 **Title:** Rocket Lab successfully launches three R&D satellites to orbit for the U.S. Air Force 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-three-r-and-d-satellites-to-orbit-for-the-u-s-air-force/

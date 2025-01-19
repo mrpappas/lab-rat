@@ -14,7 +14,7 @@ tags:
  - electron
  - launch
 ---
-
+>[!summary]
 #electron #launch
 **Title:** Rocket Lab Confirms Next Electron Launch Window Opens for BlackSky April 1, 2022 UTC; Provides Update on Effect to Prior Q1 Revenue Guidance 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-confirms-next-electron-launch-window-opens-for-blacksky-april-1-2022-utc-provides-update-on-effect-to-prior-q1-revenue-guidance/

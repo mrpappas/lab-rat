@@ -14,7 +14,7 @@ tags:
  - electron
  - contract
 ---
-
+>[!summary]
 #electron #contract
 **Title:** Capella Space and Rocket Lab to Launch Mid-Inclination Satellite to Enable Improved Monitoring of Key Global Regions 
 **Source:** https://www.rocketlabusa.com/updates/capella-space-and-rocket-lab-to-launch-mid-inclination-satellite-to-enable-improved-monitoring-of-key-global-regions/

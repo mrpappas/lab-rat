@@ -9,7 +9,7 @@ description: "*Rocket Lab Introduces Suborbital Testbed Rocket, Selected for Hyp
 tags:
   - "HASTE"
 ---
-
+>[!summary]
 #HASTE
 **Title:** Rocket Lab Introduces Suborbital Testbed Rocket, Selected for Hypersonic Test Flights   
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-introduces-suborbital-testbed-rocket-selected-for-hypersonic-test-flights/

@@ -9,7 +9,7 @@ description: "*Vector Acquisition Corporation Shareholders Approve Proposed Merg
 partner: 
  - "[[Vector Acquisition Corporation (VACQ)]]"
 ---
-
+>[!summary]
 **Title:** Vector Acquisition Corporation Shareholders Approve Proposed Merger With Rocket Lab 
 **Source:** https://www.rocketlabusa.com/updates/vector-acquisition-corporation-shareholders-approve-proposed-merger-with-rocket-lab/
 **Author:** [[Rocket Lab]]

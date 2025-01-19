@@ -11,7 +11,7 @@ customer:
 tags: 
  - HASTE
 ---
-
+>[!summary]
 #HASTE
 **Title:** Rocket Lab Selected by Kratos to Deliver Hypersonic Test Launches for DoD with HASTE Rocket  | Rocket Lab
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-selected-by-kratos-to-deliver-hypersonic-test-launches-for-dod-with-haste-rocket/

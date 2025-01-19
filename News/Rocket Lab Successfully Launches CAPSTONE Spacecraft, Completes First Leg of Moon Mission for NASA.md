@@ -16,7 +16,7 @@ tags:
  - space-systems
  - electron
 ---
-
+>[!summary]
 #space-systems #electron
 **Title:** Rocket Lab Successfully Launches CAPSTONE Spacecraft, Completes First Leg of Moon Mission for NASA 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-capstone-spacecraft-completes-first-leg-of-moon-mission-for-nasa/

@@ -10,7 +10,7 @@ tags:
   - "solar"
   - "award"
 ---
-
+>[!summary]
 #solar #award
 **Title:** Rocket Lab Signs $23.9M CHIPS Incentives Award to Boost Semiconductor Manufacturing 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-signs-23-9m-chips-incentives-award-to-boost-semiconductor-manufacturing-2/

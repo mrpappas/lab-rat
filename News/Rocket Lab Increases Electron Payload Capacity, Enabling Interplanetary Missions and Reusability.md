@@ -9,7 +9,7 @@ description: "*Rocket Lab Increases Electron Payload Capacity, Enabling Interpla
 tags:
  - electron
 ---
-
+>[!summary]
 #electron
 **Title:** Rocket Lab Increases Electron Payload Capacity, Enabling Interplanetary Missions and Reusability  
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-increases-electron-payload-capacity-enabling-interplanetary-missions-and-reusability/

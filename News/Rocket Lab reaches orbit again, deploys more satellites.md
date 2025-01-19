@@ -16,7 +16,7 @@ tags:
  - electron
  - launch
 ---
-
+>[!summary]
 #electron #launch
 **Title:** Rocket Lab reaches orbit again, deploys more satellites
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-reaches-orbit-again-deploys-more-satellites/

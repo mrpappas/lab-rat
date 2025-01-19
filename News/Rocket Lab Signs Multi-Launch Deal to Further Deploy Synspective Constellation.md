@@ -11,7 +11,7 @@ tags:
   - "electron"
   - "contract"
 ---
-
+>[!summary]
 #electron #contract
 **Title:** Rocket Lab Signs Multi-Launch Deal to Further Deploy Synspective Constellation 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-signs-multi-launch-deal-to-further-deploy-synspective-constellation/

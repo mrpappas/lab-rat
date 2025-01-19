@@ -10,7 +10,7 @@ partner: "[[Virgin Orbit]]"
 tags:
   - "acquisition"
 ---
-
+>[!summary]
 #acquisition
 **Title:** Rocket Lab Bolsters Neutron Rocket Program with Purchase of Virgin Orbit Long Beach California Assets 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-bolsters-neutron-rocket-program-with-purchase-of-virgin-orbit-long-beach-california-assets/

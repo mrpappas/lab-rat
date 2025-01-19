@@ -13,7 +13,7 @@ tags:
   - "electron"
   - "rutherford"
 ---
-
+>[!summary]
 #launch #electron #rutherford
 **Title:** Rocket Lab Launches 40th Electron Mission, Successfully Flies Reused Engine 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-launches-40th-electron-mission-successfully-flies-reused-engine/

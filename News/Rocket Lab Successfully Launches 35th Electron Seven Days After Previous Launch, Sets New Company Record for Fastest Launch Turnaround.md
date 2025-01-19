@@ -12,7 +12,7 @@ tags:
   - "launch"
   - "electron"
 ---
-
+>[!summary]
 #launch #electron
 **Title:** Rocket Lab Successfully Launches 35th Electron Seven Days After Previous Launch, Sets New Company Record for Fastest Launch Turnaround  
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-35th-electron-seven-days-after-previous-launch-sets-new-company-record-for-fastest-launch-turnaround/

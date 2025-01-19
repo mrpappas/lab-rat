@@ -12,7 +12,7 @@ customer:
 mission: "[[043 'Four Of A Kind' - Electron]]"
 
 ---
-
+>[!summary]
 **Title:** Rocket Lab Successfully Launches First Electron Mission of Busy 2024 Launch Schedule 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-first-electron-mission-of-busy-2024-launch-schedule/
 **Author:** [[Rocket Lab]]

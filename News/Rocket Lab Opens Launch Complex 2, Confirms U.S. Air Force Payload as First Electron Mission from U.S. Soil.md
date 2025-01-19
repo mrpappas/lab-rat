@@ -12,7 +12,7 @@ location: "[[Launch Complex 2]]"
 tags:
  - electron
 ---
-
+>[!summary]
 #electron
 **Title:** Rocket Lab Opens Launch Complex 2, Confirms U.S. Air Force Payload as First Electron Mission from U.S. Soil 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-opens-launch-complex-2-confirms-u-s-air-force-payload-as-first-electron-mission-from-u-s-soil/

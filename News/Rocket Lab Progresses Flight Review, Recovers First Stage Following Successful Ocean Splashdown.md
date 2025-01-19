@@ -15,7 +15,7 @@ tags:
  - launch
  - anomaly
 ---
-
+>[!summary]
 #electron #launch #anomaly
 **Title:** Rocket Lab Progresses Flight Review, Recovers First Stage Following Successful Ocean Splashdown 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-progresses-flight-review-recovers-first-stage-following-successful-ocean-splashdown/

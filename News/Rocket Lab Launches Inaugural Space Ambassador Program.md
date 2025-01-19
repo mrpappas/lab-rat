@@ -8,7 +8,7 @@ published: 2021-07-08
 description: "*Rocket Lab Launches Inaugural Space Ambassador Program*"
 
 ---
-
+>[!summary]
 **Title:** Rocket Lab Launches Inaugural Space Ambassador Program  
 **Source:** https://www.rocketlabusa.com/updates/new-blog-post-4/
 **Author:** [[Rocket Lab]]

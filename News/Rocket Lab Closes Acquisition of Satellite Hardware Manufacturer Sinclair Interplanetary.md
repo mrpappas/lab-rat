@@ -11,7 +11,7 @@ tags:
  - space-systems
  - acquisition
 ---
-
+>[!summary]
 #space-systems #acquisition
 **Title:** Rocket Lab Closes Acquisition of Satellite Hardware Manufacturer Sinclair Interplanetary 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-closes-acquisition-of-satellite-hardware-manufacturer-sinclair-interplanetary/

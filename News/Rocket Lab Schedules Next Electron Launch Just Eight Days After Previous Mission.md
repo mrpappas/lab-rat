@@ -12,7 +12,7 @@ tags:
   - "launch"
   - "electron"
 ---
-
+>[!summary]
 #launch #electron
 **Title:** Rocket Lab Schedules Next Electron Launch Just Eight Days After Previous Mission  
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-schedules-next-electron-launch-just-eight-days-after-previous-mission/

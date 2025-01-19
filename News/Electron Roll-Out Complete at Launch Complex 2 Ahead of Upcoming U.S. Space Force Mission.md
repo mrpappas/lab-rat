@@ -10,7 +10,7 @@ locatdion:
  - "[[Launch Complex 2]]"
 tags:
 ---
-
+>[!summary]
 **Title:** Electron Roll-Out Complete at Launch Complex 2 Ahead of Upcoming U.S. Space Force Mission 
 **Source:** https://www.rocketlabusa.com/updates/electron-roll-out-complete-at-launch-complex-2-ahead-of-upcoming-u-s-space-force-mission/
 **Author:** [[Rocket Lab]]

@@ -10,7 +10,7 @@ partner: "[[SailGp]]"
 tags:
   - "acquisition"
 ---
-
+>[!summary]
 #acquisition
 **Title:** From sea to skies, Rocket Lab acquires SailGP Technologies facilities and team in Warkworth, New Zealand 
 **Source:** https://www.rocketlabusa.com/updates/from-sea-to-skies-rocket-lab-acquires-sailgp-technologies-facilities-and-team-in-warkworth-new-zealand/

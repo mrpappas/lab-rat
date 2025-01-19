@@ -8,7 +8,7 @@ published: 2022-11-09
 description: "Record revenue of $63.1 million, representing 14% sequential quarter-on-quarter growth and 1,093% Year-on-Year quarterly revenue growth Fourth quarter revenue expected to range between $51 million and $54 million as Q4 launch customer pushes into 2023"
 
 ---
-
+>[!summary]
 **Title:** Rocket Lab Announces Third Quarter 2022 Results and Guidance for Fourth Quarter 2022 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-announces-third-quarter-2022-results-and-guidance-for-fourth-quarter-2022/
 **Author:** [[Rocket Lab]]

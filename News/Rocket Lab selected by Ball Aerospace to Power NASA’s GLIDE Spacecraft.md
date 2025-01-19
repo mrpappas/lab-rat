@@ -15,7 +15,7 @@ tags:
  - space-systems
  - solar
 ---
-
+>[!summary]
 #space-systems #solar
 **Title:** Rocket Lab selected by Ball Aerospace to Power NASA’s GLIDE Spacecraft 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-selected-by-ball-aerospace-to-power-nasas-glide-spacecraft-2/

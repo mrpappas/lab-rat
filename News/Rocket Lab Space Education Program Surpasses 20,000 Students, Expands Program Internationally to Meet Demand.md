@@ -8,7 +8,7 @@ published: 2023-04-26
 description: "*Auckland, New Zealand. April 26, 2023* – Rocket Lab USA, Inc’s (Nasdaq: RKLB) (“Rocket Lab”) space and STEM education programs have reached a milestone of more than 20,000 students across New Zealand through school visits, rocket factory tours, after school rocket clubs and virtual STEM outreach events."
 
 ---
-
+>[!summary]
 **Title:** Rocket Lab Space Education Program Surpasses 20,000 Students, Expands Program Internationally to Meet Demand 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-space-education-program-surpasses-20000-students-expands-program-internationally-to-meet-demand/
 **Author:** [[Rocket Lab]]

@@ -14,7 +14,7 @@ tags:
  - space-systems
  - contract
 ---
-
+>[!summary]
 #space-systems #contract
 **Title:** Rocket Lab Awarded Contract to Design Twin Spacecraft for Mars  
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-awarded-contract-to-design-twin-spacecraft-for-mars/

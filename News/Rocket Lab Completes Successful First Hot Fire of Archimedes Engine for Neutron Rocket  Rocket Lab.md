@@ -10,7 +10,7 @@ tags:
   - "neutron"
   - "archimedes"
 ---
-
+>[!summary]
 #neutron #archimedes
 **Title:** Rocket Lab Completes Successful First Hot Fire of Archimedes Engine for Neutron Rocket 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-completes-successful-first-hot-fire-of-archimedes-engine-for-neutron-rocket/

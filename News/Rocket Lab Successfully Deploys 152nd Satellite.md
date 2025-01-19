@@ -12,7 +12,7 @@ tags:
   - "electron"
   - "launch"
 ---
-
+>[!summary]
 #electron #launch
 **Title:** Rocket Lab Successfully Deploys 152nd Satellite 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-deploys-152nd-satellite/

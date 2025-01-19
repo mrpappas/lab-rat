@@ -11,7 +11,7 @@ tags:
  - electron
  - contract
 ---
-
+>[!summary]
 #electron #contract
 **Title:** Rocket Lab Secures Multi-Launch Contract with HawkEye 360, Confirms First Launch Planned from Virginia 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-secures-multi-launch-contract-with-hawkeye-360-confirms-first-launch-planned-from-virginia/

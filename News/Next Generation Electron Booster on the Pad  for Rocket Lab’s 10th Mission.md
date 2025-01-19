@@ -16,7 +16,7 @@ tags:
  - electron
  - launch
 ---
-
+>[!summary]
 #electron #launch
 **Title:** Next Generation Electron Booster on the Pad  for Rocket Lab’s 10th Mission 
 **Source:** https://www.rocketlabusa.com/updates/next-generation-electron-booster-on-the-pad-for-rocket-labs-10th-mission/

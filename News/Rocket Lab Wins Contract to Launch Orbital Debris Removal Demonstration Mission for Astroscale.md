@@ -14,7 +14,7 @@ tags:
  - electron
  - contract
 ---
-
+>[!summary]
 #electron #contract
 **Title:** Rocket Lab Wins Contract to Launch Orbital Debris Removal Demonstration Mission for Astroscale 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-wins-contract-to-launch-orbital-debris-removal-demonstration-mission-for-astroscale/

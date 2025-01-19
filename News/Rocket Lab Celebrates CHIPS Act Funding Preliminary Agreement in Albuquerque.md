@@ -10,7 +10,7 @@ tags:
   - "solar"
   - "award"
 ---
-
+>[!summary]
 #solar #award
 **Title:** Rocket Lab Celebrates CHIPS Act Funding Preliminary Agreement in Albuquerque 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-celebrates-chips-act-funding-preliminary-agreement-in-albuquerque/

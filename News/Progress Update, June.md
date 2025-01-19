@@ -9,7 +9,7 @@ description: "*By Peter Beck, CEO*"
 insider:
  - "[[Peter Beck]]"
 ---
-
+>[!summary]
 **Title:** Progress Update, June 
 **Source:** https://www.rocketlabusa.com/updates/progress-update-june/
 **Author:** [[Rocket Lab]]

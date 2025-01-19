@@ -7,7 +7,7 @@ author:
 published: 2017-12-21
 description: "Rocket Lab has announced the recipient of its inaugural tertiary scholarship, with a Wairoa College student taking out the award."
 ---
-
+>[!summary]
 **Title:** Wairoa College student awarded inaugural Rocket Lab scholarship 
 **Source:** https://www.rocketlabusa.com/updates/wairoa-college-student-awarded-inaugural-rocket-lab-scholarship/
 **Author:** [[Rocket Lab]]

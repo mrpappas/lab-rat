@@ -9,7 +9,7 @@ description: "*Long Beach, California. September 10, 2024* - Rocket Lab USA, Inc
 insider: "[[Frank Klein]]"
 
 ---
-
+>[!summary]
 **Title:** Rocket Lab Appoints Chief Operations Officer to Support Company Growth  
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-appoints-chief-operations-officer-to-support-company-growth/
 **Author:** [[Rocket Lab]]

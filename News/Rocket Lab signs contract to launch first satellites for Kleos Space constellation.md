@@ -12,7 +12,7 @@ tags:
  - electron
  - contract
 ---
-
+>[!summary]
 #electron #contract
 **Title:** Rocket Lab signs contract to launch first satellites for Kleos Space constellation 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-signs-contract-to-launch-first-satellites-for-kleos-space-constellation/

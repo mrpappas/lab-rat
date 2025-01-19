@@ -14,7 +14,7 @@ tags:
   - "contract"
   - "electron"
 ---
-
+>[!summary]
 #contract #electron
 **Title:** Space Flight Laboratory Selects Rocket Lab to Launch Telesat Broadband Satellite 
 **Source:** https://www.rocketlabusa.com/updates/space-flight-laboratory-selects-rocket-lab-to-launch-telesat-broadband-satellite/

@@ -9,7 +9,7 @@ description: "*Long Beach, Calif. August 5, 2024*– Rocket Lab USA, Inc. (Nasda
 tags:
   - "space-systems"
 ---
-
+>[!summary]
 #space-systems
 **Title:** Rocket Lab Introduces Next-Generation Satellite Dispenser 
 **Source:** https://www.rocketlabusa.com/updates/new-blog-post-17/

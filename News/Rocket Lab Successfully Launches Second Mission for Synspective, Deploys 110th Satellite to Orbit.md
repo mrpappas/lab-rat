@@ -14,7 +14,7 @@ tags:
  - electron
  - launch
 ---
-
+>[!summary]
 #electron #launch
 **Title:** Rocket Lab Successfully Launches Second Mission for Synspective, Deploys 110th Satellite to Orbit 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-second-mission-for-synspective-deploys-110th-satellite-to-orbit/

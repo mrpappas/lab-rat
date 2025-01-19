@@ -13,7 +13,7 @@ mission:
 tags:
  - electron
 ---
-
+>[!summary]
 #electron
 **Title:** Fleet Space Technologies joins Rocket Lab manifest for  It’s Business Time mission  
 **Source:** https://www.rocketlabusa.com/updates/fleet-space-technologies-joins-rocket-lab-manifest-for-its-business-time-mission/

@@ -12,7 +12,7 @@ tags:
   - "launch"
   - "electron"
 ---
-
+>[!summary]
 #launch #electron
 **Title:** Rocket Lab Sets Launch Date for 51st Electron Mission, Prepares to Deploy Latest Satellites in Multi-Launch Contract for Synspective  
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-sets-launch-date-for-51st-electron-mission-prepares-to-deploy-latest-satellites-in-multi-launch-contract-for-synspective/

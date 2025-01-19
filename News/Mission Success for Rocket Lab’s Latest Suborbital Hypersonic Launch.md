@@ -12,7 +12,7 @@ tags:
   - "launch"
   - "HASTE"
 ---
-
+>[!summary]
 #launch #HASTE
 **Title:** Mission Success for Rocket Lab’s Latest Suborbital Hypersonic Launch  
 **Source:** https://www.rocketlabusa.com/updates/mission-success-for-rocket-labs-latest-suborbital-hypersonic-launch/

@@ -14,7 +14,7 @@ tags:
  - electron
  - launch
 ---
-
+>[!summary]
 #electron #launch
 **Title:** Rocket Lab successfully launches R3D2 satellite for DARPA
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-r3d2-satellite-for-darpa/

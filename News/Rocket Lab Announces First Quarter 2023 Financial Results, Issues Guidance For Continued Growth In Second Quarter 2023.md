@@ -8,7 +8,7 @@ published: 2023-05-09
 description: "*Long Beach, California. May 9, 2023* – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today shared the financial results for fiscal first quarter 2023, ended March 31, 2023."
 
 ---
-
+>[!summary]
 **Title:** Rocket Lab Announces First Quarter 2023 Financial Results, Issues Guidance For Continued Growth In Second Quarter 2023 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-announces-first-quarter-2023-financial-results-issues-guidance-for-continued-growth-in-second-quarter-2023/
 **Author:** [[Rocket Lab]]

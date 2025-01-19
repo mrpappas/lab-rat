@@ -12,7 +12,7 @@ tags:
  - space-systems
  - photon
 ---
-
+>[!summary]
 #space-systems #photon
 **Title:** Rocket Lab partners with Kongsberg Satellite Services for Electron and Photon ground station support 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-partners-with-kongsberg-satellite-services-for-electron-and-photon-ground-station-support/

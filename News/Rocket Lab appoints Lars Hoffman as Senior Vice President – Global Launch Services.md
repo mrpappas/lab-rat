@@ -9,7 +9,7 @@ description: "*Rocket Lab appoints Lars Hoffman as Senior Vice President – Glo
 insider:
  - "[[Lars Hoffman]]"
 ---
-
+>[!summary]
 **Title:** Rocket Lab appoints Lars Hoffman as Senior Vice President – Global Launch Services 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-appoints-lars-hoffman-as-senior-vice-president-global-launch-services/
 **Author:** [[Rocket Lab]]

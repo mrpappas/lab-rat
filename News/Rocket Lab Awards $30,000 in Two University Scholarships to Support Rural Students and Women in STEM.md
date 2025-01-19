@@ -7,7 +7,7 @@ author:
 published: 2023-11-06
 description: "*Auckland, New Zealand. November 6, 2023* – Rocket Lab USA Inc, (Nasdaq: RKLB), a leading launch and space systems company, has today awarded two scholarships worth $30,000 total to a young student aspiring to become a Māori health professional and a young woman determined to become an aerospace engineer."
 ---
-
+>[!summary]
 **Title:** Rocket Lab Awards $30,000 in Two University Scholarships to Support Rural Students and Women in STEM  
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-awards-30000-in-two-university-scholarships-to-support-rural-students-and-women-in-stem/
 **Author:** [[Rocket Lab]]

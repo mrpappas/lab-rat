@@ -11,7 +11,7 @@ tags:
   - "electron"
   - "contract"
 ---
-
+>[!summary]
 #electron #contract
 **Title:** U.S. Space Force Awards Rocket Lab Launch Contract for Space Test Program (STP)-S30 
 **Source:** https://www.rocketlabusa.com/updates/u-s-space-force-awards-rocket-lab-launch-contract-for-space-test-program-stp-s30/

@@ -13,7 +13,7 @@ tags:
   - "launch"
   - "electron"
 ---
-
+>[!summary]
 #space-systems #launch #electron
 **Title:** Rocket Lab Selected by Space Systems Command to Build and Launch Spacecraft for Tactically Responsive Space (TacRS) Mission 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-selected-by-space-systems-command-to-build-and-launch-spacecraft-for-tactically-responsive-space-tacrs-mission/

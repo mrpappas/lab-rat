@@ -9,7 +9,7 @@ description: "The former Aerojet Rocketdyne executive joins Rocket Lab with near
 insider: "[[Arjun Kampani]]"
 tags:
 ---
-
+>[!summary]
 **Title:** Rocket Lab Appoints Arjun Kampani As General Counsel 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-appoints-arjun-kampani-as-general-counsel/
 **Author:** [[Rocket Lab]]

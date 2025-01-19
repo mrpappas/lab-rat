@@ -15,7 +15,7 @@ tags:
  - electron
  - launch
 ---
-
+>[!summary]
 #electron #launch
 **Title:** Rocket Lab to open ‘Still Testing’ launch window on January 20 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-open-still-testing-launch-window-on-january-20/

@@ -11,7 +11,7 @@ customer:
 tags:
  - space-systems
 ---
-
+>[!summary]
 #space-systems
 **Title:** Rocket Lab Signs Exclusive License Agreement to Manufacture Space Radio Technology from Johns Hopkins University Applied Physics Laboratory 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-signs-exclusive-license-agreement-to-manufacture-space-radio-technology-from-johns-hopkins-university-applied-physics-laboratory/

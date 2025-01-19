@@ -12,7 +12,7 @@ tags:
   - "launch"
   - "electron"
 ---
-
+>[!summary]
 #launch #electron
 **Title:** Rocket Lab Successfully Launches Fifth National Security Mission for NRO 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-fifth-national-security-mission-for-nro/

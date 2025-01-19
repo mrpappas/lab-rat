@@ -11,7 +11,7 @@ tags:
  - capital-raise
  - electron
 ---
-
+>[!summary]
 #capital-raise #electron
 **Title:** Rocket Lab Raises $75 Million in Funding for Production of Electron Rocket  
 **Source:** https://www.rocketlabusa.com/updates/series-d-financing/

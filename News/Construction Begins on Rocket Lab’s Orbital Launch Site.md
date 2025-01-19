@@ -9,7 +9,7 @@ description: "Rocket Lab began construction of an orbital launch site on New Zea
 location:
  - "[[Launch Complex 1]]"
 ---
-
+>[!summary]
 **Title:** Construction Begins on Rocket Lab’s Orbital Launch Site 
 **Source:** https://www.rocketlabusa.com/updates/construction-begins-on-rocket-labs-orbital-launch-site/
 **Author:** [[Rocket Lab]]

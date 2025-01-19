@@ -7,7 +7,7 @@ author:
 published: 2021-12-01
 description: "Granted annually since 2017, the Rocket Lab Scholarship has for the first time been awarded twice in the same year to two Māori students studying a STEM degree at university"
 ---
-
+>[!summary]
 **Title:** Rocket Lab Grants $40,000 In Tertiary Scholarships  To Two East Coast Students 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-grants-40000-in-tertiary-scholarships-to-two-east-coast-students/
 **Author:** [[Rocket Lab]]

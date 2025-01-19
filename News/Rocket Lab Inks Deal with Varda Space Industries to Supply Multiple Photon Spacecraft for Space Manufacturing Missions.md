@@ -12,7 +12,7 @@ tags:
  - space-systems
  - contract
 ---
-
+>[!summary]
 #space-systems #contract
 **Title:** Rocket Lab Inks Deal with Varda Space Industries to Supply Multiple Photon Spacecraft for Space Manufacturing Missions 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-inks-deal-with-varda-space-industries-to-supply-multiple-photon-spacecraft-for-space-manufacturing-missions/

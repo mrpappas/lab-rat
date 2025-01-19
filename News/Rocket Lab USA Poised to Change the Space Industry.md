@@ -9,7 +9,7 @@ description: "US Aerospace company Rocket Lab is developing a world-first launch
 tags:
  - electron
 ---
-
+>[!summary]
 #electron
 **Title:** Rocket Lab USA Poised to Change the Space Industry 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-usa-poised-to-change-the-space-industry/

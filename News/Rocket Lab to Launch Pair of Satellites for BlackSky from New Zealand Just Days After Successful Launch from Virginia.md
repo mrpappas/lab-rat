@@ -12,7 +12,7 @@ tags:
   - "launch"
   - "electron"
 ---
-
+>[!summary]
 #launch #electron
 **Title:** Rocket Lab to Launch Pair of Satellites for BlackSky from New Zealand Just Days After Successful Launch from Virginia 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-launch-pair-of-satellites-for-blacksky-from-new-zealand-just-days-after-successful-launch-from-virginia/

@@ -11,7 +11,7 @@ mission: "[[SDA Tranche 2 - Enhanced Global Coverage]]"
 tags:
   - space-systems
 ---
-
+>[!summary]
 #space-systems
 **Title:** Rocket Lab Selects Subcontractors to Support SDA Satellite Constellation Development 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-selects-subcontractors-to-support-sda-satellite-constellation-development/

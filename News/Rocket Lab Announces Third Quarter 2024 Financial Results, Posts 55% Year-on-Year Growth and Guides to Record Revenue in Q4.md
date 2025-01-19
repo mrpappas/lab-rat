@@ -8,7 +8,7 @@ published: 2024-11-28
 description: "*Long Beach, California. November 12, 2024* – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab”, “the Company”, “we,” “us,” or “our”), a global leader in launch services and space systems, today shared the financial results for fiscal third quarter, ended September 30, 2024."
 
 ---
-
+>[!summary]
 **Title:** Rocket Lab Announces Third Quarter 2024 Financial Results, Posts 55% Year-on-Year Growth and Guides to Record Revenue in Q4 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-announces-third-quarter-2024-financial-results-posts-55-year-on-year-growth-and-guides-to-record-revenue-in-q4/
 **Author:** [[Rocket Lab]]

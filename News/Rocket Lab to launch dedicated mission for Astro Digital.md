@@ -14,7 +14,7 @@ tags:
  - electron
  - launch
 ---
-
+>[!summary]
 #electron #launch
 **Title:** Rocket Lab to launch dedicated mission for Astro Digital 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-launch-dedicated-mission-for-astro-digitalnew-blog-post/

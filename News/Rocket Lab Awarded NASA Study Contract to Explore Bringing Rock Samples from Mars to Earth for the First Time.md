@@ -10,7 +10,7 @@ customer: "[[NASA]]"
 tags:
   - "contract"
 ---
-
+>[!summary]
 #contract
 **Title:** Rocket Lab Awarded NASA Study Contract to Explore Bringing Rock Samples from Mars to Earth for the First Time 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-awarded-nasa-study-contract-to-explore-bringing-rock-samples-from-mars-to-earth-for-the-first-time/

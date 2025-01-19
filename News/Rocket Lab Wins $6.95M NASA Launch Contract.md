@@ -12,7 +12,7 @@ tags:
  - electron
  - contract
 ---
-
+>[!summary]
 #electron #contract
 **Title:** Rocket Lab Wins $6.95M NASA Launch Contract 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-wins-6-95m-nasa-launch-contract/

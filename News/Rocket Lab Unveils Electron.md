@@ -9,7 +9,7 @@ description: "Rocket Lab officially unveiled its new launch vehicle, Electron, o
 tags:
  - electron
 ---
-
+>[!summary]
 #electron
 **Title:** Rocket Lab Unveils Electron 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-unveils-electron/

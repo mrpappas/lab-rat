@@ -14,7 +14,7 @@ tags:
  - electron
  - contract
 ---
-
+>[!summary]
 #electron #contract
 **Title:** Rocket Lab to Launch Dedicated Mission for  Japanese Earth Imaging Company Synspective  
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-launch-dedicated-mission-for-japanese-earth-imaging-company-synspective/

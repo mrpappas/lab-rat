@@ -16,7 +16,7 @@ tags:
  - electron
  - contract
 ---
-
+>[!summary]
 #electron #contract
 **Title:** Rocket Lab to Launch Three Dedicated Electron Missions for Earth Imaging Company Synspective   
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-launch-three-dedicated-electron-missions-for-earth-imaging-company-synspective/

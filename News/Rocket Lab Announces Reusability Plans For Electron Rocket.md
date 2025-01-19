@@ -9,7 +9,7 @@ description: "*Rocket Lab Announces Reusability Plans For Electron Rocket *"
 tags:
  - electron
 ---
-
+>[!summary]
 #electron
 **Title:** Rocket Lab Announces Reusability Plans For Electron Rocket   
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-announces-reusability-plans-for-electron-rocket/

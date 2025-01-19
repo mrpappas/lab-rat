@@ -12,7 +12,7 @@ tags:
   - "launch"
   - "electron"
 ---
-
+>[!summary]
 #launch #electron
 **Title:** Rocket Lab Successfully Completes Second Launch for NASA Climate Science Mission  
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-completes-second-launch-for-nasa-climate-science-mission/

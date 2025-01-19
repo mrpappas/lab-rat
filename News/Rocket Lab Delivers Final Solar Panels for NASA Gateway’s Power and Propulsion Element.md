@@ -12,7 +12,7 @@ customer:
 tags:
   - space-systems
 ---
-
+>[!summary]
 #space-systems
 **Title:** Rocket Lab Delivers Final Solar Panels for NASA Gateway’s Power and Propulsion Element
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-delivers-final-solar-panels-for-nasa-gateways-power-and-propulsion-element/

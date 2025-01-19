@@ -14,7 +14,7 @@ tags:
  - electron
  - launch
 ---
-
+>[!summary]
 #electron #launch
 **Title:** Rocket Lab successfully launches ninth Electron mission, deploys payload to highest orbit yet
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-ninth-electron-mission-deploys-payload-to-highest-orbit-yet/

@@ -11,7 +11,7 @@ tags:
  - curie
  - kick-stage
 ---
-
+>[!summary]
 #electron #curie #kick-stage
 **Title:** The Kick Stage: Responsible Orbital Deployment  
 **Source:** https://www.rocketlabusa.com/updates/the-kick-stage-responsible-orbital-deployment/

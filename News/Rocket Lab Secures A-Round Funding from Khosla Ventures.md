@@ -10,7 +10,7 @@ event: "[[2013 Series A Funding]]"
 tags:
  - capital-raise
 ---
-
+>[!summary]
 #capital-raise
 **Title:** Rocket Lab Secures A-Round Funding from Khosla Ventures 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-secures-a-round-funding-from-khosla-ventures/

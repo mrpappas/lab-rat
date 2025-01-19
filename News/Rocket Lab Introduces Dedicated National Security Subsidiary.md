@@ -9,7 +9,7 @@ description: "Rocket Lab National Security will serve the U.S. and its allies wi
 partner: "[[Rocket Lab National Security (RLNS)]]"
 
 ---
-
+>[!summary]
 **Title:** Rocket Lab Introduces Dedicated National Security Subsidiary 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-introduces-dedicated-national-security-subsidiary/
 **Author:** [[Rocket Lab]]

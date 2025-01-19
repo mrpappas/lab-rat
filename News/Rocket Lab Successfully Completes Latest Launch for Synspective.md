@@ -12,7 +12,7 @@ tags:
   - "launch"
   - "electron"
 ---
-
+>[!summary]
 #launch #electron
 **Title:** Rocket Lab Successfully Completes Latest Launch for Synspective 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-completes-latest-launch-for-synspective/

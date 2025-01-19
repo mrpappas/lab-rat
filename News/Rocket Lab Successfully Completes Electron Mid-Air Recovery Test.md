@@ -9,7 +9,7 @@ description: "*Rocket Lab Successfully Completes Electron Mid-Air Recovery Test*
 tags:
  - electron
 ---
-
+>[!summary]
 #electron
 **Title:** Rocket Lab Successfully Completes Electron Mid-Air Recovery Test   
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-completes-electron-mid-air-recovery-test-the-successful-test-brings-rocket-lab-another-step-closer-to-making-electron-a-reusable-launch-vehicle/

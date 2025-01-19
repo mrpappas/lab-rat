@@ -15,7 +15,7 @@ tags:
   - "launch"
   - "electron"
 ---
-
+>[!summary]
 #launch #electron
 **Title:** Rocket Lab Prepares to Launch Mix of NASA and Commercial Satellites, and Takes Next Step in Rocket Reusability Program 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-prepares-mix-of-nasa-and-commercial-satellites-and-takes-next-step-in-rocket-reusability-program-new-blog-post/

@@ -12,7 +12,7 @@ tags:
   - electron
   - contract
 ---
-
+>[!summary]
 #electron #contract
 **Title:** BlackSky Signs New Block Buy for Five Rocket Lab Launches
 **Source:** https://www.rocketlabusa.com/updates/blacksky-signs-new-block-buy-for-five-rocket-lab-launches/

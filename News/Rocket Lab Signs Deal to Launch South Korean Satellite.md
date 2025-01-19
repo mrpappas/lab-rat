@@ -12,7 +12,7 @@ tags:
   - "contract"
   - "electron"
 ---
-
+>[!summary]
 #contract #electron
 **Title:** Rocket Lab Signs Deal to Launch South Korean Satellite  
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-signs-deal-to-launch-south-korean-satellite/

@@ -10,7 +10,7 @@ customer: "[[Capella Space]]"
 mission: "[[034 'Stronger Together' - Electron]]"
 
 ---
-
+>[!summary]
 **Title:** Rocket Lab Announces Launch Window for Second Electron Mission from Virginia 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-announces-launch-window-for-second-electron-mission-from-virginia/
 **Author:** [[Rocket Lab]]

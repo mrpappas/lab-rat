@@ -12,7 +12,7 @@ tags:
   - "launch"
   - "HASTE"
 ---
-
+>[!summary]
 #launch #HASTE
 **Title:** Rocket Lab Debuts HASTE Rocket with First Successful Suborbital Launch from Virginia  
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-debuts-haste-rocket-with-first-successful-suborbital-launch-from-virginia/

@@ -12,7 +12,7 @@ tags:
   - "launch"
   - "electron"
 ---
-
+>[!summary]
 #launch #electron
 **Title:** Rocket Lab Sets Launch Date for Second Dedicated Kinéis Mission to Deploy IoT Constellation  
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-sets-launch-date-for-second-dedicated-kineis-mission-to-deploy-iot-constellation/

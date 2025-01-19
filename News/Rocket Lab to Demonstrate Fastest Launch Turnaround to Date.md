@@ -17,7 +17,7 @@ tags:
  - electron
  - launch
 ---
-
+>[!summary]
 #electron #launch
 **Title:** Rocket Lab to Demonstrate Fastest Launch Turnaround to Date  
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-demonstrate-fastest-launch-turnaround-to-date/

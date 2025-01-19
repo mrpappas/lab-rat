@@ -10,7 +10,7 @@ customer: "[[Varda Space Industries]]"
 tags:
   - "space-systems"
 ---
-
+>[!summary]
 #space-systems
 **Title:** Rocket Lab Delivers Second Spacecraft, Completes Third for Varda Space Industries 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-delivers-second-spacecraft-completes-third-for-varda-space-industries/

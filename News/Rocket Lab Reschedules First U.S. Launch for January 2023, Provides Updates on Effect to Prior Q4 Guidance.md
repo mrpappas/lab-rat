@@ -12,7 +12,7 @@ tags:
   - "launch"
   - "electron"
 ---
-
+>[!summary]
 #launch #electron
 **Title:** Rocket Lab Reschedules First U.S. Launch for January 2023, Provides Updates on Effect to Prior Q4 Guidance 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-reschedules-first-u-s-launch-for-january-2023-provides-updates-on-effect-to-prior-q4-guidance/

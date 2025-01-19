@@ -12,7 +12,7 @@ tags:
   - "electron"
   - "reusability"
 ---
-
+>[!summary]
 #rutherford #electron #reusability
 **Title:** Rocket Lab Successfully Completes First Test Fire of Reused Rutherford Engine 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-completes-first-test-fire-of-reused-rutherford-engine/

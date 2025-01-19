@@ -12,7 +12,7 @@ tags:
  - electron
  - contract
 ---
-
+>[!summary]
 #electron #contract
 **Title:** Rocket Lab Lands Multi-Launch Deal to Deploy Entire IoT Satellite Constellation for Kinéis 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-lands-multi-launch-deal-to-deploy-entire-iot-satellite-constellation-for-kineis/

@@ -10,7 +10,7 @@ location: "[[Space Structures Complex - Middle River]]"
 tags:
   - structures
 ---
-
+>[!summary]
 #structures
 **Title:** Rocket Lab to Establish Space Structures Complex in Baltimore County to Supply Advanced Composite Products Internally and to Broader Space Industry
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-establish-space-structures-complex-in-baltimore-county-to-supply-advanced-composite-products-internally-and-to-broader-space-industry/

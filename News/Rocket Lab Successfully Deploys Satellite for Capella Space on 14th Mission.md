@@ -14,7 +14,7 @@ tags:
  - electron
  - launch
 ---
-
+>[!summary]
 #electron #launch
 **Title:** Rocket Lab Successfully Deploys Satellite for Capella Space on 14th Mission 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-deploys-satellite-for-capella-space-on-14th-mission/

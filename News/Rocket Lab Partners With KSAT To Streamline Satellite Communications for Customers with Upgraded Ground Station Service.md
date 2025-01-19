@@ -9,7 +9,7 @@ description: "The new ground station service streamlines operations for Rocket L
 partner: "[[KSAT]]"
 
 ---
-
+>[!summary]
 **Title:** Rocket Lab Partners With KSAT To Streamline Satellite Communications for Customers with Upgraded Ground Station Service 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-partners-with-ksat-to-streamline-satellite-communications-for-customers-with-upgraded-ground-station-service/
 **Author:** [[Rocket Lab]]

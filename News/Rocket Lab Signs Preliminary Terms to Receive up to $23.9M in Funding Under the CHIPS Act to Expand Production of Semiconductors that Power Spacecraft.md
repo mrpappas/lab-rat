@@ -10,7 +10,7 @@ tags:
   - "solar"
   - "award"
 ---
-
+>[!summary]
 #solar #award
 **Title:** Rocket Lab Signs Preliminary Terms to Receive up to $23.9M in Funding Under the CHIPS Act to Expand Production of Semiconductors that Power Spacecraft 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-signs-preliminary-terms-to-receive-up-to-23-9m-in-funding-under-the-chips-act-to-expand-production-of-semiconductors-that-power-spacecraft/

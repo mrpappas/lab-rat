@@ -9,7 +9,7 @@ description: "*Long Beach, Calif. June 24 2024*– Rocket Lab USA, Inc. (Nasdaq:
 tags:
   - "electron"
 ---
-
+>[!summary]
 #electron
 **Title:** Rocket Lab’s Electron Rocket Lands at the California Science Center 
 **Source:** https://www.rocketlabusa.com/updates/rocket-labs-electron-rocket-lands-at-the-california-science-center/

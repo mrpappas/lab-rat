@@ -10,7 +10,7 @@ customer: "[[Varda Space Industries]]"
 tags:
   - "space-systems"
 ---
-
+>[!summary]
 #space-systems
 **Title:** Rocket Lab Completes Custom-Built Photon Spacecraft for Varda Space Industries  
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-completes-custom-built-photon-spacecraft-for-varda-space-industries/

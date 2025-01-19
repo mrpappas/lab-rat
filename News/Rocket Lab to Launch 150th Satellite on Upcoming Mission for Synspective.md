@@ -12,7 +12,7 @@ tags:
   - "launch"
   - "electron"
 ---
-
+>[!summary]
 #launch #electron
 **Title:** Rocket Lab to Launch 150th Satellite on Upcoming Mission for Synspective 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-launch-150th-satellite-on-upcoming-mission-for-synspective/

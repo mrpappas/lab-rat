@@ -12,7 +12,7 @@ tags:
  - neutron
  - contract
 ---
-
+>[!summary]
 #neutron #contract
 **Title:** Rocket Lab Wins $24m U.S. Space Force Contract to Develop Neutron Upper Stage 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-wins-24m-u-s-space-force-contract-to-develop-neutron-upper-stage/

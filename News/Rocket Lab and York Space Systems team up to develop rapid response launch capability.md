@@ -11,7 +11,7 @@ tags:
   - space-systems
   - launch
 ---
-
+>[!summary]
 #space-systems #launch
 **Title:** Rocket Lab and York Space Systems team up to develop rapid response launch capability 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-and-york-space-systems-team-up-to-develop-rapid-response-launch-capability/

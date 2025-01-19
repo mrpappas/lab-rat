@@ -7,7 +7,7 @@ author:
 published: 2018-06-15
 description: "*Rocket Lab and Planet create commemorative patch to celebrate anniversary of first woman in space*"
 ---
-
+>[!summary]
 **Title:** Rocket Lab and Planet create commemorative patch to celebrate anniversary of first woman in space  
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-and-planet-create-commemorative-patch-to-celebrate-anniversary-of-first-woman-in-space/
 **Author:** [[Rocket Lab]]

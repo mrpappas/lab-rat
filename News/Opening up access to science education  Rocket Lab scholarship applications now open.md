@@ -7,7 +7,7 @@ author:
 published: 2019-07-28
 description: "Hawke’s Bay students interested in becoming innovators, scientists, and engineers, are being offered the opportunity to pursue STEM education thanks to Rocket Lab’s 2019 tertiary scholarship."
 ---
-
+>[!summary]
 **Title:** Opening up access to science education:  Rocket Lab scholarship applications now open 
 **Source:** https://www.rocketlabusa.com/updates/opening-up-access-to-science-education-rocket-lab-scholarship-applications-now-open/
 **Author:** [[Rocket Lab]]

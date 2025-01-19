@@ -15,7 +15,7 @@ mission:
 tags:
  - electron
 ---
-
+>[!summary]
 #electron
 **Title:** Rocket Lab Debuts Fully Autonomous Flight Termination System  
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-debuts-fully-autonomous-flight-termination-system/

@@ -12,7 +12,7 @@ tags:
  - electron
  - contract
 ---
-
+>[!summary]
 #electron #contract
 **Title:** Rocket Lab signs agreement for ten dedicated Electron missions with Circle Aerospace 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-signs-agreement-for-ten-dedicated-electron-missions-with-circle-aerospace/

@@ -12,7 +12,7 @@ tags:
   - "launch"
   - "electron"
 ---
-
+>[!summary]
 #launch #electron
 **Title:** Electron Rocket Arrives at Launch Complex 2 for Rocket Lab’s Inaugural Mission from Virginia 
 **Source:** https://www.rocketlabusa.com/updates/electron-rocket-arrives-at-launch-complex-2-for-rocket-labs-inaugural-mission-from-virginia/

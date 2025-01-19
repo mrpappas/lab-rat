@@ -14,7 +14,7 @@ tags:
   - "space-systems"
   - "solar"
 ---
-
+>[!summary]
 #space-systems #solar
 **Title:** Rocket Lab to Supply Solar Power for United States Space Force’s New Missile Warning Satellites 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-supply-solar-power-for-united-states-space-forces-new-missile-warning-satellites/

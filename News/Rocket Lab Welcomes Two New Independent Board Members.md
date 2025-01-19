@@ -12,7 +12,7 @@ insider:
 tags:
  - board-member
 ---
-
+>[!summary]
 #board-member
 **Title:** Rocket Lab Welcomes Two New Independent Board Members 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-welcomes-two-new-independent-board-members/

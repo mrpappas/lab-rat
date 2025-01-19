@@ -12,7 +12,7 @@ tags:
   - "launch"
   - "electron"
 ---
-
+>[!summary]
 #launch #electron
 **Title:** Rocket Lab Successfully Launches 31st Electron Rocket, Breaks Annual Launch Record 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-31st-electron-rocket-breaks-annual-launch-record/

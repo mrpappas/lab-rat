@@ -7,7 +7,7 @@ author:
 published: 2018-12-17
 description: "Auckland, New Zealand – 17 December, 2018: Rocket Lab has today awarded Wairoa College student Mya Mataki-Wilson the 2018 Rocket Lab scholarship, giving her a head-start in her future engineering career."
 ---
-
+>[!summary]
 **Title:** Stand-out Wairoa College student awarded Rocket Lab scholarship to pursue engineering future 
 **Source:** https://www.rocketlabusa.com/updates/stand-out-wairoa-college-student-awarded-rocket-lab-scholarship-to-pursue-engineering-future/
 **Author:** [[Rocket Lab]]

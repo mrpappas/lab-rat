@@ -12,7 +12,7 @@ tags:
   - "launch"
   - "electron"
 ---
-
+>[!summary]
 #launch #electron
 **Title:** Rocket Lab Sets Launch Date for 50th Electron Mission, Prepares to Deploy Five Satellites for Kinéis 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-sets-launch-date-for-50th-electron-mission-prepares-to-deploy-five-satellites-for-kineis/

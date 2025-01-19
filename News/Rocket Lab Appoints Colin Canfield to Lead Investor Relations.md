@@ -9,7 +9,7 @@ description: "*Rocket Lab Appoints Colin Canfield to Lead Investor Relations*"
 insider: "[[Colin Canfield]]"
 
 ---
-
+>[!summary]
 **Title:** Rocket Lab Appoints Colin Canfield to Lead Investor Relations  
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-appoints-colin-canfield-to-lead-investor-relations/
 **Author:** [[Rocket Lab]]

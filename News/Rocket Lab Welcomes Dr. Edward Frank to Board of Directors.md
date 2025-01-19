@@ -9,7 +9,7 @@ description: "*Long Beach, California. 6 September 2022* – Rocket Lab USA, Inc
 insider: "[[Edward H. Frank]]"
 
 ---
-
+>[!summary]
 **Title:** Rocket Lab Welcomes Dr. Edward Frank to Board of Directors 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-welcomes-dr-edward-frank-to-board-of-directors/
 **Author:** [[Rocket Lab]]

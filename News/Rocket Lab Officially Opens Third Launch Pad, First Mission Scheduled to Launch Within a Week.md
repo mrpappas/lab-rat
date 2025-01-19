@@ -11,7 +11,7 @@ location:
 tags:
  - electron
 ---
-
+>[!summary]
 #electron
 **Title:** Rocket Lab Officially Opens Third Launch Pad, First Mission Scheduled to Launch Within a Week 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-officially-opens-third-launch-pad-first-mission-scheduled-to-launch-within-a-week/

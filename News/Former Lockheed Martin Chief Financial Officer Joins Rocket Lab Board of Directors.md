@@ -9,7 +9,7 @@ description: "Former Lockheed Martin Chief Financial Officer Joins Rocket Lab Bo
 insider: "[[Kenneth R. Possenriede]]"
 
 ---
-
+>[!summary]
 **Title:** Former Lockheed Martin Chief Financial Officer Joins Rocket Lab Board of Directors 
 **Source:** https://www.rocketlabusa.com/updates/new-blog-post-18/
 **Author:** [[Rocket Lab]]

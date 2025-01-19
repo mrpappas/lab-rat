@@ -15,7 +15,7 @@ tags:
   - electron
   - contract
 ---
-
+>[!summary]
 #electron #contract
 **Title:** Rocket Lab to launch three R&D satellites for the U.S. Air Force 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-launch-three-r-and-d-satellites-for-the-u-s-air-force/

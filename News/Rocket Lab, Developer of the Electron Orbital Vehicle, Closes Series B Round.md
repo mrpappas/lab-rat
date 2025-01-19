@@ -11,7 +11,7 @@ tags:
  - capital-raise
  - electron
 ---
-
+>[!summary]
 #capital-raise #electron
 **Title:** Rocket Lab, Developer of the Electron Orbital Vehicle, Closes Series B Round 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-developer-of-the-electron-orbital-vehicle-closes-series-b-round-2/

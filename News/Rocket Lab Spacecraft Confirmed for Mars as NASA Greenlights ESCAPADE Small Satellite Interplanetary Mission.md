@@ -14,7 +14,7 @@ tags:
  - space-systems
  - contract
 ---
-
+>[!summary]
 #space-systems #contract
 **Title:** Rocket Lab Spacecraft Confirmed for Mars as NASA Greenlights ESCAPADE Small Satellite Interplanetary Mission 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-spacecraft-confirmed-for-mars-as-nasa-greenlights-escapade-small-satellite-interplanetary-mission/

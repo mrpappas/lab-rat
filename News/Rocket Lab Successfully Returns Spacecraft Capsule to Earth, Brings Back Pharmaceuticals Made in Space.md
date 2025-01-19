@@ -10,7 +10,7 @@ customer: "[[Varda Space Industries]]"
 tags:
   - "space-systems"
 ---
-
+>[!summary]
 #space-systems
 **Title:** Rocket Lab Successfully Returns Spacecraft Capsule to Earth, Brings Back Pharmaceuticals Made in Space 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-returns-spacecraft-capsule-to-earth-brings-back-pharmaceuticals-made-in-space/

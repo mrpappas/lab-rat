@@ -8,7 +8,7 @@ published: 2020-09-01
 description: "The license enables multiple launches of the Electron launch vehicle from Rocket Lab Launch Complex 2 in Virginia to support frequent and responsive launch from U.S. soil"
 location: "[[Launch Complex 2]]"
 ---
-
+>[!summary]
 **Title:** Rocket Lab Granted FAA Launch Operator License for Missions from Launch Complex 2  
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-granted-faa-launch-operator-license-for-missions-from-launch-complex-2/
 **Author:** [[Rocket Lab]]

@@ -11,7 +11,7 @@ mission: "[[SDA Tranche 1 - Initial Warfighting Capability]]"
 tags:
   - space-systems
 ---
-
+>[!summary]
 #space-systems
 **Title:** Rocket Lab Awarded $14m in Contracts to Supply Satellite Separation Systems for Space Development Agency’s Tranche 1 Transport Layer 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-awarded-14m-in-contracts-to-supply-satellite-separation-systems-for-space-development-agencys-tranche-1-transport-layer/

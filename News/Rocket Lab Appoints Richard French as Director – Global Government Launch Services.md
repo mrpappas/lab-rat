@@ -9,7 +9,7 @@ description: "The award-winning engineer brings more than a decade of experience
 insider:
  - "[[Richard French]]"
 ---
-
+>[!summary]
 **Title:** Rocket Lab Appoints Richard French as Director – Global Government Launch Services 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-appoints-richard-french-as-director-global-government-launch-servicesnew-blog-post/
 **Author:** [[Rocket Lab]]

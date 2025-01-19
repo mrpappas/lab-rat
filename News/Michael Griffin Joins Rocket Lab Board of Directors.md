@@ -9,7 +9,7 @@ description: "*Michael Griffin Joins Rocket Lab Board of Directors*"
 insider:
  - "[[Michael D. Griffin]]"
 ---
-
+>[!summary]
 **Title:** Michael Griffin Joins Rocket Lab Board of Directors 
 **Source:** https://www.rocketlabusa.com/updates/michael-griffin-joins-rocket-lab-board-of-directors/
 **Author:** [[Rocket Lab]]

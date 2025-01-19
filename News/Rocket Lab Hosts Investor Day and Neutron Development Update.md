@@ -9,7 +9,7 @@ description: "*New York,. 21 September, 2022 *– Rocket Lab USA, Inc (Nasdaq: R
 tags:
   - "neutron"
 ---
-
+>[!summary]
 #neutron
 **Title:** Rocket Lab Hosts Investor Day and Neutron Development Update 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-hosts-investor-day-and-neutron-development-update/

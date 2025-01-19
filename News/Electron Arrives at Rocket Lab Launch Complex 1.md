@@ -9,7 +9,7 @@ description: "Rocket Lab delivered its first Electron vehicle to Rocket Lab Laun
 tags:
  - electron
 ---
-
+>[!summary]
 #electron
 **Title:** Electron Arrives at Rocket Lab Launch Complex 1 
 **Source:** https://www.rocketlabusa.com/updates/electronarriveslaunchcomplex1/

@@ -12,7 +12,7 @@ tags:
   - "launch"
   - "electron"
 ---
-
+>[!summary]
 #launch #electron
 **Title:** Rocket Lab Reaches New Annual Launch Record with 10th Electron Mission This Year 
 **Source:** https://www.rocketlabusa.com/updates/new-blog-post-14/

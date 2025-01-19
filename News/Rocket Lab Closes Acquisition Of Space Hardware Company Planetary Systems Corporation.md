@@ -15,7 +15,7 @@ tags:
  - acquisition
  - space-systems
 ---
-
+>[!summary]
 #acquisition #space-systems
 **Title:** Rocket Lab Closes Acquisition Of Space Hardware Company Planetary Systems Corporation 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-closes-acquisition-of-space-hardware-company-planetary-systems-corporation/

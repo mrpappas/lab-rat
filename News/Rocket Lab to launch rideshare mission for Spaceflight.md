@@ -16,7 +16,7 @@ tags:
  - electron 
  - contract
 ---
-
+>[!summary]
 #electron #contract
 **Title:** Rocket Lab to launch rideshare mission for Spaceflight 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-to-launch-rideshare-mission-for-spaceflight/

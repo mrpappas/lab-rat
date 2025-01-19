@@ -14,7 +14,7 @@ mission:
 tags:
  - space-systems
 ---
-
+>[!summary]
 #space-systems
 **Title:** Rocket Lab Selected by MDA to Design and Build Spacecraft for Globalstar 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-selected-by-mda-to-design-and-build-spacecraft-for-globalstar/

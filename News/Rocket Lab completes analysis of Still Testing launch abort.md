@@ -16,7 +16,7 @@ tags:
  - launch
  - abort
 ---
-
+>[!summary]
 #electron #launch #abort
 **Title:** Rocket Lab completes analysis of Still Testing launch abort 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-completes-analysis-of-still-testing-launch-abort/

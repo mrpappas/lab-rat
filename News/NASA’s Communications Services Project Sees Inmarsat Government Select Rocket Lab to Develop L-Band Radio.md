@@ -12,7 +12,7 @@ customer:
 tags:
   - "space-systems"
 ---
-
+>[!summary]
 #space-systems
 **Title:** NASA’s Communications Services Project Sees Inmarsat Government Select Rocket Lab to Develop L-Band Radio  
 **Source:** https://www.rocketlabusa.com/updates/nasas-communications-services-project-sees-inmarsat-government-select-rocket-lab-to-develop-l-band-radio/

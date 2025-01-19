@@ -12,7 +12,7 @@ tags:
   - "launch"
   - "electron"
 ---
-
+>[!summary]
 #launch #electron
 **Title:** Rocket Lab Successfully Launches 45th Electron Mission, 4th for Longtime Partner Synspective 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-45th-electron-mission-4th-for-longtime-partner-synspective/

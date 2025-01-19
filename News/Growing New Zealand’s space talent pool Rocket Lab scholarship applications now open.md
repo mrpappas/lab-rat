@@ -7,7 +7,7 @@ author:
 published: 2018-09-18
 description: "Auckland, New Zealand. 18 September 2018."
 ---
-
+>[!summary]
 **Title:** Growing New Zealand’s space talent pool: Rocket Lab scholarship applications now open 
 **Source:** https://www.rocketlabusa.com/updates/growing-new-zealands-space-talent-pool-rocket-lab-scholarship-applications-now-open/
 **Author:** [[Rocket Lab]]

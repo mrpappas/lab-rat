@@ -12,7 +12,7 @@ tags:
  - electron
  - launch
 ---
-
+>[!summary]
 #electron #launch
 **Title:** Rocket Lab and Planet Sign Launch Services Agreement 
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-and-planet-sign-launch-services-agreement/

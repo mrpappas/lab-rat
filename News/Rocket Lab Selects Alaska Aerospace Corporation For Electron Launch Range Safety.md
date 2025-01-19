@@ -11,7 +11,7 @@ partner:
 tags:
  - electron
 ---
-
+>[!summary]
 #electron
 **Title:** Rocket Lab Selects Alaska Aerospace Corporation For Electron Launch Range Safety
 **Source:** https://www.rocketlabusa.com/updates/rocket-lab-selects-alaska-aerospace-corporation-for-electron-launch-range-safety/
