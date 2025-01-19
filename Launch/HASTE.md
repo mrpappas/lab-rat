@@ -6,6 +6,25 @@ HASTE has a payload capacity of 700 kg (1,500 lb), double that of Electron. It c
 > 🚀 https://www.rocketlabusa.com/launch/haste/
 >🔗 https://en.wikipedia.org/wiki/Rocket_Lab#HASTE_suborbital_rocket
 
+**Payload Mass**: ~700kg / 1540 lbs
+**Payload Separation Velocity**: 3 km/sec to 7.5 km/sec
+**Payload Separation Altitude**: 80 km+
+## 📡 Payload Configurations
+
+### Air-Breathing Applications
+This configuration supports payloads such as scramjet or ramjet engines that operate by ingesting atmospheric air during flight. HASTE can deploy these payloads at specific altitudes and velocities to facilitate testing of air-breathing propulsion systems under realistic flight conditions.
+
+### Ballistic Re-Entry Applications
+In this setup, HASTE delivers payloads on a suborbital trajectory that re-enters the Earth's atmosphere following a ballistic path. This is ideal for testing re-entry vehicles, heat shields, and other technologies that must withstand the high temperatures and pressures encountered during atmospheric re-entry.
+
+### Boost Glide Applications
+This configuration involves deploying payloads that glide unpowered after an initial boost phase, covering long distances at hypersonic speeds within the atmosphere. It's particularly useful for testing hypersonic glide vehicles and related technologies that require sustained high-speed atmospheric flight.
+
+### Space-Based Applications
+HASTE can also accommodate payloads intended for space-based experiments or technology demonstrations. While primarily a suborbital vehicle, its flexible design allows it to support missions that require brief exposure to space environments, enabling testing of space technologies without the need for full orbital insertion.
+
+![[Pasted image 20250119002432.png]]
+
 ## 🚀 Launches
 %%DATAVIEW_PUBLISHER: start
 ```
