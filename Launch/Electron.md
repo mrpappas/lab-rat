@@ -7,14 +7,22 @@ Electron is a two-stage, partially reusable orbital launch vehicle developed by 
 
 ![[Pasted image 20250112153524.jpg]]
 
-| Height             | 18m / 59ft            |
-| ------------------ | --------------------- |
-| **Diameter**       | 1.2m / 3.9ft          |
-| **Stages**         | 2+ Kick Stage         |
-| **Wet** **Mass**   | 13,000 kg / 28,660 lb |
-| **Payload to LEO** | 300 kg / 661 lb       |
-| **Structure**      | Carbon Composite      |
-| **Propellant**     | LOX / Kerosene        |
+## ⚙️ Specs
+
+| Height             | 18m / 59ft                |
+| ------------------ | ------------------------- |
+| **Diameter**       | 1.2m / 3.9ft              |
+| **Stages**         | 2+ Kick Stage             |
+| **Wet** **Mass**   | 13,000 kg / 28,660 lb     |
+| **Payload to LEO** | 300 kg / 661 lb           |
+| **Structure**      | Carbon Composite          |
+| **Propellant**     | LOX / Kerosene            |
+| ASP                | ~$8.4 Million (~28k / kg) |
+
+## 🏗️ Development 
+
+- Electron was developed for only $100 million ($123 million inflation-adjusted), putting development costs on par with Falcon 1's $90 million ($131 million inflation-adjusted)
+- Electron was developed in 2.8 years and is the fasted commercially developed rocket to reach 50 launches (7.1 years after first launch). 
 
 >[!warning] This video is a bit old at this point but does a great job breaking down Electron and Rutherford
 <iframe width="1227" height="690" src="https://www.youtube.com/embed/C0STPK3g9c8" title="Is Rocket Lab the new SpaceX? The Electron VS Falcon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -65,18 +73,3 @@ Rocket Lab has also developed an optional third stage, known as the "kick stage"
 
 Curie engine stuff goes here
 
-## 📰 News
-
-%%DATAVIEW_PUBLISHER: start
-```
-table title as "Title", published as "Published"
-from "News"
-where contains(tags, "Electron")
-sort published desc
-```
-%%
-
-| File | Title | Published |
-| ---- | ----- | --------- |
-
-%%DATAVIEW_PUBLISHER: end%%

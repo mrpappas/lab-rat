@@ -1,14 +1,13 @@
 ---
-
 date: 2015-03-31
-net_proceeds: unknown
-valuation: unknown
+net_proceeds: $37,000,000
+valuation: $120,000,000
 lead_investor: "[[Bessemer Venture Partners]]"
-investors: 
- - "[[Bessemer Venture Partners]]"
- - "[[Khosla Ventures]]"
- - "[[K1W1 Investment Fund]]"
- - "[[Lockheed Martin]]"
+investors:
+  - "[[Bessemer Venture Partners]]"
+  - "[[Khosla Ventures]]"
+  - "[[K1W1 Investment Fund]]"
+  - "[[Lockheed Martin]]"
 ---
 
 **Date:** 2015-03-31

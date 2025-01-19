@@ -1,12 +1,11 @@
 ---
-
 date: 2013-10-01
-net_proceeds: unknown
-valuation: unknown
+net_proceeds: $6,000,000
+valuation: $14,000,000
 lead_investor: "[[Khosla Ventures]]"
-investors: 
- - "[[Khosla Ventures]]"
- - "[[Callaghan Innovation]]"
+investors:
+  - "[[Khosla Ventures]]"
+  - "[[Callaghan Innovation]]"
 ---
 
 **Date:** 2013-10-01
