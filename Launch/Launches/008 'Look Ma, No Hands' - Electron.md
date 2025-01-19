@@ -32,6 +32,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/to-be-anno
 **Payload Mass:** 80 kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/to-be-announced/
+Press Kit: [[Launch-Media-Kit-Flight-eight.pdf]]
 
 >[!success] Mission Success
 
@@ -66,6 +67,3 @@ sort published desc
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/SNuauG1Gvr8" title="Rocket Lab&#39;s Electron - Look Ma, No Hands Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
 
-## 🎙️ Press Kit
-
-![[Launch-Media-Kit-Flight-eight.pdf]]

@@ -30,6 +30,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/running-ou
 **Payload Mass:** 120 kg
 **Recovery:** Success (Ocean Landing)
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/running-out-of-toes/
+Press Kit: [[Flight-20-Running-Out-Of-Toes-press-kit-web-final.pdf]]
 
 >[!failure] Mission Failure
 
@@ -63,7 +64,3 @@ sort published desc
 <iframe width="800" height="450" src="https://www.youtube.com/embed/Zw3sIUyfSfc" title="Rocket Lab&#39;s Electron - Running Out Of Toes Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
 
 
-
-## 🎙️ Press Kit
-
-![[Flight-20-Running-Out-Of-Toes-press-kit-web-final.pdf]]

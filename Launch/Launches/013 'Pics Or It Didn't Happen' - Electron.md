@@ -33,6 +33,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/pics-or-it
 **Payload Mass:** 75 kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/pics-or-it-didnt-happen/
+Press Kit: [[FINAL-F13-PicOrItDidntHappen-Presskit.pdf]]
 
 >[!failure] Mission Failure
 
@@ -74,6 +75,3 @@ sort published desc
 <iframe width="800" height="450" src="https://www.youtube.com/embed/5ZcZoDFYjXc" title="Rocket Lab&#39;s Electron - Pics Or It Didn&#39;t Happen Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
 
 
-## 🎙️ Press Kit
-
-![[FINAL-F13-PicOrItDidntHappen-Presskit.pdf]]

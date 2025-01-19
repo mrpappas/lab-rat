@@ -32,6 +32,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/make-it-ra
 **Payload Mass:** 80 kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/make-it-rain
+Press Kit: [[Rocket-Lab-MAKE-IT-RAIN-press-kit.pdf]]
 
 >[!success] Mission Success
 
@@ -61,7 +62,3 @@ sort published desc
 ## 📽️ Launch Video
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/idKCy8LdyKo" title="Rocket Lab&#39;s Electron - Make It Rain Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
-
-## 🎙️ Press Kit
-
-![[Rocket-Lab-MAKE-IT-RAIN-press-kit.pdf]]

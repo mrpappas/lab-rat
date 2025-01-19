@@ -29,6 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/the-beat-g
 **Payload Mass:** 120 kg
 **Recovery:** Success (Ocean Landing)
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/the-beat-goes-on/
+Press Kit: [[The-Beat-Goes-On-Press-Kit.pdf]]
 
 >[!success] Mission Success
 
@@ -66,7 +67,3 @@ sort published desc
 
 - This mission launched only 7 days after [[034 'Stronger Together' - Electron]], marking the fastest ever turnaround
 
-
-## 🎙️ Press Kit
-
-![[The-Beat-Goes-On-Press-Kit.pdf]]

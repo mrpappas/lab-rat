@@ -29,6 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/scouts-arr
 **Payload Mass:** unknown
 **Recovery:** n/a
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/scouts-arrow/
+Press Kit: 🚫 No Press Kit Issued for this Mission
 
 >[!success] Mission Success
 

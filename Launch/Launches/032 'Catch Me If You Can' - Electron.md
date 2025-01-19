@@ -29,6 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/catch-me-i
 **Payload Mass:** 50 kg
 **Recovery:** Partial Failure (Aerial Capture)
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/catch-me-if-you-can/
+Press Kit: [[F32-Catch-Me-Press-Kit.pdf]]
 
 >[!success] Mission Success
 
@@ -62,6 +63,3 @@ sort published desc
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/PVTwEn9GdsA" title="Rocket Lab&#39;s Electron - Catch Me If You Can Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
 
-## 🎙️ Press Kit
-
-![[F32-Catch-Me-Press-Kit.pdf]]

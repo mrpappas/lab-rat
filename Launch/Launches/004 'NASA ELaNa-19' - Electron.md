@@ -29,6 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/elana-19/
 **Payload Mass:** 78 kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/elana-19/
+Press Kit: [[NASA-ELANA19-Presskit-December2019 (1).pdf]]
 
 >[!success] Mission Success
 
@@ -100,6 +101,3 @@ Cubesats Deployed:
 **Organization:** NASA JPL
 
 
-## 🎙️ Press Kit
-
-![[NASA-ELANA19-Presskit-December2019 (1).pdf]]

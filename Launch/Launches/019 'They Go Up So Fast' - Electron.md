@@ -38,6 +38,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/they-go-up
 **Payload Mass:** Unknown
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/they-go-up-so-fast/
+Press Kit: [[Flight-19-They-Go-Up-So-Fast-Press-Kit-small.pdf]]
 
 >[!success] Mission Success
 
@@ -77,6 +78,3 @@ sort published desc
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/u5wmrGriVX0" title="Rocket Lab&#39;s Electron - They Go Up So Fast Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
 
-## 🎙️ Press Kit
-
-![[Flight-19-They-Go-Up-So-Fast-Press-Kit-small.pdf]]

@@ -29,6 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/a-data-wit
 **Payload Mass:** 120 kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/a-data-with-destiny/
+Press Kit: [[Flight-23-Press-Kit-v1.pdf]]
 
 >[!success] Mission Success
 
@@ -63,6 +64,3 @@ sort published desc
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/PmCl2Hs8enc" title="Rocket Lab&#39;s Electron - A Data With Destiny Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
 
-## 🎙️ Press Kit
-
-![[Flight-23-Press-Kit-v1.pdf]]

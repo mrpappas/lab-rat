@@ -29,6 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/the-owls-n
 **Payload Mass:** 150 kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/the-owls-night-continues/
+Press Kit: [[Rocket-Lab-The-Owls-Night-Continues-Press-Kit.pdf]]
 
 >[!success] Mission Success
 
@@ -65,6 +66,3 @@ sort published desc
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/MjfNJjTyfKY" title="Rocket Lab&#39;s Electron - The Owl&#39;s Night Continues Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
 
-## 🎙️ Press Kit
-
-![[Rocket-Lab-The-Owls-Night-Continues-Press-Kit.pdf]]

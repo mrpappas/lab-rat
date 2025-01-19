@@ -33,6 +33,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/baby-come-
 **Payload Mass:** 86 kg
 **Recovery:** Success (Ocean Landing)
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/baby-come-back/
+Press Kit: [[Press-Kit-Rocket-Lab-Baby-Come-Back2.pdf]]
 
 >[!success] Mission Success
 
@@ -75,6 +76,4 @@ sort published desc
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/AA6WI05yKHM" title="Rocket Lab&#39;s Electron - Baby Come Back Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
 
-## 🎙️ Press Kit
 
-![[Press-Kit-Rocket-Lab-Baby-Come-Back2.pdf]]

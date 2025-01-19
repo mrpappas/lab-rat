@@ -29,6 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/owl-for-on
 **Payload Mass:** 100 kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/owl-for-one-one-for-owl/
+Press Kit: [[FINAL-F51-Synspective-press-kit.pdf]]
 
 >[!Success] Mission Success
 
@@ -63,6 +64,3 @@ sort published desc
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/ZdikUDvKYmc" title="Rocket Lab&#39;s Electron - Owl For One, One For Owl Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
 
-## 🎙️ Press Kit
-
-![[FINAL-F51-Synspective-press-kit.pdf]]

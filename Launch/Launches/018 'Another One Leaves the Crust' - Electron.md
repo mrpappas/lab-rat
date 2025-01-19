@@ -29,6 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/another-on
 **Payload Mass:** 50 kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/another-one-leaves-the-crust/
+Press Kit: [[Rocket-Lab-Another-One-Leaves-The-Crust-Press-Kit2.pdf]]
 
 >[!success] Mission Success
 
@@ -58,6 +59,3 @@ sort published desc
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/NQyNuF-Du7c" title="Rocket Lab&#39;s Electron - Another One Leaves The Crust Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
 
-## 🎙️ Press Kit
-
-![[Rocket-Lab-Another-One-Leaves-The-Crust-Press-Kit2.pdf]]

@@ -29,6 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/a-sky-full
 **Payload Mass:** 165 kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/a-sky-full-of-sars/
+Press Kit: [[FINAL-RL-F52-Capella-Press-Kit.pdf]]
 
 >[!Success] Mission Success
 
@@ -64,6 +65,3 @@ sort published desc
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/wFH0ZS2GHd8" title="Rocket Lab&#39;s Electron - A Sky Full Of SARs Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
 
-## 🎙️ Press Kit
-
-![[FINAL-RL-F52-Capella-Press-Kit.pdf]]

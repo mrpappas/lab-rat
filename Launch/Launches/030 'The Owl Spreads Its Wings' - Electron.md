@@ -29,6 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/the-owl-sp
 **Payload Mass:** 100 kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/the-owl-spreads-its-wings/
+Press Kit: [[FINAL-F30-The-Owl-Spreads-Its-Wings-Press-Kit.pdf]]
 
 >[!success] Mission Success
 
@@ -66,8 +67,3 @@ sort published desc
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/I9aYHnHaFAk" title="Rocket Lab&#39;s Electron - The Owl Spreads Its Wings Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
 
-
-
-## 🎙️ Press Kit
-
-![[FINAL-F30-The-Owl-Spreads-Its-Wings-Press-Kit.pdf]]

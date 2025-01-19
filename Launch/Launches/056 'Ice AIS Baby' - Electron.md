@@ -29,6 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/ice-ais-ba
 **Payload Mass:** 150 kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/ice-ais-baby/
+Press Kit: [[Ice-AIS-Baby-Press-Kit2.pdf]]
 
 >[!Success] Mission Success
 
@@ -66,8 +67,3 @@ sort published desc
 ## ✏️ Notes
 
 - This Marks the first time Rocket lab launched two missions within 24 hours. This along with [[055 'HASTE A La Vista' - HASTE]].
-
-
-## 🎙️ Press Kit
-
-![[Ice-AIS-Baby-Press-Kit2.pdf]]

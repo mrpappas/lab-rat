@@ -31,6 +31,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/capstone/
 **Payload Mass:** 80kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/capstone/
+Press Kit: [[CAPSTONE-Press-Kit3.pdf]]
 
 >[!success] Mission Success
 
@@ -58,8 +59,7 @@ CAPSTONE is one of the first steps to learn how to operate more robust missions 
 
 Once Electron reached low Earth orbit, our Lunar [[Photon]] upper stage took the reigns to deliver the CAPSTONE spacecraft onto its highly efficient ballistic transfer orbit to the Moon. As part of the mission, Lunar Photon, with [[Advanced Space]]’s CAPSTONE attached, orbited the Earth in elliptical phasing orbits over six days to build up velocity for a Trans Lunar Injection (TLI) to deploy CAPSTONE into the deep space, low energy transfer orbit to the vicinity of the Moon.
 
-
-![[EXC22_017 - Photon Doc_ƒ [Web].pdf]]
+🌙 More info on Lunar Photon: [[EXC22_017 - Photon Doc_ƒ [Web].pdf]]
 
 
 ## 📰 News
@@ -104,7 +104,3 @@ Links:
 - www.rocketlabusa.com/missions/lunar/ 
 - www.nasa.gov/directorates/spacetech/small_spacecraft/capstone
 - https://nasa.tumblr.com/post/683165720838864896/capstone-testing-a-path-to-the-moon
-
-## 🎙️ Press Kit
-
-![[CAPSTONE-Press-Kit3.pdf]]

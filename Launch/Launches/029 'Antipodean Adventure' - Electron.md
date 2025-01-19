@@ -29,6 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/antipodean
 **Payload Mass:** Classified
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/antipodean-adventure/
+Press Kit: [[Flight-29-Press-Kit-FINAL.pdf]]
 
 >[!success] Mission Success
 
@@ -63,6 +64,3 @@ sort published desc
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/ij94xGiXB5Q" title="Rocket Lab&#39;s Electron - Antipodean Adventure Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
 
-## 🎙️ Press Kit
-
-![[Flight-29-Press-Kit-FINAL.pdf]]

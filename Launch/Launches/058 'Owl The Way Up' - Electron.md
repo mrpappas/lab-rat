@@ -17,6 +17,8 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/owl-the-way-up/
 ---
 
+<div tabindex="0"></div>
+
 #electron #launch #success
 **Mission Name:** Owl The Way Up
 **Launch Date:** 2024-12-21 14:16
@@ -29,6 +31,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/owl-the-wa
 **Payload Mass:** 100 kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/owl-the-way-up/
+Press Kit: [[Owl-The-Way-Up-Press-Kit (1).pdf]]
 
 >[!Success] Mission Success
 
@@ -60,7 +63,3 @@ sort published desc
 ## 📽️ Launch Video
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/-7VZB4pHJrQ" title="Rocket Lab - &#39;Owl The Way Up&#39; Launch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen tabindex="-1"></iframe>
-
-## 🎙️ Press Kit
-
-![[Owl-The-Way-Up-Press-Kit (1).pdf]]

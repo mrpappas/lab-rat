@@ -29,6 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/coming-to-
 **Payload Mass:** 10 kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/coming-to-a-storm-near-you/
+Press Kit: [[TROPICS-PRESS-KIT-F36-F37.pdf]]
 
 >[!success] Mission Success
 
@@ -65,7 +66,3 @@ sort published desc
 ## 📽️ Launch Video
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/hhuJsjQH8fU" title="Rocket Lab&#39;s Electron - Coming To A Storm Near You Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
-
-## 🎙️ Press Kit
-
-![[TROPICS-PRESS-KIT-F36-F37.pdf]]

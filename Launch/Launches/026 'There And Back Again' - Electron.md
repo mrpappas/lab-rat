@@ -35,6 +35,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/there-and-
 **Payload Mass:** Unknown
 **Recovery:** Partial Failure (Aerial Capture)
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/there-and-back-again/
+Press Kit: [[There-And-Back-Again-Press-Kit2.pdf]]
 
 >[!success] Mission Success
 
@@ -73,6 +74,3 @@ sort published desc
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/6nODVPGHQcc" title="Rocket Lab&#39;s Electron - There And Back Again Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
 
-## 🎙️ Press Kit
-
-![[There-And-Back-Again-Press-Kit2.pdf]]

@@ -31,6 +31,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/four-of-a-
 **Payload Mass:** 112 kg
 **Recovery:** Success (Ocean Landing)
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/four-of-a-kind/
+Press Kit: [[F43-Four-Of-A-Kind-Press-Kit-updated.pdf]]
 
 >[!Success] Mission Success
 
@@ -66,6 +67,4 @@ sort published desc
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/NDyxRPGWhRo" title="Rocket Lab&#39;s Electron - Four Of A Kind Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
 
-## 🎙️ Press Kit
 
-![[F43-Four-Of-A-Kind-Press-Kit-updated.pdf]]

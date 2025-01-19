@@ -29,6 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/its-a-litt
 **Payload Mass:** Unknown
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/its-a-little-chile-up-here/
+Press Kit: [[Rocket-Lab-Its-A-Little-Chile-Up-Here-Press-Kit-sml.pdf]]
 
 >[!success] Mission Success
 
@@ -63,6 +64,3 @@ sort published desc
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/XEAKezzYi4Q" title="Rocket Lab&#39;s Electron - It's A Little Chile Up Here Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
 
-## 🎙️ Press Kit
-
-![[Rocket-Lab-Its-A-Little-Chile-Up-Here-Press-Kit-sml.pdf]]

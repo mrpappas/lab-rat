@@ -29,6 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/ready-aim-
 **Payload Mass:** 15 kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/ready-aim-prefire/
+Press Kit: [[FINAL-PREFIRE-presskit-Web.pdf]]
 
 >[!Success] Mission Success
 
@@ -63,7 +64,3 @@ sort published desc
 ## 📽️ Launch Video
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/m7nYAJ4dZP4" title="Rocket Lab&#39;s Electron - Ready, Aim, PREFIRE Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
-
-## 🎙️ Press Kit
-
-![[FINAL-PREFIRE-presskit-Web.pdf]]

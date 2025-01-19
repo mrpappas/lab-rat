@@ -29,6 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/on-closer-
 **Payload Mass:** 150 kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/on-closer-inspection/
+Press Kit: [[F44-On-Closer-Inspection-Press-Kit-web.pdf]]
 
 >[!Success] Mission Success
 
@@ -68,6 +69,4 @@ sort published desc
 <iframe width="800" height="450" src="https://www.youtube.com/embed/IavkwZi7ME8" title="ADRAS-J | Active Debris Removal by Astroscale - Japan | Concept of Operations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-## 🎙️ Press Kit
 
-![[F44-On-Closer-Inspection-Press-Kit-web.pdf]]

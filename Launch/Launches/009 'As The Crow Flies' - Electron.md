@@ -29,6 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/as-the-cro
 **Payload Mass:** 20 kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/as-the-crow-flies/
+Press Kit: [[MED19-003-Launch-Media-Kit-Flight-nine-complete.pdf]]
 
 >[!success] Mission Success
 
@@ -62,6 +63,3 @@ sort published desc
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/gI_Ng4SGyUY" title="Rocket Lab&#39;s Electron - As The Crow Flies Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
 
-## 🎙️ Press Kit
-
-![[MED19-003-Launch-Media-Kit-Flight-nine-complete.pdf]]

@@ -29,6 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/darpa-r3d2
 **Payload Mass:** 150 kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/darpa-r3d2/
+Press Kit: [[Rocket-Lab-press-kit-DARPA-R3D4.pdf]]
 
 >[!success] Mission Success
 
@@ -62,6 +63,3 @@ sort published desc
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/TGhlWMJtDEI" title="Rocket Lab&#39;s Electron - DARPA R3D2 Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
 
-## 🎙️ Press Kit
-
-![[Rocket-Lab-press-kit-DARPA-R3D4.pdf]]

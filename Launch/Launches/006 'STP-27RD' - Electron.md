@@ -31,6 +31,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/stp-27rd/
 **Payload Mass:** 180 kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/stp-27rd/
+Press Kit: [[Rocket-Lab-STP-27RD-press-kit2.pdf]]
 
 >[!success] Mission Success
 
@@ -64,6 +65,3 @@ sort published desc
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/ahVDVWq_Ei4" title="Rocket Lab&#39;s Electron - STP-27RD Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
 
-## 🎙️ Press Kit
-
-![[Rocket-Lab-STP-27RD-press-kit2.pdf]]

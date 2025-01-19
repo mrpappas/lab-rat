@@ -29,6 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/birds-of-a
 **Payload Mass:** Classified
 **Recovery:** Controlled (Atmosphere Test)
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/birds-of-a-feather/
+Press Kit: [[FINAL-F11-Birds-of-a-Feather-Presskit.pdf]]
 
 >[!success] Mission Success
 
@@ -59,7 +60,3 @@ sort published desc
 <iframe width="736" height="414" src="https://www.youtube.com/embed/af-PplDIkbc" title="Birds Of A Feather Launch - 01/31/2020" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-
-## 🎙️ Press Kit
-
-![[FINAL-F11-Birds-of-a-Feather-Presskit.pdf]]

@@ -32,6 +32,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/running-ou
 **Payload Mass:** 77 kg
 **Recovery:** Controlled (Atmosphere Test)
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/running-out-of-fingers/
+Press Kit: [[F10-Running-Out-of-Fingers-Presskit.pdf]]
 
 >[!success] Mission Success
 
@@ -62,6 +63,3 @@ sort published desc
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/QK9mQdar5_w" title="Rocket Lab&#39;s Electron - Running Out Of Fingers Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
 
-## 🎙️ Press Kit
-
-![[F10-Running-Out-of-Fingers-Presskit.pdf]]

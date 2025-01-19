@@ -32,6 +32,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/changes-in
 **Payload Mass:** Classified
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/changes-in-latitudes-changes-in-attitudes/
+Press Kit: 🚫 No Press Kit. Confidential customer.
 
 >[!Success] Mission Success
 
@@ -71,7 +72,3 @@ sort published desc
 [Source](https://www.mbie.govt.nz/about/open-government-and-official-information/release-of-information/lists-of-ministerial-documents-by-portfolio/space#September)
 ![[Pasted image 20241224234855.png]]
 
-
-## 🎙️ Press Kit
-
-🚫 No Press Kit. Confidential customer.

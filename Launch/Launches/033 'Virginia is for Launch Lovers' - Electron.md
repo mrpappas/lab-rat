@@ -29,6 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/new-missio
 **Payload Mass:** 40 kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/new-mission-page-2/
+Press Kit: [[Virginia-is-for-Launch-Lovers-Press-Kit6.pdf]]
 
 >[!success] Mission Success
 
@@ -67,6 +68,4 @@ sort published desc
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/y8XAKyLndD8" title="Rocket Lab&#39;s Electron - Virginia is for Launch Lovers Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
 
-## 🎙️ Press Kit
 
-![[Virginia-is-for-Launch-Lovers-Press-Kit6.pdf]]

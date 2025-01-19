@@ -33,6 +33,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/its-busine
 **Payload Mass:** 45 kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/its-business-time/
+Press Kit: [[Its-Business-Time-Press-Kit7.pdf]]
 
 >[!success] Mission Success
 
@@ -68,6 +69,3 @@ sort published desc
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/sPwMuUxSrcA" title="Rocket Lab&#39;s Electron - It's Business Time Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>   
 
-## 🎙️ Press Kit
-
-![[Its-Business-Time-Press-Kit7.pdf]]

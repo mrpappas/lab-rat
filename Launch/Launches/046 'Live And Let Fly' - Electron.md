@@ -29,6 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/live-and-l
 **Payload Mass:** Classified
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/live-and-let-fly/
+Press Kit: [[Live-Let-Fly-Press-Kit.pdf]]
 
 >[!Success] Mission Success
 
@@ -59,7 +60,3 @@ sort published desc
 ## 📽️ Launch Video
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/Coa3GZtotQo" title="Rocket Lab&#39;s Electron - Live And Let Fly Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
-
-## 🎙️ Press Kit
-
-![[Live-Let-Fly-Press-Kit.pdf]]
