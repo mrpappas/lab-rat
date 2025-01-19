@@ -84,18 +84,16 @@ sort name asc
 %% DATAVIEW_PUBLISHER: start
 ```
 table
-from "Space Systems/Separation Systems"
+from "Space Systems/Software"
 sort name asc
 ```
 %%
 
-| File                                                                                                                   |
-| ---------------------------------------------------------------------------------------------------------------------- |
-| [[Space Systems/Separation Systems/Advanced Lightband.md\|Advanced Lightband]]                                         |
-| [[Space Systems/Separation Systems/Advanced Satellite Dispenser (ASD).md\|Advanced Satellite Dispenser (ASD)]]         |
-| [[Space Systems/Separation Systems/Canisterized Satellite Dispenser (CSD).md\|Canisterized Satellite Dispenser (CSD)]] |
-| [[Space Systems/Separation Systems/Maxwell CubeSat Dispenser.md\|Maxwell CubeSat Dispenser]]                           |
-| [[Space Systems/Separation Systems/Motorized Lightband.md\|Motorized Lightband]]                                       |
+| File                                                                         |
+| ---------------------------------------------------------------------------- |
+| [[Space Systems/Software/MAX Flight Software.md\|MAX Flight Software]]       |
+| [[Space Systems/Software/MAX Ground Data System.md\|MAX Ground Data System]] |
+| [[Space Systems/Software/SOLIS.md\|SOLIS]]                                   |
 
 %% DATAVIEW_PUBLISHER: end %%
 
