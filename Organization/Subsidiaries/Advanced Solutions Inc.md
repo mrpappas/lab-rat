@@ -29,19 +29,35 @@ The acquisition was part of Rocket Lab’s strategy to enhance its space systems
 - [[MAX Ground Data System]]
 
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table title as "Title", published as "Published"
 from "News"
 where contains(partner, [[Advanced Solutions Inc]])
 sort published desc
 ```
+%%
 
+| File                                                                                                                                                       | Title                                                                  | Published         |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ----------------- |
+| [[News/Rocket Lab’s MAX Flight Software Surpasses 50th Mission Milestone.md\|Rocket Lab’s MAX Flight Software Surpasses 50th Mission Milestone]]           | Rocket Lab’s MAX Flight Software Surpasses 50th Mission Milestone      | July 14, 2022     |
+| [[News/Rocket Lab to Expand Colorado Footprint with New Space Systems Complex.md\|Rocket Lab to Expand Colorado Footprint with New Space Systems Complex]] | Rocket Lab to Expand Colorado Footprint with New Space Systems Complex | February 02, 2022 |
+| [[News/Rocket Lab Acquires Space Software Company Advanced Solutions, Inc.md\|Rocket Lab Acquires Space Software Company Advanced Solutions, Inc]]         | Rocket Lab Acquires Space Software Company Advanced Solutions, Inc     | October 12, 2021  |
+
+%%DATAVIEW_PUBLISHER: end%%
 ## 💼 **SEC** Filings
-
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table Filing_Type as "Filing Type", Filing_Date as "Date"
 from "Filings"
 where contains(partner, [[Advanced Solutions Inc]])
 sort Filing_Date desc
 
 ```
+%%
+
+| File                                                                                                                                             | Filing Type                                | Date             |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------ | ---------------- |
+| [[Filings/2021/8-K/10-12-21 8-K - Acquisition Agreement with ASI Aerospace LLC.md\|10-12-21 8-K - Acquisition Agreement with ASI Aerospace LLC]] | [[Filings/Filing Definitions.md#8-K\|8-K]] | October 12, 2021 |
+
+%%DATAVIEW_PUBLISHER: end%%

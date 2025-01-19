@@ -32,9 +32,18 @@ In April 2020, Rocket Lab acquired Sinclair Interplanetary, a leading provider o
 - [[ST-16RT2 Star Tracker]]
 
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table title as "Title", published as "Published"
 from "News"
 where contains(partner, [[Sinclair Interplanetary]])
 sort published desc
 ```
+%%
+
+| File                                                                                                                                                                                           | Title                                                                                     | Published      |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | -------------- |
+| [[News/Rocket Lab Closes Acquisition of Satellite Hardware Manufacturer Sinclair Interplanetary.md\|Rocket Lab Closes Acquisition of Satellite Hardware Manufacturer Sinclair Interplanetary]] | Rocket Lab Closes Acquisition of Satellite Hardware Manufacturer Sinclair Interplanetary  | April 30, 2020 |
+| [[News/Rocket Lab to Acquire Satellite Hardware Manufacturer Sinclair Interplanetary.md\|Rocket Lab to Acquire Satellite Hardware Manufacturer Sinclair Interplanetary]]                       | Rocket Lab to Acquire Satellite Hardware Manufacturer Sinclair Interplanetary             | March 16, 2020 |
+
+%%DATAVIEW_PUBLISHER: end%%

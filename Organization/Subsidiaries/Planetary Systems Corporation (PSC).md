@@ -25,18 +25,36 @@ In December 2021, Rocket Lab acquired Planetary Systems Corporation (PSC) for $4
 - [[Canisterized Satellite Dispenser (CSD)]]
 
 ## 📰 News
-```dataview
+%%DATAVIEW_PUBLISHER: start
+```
 table title as "Title", published as "Published"
 from "News"
 where contains(partner, [[Planetary Systems Corporation (PSC)]])
 sort published desc
 ```
-## 💼 **SEC** Filings
+%%
 
-```dataview
+| File                                                                                                                                                                                     | Title                                                                                  | Published         |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ----------------- |
+| [[News/Rocket Lab Closes Acquisition Of Space Hardware Company Planetary Systems Corporation.md\|Rocket Lab Closes Acquisition Of Space Hardware Company Planetary Systems Corporation]] | Rocket Lab Closes Acquisition Of Space Hardware Company Planetary Systems Corporation  | December 01, 2021 |
+| [[News/Rocket Lab to Acquire Space Hardware Company Planetary Systems Corporation.md\|Rocket Lab to Acquire Space Hardware Company Planetary Systems Corporation]]                       | Rocket Lab to Acquire Space Hardware Company Planetary Systems Corporation             | November 15, 2021 |
+
+%%DATAVIEW_PUBLISHER: end %%
+## 💼 **SEC** Filings
+%%DATAVIEW_PUBLISHER: start
+```
 table Filing_Type as "Filing Type", Filing_Date as "Date"
 from "Filings"
 where contains(partner, [[Planetary Systems Corporation (PSC)]])
 sort Filing_Date desc
 
 ```
+%%
+
+| File                                                                                                                                                             | Filing Type                                          | Date              |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ----------------- |
+| [[Filings/2022/Misc/5-24-22 S-1A - Registration Statement Amendment.md\|5-24-22 S-1A - Registration Statement Amendment]]                                        | [[Filings/Filing Definitions.md#Form S-1\|Form S-1]] | May 23, 2022      |
+| [[Filings/2022/Misc/5-09-22 S-1 - Securities Registration Statement.md\|5-09-22 S-1 - Securities Registration Statement]]                                        | [[Filings/Filing Definitions.md#Form S-1\|Form S-1]] | May 06, 2022      |
+| [[Filings/2021/8-K/11-15-21 8-K - Merger Agreement Planetary Systems Corporation (PSC).md\|11-15-21 8-K - Merger Agreement Planetary Systems Corporation (PSC)]] | [[Filings/Filing Definitions.md#8-K\|8-K]]           | November 15, 2021 |
+
+%%DATAVIEW_PUBLISHER: end %%
