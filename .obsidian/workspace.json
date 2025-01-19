@@ -26,15 +26,14 @@
             "id": "71941a9277e2bf6c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Organization/Competitors/L3Harris Technologies.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "aFile": "Organization/Competitors/Terran Orbital.md",
+                "bFile": "Organization/Competitors/Terran Orbital.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "L3Harris Technologies"
+              "icon": "diff",
+              "title": "Diff: Terran Orbital"
             }
           }
         ],
@@ -69,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "twitter",
+                "query": "owl-the",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -204,12 +203,8 @@
   },
   "active": "71941a9277e2bf6c",
   "lastOpenFiles": [
-    "Organization/Competitors/General Dynamics Mission Systems.md",
-    "Organization/Competitors/L3Harris Technologies.md",
-    "Organization/Competitors/Firefly Aerospace.md",
     "Organization/Competitors/Boeing.md",
-    "Organization/Competitors/Blue Origin.md",
-    "Launch/Launches/024 'The Owl's Night Continues' - Electron.md",
+    "Vault-Assets/PDFs/Owl-The-Way-Up-Press-Kit.md",
     "Organization/Competitors/Virgin Orbit.md",
     "Organization/Competitors/ULA (United Launch Alliance).md",
     "Organization/Competitors/Terran Orbital.md",
@@ -217,6 +212,11 @@
     "Organization/Competitors/Sierra Space.md",
     "Organization/Competitors/Northrop Grumman.md",
     "Organization/Competitors/Millennium Space Systems.md",
+    "Organization/Competitors/L3Harris Technologies.md",
+    "Organization/Competitors/General Dynamics Mission Systems.md",
+    "Organization/Competitors/Firefly Aerospace.md",
+    "Organization/Competitors/Blue Origin.md",
+    "Launch/Launches/024 'The Owl's Night Continues' - Electron.md",
     "Launch/Neutron.md",
     "🛰️ Space Systems.md",
     "Vault-Assets/PDFs/Rocket_Lab_Report_Final.pdf",
@@ -231,7 +231,6 @@
     "News/Rocket Lab Completes Custom-Built Photon Spacecraft for Varda Space Industries.md",
     "News/Rocket Lab Successfully Returns Spacecraft Capsule to Earth, Brings Back Pharmaceuticals Made in Space.md",
     "News/Rocket Lab Completes Second Spacecraft for Varda Space Industries, Advancing In-Space Manufacturing.md",
-    "News/Rocket Lab Delivers Second Spacecraft, Completes Third for Varda Space Industries.md",
     "Vault-Assets/Images/Pasted image 20250119155834.png",
     "Vault-Assets/Images/Pasted image 20250119154914.png",
     "Vault-Assets/Images/Pasted image 20250119154242.jpg",
