@@ -21,7 +21,7 @@ tags:
 
 **Source**: https://www.rocketlabusa.com/updates/rocket-lab-delivers-second-spacecraft-completes-third-for-varda-space-industries/
 
-**Long Beach, Calif. December 17, 2024** – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, has successfully delivered its second Pioneer spacecraft to Vandenberg Space Force Base and completed production and testing of a third for Varda Space Industries, Inc. (“Varda”), the world's first orbital pharmaceutical processing and hypersonic Earth re-entry logistics company.
+**Long Beach, Calif. December 17, 2024** – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, has successfully delivered its second [[Pioneer]] spacecraft to Vandenberg Space Force Base and completed production and testing of a third for Varda Space Industries, Inc. (“Varda”), the world's first orbital pharmaceutical processing and hypersonic Earth re-entry logistics company.
 
 The two spacecraft are part of a [four-vehicle contract](https://www.rocketlabusa.com/updates/rocket-lab-inks-deal-with-varda-space-industries-to-supply-multiple-photon-spacecraft-for-space-manufacturing-missions/) between Rocket Lab and Varda, aimed at revolutionizing commercial manufacturing in space. Designed, built, and tested at Rocket Lab’s state-of-the-art Spacecraft Production Complex in Long Beach, California, the [Pioneer platform](https://www.rocketlabusa.com/space-systems/spacecraft/) serves as the enabler of Varda’s innovative missions.
 

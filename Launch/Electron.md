@@ -9,8 +9,9 @@ Electron is a two-stage, partially reusable orbital launch vehicle developed by 
 
 ## ⚙️ Specs
 
-| Height             | 18m / 59ft                |
+| Spec               | Value                     |
 | ------------------ | ------------------------- |
+| Height             | 18m / 59ft                |
 | **Diameter**       | 1.2m / 3.9ft              |
 | **Stages**         | 2+ Kick Stage             |
 | **Wet** **Mass**   | 13,000 kg / 28,660 lb     |
@@ -35,8 +36,9 @@ Rutherford is a liquid-propellant rocket engine designed by Rocket Lab and manuf
 
 ![[Pasted image 20241229230746.png]]
 
-| Lift-off Thrust (sea level / vacuum) | 25 kN / 26 kN     |
+| Spec                                 | Value             |
 | ------------------------------------ | ----------------- |
+| Lift-off Thrust (sea level / vacuum) | 25 kN / 26 kN     |
 | **Cycle**                            | Electric-pump-fed |
 | **Thrust to Weight Ratio**           | 72.8              |
 | **Dry Mass**                         | 35 kg             |
