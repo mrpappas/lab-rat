@@ -10,7 +10,7 @@ tags:
 
 **Name:** Peter Beck
 **Role:** Founder, President and Chief Executive Officer, Chair of the Board
-**Shares Owned:** 50,951,250 (indirect)
+**Shares Owned:** 789,373 (direct), 50,951,250 (indirect)
 **Joined:** 2023-11-01
 **Linkedin**: https://www.linkedin.com/in/peter-beck-ab7b63b/
 

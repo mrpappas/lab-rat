@@ -4,21 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0f4ee1dac79155a5",
+        "id": "50bbf5640b5940b1",
         "type": "tabs",
         "children": [
           {
-            "id": "9f28d8283c6dff2b",
+            "id": "8fe2ee5a13acbb0e",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Launch/Launches/058 'Owl The Way Up' - Electron.md",
-                "bFile": "Launch/Launches/058 'Owl The Way Up' - Electron.md",
-                "aRef": ""
+                "file": "🎙️ Interviews.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 058 'Owl The Way Up' - Electron"
+              "icon": "lucide-file",
+              "title": "🎙️ Interviews"
             }
           }
         ]
@@ -185,34 +186,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f28d8283c6dff2b",
+  "active": "8fe2ee5a13acbb0e",
   "lastOpenFiles": [
+    "🏛️ Board of Directors.md",
+    "Organization/People/Peter Beck.md",
     "🏠 Start Here.md",
-    "Misc/Reports/Payload Space's Rocket Lab Report.md",
-    "Launch/Launches/058 'Owl The Way Up' - Electron.md",
-    "News/Rocket Lab Successfully Deploys Satellite for Synspective, Caps Off Year with 60% Increase in Launches YoY.md",
-    "Organization/Partners/Synspective.md",
-    "Launch/Launches/010 'Running Out Of Fingers' - Electron.md",
-    "Launch/Launches/009 'As The Crow Flies' - Electron.md",
-    "Launch/Launches/007 'Make it Rain' - Electron.md",
-    "Launch/Launches/006 'STP-27RD' - Electron.md",
-    "Launch/Launches/005 'DARPA R3D2' - Electron.md",
-    "Launch/Launches/003 'It's Business Time' - Electron.md",
-    "Launch/Launches/002 'Still Testing' - Electron.md",
-    "Launch/Launches/001 'It's a Test' - Electron.md",
-    "Locations/Space Systems - Toronto, ON.md",
-    "Locations/Production Facility - Auckland, NZ.md",
-    "Locations/Neutron Production Complex.md",
-    "Locations/Long Beach Complex.md",
-    "Locations/Launch Complex 3.md",
-    "News/Wairoa College student awarded inaugural Rocket Lab scholarship.md",
-    "News/Vector Acquisition Corporation Shareholders Approve Proposed Merger With Rocket Lab.md",
-    "News/Varda Space Industries Orders Fourth Photon Spacecraft from Rocket Lab to Enable In-Space Manufacturing.md",
-    "News/U.S. Space Force Awards Rocket Lab Launch Contract for Space Test Program (STP)-S30.md",
-    "News/The Kick Stage Responsible Orbital Deployment.md",
-    "News/The future of rocket manufacturing Rocket Lab unveils new high-volume production facility.md",
-    "News/The Federal Aviation Administration Approves Rocket Lab To Resume Launches.md",
-    "News/Still Testing launch window begins.md",
+    "💰 Acquisitions.md",
+    "💼 SEC Filings (2024).md",
+    "💼 SEC Filings (2025).md",
+    "💼 SEC Filings (All).md",
+    "📰 News.md",
+    "🤝 Partners.md",
+    "🙋 People.md",
+    "🚀 Launches.md",
+    "🟢 Subsidiaries.md",
+    "Organization/People/David Fishman.md",
+    "Organization/People/David Cowan.md",
+    "Organization/People/David Baylor.md",
+    "Organization/People/Connie Lundgren.md",
+    "Organization/People/Cameron McCarter.md",
+    "Organization/People/Colin Canfield.md",
+    "Organization/People/Brian Rogers.md",
+    "Organization/People/Brad Warezak.md",
+    "Organization/People/Arjun Kampani.md",
+    "Organization/People/Andrew Bunker.md",
+    "Organization/People/Amanda Rutenberg.md",
+    "Organization/People/Alexander R. Slusky.md",
+    "Organization/People/Alek Derejian.md",
+    "Organization/People/Adam Spice.md",
     "Rocket_Lab_Report_Final.pdf",
     "Misc/Reports",
     "Misc",
