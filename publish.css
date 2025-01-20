@@ -71,3 +71,18 @@ body:not(.links-int-on) {
     padding: 0;
     border: none;
   }
+
+  .responsive-video {
+    position: relative;
+    width: 100%;
+    max-width: 900px; /* Set maximum width for the video */
+    aspect-ratio: 16 / 9; /* Maintain 16:9 aspect ratio */
+    overflow: hidden;
+  }
+  
+  .responsive-video iframe {
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+  

@@ -62,5 +62,6 @@ sort published desc
 
 🚫 No Official Livestream
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/1dBfpv9TIdw" title="Rocket Lab&#39;s Electron - HASTE A La Vista Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
-
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/1dBfpv9TIdw" title="Rocket Lab&#39;s Electron - HASTE A La Vista Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
+</div>

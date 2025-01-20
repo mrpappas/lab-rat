@@ -2,12 +2,13 @@
 
 customer: 
  - "[[NASA]]"
+ - "[[University of California Berkeley Space Sciences Laboratory]]"
 ---
 
 **Customer:** [[NASA]]
 
 >[!summary]
->In 2021 Rocket Lab was awarded a subcontract by the University of California Berkeley Space Sciences Laboratory (UCBSSL) to design two [[Photon]] spacecraft for a scientific mission to Mars. The Escape and Plasma Acceleration and Dynamics Explorers (ESCAPADE) mission, led by Rob Lillis at UCBSSL, is a twin-spacecraft science mission that will orbit two spacecraft around Mars to understand the structure, composition, variability, and dynamics of Mars' unique hybrid magnetosphere. The mission will leverage its unique dual viewpoint on the Mars environment to explore how the solar wind strips atmosphere away from Mars to better understand how its climate has changed over time. ESCAPADE is being developed under [NASA’s Small Innovative Missions for Planetary Exploration (SIMPLEx)](https://soma.larc.nasa.gov/simplex/) program in the Science Mission Directorate (SMD). The mission is led by UCBSSL with spacecraft design provided by Rocket Lab. The two spacecraft were originally planned for launch in 2024 to Mars ridesharing aboard a [[NASA]]-provided commercial launch vehicle (New Glenn) but delays from [[Blue Origin]] pushed the mission.
+>In 2021 Rocket Lab was awarded a subcontract by the [[University of California Berkeley Space Sciences Laboratory]] (UCBSSL) to design two [[Photon]] spacecraft for a scientific mission to Mars. The Escape and Plasma Acceleration and Dynamics Explorers (ESCAPADE) mission, led by Rob Lillis at UCBSSL, is a twin-spacecraft science mission that will orbit two spacecraft around Mars to understand the structure, composition, variability, and dynamics of Mars' unique hybrid magnetosphere. The mission will leverage its unique dual viewpoint on the Mars environment to explore how the solar wind strips atmosphere away from Mars to better understand how its climate has changed over time. ESCAPADE is being developed under [NASA’s Small Innovative Missions for Planetary Exploration (SIMPLEx)](https://soma.larc.nasa.gov/simplex/) program in the Science Mission Directorate (SMD). The mission is led by UCBSSL with spacecraft design provided by Rocket Lab. The two spacecraft were originally planned for launch in 2024 to Mars ridesharing aboard a [[NASA]]-provided commercial launch vehicle (New Glenn) but delays from [[Blue Origin]] pushed the mission.
 >
 >🔗 https://science.nasa.gov/mission/escapade/
 >🔗 https://spaceflightnow.com/2024/08/16/rocket-labs-mars-bound-twin-satellites-blue-and-gold-hit-the-road-ahead-for-blue-origin-launch/
@@ -18,7 +19,7 @@ EscaPADE is a twin-spacecraft [[⚖️ NASA Mission and Instrument Risk Classifi
 
 ## 🛰️ Spacecraft
 
-Rocket Lab used their [[Explorer]] platform as the basis for the twin spacecraft
+Rocket Lab used what became their [[Explorer]] platform as the basis for the twin spacecraft
 
 ![[Pasted image 20250119153937.jpg]]
 
@@ -46,4 +47,6 @@ sort published desc
 
 %% DATAVIEW_PUBLISHER: end %%
 
+<div class="responsive-video">
 <iframe width="1006" height="566" src="https://www.youtube.com/embed/o8Hn1GNz5oo" title="Makers of: Mars Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>

@@ -8,6 +8,7 @@ published: 2021-06-15
 description: "Rocket Lab Awarded Subcontract to Design Twin Spacecraft for Mars"
 customer:
  - "[[NASA]]"
+ - "[[University of California Berkeley Space Sciences Laboratory]]"
 mission:
  - "[[ESCAPADE]]"
 tags:
@@ -28,7 +29,7 @@ Rocket Lab Awarded Subcontract to Design Twin Spacecraft for Mars 
 
 *The two Rocket Lab Photon spacecraft for the ESCAPADE mission to Mars are part of NASA’s Small Innovative Missions for Planetary Exploration (SIMPLEx) program* 
 
-**Long Beach, California. June 15, 2021**. Rocket Lab, a global leader in dedicated launch and space systems, has been awarded a subcontract by the University of California Berkeley Space Sciences Laboratory (UCBSSL) to design two Photon spacecraft for a scientific mission to Mars.
+**Long Beach, California. June 15, 2021**. Rocket Lab, a global leader in dedicated launch and space systems, has been awarded a subcontract by the [[University of California Berkeley Space Sciences Laboratory]] (UCBSSL) to design two Photon spacecraft for a scientific mission to Mars.
 
 The Escape and Plasma Acceleration and Dynamics Explorers ([[ESCAPADE]]) mission, led by Rob Lillis at UCBSSL, is a twin-spacecraft science mission that will orbit two spacecraft around Mars to understand the structure, composition, variability, and dynamics of Mars' unique hybrid magnetosphere. The mission will leverage its unique dual viewpoint on the Mars environment to explore how the solar wind strips atmosphere away from Mars to better understand how its climate has changed over time.
 

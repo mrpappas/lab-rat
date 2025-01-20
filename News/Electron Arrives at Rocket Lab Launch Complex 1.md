@@ -35,4 +35,4 @@ The launch, which will be the first orbital launch attempt from New Zealand, is 
 
 ![[Pasted image 20250104221231.jpg]]![[Pasted image 20250104221233.jpg]]
 
-<iframe width="1227" height="690" src="https://www.youtube.com/embed/ZFnTpURe7UI" title="Electron Arrives at Rocket Lab Launch Complex 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe   src="https://www.youtube.com/embed/ZFnTpURe7UI" title="Electron Arrives at Rocket Lab Launch Complex 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

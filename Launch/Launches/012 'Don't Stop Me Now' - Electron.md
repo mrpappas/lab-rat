@@ -64,7 +64,7 @@ sort published desc
 
 
 ## 📽️ Launch Video
-
-<iframe width="800" height="450" src="https://www.youtube.com/embed/VRfm6RGVHf8" title="Rocket Lab&#39;s Electron - Don&#39;t Stop Me Now Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
-
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/VRfm6RGVHf8" title="Rocket Lab&#39;s Electron - Don&#39;t Stop Me Now Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
+</div>
 

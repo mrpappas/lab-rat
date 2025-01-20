@@ -29,7 +29,7 @@ Rocket Lab plans to begin full vehicle testing in early 2017 once international 
 
 ---
 
-<iframe width="1227" height="920" src="https://www.youtube.com/embed/oBiZqHpZBV4" title="Rocket Lab Qualifies First Stage of Electron Launch Vehicle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe  height="920" src="https://www.youtube.com/embed/oBiZqHpZBV4" title="Rocket Lab Qualifies First Stage of Electron Launch Vehicle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ![[Pasted image 20250104221335.jpg]]

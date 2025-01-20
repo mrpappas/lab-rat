@@ -30,8 +30,9 @@ In a May '24 interview Peter Beck detailed Rocket Lab's methodology behind makin
 >3. "Is this going to be strategically important to us in the future for stuff that we think we're going to do"
 
 (relevant section begins at 21:53)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T__1ubfs_iE?si=nWTVkV79XGGG3lz-&amp;start=1313" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/T__1ubfs_iE?si=nWTVkV79XGGG3lz-&amp;start=1313" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 ---- 
 ## Future Acquisitions
 

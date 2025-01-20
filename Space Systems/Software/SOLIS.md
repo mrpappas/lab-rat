@@ -19,4 +19,6 @@ SOLIS includes:
 >🔗 https://www.rocketlabusa.com/space-systems/space-software/solis/
 >[📄 MAX and SOLIS Documentation](https://max.rocketlabusa.com/docs#Welcome.md)
 
-<iframe width="1128" height="644" src="https://www.youtube.com/embed/DxgVA5zfLIc" title="Introduction to SOLIS | ASI by Rocket Lab" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/DxgVA5zfLIc" title="Introduction to SOLIS | ASI by Rocket Lab" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>

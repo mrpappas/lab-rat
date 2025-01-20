@@ -16,4 +16,6 @@ MAX GDS includes:
 >🔗 https://www.rocketlabusa.com/space-systems/space-software/max-ground-data-systems/
 [📄 MAX and SOLIS Documentation](https://max.rocketlabusa.com/docs#Welcome.md)
 
-<iframe width="1128" height="644" src="https://www.youtube.com/embed/nGrje-znXSw" title="Introduction to MAX Ground Data System | ASI by Rocket Lab" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/nGrje-znXSw" title="Introduction to MAX Ground Data System | ASI by Rocket Lab" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>

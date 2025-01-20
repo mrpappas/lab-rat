@@ -6,7 +6,9 @@ author:
   - "[[Rocket Lab]]"
 published: 2024-07-29
 description: "Long Beach, Calif. July 29, 2024– Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, has completed integration and testing of two spacecraft destined for Mars orbit."
-customer: "[[NASA]]"
+customer: 
+ - "[[NASA]]"
+ - "[[University of California Berkeley Space Sciences Laboratory]]"
 mission: "[[ESCAPADE]]"
 tags:
   - "space-systems"
@@ -25,7 +27,7 @@ Source: https://www.rocketlabusa.com/updates/rocket-lab-completes-integration-an
 
 Long Beach, Calif. July 29, 2024– Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, has completed integration and testing of two spacecraft destined for Mars orbit.
 
-Rocket Lab built the twin spacecraft for the University of California Berkeley’s Space Science Laboratory and NASA to enable the Escape and Plasma Acceleration and Dynamics Explorers (ESCAPADE) mission, scheduled to launch from Cape Canaveral this year. This heliophysics mission will measure plasma and magnetic fields around the Red Planet, helping scientists learn more about the processes that strip away atoms from Mars’ magnetosphere and upper atmosphere, driving Martian climate evolution.
+Rocket Lab built the twin spacecraft for the [[University of California Berkeley’s Space Science Laboratory]] and [[NASA]] to enable the Escape and Plasma Acceleration and Dynamics Explorers (ESCAPADE) mission, scheduled to launch from Cape Canaveral this year. This heliophysics mission will measure plasma and magnetic fields around the Red Planet, helping scientists learn more about the processes that strip away atoms from Mars’ magnetosphere and upper atmosphere, driving Martian climate evolution.
 
 Named Blue and Gold, the spacecraft were designed, built, integrated, and tested at Rocket Lab’s Spacecraft Production Complex and headquarters in Long Beach, California. Based on Rocket Lab’s [Explorer spacecraft](https://www.rocketlabusa.com/space-systems/spacecraft/), a configurable, high delta-V interplanetary platform, the duo features Rocket Lab-built components and subsystems, including solar panels, star trackers, propellant tanks, reaction wheels, reaction control systems, radios, and more.
 

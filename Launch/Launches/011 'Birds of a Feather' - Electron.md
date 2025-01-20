@@ -56,7 +56,7 @@ sort published desc
 %%DATAVIEW_PUBLISHER: end %%
 
 ## 📽️ Launch Video
-
+<div class="responsive-video">
 <iframe width="736" height="414" src="https://www.youtube.com/embed/af-PplDIkbc" title="Birds Of A Feather Launch - 01/31/2020" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+</div>
 

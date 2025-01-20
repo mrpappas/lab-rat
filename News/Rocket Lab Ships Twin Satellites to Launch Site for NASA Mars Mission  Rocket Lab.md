@@ -6,7 +6,9 @@ author:
   - "[[Rocket Lab]]"
 published: 2024-08-16
 description: "Long Beach, Calif. August 16, 2024– Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, has successfully packed and shipped two Mars-bound spacecraft to Cape Canaveral, FL in preparation for launch. These twin spacecraft for the Escape and Plasma Acceleration and Dynamics Explorers (ESCAPADE) heliophysics mission were designed, built, integrated, and tested by Rocket Lab for the University of California Berkeley’s Space Science Laboratory and NASA."
-customer: "[[NASA]]"
+customer: 
+ - "[[NASA]]"
+ - "[[University of California Berkeley Space Sciences Laboratory]]"
 mission: "[[ESCAPADE]]"
 tags:
   - "space-systems"

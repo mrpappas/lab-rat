@@ -18,4 +18,6 @@ MAX FSW Includes:
 >🔗 https://www.rocketlabusa.com/space-systems/space-software/max-flight-software/
 [📄 MAX and SOLIS Documentation](https://max.rocketlabusa.com/docs#Welcome.md)
 
-<iframe width="1128" height="644" src="https://www.youtube.com/embed/7oozDn1OVa4" title="Introduction to MAX | ASI by Rocket Lab" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/7oozDn1OVa4" title="Introduction to MAX | ASI by Rocket Lab" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>

@@ -63,5 +63,6 @@ sort published desc
 
 ## 📽️ Launch Video
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/yU2-0J5w0oE" title="Rocket Lab&#39;s Electron - Without Mission A Beat Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
-
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/yU2-0J5w0oE" title="Rocket Lab&#39;s Electron - Without Mission A Beat Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
+</div>

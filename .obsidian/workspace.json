@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Space Systems/Missions/ESCAPADE.md",
-                "mode": "preview",
+                "file": "Rocket Lab.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ESCAPADE"
+              "title": "Rocket Lab"
             }
           },
           {
@@ -28,17 +28,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✅ To Do List.md",
+                "file": "Locations/Long Beach Complex.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "✅ To Do List"
+              "title": "Long Beach Complex"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,34 +201,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6449ebb6b9cf2b96",
+  "active": "8fe2ee5a13acbb0e",
   "lastOpenFiles": [
-    "Financial/Pre-IPO Investors/VK Services, LLC.md",
-    "Financial/Pre-IPO Investors/Promus Ventures.md",
-    "Financial/Pre-IPO Investors/Lockheed Martin.md",
-    "Financial/Pre-IPO Investors/Khosla Ventures.md",
-    "Financial/Pre-IPO Investors/K1W1 Investment Fund.md",
-    "Financial/Pre-IPO Investors/Greenspring Associates.md",
-    "Financial/Pre-IPO Investors/Future Fund.md",
-    "Financial/Pre-IPO Investors/DCVC.md",
-    "Financial/Pre-IPO Investors/Callaghan Innovation.md",
-    "Financial/Pre-IPO Investors/Bessemer Venture Partners.md",
-    "Financial/Pre-IPO Investors/ACC.md",
-    "Financial/Capital Raises/2013 Series A Funding.md",
-    "Financial/Capital Raises/2015 Series B Funding.md",
-    "Organization/Subsidiaries/SolAero Technologies.md",
-    "Organization/Subsidiaries/Sinclair Interplanetary.md",
-    "Organization/Subsidiaries/Rocket Lab National Security (RLNS).md",
-    "Organization/Subsidiaries/Planetary Systems Corporation (PSC).md",
-    "Organization/Subsidiaries/Advanced Solutions Inc.md",
-    "Organization/Subsidiaries/Rocket Lab Australia.md",
-    "💰 Acquisitions.md",
+    "README.md",
+    "Rocket Lab.md",
+    "Untitled.md",
+    "🟢 Subsidiaries.md",
+    "🚀 Launches.md",
+    "🙋 People.md",
+    "🤝 Partners.md",
+    "📰 News.md",
+    "💼 SEC Filings (2025).md",
+    "💼 SEC Filings (2024).md",
     "🏠 Start Here.md",
+    "💰 Acquisitions.md",
     "🏛️ Board of Directors.md",
-    "Organization/People/Alexander R. Slusky.md",
     "🎙️ Interviews.md",
-    "Organization/People/Peter Beck.md",
-    "Filings/2025/Form 4/2025-01-10 Form 4 - Peter Beck.md",
+    "✅ To Do List.md",
+    "Space Systems/Missions/VICTUS HAZE.md",
+    "Space Systems/Missions/Venus Life Finder.md",
+    "Space Systems/Missions/VADR.md",
+    "Space Systems/Missions/SDA Tranche 2 - Enhanced Global Coverage.md",
+    "Space Systems/Missions/SDA Tranche 1 - Initial Warfighting Capability.md",
+    "Space Systems/Missions/SDA Proliferated Warfighter Space Architecture (PWSA).md",
+    "Space Systems/Missions/OSP-4.md",
+    "Space Systems/Missions/NOAA SWFO-L1.md",
+    "Space Systems/Missions/National Security Space Launch (NSSL) Lane 1.md",
+    "Space Systems/Missions/Mission Operations Control Center for MethaneSAT.md",
+    "Space Systems/Missions/LOXSAT.md",
     "Vault-Assets/PDFs/Rocket_Lab_Report_Final.pdf",
     "Vault-Assets/Images/Pasted image 20250119153357.png",
     "Vault-Assets/Images/Pasted image 20250119155834.png",

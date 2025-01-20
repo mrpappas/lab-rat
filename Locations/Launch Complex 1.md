@@ -60,11 +60,15 @@ Completed in December 2019, LC-1B became operational with its first launch on 28
 Storage facilities for Liquid Oxygen (LOX) and Rocket-grade Kerosene (RP-1) for fueling of [[Electron]] Rockets
 
 ## 📽️ Media
-  
-<iframe width="750" height="427" src="https://www.youtube.com/embed/U1j8ldnZ-gM" title="Rocket Lab Launch Complex 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="750" height="427" src="https://www.youtube.com/embed/l0ntnOtJDbw" title="Introducing LC-1B" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/U1j8ldnZ-gM" title="Rocket Lab Launch Complex 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
+
+<div class="responsive-video">
+	  <iframe src="https://www.youtube.com/embed/l0ntnOtJDbw" title="Introducing LC-1B" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 
 ## 📰 News

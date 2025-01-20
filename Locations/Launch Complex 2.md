@@ -15,11 +15,11 @@ Rocket Lab’s Launch Complex 2 represents a new responsive launch capability fo
 
 ## 🏭 Facilities
 
-### Launch Pad 0C
+### 🚀 Launch Pad 0C
 
 **Location**: [37°49'59.8"N 75°29'17.6"W](https://www.google.com/maps/place/37%C2%B049'59.8%22N+75%C2%B029'17.6%22W/@37.8332723,-75.4886878,263m/data=!3m1!1e3!4m4!3m3!8m2!3d37.8332778!4d-75.4882222!5m1!1e2?hl=en&entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D)
 **66 Metric Ton Launch Platform and 7.6 Ton strongback**
-### Electron Integration and Control Facility (ICF)
+### 🛠️ Electron Integration and Control Facility (ICF)
 
 State-of-the-art launch control center, payload integration factory and vehicle integration area capable of supporting multiple Electrons.
 
@@ -73,5 +73,6 @@ sort launch_date desc
 
 ### [📸 Image Gallery of LC-2](https://www.flickr.com/photos/rocketlab/albums/72157716859992311/)
 
+<div class="responsive-video">
 <iframe width="750" height="427" src="https://www.youtube.com/embed/vu-ZisFbjFo" title="Rocket Lab Launch Complex 2 Opening" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+</div>

@@ -57,5 +57,6 @@ sort published desc
 %%DATAVIEW_PUBLISHER: end %%
 ## 📽️ Launch Video
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/NQyNuF-Du7c" title="Rocket Lab&#39;s Electron - Another One Leaves The Crust Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
-
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/NQyNuF-Du7c" title="Rocket Lab&#39;s Electron - Another One Leaves The Crust Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
+</div>

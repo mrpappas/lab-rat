@@ -8,6 +8,7 @@ published: 2021-08-23
 description: "The ESCAPADE mission - led by the University of California Berkeley Space Sciences Laboratory to study Mars’ magnetosphere - with two Rocket Lab Photon spacecraft has received NASA approval to move toward launch."
 customer:
  - "[[NASA]]"
+ - -"[[University of California Berkeley Space Sciences Laboratory]]
 mission:
  - "[[ESCAPADE]]"
 tags:
@@ -24,7 +25,7 @@ tags:
 **Customer:** [[NASA]]
 **Mission:** [[ESCAPADE]]
 
-*The ESCAPADE mission - led by the University of California Berkeley Space Sciences Laboratory to study Mars’ magnetosphere - with two Rocket Lab Photon spacecraft has received NASA approval to move toward launch.*
+*The ESCAPADE mission - led by the [[University of California Berkeley Space Sciences Laboratory]] to study Mars’ magnetosphere - with two Rocket Lab Photon spacecraft has received NASA approval to move toward launch.*
 
 **Long Beach, California. 23 August, 2021.** Rocket Lab, a global leader in dedicated launch and space systems, today announced it will begin final mission design and commence manufacturing two interplanetary Photon spacecraft for a science mission to Mars, delivering Decadal-class science at a fraction of the cost of typical planetary missions.
 

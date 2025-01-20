@@ -31,4 +31,4 @@ Pete
 ---
 
 ![[Pasted image 20250104220536.jpg]]
-<iframe width="1227" height="690" src="https://www.youtube.com/embed/Ngvow6egisg" title="Rocket Lab’s Rutherford Engine Qualified for Flight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe   src="https://www.youtube.com/embed/Ngvow6egisg" title="Rocket Lab’s Rutherford Engine Qualified for Flight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

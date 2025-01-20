@@ -6,7 +6,9 @@ author:
   - "[[Rocket Lab]]"
 published: 2023-10-18
 description: "*Long Beach, California. Oct. 18, 2023* – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced that the two spacecraft the Company is building for NASA’s Escape and Plasma Acceleration and Dynamics Explorers (ESCAPADE) mission have entered the system integration phase in preparation for a planned launch in 2024."
-customer: "[[NASA]]"
+customer: 
+ - "[[NASA]]"
+ - "[[University of California Berkeley Space Sciences Laboratory]]"
 mission: "[[ESCAPADE]]"
 tags:
   - "space-systems"
@@ -23,7 +25,7 @@ tags:
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-integrating-twin-spacecraft-for-mission-to-mars-for-nasa/
 
-**Long Beach, California. Oct. 18, 2023** – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced that the two spacecraft the Company is building for NASA’s Escape and Plasma Acceleration and Dynamics Explorers (ESCAPADE) mission have entered the system integration phase in preparation for a planned launch in 2024.
+**Long Beach, California. Oct. 18, 2023** – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced that the two spacecraft the Company is building for [[NASA]]’s Escape and Plasma Acceleration and Dynamics Explorers (ESCAPADE) mission have entered the system integration phase in preparation for a planned launch in 2024.
 
 The ESCAPADE mission, led by Dr. Rob Lillis at the University of California, Berkeley’s (UCB) Space Sciences Laboratory (SSL), is a twin-spacecraft science mission that will orbit Mars to investigate the structure, composition, variability, and dynamics of Mars' unique hybrid magnetosphere. The mission will explore how the solar wind strips atmosphere away from Mars to better understand how its climate has changed over time. Each spacecraft will carry an instrument suite that includes a magnetometer for measuring magnetic field, an electrostatic analyzer to measure ions and electrons, and a Langmuir probe for measuring plasma density and solar extreme ultraviolet flux.
 

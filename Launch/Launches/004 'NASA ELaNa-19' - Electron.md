@@ -61,7 +61,9 @@ sort published desc
 
 ## 📽️ Launch Video
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/F7Kr3664hJs" title="Rocket Lab&#39;s Electron - NASA ELaNa-19 Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>   
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/F7Kr3664hJs" title="Rocket Lab&#39;s Electron - NASA ELaNa-19 Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>   
+</div>
 
 ## ✏️ Notes
 

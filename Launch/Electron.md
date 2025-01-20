@@ -26,7 +26,10 @@ Electron is a two-stage, partially reusable orbital launch vehicle developed by 
 - Electron was developed in 2.8 years and is the fasted commercially developed rocket to reach 50 launches (7.1 years after first launch). 
 
 >[!warning] This video is a bit old at this point but does a great job breaking down Electron and Rutherford
-<iframe width="1227" height="690" src="https://www.youtube.com/embed/C0STPK3g9c8" title="Is Rocket Lab the new SpaceX? The Electron VS Falcon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/C0STPK3g9c8" title="Is Rocket Lab the new SpaceX? The Electron VS Falcon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 ## Rutherford Engine
 
@@ -52,8 +55,9 @@ Instead of being powered by traditional gas turbine pumps, Rutherford uses a cyc
 
 Rutherford engines are manufactured at Rocket Lab’s headquarters in Long Beach, California.
 
-<iframe width="1227" height="690" src="https://www.youtube.com/embed/Ngvow6egisg" title="Rocket Lab’s Rutherford Engine Qualified for Flight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<div class="responsive-video">
+<iframe   src="https://www.youtube.com/embed/Ngvow6egisg" title="Rocket Lab’s Rutherford Engine Qualified for Flight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 ## Kick Stage
 

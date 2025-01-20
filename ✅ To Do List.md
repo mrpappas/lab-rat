@@ -41,6 +41,7 @@
 - [x] Finish [[ESCAPADE]]
 - [ ] [[VICTUS HAZE]]
 - [ ] [[Mission Operations Control Center for MethaneSAT]]
+- [ ] Add Mission metadata to Partners
 
 ## ⚔️ Competitors
 

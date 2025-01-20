@@ -43,4 +43,4 @@ The fix for the issue is simple and corrective procedures have been put in place
 
 ---
 
-<iframe width="1227" height="690" src="https://www.youtube.com/embed/VA_8HPsua0c" title="It&#39;s a Test - Launch Day Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe   src="https://www.youtube.com/embed/VA_8HPsua0c" title="It&#39;s a Test - Launch Day Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
