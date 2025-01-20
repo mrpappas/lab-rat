@@ -12,6 +12,10 @@
 - [ ] [[Space Systems Complex - Littleton, CO]]
 - [ ] [[Wallops Flight Facility]]
 
+## 💰Financial
+- [ ] Quarterly Reports & Investor Presentations
+- [ ] Quarterly and Annual Financial Statements
+- [ ] Earnings Call Video (Transcript?)
 ## 📰 News
 
 - [ ] Add News articles from 3rd party (probably https://spacenews.com/) 

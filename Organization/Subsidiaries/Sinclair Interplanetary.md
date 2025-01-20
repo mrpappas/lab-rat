@@ -47,3 +47,4 @@ sort published desc
 | [[News/Rocket Lab to Acquire Satellite Hardware Manufacturer Sinclair Interplanetary.md\|Rocket Lab to Acquire Satellite Hardware Manufacturer Sinclair Interplanetary]]                       | Rocket Lab to Acquire Satellite Hardware Manufacturer Sinclair Interplanetary             | March 16, 2020 |
 
 %%DATAVIEW_PUBLISHER: end%%
+
