@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✅ Start Here.md",
-                "mode": "source",
+                "file": "✅ Home.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "✅ Start Here"
+              "title": "✅ Home"
             }
           }
         ]
@@ -186,12 +186,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "71941a9277e2bf6c",
+  "active": "6449ebb6b9cf2b96",
   "lastOpenFiles": [
+    "Launch/Launches/002 'Still Testing' - Electron.md",
+    "✅ Home.md",
+    "News/Rocket Lab’s Second Reentry Class Spacecraft for Varda Operating on Orbit Supporting Payloads for Air Force Research Lab and NASA.md",
+    "Launch/Launches/013 'Pics Or It Didn't Happen' - Electron.md",
+    "📰 News.md",
+    "🤝 Partners.md",
+    "README.md",
+    "favicon-32x32.png",
+    "favicon.ico",
+    "favicon.png.png",
+    "Vault-Assets/favicon.ico",
+    "favicon-32.png",
     "🎙️ Interviews.md",
     "🏛️ Board of Directors.md",
-    "✅ Start Here.md",
-    "lab-rat-logo.png",
     "Locations/Long Beach Complex.md",
     "Pasted image 20250120005307.png",
     "rat_rocket_no_background-removebg-preview.png",
@@ -199,13 +209,10 @@
     "💰 Acquisitions.md",
     "Launch/Electron.md",
     "📋 To Do List.md",
-    "📰 News.md",
-    "🤝 Partners.md",
     "🙋 People.md",
     "🚀 Launches.md",
     "Misc/Reports/Payload Space's Rocket Lab Report.md",
     "🟢 Subsidiaries.md",
-    "README.md",
     "Rocket Lab.md",
     "💼 SEC Filings (2024).md",
     "Untitled.md",
@@ -215,15 +222,11 @@
     "Space Systems/Missions/VADR.md",
     "Space Systems/Missions/SDA Tranche 2 - Enhanced Global Coverage.md",
     "Space Systems/Missions/SDA Tranche 1 - Initial Warfighting Capability.md",
-    "Space Systems/Missions/SDA Proliferated Warfighter Space Architecture (PWSA).md",
-    "Space Systems/Missions/OSP-4.md",
     "Vault-Assets/PDFs/Rocket_Lab_Report_Final.pdf",
     "Vault-Assets/Images/Pasted image 20250119153357.png",
     "Vault-Assets/Images/Pasted image 20250119155834.png",
     "Vault-Assets/Images/Pasted image 20250119154914.png",
     "Vault-Assets/Images/Pasted image 20250119154242.jpg",
-    "Vault-Assets/Images/Pasted image 20250119154035.jpg",
-    "Vault-Assets/Images/Pasted image 20250119153937.jpg",
     "Misc/Reports",
     "Misc",
     "Vault-Assets/PDFs/EXC22_017 - Photon Doc_ƒ [Web].pdf",
@@ -231,8 +234,6 @@
     "Vault-Assets/PDFs/Owl-The-Way-Up-Press-Kit (1).pdf",
     "Vault-Assets/PDFs/0acfddfc-4a52-4e60-9223-e6bc25fa83e5.pdf",
     "Vault-Assets/PDFs/Capella-Stronger-Together-Press-Kit.pdf",
-    "Vault-Assets/PDFs/9cdf4b50-8dbf-49e9-af01-4b0fb4e82778.pdf",
-    "Vault-Assets/PDFs/9f09a632-399b-49e5-8b99-604b433e6815.pdf",
     "Untitled.canvas",
     "Subsidiaries/Untitled.canvas"
   ]
