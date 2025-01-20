@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rocket Lab.md",
+                "file": "🚀 Launches.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rocket Lab"
+              "title": "🚀 Launches"
             }
           },
           {
@@ -203,9 +203,9 @@
   },
   "active": "8fe2ee5a13acbb0e",
   "lastOpenFiles": [
-    "README.md",
     "Rocket Lab.md",
     "Untitled.md",
+    "README.md",
     "🟢 Subsidiaries.md",
     "🚀 Launches.md",
     "🙋 People.md",
