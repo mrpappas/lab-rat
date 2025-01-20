@@ -45,9 +45,9 @@
 
 ## ⚔️ Competitors
 
-- [ ] [[Firefly Aerospace]]
-- [ ] [[General Dynamics Mission Systems]]
-- [ ] [[L3Harris Technologies]]
+- [x] [[Firefly Aerospace]]
+- [x] [[General Dynamics Mission Systems]]
+- [x] [[L3Harris Technologies]]
 - [ ] [[Northrop Grumman]]
 - [ ] [[Sierra Space]]
 - [ ] [[SpaceX]]

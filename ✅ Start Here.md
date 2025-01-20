@@ -3,7 +3,7 @@
 ## New To Rocket Lab?
 
 **Start Here**: [[Payload Space's Rocket Lab Report]] 
-This provides a great high level analysis of Rocket Lab's current business and potential future. 
+This provides a great high level analysis of Rocket Lab's current business and potential future opportunities. 
 **Backup Link**: https://payloadspace.com/the-rocket-lab-report/
 
 ## 🔗 Quick Links
@@ -34,3 +34,5 @@ Made by [SpaceGhost](https://x.com/SpaceGhost_42)
 🖥️ **GitHub**: https://github.com/mrpappas/lab-rat
 
 📋 **Change Request Form**: https://docs.google.com/forms/d/e/1FAIpQLSc8_RGjO3WIBK9duFOTnrdnfTLYURA4qqhYs0ZCXeHtYCoLlg/viewform
+
+
