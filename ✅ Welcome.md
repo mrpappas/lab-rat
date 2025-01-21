@@ -1,5 +1,6 @@
+
 >[!hint] What is this?
->🐀 Lab Rat is an [open source central repository](https://github.com/mrpappas/lab-rat) for all things [Rocket Lab](https://www.rocketlabusa.com/), built with [Obsidian](https://obsidian.md/). Designed for retail investors, it aims to collect and organize all relevant Rocket Lab information.
+>This is an [open source central repository](https://github.com/mrpappas/lab-rat) for all things [Rocket Lab](https://www.rocketlabusa.com/), built with [Obsidian](https://obsidian.md/). Designed for retail investors, it aims to collect and organize all relevant Rocket Lab information. It contains all SEC filings, news releases, insiders, partners, launch data, space systems & components, interviews, and more. 
 ## New To Rocket Lab?
 
 **Start Here**: [[Payload Space's Rocket Lab Report]] 
@@ -7,6 +8,8 @@ This provides a great high level analysis of Rocket Lab's current business and p
 **Backup Link**: https://payloadspace.com/the-rocket-lab-report/
 
 ## 🔗 Quick Links
+
+>[!warning] Financial Data and Earnings Calls Coming Soon.
 
 - [[🚀 Launches]]
 - [[💼 SEC Filings (All)]]
@@ -17,6 +20,7 @@ This provides a great high level analysis of Rocket Lab's current business and p
 - [[📰 News]]
 - [[🏛️ Board of Directors]]
 - [[🟢 Subsidiaries]]
+- [[📊 Investor Presentations]]
 
 ## 📰 Recent News
 
