@@ -6,7 +6,7 @@ author:
   - "[[Rocket Lab]]"
 published: 2020-04-29
 description: "*Electron Roll-Out Complete at Launch Complex 2 Ahead of Upcoming U.S. Space Force Mission *"
-locatdion:
+location:
  - "[[Launch Complex 2]]"
 tags:
 ---
@@ -16,7 +16,7 @@ tags:
 **Author:** [[Rocket Lab]]
 **Published:** 2020-04-29
 **Description:** *Electron Roll-Out Complete at Launch Complex 2 Ahead of Upcoming U.S. Space Force Mission *
-**Locatdion:** [[Launch Complex 2]]
+**Location:** [[Launch Complex 2]]
 
 **Electron Roll-Out Complete at Launch Complex 2 Ahead of Upcoming U.S. Space Force Mission** 
 

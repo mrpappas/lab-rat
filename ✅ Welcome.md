@@ -25,7 +25,7 @@ This provides a great high level analysis of Rocket Lab's current business and p
 ## 🛠️ Want to contribute? 
 
 **Check here**: [[📋 To Do List]]
-📋 **Change Request Form**: [Link](https://docs.google.com/forms/d/e/1FAIpQLSc8_RGjO3WIBK9duFOTnrdnfTLYURA4qqhYs0ZCXeHtYCoLlg/viewform)
+**Change Request Form**: [Link](https://docs.google.com/forms/d/e/1FAIpQLSc8_RGjO3WIBK9duFOTnrdnfTLYURA4qqhYs0ZCXeHtYCoLlg/viewform)
 🖥️ **GitHub**: https://github.com/mrpappas/lab-rat
 
 ## 📰 Recent News
@@ -41,6 +41,7 @@ limit 10
 
 | File                                                                                                                                                                                                                                                                                                                             | Published         |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[News/Rocket Lab Schedules Next Electron Launch for Constellation Operator Kinéis.md\|Rocket Lab Schedules Next Electron Launch for Constellation Operator Kinéis]]                                                                                                                                                             | January 21, 2025  |
 | [[News/Rocket Lab’s Second Reentry Class Spacecraft for Varda Operating on Orbit Supporting Payloads for Air Force Research Lab and NASA.md\|Rocket Lab’s Second Reentry Class Spacecraft for Varda Operating on Orbit Supporting Payloads for Air Force Research Lab and NASA]]                                                 | January 15, 2025  |
 | [[News/Rocket Lab on Track to Advance U.S. Defense Capabilities, Passing Major Milestone in Development of Spacecraft Constellation for Space Development Agency.md\|Rocket Lab on Track to Advance U.S. Defense Capabilities, Passing Major Milestone in Development of Spacecraft Constellation for Space Development Agency]] | January 09, 2025  |
 | [[News/Rocket Lab Selected by NASA to Provide Neutron Launch Services Under VADR Launch Contract.md\|Rocket Lab Selected by NASA to Provide Neutron Launch Services Under VADR Launch Contract]]                                                                                                                                 | January 09, 2025  |
@@ -50,7 +51,6 @@ limit 10
 | [[News/Mission Success for Rocket Lab’s Latest Suborbital Hypersonic Launch.md\|Mission Success for Rocket Lab’s Latest Suborbital Hypersonic Launch]]                                                                                                                                                                           | December 09, 2024 |
 | [[News/Rocket Lab Sets Launch Window to Deploy Synspective Satellites.md\|Rocket Lab Sets Launch Window to Deploy Synspective Satellites]]                                                                                                                                                                                       | December 05, 2024 |
 | [[News/Rocket Lab Announces Third Quarter 2024 Financial Results, Posts 55% Year-on-Year Growth and Guides to Record Revenue in Q4.md\|Rocket Lab Announces Third Quarter 2024 Financial Results, Posts 55% Year-on-Year Growth and Guides to Record Revenue in Q4]]                                                             | November 28, 2024 |
-| [[News/Rocket Lab Signs $23.9M CHIPS Incentives Award to Boost Semiconductor Manufacturing.md\|Rocket Lab Signs $23.9M CHIPS Incentives Award to Boost Semiconductor Manufacturing]]                                                                                                                                             | November 25, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
