@@ -9,7 +9,7 @@ This provides a great high level analysis of Rocket Lab's current business and p
 
 ## 🔗 Quick Links
 
->[!warning] Financial Data and Earnings Calls Coming Soon.
+>[!warning]   Financial Data and Earnings Calls Coming Soon.
 
 - [[🚀 Launches]]
 - [[💼 SEC Filings (All)]]
@@ -21,6 +21,12 @@ This provides a great high level analysis of Rocket Lab's current business and p
 - [[🏛️ Board of Directors]]
 - [[🟢 Subsidiaries]]
 - [[📊 Investor Presentations]]
+
+## 🛠️ Want to contribute? 
+
+**Check here**: [[📋 To Do List]]
+📋 **Change Request Form**: [Link](https://docs.google.com/forms/d/e/1FAIpQLSc8_RGjO3WIBK9duFOTnrdnfTLYURA4qqhYs0ZCXeHtYCoLlg/viewform)
+🖥️ **GitHub**: https://github.com/mrpappas/lab-rat
 
 ## 📰 Recent News
 
@@ -85,9 +91,4 @@ A collection of great resources for keeping up to date on Rocket Lab.
 ## 👷 Under the Hood
 
 Made by [SpaceGhost](https://x.com/SpaceGhost_42)
-
-🖥️ **GitHub**: https://github.com/mrpappas/lab-rat
-
-📋 **Change Request Form**: https://docs.google.com/forms/d/e/1FAIpQLSc8_RGjO3WIBK9duFOTnrdnfTLYURA4qqhYs0ZCXeHtYCoLlg/viewform
-
-
+Made with [Obsidian](https://obsidian.md/)
