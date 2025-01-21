@@ -19,14 +19,14 @@ mission_link:
 
 #electron #launch #success
 **Mission Name:** IOT 4 You and Me
-**Launch Date:** 
+**Launch Date:** 2025-02-04 20:43 (scheduled)
 **Outcome:** 
 **Customer:** [[Kinéis]]
 **Location:** [[Launch Complex 1]]
 **Vehicle:** [[Electron]]
 **Orbit Type:** [[🌍 Orbits#LEO]]
-**Target Orbit:** 
-**Payload Mass:** 
+target_orbit: 643 km | 98° (estimate based on previous missions)
+payload_mass: 150 kg (estimate based on previous missions)
 **Recovery:** 
 **Mission Link:** 
 **Press Kit**: 
