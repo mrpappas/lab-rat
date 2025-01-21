@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial/Quarterly Reports/📊 Investor Presentations.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📊 Investor Presentations"
+              "title": "README"
             }
           }
         ]
@@ -188,17 +188,18 @@
   },
   "active": "71941a9277e2bf6c",
   "lastOpenFiles": [
+    "Rocket Lab.md",
+    "README.md",
+    "Financial/Quarterly Reports/📊 Investor Presentations.md",
     "✅ Welcome.md",
     "📋 To Do List.md",
     "().md",
-    "Financial/Quarterly Reports/📊 Investor Presentations.md",
     "🎙️ Interviews.md",
     "💼 SEC Filings (2024).md",
     "💰 Acquisitions.md",
     "🏛️ Board of Directors.md",
     "🛰️ Space Systems.md",
     "🟢 Subsidiaries.md",
-    "README.md",
     "📰 News.md",
     "🤝 Partners.md",
     "🙋 People.md",
@@ -217,7 +218,6 @@
     "rat_rocket_no_background.png",
     "Launch/Electron.md",
     "Misc/Reports/Payload Space's Rocket Lab Report.md",
-    "Rocket Lab.md",
     "Untitled.md",
     "💼 SEC Filings (2025).md",
     "Space Systems/Missions/VICTUS HAZE.md",
