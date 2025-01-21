@@ -19,7 +19,7 @@ mission_link:
 
 #electron #launch #success
 **Mission Name:** IOT 4 You and Me
-**Launch Date:** 2025-02-04 20:43 (scheduled)
+**Launch Date:** 2025-02-04 09:43 am NZDT / 2025-02-03 20:43 UTC  (scheduled)
 **Outcome:** 
 **Customer:** [[Kinéis]]
 **Location:** [[Launch Complex 1]]
@@ -32,7 +32,7 @@ payload_mass: 150 kg (estimate based on previous missions)
 **Press Kit**: 
 
 >[!summary]
->>[!warning] Launch Scheduled for February 4th 09:43 am NZDT
+>>[!warning] Launch Scheduled for February 4th 09:43 am NZDT / February 3rd 20:43 UTC
 >Check back later for more details
 
 ## 📰 News
