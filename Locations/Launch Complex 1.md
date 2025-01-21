@@ -105,6 +105,7 @@ sort launch_date desc
 
 | File                                                                                                                        | launch_date      |
 | --------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[Launch/Launches/059 'IOT 4 You and Me' - Electron.md\|059 'IOT 4 You and Me' - Electron]]                                 | 2025-02-04 20:43 |
 | [[Launch/Launches/058 'Owl The Way Up' - Electron.md\|058 'Owl The Way Up' - Electron]]                                     | 2024-12-21 14:16 |
 | [[Launch/Launches/056 'Ice AIS Baby' - Electron.md\|056 'Ice AIS Baby' - Electron]]                                         | 2024-11-25 04:55 |
 | [[Launch/Launches/053 'Kineis Killed the RadIOT Star' - Electron.md\|053 'Kineis Killed the RadIOT Star' - Electron]]       | 2024-09-20 23:01 |
@@ -152,6 +153,5 @@ sort launch_date desc
 | [[Launch/Launches/004 'NASA ELaNa-19' - Electron.md\|004 'NASA ELaNa-19' - Electron]]                                       | 2018-12-16 06:33 |
 | [[Launch/Launches/002 'Still Testing' - Electron.md\|002 'Still Testing' - Electron]]                                       | 2018-01-21 02:43 |
 | [[Launch/Launches/001 'It's a Test' - Electron.md\|001 'It's a Test' - Electron]]                                           | 2017-05-25 04:20 |
-| [[Launch/Launches/059 'IOT 4 You and Me' - Electron.md\|059 'IOT 4 You and Me' - Electron]]                                 | 1                |
 
 %%DATAVIEW_PUBLISHER: end%%

@@ -5,7 +5,7 @@ tags:
   - launch
   - success
 mission_name: IOT 4 You and Me
-launch_date: 1
+launch_date: 2025-02-04 20:43
 outcome: 
 customer: "[[Kinéis]]"
 location: "[[Launch Complex 1]]"

@@ -26,10 +26,10 @@ sort launch_date desc
 
 | File                                                                                                                  | launch_date      | outcome |
 | --------------------------------------------------------------------------------------------------------------------- | ---------------- | ------- |
+| [[Launch/Launches/059 'IOT 4 You and Me' - Electron.md\|059 'IOT 4 You and Me' - Electron]]                           | 2025-02-04 20:43 | \-      |
 | [[Launch/Launches/056 'Ice AIS Baby' - Electron.md\|056 'Ice AIS Baby' - Electron]]                                   | 2024-11-25 04:55 | Success |
 | [[Launch/Launches/053 'Kineis Killed the RadIOT Star' - Electron.md\|053 'Kineis Killed the RadIOT Star' - Electron]] | 2024-09-20 23:01 | Success |
 | [[Launch/Launches/050 'No Time Toulouse' - Electron.md\|050 'No Time Toulouse' - Electron]]                           | 2024-06-18 18:13 | Success |
-| [[Launch/Launches/059 'IOT 4 You and Me' - Electron.md\|059 'IOT 4 You and Me' - Electron]]                           | 1                | \-      |
 
 %%DATAVIEW_PUBLISHER: end %%
 
