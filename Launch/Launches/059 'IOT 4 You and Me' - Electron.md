@@ -11,8 +11,8 @@ customer: "[[Kinéis]]"
 location: "[[Launch Complex 1]]"
 vehicle: "[[Electron]]"
 orbit_type: "[[🌍 Orbits#LEO]]"
-target_orbit: 
-payload_mass: 
+target_orbit: 643 km | 98° (based on previous missions)
+payload_mass: 150 kg (based on previous missions)
 recovery: 
 mission_link: 
 ---
@@ -29,7 +29,7 @@ mission_link:
 **Payload Mass:** 
 **Recovery:** 
 **Mission Link:** 
-Press Kit: 
+**Press Kit**: 
 
 >[!summary]
 >>[!warning] Launch Scheduled for February 4th 09:43 am NZDT
