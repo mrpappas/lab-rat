@@ -11,12 +11,15 @@
             "id": "71941a9277e2bf6c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Vault-Assets/Images/Pasted image 20250122180814.png"
+                "file": "Organization/Partners/Orora Technlogies.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250122180814"
+              "icon": "lucide-file",
+              "title": "Orora Technlogies"
             }
           },
           {
@@ -198,14 +201,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "581793ba6e53cf14",
+  "active": "71941a9277e2bf6c",
   "lastOpenFiles": [
+    "🤝 Partners.md",
+    "Organization/Partners/Circle Aerospace.md",
+    "🙋 People.md",
+    "Vault-Assets/Images/Pasted image 20250122180814.png",
+    "Organization/Partners/Johns Hopkins University Applied Physics Laboratory (APL).md",
+    "Organization/Partners/Kleos Space.md",
+    "Organization/Partners/MethaneSAT.md",
     "Organization/Partners/Orora Technlogies.md",
     "News/Rocket Lab to Launch Global Wildfire Detection and Monitoring Mission for OroraTech.md",
     "Organization/Partners/Synspective.md",
     "Organization/Partners/Spire Global.md",
     "Organization/Partners/Planet Labs.md",
-    "Vault-Assets/Images/Pasted image 20250122180814.png",
     "News/Link to Rocket Lab Imagery and Video.md",
     "News/Construction Begins on Rocket Lab’s Orbital Launch Site.md",
     "News/'It's a Test' - Live News Updates  Rocket Lab.md",
@@ -221,12 +230,6 @@
     "Space Systems/Missions/SDA Tranche 2 - Enhanced Global Coverage.md",
     "Space Systems/Missions/SDA Tranche 1 - Initial Warfighting Capability.md",
     "Space Systems/Missions/SDA Proliferated Warfighter Space Architecture (PWSA).md",
-    "Space Systems/Missions/Venus Life Finder.md",
-    "Space Systems/Missions/VADR.md",
-    "Launch/Launches/027 'CAPSTONE' - Electron.md",
-    "Launch/HASTE.md",
-    "Launch/🌍 Orbits.md",
-    "Launch/Launches/058 'Owl The Way Up' - Electron.md",
     "favicon.ico",
     "favicon.ico.png",
     "favicon.png.png",
