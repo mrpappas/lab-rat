@@ -80,5 +80,6 @@ sort asc
 | [[Organization/Partners/Varda Space Industries.md\|Varda Space Industries]]                                                                           | https://www.varda.com/                                                                        |
 | [[Organization/Partners/Vector Acquisition Corporation (VACQ).md\|Vector Acquisition Corporation (VACQ)]]                                             | \-                                                                                            |
 | [[Organization/Partners/York Space Systems.md\|York Space Systems]]                                                                                   | https://www.yorkspacesystems.com/                                                             |
+| [[Organization/Partners/Orora Technlogies.md\|Orora Technlogies]]                                                                                     | https://ororatech.com/                                                                        |
 
 %% DATAVIEW_PUBLISHER: end %%
