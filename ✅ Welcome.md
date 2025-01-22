@@ -32,25 +32,25 @@ This provides a great high level analysis of Rocket Lab's current business and p
 
 %% DATAVIEW_PUBLISHER: start
 ```
-table published as "Published"
+table
 from "News"
 sort published desc
 limit 10
 ```
 %%
 
-| File                                                                                                                                                                                                                                                                                                                             | Published         |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| [[News/Rocket Lab to Launch Global Wildfire Detection and Monitoring Mission for OroraTech.md\|Rocket Lab to Launch Global Wildfire Detection and Monitoring Mission for OroraTech]]                                                                                                                                             | January 22, 2025  |
-| [[News/Rocket Lab Schedules Next Electron Launch for Constellation Operator Kinéis.md\|Rocket Lab Schedules Next Electron Launch for Constellation Operator Kinéis]]                                                                                                                                                             | January 21, 2025  |
-| [[News/Rocket Lab’s Second Reentry Class Spacecraft for Varda Operating on Orbit Supporting Payloads for Air Force Research Lab and NASA.md\|Rocket Lab’s Second Reentry Class Spacecraft for Varda Operating on Orbit Supporting Payloads for Air Force Research Lab and NASA]]                                                 | January 15, 2025  |
-| [[News/Rocket Lab on Track to Advance U.S. Defense Capabilities, Passing Major Milestone in Development of Spacecraft Constellation for Space Development Agency.md\|Rocket Lab on Track to Advance U.S. Defense Capabilities, Passing Major Milestone in Development of Spacecraft Constellation for Space Development Agency]] | January 09, 2025  |
-| [[News/Rocket Lab Selected by NASA to Provide Neutron Launch Services Under VADR Launch Contract.md\|Rocket Lab Selected by NASA to Provide Neutron Launch Services Under VADR Launch Contract]]                                                                                                                                 | January 09, 2025  |
-| [[News/Rocket Lab Selected by Kratos to Deliver Hypersonic Test Launches for DoD with HASTE Rocket.md\|Rocket Lab Selected by Kratos to Deliver Hypersonic Test Launches for DoD with HASTE Rocket]]                                                                                                                             | January 07, 2025  |
-| [[News/Rocket Lab Successfully Deploys Satellite for Synspective, Caps Off Year with 60% Increase in Launches YoY.md\|Rocket Lab Successfully Deploys Satellite for Synspective, Caps Off Year with 60% Increase in Launches YoY]]                                                                                               | December 22, 2024 |
-| [[News/Rocket Lab Delivers Second Spacecraft, Completes Third for Varda Space Industries.md\|Rocket Lab Delivers Second Spacecraft, Completes Third for Varda Space Industries]]                                                                                                                                                 | December 17, 2024 |
-| [[News/Mission Success for Rocket Lab’s Latest Suborbital Hypersonic Launch.md\|Mission Success for Rocket Lab’s Latest Suborbital Hypersonic Launch]]                                                                                                                                                                           | December 09, 2024 |
-| [[News/Rocket Lab Sets Launch Window to Deploy Synspective Satellites.md\|Rocket Lab Sets Launch Window to Deploy Synspective Satellites]]                                                                                                                                                                                       | December 05, 2024 |
+| File                                                                                                                                                                                                                                                                                                                             |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[News/Rocket Lab to Launch Global Wildfire Detection and Monitoring Mission for OroraTech.md\|Rocket Lab to Launch Global Wildfire Detection and Monitoring Mission for OroraTech]]                                                                                                                                             |
+| [[News/Rocket Lab Schedules Next Electron Launch for Constellation Operator Kinéis.md\|Rocket Lab Schedules Next Electron Launch for Constellation Operator Kinéis]]                                                                                                                                                             |
+| [[News/Rocket Lab’s Second Reentry Class Spacecraft for Varda Operating on Orbit Supporting Payloads for Air Force Research Lab and NASA.md\|Rocket Lab’s Second Reentry Class Spacecraft for Varda Operating on Orbit Supporting Payloads for Air Force Research Lab and NASA]]                                                 |
+| [[News/Rocket Lab on Track to Advance U.S. Defense Capabilities, Passing Major Milestone in Development of Spacecraft Constellation for Space Development Agency.md\|Rocket Lab on Track to Advance U.S. Defense Capabilities, Passing Major Milestone in Development of Spacecraft Constellation for Space Development Agency]] |
+| [[News/Rocket Lab Selected by NASA to Provide Neutron Launch Services Under VADR Launch Contract.md\|Rocket Lab Selected by NASA to Provide Neutron Launch Services Under VADR Launch Contract]]                                                                                                                                 |
+| [[News/Rocket Lab Selected by Kratos to Deliver Hypersonic Test Launches for DoD with HASTE Rocket.md\|Rocket Lab Selected by Kratos to Deliver Hypersonic Test Launches for DoD with HASTE Rocket]]                                                                                                                             |
+| [[News/Rocket Lab Successfully Deploys Satellite for Synspective, Caps Off Year with 60% Increase in Launches YoY.md\|Rocket Lab Successfully Deploys Satellite for Synspective, Caps Off Year with 60% Increase in Launches YoY]]                                                                                               |
+| [[News/Rocket Lab Delivers Second Spacecraft, Completes Third for Varda Space Industries.md\|Rocket Lab Delivers Second Spacecraft, Completes Third for Varda Space Industries]]                                                                                                                                                 |
+| [[News/Mission Success for Rocket Lab’s Latest Suborbital Hypersonic Launch.md\|Mission Success for Rocket Lab’s Latest Suborbital Hypersonic Launch]]                                                                                                                                                                           |
+| [[News/Rocket Lab Sets Launch Window to Deploy Synspective Satellites.md\|Rocket Lab Sets Launch Window to Deploy Synspective Satellites]]                                                                                                                                                                                       |
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -58,25 +58,26 @@ limit 10
 
 %% DATAVIEW_PUBLISHER: start
 ```
-table launch_date as "Launch Date"
+table
 from "Launch/Launches"
+where outcome
 sort launch_date desc
 limit 10
 ```
 %%
 
-| File                                                                                                                                            | Launch Date      |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
-| [[Launch/Launches/059 'IOT 4 You and Me' - Electron.md\|059 'IOT 4 You and Me' - Electron]]                                                     | 2025-02-04 20:43 |
-| [[Launch/Launches/058 'Owl The Way Up' - Electron.md\|058 'Owl The Way Up' - Electron]]                                                         | 2024-12-21 14:16 |
-| [[Launch/Launches/057 'Stonehenge' - HASTE.md\|057 'Stonehenge' - HASTE]]                                                                       | 2024-12-13 00:00 |
-| [[Launch/Launches/056 'Ice AIS Baby' - Electron.md\|056 'Ice AIS Baby' - Electron]]                                                             | 2024-11-25 04:55 |
-| [[Launch/Launches/055 'HASTE A La Vista' - HASTE.md\|055 'HASTE A La Vista' - HASTE]]                                                           | 2024-11-24 06:00 |
-| [[Launch/Launches/054 'Changes In Latitudes, Changes In Attitudes' - Electron.md\|054 'Changes In Latitudes, Changes In Attitudes' - Electron]] | 2024-11-05 10:54 |
-| [[Launch/Launches/053 'Kineis Killed the RadIOT Star' - Electron.md\|053 'Kineis Killed the RadIOT Star' - Electron]]                           | 2024-09-20 23:01 |
-| [[Launch/Launches/052 'A Sky Full Of SARs' - Electron.md\|052 'A Sky Full Of SARs' - Electron]]                                                 | 2024-08-11 13:18 |
-| [[Launch/Launches/051 'Owl For One, One For Owl' - Electron.md\|051 'Owl For One, One For Owl' - Electron]]                                     | 2024-08-02 16:39 |
-| [[Launch/Launches/050 'No Time Toulouse' - Electron.md\|050 'No Time Toulouse' - Electron]]                                                     | 2024-06-18 18:13 |
+| File                                                                                                                                            |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Launch/Launches/058 'Owl The Way Up' - Electron.md\|058 'Owl The Way Up' - Electron]]                                                         |
+| [[Launch/Launches/057 'Stonehenge' - HASTE.md\|057 'Stonehenge' - HASTE]]                                                                       |
+| [[Launch/Launches/056 'Ice AIS Baby' - Electron.md\|056 'Ice AIS Baby' - Electron]]                                                             |
+| [[Launch/Launches/055 'HASTE A La Vista' - HASTE.md\|055 'HASTE A La Vista' - HASTE]]                                                           |
+| [[Launch/Launches/054 'Changes In Latitudes, Changes In Attitudes' - Electron.md\|054 'Changes In Latitudes, Changes In Attitudes' - Electron]] |
+| [[Launch/Launches/053 'Kineis Killed the RadIOT Star' - Electron.md\|053 'Kineis Killed the RadIOT Star' - Electron]]                           |
+| [[Launch/Launches/052 'A Sky Full Of SARs' - Electron.md\|052 'A Sky Full Of SARs' - Electron]]                                                 |
+| [[Launch/Launches/051 'Owl For One, One For Owl' - Electron.md\|051 'Owl For One, One For Owl' - Electron]]                                     |
+| [[Launch/Launches/050 'No Time Toulouse' - Electron.md\|050 'No Time Toulouse' - Electron]]                                                     |
+| [[Launch/Launches/049 'PREFIRE and ICE' - Electron.md\|049 'PREFIRE and ICE' - Electron]]                                                       |
 
 %% DATAVIEW_PUBLISHER: end %%
 ## ℹ️ Resources
