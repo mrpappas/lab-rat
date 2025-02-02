@@ -2,6 +2,7 @@ List of Interviews with Peter Beck and Adam Spice.
 
 | **Link**                                                                                                                                                                                                              | **Date**   |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [Sir Peter Beck on Competing with Elon Musk & Jeff Bezos, Life on Venus & Inspiration for Rocket Lab](https://www.youtube.com/watch?v=U17It-CH4o4)                                                                    | 02/02/2025 |
 | [Space Minds with Peter Beck](https://www.youtube.com/watch?v=OVmkGZ4fSTA)                                                                                                                                            | 01/23/2025 |
 | [Rocket Lab CEO on New Spacecraft, Trump Presidency, and Mission to Venus](https://www.youtube.com/watch?v=mvhF8tZitug)                                                                                               | 01/21/2025 |
 | [Peter Beck - NewstalkZB](https://www.newstalkzb.co.nz/on-air/holiday-breakfast/audio/sir-peter-beck-rocket-lab-founder-on-the-strength-of-the-company-his-career-history/)                                           | 01/16/2025 |
