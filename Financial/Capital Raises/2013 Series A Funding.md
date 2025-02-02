@@ -9,8 +9,8 @@ investors:
 ---
 
 **Date:** 2013-10-01
-**Net Proceeds:** unknown
-**Valuation:** unknown
+**Net Proceeds:** $6,000,000
+**Valuation:** $14,000,000
 **Lead Investor:** [[Khosla Ventures]]
 **Investors:** [[Khosla Ventures]], [[Callaghan Innovation]]
 

@@ -11,8 +11,8 @@ investors:
 ---
 
 **Date:** 2015-03-31
-**Net Proceeds:** unknown
-**Valuation:** unknown
+**Net Proceeds:** $37,000,000
+**Valuation:** $120,000,000
 **Lead Investor:** [[Bessemer Venture Partners]]
 **Investors:** [[Bessemer Venture Partners]], [[Khosla Ventures]], [[K1W1 Investment Fund]], [[Lockheed Martin]]
 
