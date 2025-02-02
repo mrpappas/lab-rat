@@ -22,15 +22,13 @@ Filing_Date: 2025-01-31
 **Remaining Holdings**: 23,323,617  
 **Change in Holdings**: <span style="color:orangered">-11.39%</span>  
 
----
-
 ## Notes
 
 - [[Khosla Ventures]] distributed **1,000,000 shares** of **Rocket Lab (RKLB) common stock** on each of **January 29, 30, and 31, 2025** in a **pro-rata distribution** to its limited and general partners.  
 - **VK Services, LLC**, managed by [[Vinod Khosla]], indirectly controlled these shares through **Khosla Ventures Associates V, LLC**.  
 - As a result of these distributions, **VK Services now holds 29,168,258 shares**, while **Khosla Ventures Associates V, LLC holds none**.  
 
----
+
 
 ## Filing
 

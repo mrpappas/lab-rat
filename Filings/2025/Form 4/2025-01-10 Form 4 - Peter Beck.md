@@ -19,7 +19,7 @@ Filing_Date: 2025-01-10
 **Remaining Holdings**: 789,373 direct, 50,951,250 indirect
 **Change in Holdings**: n/a
 
----
+
 
 ## Notes
 
@@ -28,7 +28,7 @@ Filing_Date: 2025-01-10
 - Shares held by the **Equatorial Trust** are subject to conversion into common stock based on specific conditions, such as changes in control, CEO tenure, or dilution thresholds.  
 - The filing highlights ongoing ownership through the trust and compliance with Section 16(a) reporting obligations.  
 
----
+
 
 ## Filing
 

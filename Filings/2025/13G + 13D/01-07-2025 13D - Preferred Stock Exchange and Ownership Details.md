@@ -15,7 +15,7 @@ Insider: "[[Peter Beck]]"
 **Aggregate Amount Beneficially Owned**: 51,306,468 shares  
 **Percent of Class**: 10.26%  
 
----
+
 ## Notes
 
 - This filing amends and supplements the Schedule 13D originally filed by [[Peter Beck]] and related reporting persons.
@@ -24,7 +24,7 @@ Insider: "[[Peter Beck]]"
 - The Preferred Stock is convertible into Common Stock under specific conditions, with a liquidation preference of $0.0001 per share.
 - The aggregate ownership includes **355,218 shares** from the settlement of restricted stock units and shares issuable upon conversion of Preferred Stock.
 
----
+
 ## Filing
 
 ![[670da9e5-98ff-4dbe-b3f7-b772109b017e.pdf]]
