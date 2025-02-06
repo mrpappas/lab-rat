@@ -26,14 +26,15 @@
             "id": "96f90a8dad6d0506",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "✅ Welcome.md",
-                "bFile": "✅ Welcome.md",
-                "aRef": ""
+                "file": "Organization/Partners/iQPS.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "diff",
-              "title": "Diff: ✅ Welcome"
+              "icon": "lucide-file",
+              "title": "iQPS"
             }
           }
         ],
@@ -205,13 +206,14 @@
   "active": "96f90a8dad6d0506",
   "lastOpenFiles": [
     "News/Rocket Lab Signs Multi-Launch Contract with iQPS for Four Electron Missions.md",
+    "Organization/Partners/iQPS.md",
+    "Organization/People/Vinod Khosla.md",
     "📰 News.md",
     "News/Firefly’s Blue Ghost Spacecraft Begins Journey to Moon, Supported by Rocket Lab Software and Components.md",
     "💼 SEC Filings (2024).md",
     "News/'It's a Test' - Live News Updates  Rocket Lab.md",
     "Filings/2025/Form 4/2025-02-05 Form 4 - Khosla Ventures.md",
     "💼 SEC Filings (2025).md",
-    "Organization/People/Vinod Khosla.md",
     "News/Rocket Lab Successfully Launches 50th Electron Mission, Deploys Satellites for Kinéis.md",
     "Financial/Pre-IPO Investors/Khosla Ventures.md",
     "🤝 Partners.md",
@@ -231,7 +233,6 @@
     "Financial/Capital Raises/2016 Series C Funding.md",
     "Financial/Capital Raises/2017 Series D Funding.md",
     "Financial/Capital Raises/2021 Initial Public Offering.md",
-    "Financial/Capital Raises/2018 Series E Funding.md",
     "Vault-Assets/PDFs/14c7b142-4f6a-4245-8c15-42785b73a963.pdf",
     "Vault-Assets/Images/Pasted image 20250123175641.jpg",
     "Vault-Assets/Images/Pasted image 20250122180814.png",
