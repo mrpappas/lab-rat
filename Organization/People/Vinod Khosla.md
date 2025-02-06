@@ -1,14 +1,14 @@
 ---
 name: Vinod Khosla
 role: Director (Khosla Ventures)
-shares_owned: 26,323,617 (Indirect)
+shares_owned: 21,323,617 (Indirect)
 joined: 2024-12-03
 linkedin: https://www.linkedin.com/in/vinod-khosla-65387416/
 ---
 
 **Name:** Vinod Khosla
 **Role:** Director (Khosla Ventures)
-**Shares Owned:** 26,323,617 (Indirect)  
+**Shares Owned:** 21,323,617 (Indirect)  
 **Joined:** 2024-12-03
 **Linkedin**: https://www.linkedin.com/in/vinod-khosla-65387416/
 
@@ -32,6 +32,7 @@ sort Filing_Date desc
 
 | File                                                                                                | Filing Type                                      | Date              |
 | --------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ----------------- |
+| [[Filings/2025/Form 4/2025-02-05 Form 4 - Khosla Ventures.md\|2025-02-05 Form 4 - Khosla Ventures]] | [[Filings/Filing Definitions.md#Form 4\|Form 4]] | February 05, 2025 |
 | [[Filings/2025/Form 4/2025-01-31 Form 4 - Khosla Ventures.md\|2025-01-31 Form 4 - Khosla Ventures]] | [[Filings/Filing Definitions.md#Form 4\|Form 4]] | January 31, 2025  |
 | [[Filings/2025/Form 4/2025-01-14 Form 4 - Khosla Ventures.md\|2025-01-14 Form 4 - Khosla Ventures]] | [[Filings/Filing Definitions.md#Form 4\|Form 4]] | January 14, 2025  |
 | [[Filings/2024/Form 4/12-03-24 Form 4 - Khosla Ventures.md\|12-03-24 Form 4 - Khosla Ventures]]     | [[Filings/Filing Definitions.md#Form 4\|Form 4]] | December 03, 2024 |
