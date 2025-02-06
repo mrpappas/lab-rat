@@ -3,14 +3,23 @@ title: "Rocket Lab Signs Multi-Launch Contract with iQPS for Four Electron Missi
 source: "https://www.rocketlabusa.com/updates/rocket-lab-signs-multi-launch-contract-with-iqps-for-four-electron-missions/"
 author:
   - "[[Rocket Lab]]"
-published:
+published: 2025-02-03
 description: ""
 customer: 
- - [[iQPS]]
+ - "[[iQPS]]"
 tags:
  - electron
  - contract
 ---
+
+>[!summary]
+>#electron #contract
+>**Title**: "Rocket Lab Signs Multi-Launch Contract with iQPS for Four Electron Missions"
+**Source**: "https://www.rocketlabusa.com/updates/rocket-lab-signs-multi-launch-contract-with-iqps-for-four-electron-missions/"
+**Author**: [[Rocket Lab]]
+**Published**: 2025-02-03
+**Customer**: [[iQPS]]
+
 **Long Beach, Calif. February 3<sup>rd</sup>, 2025** – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced it has signed a multi-launch deal with Institute for Q-shu Pioneers of Space, Inc. ([[iQPS]]), a Japan-based Earth imaging company.
 
 The multi-launch contract, signed in July 2024, includes three dedicated missions for launch in 2025 from Rocket Lab [[Launch Complex 1]] in New Zealand, with a fourth launch scheduled for 2026. Each mission will carry a single satellite to form part of iQPS’ planned constellation of 36 [[📦 Payload Types#Synthetic Aperture Radar (SAR)]] satellites that are capable of collecting images through cloud and at night with a high resolution of less than a meter.

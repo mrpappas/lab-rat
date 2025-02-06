@@ -15,8 +15,8 @@
               "state": {
                 "file": "Organization/People/Vinod Khosla.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Vinod Khosla"
@@ -26,15 +26,14 @@
             "id": "96f90a8dad6d0506",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Filings/2025/Form 4/2025-02-05 Form 4 - Khosla Ventures.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
+                "aFile": "✅ Welcome.md",
+                "bFile": "✅ Welcome.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "2025-02-05 Form 4 - Khosla Ventures"
+              "icon": "diff",
+              "title": "Diff: ✅ Welcome"
             }
           }
         ],
@@ -57,7 +56,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "iqps",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -204,12 +204,17 @@
   },
   "active": "96f90a8dad6d0506",
   "lastOpenFiles": [
-    "News/Rocket Lab Successfully Launches 50th Electron Mission, Deploys Satellites for Kinéis.md",
-    "Filings/2025/Form 4/2025-02-05 Form 4 - Khosla Ventures.md",
-    "Financial/Pre-IPO Investors/Khosla Ventures.md",
-    "Organization/People/Vinod Khosla.md",
-    "🤝 Partners.md",
+    "News/Rocket Lab Signs Multi-Launch Contract with iQPS for Four Electron Missions.md",
     "📰 News.md",
+    "News/Firefly’s Blue Ghost Spacecraft Begins Journey to Moon, Supported by Rocket Lab Software and Components.md",
+    "💼 SEC Filings (2024).md",
+    "News/'It's a Test' - Live News Updates  Rocket Lab.md",
+    "Filings/2025/Form 4/2025-02-05 Form 4 - Khosla Ventures.md",
+    "💼 SEC Filings (2025).md",
+    "Organization/People/Vinod Khosla.md",
+    "News/Rocket Lab Successfully Launches 50th Electron Mission, Deploys Satellites for Kinéis.md",
+    "Financial/Pre-IPO Investors/Khosla Ventures.md",
+    "🤝 Partners.md",
     "📋 To Do List.md",
     "✅ Welcome.md",
     "🎙️ Interviews.md",
@@ -220,7 +225,6 @@
     "Korea Advanced Institute of Science and Technology (KAIST).md",
     "Vault-Assets/PDFs/805261d6-9bc9-4ef9-800f-fe44cb830c1f.pdf",
     "Filings/2025/Form 4/2025-01-31 Form 4 - Khosla Ventures.md",
-    "News/Rocket Lab Signs Multi-Launch Contract with iQPS for Four Electron Missions.md",
     "News/Rocket Lab Adds New HASTE Launch from Virginia for the Department of Defense’s Defense Innovation Unit.md",
     "Financial/Capital Raises/2013 Series A Funding.md",
     "Financial/Capital Raises/2015 Series B Funding.md",
@@ -228,10 +232,6 @@
     "Financial/Capital Raises/2017 Series D Funding.md",
     "Financial/Capital Raises/2021 Initial Public Offering.md",
     "Financial/Capital Raises/2018 Series E Funding.md",
-    "Filings/2025/Form 4/2025-01-10 Form 4 - Peter Beck.md",
-    "Filings/2025/Form 4/2025-01-14 Form 4 - Khosla Ventures.md",
-    "Filings/2025/13G + 13D/01-07-2025 13D - Preferred Stock Exchange and Ownership Details.md",
-    "Filings/2025/8-K/01-07-2025 8-K - Preferred Stock Exchange with The Equatorial Trust.md",
     "Vault-Assets/PDFs/14c7b142-4f6a-4245-8c15-42785b73a963.pdf",
     "Vault-Assets/Images/Pasted image 20250123175641.jpg",
     "Vault-Assets/Images/Pasted image 20250122180814.png",
