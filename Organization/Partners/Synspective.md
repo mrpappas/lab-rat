@@ -41,7 +41,7 @@ Synspective's StriX satellites are a series of small, innovative, and cost-effec
 
 [Synspective Strix](https://synspective.com/satellite/satellite-strix/)
 
-| Property             | Value                                                                                                 |
+| Specs                | Value                                                                                                 |
 | -------------------- | ----------------------------------------------------------------------------------------------------- |
 | Mass                 | 100 kg                                                                                                |
 | **Size**             | 0.8m × 1.0m × 0.8m<br>(Before antenna deployment)<br>5.0m × 1.0m × 0.8m<br>(After antenna deployment) |

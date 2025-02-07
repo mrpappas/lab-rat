@@ -34,12 +34,13 @@ sort launch_date desc
 
 QPS-SAR of the Institute for Q-shu Pioneers of Space, Inc. (iQPS) is a Japanese commercial [[📦 Payload Types#Synthetic Aperture Radar (SAR)|Synthetic Aperture Radar (SAR)]] satellite constellation that will provide high resolution and near real-time SAR imagery. The company began launching satellites into the constellation in December 2019 with QPS-SAR No.1 of 36, ‘Izanagi’.
 
-[QPS-SAR](https://i-qps.net/en/product/)
+[Official Product Info for QPS-SAR](https://i-qps.net/en/product/)
+[EO Portal Page on QPS-SAR](https://www.eoportal.org/satellite-missions/qps-sar)
 
-|                  |                                        |
+| Specs            | Value                                  |
 | ---------------- | -------------------------------------- |
-| Mass             | 100 kg                                 |
-| Antenna Size     | 3.6 m                                  |
+| Mass             | ~100 kg                                |
+| Antenna Size     | 3.6 m<sup>2</sup>                      |
 | Propulsion       | Available                              |
 | Mission Life     | ?                                      |
 | Center Frequency | 9.6 GHz (X-Band)                       |
@@ -48,6 +49,7 @@ QPS-SAR of the Institute for Q-shu Pioneers of Space, Inc. (iQPS) is a Japanese 
 | RF Peak Power    | 2kW                                    |
 | Polarization     | HH or VV                               |
 | Off-Nadir Angel  | 15-50 degrees                          |
+
 
 ![[Pasted image 20250206205443.png]]
 
