@@ -4,6 +4,8 @@ Synthetic aperture radar (SAR) is a type of active data collection where an inst
 
 [More Info on SAR](https://www.earthdata.nasa.gov/learn/earth-observation-data-basics/sar)
 
+![[Pasted image 20250206201150.png]]
+
 <iframe width="564" height="322" src="https://www.youtube.com/embed/u2bUKEi9It4" title="Satellites Use &#39;This Weird Trick&#39; To See More Than They Should - Synthetic Aperture Radar Explained." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Internet of Things (IoT)

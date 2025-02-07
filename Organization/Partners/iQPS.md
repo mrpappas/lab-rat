@@ -8,7 +8,7 @@ website: https://i-qps.net/en/
 **Website:** https://i-qps.net/en/
 
 >[!summary]
-iQPS (Institute for Q-shu Pioneers of Space) is a Japanese company focused on developing and deploying synthetic aperture radar (SAR) satellites.
+iQPS (Institute for Q-shu Pioneers of Space) is a Japanese company focused on developing and deploying [[📦 Payload Types#Synthetic Aperture Radar (SAR)|Synthetic Aperture Radar (SAR)]] satellites.
 They are working toward establishing a constellation of 36 small SAR satellites, aiming to provide near-real-time imaging with high-frequency revisits. Their compact satellites deliver sub-meter resolution data, enabling industries such as disaster management, infrastructure monitoring, agriculture, and defense to benefit from precise and timely Earth observation insights.
 iQPS has launched several satellites to demonstrate its SAR capabilities and is actively scaling its constellation to offer comprehensive global coverage.
 
@@ -27,6 +27,30 @@ sort launch_date desc
 | [[Launch/Launches/042 'The Moon God Awakens' - Electron.md\|042 'The Moon God Awakens' - Electron]] | 2023-12-15 04:05 | Success |
 
 %%DATAVIEW_PUBLISHER: end %%
+
+## 🛰️ Space Systems
+
+### QPS-SAR
+
+QPS-SAR of the Institute for Q-shu Pioneers of Space, Inc. (iQPS) is a Japanese commercial [[📦 Payload Types#Synthetic Aperture Radar (SAR)|Synthetic Aperture Radar (SAR)]] satellite constellation that will provide high resolution and near real-time SAR imagery. The company began launching satellites into the constellation in December 2019 with QPS-SAR No.1 ‘Izanagi’.
+
+[QPS-SAR](https://i-qps.net/en/product/)
+
+|                  |                                        |
+| ---------------- | -------------------------------------- |
+| Mass             | 100 kg                                 |
+| Antenna Size     | 3.6 m                                  |
+| Propulsion       | Available                              |
+| Mission Life     | ?                                      |
+| Center Frequency | 9.6 GHz (X-Band)                       |
+| Look Direction   | Left or Right in Direction of Movement |
+| Chirp Bandwidth  | ~600MHz                                |
+| RF Peak Power    | 2kW                                    |
+| Polarization     | HH or VV                               |
+| Off-Nadir Angel  | 15-50 degrees                          |
+
+
+![[Pasted image 20250206200053.png]]
 
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
