@@ -49,8 +49,8 @@ QPS-SAR of the Institute for Q-shu Pioneers of Space, Inc. (iQPS) is a Japanese 
 | Polarization     | HH or VV                               |
 | Off-Nadir Angel  | 15-50 degrees                          |
 
+![[Pasted image 20250206205443.png]]
 
-![[Pasted image 20250206200053.png]]
 
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start

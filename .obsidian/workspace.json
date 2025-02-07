@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Earth Observation",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 328.5
   },
   "right": {
     "id": "d6554af7f7699467",
@@ -189,13 +189,14 @@
   },
   "active": "96f90a8dad6d0506",
   "lastOpenFiles": [
+    "Vault-Assets/Images/Pasted image 20250206205443.png",
+    "Vault-Assets/Images/Pasted image 20250206201150.png",
+    "Organization/Partners/iQPS.md",
+    "Vault-Assets/Images/Pasted image 20250206200053.png",
     "✅ Welcome.md",
     "🎙️ Interviews.md",
     "🚀 Launches.md",
     "💼 SEC Filings (2024).md",
-    "Vault-Assets/Images/Pasted image 20250206201150.png",
-    "Vault-Assets/Images/Pasted image 20250206200053.png",
-    "Organization/Partners/iQPS.md",
     "Launch/Launches/042 'The Moon God Awakens' - Electron.md",
     "Launch/Launches/058 'Owl The Way Up' - Electron.md",
     "Space Systems/📦 Payload Types.md",
@@ -227,7 +228,6 @@
     "Vault-Assets/favicon.ico",
     "favicon-32.png",
     "Pasted image 20250120005307.png",
-    "rat_rocket_no_background-removebg-preview.png",
     "Vault-Assets/PDFs/Rocket_Lab_Report_Final.pdf",
     "Misc/Reports",
     "Misc",
