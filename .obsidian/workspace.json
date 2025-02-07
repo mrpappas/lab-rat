@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💼 SEC Filings (2024).md",
-                "mode": "preview",
+                "file": "Organization/Partners/iQPS.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "💼 SEC Filings (2024)"
+              "title": "iQPS"
             }
           }
         ]
@@ -189,11 +189,14 @@
   },
   "active": "96f90a8dad6d0506",
   "lastOpenFiles": [
+    "✅ Welcome.md",
+    "🎙️ Interviews.md",
+    "🚀 Launches.md",
+    "💼 SEC Filings (2024).md",
     "Vault-Assets/Images/Pasted image 20250206201150.png",
     "Vault-Assets/Images/Pasted image 20250206200053.png",
     "Organization/Partners/iQPS.md",
     "Launch/Launches/042 'The Moon God Awakens' - Electron.md",
-    "🚀 Launches.md",
     "Launch/Launches/058 'Owl The Way Up' - Electron.md",
     "Space Systems/📦 Payload Types.md",
     "Organization/Partners/Synspective.md",
@@ -205,15 +208,12 @@
     "synthetic aperture radar (SAR).md",
     "📰 News.md",
     "News/Firefly’s Blue Ghost Spacecraft Begins Journey to Moon, Supported by Rocket Lab Software and Components.md",
-    "💼 SEC Filings (2024).md",
     "News/'It's a Test' - Live News Updates  Rocket Lab.md",
     "Filings/2025/Form 4/2025-02-05 Form 4 - Khosla Ventures.md",
     "News/Rocket Lab Successfully Launches 50th Electron Mission, Deploys Satellites for Kinéis.md",
     "Financial/Pre-IPO Investors/Khosla Ventures.md",
     "🤝 Partners.md",
     "📋 To Do List.md",
-    "✅ Welcome.md",
-    "🎙️ Interviews.md",
     "🏛️ Board of Directors.md",
     "💰 Acquisitions.md",
     "Vault-Assets/Images/Pasted image 20250205212005.jpg",
