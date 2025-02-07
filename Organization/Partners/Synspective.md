@@ -32,7 +32,6 @@ sort launch_date desc
 
 %%DATAVIEW_PUBLISHER: end %%
 
-
 ## 🛰️ Space Systems
 
 ### StriX
@@ -55,15 +54,6 @@ Synspective's StriX satellites are a series of small, innovative, and cost-effec
 | **RF Peak Power**    | 1kW                                                                                                   |
 | **Polarization**     | VV                                                                                                    |
 | **Off-Nadir Angle**  | 15 – 45 degrees                                                                                       |
-
-Example use cases include:
-
-- detecting anomalies in road, rail, energy and other infrastructure, resulting in lower maintenance costs and accident risk,
-- monitoring crop growth conditions and analyzing soil and vegetation health to help reduce costs and increase efficiency for farmers,
-- detecting illegal logging and fishing in the most remote parts of the world,
-- providing rapid damage assessment after flooding, landslides and volcanic eruptions, as well as risk assessment for land subsidence,
-- enabling the persistent monitoring of maritime traffic, border activities and other potential security threats, and advances maritime domain awareness,
-- analyzing tree cover to calculate CO2 absorption and carbon credits.
 
 
 ![[Pasted image 20241224215520.png]]

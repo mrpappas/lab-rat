@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organization/Partners/iQPS.md",
+                "file": "Organization/Partners/Synspective.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "iQPS"
+              "title": "Synspective"
             }
           }
         ]
@@ -189,9 +189,10 @@
   },
   "active": "96f90a8dad6d0506",
   "lastOpenFiles": [
-    "Launch/Launches/042 'The Moon God Awakens' - Electron.md",
-    "Organization/Partners/iQPS.md",
+    "Space Systems/📦 Payload Types.md",
     "Organization/Partners/Synspective.md",
+    "Organization/Partners/iQPS.md",
+    "Launch/Launches/042 'The Moon God Awakens' - Electron.md",
     "Organization/Partners/The University of Auckland.md",
     "Organization/Partners/Trisept.md",
     "Organization/Partners/Tyvak Nano-Satellite Systems.md",
@@ -206,7 +207,6 @@
     "🚀 Launches.md",
     "💼 SEC Filings (2024).md",
     "Launch/Launches/058 'Owl The Way Up' - Electron.md",
-    "Space Systems/📦 Payload Types.md",
     "💼 SEC Filings (2025).md",
     "💼 SEC Filings (All).md",
     "Organization/People/Vinod Khosla.md",

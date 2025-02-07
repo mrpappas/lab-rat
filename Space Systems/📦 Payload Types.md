@@ -4,9 +4,19 @@ Synthetic aperture radar (SAR) is a type of active data collection where an inst
 
 [More Info on SAR](https://www.earthdata.nasa.gov/learn/earth-observation-data-basics/sar)
 
-![[Pasted image 20250206201150.png]]
-
 <iframe width="564" height="322" src="https://www.youtube.com/embed/u2bUKEi9It4" title="Satellites Use &#39;This Weird Trick&#39; To See More Than They Should - Synthetic Aperture Radar Explained." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Example use cases:
+
+- detecting anomalies in road, rail, energy and other infrastructure, resulting in lower maintenance costs and accident risk,
+- monitoring crop growth conditions and analyzing soil and vegetation health to help reduce costs and increase efficiency for farmers,
+- detecting illegal logging and fishing in the most remote parts of the world,
+- providing rapid damage assessment after flooding, landslides and volcanic eruptions, as well as risk assessment for land subsidence,
+- enabling the persistent monitoring of maritime traffic, border activities and other potential security threats, and advances maritime domain awareness,
+- analyzing tree cover to calculate CO2 absorption and carbon credits.
+
+
+![[Pasted image 20250206201150.png]]
 
 ## Internet of Things (IoT)
 
