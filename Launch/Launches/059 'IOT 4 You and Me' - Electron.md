@@ -72,5 +72,5 @@ sort published desc
 %%DATAVIEW_PUBLISHER: end %%
 
 <div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/7Al5hWmjoxQ" title="Rocket Lab - &#39;IoT 4 U &amp; Me&#39; Launch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/7Al5hWmjoxQ" title="Rocket Lab - &#39;IoT 4 U &amp; Me&#39; Launch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
