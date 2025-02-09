@@ -62,6 +62,8 @@ sort published desc
 
 ## 📽️ Launch Video
 
-![](https://www.youtube.com/watch?v=-7VZB4pHJrQ)
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/-7VZB4pHJrQ" title="Rocket Lab - &#39;Owl The Way Up&#39; Launch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen tabindex="-1"></iframe>
+</div>
 
 ![https://x.com/RocketLab/status/1870426311996625165](https://x.com/RocketLab/status/1870426311996625165)

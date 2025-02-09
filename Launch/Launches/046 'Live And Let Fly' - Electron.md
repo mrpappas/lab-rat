@@ -59,5 +59,6 @@ sort published desc
 
 ## 📽️ Launch Video
 
-
-![](https://www.youtube.com/watch?v=Coa3GZtotQo)
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/Coa3GZtotQo" title="Rocket Lab&#39;s Electron - Live And Let Fly Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
+</div>

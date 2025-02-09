@@ -69,5 +69,6 @@ sort published desc
 
 ## 📽️ Launch Video
 
-![](https://www.youtube.com/watch?v=iLwTLqaCnQ8)
-
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/iLwTLqaCnQ8" title="Rocket Lab&#39;s Electron - The Moon God Awakens Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
+</div>

@@ -65,4 +65,7 @@ sort published desc
 
 ## 📽️ Launch Video
 
-![](https://www.youtube.com/watch?v=NDyxRPGWhRo)
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/NDyxRPGWhRo" title="Rocket Lab&#39;s Electron - Four Of A Kind Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
+</div>
+

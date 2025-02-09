@@ -63,4 +63,6 @@ sort published desc
 
 ## 📽️ Launch Video
 
-![](https://www.youtube.com/watch?v=m7nYAJ4dZP4)
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/m7nYAJ4dZP4" title="Rocket Lab&#39;s Electron - Ready, Aim, PREFIRE Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
+</div>

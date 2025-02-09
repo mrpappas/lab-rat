@@ -62,5 +62,6 @@ sort published desc
 
 ## 📽️ Launch Video
 
-![](https://www.youtube.com/watch?v=ZdikUDvKYmc)
-
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/ZdikUDvKYmc" title="Rocket Lab&#39;s Electron - Owl For One, One For Owl Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
+</div>
