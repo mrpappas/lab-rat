@@ -61,6 +61,4 @@ sort published desc
 
 ## 📽️ Launch Video
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/qBBhzkNzcYQ" title="Rocket Lab&#39;s Electron - PREFIRE and ICE Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
-</div>
+![](https://www.youtube.com/watch?v=qBBhzkNzcYQ)

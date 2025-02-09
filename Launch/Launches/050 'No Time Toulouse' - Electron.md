@@ -62,10 +62,7 @@ sort published desc
 
 ## 📽️ Launch Video
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/MYpQkHw9s1I" title="Rocket Lab&#39;s Electron - No Time Toulouse Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
-</div>
-
+![](https://www.youtube.com/watch?v=MYpQkHw9s1I)
 ## ✏️ Notes
 
 - First of Five dedicated launches for [[Kinéis]]' IoT Constellation

@@ -64,9 +64,7 @@ sort published desc
 
 ## 📽️ Launch Video
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/beVTGh_PrA0" title="Rocket Lab&#39;s Electron - Kinéis Killed the RadIOT Star Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
-</div>
+![](https://www.youtube.com/watch?v=beVTGh_PrA0)
 
 ## ✏️ Notes
 

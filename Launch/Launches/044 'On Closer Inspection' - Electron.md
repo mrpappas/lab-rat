@@ -62,14 +62,8 @@ sort published desc
 
 ## 📽️ Launch Video
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/dcuZMP1m_g8" title="Rocket Lab&#39;s Electron - On Closer Inspection Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
-</div>
-
+![](https://www.youtube.com/watch?v=dcuZMP1m_g8)
 ### Mission Concept Video
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/IavkwZi7ME8" title="ADRAS-J | Active Debris Removal by Astroscale - Japan | Concept of Operations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-
+![](https://www.youtube.com/watch?v=IavkwZi7ME8)
 

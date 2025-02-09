@@ -71,7 +71,4 @@ sort published desc
 
 ## 📽️ Launch Video
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/GF9cWWkSlsQ" title="Rocket Lab&#39;s Electron - Owl Night Long Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
-</div>
-
+![](https://www.youtube.com/watch?v=GF9cWWkSlsQ)
