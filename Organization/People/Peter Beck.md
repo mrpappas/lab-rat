@@ -35,7 +35,7 @@ sort Filing_Date desc
 
 | File                                                                                                                                                             | Filing Type                                                  | Date               |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ------------------ |
-| [[Filings/2025/Form 4/2025-01-10 Form 4 - Peter Beck.md\|2025-01-10 Form 4 - Peter Beck]]                                                                        | [[Filings/Filing Definitions.md#Form 4\|Form 4]]             | January 10, 2025   |
+| [[Filings/2025/Form 4/01-10-25 Form 4 - Peter Beck.md\|01-10-25 Form 4 - Peter Beck]]                                                                            | [[Filings/Filing Definitions.md#Form 4\|Form 4]]             | January 10, 2025   |
 | [[Filings/2025/13G + 13D/01-07-2025 13D - Preferred Stock Exchange and Ownership Details.md\|01-07-2025 13D - Preferred Stock Exchange and Ownership Details]]   | [[Filings/Filing Definitions.md#Schedule 13D\|Schedule 13D]] | January 07, 2025   |
 | [[Filings/2025/8-K/01-07-2025 8-K - Preferred Stock Exchange with The Equatorial Trust.md\|01-07-2025 8-K - Preferred Stock Exchange with The Equatorial Trust]] | [[Filings/Filing Definitions.md#8-K\|8-K]]                   | January 07, 2025   |
 | [[Filings/2024/13G+13D/12-05-24 SC 13DA - Peter Beck.md\|12-05-24 SC 13DA - Peter Beck]]                                                                         | [[Filings/Filing Definitions.md#Schedule 13D\|Schedule 13D]] | December 05, 2024  |

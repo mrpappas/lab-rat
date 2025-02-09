@@ -22,7 +22,6 @@ Filing_Date: 2025-02-05
 **Remaining Holdings**: 21,323,617  
 **Change in Holdings**: <span style="color:orangered">-8.57%</span>  
 
----
 
 ## Notes
 
@@ -31,7 +30,6 @@ Filing_Date: 2025-02-05
 - Following these transactions, **remaining beneficial holdings** of [[Khosla Ventures]] totaled **21,323,617 shares**.
 - A portion of the distributed shares was received by **[[VK Services, LLC]]**.
 
----
 
 ## Filing
 
