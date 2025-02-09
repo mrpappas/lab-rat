@@ -7,6 +7,7 @@ Filing_Party: "[[Khosla Ventures]]"
 Insider: "[[Vinod Khosla]]"
 Filing_Type: "[[Filing Definitions#Form 4|Form 4]]"
 Filing_Date: 2025-01-31
+Shares_Sold: 3,000,000
 ---
 
 ## Filing Overview
