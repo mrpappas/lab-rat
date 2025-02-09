@@ -19,27 +19,27 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/iot-4-you-
 
 #electron #launch #success
 **Mission Name:** IOT 4 You and Me
-**Launch Date:** 2025-02-04 09:43 am NZDT / 2025-02-03 20:43 UTC  (scheduled)
-**Outcome:** 
+**Launch Date:** 2025-02-09 09:43 am NZDT / 2025-02-03 20:43 UTC
+**Outcome:** Success
 **Customer:** [[Kinéis]]
 **Location:** [[Launch Complex 1]]
 **Vehicle:** [[Electron]]
 **Orbit Type:** [[🌍 Orbits#SSO]]
-target_orbit: 643 km | 98° (estimate based on previous missions)
-payload_mass: 150 kg (estimate based on previous missions)
-recovery: no attempt likely
-mission_link: https://www.rocketlabusa.com/missions/missions-launched/iot-4-you-and-me/
-**Press Kit**: 
+**Target Orbit**: 643 km | 98°
+**Payload Mass**: 150 kg 
+**Recovery**: no attempt
+**Mission Link**: https://www.rocketlabusa.com/missions/missions-launched/iot-4-you-and-me/
+**Press Kit**: [[IOT-4-You-and-Me-Press-Kit.pdf]]
+
+>[!Success] Mission Success
 
 >[!summary]
->>[!warning] Launch Scheduled for February 4th 09:43 am NZDT / February 3rd 20:43 UTC
->The “IOT 4 You and Me” mission is scheduled to launch during window that opens on February 4th NZDT. Within the multi-day window, there is an instantaneous launch opportunity daily at 09:43 am NZDT (20:43 UTC).
 >
 >The launch will take place from Rocket Lab’s private orbital launch site,[[Launch Complex 1]], in New Zealand. The mission is the fourth of five dedicated Electron launches booked by [[Kinéis]] in a multi-launch contract that will see Rocket Lab deploy an entire constellation of 25 [[📦 Payload Types#Internet of Things (IoT)|IOT]] satellites.  The first three missions were successfully launched by Electron in June, September and November 2024.
 >
 “IOT 4 You and Me” is Rocket Lab’s first scheduled launch of 2025, with the company expecting this year to exceed its record-breaking launch cadence of 16 launches across Electron and HASTE achieved in 2024.
 >
-Created in 2018, Kinéis is a satellite operator and global connectivity provider. It inherited 40 years of expertise in the Argos system, founded by CNES (French space agency) and historically operated by CLS (Collecte Localisation Satellites). Its mission is to develop reliable technology that provides easy access to useful satellite data.
+Created in 2018, Kinéis is a satellite operator and global connectivity provider. It inherited 40 years of expertise in the Argos system, founded by [[CNES]] (French space agency) and historically operated by CLS (Collecte Localisation Satellites). Its mission is to develop reliable technology that provides easy access to useful satellite data.
 >
 Thanks to its constellation of 25 nanosatellites, Kinéis can connect any object from anywhere in the world and transmit useful data from these objects to users in near real time. This data is a decision-making tool that can be used to optimize activities while reducing risks, thanks to three essential functions: tracking, monitoring and alerting.
 >
@@ -68,3 +68,7 @@ sort published desc
 | [[News/Rocket Lab Schedules Next Electron Launch for Constellation Operator Kinéis.md\|Rocket Lab Schedules Next Electron Launch for Constellation Operator Kinéis]] | January 21, 2025 |
 
 %%DATAVIEW_PUBLISHER: end %%
+
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/7Al5hWmjoxQ" title="Rocket Lab - &#39;IoT 4 U &amp; Me&#39; Launch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>

@@ -20,7 +20,7 @@ This provides a great high level analysis of Rocket Lab's current business and p
 - [[📰 News]]
 - [[🏛️ Board of Directors]]
 - [[🟢 Subsidiaries]]
-- [[📊 Investor Presentations]]
+- [[📊 Earnings Calls]]
 
 ## 🛠️ Want to contribute? 
 

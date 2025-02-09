@@ -13,16 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organization/Partners/Synspective.md",
+                "file": "Financial/Quarterly Reports/Investor Presentations.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Synspective"
+              "title": "Investor Presentations"
+            }
+          },
+          {
+            "id": "ea77b4e6affa86d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Financial/Quarterly Reports/2024 Q3.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2024 Q3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "/Rocket-Lab-Announces-Second-Quarter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -187,37 +203,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96f90a8dad6d0506",
+  "active": "ea77b4e6affa86d4",
   "lastOpenFiles": [
-    "Space Systems/📦 Payload Types.md",
-    "Organization/Partners/Synspective.md",
-    "Organization/Partners/iQPS.md",
-    "Launch/Launches/042 'The Moon God Awakens' - Electron.md",
-    "Organization/Partners/The University of Auckland.md",
-    "Organization/Partners/Trisept.md",
-    "Organization/Partners/Tyvak Nano-Satellite Systems.md",
-    "Organization/Partners/U.S. Air Force.md",
-    "Organization/Partners/U.S. Army.md",
-    "Organization/Partners/Unseenlabs.md",
+    "Financial/Quarterly Reports/2021 Q4.md",
+    "Financial/Quarterly Reports/2021 Q3.md",
+    "Financial/Quarterly Reports/2021 Q2.md",
+    "Financial/Quarterly Reports/2022 Q1.md",
+    "Financial/Quarterly Reports/2022 Q2.md",
+    "Financial/Quarterly Reports/2022 Q3.md",
+    "Financial/Quarterly Reports/2022 Q4.md",
+    "Financial/Quarterly Reports/2023 Q1.md",
+    "Financial/Quarterly Reports/2023 Q2.md",
+    "Financial/Quarterly Reports/2023 Q3.md",
+    "Financial/Quarterly Reports/2023 Q4.md",
+    "Financial/Quarterly Reports/2024 Q1.md",
+    "Financial/Quarterly Reports/2024 Q2.md",
+    "Financial/Quarterly Reports/2024 Q3.md",
+    "📊 Earnings Calls.md",
+    "Financial/Quarterly Reports/Investor Presentations.md",
+    "✅ Welcome.md",
+    "💼 SEC Filings (All).md",
+    "🎙️ Interviews.md",
+    "🏛️ Board of Directors.md",
+    "💰 Acquisitions.md",
+    "📋 To Do List.md",
+    "💼 SEC Filings (2025).md",
+    "💼 SEC Filings (2024).md",
+    "🚀 Launches.md",
+    "Filings/2023/10-Q/8-08-23 10-Q - Quarterly Report.md",
+    "Vault-Assets/PDFs/5b4c56bf-7152-4c40-a021-9949df78f84e.pdf",
+    "Vault-Assets/PDFs/IOT-4-You-and-Me-Press-Kit.pdf",
     "Vault-Assets/Images/Pasted image 20250206205443.png",
     "Vault-Assets/Images/Pasted image 20250206201150.png",
     "Vault-Assets/Images/Pasted image 20250206200053.png",
-    "✅ Welcome.md",
-    "🎙️ Interviews.md",
-    "🚀 Launches.md",
-    "💼 SEC Filings (2024).md",
-    "Launch/Launches/058 'Owl The Way Up' - Electron.md",
-    "💼 SEC Filings (2025).md",
-    "💼 SEC Filings (All).md",
-    "Organization/People/Vinod Khosla.md",
-    "Filings/2024/Form 4/8-28-24 Form 4 - Khosla Ventures.md",
-    "News/Rocket Lab Signs Multi-Launch Contract with iQPS for Four Electron Missions.md",
-    "synthetic aperture radar (SAR).md",
-    "📰 News.md",
-    "News/Firefly’s Blue Ghost Spacecraft Begins Journey to Moon, Supported by Rocket Lab Software and Components.md",
-    "News/'It's a Test' - Live News Updates  Rocket Lab.md",
-    "Filings/2025/Form 4/2025-02-05 Form 4 - Khosla Ventures.md",
-    "News/Rocket Lab Successfully Launches 50th Electron Mission, Deploys Satellites for Kinéis.md",
     "Vault-Assets/Images/Pasted image 20250205212005.jpg",
     "Vault-Assets/PDFs/805261d6-9bc9-4ef9-800f-fe44cb830c1f.pdf",
     "Vault-Assets/PDFs/14c7b142-4f6a-4245-8c15-42785b73a963.pdf",
@@ -233,8 +251,6 @@
     "Misc/Reports",
     "Misc",
     "Vault-Assets/PDFs/EXC22_017 - Photon Doc_ƒ [Web].pdf",
-    "Vault-Assets/PDFs/Ice-AIS-Baby-Press-Kit2.pdf",
-    "Vault-Assets/PDFs/Owl-The-Way-Up-Press-Kit (1).pdf",
     "Untitled.canvas",
     "Subsidiaries/Untitled.canvas"
   ]

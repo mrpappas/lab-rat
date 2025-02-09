@@ -2,6 +2,7 @@ List of Interviews with Peter Beck and Adam Spice.
 
 | **Link**                                                                                                                                                                                                              | **Date**   |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [The Planetary Society - MSR](https://www.youtube.com/watch?v=QEXSdcl_2SU)                                                                                                                                            | 02/07/2025 |
 | [Sir Peter Beck on Competing with Elon Musk & Jeff Bezos, Life on Venus & Inspiration for Rocket Lab](https://www.youtube.com/watch?v=U17It-CH4o4)                                                                    | 02/02/2025 |
 | [Space Minds with Peter Beck](https://www.youtube.com/watch?v=OVmkGZ4fSTA)                                                                                                                                            | 01/23/2025 |
 | [Rocket Lab CEO on New Spacecraft, Trump Presidency, and Mission to Venus](https://www.youtube.com/watch?v=mvhF8tZitug)                                                                                               | 01/21/2025 |
