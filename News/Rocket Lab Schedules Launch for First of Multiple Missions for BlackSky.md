@@ -22,7 +22,7 @@ tags:
 >Published: 2025-02-10
 >Customer: [[BlackSky]]
 
-*The mission, Rocket Lab’s ninth launch for BlackSky overall, will launch from Rocket [[Lab Launch Complex 1]] in New Zealand in February.*
+*The mission, Rocket Lab’s ninth launch for BlackSky overall, will launch from Rocket Lab [[Launch Complex 1]] in New Zealand in February.*
 
 **Long Beach, Calif. February 10, 2025**: Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced it will soon launch a satellite on a dedicated [[Electron]] mission, the first of a bulk order of multiple new missions for real-time space-based intelligence company [[BlackSky]] (NYSE: [BSKY](https://ir.blacksky.com/)).
 
