@@ -65,9 +65,10 @@ sort published desc
 ```
 %%
 
-| File                                                                                                                                                                 | Published        |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
-| [[News/Rocket Lab Schedules Next Electron Launch for Constellation Operator Kinéis.md\|Rocket Lab Schedules Next Electron Launch for Constellation Operator Kinéis]] | January 21, 2025 |
+| File                                                                                                                                                                 | Published         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[News/Rocket Lab Launches Next Batch of Satellites for Kinéis Constellation.md\|Rocket Lab Launches Next Batch of Satellites for Kinéis Constellation]]             | February 08, 2025 |
+| [[News/Rocket Lab Schedules Next Electron Launch for Constellation Operator Kinéis.md\|Rocket Lab Schedules Next Electron Launch for Constellation Operator Kinéis]] | January 21, 2025  |
 
 %%DATAVIEW_PUBLISHER: end %%
 

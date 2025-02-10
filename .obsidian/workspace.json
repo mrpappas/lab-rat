@@ -8,18 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7e66b5f578258480",
+            "id": "2aec4f341d5e2fcd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Launch/Launches/059 'IOT 4 You and Me' - Electron.md",
+                "file": "News/Rocket Lab Schedules Launch for First of Multiple Missions for BlackSky.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "059 'IOT 4 You and Me' - Electron"
+              "title": "Rocket Lab Schedules Launch for First of Multiple Missions for BlackSky"
             }
           }
         ]
@@ -187,11 +187,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6449ebb6b9cf2b96",
+  "active": "2aec4f341d5e2fcd",
   "lastOpenFiles": [
-    "Financial/Quarterly Reports/2024 Q3.md",
+    "Organization/Partners/BlackSky.md",
+    "News/Rocket Lab Schedules Launch for First of Multiple Missions for BlackSky.md",
+    "📰 News.md",
+    "News/Rocket Lab Launches Next Batch of Satellites for Kinéis Constellation.md",
+    "Organization/Partners/Kinéis.md",
     "Launch/Launches/059 'IOT 4 You and Me' - Electron.md",
     "🚀 Launches.md",
+    "Pasted image 20250210171910.jpg",
+    "News/Rocket Lab Signs Multi-Launch Contract with iQPS for Four Electron Missions.md",
+    "Vault-Assets/PDFs/52595764-ce1d-4962-8bdb-562aa841e4d6.pdf",
+    "Vault-Assets/Images/Pasted image 20250210171140.jpg",
+    "Financial/Quarterly Reports/2024 Q3.md",
     "Financial/Quarterly Reports/2024 Q2.md",
     "Financial/Quarterly Reports/2024 Q1.md",
     "Financial/Quarterly Reports/2023 Q4.md",
@@ -209,13 +218,6 @@
     "Filings/2023/10-Q/8-08-23 10-Q - Quarterly Report.md",
     "✅ Welcome.md",
     "Launch/Launches/058 'Owl The Way Up' - Electron.md",
-    "Launch/Launches/057 'Stonehenge' - HASTE.md",
-    "Launch/Launches/056 'Ice AIS Baby' - Electron.md",
-    "Launch/Launches/055 'HASTE A La Vista' - HASTE.md",
-    "Launch/Launches/054 'Changes In Latitudes, Changes In Attitudes' - Electron.md",
-    "Launch/Launches/053 'Kineis Killed the RadIOT Star' - Electron.md",
-    "Launch/Launches/052 'A Sky Full Of SARs' - Electron.md",
-    "52595764-ce1d-4962-8bdb-562aa841e4d6.pdf",
     "Vault-Assets/PDFs/IOT-4-You-and-Me-Press-Kit.pdf",
     "Vault-Assets/PDFs/5b4c56bf-7152-4c40-a021-9949df78f84e.pdf",
     "Vault-Assets/Images/Pasted image 20250206205443.png",
@@ -230,8 +232,6 @@
     "favicon.ico.png",
     "favicon.png.png",
     "Vault-Assets/favicon.ico",
-    "favicon-32.png",
-    "Pasted image 20250120005307.png",
     "Vault-Assets/PDFs/Rocket_Lab_Report_Final.pdf",
     "Misc/Reports",
     "Misc",
