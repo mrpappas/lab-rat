@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✅ Welcome.md",
-                "mode": "preview",
+                "file": "Space Systems/Radios/Frontier-X Software Defined Radio.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "✅ Welcome"
+              "title": "Frontier-X Software Defined Radio"
             }
           }
         ]
@@ -189,11 +189,13 @@
   },
   "active": "2aec4f341d5e2fcd",
   "lastOpenFiles": [
-    "Launch/Launches/059 'IOT 4 You and Me' - Electron.md",
+    "🎙️ Interviews.md",
+    "Space Systems/Radios/Frontier-X Software Defined Radio.md",
+    "🛰️ Space Systems.md",
     "✅ Welcome.md",
+    "Launch/Launches/059 'IOT 4 You and Me' - Electron.md",
     "💸 Insider Sales.md",
     "🚀 Launches.md",
-    "🎙️ Interviews.md",
     "Financial/Quarterly Reports/2024 Q3.md",
     "News/Rocket Lab Schedules Launch for First of Multiple Missions for BlackSky.md",
     "Organization/Partners/BlackSky.md",
@@ -216,8 +218,6 @@
     "Financial/Quarterly Reports/2022 Q1.md",
     "Financial/Quarterly Reports/2021 Q4.md",
     "Financial/Quarterly Reports/2021 Q3.md",
-    "Financial/Quarterly Reports/2021 Q2.md",
-    "Financial/Quarterly Reports/Investor Presentations.md",
     "Vault-Assets/PDFs/IOT-4-You-and-Me-Press-Kit.pdf",
     "Vault-Assets/PDFs/5b4c56bf-7152-4c40-a021-9949df78f84e.pdf",
     "Vault-Assets/Images/Pasted image 20250206205443.png",

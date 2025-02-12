@@ -12,6 +12,12 @@ The Frontier-X by Rocket Lab is a high-speed, X-band, software-defined telemetry
 - Two-way Doppler and two-way ranging for navigation beyond low Earth orbit 
 - Non-regenerative (coherent turn-around) or regenerative PN ranging 
 - Very low data rates and beacon tones enable long range communications and signaling
+
+## Links
+
+[R&D 100 winner of the day: Frontier-X](https://www.rdworldonline.com/frontier-radio/)
+
+![](https://x.com/RocketLab/status/1889468306035450308)
 ## Data Sheet + Pricing
 
 ![[Frontier-X-S300177-v1.1.pdf]]
