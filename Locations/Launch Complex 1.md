@@ -103,54 +103,55 @@ sort launch_date desc
 ```
 %%
 
-| File                                                                                                                        | launch_date      |
-| --------------------------------------------------------------------------------------------------------------------------- | ---------------- |
-| [[Launch/Launches/058 'Owl The Way Up' - Electron.md\|058 'Owl The Way Up' - Electron]]                                     | 2024-12-21 14:16 |
-| [[Launch/Launches/056 'Ice AIS Baby' - Electron.md\|056 'Ice AIS Baby' - Electron]]                                         | 2024-11-25 04:55 |
-| [[Launch/Launches/053 'Kineis Killed the RadIOT Star' - Electron.md\|053 'Kineis Killed the RadIOT Star' - Electron]]       | 2024-09-20 23:01 |
-| [[Launch/Launches/052 'A Sky Full Of SARs' - Electron.md\|052 'A Sky Full Of SARs' - Electron]]                             | 2024-08-11 13:18 |
-| [[Launch/Launches/051 'Owl For One, One For Owl' - Electron.md\|051 'Owl For One, One For Owl' - Electron]]                 | 2024-08-02 16:39 |
-| [[Launch/Launches/050 'No Time Toulouse' - Electron.md\|050 'No Time Toulouse' - Electron]]                                 | 2024-06-18 18:13 |
-| [[Launch/Launches/049 'PREFIRE and ICE' - Electron.md\|049 'PREFIRE and ICE' - Electron]]                                   | 2024-06-05 03:15 |
-| [[Launch/Launches/048 'Ready, Aim, Prefire' - Electron.md\|048 'Ready, Aim, Prefire' - Electron]]                           | 2024-05-25 07:15 |
-| [[Launch/Launches/047 'Beginning Of The Swarm' - Electron.md\|047 'Beginning Of The Swarm' - Electron]]                     | 2024-04-23 22:00 |
-| [[Launch/Launches/044 'On Closer Inspection' - Electron.md\|044 'On Closer Inspection' - Electron]]                         | 2024-02-19 14:52 |
-| [[Launch/Launches/043 'Four Of A Kind' - Electron.md\|043 'Four Of A Kind' - Electron]]                                     | 2024-01-31 06:34 |
-| [[Launch/Launches/042 'The Moon God Awakens' - Electron.md\|042 'The Moon God Awakens' - Electron]]                         | 2023-12-15 04:05 |
-| [[Launch/Launches/041 'We Will Never Desert You' - Electron.md\|041 'We Will Never Desert You' - Electron]]                 | 2023-09-19 06:55 |
-| [[Launch/Launches/040 'We Love The Nightlife' - Electron.md\|040 'We Love The Nightlife' - Electron]]                       | 2023-08-24 23:45 |
-| [[Launch/Launches/039 'Baby Come Back' - Electron.md\|039 'Baby Come Back' - Electron]]                                     | 2023-07-18 01:27 |
-| [[Launch/Launches/037 'Coming To A Storm Near You' - Electron.md\|037 'Coming To A Storm Near You' - Electron]]             | 2023-05-26 03:46 |
-| [[Launch/Launches/036 'Rocket Like A Hurricane' - Electron.md\|036 'Rocket Like A Hurricane' - Electron]]                   | 2023-05-08 01:00 |
-| [[Launch/Launches/035 'The Beat Goes On' - Electron.md\|035 'The Beat Goes On' - Electron]]                                 | 2023-03-24 09:14 |
-| [[Launch/Launches/032 'Catch Me If You Can' - Electron.md\|032 'Catch Me If You Can' - Electron]]                           | 2022-11-04 17:27 |
-| [[Launch/Launches/031 'It Argos Up From Here' - Electron.md\|031 'It Argos Up From Here' - Electron]]                       | 2022-10-07 17:09 |
-| [[Launch/Launches/030 'The Owl Spreads Its Wings' - Electron.md\|030 'The Owl Spreads Its Wings' - Electron]]               | 2022-09-15 20:30 |
-| [[Launch/Launches/029 'Antipodean Adventure' - Electron.md\|029 'Antipodean Adventure' - Electron]]                         | 2022-08-04 05:00 |
-| [[Launch/Launches/028 'Wise One Looks Ahead' - Electron.md\|028 'Wise One Looks Ahead' - Electron]]                         | 2022-07-13 06:30 |
-| [[Launch/Launches/027 'CAPSTONE' - Electron.md\|027 'CAPSTONE' - Electron]]                                                 | 2022-06-28 09:55 |
-| [[Launch/Launches/026 'There And Back Again' - Electron.md\|026 'There And Back Again' - Electron]]                         | 2022-05-02 22:49 |
-| [[Launch/Launches/025 'Without Mission A Beat' - Electron.md\|025 'Without Mission A Beat' - Electron]]                     | 2022-04-02 12:41 |
-| [[Launch/Launches/024 'The Owl's Night Continues' - Electron.md\|024 'The Owl's Night Continues' - Electron]]               | 2022-02-28 20:37 |
-| [[Launch/Launches/023 'A Data With Destiny' - Electron.md\|023 'A Data With Destiny' - Electron]]                           | 2021-12-09 00:02 |
-| [[Launch/Launches/021 'It's A Little Chile Up Here' - Electron.md\|021 'It's A Little Chile Up Here' - Electron]]           | 2021-07-29 06:00 |
-| [[Launch/Launches/020 'Running Out Of Toes' - Electron.md\|020 'Running Out Of Toes' - Electron]]                           | 2021-05-15 11:11 |
-| [[Launch/Launches/018 'Another One Leaves the Crust' - Electron.md\|018 'Another One Leaves the Crust' - Electron]]         | 2021-01-20 07:26 |
-| [[Launch/Launches/017 'The Owl's Night Begins' - Electron.md\|017 'The Owl's Night Begins' - Electron]]                     | 2020-12-15 10:09 |
-| [[Launch/Launches/016 'Return to Sender' - Electron.md\|016 'Return to Sender' - Electron]]                                 | 2020-11-20 02:20 |
-| [[Launch/Launches/015 'In Focus' - Electron.md\|015 'In Focus' - Electron]]                                                 | 2020-10-28 21:21 |
-| [[Launch/Launches/014 'I Can't Believe It's Not Optical' - Electron.md\|014 'I Can't Believe It's Not Optical' - Electron]] | 2020-08-31 03:05 |
-| [[Launch/Launches/013 'Pics Or It Didn't Happen' - Electron.md\|013 'Pics Or It Didn't Happen' - Electron]]                 | 2020-07-04 21:19 |
-| [[Launch/Launches/012 'Don't Stop Me Now' - Electron.md\|012 'Don't Stop Me Now' - Electron]]                               | 2020-06-13 05:12 |
-| [[Launch/Launches/011 'Birds of a Feather' - Electron.md\|011 'Birds of a Feather' - Electron]]                             | 2020-01-31 02:56 |
-| [[Launch/Launches/010 'Running Out Of Fingers' - Electron.md\|010 'Running Out Of Fingers' - Electron]]                     | 2019-12-06 08:18 |
-| [[Launch/Launches/009 'As The Crow Flies' - Electron.md\|009 'As The Crow Flies' - Electron]]                               | 2019-10-17 01:22 |
-| [[Launch/Launches/008 'Look Ma, No Hands' - Electron.md\|008 'Look Ma, No Hands' - Electron]]                               | 2019-08-19 12:12 |
-| [[Launch/Launches/007 'Make it Rain' - Electron.md\|007 'Make it Rain' - Electron]]                                         | 2019-06-29 04:30 |
-| [[Launch/Launches/006 'STP-27RD' - Electron.md\|006 'STP-27RD' - Electron]]                                                 | 2019-05-05 06:00 |
-| [[Launch/Launches/005 'DARPA R3D2' - Electron.md\|005 'DARPA R3D2' - Electron]]                                             | 2019-03-28 23:27 |
-| [[Launch/Launches/004 'NASA ELaNa-19' - Electron.md\|004 'NASA ELaNa-19' - Electron]]                                       | 2018-12-16 06:33 |
-| [[Launch/Launches/002 'Still Testing' - Electron.md\|002 'Still Testing' - Electron]]                                       | 2018-01-21 02:43 |
-| [[Launch/Launches/001 'It's a Test' - Electron.md\|001 'It's a Test' - Electron]]                                           | 2017-05-25 04:20 |
+| File                                                                                                                        | launch_date              |
+| --------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| [[Launch/Launches/060 'Fasten Your Space Belts' - Electron.md\|060 'Fasten Your Space Belts' - Electron]]                   | 2025-02-19 12:17 pm NZDT |
+| [[Launch/Launches/058 'Owl The Way Up' - Electron.md\|058 'Owl The Way Up' - Electron]]                                     | 2024-12-21 14:16         |
+| [[Launch/Launches/056 'Ice AIS Baby' - Electron.md\|056 'Ice AIS Baby' - Electron]]                                         | 2024-11-25 04:55         |
+| [[Launch/Launches/053 'Kineis Killed the RadIOT Star' - Electron.md\|053 'Kineis Killed the RadIOT Star' - Electron]]       | 2024-09-20 23:01         |
+| [[Launch/Launches/052 'A Sky Full Of SARs' - Electron.md\|052 'A Sky Full Of SARs' - Electron]]                             | 2024-08-11 13:18         |
+| [[Launch/Launches/051 'Owl For One, One For Owl' - Electron.md\|051 'Owl For One, One For Owl' - Electron]]                 | 2024-08-02 16:39         |
+| [[Launch/Launches/050 'No Time Toulouse' - Electron.md\|050 'No Time Toulouse' - Electron]]                                 | 2024-06-18 18:13         |
+| [[Launch/Launches/049 'PREFIRE and ICE' - Electron.md\|049 'PREFIRE and ICE' - Electron]]                                   | 2024-06-05 03:15         |
+| [[Launch/Launches/048 'Ready, Aim, Prefire' - Electron.md\|048 'Ready, Aim, Prefire' - Electron]]                           | 2024-05-25 07:15         |
+| [[Launch/Launches/047 'Beginning Of The Swarm' - Electron.md\|047 'Beginning Of The Swarm' - Electron]]                     | 2024-04-23 22:00         |
+| [[Launch/Launches/044 'On Closer Inspection' - Electron.md\|044 'On Closer Inspection' - Electron]]                         | 2024-02-19 14:52         |
+| [[Launch/Launches/043 'Four Of A Kind' - Electron.md\|043 'Four Of A Kind' - Electron]]                                     | 2024-01-31 06:34         |
+| [[Launch/Launches/042 'The Moon God Awakens' - Electron.md\|042 'The Moon God Awakens' - Electron]]                         | 2023-12-15 04:05         |
+| [[Launch/Launches/041 'We Will Never Desert You' - Electron.md\|041 'We Will Never Desert You' - Electron]]                 | 2023-09-19 06:55         |
+| [[Launch/Launches/040 'We Love The Nightlife' - Electron.md\|040 'We Love The Nightlife' - Electron]]                       | 2023-08-24 23:45         |
+| [[Launch/Launches/039 'Baby Come Back' - Electron.md\|039 'Baby Come Back' - Electron]]                                     | 2023-07-18 01:27         |
+| [[Launch/Launches/037 'Coming To A Storm Near You' - Electron.md\|037 'Coming To A Storm Near You' - Electron]]             | 2023-05-26 03:46         |
+| [[Launch/Launches/036 'Rocket Like A Hurricane' - Electron.md\|036 'Rocket Like A Hurricane' - Electron]]                   | 2023-05-08 01:00         |
+| [[Launch/Launches/035 'The Beat Goes On' - Electron.md\|035 'The Beat Goes On' - Electron]]                                 | 2023-03-24 09:14         |
+| [[Launch/Launches/032 'Catch Me If You Can' - Electron.md\|032 'Catch Me If You Can' - Electron]]                           | 2022-11-04 17:27         |
+| [[Launch/Launches/031 'It Argos Up From Here' - Electron.md\|031 'It Argos Up From Here' - Electron]]                       | 2022-10-07 17:09         |
+| [[Launch/Launches/030 'The Owl Spreads Its Wings' - Electron.md\|030 'The Owl Spreads Its Wings' - Electron]]               | 2022-09-15 20:30         |
+| [[Launch/Launches/029 'Antipodean Adventure' - Electron.md\|029 'Antipodean Adventure' - Electron]]                         | 2022-08-04 05:00         |
+| [[Launch/Launches/028 'Wise One Looks Ahead' - Electron.md\|028 'Wise One Looks Ahead' - Electron]]                         | 2022-07-13 06:30         |
+| [[Launch/Launches/027 'CAPSTONE' - Electron.md\|027 'CAPSTONE' - Electron]]                                                 | 2022-06-28 09:55         |
+| [[Launch/Launches/026 'There And Back Again' - Electron.md\|026 'There And Back Again' - Electron]]                         | 2022-05-02 22:49         |
+| [[Launch/Launches/025 'Without Mission A Beat' - Electron.md\|025 'Without Mission A Beat' - Electron]]                     | 2022-04-02 12:41         |
+| [[Launch/Launches/024 'The Owl's Night Continues' - Electron.md\|024 'The Owl's Night Continues' - Electron]]               | 2022-02-28 20:37         |
+| [[Launch/Launches/023 'A Data With Destiny' - Electron.md\|023 'A Data With Destiny' - Electron]]                           | 2021-12-09 00:02         |
+| [[Launch/Launches/021 'It's A Little Chile Up Here' - Electron.md\|021 'It's A Little Chile Up Here' - Electron]]           | 2021-07-29 06:00         |
+| [[Launch/Launches/020 'Running Out Of Toes' - Electron.md\|020 'Running Out Of Toes' - Electron]]                           | 2021-05-15 11:11         |
+| [[Launch/Launches/018 'Another One Leaves the Crust' - Electron.md\|018 'Another One Leaves the Crust' - Electron]]         | 2021-01-20 07:26         |
+| [[Launch/Launches/017 'The Owl's Night Begins' - Electron.md\|017 'The Owl's Night Begins' - Electron]]                     | 2020-12-15 10:09         |
+| [[Launch/Launches/016 'Return to Sender' - Electron.md\|016 'Return to Sender' - Electron]]                                 | 2020-11-20 02:20         |
+| [[Launch/Launches/015 'In Focus' - Electron.md\|015 'In Focus' - Electron]]                                                 | 2020-10-28 21:21         |
+| [[Launch/Launches/014 'I Can't Believe It's Not Optical' - Electron.md\|014 'I Can't Believe It's Not Optical' - Electron]] | 2020-08-31 03:05         |
+| [[Launch/Launches/013 'Pics Or It Didn't Happen' - Electron.md\|013 'Pics Or It Didn't Happen' - Electron]]                 | 2020-07-04 21:19         |
+| [[Launch/Launches/012 'Don't Stop Me Now' - Electron.md\|012 'Don't Stop Me Now' - Electron]]                               | 2020-06-13 05:12         |
+| [[Launch/Launches/011 'Birds of a Feather' - Electron.md\|011 'Birds of a Feather' - Electron]]                             | 2020-01-31 02:56         |
+| [[Launch/Launches/010 'Running Out Of Fingers' - Electron.md\|010 'Running Out Of Fingers' - Electron]]                     | 2019-12-06 08:18         |
+| [[Launch/Launches/009 'As The Crow Flies' - Electron.md\|009 'As The Crow Flies' - Electron]]                               | 2019-10-17 01:22         |
+| [[Launch/Launches/008 'Look Ma, No Hands' - Electron.md\|008 'Look Ma, No Hands' - Electron]]                               | 2019-08-19 12:12         |
+| [[Launch/Launches/007 'Make it Rain' - Electron.md\|007 'Make it Rain' - Electron]]                                         | 2019-06-29 04:30         |
+| [[Launch/Launches/006 'STP-27RD' - Electron.md\|006 'STP-27RD' - Electron]]                                                 | 2019-05-05 06:00         |
+| [[Launch/Launches/005 'DARPA R3D2' - Electron.md\|005 'DARPA R3D2' - Electron]]                                             | 2019-03-28 23:27         |
+| [[Launch/Launches/004 'NASA ELaNa-19' - Electron.md\|004 'NASA ELaNa-19' - Electron]]                                       | 2018-12-16 06:33         |
+| [[Launch/Launches/002 'Still Testing' - Electron.md\|002 'Still Testing' - Electron]]                                       | 2018-01-21 02:43         |
+| [[Launch/Launches/001 'It's a Test' - Electron.md\|001 'It's a Test' - Electron]]                                           | 2017-05-25 04:20         |
 
 %%DATAVIEW_PUBLISHER: end%%

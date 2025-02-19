@@ -20,16 +20,17 @@ sort launch_date desc
 ```
 %%
 
-| File                                                                                                    | launch_date      | outcome |
-| ------------------------------------------------------------------------------------------------------- | ---------------- | ------- |
-| [[Launch/Launches/035 'The Beat Goes On' - Electron.md\|035 'The Beat Goes On' - Electron]]             | 2023-03-24 09:14 | Success |
-| [[Launch/Launches/025 'Without Mission A Beat' - Electron.md\|025 'Without Mission A Beat' - Electron]] | 2022-04-02 12:41 | Success |
-| [[Launch/Launches/023 'A Data With Destiny' - Electron.md\|023 'A Data With Destiny' - Electron]]       | 2021-12-09 00:02 | Success |
-| [[Launch/Launches/022 'Love At First Insight' - Electron.md\|022 'Love At First Insight' - Electron]]   | 2021-11-18 01:38 | Success |
-| [[Launch/Launches/020 'Running Out Of Toes' - Electron.md\|020 'Running Out Of Toes' - Electron]]       | 2021-05-15 11:11 | Failure |
-| [[Launch/Launches/019 'They Go Up So Fast' - Electron.md\|019 'They Go Up So Fast' - Electron]]         | 2021-03-22 22:30 | Success |
-| [[Launch/Launches/008 'Look Ma, No Hands' - Electron.md\|008 'Look Ma, No Hands' - Electron]]           | 2019-08-19 12:12 | Success |
-| [[Launch/Launches/007 'Make it Rain' - Electron.md\|007 'Make it Rain' - Electron]]                     | 2019-06-29 04:30 | Success |
+| File                                                                                                      | launch_date              | outcome |
+| --------------------------------------------------------------------------------------------------------- | ------------------------ | ------- |
+| [[Launch/Launches/060 'Fasten Your Space Belts' - Electron.md\|060 'Fasten Your Space Belts' - Electron]] | 2025-02-19 12:17 pm NZDT | Success |
+| [[Launch/Launches/035 'The Beat Goes On' - Electron.md\|035 'The Beat Goes On' - Electron]]               | 2023-03-24 09:14         | Success |
+| [[Launch/Launches/025 'Without Mission A Beat' - Electron.md\|025 'Without Mission A Beat' - Electron]]   | 2022-04-02 12:41         | Success |
+| [[Launch/Launches/023 'A Data With Destiny' - Electron.md\|023 'A Data With Destiny' - Electron]]         | 2021-12-09 00:02         | Success |
+| [[Launch/Launches/022 'Love At First Insight' - Electron.md\|022 'Love At First Insight' - Electron]]     | 2021-11-18 01:38         | Success |
+| [[Launch/Launches/020 'Running Out Of Toes' - Electron.md\|020 'Running Out Of Toes' - Electron]]         | 2021-05-15 11:11         | Failure |
+| [[Launch/Launches/019 'They Go Up So Fast' - Electron.md\|019 'They Go Up So Fast' - Electron]]           | 2021-03-22 22:30         | Success |
+| [[Launch/Launches/008 'Look Ma, No Hands' - Electron.md\|008 'Look Ma, No Hands' - Electron]]             | 2019-08-19 12:12         | Success |
+| [[Launch/Launches/007 'Make it Rain' - Electron.md\|007 'Make it Rain' - Electron]]                       | 2019-06-29 04:30         | Success |
 
 %%DATAVIEW_PUBLISHER: end %%
 
@@ -45,6 +46,7 @@ sort published desc
 
 | File                                                                                                                                                                                                                                                                                                   | Title                                                                                                                                         | Published         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[News/Rocket Lab Successfully Launches 60th Electron, First of Multiple New Missions for BlackSky.md\|Rocket Lab Successfully Launches 60th Electron, First of Multiple New Missions for BlackSky]]                                                                                                   | Rocket Lab Successfully Launches 60th Electron, First of Multiple New Missions for BlackSky \| Rocket Lab                                     | February 18, 2025 |
 | [[News/Rocket Lab Schedules Launch for First of Multiple Missions for BlackSky.md\|Rocket Lab Schedules Launch for First of Multiple Missions for BlackSky]]                                                                                                                                           | Rocket Lab Schedules Launch for First of Multiple Missions for BlackSky                                                                       | February 10, 2025 |
 | [[News/BlackSky Signs New Block Buy for Five Rocket Lab Launches.md\|BlackSky Signs New Block Buy for Five Rocket Lab Launches]]                                                                                                                                                                       | BlackSky Signs New Block Buy for Five Rocket Lab Launches                                                                                     | August 08, 2023   |
 | [[News/Rocket Lab Successfully Launches 35th Electron Seven Days After Previous Launch, Sets New Company Record for Fastest Launch Turnaround.md\|Rocket Lab Successfully Launches 35th Electron Seven Days After Previous Launch, Sets New Company Record for Fastest Launch Turnaround]]             | Rocket Lab Successfully Launches 35th Electron Seven Days After Previous Launch, Sets New Company Record for Fastest Launch Turnaround        | March 24, 2023    |

@@ -1,17 +1,17 @@
 ---
-title: "Rocket Lab Schedules Launch for First of Multiple Missions for BlackSky"
-source: "https://www.rocketlabusa.com/updates/rocket-lab-schedules-launch-for-first-of-multiple-new-missions-for-blacksky/"
+title: Rocket Lab Schedules Launch for First of Multiple Missions for BlackSky
+source: https://www.rocketlabusa.com/updates/rocket-lab-schedules-launch-for-first-of-multiple-new-missions-for-blacksky/
 author:
   - "[[Rocket Lab]]"
 published: 2025-02-10
-description:
+description: 
 customer:
- - "[[BlackSky]]"
+  - "[[BlackSky]]"
 mission:
-insider:
+  - "[[060 'Fasten Your Space Belts' - Electron]]"
 tags:
- - launch
- - electron
+  - launch
+  - electron
 ---
 
 >[!summary]

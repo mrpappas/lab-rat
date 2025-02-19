@@ -40,6 +40,8 @@ limit 10
 
 | File                                                                                                                                                                                                                                                                                                                             |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[News/Rocket Lab Successfully Launches 60th Electron, First of Multiple New Missions for BlackSky.md\|Rocket Lab Successfully Launches 60th Electron, First of Multiple New Missions for BlackSky]]                                                                                                                             |
+| [[News/Rocket Lab Delivers Third In-Orbit Manufacturing Spacecraft for Varda Space Industries.md\|Rocket Lab Delivers Third In-Orbit Manufacturing Spacecraft for Varda Space Industries]]                                                                                                                                       |
 | [[News/Rocket Lab Schedules Launch for First of Multiple Missions for BlackSky.md\|Rocket Lab Schedules Launch for First of Multiple Missions for BlackSky]]                                                                                                                                                                     |
 | [[News/Rocket Lab Launches Next Batch of Satellites for Kinéis Constellation.md\|Rocket Lab Launches Next Batch of Satellites for Kinéis Constellation]]                                                                                                                                                                         |
 | [[News/Rocket Lab Signs Multi-Launch Contract with iQPS for Four Electron Missions.md\|Rocket Lab Signs Multi-Launch Contract with iQPS for Four Electron Missions]]                                                                                                                                                             |
@@ -48,8 +50,6 @@ limit 10
 | [[News/Rocket Lab Schedules Next Electron Launch for Constellation Operator Kinéis.md\|Rocket Lab Schedules Next Electron Launch for Constellation Operator Kinéis]]                                                                                                                                                             |
 | [[News/Rocket Lab’s Second Reentry Class Spacecraft for Varda Operating on Orbit Supporting Payloads for Air Force Research Lab and NASA.md\|Rocket Lab’s Second Reentry Class Spacecraft for Varda Operating on Orbit Supporting Payloads for Air Force Research Lab and NASA]]                                                 |
 | [[News/Rocket Lab on Track to Advance U.S. Defense Capabilities, Passing Major Milestone in Development of Spacecraft Constellation for Space Development Agency.md\|Rocket Lab on Track to Advance U.S. Defense Capabilities, Passing Major Milestone in Development of Spacecraft Constellation for Space Development Agency]] |
-| [[News/Rocket Lab Selected by NASA to Provide Neutron Launch Services Under VADR Launch Contract.md\|Rocket Lab Selected by NASA to Provide Neutron Launch Services Under VADR Launch Contract]]                                                                                                                                 |
-| [[News/Rocket Lab Selected by Kratos to Deliver Hypersonic Test Launches for DoD with HASTE Rocket.md\|Rocket Lab Selected by Kratos to Deliver Hypersonic Test Launches for DoD with HASTE Rocket]]                                                                                                                             |
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -67,6 +67,7 @@ limit 10
 
 | File                                                                                                                                            |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Launch/Launches/060 'Fasten Your Space Belts' - Electron.md\|060 'Fasten Your Space Belts' - Electron]]                                       |
 | [[Launch/Launches/059 'IOT 4 You and Me' - Electron.md\|059 'IOT 4 You and Me' - Electron]]                                                     |
 | [[Launch/Launches/058 'Owl The Way Up' - Electron.md\|058 'Owl The Way Up' - Electron]]                                                         |
 | [[Launch/Launches/057 'Stonehenge' - HASTE.md\|057 'Stonehenge' - HASTE]]                                                                       |
@@ -76,7 +77,6 @@ limit 10
 | [[Launch/Launches/053 'Kineis Killed the RadIOT Star' - Electron.md\|053 'Kineis Killed the RadIOT Star' - Electron]]                           |
 | [[Launch/Launches/052 'A Sky Full Of SARs' - Electron.md\|052 'A Sky Full Of SARs' - Electron]]                                                 |
 | [[Launch/Launches/051 'Owl For One, One For Owl' - Electron.md\|051 'Owl For One, One For Owl' - Electron]]                                     |
-| [[Launch/Launches/050 'No Time Toulouse' - Electron.md\|050 'No Time Toulouse' - Electron]]                                                     |
 
 %% DATAVIEW_PUBLISHER: end %%
 ## ℹ️ Resources

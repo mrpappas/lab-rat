@@ -6,8 +6,7 @@ tags:
 mission_name: IOT 4 You and Me
 launch_date: 2025-02-04 20:43
 outcome: Success
-customer:
-  - "[[Kinéis]]"
+customer: "[[Kinéis]]"
 location:
   - "[[Launch Complex 1]]"
 vehicle: "[[Electron]]"
@@ -52,7 +51,7 @@ The Kinéis constellation also integrates the AIS (Automatic Identification Syst
 >
 Kinéis' satellite-based AIS (S-AIS) is a high-performance system (requiring no ground infrastructure) that complements terrestrial AIS, enabling ships to be monitored worldwide, even in international waters not accessible by terrestrial AIS.
 
-### 📦 Payload
+## 📦 Payload
 
 x5 [[Kinéis#🛰️ Space Systems#Kinéis IoT|Kinéis IoT]] Satellites
 
