@@ -18,18 +18,18 @@ recovery: no attempt likely
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/fasten-your-space-belts/
 ---
 #electron #launch #success
-Mission Name: Fasten Your Space Belts
-Launch Date: 2025-02-19 12:17 pm NZDT
-Outcome: Success
-Customer: [[BlackSky]]
-Location: [[Launch Complex 1]]
-Vehicle: [[Electron]]
-Orbit Type: [[🌍 Orbits#LEO|LEO]]
-Target Orbit: 470km
-Payload Mass: 
-Recovery: No attempt
-Mission Link: https://www.rocketlabusa.com/missions/missions-launched/fasten-your-space-belts/
-Press Kit: [[RL-F60-BlackSky-Fasten-Your-Space-Belts.pdf]]
+**Mission Name**: Fasten Your Space Belts
+**Launch Date**: 2025-02-19 12:17 pm NZDT
+**Outcome**: Success
+**Customer**: [[BlackSky]]
+**Location**: [[Launch Complex 1]]
+**Vehicle**: [[Electron]]
+**Orbit Type**: [[🌍 Orbits#LEO|LEO]]
+**Target Orbit**: 470km
+**Payload Mass**: 
+**Recovery**: No attempt
+**Mission Link**: https://www.rocketlabusa.com/missions/missions-launched/fasten-your-space-belts/
+**Press Kit**: [[RL-F60-BlackSky-Fasten-Your-Space-Belts.pdf]]
 
 >[!success] Mission Success
 
