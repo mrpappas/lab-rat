@@ -79,3 +79,8 @@ Rocket Lab has also developed an optional third stage, known as the "kick stage"
 
 Curie engine stuff goes here
 
+## Fairing Configurations
+
+Electron can support multiple fairing configurations
+
+![[Pasted image 20250218222249.png]]
