@@ -3,14 +3,17 @@ tags:
   - SECFiling
   - Form13D
 Filing_Party: "[[Khosla Ventures]]"
+Insider:
+  - "[[Vinod Khosla]]"
 Filing_Type: "[[Filing Definitions#Schedule 13D|Schedule 13D]]"
-Filing_Date: 2025-02-14  
+Filing_Date: 2025-02-18
 ---
 ## Filing Overview
 
 **Filing Date**: 2025-02-14  
 **Type of Filing**: [[Filing Definitions#Schedule 13D|Schedule 13D/A (Amendment No. 6)]]  
 **Filing Party**: [[Khosla Ventures]]  
+Insider: [[Vinod Khosla]]
 **Issuer**: Rocket Lab USA, Inc.  
 **Title of Class of Securities**: Common Stock  
 **CUSIP Number**: 773122106  
