@@ -24,7 +24,7 @@ Insider: [[Vinod Khosla]]
 - **Khosla Ventures Seed B (CF), L.P.**: 0 shares (0.0%)
 - **Khosla Ventures V, L.P.**: 21,323,617 shares (4.3%)
 - **VK Services, LLC**: 50,982,669 shares (10.2%)
-- **Vinod Khosla**: 50,982,669 shares (10.2%)
+- **[[Vinod Khosla]]**: 50,982,669 shares (10.2%)
 
 
 ## Notes
