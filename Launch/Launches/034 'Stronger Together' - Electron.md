@@ -8,8 +8,7 @@ mission_name: Stronger Together
 launch_date: 2023-03-16 22:38
 outcome: Success
 customer: "[[Capella Space]]"
-location:
-  - "[[Launch Complex 2]]"
+location: "[[Launch Complex 2]]"
 vehicle: "[[Electron]]"
 orbit_type: "[[🌍 Orbits#LEO]]"
 target_orbit: 600 km | 44°

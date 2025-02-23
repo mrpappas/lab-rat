@@ -33,21 +33,21 @@ sort published desc
 ```
 %%
 
-| File                                                                                                                                                                                                                                     | Title                                                                                                          | Published          |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[News/Rocket Lab Completes Final Dress Rehearsal at Launch Complex 2 Ahead of First Electron Mission from U.S. Soil.md\|Rocket Lab Completes Final Dress Rehearsal at Launch Complex 2 Ahead of First Electron Mission from U.S. Soil]] | Rocket Lab Completes Final Dress Rehearsal at Launch Complex 2 Ahead of First Electron Mission from U.S. Soil  | September 17, 2020 |
-| [[News/Rocket Lab Granted FAA Launch Operator License for Missions from Launch Complex 2.md\|Rocket Lab Granted FAA Launch Operator License for Missions from Launch Complex 2]]                                                         | Rocket Lab Granted FAA Launch Operator License for Missions from Launch Complex 2                              | September 01, 2020 |
-| [[News/Electron Roll-Out Complete at Launch Complex 2 Ahead of Upcoming U.S. Space Force Mission.md\|Electron Roll-Out Complete at Launch Complex 2 Ahead of Upcoming U.S. Space Force Mission]]                                         | Electron Roll-Out Complete at Launch Complex 2 Ahead of Upcoming U.S. Space Force Mission                      | April 29, 2020     |
-| [[News/Rocket Lab Opens Launch Complex 2, Confirms U.S. Air Force Payload as First Electron Mission from U.S. Soil.md\|Rocket Lab Opens Launch Complex 2, Confirms U.S. Air Force Payload as First Electron Mission from U.S. Soil]]     | Rocket Lab Opens Launch Complex 2, Confirms U.S. Air Force Payload as First Electron Mission from U.S. Soil    | December 12, 2019  |
-| [[News/Rocket Lab Readies Launch Complex 2 for Electron Launches From U.S. Soil.md\|Rocket Lab Readies Launch Complex 2 for Electron Launches From U.S. Soil]]                                                                           | Rocket Lab Readies Launch Complex 2 for Electron Launches From U.S. Soil                                       | September 18, 2019 |
-| [[News/Rocket Lab selects Wallops Flight Facility for US launch site.md\|Rocket Lab selects Wallops Flight Facility for US launch site]]                                                                                                 | Rocket Lab selects Wallops Flight Facility for US launch site                                                  | October 17, 2018   |
-| [[News/Rocket Lab to expand launch capability with US launch site.md\|Rocket Lab to expand launch capability with US launch site]]                                                                                                       | Rocket Lab to expand launch capability with US launch site                                                     | July 10, 2018      |
+| File                                                                                                                                                                                                                                     | Title                                                                                                         | Published          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[News/Rocket Lab Completes Final Dress Rehearsal at Launch Complex 2 Ahead of First Electron Mission from U.S. Soil.md\|Rocket Lab Completes Final Dress Rehearsal at Launch Complex 2 Ahead of First Electron Mission from U.S. Soil]] | Rocket Lab Completes Final Dress Rehearsal at Launch Complex 2 Ahead of First Electron Mission from U.S. Soil | September 17, 2020 |
+| [[News/Rocket Lab Granted FAA Launch Operator License for Missions from Launch Complex 2.md\|Rocket Lab Granted FAA Launch Operator License for Missions from Launch Complex 2]]                                                         | Rocket Lab Granted FAA Launch Operator License for Missions from Launch Complex 2                             | September 01, 2020 |
+| [[News/Electron Roll-Out Complete at Launch Complex 2 Ahead of Upcoming U.S. Space Force Mission.md\|Electron Roll-Out Complete at Launch Complex 2 Ahead of Upcoming U.S. Space Force Mission]]                                         | Electron Roll-Out Complete at Launch Complex 2 Ahead of Upcoming U.S. Space Force Mission                     | April 29, 2020     |
+| [[News/Rocket Lab Opens Launch Complex 2, Confirms U.S. Air Force Payload as First Electron Mission from U.S. Soil.md\|Rocket Lab Opens Launch Complex 2, Confirms U.S. Air Force Payload as First Electron Mission from U.S. Soil]]     | Rocket Lab Opens Launch Complex 2, Confirms U.S. Air Force Payload as First Electron Mission from U.S. Soil   | December 12, 2019  |
+| [[News/Rocket Lab Readies Launch Complex 2 for Electron Launches From U.S. Soil.md\|Rocket Lab Readies Launch Complex 2 for Electron Launches From U.S. Soil]]                                                                           | Rocket Lab Readies Launch Complex 2 for Electron Launches From U.S. Soil                                      | September 18, 2019 |
+| [[News/Rocket Lab selects Wallops Flight Facility for US launch site.md\|Rocket Lab selects Wallops Flight Facility for US launch site]]                                                                                                 | Rocket Lab selects Wallops Flight Facility for US launch site                                                 | October 17, 2018   |
+| [[News/Rocket Lab to expand launch capability with US launch site.md\|Rocket Lab to expand launch capability with US launch site]]                                                                                                       | Rocket Lab to expand launch capability with US launch site                                                    | July 10, 2018      |
 
 %%DATAVIEW_PUBLISHER: end %%
 
-## 🚀 Launches from LC-1
+## 🚀 Launches from LC-2
 
-Here's a list of all launches from LC-1, for more info on all launches see  [[🚀 Launches]]
+Here's a list of all launches from LC-2, for more info on all launches see  [[🚀 Launches]]
 
 %%DATAVIEW_PUBLISHER: start
 ```
@@ -65,6 +65,7 @@ sort launch_date desc
 | [[Launch/Launches/055 'HASTE A La Vista' - HASTE.md\|055 'HASTE A La Vista' - HASTE]]                                 | 2024-11-24 06:00 |
 | [[Launch/Launches/046 'Live And Let Fly' - Electron.md\|046 'Live And Let Fly' - Electron]]                           | 2024-03-21 06:40 |
 | [[Launch/Launches/038 'Scout's Arrow' - HASTE.md\|038 'Scout's Arrow' - HASTE]]                                       | 2023-06-18 01:24 |
+| [[Launch/Launches/034 'Stronger Together' - Electron.md\|034 'Stronger Together' - Electron]]                         | 2023-03-16 22:38 |
 | [[Launch/Launches/033 'Virginia is for Launch Lovers' - Electron.md\|033 'Virginia is for Launch Lovers' - Electron]] | 2023-01-24 23:00 |
 
 %%DATAVIEW_PUBLISHER: end%%
