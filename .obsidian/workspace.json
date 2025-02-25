@@ -8,32 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2aec4f341d5e2fcd",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Launch/Launches/034 'Stronger Together' - Electron.md",
-                "bFile": "Launch/Launches/034 'Stronger Together' - Electron.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: 034 'Stronger Together' - Electron"
-            }
-          },
-          {
             "id": "b556fa690b7a1516",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Launch/Launches/056 'Ice AIS Baby' - Electron.md",
+                "file": "News/Rocket Lab Clears Critical Design Review for Space Force VICTUS HAZE Mission.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "056 'Ice AIS Baby' - Electron"
+              "title": "Rocket Lab Clears Critical Design Review for Space Force VICTUS HAZE Mission"
             }
           }
         ]
@@ -201,14 +187,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2aec4f341d5e2fcd",
+  "active": "b556fa690b7a1516",
   "lastOpenFiles": [
-    "Locations/Launch Complex 2.md",
     "Launch/Launches/056 'Ice AIS Baby' - Electron.md",
+    "News/Rocket Lab Clears Critical Design Review for Space Force VICTUS HAZE Mission.md",
+    "📰 News.md",
+    "News/Rocket Lab Schedules Next Electron Launch for Constellation Operator Kinéis.md",
+    "News/Rocket Lab Schedules Launch for First of Multiple Missions for BlackSky.md",
+    "Pasted image 20250224215904.png",
+    "News/Rocket Lab Introduces Suborbital Testbed Rocket, Selected for Hypersonic Test Flights.md",
+    "Locations/Launch Complex 2.md",
     "Launch/Launches/034 'Stronger Together' - Electron.md",
     "Home.md",
     "Rocket Lab.md",
-    "📰 News.md",
     "Filings/2025/13G + 13D/02-18-25 13D - Khosla Ventures.md",
     "💼 SEC Filings (All).md",
     "💼 SEC Filings (2025).md",
@@ -234,10 +225,6 @@
     "Vault-Assets/PDFs/RL-F60-BlackSky-Fasten-Your-Space-Belts.pdf",
     "Vault-Assets/PDFs/Ice-AIS-Baby-Press-Kit2.pdf",
     "Launch/Launches/059 'IOT 4 You and Me' - Electron.md",
-    "News/Rocket Lab Schedules Launch for First of Multiple Missions for BlackSky.md",
-    "Organization/Partners/BlackSky.md",
-    "News/Rocket Lab Sets Launch Window to Deploy Synspective Satellites.md",
-    "News/Rocket Lab Delivers Third In-Orbit Manufacturing Spacecraft for Varda Space Industries.md",
     "Vault-Assets/Images/Pasted image 20250210171910.jpg",
     "Vault-Assets/PDFs/52595764-ce1d-4962-8bdb-562aa841e4d6.pdf",
     "Vault-Assets/Images/Pasted image 20250210171140.jpg",
@@ -248,7 +235,6 @@
     "Vault-Assets/Images/Pasted image 20250206200053.png",
     "Vault-Assets/Images/Pasted image 20250205212005.jpg",
     "Vault-Assets/PDFs/805261d6-9bc9-4ef9-800f-fe44cb830c1f.pdf",
-    "Vault-Assets/Images/Pasted image 20250123175641.jpg",
     "Untitled.canvas",
     "Subsidiaries/Untitled.canvas"
   ]
