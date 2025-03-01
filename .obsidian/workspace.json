@@ -13,13 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Space Systems/Missions/Varda W Missions.md",
+                "file": "Space Systems/Missions/VICTUS HAZE.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Varda W Missions"
+              "title": "VICTUS HAZE"
+            }
+          },
+          {
+            "id": "7f607ce938f68562",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organization/Partners/Space Development Agency (SDA).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Space Development Agency (SDA)"
+            }
+          },
+          {
+            "id": "1434a1677fcc958f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organization/Partners/MDA.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "MDA"
             }
           }
         ]
@@ -189,40 +219,40 @@
   },
   "active": "9d7c1665b6cc5eed",
   "lastOpenFiles": [
+    "Organization/Partners/Space Development Agency (SDA).md",
+    "Space Systems/Missions/VICTUS HAZE.md",
+    "Space Systems/Missions/Venus Life Finder.md",
+    "Space Systems/Missions/Varda W Missions.md",
+    "Space Systems/Missions/SDA Proliferated Warfighter Space Architecture (PWSA).md",
+    "Space Systems/Missions/OSP-4.md",
+    "Space Systems/Missions/LOXSAT.md",
+    "Space Systems/Missions/Mission Operations Control Center for MethaneSAT.md",
+    "🤝 Partners.md",
+    "Organization/Partners/Globalstar.md",
+    "Organization/Partners/MDA.md",
+    "Organization/Partners/Varda Space Industries.md",
+    "Organization/Partners/NASA.md",
+    "Space Systems/Missions/National Security Space Launch (NSSL) Lane 1.md",
+    "Space Systems/Missions/NOAA SWFO-L1.md",
+    "Space Systems/Missions/SDA Tranche 1 - Initial Warfighting Capability.md",
+    "Space Systems/Missions/SDA Tranche 2 - Enhanced Global Coverage.md",
+    "Space Systems/Missions/VADR.md",
+    "Space Systems/Missions/Globalstar (MDA) Satellite Buses.md",
+    "Space Systems/Missions/GLIDE.md",
     "News/Touchdown For In-Space Manufacturing Mission Rocket Lab’s Pioneer Spacecraft Delivers Re-Entry for Varda’s In-Space Manufacturing Capsule in South Australia.md",
     "📰 News.md",
-    "Filings/2025/10-K/2-27-25 10-K Annual Report.md",
-    "💼 SEC Filings (2025).md",
-    "Filings/2025/8-K/2-27-25 Q4 and Fiscal Year 2024 Results.md",
-    "Filings/2025/8-K/01-07-2025 8-K - Preferred Stock Exchange with The Equatorial Trust.md",
+    "💸 Insider Sales.md",
+    "Filings/2024/Form 4/11-27-24 Form 4 - Adam Spice.md",
+    "Filings/2024/Form 4/11-27-24 Form 4 - Arjun Kampani.md",
+    "Filings/2024/Form 4/11-27-24 Form 4 - Frank Klein.md",
     "Vault-Assets/Images/Pasted image 20250301151156.png",
     "Vault-Assets/PDFs/c5d1fba9-6e22-42ae-8e23-a15229a11f4d.pdf",
     "Filings/2025/10-K",
-    "💼 SEC Filings (All).md",
-    "Filings/2025/Form 4/02-05-25 Form 4 - Khosla Ventures.md",
     "Vault-Assets/PDFs/0fbb0efa-5b5a-4173-bc8a-aa3035698a66.pdf",
-    "News/Rocket Lab Signs Second Multi-Launch Deal, Secures Eight Electron Missions with iQPS.md",
-    "News/Rocket Lab Inks Deal with Varda Space Industries to Supply Multiple Photon Spacecraft for Space Manufacturing Missions.md",
-    "Space Systems/Missions/Varda W Missions.md",
-    "Organization/Partners/Varda Space Industries.md",
-    "News/Varda Space Industries Orders Fourth Photon Spacecraft from Rocket Lab to Enable In-Space Manufacturing.md",
-    "News/Rocket Lab Completes Custom-Built Photon Spacecraft for Varda Space Industries.md",
-    "News/Rocket Lab Spacecraft Built for Varda Successfully Operating on Orbit.md",
-    "News/Rocket Lab Successfully Returns Spacecraft Capsule to Earth, Brings Back Pharmaceuticals Made in Space.md",
-    "News/Rocket Lab Completes Second Spacecraft for Varda Space Industries, Advancing In-Space Manufacturing.md",
-    "News/Rocket Lab Delivers Second Spacecraft, Completes Third for Varda Space Industries.md",
-    "News/Rocket Lab’s Second Reentry Class Spacecraft for Varda Operating on Orbit Supporting Payloads for Air Force Research Lab and NASA.md",
-    "News/Rocket Lab Delivers Third In-Orbit Manufacturing Spacecraft for Varda Space Industries.md",
     "Vault-Assets/Images/Pasted image 20250301155210.jpg",
-    "Space Systems/Missions/Venus Life Finder.md",
     "Vault-Assets/Images/Pasted image 20250301152847.png",
-    "Organization/Partners/iQPS.md",
-    "News/Rocket Lab Clears Critical Design Review for Space Force VICTUS HAZE Mission.md",
     "Vault-Assets/Images/Pasted image 20250301152027.jpg",
-    "News/Rocket Lab Reveals Ocean Platform for Neutron Rocket Landings at Sea.md",
     "Vault-Assets/Images/Pasted image 20250301151621.jpg",
-    "News/Rocket Lab Announces Flatellite.md",
-    "Space Systems/Spacecraft/Flatellite.md",
     "Vault-Assets/Images/Pasted image 20250224215904.png",
     "Vault-Assets/PDFs/ce2a0404-7ba0-4593-a9de-f706c0a792b6 (1).pdf",
     "Vault-Assets/PDFs/9e92136e-05a8-437a-96c9-04fdcc8e35bb.pdf",

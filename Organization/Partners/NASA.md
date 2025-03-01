@@ -33,6 +33,12 @@ sort launch_date desc
 
 %%DATAVIEW_PUBLISHER: end %%
 
+## 🌍 Missions
+
+ - [[ESCAPADE]]
+ - [[GLIDE]]
+ - [[NOAA SWFO-L1]]
+
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```

@@ -26,6 +26,9 @@ The Globalstar global mobile communications network offers global, digital real 
 
 ![[Pasted image 20250112140125.jpg]]
 
+## 🌍 Missions
+
+- [[Globalstar (MDA) Satellite Buses]]
 
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
