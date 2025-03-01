@@ -7,6 +7,7 @@ The W-1 capsule carried an experiment to crystallize Ritonavir, an antiviral dru
 >
 >**Launch Date**: June 12 2023
 >**Reentry Date**: Feb 21 2024
+>🔗 https://www.varda.com/missions/w-1
 
 <div class="responsive-video">
 <iframe src="https://www.youtube.com/embed/qw4DseiPu7E" title="Varda Capsule Reentry - Five Minutes from LEO to Earth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -21,13 +22,19 @@ The W-1 capsule carried an experiment to crystallize Ritonavir, an antiviral dru
 >
 >**Launch Date**: Jan 14 2025
 >**Reentry Date**: Feb 27 2025
-
->[!warning] 📽️ Video Coming Soon
+>🔗 https://www.varda.com/missions/w-2
 
 ![[Pasted image 20250301152847.png]]
 ## W-3
 
->[!warning] Coming Soon
+>[!summary] Mission Details
+The W-3 capsule will launch as part of the Transporter-14 rideshare mission with SpaceX on June 7, 2025. It will spend six weeks in orbit before reentering at the Utah Test and Training Range, operated by the U.S. Air Force.
+>
+The W-3 capsule will carry payloads from Varda partners, including advanced materials experiments for commercial customers and a reentry sensor suite for NASA. It will also feature upgrades to Varda’s pharmaceutical manufacturing system, refining production processes tested on previous missions.
+>
+Estimated Launch Date: June 7, 2025
+Estimated Reentry Date: July 21, 2025
+>🔗 https://www.varda.com/missions/w-3
 
 ## W-4
 
