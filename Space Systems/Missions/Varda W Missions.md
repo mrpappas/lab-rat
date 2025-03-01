@@ -28,11 +28,11 @@ The W-1 capsule carried an experiment to crystallize Ritonavir, an antiviral dru
 ## W-3
 
 >[!summary] Mission Details
-The W-3 capsule will launch as part of the Transporter-14 rideshare mission with SpaceX on June 7, 2025. It will spend six weeks in orbit before reentering at the Utah Test and Training Range, operated by the U.S. Air Force.
+The W-3 capsule will launch as part of the [Transporter-14 rideshare mission with SpaceX](https://nextspaceflight.com/launches/details/7137) in June 2025. It will spend six weeks in orbit before reentering at the Utah Test and Training Range, operated by the U.S. Air Force.
 >
 The W-3 capsule will carry payloads from Varda partners, including advanced materials experiments for commercial customers and a reentry sensor suite for NASA. It will also feature upgrades to Varda’s pharmaceutical manufacturing system, refining production processes tested on previous missions.
 >
-Estimated Launch Date: June 7, 2025
+Estimated Launch Date: June 2025
 Estimated Reentry Date: July 21, 2025
 >🔗 https://www.varda.com/missions/w-3
 
