@@ -8,8 +8,7 @@ published: 2022-05-24
 description: "*Varda Space Industries Orders Fourth Photon Spacecraft from Rocket Lab to Enable In-Space Manufacturing*"
 customer:
  - "[[Varda Space Industries]]"
-mission:
-insider:
+mission: "[[Varda W Missions]]"
 tags:
  - space-systems
 ---
@@ -21,8 +20,7 @@ tags:
 **Published:** 2022-05-24
 **Description:** *Varda Space Industries Orders Fourth Photon Spacecraft from Rocket Lab to Enable In-Space Manufacturing*
 **Customer:** [[Varda Space Industries]]
-**Mission:** None
-**Insider:** None
+**Mission**: [[Varda W Missions#W-3|Varda W-4]]
 
 **Varda Space Industries Orders Fourth Photon Spacecraft from Rocket Lab to Enable In-Space Manufacturing**
 

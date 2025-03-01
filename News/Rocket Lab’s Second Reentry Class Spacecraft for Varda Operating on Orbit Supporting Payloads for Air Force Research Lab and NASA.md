@@ -8,6 +8,7 @@ published: 2025-01-15
 description: "Keep up with the latest from Rocket Lab."
 customer:
  - "[[Varda Space Industries]]"
+mission: "[[Varda W Missions]]"
 tags:
  - space-systems
 ---
@@ -19,6 +20,7 @@ tags:
 **Published:** 2025-01-15
 **Description:** Keep up with the latest from Rocket Lab.
 **Customer:** [[Varda Space Industries]]
+**Mission**: [[Varda W Missions#W-3|Varda W-2]]
 
 Long Beach, Calif. January 15, 2025 – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced its second [[Pioneer]] spacecraft for [[Varda Space Industries]], Inc. (“Varda”) is successfully operating on orbit. The mission launched January 14, from Vandenberg Space Force Base at 11:09 PDT (19:09 UTC).
 

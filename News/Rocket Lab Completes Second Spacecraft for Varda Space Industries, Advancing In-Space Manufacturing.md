@@ -7,6 +7,7 @@ author:
 published: 2024-09-26
 description: "*Long Beach, Calif. September 26, 2024* – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, has completed testing and integration of its second Pioneer spacecraft for Varda Space Industries, Inc. (“Varda”), the world's first in-space pharmaceutical processing and hypersonic Earth re-entry logistics company."
 customer: "[[Varda Space Industries]]"
+mission: "[[Varda W Missions]]"
 tags:
   - "space-systems"
 ---
@@ -18,6 +19,7 @@ tags:
 **Published:** 2024-09-26
 **Description:** *Long Beach, Calif. September 26, 2024* – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, has completed testing and integration of its second Pioneer spacecraft for Varda Space Industries, Inc. (“Varda”), the world's first in-space pharmaceutical processing and hypersonic Earth re-entry logistics company.
 **Customer:** [[Varda Space Industries]]
+**Mission**: [[Varda W Missions#W-3|Varda W-2]]
 
 **Source**: https://www.rocketlabusa.com/updates/rocket-lab-completes-second-spacecraft-for-varda-space-industries-advancing-in-space-manufacturing/
 

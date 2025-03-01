@@ -7,6 +7,7 @@ published: 2025-02-12
 description: "The Pioneer spacecraft designed, built, and tested by Rocket Lab is the second spacecraft delivered to Varda for launch within a month."
 customer:
  - "[[Varda Space Industries]]"
+mission: "[[Varda W Missions]]"
 tags:
  - space-systems
 ---
@@ -18,6 +19,7 @@ tags:
 >Author: Rocket Lab
 >Published: 2025-02-12
 >Customer: [[Varda Space Industries]]
+>**Mission**: [[Varda W Missions#W-3|Varda W-3]]
 
 
 *The Pioneer spacecraft designed, built, and tested by Rocket Lab is the second spacecraft delivered to Varda for launch within a month.  

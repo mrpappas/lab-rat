@@ -7,6 +7,7 @@ author:
 published: 2023-05-09
 description: "*The spacecraft is the first of four to be completed for Varda Space Industries to enable in-space pharmaceutical manufacturing*"
 customer: "[[Varda Space Industries]]"
+mission: "[[Varda W Missions]]"
 tags:
   - "space-systems"
 ---
@@ -18,6 +19,7 @@ tags:
 **Published:** 2023-05-09
 **Description:** *The spacecraft is the first of four to be completed for Varda Space Industries to enable in-space pharmaceutical manufacturing*
 **Customer:** [[Varda Space Industries]]
+**Mission**: [[Varda W Missions#W-3|Varda W-1]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-completes-custom-built-photon-spacecraft-for-varda-space-industries/
 

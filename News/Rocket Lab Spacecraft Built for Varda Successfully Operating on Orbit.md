@@ -7,6 +7,7 @@ author:
 published: 2023-06-12
 description: "The spacecraft is the first of four Rocket Lab has been contracted to build for Varda Space Industries to enable in-space manufacturing."
 customer: "[[Varda Space Industries]]"
+mission: "[[Varda W Missions]]"
 tags:
   - "space-systems"
 ---
@@ -18,6 +19,7 @@ tags:
 **Published:** 2023-06-12
 **Description:** The spacecraft is the first of four Rocket Lab has been contracted to build for Varda Space Industries to enable in-space manufacturing.
 **Customer:** [[Varda Space Industries]]
+**Mission**: [[Varda W Missions#W-3|Varda W-1]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-spacecraft-built-for-varda-successfully-operating-on-orbit/
 

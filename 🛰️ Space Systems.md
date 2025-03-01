@@ -9,12 +9,13 @@ sort name asc
 ```
 %%
 
-| File                                                 |
-| ---------------------------------------------------- |
-| [[Space Systems/Spacecraft/Explorer.md\|Explorer]]   |
-| [[Space Systems/Spacecraft/Pioneer.md\|Pioneer]]     |
-| [[Space Systems/Spacecraft/Lightning.md\|Lightning]] |
-| [[Space Systems/Spacecraft/Photon.md\|Photon]]       |
+| File                                                   |
+| ------------------------------------------------------ |
+| [[Space Systems/Spacecraft/Explorer.md\|Explorer]]     |
+| [[Space Systems/Spacecraft/Lightning.md\|Lightning]]   |
+| [[Space Systems/Spacecraft/Photon.md\|Photon]]         |
+| [[Space Systems/Spacecraft/Pioneer.md\|Pioneer]]       |
+| [[Space Systems/Spacecraft/Flatellite.md\|Flatellite]] |
 
 %% DATAVIEW_PUBLISHER: end%%
 
@@ -30,8 +31,8 @@ sort name asc
 
 | File                                                                                             |
 | ------------------------------------------------------------------------------------------------ |
-| [[Space Systems/Radios/Frontier-X Software Defined Radio.md\|Frontier-X Software Defined Radio]] |
 | [[Space Systems/Radios/Frontier-S Software Defined Radio.md\|Frontier-S Software Defined Radio]] |
+| [[Space Systems/Radios/Frontier-X Software Defined Radio.md\|Frontier-X Software Defined Radio]] |
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -48,11 +49,11 @@ sort name asc
 
 | File                                                                                              |
 | ------------------------------------------------------------------------------------------------- |
-| [[Space Systems/Reaction Wheels/1 Nms Reaction Wheel.md\|1 Nms Reaction Wheel]]                   |
 | [[Space Systems/Reaction Wheels/10 mNms Reaction Wheel.md\|10 mNms Reaction Wheel]]               |
-| [[Space Systems/Reaction Wheels/400 - 200 nMms Reaction Wheel.md\|400 - 200 nMms Reaction Wheel]] |
+| [[Space Systems/Reaction Wheels/1 Nms Reaction Wheel.md\|1 Nms Reaction Wheel]]                   |
 | [[Space Systems/Reaction Wheels/12 Nms Reaction Wheel.md\|12 Nms Reaction Wheel]]                 |
 | [[Space Systems/Reaction Wheels/30 mNms Reaction Wheel.md\|30 mNms Reaction Wheel]]               |
+| [[Space Systems/Reaction Wheels/400 - 200 nMms Reaction Wheel.md\|400 - 200 nMms Reaction Wheel]] |
 | [[Space Systems/Reaction Wheels/3 mNms Reaction Wheel.md\|3 mNms Reaction Wheel]]                 |
 | [[Space Systems/Reaction Wheels/5 Nms Reaction Wheel.md\|5 Nms Reaction Wheel]]                   |
 | [[Space Systems/Reaction Wheels/60 mNms Reaction Wheel.md\|60 mNms Reaction Wheel]]               |
@@ -73,9 +74,9 @@ sort name asc
 | ---------------------------------------------------------------------------------------------------------------------- |
 | [[Space Systems/Separation Systems/Advanced Lightband.md\|Advanced Lightband]]                                         |
 | [[Space Systems/Separation Systems/Advanced Satellite Dispenser (ASD).md\|Advanced Satellite Dispenser (ASD)]]         |
-| [[Space Systems/Separation Systems/Motorized Lightband.md\|Motorized Lightband]]                                       |
-| [[Space Systems/Separation Systems/Maxwell CubeSat Dispenser.md\|Maxwell CubeSat Dispenser]]                           |
 | [[Space Systems/Separation Systems/Canisterized Satellite Dispenser (CSD).md\|Canisterized Satellite Dispenser (CSD)]] |
+| [[Space Systems/Separation Systems/Maxwell CubeSat Dispenser.md\|Maxwell CubeSat Dispenser]]                           |
+| [[Space Systems/Separation Systems/Motorized Lightband.md\|Motorized Lightband]]                                       |
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -92,8 +93,8 @@ sort name asc
 | File                                                                         |
 | ---------------------------------------------------------------------------- |
 | [[Space Systems/Software/MAX Flight Software.md\|MAX Flight Software]]       |
-| [[Space Systems/Software/MAX Ground Data System.md\|MAX Ground Data System]] |
 | [[Space Systems/Software/SOLIS.md\|SOLIS]]                                   |
+| [[Space Systems/Software/MAX Ground Data System.md\|MAX Ground Data System]] |
 
 %% DATAVIEW_PUBLISHER: end %%
 

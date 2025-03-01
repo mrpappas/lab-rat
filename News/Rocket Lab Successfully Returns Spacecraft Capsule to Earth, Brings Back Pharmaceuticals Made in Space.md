@@ -7,6 +7,7 @@ author:
 published: 2024-02-21
 description: "The Rocket Lab spacecraft designed, built, and operated for Varda Space Industries which enabled the production of pharmaceutical products on orbit, has been successfully returned to Earth"
 customer: "[[Varda Space Industries]]"
+mission: "[[Varda W Missions]]"
 tags:
   - "space-systems"
 ---
@@ -18,6 +19,7 @@ tags:
 **Published:** 2024-02-21
 **Description:** The Rocket Lab spacecraft designed, built, and operated for Varda Space Industries which enabled the production of pharmaceutical products on orbit, has been successfully returned to Earth
 **Customer:** [[Varda Space Industries]]
+**Mission**: [[Varda W Missions#W-3|Varda W-1]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-returns-spacecraft-capsule-to-earth-brings-back-pharmaceuticals-made-in-space/
 

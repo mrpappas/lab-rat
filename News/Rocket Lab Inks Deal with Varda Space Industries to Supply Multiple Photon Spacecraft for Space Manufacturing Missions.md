@@ -8,6 +8,7 @@ published: 2021-08-11
 description: "*Rocket Lab Inks Deal with Varda Space Industries to Supply Multiple Photon Spacecraft for Space Manufacturing Missions*"
 customer:
  - "[[Varda Space Industries]]"
+mission: "[[Varda W Missions]]"
 tags:
  - space-systems
  - contract
@@ -20,6 +21,7 @@ tags:
 **Published:** 2021-08-11
 **Description:** *Rocket Lab Inks Deal with Varda Space Industries to Supply Multiple Photon Spacecraft for Space Manufacturing Missions*
 **Customer:** [[Varda Space Industries]]
+**Mission**: [[Varda W Missions]]
 
 **Rocket Lab Inks Deal with Varda Space Industries to Supply Multiple Photon Spacecraft for Space Manufacturing Missions**
 

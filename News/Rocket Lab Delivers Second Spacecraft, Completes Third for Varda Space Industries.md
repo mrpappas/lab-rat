@@ -7,6 +7,7 @@ author:
 published: 2024-12-17
 description: "*Long Beach, Calif. December 17, 2024* – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, has successfully delivered its second Pioneer spacecraft to Vandenberg Space Force Base and completed production and testing of a third for Varda Space Industries, Inc. (“Varda”), the world's first orbital pharmaceutical processing and hypersonic Earth re-entry logistics company."
 customer: "[[Varda Space Industries]]"
+mission: "[[Varda W Missions]]"
 tags:
   - "space-systems"
 ---
@@ -18,6 +19,7 @@ tags:
 **Published:** 2024-12-17
 **Description:** *Long Beach, Calif. December 17, 2024* – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, has successfully delivered its second Pioneer spacecraft to Vandenberg Space Force Base and completed production and testing of a third for Varda Space Industries, Inc. (“Varda”), the world's first orbital pharmaceutical processing and hypersonic Earth re-entry logistics company.
 **Customer:** [[Varda Space Industries]]
+**Mission**: [[Varda W Missions#W-3|Varda W-3]]
 
 **Source**: https://www.rocketlabusa.com/updates/rocket-lab-delivers-second-spacecraft-completes-third-for-varda-space-industries/
 
