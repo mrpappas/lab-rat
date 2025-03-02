@@ -13,7 +13,7 @@ A scalable, long-life, high-power, stackable satellite, Flatellite enables secur
 
 ## Production
 
-102 - 365 satellites per year
+104 - 365 satellites per year
 
 >[!quote] Sir Peter Beck, Q4 Earnings Call Q&A
 >*"couple of satellites a week up to a satellite a day depending on the customer or the opportunity that we go after"* - [[2024 Q4]]

@@ -85,8 +85,6 @@ A collection of great resources for keeping up to date on Rocket Lab.
 
 - [Dave G Investing (Youtube)](https://www.youtube.com/@daveginvesting)
 - [Scott O (Youtube)](https://www.youtube.com/@scotto2050)
-- [Vince is Bullish / Rocket Lab Weekly (Youtube)](https://www.youtube.com/@vinceisbullish)
-- [Matt Money (Youtube)](https://www.youtube.com/@RealMattMoney)
 
 ## 👷 Under the Hood
 
