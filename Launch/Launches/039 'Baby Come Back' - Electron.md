@@ -12,6 +12,7 @@ customer:
 - "[[UTIAS Space Flight Laboratory]]"
 - "[[Telesat]]"
 - "[[Spire Global]]"
+- "[[CesiumAstro]]"
 location: "[[Launch Complex 1]]"
 vehicle: "[[Electron]]"
 orbit_type: "[[🌍 Orbits#SSO]]"
@@ -44,7 +45,9 @@ Rocket Lab's 39th [[Electron]] mission, called "Baby Come Back" will deploy seve
 >
 The ‘Baby Come Back’ mission is a rideshare mission and will carry satellites for multiple customers, including: 
 >
-[[NASA]]:  NASA’s Starling mission is a four CubeSat mission designed to test technologies to enable future “swarm” missions. Spacecraft swarms refer to multiple spacecraft autonomously coordinating their activities to achieve certain goals. Starling will demonstrate technologies for in-space network communications, onboard relative navigation between spacecraft, autonomous maneuver planning, and execution, and distributed spacecraft autonomy - an experiment for small spacecraft to autonomously react to observations, paving the way for future science missions.
+[[NASA]]:  NASA’s [Starling mission](https://www.nasa.gov/smallspacecraft/what-is-starling/) is a four CubeSat mission designed to test technologies to enable future “swarm” missions. Spacecraft swarms refer to multiple spacecraft autonomously coordinating their activities to achieve certain goals. Starling will demonstrate technologies for in-space network communications, onboard relative navigation between spacecraft, autonomous maneuver planning, and execution, and distributed spacecraft autonomy - an experiment for small spacecraft to autonomously react to observations, paving the way for future science missions.
+>
+>[[CesiumAstro]]: as a partner in the above mentioned Starling mission, providing "crosslink radios and antennas for the MANET experiment."
 >
 [[UTIAS Space Flight Laboratory]]:  Space Flight Laboratory (SFL) selected Rocket Lab to launch Telesat’s LEO 3 demonstration satellite that will provide continuity for customer and ecosystem vendor testing campaigns following the decommissioning of Telesat’s Phase 1 LEO satellite.
 >

@@ -21,21 +21,6 @@
               "icon": "lucide-file",
               "title": "CesiumAstro"
             }
-          },
-          {
-            "id": "5635e62ba48b8a9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "News/Rocket Lab Supports Significant Milestone for DARPA and Space Development Agency on the Mandrake-2 Mission.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Rocket Lab Supports Significant Milestone for DARPA and Space Development Agency on the Mandrake-2 Mission"
-            }
           }
         ]
       }
@@ -204,19 +189,21 @@
   },
   "active": "55d0df3b340b47ed",
   "lastOpenFiles": [
-    "Space Systems/Spacecraft/Flatellite.md",
+    "Organization/Partners/Capella Space.md",
     "Organization/Partners/CesiumAstro.md",
+    "🤝 Partners.md",
     "News/Rocket Lab Supports Significant Milestone for DARPA and Space Development Agency on the Mandrake-2 Mission.md",
+    "Launch/Launches/039 'Baby Come Back' - Electron.md",
+    "🚀 Launches.md",
+    "Vault-Assets/Images/Pasted image 20250302180643.png",
+    "Space Systems/Spacecraft/Flatellite.md",
     "📰 News.md",
     "News/Rocket Lab Space Education Program Surpasses 20,000 Students, Expands Program Internationally to Meet Demand.md",
     "News/Rocket Lab Completes Successful First Hot Fire of Archimedes Engine for Neutron Rocket  Rocket Lab.md",
     "News/Rocket Lab’s Second Reentry Class Spacecraft for Varda Operating on Orbit Supporting Payloads for Air Force Research Lab and NASA.md",
     "News/Rocket Lab Selects Subcontractors to Support SDA Satellite Constellation Development.md",
-    "Pasted image 20250302181043.png",
-    "Pasted image 20250302180643.png",
-    "Organization/Partners/Capella Space.md",
+    "Vault-Assets/Images/Pasted image 20250302181043.png",
     "Organization/Partners/Astroscale-Japan.md",
-    "🤝 Partners.md",
     "Home.md",
     "Financial/Quarterly Reports/2024 Q4.md",
     "Organization/Partners/Kratos.md",
@@ -232,8 +219,6 @@
     "Organization/Partners/MDA.md",
     "Organization/Partners/Space Development Agency (SDA).md",
     "Space Systems/Missions/SDA Tranche 1 - Initial Warfighting Capability.md",
-    "Space Systems/Missions/SDA Tranche 2 - Enhanced Global Coverage.md",
-    "Space Systems/Missions/VICTUS HAZE.md",
     "Vault-Assets/Images/Pasted image 20250301151156.png",
     "Vault-Assets/PDFs/c5d1fba9-6e22-42ae-8e23-a15229a11f4d.pdf",
     "Filings/2025/10-K",

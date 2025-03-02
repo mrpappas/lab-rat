@@ -14,6 +14,22 @@ Website: https://www.cesiumastro.com/
 CesiumAstro was selected as a subcontractor for Rocket Lab's [[SDA Tranche 2 - Enhanced Global Coverage]] contract.
 🔗 [[Rocket Lab Selects Subcontractors to Support SDA Satellite Constellation Development]]
 
+## 🚀 Launches
+%%DATAVIEW_PUBLISHER: start
+```
+table launch_date, outcome
+from "Launch/Launches"
+where contains(customer, [[CesiumAstro]])
+sort launch_date desc
+```
+%%
+
+| File                                                                                    | launch_date      | outcome |
+| --------------------------------------------------------------------------------------- | ---------------- | ------- |
+| [[Launch/Launches/039 'Baby Come Back' - Electron.md\|039 'Baby Come Back' - Electron]] | 2023-07-18 01:27 | Success |
+
+%%DATAVIEW_PUBLISHER: end %%
+
 ## 🛰️ Space Systems
 
 ### Vireo Multi-Beam Communications Payload
