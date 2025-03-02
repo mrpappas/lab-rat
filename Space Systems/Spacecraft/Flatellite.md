@@ -9,7 +9,15 @@ A scalable, long-life, high-power, stackable satellite, Flatellite enables secur
 [[Peter Beck]] on how Rocket Lab intends to utilize Flatellite in the building their own constellation(s): 
 
 >[!quote] Sir Peter Beck, Q4 Earnings Call
->*"the Flatellite is more than just a new product development to serve our customers’ ever evolving needs though. It’s a bold, strategic move towards completing the final step of Rocket Lab’s ultimate vision of truly becoming an end to end space company and operating its own constellation and delivering services from space."*
+>*"the Flatellite is more than just a new product development to serve our customers’ ever evolving needs though. It’s a bold, strategic move towards completing the final step of Rocket Lab’s ultimate vision of truly becoming an end to end space company and operating its own constellation and delivering services from space."* - [[2024 Q4]]
+
+## Production
+
+102 - 365 satellites per year
+
+>[!quote] Sir Peter Beck, Q4 Earnings Call Q&A
+>*"couple of satellites a week up to a satellite a day depending on the customer or the opportunity that we go after"* - [[2024 Q4]]
+
 
 ![[Pasted image 20250302165128.png]]
 
