@@ -47,7 +47,6 @@ A complete solution for uplink and downlink opperations from LEO, the Vireo payl
 | Baseplate Temp. | -24 °C to 61 °C<br>Operational                           |
 | EIRP            | 45 dBW to 49 dBW<br>aggregate at boresight               |
 | G/T             | 5 dB/K<br>300 K scene temperature                        |
-|                 |                                                          |
 
 
 
