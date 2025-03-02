@@ -12,6 +12,7 @@ Website: https://www.cesiumastro.com/
 ## 🌍 Missions
 
 CesiumAstro was selected as a subcontractor for Rocket Lab's [[SDA Tranche 2 - Enhanced Global Coverage]] contract.
+
 🔗 [[Rocket Lab Selects Subcontractors to Support SDA Satellite Constellation Development]]
 
 ## 🚀 Launches
