@@ -4,52 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "309794f94572bf9f",
+        "id": "6606968b6773370a",
         "type": "tabs",
         "children": [
           {
-            "id": "9d7c1665b6cc5eed",
+            "id": "55d0df3b340b47ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Space Systems/Missions/VICTUS HAZE.md",
+                "file": "Space Systems/Spacecraft/Flatellite.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "VICTUS HAZE"
+              "title": "Flatellite"
             }
           },
           {
-            "id": "7f607ce938f68562",
+            "id": "6a74321fa1057ca2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organization/Partners/Space Development Agency (SDA).md",
+                "file": "Financial/Quarterly Reports/2024 Q4.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Space Development Agency (SDA)"
-            }
-          },
-          {
-            "id": "1434a1677fcc958f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Organization/Partners/MDA.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "MDA"
+              "title": "2024 Q4"
             }
           }
         ]
@@ -217,9 +202,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9d7c1665b6cc5eed",
+  "active": "55d0df3b340b47ed",
   "lastOpenFiles": [
+    "Financial/Quarterly Reports/2024 Q4.md",
+    "Space Systems/Spacecraft/Flatellite.md",
+    "News/Rocket Lab Announces Flatellite.md",
+    "Pasted image 20250302165631.png",
+    "Pasted image 20250302165128.png",
+    "Space Systems/Spacecraft/Explorer.md",
+    "Space Systems/Spacecraft/Lightning.md",
+    "Space Systems/Spacecraft/Photon.md",
+    "Space Systems/Spacecraft/Pioneer.md",
+    "Organization/Partners/MDA.md",
+    "2025-03-02.md",
     "Organization/Partners/Space Development Agency (SDA).md",
+    "Space Systems/Missions/SDA Tranche 1 - Initial Warfighting Capability.md",
+    "Space Systems/Missions/SDA Tranche 2 - Enhanced Global Coverage.md",
     "Space Systems/Missions/VICTUS HAZE.md",
     "Space Systems/Missions/Venus Life Finder.md",
     "Space Systems/Missions/Varda W Missions.md",
@@ -229,22 +227,11 @@
     "Space Systems/Missions/Mission Operations Control Center for MethaneSAT.md",
     "🤝 Partners.md",
     "Organization/Partners/Globalstar.md",
-    "Organization/Partners/MDA.md",
     "Organization/Partners/Varda Space Industries.md",
     "Organization/Partners/NASA.md",
     "Space Systems/Missions/National Security Space Launch (NSSL) Lane 1.md",
     "Space Systems/Missions/NOAA SWFO-L1.md",
-    "Space Systems/Missions/SDA Tranche 1 - Initial Warfighting Capability.md",
-    "Space Systems/Missions/SDA Tranche 2 - Enhanced Global Coverage.md",
     "Space Systems/Missions/VADR.md",
-    "Space Systems/Missions/Globalstar (MDA) Satellite Buses.md",
-    "Space Systems/Missions/GLIDE.md",
-    "News/Touchdown For In-Space Manufacturing Mission Rocket Lab’s Pioneer Spacecraft Delivers Re-Entry for Varda’s In-Space Manufacturing Capsule in South Australia.md",
-    "📰 News.md",
-    "💸 Insider Sales.md",
-    "Filings/2024/Form 4/11-27-24 Form 4 - Adam Spice.md",
-    "Filings/2024/Form 4/11-27-24 Form 4 - Arjun Kampani.md",
-    "Filings/2024/Form 4/11-27-24 Form 4 - Frank Klein.md",
     "Vault-Assets/Images/Pasted image 20250301151156.png",
     "Vault-Assets/PDFs/c5d1fba9-6e22-42ae-8e23-a15229a11f4d.pdf",
     "Filings/2025/10-K",
@@ -260,10 +247,8 @@
     "Vault-Assets/PDFs/28758089-ca0a-4210-8cb8-980d77346c1b.pdf",
     "Vault-Assets/Images/Pasted image 20250218222249.png",
     "Vault-Assets/Images/Pasted image 20250218220121.jpg",
-    "Vault-Assets/Images/Pasted image 20250218220438.jpg",
     "Vault-Assets/PDFs/RL-F60-BlackSky-Fasten-Your-Space-Belts.pdf",
     "Vault-Assets/PDFs/Ice-AIS-Baby-Press-Kit2.pdf",
-    "Vault-Assets/Images/Pasted image 20250210171910.jpg",
     "Vault-Assets/PDFs/52595764-ce1d-4962-8bdb-562aa841e4d6.pdf",
     "Untitled.canvas",
     "Subsidiaries/Untitled.canvas"

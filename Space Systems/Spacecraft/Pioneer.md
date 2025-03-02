@@ -5,5 +5,7 @@ Primarily used for [[Varda Space Industries]] pharmaceutical manufacturing missi
 
 ![[Pasted image 20250119155834.png]]
 
-<iframe width="1128" height="644" src="https://www.youtube.com/embed/Wt_1MGBIAeU" title="Varda&#39;s Winnebago-1 Is Operational" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/Wt_1MGBIAeU" title="Varda&#39;s Winnebago-1 Is Operational" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
