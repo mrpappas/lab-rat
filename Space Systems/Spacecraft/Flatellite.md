@@ -1,4 +1,3 @@
->[!warning] Rocket Lab has not provided official specs on Flatellite yet, this page will be updated as they do
 ## Summary 
 
 **Announced February 27 2025** (🔗[[Rocket Lab Announces Flatellite|Article]]), Ideal for high operational duty cycle telecommunications, as well as remote sensing applications.

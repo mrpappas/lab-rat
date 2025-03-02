@@ -11,12 +11,15 @@
             "id": "55d0df3b340b47ed",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Vault-Assets/Images/Pasted image 20250302165128.png"
+                "file": "Space Systems/Spacecraft/Flatellite.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250302165128"
+              "icon": "lucide-file",
+              "title": "Flatellite"
             }
           },
           {
@@ -201,9 +204,9 @@
   },
   "active": "55d0df3b340b47ed",
   "lastOpenFiles": [
+    "Vault-Assets/Images/Pasted image 20250302165128.png",
     "Space Systems/📦 Payload Types.md",
     "2025-03-02.md",
-    "Vault-Assets/Images/Pasted image 20250302165128.png",
     "Space Systems/Spacecraft/Flatellite.md",
     "Financial/Quarterly Reports/2024 Q4.md",
     "News/Rocket Lab Announces Flatellite.md",
@@ -228,7 +231,6 @@
     "Organization/Partners/Varda Space Industries.md",
     "Organization/Partners/NASA.md",
     "Space Systems/Missions/National Security Space Launch (NSSL) Lane 1.md",
-    "Space Systems/Missions/NOAA SWFO-L1.md",
     "Vault-Assets/Images/Pasted image 20250301151156.png",
     "Vault-Assets/PDFs/c5d1fba9-6e22-42ae-8e23-a15229a11f4d.pdf",
     "Filings/2025/10-K",
