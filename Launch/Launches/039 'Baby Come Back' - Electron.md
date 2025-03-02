@@ -26,7 +26,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/baby-come-
 **Mission Name:** Baby Come Back
 **Launch Date:** 2023-07-18 01:27
 **Outcome:** Success
-**Customer:** [[NASA]], [[UTIAS Space Flight Laboratory]], [[Telesat]], [[Spire Global]]
+**Customer:** [[NASA]], [[CesiumAstro]], [[UTIAS Space Flight Laboratory]], [[Telesat]], [[Spire Global]]
 **Location:** [[Launch Complex 1]]
 **Vehicle:** [[Electron]]
 **Orbit Type:** [[🌍 Orbits#SSO]]
