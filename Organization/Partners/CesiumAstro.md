@@ -3,17 +3,22 @@ name: CesiumAstro
 website: https://www.cesiumastro.com/
 ---
 
-Name: CesiumAstro
-Website: https://www.cesiumastro.com/
+**Name**: CesiumAstro
+**Website**: https://www.cesiumastro.com/
 
 >[!summary]
 >CesiumAstro is an aerospace and defense company specializing in active phased array and software-defined radio technology. Founded in 2017 and headquartered in Austin, Texas, the company develops high-performance communication, sensing, and networking systems for satellites, unmanned aerial vehicles, and other mission-critical platforms. CesiumAstro’s modular hardware and software solutions support a range of applications, including secure data transmission, radar, and telemetry. With in-house design, manufacturing, and testing capabilities, the company focuses on delivering scalable, reliable systems for commercial, government, and defense customers.
 
 ## 🌍 Missions
 
+### SDA Tranche 2
 CesiumAstro was selected as a subcontractor for Rocket Lab's [[SDA Tranche 2 - Enhanced Global Coverage]] contract.
 
 🔗 [[Rocket Lab Selects Subcontractors to Support SDA Satellite Constellation Development]]
+
+### NASA Starling
+Part of of [NASA's Starling](https://www.nasa.gov/smallspacecraft/what-is-starling/) mission, CesiumAstro was selected to provide crosslink radios and antennas for the MANET (Mobile Ad-hoc Network) experiment. The CommPacks were installed on each of the four cubesats launched on [[039 'Baby Come Back' - Electron]] 
+
 
 ## 🚀 Launches
 %%DATAVIEW_PUBLISHER: start
@@ -57,3 +62,41 @@ A complete solution for uplink and downlink opperations from LEO, the Vireo payl
 
 ![[Pasted image 20250302181043.png]]
 
+### CommPack Cross-Link Communications Payload
+
+https://www.cesiumastro.com/applications/isl
+
+Part of NASA's Starling mission, CesiumAstro’s CommPack payload includes two S-band antennas, the [[CesiumAstro#🛰️ Space Systems#SDR-1001 Software Defined Radio|SDR-1001 software-defined radio]], and their carrier-sense multiple access/time-division duplexed (CSMA/TDD) waveform enabling mobile ad hoc networking (MANET) in space. The satellites use CommPack to establish and maintain the dynamic communications network between the spacecraft in the swarm.
+
+[📰 News Release](https://www.cesiumastro.com/press-release/cesiumastro-celebrates-successful-tests-of-its-commpack-cross-link-communications-payloads-on-nasas-starling-mission-achieves-trl-9-status)
+
+![[Pasted image 20250303002028.png]]
+
+### SDR-1001 Software Defined Radio
+
+https://www.cesiumastro.com/products/sdr-1001#specifications
+
+A high-performance, compact, software-defined radio designed to operate in LEO and airborne environments, SDR-1001 is suitable for demanding RF, digital signal processing, and communications applications supporting custom waveform development or DVB-S2/DVB-S2X and CCSDS modems.
+
+- 4x 200 MHz Tx channels
+- 4x 100 MHz Rx channels
+- TDD and FDD operation
+- Tunable from 300 MHz to 6 GHz
+- Tx up to 500 Mb/s on single channel
+- 1000BASE-X, UART, and SpaceWire interfaces
+- FPGA Development Kit™ for user-customizable waveform development
+- Redundant boot flash with automatic failover and watchdog timers
+- Onboard telemetry sensing
+- Compact design with thermal pillars
+
+| Specification            | Value           |
+| ------------------------ | --------------- |
+| DC Input Voltage         | 9 V to 13 V     |
+| Baseplate Operating Temp | -24 °C to 61 °C |
+| Mass                     | 110 g           |
+
+
+![[Pasted image 20250303003049.png]]
+
+
+![[Pasted image 20250303003029.png]]
