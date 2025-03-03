@@ -47,13 +47,18 @@ The ‘Baby Come Back’ mission is a rideshare mission and will carry satellite
 >
 [[NASA]]:  NASA’s [Starling mission](https://www.nasa.gov/smallspacecraft/what-is-starling/) is a four CubeSat mission designed to test technologies to enable future “swarm” missions. Spacecraft swarms refer to multiple spacecraft autonomously coordinating their activities to achieve certain goals. Starling will demonstrate technologies for in-space network communications, onboard relative navigation between spacecraft, autonomous maneuver planning, and execution, and distributed spacecraft autonomy - an experiment for small spacecraft to autonomously react to observations, paving the way for future science missions.
 >
->[[CesiumAstro]]: as a partner in the above mentioned Starling mission, providing "crosslink radios and antennas for the MANET experiment."
+>[[CesiumAstro]]: as a partner in the above mentioned Starling mission, providing [[CesiumAstro#🛰️ Space Systems#CommPack Cross-Link Communications Payload|CommPack Cross-Link Communications Payloads]] for each of the four cubesats. 
 >
 [[UTIAS Space Flight Laboratory]]:  Space Flight Laboratory (SFL) selected Rocket Lab to launch Telesat’s LEO 3 demonstration satellite that will provide continuity for customer and ecosystem vendor testing campaigns following the decommissioning of Telesat’s Phase 1 LEO satellite.
 >
 [[Spire Global]] Global:  Spire will launch two 3U satellites carrying Global Navigation Satellite System Radio Occultation (GNSS-RO) payloads to replenish its fully deployed constellation of more than 100 multipurpose satellites. Spire’s satellites observe the Earth in real time using radio frequency technology. The data acquired by Spire’s GNSS-RO payloads provide global weather intelligence that can be assimilated into weather models to improve the accuracy of forecasts. Spire is the largest producer of GNSS-RO weather data, collecting over 20,000 RO profiles a day.
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720309411224/)
+
+### 📦 Payload
+
+- x4 CesiumAstro [[CesiumAstro#🛰️ Space Systems#CommPack Cross-Link Communications Payload|CommPack Cross-Link Communications Payload]]s aboard the four CubeSats from the NASA Starling mission 
+- x2 [[Spire Global]] 3U Satellites
 
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
