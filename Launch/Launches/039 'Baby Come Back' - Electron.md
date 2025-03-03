@@ -57,7 +57,7 @@ The ‘Baby Come Back’ mission is a rideshare mission and will carry satellite
 
 ### 📦 Payload
 
-- x4 CesiumAstro [[CesiumAstro#🛰️ Space Systems#CommPack Cross-Link Communications Payload|CommPack Cross-Link Communications Payload]]s as a part of the [NASA Starling](https://www.nasa.gov/smallspacecraft/what-is-starling/) Mission 
+- x4 NASA [Starling](https://www.nasa.gov/smallspacecraft/what-is-starling/) CubeSats housing CesiumAstro [[CesiumAstro#🛰️ Space Systems#CommPack Cross-Link Communications Payload|CommPack Cross-Link Communications Payload]]s
 - x2 [[Spire Global]] 3U Satellites
 
 ## 📰 News
