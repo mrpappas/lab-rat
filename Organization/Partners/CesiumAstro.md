@@ -100,3 +100,20 @@ A high-performance, compact, software-defined radio designed to operate in LEO a
 
 
 ![[Pasted image 20250303003029.png]]
+
+
+## 📰 News
+%%DATAVIEW_PUBLISHER: start
+```
+table title as "Title", published as "Published"
+from "News"
+where contains(partners, [[CesiumAstro]])
+sort published desc
+```
+%%
+
+| File                                                                                                                                                                                   | Title                                                                                 | Published    |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------ |
+| [[News/Rocket Lab Selects Subcontractors to Support SDA Satellite Constellation Development.md\|Rocket Lab Selects Subcontractors to Support SDA Satellite Constellation Development]] | Rocket Lab Selects Subcontractors to Support SDA Satellite Constellation Development  | May 06, 2024 |
+
+%%DATAVIEW_PUBLISHER: end %%
