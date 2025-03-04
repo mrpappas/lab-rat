@@ -12,21 +12,24 @@ website: https://spire.com/
 
 
 ## 🚀 Launches
+
+### <span style="color:limegreen">Successful Launches</span>
+
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date, outcome
+table launch_date
 from "Launch/Launches"
-where contains(customer, [[Spire Global]])
+where contains(customer, [[Spire Global]]) and outcome = "Success"
 sort launch_date desc
 ```
 %%
 
-| File                                                                                            | launch_date      | outcome |
-| ----------------------------------------------------------------------------------------------- | ---------------- | ------- |
-| [[Launch/Launches/043 'Four Of A Kind' - Electron.md\|043 'Four Of A Kind' - Electron]]         | 2024-01-31 06:34 | Success |
-| [[Launch/Launches/039 'Baby Come Back' - Electron.md\|039 'Baby Come Back' - Electron]]         | 2023-07-18 01:27 | Success |
-| [[Launch/Launches/003 'It's Business Time' - Electron.md\|003 'It's Business Time' - Electron]] | 2018-11-11 03:50 | Success |
-| [[Launch/Launches/002 'Still Testing' - Electron.md\|002 'Still Testing' - Electron]]           | 2018-01-21 02:43 | Success |
+| File                                                                                            | launch_date      |
+| ----------------------------------------------------------------------------------------------- | ---------------- |
+| [[Launch/Launches/043 'Four Of A Kind' - Electron.md\|043 'Four Of A Kind' - Electron]]         | 2024-01-31 06:34 |
+| [[Launch/Launches/039 'Baby Come Back' - Electron.md\|039 'Baby Come Back' - Electron]]         | 2023-07-18 01:27 |
+| [[Launch/Launches/003 'It's Business Time' - Electron.md\|003 'It's Business Time' - Electron]] | 2018-11-11 03:50 |
+| [[Launch/Launches/002 'Still Testing' - Electron.md\|002 'Still Testing' - Electron]]           | 2018-01-21 02:43 |
 
 %%DATAVIEW_PUBLISHER: end %%
 

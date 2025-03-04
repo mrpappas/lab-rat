@@ -10,22 +10,25 @@ website: https://www.nro.gov/
 >[!summary]
 >The National Reconnaissance Office (NRO) is a U.S. government agency responsible for designing, building, and operating reconnaissance satellites to support national security. Established in 1961, the NRO plays a critical role in collecting intelligence for the Department of Defense, intelligence community, and policymakers, focusing on areas like threat assessment, military operations, and disaster response. It develops and manages cutting-edge satellite systems, leveraging advanced technologies to provide geospatial intelligence (GEOINT) and signals intelligence (SIGINT). The NRO works closely with agencies like the CIA, NSA, and U.S. Space Force, as well as commercial and international partners, ensuring the United States maintains a strategic advantage in space-based reconnaissance.
 ## 🚀 Launches
+
+### <span style="color:limegreen">Successful Launches</span>
+
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date, outcome
+table launch_date
 from "Launch/Launches"
-where contains(customer, [[National Reconnaissance Office (NRO)]])
+where contains(customer, [[National Reconnaissance Office (NRO)]]) and outcome = "Success"
 sort launch_date desc
 ```
 %%
 
-| File                                                                                                | launch_date      | outcome |
-| --------------------------------------------------------------------------------------------------- | ---------------- | ------- |
-| [[Launch/Launches/046 'Live And Let Fly' - Electron.md\|046 'Live And Let Fly' - Electron]]         | 2024-03-21 06:40 | Success |
-| [[Launch/Launches/029 'Antipodean Adventure' - Electron.md\|029 'Antipodean Adventure' - Electron]] | 2022-08-04 05:00 | Success |
-| [[Launch/Launches/028 'Wise One Looks Ahead' - Electron.md\|028 'Wise One Looks Ahead' - Electron]] | 2022-07-13 06:30 | Success |
-| [[Launch/Launches/012 'Don't Stop Me Now' - Electron.md\|012 'Don't Stop Me Now' - Electron]]       | 2020-06-13 05:12 | Success |
-| [[Launch/Launches/011 'Birds of a Feather' - Electron.md\|011 'Birds of a Feather' - Electron]]     | 2020-01-31 02:56 | Success |
+| File                                                                                                | launch_date      |
+| --------------------------------------------------------------------------------------------------- | ---------------- |
+| [[Launch/Launches/046 'Live And Let Fly' - Electron.md\|046 'Live And Let Fly' - Electron]]         | 2024-03-21 06:40 |
+| [[Launch/Launches/029 'Antipodean Adventure' - Electron.md\|029 'Antipodean Adventure' - Electron]] | 2022-08-04 05:00 |
+| [[Launch/Launches/028 'Wise One Looks Ahead' - Electron.md\|028 'Wise One Looks Ahead' - Electron]] | 2022-07-13 06:30 |
+| [[Launch/Launches/012 'Don't Stop Me Now' - Electron.md\|012 'Don't Stop Me Now' - Electron]]       | 2020-06-13 05:12 |
+| [[Launch/Launches/011 'Birds of a Feather' - Electron.md\|011 'Birds of a Feather' - Electron]]     | 2020-01-31 02:56 |
 
 %%DATAVIEW_PUBLISHER: end %%
 

@@ -14,19 +14,22 @@ Tyvak Nano-Satellite Systems designs and builds advanced small satellites, offer
 
 
 ## 🚀 Launches
+
+### <span style="color:limegreen">Successful Launches</span>
+
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date, outcome
+table launch_date
 from "Launch/Launches"
-where contains(customer, [[Tyvak Nano-Satellite Systems]])
+where contains(customer, [[Tyvak Nano-Satellite Systems]]) and outcome = "Success"
 sort launch_date desc
 ```
 %%
 
-| File                                                                                            | launch_date      | outcome |
-| ----------------------------------------------------------------------------------------------- | ---------------- | ------- |
-| [[Launch/Launches/019 'They Go Up So Fast' - Electron.md\|019 'They Go Up So Fast' - Electron]] | 2021-03-22 22:30 | Success |
-| [[Launch/Launches/003 'It's Business Time' - Electron.md\|003 'It's Business Time' - Electron]] | 2018-11-11 03:50 | Success |
+| File                                                                                            | launch_date      |
+| ----------------------------------------------------------------------------------------------- | ---------------- |
+| [[Launch/Launches/019 'They Go Up So Fast' - Electron.md\|019 'They Go Up So Fast' - Electron]] | 2021-03-22 22:30 |
+| [[Launch/Launches/003 'It's Business Time' - Electron.md\|003 'It's Business Time' - Electron]] | 2018-11-11 03:50 |
 
 %%DATAVIEW_PUBLISHER: end %%
 

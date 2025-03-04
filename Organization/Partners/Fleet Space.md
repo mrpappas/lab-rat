@@ -10,19 +10,22 @@ website: https://www.fleetspace.com/
 >[!summary]
 Fleet Space Technologies is an Australian company specializing in satellite-based connectivity solutions, focusing on Internet of Things (IoT) applications. Fleet operates a constellation of small low Earth orbit ([[🌍 Orbits#LEO|LEO]]) satellites that provide global, low-power, and cost-effective communications for industries such as mining, energy, agriculture, and defense. Their [ExoSphere](https://www.fleetspace.com/mineral-exploration) service combines satellite technology with geophysical sensors to support exploration and resource management. Fleet Space emphasizes innovation in nanosatellite design and rapid deployment to enable scalable IoT solutions.
 ## 🚀 Launches
+
+### <span style="color:limegreen">Successful Launches</span>
+
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date, outcome
+table launch_date
 from "Launch/Launches"
-where contains(customer, [[Fleet Space]])
+where contains(customer, [[Fleet Space]]) and outcome = "Success"
 sort launch_date desc
 ```
 %%
 
-| File                                                                                            | launch_date      | outcome |
-| ----------------------------------------------------------------------------------------------- | ---------------- | ------- |
-| [[Launch/Launches/019 'They Go Up So Fast' - Electron.md\|019 'They Go Up So Fast' - Electron]] | 2021-03-22 22:30 | Success |
-| [[Launch/Launches/003 'It's Business Time' - Electron.md\|003 'It's Business Time' - Electron]] | 2018-11-11 03:50 | Success |
+| File                                                                                            | launch_date      |
+| ----------------------------------------------------------------------------------------------- | ---------------- |
+| [[Launch/Launches/019 'They Go Up So Fast' - Electron.md\|019 'They Go Up So Fast' - Electron]] | 2021-03-22 22:30 |
+| [[Launch/Launches/003 'It's Business Time' - Electron.md\|003 'It's Business Time' - Electron]] | 2018-11-11 03:50 |
 
 %%DATAVIEW_PUBLISHER: end %%
 

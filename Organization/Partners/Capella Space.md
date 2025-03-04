@@ -38,22 +38,41 @@ Features:
 ![[Pasted image 20241225001756.jpg]]
 
 ## 🚀 Launches
+
+### <span style="color:limegreen">Successful Launches</span>
+
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date, outcome
+table launch_date
 from "Launch/Launches"
-where contains(customer, [[Capella Space]])
+where contains(customer, [[Capella Space]]) and outcome = "Success"
 sort launch_date desc
 ```
 %%
 
-| File                                                                                                                        | launch_date      | outcome |
-| --------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------- |
-| [[Launch/Launches/052 'A Sky Full Of SARs' - Electron.md\|052 'A Sky Full Of SARs' - Electron]]                             | 2024-08-11 13:18 | Success |
-| [[Launch/Launches/041 'We Will Never Desert You' - Electron.md\|041 'We Will Never Desert You' - Electron]]                 | 2023-09-19 06:55 | Failure |
-| [[Launch/Launches/040 'We Love The Nightlife' - Electron.md\|040 'We Love The Nightlife' - Electron]]                       | 2023-08-24 23:45 | Success |
-| [[Launch/Launches/034 'Stronger Together' - Electron.md\|034 'Stronger Together' - Electron]]                               | 2023-03-16 22:38 | Success |
-| [[Launch/Launches/014 'I Can't Believe It's Not Optical' - Electron.md\|014 'I Can't Believe It's Not Optical' - Electron]] | 2020-08-31 03:05 | Success |
+| File                                                                                                                        | launch_date      |
+| --------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[Launch/Launches/052 'A Sky Full Of SARs' - Electron.md\|052 'A Sky Full Of SARs' - Electron]]                             | 2024-08-11 13:18 |
+| [[Launch/Launches/040 'We Love The Nightlife' - Electron.md\|040 'We Love The Nightlife' - Electron]]                       | 2023-08-24 23:45 |
+| [[Launch/Launches/034 'Stronger Together' - Electron.md\|034 'Stronger Together' - Electron]]                               | 2023-03-16 22:38 |
+| [[Launch/Launches/014 'I Can't Believe It's Not Optical' - Electron.md\|014 'I Can't Believe It's Not Optical' - Electron]] | 2020-08-31 03:05 |
+
+%%DATAVIEW_PUBLISHER: end %%
+
+### <span style="color:orangered">Failed Launches</span>
+
+%%DATAVIEW_PUBLISHER: start
+```
+table launch_date
+from "Launch/Launches"
+where contains(customer, [[Capella Space]]) and outcome = "Failure"
+sort launch_date desc
+```
+%%
+
+| File                                                                                                        | launch_date      |
+| ----------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[Launch/Launches/041 'We Will Never Desert You' - Electron.md\|041 'We Will Never Desert You' - Electron]] | 2023-09-19 06:55 |
 
 %%DATAVIEW_PUBLISHER: end %%
 

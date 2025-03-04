@@ -11,18 +11,21 @@ website: https://astrix.space/
 Astrix Astronautics is a New Zealand-based company specializing in innovative power systems for small satellites. The company focuses on developing high-performance solar arrays and deployable power solutions to maximize energy efficiency for small satellite platforms. Astrix's technology is designed to meet the growing power demands of modern satellite missions, supporting applications such as Earth observation, communications, and deep space exploration. Their systems enable increased satellite capabilities while maintaining a compact and lightweight form factor, catering to both commercial and government customers in the space industry.
 
 ## 🚀 Launches
+
+### <span style="color:limegreen">Successful Launches</span>
+
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date, outcome
+table launch_date
 from "Launch/Launches"
-where contains(customer, [[Astrix Astronautics]])
+where contains(customer, [[Astrix Astronautics]]) and outcome = "Success"
 sort launch_date desc
 ```
 %%
 
-| File                                                                                                | launch_date      | outcome |
-| --------------------------------------------------------------------------------------------------- | ---------------- | ------- |
-| [[Launch/Launches/026 'There And Back Again' - Electron.md\|026 'There And Back Again' - Electron]] | 2022-05-02 22:49 | Success |
+| File                                                                                                | launch_date      |
+| --------------------------------------------------------------------------------------------------- | ---------------- |
+| [[Launch/Launches/026 'There And Back Again' - Electron.md\|026 'There And Back Again' - Electron]] | 2022-05-02 22:49 |
 
 %%DATAVIEW_PUBLISHER: end %%
 

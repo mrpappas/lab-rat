@@ -16,18 +16,21 @@ The company aims to deliver critical data to governments, commercial operators, 
 
 
 ## 🚀 Launches
+
+### <span style="color:limegreen">Successful Launches</span>
+
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date, outcome
+table launch_date
 from "Launch/Launches"
-where contains(customer, [[NorthStar Earth & Space]])
+where contains(customer, [[NorthStar Earth & Space]]) and outcome = "Success"
 sort launch_date desc
 ```
 %%
 
-| File                                                                                    | launch_date      | outcome |
-| --------------------------------------------------------------------------------------- | ---------------- | ------- |
-| [[Launch/Launches/043 'Four Of A Kind' - Electron.md\|043 'Four Of A Kind' - Electron]] | 2024-01-31 06:34 | Success |
+| File                                                                                    | launch_date      |
+| --------------------------------------------------------------------------------------- | ---------------- |
+| [[Launch/Launches/043 'Four Of A Kind' - Electron.md\|043 'Four Of A Kind' - Electron]] | 2024-01-31 06:34 |
 
 %%DATAVIEW_PUBLISHER: end %%
 

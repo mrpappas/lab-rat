@@ -22,18 +22,20 @@ In this orbit, CAPSTONE will orbit together with the Moon as it orbits Earth and
 
 ## 🚀 Launches
 
+### <span style="color:limegreen">Successful Launches</span>
+
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date, outcome
+table launch_date
 from "Launch/Launches"
-where contains(customer, [[Advanced Space]])
+where contains(customer, [[Advanced Space]]) and outcome = "Success"
 sort launch_date desc
 ```
 %%
 
-| File                                                                        | launch_date      | outcome |
-| --------------------------------------------------------------------------- | ---------------- | ------- |
-| [[Launch/Launches/027 'CAPSTONE' - Electron.md\|027 'CAPSTONE' - Electron]] | 2022-06-28 09:55 | Success |
+| File                                                                        | launch_date      |
+| --------------------------------------------------------------------------- | ---------------- |
+| [[Launch/Launches/027 'CAPSTONE' - Electron.md\|027 'CAPSTONE' - Electron]] | 2022-06-28 09:55 |
 
 %%DATAVIEW_PUBLISHER: end %%
 
@@ -41,26 +43,26 @@ sort launch_date desc
 
 %%DATAVIEW_PUBLISHER: start
 ```
-table title as "Title", published as "Published"
+table published as "Published"
 from "News"
 where contains(customer, [[Advanced Space]])
 sort published desc
 ```
 %%
 
-| File                                                                                                                                                                                                                                                             | Title                                                                                                                      | Published         |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| [[News/Rocket Lab-launched CAPSTONE Spacecraft Enters Lunar Orbit.md\|Rocket Lab-launched CAPSTONE Spacecraft Enters Lunar Orbit]]                                                                                                                               | Rocket Lab-launched CAPSTONE Spacecraft Enters Lunar Orbit                                                                 | November 15, 2022 |
-| [[News/Rocket Lab Moon Mission for NASA a Success  Rocket Lab.md\|Rocket Lab Moon Mission for NASA a Success  Rocket Lab]]                                                                                                                                       | Rocket Lab Moon Mission for NASA a Success                                                                                 | July 04, 2022     |
-| [[News/Rocket Lab’s Lunar Photon Completes Sixth Orbit Raise for NASA’s CAPSTONE Mission to The Moon.md\|Rocket Lab’s Lunar Photon Completes Sixth Orbit Raise for NASA’s CAPSTONE Mission to The Moon]]                                                         | Rocket Lab’s Lunar Photon Completes Sixth Orbit Raise for NASA’s CAPSTONE Mission to The Moon                              | July 01, 2022     |
-| [[News/Rocket Lab Completes Fifth Orbit Raise For NASA’s CAPSTONE Mission to The Moon.md\|Rocket Lab Completes Fifth Orbit Raise For NASA’s CAPSTONE Mission to The Moon]]                                                                                       | Rocket Lab Completes Fifth Orbit Raise For NASA’s CAPSTONE Mission to The Moon                                             | June 30, 2022     |
-| [[News/Rocket Lab Successfully Raises Orbit a Fourth Time For NASA’s CAPSTONE Moon Mission.md\|Rocket Lab Successfully Raises Orbit a Fourth Time For NASA’s CAPSTONE Moon Mission]]                                                                             | Rocket Lab Successfully Raises Orbit a Fourth Time For NASA’s CAPSTONE Moon Mission                                        | June 30, 2022     |
-| [[News/Rocket Lab’s Lunar Photon Spacecraft Successfully Completes Third Orbit Raising Maneuver for NASA’s CAPSTONE Moon Mission.md\|Rocket Lab’s Lunar Photon Spacecraft Successfully Completes Third Orbit Raising Maneuver for NASA’s CAPSTONE Moon Mission]] | Rocket Lab’s Lunar Photon Spacecraft Successfully Completes Third Orbit Raising Maneuver for NASA’s CAPSTONE Moon Mission  | June 29, 2022     |
-| [[News/Rocket Lab Successfully Launches CAPSTONE Spacecraft, Completes First Leg of Moon Mission for NASA.md\|Rocket Lab Successfully Launches CAPSTONE Spacecraft, Completes First Leg of Moon Mission for NASA]]                                               | Rocket Lab Successfully Launches CAPSTONE Spacecraft, Completes First Leg of Moon Mission for NASA                         | June 28, 2022     |
-| [[News/Rocket Lab Prepares to Launch CAPSTONE Mission to the Moon for NASA.md\|Rocket Lab Prepares to Launch CAPSTONE Mission to the Moon for NASA]]                                                                                                             | Rocket Lab Prepares to Launch CAPSTONE Mission to the Moon for NASA                                                        | June 23, 2022     |
-| [[News/Rocket Lab Begins Payload Integration for CAPSTONE Mission to the Moon.md\|Rocket Lab Begins Payload Integration for CAPSTONE Mission to the Moon]]                                                                                                       | Rocket Lab Begins Payload Integration for CAPSTONE Mission to the Moon                                                     | May 16, 2022      |
-| [[News/Rocket Lab to Launch NASA Funded Commercial Moon Mission from New Zealand.md\|Rocket Lab to Launch NASA Funded Commercial Moon Mission from New Zealand]]                                                                                                 | Rocket Lab to Launch NASA Funded Commercial Moon Mission from New Zealand                                                  | August 06, 2021   |
-| [[News/Rocket Lab Readies Photon Spacecraft for NASA Moon Mission.md\|Rocket Lab Readies Photon Spacecraft for NASA Moon Mission]]                                                                                                                               | Rocket Lab Readies Photon Spacecraft for NASA Moon Mission                                                                 | December 11, 2020 |
-| [[News/Rocket Lab Selected by NASA to Launch Pathfinder Mission to the Moon.md\|Rocket Lab Selected by NASA to Launch Pathfinder Mission to the Moon]]                                                                                                           | Rocket Lab Selected by NASA to Launch Pathfinder Mission to the Moon                                                       | February 14, 2020 |
+| File                                                                                                                                                                                                                                                             | Published         |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[News/Rocket Lab-launched CAPSTONE Spacecraft Enters Lunar Orbit.md\|Rocket Lab-launched CAPSTONE Spacecraft Enters Lunar Orbit]]                                                                                                                               | November 15, 2022 |
+| [[News/Rocket Lab Moon Mission for NASA a Success  Rocket Lab.md\|Rocket Lab Moon Mission for NASA a Success  Rocket Lab]]                                                                                                                                       | July 04, 2022     |
+| [[News/Rocket Lab’s Lunar Photon Completes Sixth Orbit Raise for NASA’s CAPSTONE Mission to The Moon.md\|Rocket Lab’s Lunar Photon Completes Sixth Orbit Raise for NASA’s CAPSTONE Mission to The Moon]]                                                         | July 01, 2022     |
+| [[News/Rocket Lab Completes Fifth Orbit Raise For NASA’s CAPSTONE Mission to The Moon.md\|Rocket Lab Completes Fifth Orbit Raise For NASA’s CAPSTONE Mission to The Moon]]                                                                                       | June 30, 2022     |
+| [[News/Rocket Lab Successfully Raises Orbit a Fourth Time For NASA’s CAPSTONE Moon Mission.md\|Rocket Lab Successfully Raises Orbit a Fourth Time For NASA’s CAPSTONE Moon Mission]]                                                                             | June 30, 2022     |
+| [[News/Rocket Lab’s Lunar Photon Spacecraft Successfully Completes Third Orbit Raising Maneuver for NASA’s CAPSTONE Moon Mission.md\|Rocket Lab’s Lunar Photon Spacecraft Successfully Completes Third Orbit Raising Maneuver for NASA’s CAPSTONE Moon Mission]] | June 29, 2022     |
+| [[News/Rocket Lab Successfully Launches CAPSTONE Spacecraft, Completes First Leg of Moon Mission for NASA.md\|Rocket Lab Successfully Launches CAPSTONE Spacecraft, Completes First Leg of Moon Mission for NASA]]                                               | June 28, 2022     |
+| [[News/Rocket Lab Prepares to Launch CAPSTONE Mission to the Moon for NASA.md\|Rocket Lab Prepares to Launch CAPSTONE Mission to the Moon for NASA]]                                                                                                             | June 23, 2022     |
+| [[News/Rocket Lab Begins Payload Integration for CAPSTONE Mission to the Moon.md\|Rocket Lab Begins Payload Integration for CAPSTONE Mission to the Moon]]                                                                                                       | May 16, 2022      |
+| [[News/Rocket Lab to Launch NASA Funded Commercial Moon Mission from New Zealand.md\|Rocket Lab to Launch NASA Funded Commercial Moon Mission from New Zealand]]                                                                                                 | August 06, 2021   |
+| [[News/Rocket Lab Readies Photon Spacecraft for NASA Moon Mission.md\|Rocket Lab Readies Photon Spacecraft for NASA Moon Mission]]                                                                                                                               | December 11, 2020 |
+| [[News/Rocket Lab Selected by NASA to Launch Pathfinder Mission to the Moon.md\|Rocket Lab Selected by NASA to Launch Pathfinder Mission to the Moon]]                                                                                                           | February 14, 2020 |
 
 %%DATAVIEW_PUBLISHER: end %%

@@ -11,19 +11,22 @@ website: https://e-space.com/
 E-Space is a low Earth orbit ([[🌍 Orbits#LEO|LEO]]) satellite communications company focused on building a sustainable satellite network. The company aims to deploy low-cost, small satellites that offer global connectivity while minimizing space debris through collision avoidance and deorbiting technologies. E-Space emphasizes modular satellite design, efficient manufacturing, and a focus on sustainability to enable scalable and responsible space-based communications solutions for commercial, government, and IoT applications.
 
 ## 🚀 Launches
+
+### <span style="color:limegreen">Successful Launches</span>
+
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date, outcome
+table launch_date
 from "Launch/Launches"
-where contains(customer, [[E-Space]])
+where contains(customer, [[E-Space]]) and outcome = "Success"
 sort launch_date desc
 ```
 %%
 
-| File                                                                                                                                            | launch_date      | outcome |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------- |
-| [[Launch/Launches/054 'Changes In Latitudes, Changes In Attitudes' - Electron.md\|054 'Changes In Latitudes, Changes In Attitudes' - Electron]] | 2024-11-05 10:54 | Success |
-| [[Launch/Launches/026 'There And Back Again' - Electron.md\|026 'There And Back Again' - Electron]]                                             | 2022-05-02 22:49 | Success |
+| File                                                                                                                                            | launch_date      |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[Launch/Launches/054 'Changes In Latitudes, Changes In Attitudes' - Electron.md\|054 'Changes In Latitudes, Changes In Attitudes' - Electron]] | 2024-11-05 10:54 |
+| [[Launch/Launches/026 'There And Back Again' - Electron.md\|026 'There And Back Again' - Electron]]                                             | 2022-05-02 22:49 |
 
 %%DATAVIEW_PUBLISHER: end %%
 

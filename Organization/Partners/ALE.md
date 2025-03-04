@@ -12,18 +12,21 @@ website: https://star-ale.com/en/technology/
 ALE Co., Ltd. is a Japanese company specializing in space entertainment and atmospheric research through artificial meteor showers. ALE uses small satellites equipped with technology to release specially designed particles that create visible "shooting stars" when they re-enter Earth's atmosphere and burn up. This technology enables unique light displays for events and scientific observation while contributing to atmospheric data collection. ALE's mission combines innovation in space with commercial applications and scientific research, aiming to advance our understanding of Earth's atmosphere while creating novel space-based experiences.
 
 ## 🚀 Launches
+
+### <span style="color:limegreen">Successful Launches</span>
+
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date, outcome
+table launch_date
 from "Launch/Launches"
-where contains(customer, [[ALE]])
+where contains(customer, [[ALE]]) and outcome = "Success"
 sort launch_date desc
 ```
 %%
 
-| File                                                                                                    | launch_date      | outcome |
-| ------------------------------------------------------------------------------------------------------- | ---------------- | ------- |
-| [[Launch/Launches/010 'Running Out Of Fingers' - Electron.md\|010 'Running Out Of Fingers' - Electron]] | 2019-12-06 08:18 | Success |
+| File                                                                                                    | launch_date      |
+| ------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[Launch/Launches/010 'Running Out Of Fingers' - Electron.md\|010 'Running Out Of Fingers' - Electron]] | 2019-12-06 08:18 |
 
 %%DATAVIEW_PUBLISHER: end %%
 

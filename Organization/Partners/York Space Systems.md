@@ -12,18 +12,21 @@ website: https://www.yorkspacesystems.com/
 
 
 ## 🚀 Launches
+
+### <span style="color:limegreen">Successful Launches</span>
+
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date, outcome
+table launch_date
 from "Launch/Launches"
-where contains(customer, [[York Space Systems]])
+where contains(customer, [[York Space Systems]]) and outcome = "Success"
 sort launch_date desc
 ```
 %%
 
-| File                                                                        | launch_date      | outcome |
-| --------------------------------------------------------------------------- | ---------------- | ------- |
-| [[Launch/Launches/006 'STP-27RD' - Electron.md\|006 'STP-27RD' - Electron]] | 2019-05-05 06:00 | Success |
+| File                                                                        | launch_date      |
+| --------------------------------------------------------------------------- | ---------------- |
+| [[Launch/Launches/006 'STP-27RD' - Electron.md\|006 'STP-27RD' - Electron]] | 2019-05-05 06:00 |
 
 %%DATAVIEW_PUBLISHER: end %%
 

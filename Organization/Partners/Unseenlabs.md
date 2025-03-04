@@ -14,20 +14,23 @@ website: https://unseenlabs.space/
 
 
 ## 🚀 Launches
+
+### <span style="color:limegreen">Successful Launches</span>
+
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date, outcome
+table launch_date
 from "Launch/Launches"
-where contains(customer, [[Unseenlabs]])
+where contains(customer, [[Unseenlabs]]) and outcome = "Success"
 sort launch_date desc
 ```
 %%
 
-| File                                                                                                | launch_date      | outcome |
-| --------------------------------------------------------------------------------------------------- | ---------------- | ------- |
-| [[Launch/Launches/026 'There And Back Again' - Electron.md\|026 'There And Back Again' - Electron]] | 2022-05-02 22:49 | Success |
-| [[Launch/Launches/016 'Return to Sender' - Electron.md\|016 'Return to Sender' - Electron]]         | 2020-11-20 02:20 | Success |
-| [[Launch/Launches/008 'Look Ma, No Hands' - Electron.md\|008 'Look Ma, No Hands' - Electron]]       | 2019-08-19 12:12 | Success |
+| File                                                                                                | launch_date      |
+| --------------------------------------------------------------------------------------------------- | ---------------- |
+| [[Launch/Launches/026 'There And Back Again' - Electron.md\|026 'There And Back Again' - Electron]] | 2022-05-02 22:49 |
+| [[Launch/Launches/016 'Return to Sender' - Electron.md\|016 'Return to Sender' - Electron]]         | 2020-11-20 02:20 |
+| [[Launch/Launches/008 'Look Ma, No Hands' - Electron.md\|008 'Look Ma, No Hands' - Electron]]       | 2019-08-19 12:12 |
 
 %%DATAVIEW_PUBLISHER: end %%
 

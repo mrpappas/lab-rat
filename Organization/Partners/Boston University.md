@@ -8,18 +8,21 @@ website: https://www.bu.edu/
 **Website:** https://www.bu.edu/
 
 ## 🚀 Launches
+
+### <span style="color:limegreen">Successful Launches</span>
+
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date, outcome
+table launch_date
 from "Launch/Launches"
-where contains(customer, [[Boston University]])
+where contains(customer, [[Boston University]]) and outcome = "Success"
 sort launch_date desc
 ```
 %%
 
-| File                                                                                          | launch_date      | outcome |
-| --------------------------------------------------------------------------------------------- | ---------------- | ------- |
-| [[Launch/Launches/012 'Don't Stop Me Now' - Electron.md\|012 'Don't Stop Me Now' - Electron]] | 2020-06-13 05:12 | Success |
+| File                                                                                          | launch_date      |
+| --------------------------------------------------------------------------------------------- | ---------------- |
+| [[Launch/Launches/012 'Don't Stop Me Now' - Electron.md\|012 'Don't Stop Me Now' - Electron]] | 2020-06-13 05:12 |
 
 %%DATAVIEW_PUBLISHER: end %%
 

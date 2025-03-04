@@ -9,20 +9,24 @@ website: https://www.airforce.com/
 
 >[!summary]
 >The U.S. Air Force (USAF) plays a vital role in national security through its operations in air, space, and cyber domains, with a significant focus on space capabilities. Before the establishment of the [[U.S. Space Force]] in 2019, the USAF managed the majority of the Department of Defense's space operations. Its contributions include developing and maintaining critical satellite systems for global positioning (GPS), missile warning, communications, and weather monitoring. The USAF also pioneered space surveillance, orbital debris tracking, and space situational awareness to ensure safe and secure operations in Earth's orbit. Today, the Air Force continues to support space missions through collaboration with the Space Force, focusing on advanced technologies, launch systems, and integrating space capabilities into joint military operations to maintain U.S. superiority in space.
+
 ## 🚀 Launches
+
+### <span style="color:limegreen">Successful Launches</span>
+
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date, outcome
+table launch_date
 from "Launch/Launches"
-where contains(customer, [[U.S. Air Force]])
+where contains(customer, [[U.S. Air Force]]) and outcome = "Success"
 sort launch_date desc
 ```
 %%
 
-| File                                                                                          | launch_date      | outcome |
-| --------------------------------------------------------------------------------------------- | ---------------- | ------- |
-| [[Launch/Launches/008 'Look Ma, No Hands' - Electron.md\|008 'Look Ma, No Hands' - Electron]] | 2019-08-19 12:12 | Success |
-| [[Launch/Launches/006 'STP-27RD' - Electron.md\|006 'STP-27RD' - Electron]]                   | 2019-05-05 06:00 | Success |
+| File                                                                                          | launch_date      |
+| --------------------------------------------------------------------------------------------- | ---------------- |
+| [[Launch/Launches/008 'Look Ma, No Hands' - Electron.md\|008 'Look Ma, No Hands' - Electron]] | 2019-08-19 12:12 |
+| [[Launch/Launches/006 'STP-27RD' - Electron.md\|006 'STP-27RD' - Electron]]                   | 2019-05-05 06:00 |
 
 %%DATAVIEW_PUBLISHER: end %%
 

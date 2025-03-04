@@ -16,15 +16,15 @@ Website: https://ororatech.com/
 ## 🚀 Launches
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date, outcome
+table launch_date
 from "Launch/Launches"
-where contains(customer, [[Orora Technlogies]])
+where contains(customer, [[Orora Technlogies]]) and outcome = "Success"
 sort launch_date desc
 ```
 %%
 
-| File | launch_date | outcome |
-| ---- | ----------- | ------- |
+| File | launch_date |
+| ---- | ----------- |
 
 %%DATAVIEW_PUBLISHER: end %%
 

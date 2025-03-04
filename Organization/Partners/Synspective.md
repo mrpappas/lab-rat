@@ -12,23 +12,26 @@ Synspective is a Japanese startup that develops and operates [[📦 Payload Type
 
 
 ## 🚀 Launches
+
+### <span style="color:limegreen">Successful Launches</span>
+
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date, outcome
+table launch_date
 from "Launch/Launches"
-where contains(customer, [[Synspective]])
+where contains(customer, [[Synspective]]) and outcome = "Success"
 sort launch_date desc
 ```
 %%
 
-| File                                                                                                          | launch_date      | outcome |
-| ------------------------------------------------------------------------------------------------------------- | ---------------- | ------- |
-| [[Launch/Launches/058 'Owl The Way Up' - Electron.md\|058 'Owl The Way Up' - Electron]]                       | 2024-12-21 14:16 | Success |
-| [[Launch/Launches/051 'Owl For One, One For Owl' - Electron.md\|051 'Owl For One, One For Owl' - Electron]]   | 2024-08-02 16:39 | Success |
-| [[Launch/Launches/045 'Owl Night Long' - Electron.md\|045 'Owl Night Long' - Electron]]                       | 2024-03-12 14:00 | Success |
-| [[Launch/Launches/030 'The Owl Spreads Its Wings' - Electron.md\|030 'The Owl Spreads Its Wings' - Electron]] | 2022-09-15 20:30 | Success |
-| [[Launch/Launches/024 'The Owl's Night Continues' - Electron.md\|024 'The Owl's Night Continues' - Electron]] | 2022-02-28 20:37 | Success |
-| [[Launch/Launches/017 'The Owl's Night Begins' - Electron.md\|017 'The Owl's Night Begins' - Electron]]       | 2020-12-15 10:09 | Success |
+| File                                                                                                          | launch_date      |
+| ------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[Launch/Launches/058 'Owl The Way Up' - Electron.md\|058 'Owl The Way Up' - Electron]]                       | 2024-12-21 14:16 |
+| [[Launch/Launches/051 'Owl For One, One For Owl' - Electron.md\|051 'Owl For One, One For Owl' - Electron]]   | 2024-08-02 16:39 |
+| [[Launch/Launches/045 'Owl Night Long' - Electron.md\|045 'Owl Night Long' - Electron]]                       | 2024-03-12 14:00 |
+| [[Launch/Launches/030 'The Owl Spreads Its Wings' - Electron.md\|030 'The Owl Spreads Its Wings' - Electron]] | 2022-09-15 20:30 |
+| [[Launch/Launches/024 'The Owl's Night Continues' - Electron.md\|024 'The Owl's Night Continues' - Electron]] | 2022-02-28 20:37 |
+| [[Launch/Launches/017 'The Owl's Night Begins' - Electron.md\|017 'The Owl's Night Begins' - Electron]]       | 2020-12-15 10:09 |
 
 %%DATAVIEW_PUBLISHER: end %%
 

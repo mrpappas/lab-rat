@@ -11,18 +11,21 @@ website: https://www.melbournespace.com.au/
 The Melbourne Space Program is a non-profit organization based in Melbourne, Australia, focused on student-led satellite development and hands-on space systems education. Their key achievements include the ACRUX-1 CubeSat, launched in June 2019 aboard a Rocket Lab Electron, as a demonstration of satellite design and deployment capabilities. Future missions, such as ACRUX-2, aim to build on this success. The program emphasizes practical training in space engineering and systems development for students and early-career professionals.
 
 ## 🚀 Launches
+
+### <span style="color:limegreen">Successful Launches</span>
+
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date, outcome
+table launch_date
 from "Launch/Launches"
-where contains(customer, [[Melbourne Space Program]])
+where contains(customer, [[Melbourne Space Program]]) and outcome = "Success"
 sort launch_date desc
 ```
 %%
 
-| File                                                                                | launch_date      | outcome |
-| ----------------------------------------------------------------------------------- | ---------------- | ------- |
-| [[Launch/Launches/007 'Make it Rain' - Electron.md\|007 'Make it Rain' - Electron]] | 2019-06-29 04:30 | Success |
+| File                                                                                | launch_date      |
+| ----------------------------------------------------------------------------------- | ---------------- |
+| [[Launch/Launches/007 'Make it Rain' - Electron.md\|007 'Make it Rain' - Electron]] | 2019-06-29 04:30 |
 
 %%DATAVIEW_PUBLISHER: end %%
 

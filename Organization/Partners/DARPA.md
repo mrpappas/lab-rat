@@ -10,18 +10,21 @@ website: https://www.darpa.mil/
 >[!summary]
 >The Defense Advanced Research Projects Agency (DARPA) is a research and development agency of the United States Department of Defense that focuses on developing new technologies for the military. DARPA's mission is to make significant investments in breakthrough technologies that will transform national security.
 ## 🚀 Launches
+
+### <span style="color:limegreen">Successful Launches</span>
+
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date, outcome
+table launch_date
 from "Launch/Launches"
-where contains(customer, [[DARPA]])
+where contains(customer, [[DARPA]]) and outcome = "Success"
 sort launch_date desc
 ```
 %%
 
-| File                                                                            | launch_date      | outcome |
-| ------------------------------------------------------------------------------- | ---------------- | ------- |
-| [[Launch/Launches/005 'DARPA R3D2' - Electron.md\|005 'DARPA R3D2' - Electron]] | 2019-03-28 23:27 | Success |
+| File                                                                            | launch_date      |
+| ------------------------------------------------------------------------------- | ---------------- |
+| [[Launch/Launches/005 'DARPA R3D2' - Electron.md\|005 'DARPA R3D2' - Electron]] | 2019-03-28 23:27 |
 
 %%DATAVIEW_PUBLISHER: end %%
 

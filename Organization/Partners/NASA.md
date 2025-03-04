@@ -10,26 +10,29 @@ website: https://www.nasa.gov/
 >[!summary]
 NASA (National Aeronautics and Space Administration) is the United States government agency responsible for space exploration, scientific discovery, and aeronautics research. Established in 1958, NASA has been at the forefront of space exploration, including historic achievements like the Apollo Moon landings, the Mars rovers, and the Hubble Space Telescope. The agency conducts cutting-edge research to advance human understanding of the universe, Earth's climate, and aeronautics technologies. Key initiatives include the Artemis program, aiming to return humans to the Moon and prepare for Mars exploration, and the James Webb Space Telescope, revolutionizing astrophysics. NASA collaborates with international partners and private industry to expand the boundaries of space exploration and technology.
 ## 🚀 Launches
+
+### <span style="color:limegreen">Successful Launches</span>
+
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date, outcome
+table launch_date
 from "Launch/Launches"
-where contains(customer, [[NASA]])
+where contains(customer, [[NASA]]) and outcome = "Success"
 sort launch_date desc
 ```
 %%
 
-| File                                                                                                            | launch_date      | outcome |
-| --------------------------------------------------------------------------------------------------------------- | ---------------- | ------- |
-| [[Launch/Launches/049 'PREFIRE and ICE' - Electron.md\|049 'PREFIRE and ICE' - Electron]]                       | 2024-06-05 03:15 | Success |
-| [[Launch/Launches/048 'Ready, Aim, Prefire' - Electron.md\|048 'Ready, Aim, Prefire' - Electron]]               | 2024-05-25 07:15 | Success |
-| [[Launch/Launches/047 'Beginning Of The Swarm' - Electron.md\|047 'Beginning Of The Swarm' - Electron]]         | 2024-04-23 22:00 | Success |
-| [[Launch/Launches/039 'Baby Come Back' - Electron.md\|039 'Baby Come Back' - Electron]]                         | 2023-07-18 01:27 | Success |
-| [[Launch/Launches/037 'Coming To A Storm Near You' - Electron.md\|037 'Coming To A Storm Near You' - Electron]] | 2023-05-26 03:46 | Success |
-| [[Launch/Launches/036 'Rocket Like A Hurricane' - Electron.md\|036 'Rocket Like A Hurricane' - Electron]]       | 2023-05-08 01:00 | Success |
-| [[Launch/Launches/027 'CAPSTONE' - Electron.md\|027 'CAPSTONE' - Electron]]                                     | 2022-06-28 09:55 | Success |
-| [[Launch/Launches/012 'Don't Stop Me Now' - Electron.md\|012 'Don't Stop Me Now' - Electron]]                   | 2020-06-13 05:12 | Success |
-| [[Launch/Launches/004 'NASA ELaNa-19' - Electron.md\|004 'NASA ELaNa-19' - Electron]]                           | 2018-12-16 06:33 | Success |
+| File                                                                                                            | launch_date      |
+| --------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[Launch/Launches/049 'PREFIRE and ICE' - Electron.md\|049 'PREFIRE and ICE' - Electron]]                       | 2024-06-05 03:15 |
+| [[Launch/Launches/048 'Ready, Aim, Prefire' - Electron.md\|048 'Ready, Aim, Prefire' - Electron]]               | 2024-05-25 07:15 |
+| [[Launch/Launches/047 'Beginning Of The Swarm' - Electron.md\|047 'Beginning Of The Swarm' - Electron]]         | 2024-04-23 22:00 |
+| [[Launch/Launches/039 'Baby Come Back' - Electron.md\|039 'Baby Come Back' - Electron]]                         | 2023-07-18 01:27 |
+| [[Launch/Launches/037 'Coming To A Storm Near You' - Electron.md\|037 'Coming To A Storm Near You' - Electron]] | 2023-05-26 03:46 |
+| [[Launch/Launches/036 'Rocket Like A Hurricane' - Electron.md\|036 'Rocket Like A Hurricane' - Electron]]       | 2023-05-08 01:00 |
+| [[Launch/Launches/027 'CAPSTONE' - Electron.md\|027 'CAPSTONE' - Electron]]                                     | 2022-06-28 09:55 |
+| [[Launch/Launches/012 'Don't Stop Me Now' - Electron.md\|012 'Don't Stop Me Now' - Electron]]                   | 2020-06-13 05:12 |
+| [[Launch/Launches/004 'NASA ELaNa-19' - Electron.md\|004 'NASA ELaNa-19' - Electron]]                           | 2018-12-16 06:33 |
 
 %%DATAVIEW_PUBLISHER: end %%
 

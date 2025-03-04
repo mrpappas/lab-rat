@@ -13,18 +13,21 @@ The **Korea Advanced Institute of Science and Technology (KAIST)** is South Kore
 KAIST collaborates with international partners and government agencies, playing a significant role in South Korea's space program by fostering innovation, talent development, and the deployment of cutting-edge space technologies.
 
 ## 🚀 Launches
+
+### <span style="color:limegreen">Successful Launches</span>
+
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date, outcome
+table launch_date
 from "Launch/Launches"
-where contains(customer, [[Korea Advanced Institute of Science and Technology]])
+where contains(customer, [[Korea Advanced Institute of Science and Technology]]) and outcome = "Success"
 sort launch_date desc
 ```
 %%
 
-| File                                                                                                    | launch_date      | outcome |
-| ------------------------------------------------------------------------------------------------------- | ---------------- | ------- |
-| [[Launch/Launches/047 'Beginning Of The Swarm' - Electron.md\|047 'Beginning Of The Swarm' - Electron]] | 2024-04-23 22:00 | Success |
+| File                                                                                                    | launch_date      |
+| ------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[Launch/Launches/047 'Beginning Of The Swarm' - Electron.md\|047 'Beginning Of The Swarm' - Electron]] | 2024-04-23 22:00 |
 
 %%DATAVIEW_PUBLISHER: end %%
 

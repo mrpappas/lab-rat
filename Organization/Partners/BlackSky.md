@@ -11,29 +11,47 @@ website: https://www.blacksky.com/
 BlackSky is a **U.S.-based geospatial intelligence company** that specializes in providing **real-time Earth observation data** and **analytics**. The company operates a constellation of **low Earth orbit (LEO) satellites** designed to capture high-resolution imagery multiple times per day. BlackSky integrates satellite imagery with **artificial intelligence (AI)** and other data sources to deliver **actionable insights** for applications such as **defense, disaster response, supply chain monitoring, and infrastructure management**. BlackSky's subscription-based platform offers near real-time access to **global monitoring** capabilities, enabling rapid decision-making for commercial and government clients.
 
 ## 🚀 Launches
+
+### <span style="color:limegreen">Successful Launches</span>
+
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date, outcome
+table launch_date
 from "Launch/Launches"
-where contains(customer, [[BlackSky]])
+where contains(customer, [[BlackSky]]) and outcome = "Success"
 sort launch_date desc
 ```
 %%
 
-| File                                                                                                      | launch_date              | outcome |
-| --------------------------------------------------------------------------------------------------------- | ------------------------ | ------- |
-| [[Launch/Launches/060 'Fasten Your Space Belts' - Electron.md\|060 'Fasten Your Space Belts' - Electron]] | 2025-02-19 12:17 pm NZDT | Success |
-| [[Launch/Launches/035 'The Beat Goes On' - Electron.md\|035 'The Beat Goes On' - Electron]]               | 2023-03-24 09:14         | Success |
-| [[Launch/Launches/025 'Without Mission A Beat' - Electron.md\|025 'Without Mission A Beat' - Electron]]   | 2022-04-02 12:41         | Success |
-| [[Launch/Launches/023 'A Data With Destiny' - Electron.md\|023 'A Data With Destiny' - Electron]]         | 2021-12-09 00:02         | Success |
-| [[Launch/Launches/022 'Love At First Insight' - Electron.md\|022 'Love At First Insight' - Electron]]     | 2021-11-18 01:38         | Success |
-| [[Launch/Launches/020 'Running Out Of Toes' - Electron.md\|020 'Running Out Of Toes' - Electron]]         | 2021-05-15 11:11         | Failure |
-| [[Launch/Launches/019 'They Go Up So Fast' - Electron.md\|019 'They Go Up So Fast' - Electron]]           | 2021-03-22 22:30         | Success |
-| [[Launch/Launches/008 'Look Ma, No Hands' - Electron.md\|008 'Look Ma, No Hands' - Electron]]             | 2019-08-19 12:12         | Success |
-| [[Launch/Launches/007 'Make it Rain' - Electron.md\|007 'Make it Rain' - Electron]]                       | 2019-06-29 04:30         | Success |
+| File                                                                                                      | launch_date              |
+| --------------------------------------------------------------------------------------------------------- | ------------------------ |
+| [[Launch/Launches/060 'Fasten Your Space Belts' - Electron.md\|060 'Fasten Your Space Belts' - Electron]] | 2025-02-19 12:17 pm NZDT |
+| [[Launch/Launches/035 'The Beat Goes On' - Electron.md\|035 'The Beat Goes On' - Electron]]               | 2023-03-24 09:14         |
+| [[Launch/Launches/025 'Without Mission A Beat' - Electron.md\|025 'Without Mission A Beat' - Electron]]   | 2022-04-02 12:41         |
+| [[Launch/Launches/023 'A Data With Destiny' - Electron.md\|023 'A Data With Destiny' - Electron]]         | 2021-12-09 00:02         |
+| [[Launch/Launches/022 'Love At First Insight' - Electron.md\|022 'Love At First Insight' - Electron]]     | 2021-11-18 01:38         |
+| [[Launch/Launches/019 'They Go Up So Fast' - Electron.md\|019 'They Go Up So Fast' - Electron]]           | 2021-03-22 22:30         |
+| [[Launch/Launches/008 'Look Ma, No Hands' - Electron.md\|008 'Look Ma, No Hands' - Electron]]             | 2019-08-19 12:12         |
+| [[Launch/Launches/007 'Make it Rain' - Electron.md\|007 'Make it Rain' - Electron]]                       | 2019-06-29 04:30         |
 
 %%DATAVIEW_PUBLISHER: end %%
 
+### <span style="color:orangered">Failed Launches</span>
+
+%%DATAVIEW_PUBLISHER: start
+```
+table launch_date
+from "Launch/Launches"
+where contains(customer, [[BlackSky]]) and outcome = "Failure"
+sort launch_date desc
+```
+%%
+
+| File                                                                                              | launch_date      |
+| ------------------------------------------------------------------------------------------------- | ---------------- |
+| [[Launch/Launches/020 'Running Out Of Toes' - Electron.md\|020 'Running Out Of Toes' - Electron]] | 2021-05-15 11:11 |
+
+%%DATAVIEW_PUBLISHER: end %%
 ## 🛰️ Space Systems
 
 ### BlackSky Gen-2

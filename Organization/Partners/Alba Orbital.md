@@ -13,19 +13,21 @@ Alba Orbital is a Scottish aerospace company specializing in the development and
 
 ## 🚀 Launches
 
+### <span style="color:limegreen">Successful Launches</span>
+
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date, outcome
+table launch_date
 from "Launch/Launches"
-where contains(customer, [[Alba Orbital]])
+where contains(customer, [[Alba Orbital]]) and outcome = "Success"
 sort launch_date desc
 ```
 %%
 
-| File                                                                                                    | launch_date      | outcome |
-| ------------------------------------------------------------------------------------------------------- | ---------------- | ------- |
-| [[Launch/Launches/026 'There And Back Again' - Electron.md\|026 'There And Back Again' - Electron]]     | 2022-05-02 22:49 | Success |
-| [[Launch/Launches/010 'Running Out Of Fingers' - Electron.md\|010 'Running Out Of Fingers' - Electron]] | 2019-12-06 08:18 | Success |
+| File                                                                                                    | launch_date      |
+| ------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[Launch/Launches/026 'There And Back Again' - Electron.md\|026 'There And Back Again' - Electron]]     | 2022-05-02 22:49 |
+| [[Launch/Launches/010 'Running Out Of Fingers' - Electron.md\|010 'Running Out Of Fingers' - Electron]] | 2019-12-06 08:18 |
 
 %%DATAVIEW_PUBLISHER: end %%
 ## 📰 News

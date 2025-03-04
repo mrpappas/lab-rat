@@ -21,18 +21,21 @@ Part of of [NASA's Starling](https://www.nasa.gov/smallspacecraft/what-is-starli
 
 
 ## 🚀 Launches
+
+### <span style="color:limegreen">Successful Launches</span>
+
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date, outcome
+table launch_date
 from "Launch/Launches"
-where contains(customer, [[CesiumAstro]])
+where contains(customer, [[CesiumAstro]]) and outcome = "Success"
 sort launch_date desc
 ```
 %%
 
-| File                                                                                    | launch_date      | outcome |
-| --------------------------------------------------------------------------------------- | ---------------- | ------- |
-| [[Launch/Launches/039 'Baby Come Back' - Electron.md\|039 'Baby Come Back' - Electron]] | 2023-07-18 01:27 | Success |
+| File                                                                                    | launch_date      |
+| --------------------------------------------------------------------------------------- | ---------------- |
+| [[Launch/Launches/039 'Baby Come Back' - Electron.md\|039 'Baby Come Back' - Electron]] | 2023-07-18 01:27 |
 
 %%DATAVIEW_PUBLISHER: end %%
 

@@ -12,18 +12,21 @@ General Atomics Electromagnetic Systems (GA-EMS) designs and manufactures advanc
 
 
 ## 🚀 Launches
+
+### <span style="color:limegreen">Successful Launches</span>
+
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date, outcome
+table launch_date
 from "Launch/Launches"
-where contains(customer, [[General Atomics Electromagnetic Systems]])
+where contains(customer, [[General Atomics Electromagnetic Systems]]) and outcome = "Success"
 sort launch_date desc
 ```
 %%
 
-| File                                                                                                  | launch_date      | outcome |
-| ----------------------------------------------------------------------------------------------------- | ---------------- | ------- |
-| [[Launch/Launches/031 'It Argos Up From Here' - Electron.md\|031 'It Argos Up From Here' - Electron]] | 2022-10-07 17:09 | Success |
+| File                                                                                                  | launch_date      |
+| ----------------------------------------------------------------------------------------------------- | ---------------- |
+| [[Launch/Launches/031 'It Argos Up From Here' - Electron.md\|031 'It Argos Up From Here' - Electron]] | 2022-10-07 17:09 |
 
 %%DATAVIEW_PUBLISHER: end %%
 

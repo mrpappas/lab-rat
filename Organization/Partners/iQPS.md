@@ -13,18 +13,21 @@ They are working toward establishing a constellation of 36 small SAR satellites,
 iQPS has launched several satellites to demonstrate its SAR capabilities and is actively scaling its constellation to offer comprehensive global coverage.
 
 ## 🚀 Launches
+
+### <span style="color:limegreen">Successful Launches</span>
+
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date, outcome
+table launch_date
 from "Launch/Launches"
-where contains(customer, [[iQPS]])
+where contains(customer, [[iQPS]]) and outcome = "Success"
 sort launch_date desc
 ```
 %%
 
-| File                                                                                                | launch_date      | outcome |
-| --------------------------------------------------------------------------------------------------- | ---------------- | ------- |
-| [[Launch/Launches/042 'The Moon God Awakens' - Electron.md\|042 'The Moon God Awakens' - Electron]] | 2023-12-15 04:05 | Success |
+| File                                                                                                | launch_date      |
+| --------------------------------------------------------------------------------------------------- | ---------------- |
+| [[Launch/Launches/042 'The Moon God Awakens' - Electron.md\|042 'The Moon God Awakens' - Electron]] | 2023-12-15 04:05 |
 
 %%DATAVIEW_PUBLISHER: end %%
 

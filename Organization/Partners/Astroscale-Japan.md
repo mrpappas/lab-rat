@@ -11,18 +11,21 @@ website: https://astroscale.com/
 Astroscale-Japan is a subsidiary of Astroscale Holdings, a company dedicated to addressing space sustainability by providing on-orbit servicing solutions. Focused on debris removal, satellite life extension, and end-of-life services, Astroscale develops technologies to clean up existing space debris and ensure responsible satellite deorbiting. The company’s missions, such as *ELSA-d* (End-of-Life Services by Astroscale-demonstration) and *ADRAS-J* (Active Debris Removal by Astroscale-Japan), demonstrate capabilities in docking with, capturing, and deorbiting defunct satellites and debris to maintain a sustainable space environment.
 
 ## 🚀 Launches
+
+### <span style="color:limegreen">Successful Launches</span>
+
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date, outcome
+table launch_date
 from "Launch/Launches"
-where contains(customer, [[Astroscale-Japan]])
+where contains(customer, [[Astroscale-Japan]]) and outcome = "Success"
 sort launch_date desc
 ```
 %%
 
-| File                                                                                                | launch_date      | outcome |
-| --------------------------------------------------------------------------------------------------- | ---------------- | ------- |
-| [[Launch/Launches/044 'On Closer Inspection' - Electron.md\|044 'On Closer Inspection' - Electron]] | 2024-02-19 14:52 | Success |
+| File                                                                                                | launch_date      |
+| --------------------------------------------------------------------------------------------------- | ---------------- |
+| [[Launch/Launches/044 'On Closer Inspection' - Electron.md\|044 'On Closer Inspection' - Electron]] | 2024-02-19 14:52 |
 
 %%DATAVIEW_PUBLISHER: end %%
 

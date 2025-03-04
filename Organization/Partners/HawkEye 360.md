@@ -11,18 +11,21 @@ website: https://www.he360.com/
 HawkEye 360 is a geospatial analytics company that operates a constellation of satellites to detect, characterize, and geolocate radio frequency (RF) signals. Their services provide insights for applications such as maritime domain awareness, spectrum monitoring, and national security. By analyzing RF data, HawkEye 360 helps identify illegal activities like maritime piracy, smuggling, and unlicensed spectrum usage.
 
 ## 🚀 Launches
+
+### <span style="color:limegreen">Successful Launches</span>
+
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date, outcome
+table launch_date
 from "Launch/Launches"
-where contains(customer, [[HawkEye 360]])
+where contains(customer, [[HawkEye 360]]) and outcome = "Success"
 sort launch_date desc
 ```
 %%
 
-| File                                                                                                                  | launch_date      | outcome |
-| --------------------------------------------------------------------------------------------------------------------- | ---------------- | ------- |
-| [[Launch/Launches/033 'Virginia is for Launch Lovers' - Electron.md\|033 'Virginia is for Launch Lovers' - Electron]] | 2023-01-24 23:00 | Success |
+| File                                                                                                                  | launch_date      |
+| --------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[Launch/Launches/033 'Virginia is for Launch Lovers' - Electron.md\|033 'Virginia is for Launch Lovers' - Electron]] | 2023-01-24 23:00 |
 
 %%DATAVIEW_PUBLISHER: end %%
 

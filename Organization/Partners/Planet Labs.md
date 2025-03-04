@@ -12,20 +12,39 @@ Planet Labs is a leading Earth observation company that designs, builds, and ope
 
 
 ## 🚀 Launches
+
+### <span style="color:limegreen">Successful Launches</span>
+
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date, outcome
+table launch_date
 from "Launch/Launches"
-where contains(customer, [[Planet Labs]])
+where contains(customer, [[Planet Labs]]) and outcome = "Success"
 sort launch_date desc
 ```
 %%
 
-| File                                                                                                        | launch_date      | outcome |
-| ----------------------------------------------------------------------------------------------------------- | ---------------- | ------- |
-| [[Launch/Launches/015 'In Focus' - Electron.md\|015 'In Focus' - Electron]]                                 | 2020-10-28 21:21 | Success |
-| [[Launch/Launches/013 'Pics Or It Didn't Happen' - Electron.md\|013 'Pics Or It Didn't Happen' - Electron]] | 2020-07-04 21:19 | Failure |
-| [[Launch/Launches/002 'Still Testing' - Electron.md\|002 'Still Testing' - Electron]]                       | 2018-01-21 02:43 | Success |
+| File                                                                                  | launch_date      |
+| ------------------------------------------------------------------------------------- | ---------------- |
+| [[Launch/Launches/015 'In Focus' - Electron.md\|015 'In Focus' - Electron]]           | 2020-10-28 21:21 |
+| [[Launch/Launches/002 'Still Testing' - Electron.md\|002 'Still Testing' - Electron]] | 2018-01-21 02:43 |
+
+%%DATAVIEW_PUBLISHER: end %%
+
+### <span style="color:orangered">Failed Launches</span>
+
+%%DATAVIEW_PUBLISHER: start
+```
+table launch_date
+from "Launch/Launches"
+where contains(customer, [[Planet Labs]]) and outcome = "Failure"
+sort launch_date desc
+```
+%%
+
+| File                                                                                                        | launch_date      |
+| ----------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[Launch/Launches/013 'Pics Or It Didn't Happen' - Electron.md\|013 'Pics Or It Didn't Happen' - Electron]] | 2020-07-04 21:19 |
 
 %%DATAVIEW_PUBLISHER: end %%
 

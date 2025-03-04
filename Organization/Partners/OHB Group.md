@@ -12,18 +12,21 @@ OHB Group is a leading European space and technology company specializing in the
 
 
 ## 🚀 Launches
+
+### <span style="color:limegreen">Successful Launches</span>
+
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date, outcome
+table launch_date
 from "Launch/Launches"
-where contains(customer, [[OHB Group]])
+where contains(customer, [[OHB Group]]) and outcome = "Success"
 sort launch_date desc
 ```
 %%
 
-| File                                                                                                                | launch_date      | outcome |
-| ------------------------------------------------------------------------------------------------------------------- | ---------------- | ------- |
-| [[Launch/Launches/018 'Another One Leaves the Crust' - Electron.md\|018 'Another One Leaves the Crust' - Electron]] | 2021-01-20 07:26 | Success |
+| File                                                                                                                | launch_date      |
+| ------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[Launch/Launches/018 'Another One Leaves the Crust' - Electron.md\|018 'Another One Leaves the Crust' - Electron]] | 2021-01-20 07:26 |
 
 %%DATAVIEW_PUBLISHER: end %%
 

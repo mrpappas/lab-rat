@@ -12,18 +12,21 @@ Valve Corporation is a leading video game developer and digital distribution pla
 
 
 ## 🚀 Launches
+
+### <span style="color:limegreen">Successful Launches</span>
+
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date, outcome
+table launch_date
 from "Launch/Launches"
-where contains(customer, [[Valve]])
+where contains(customer, [[Valve]]) and outcome = "Success"
 sort launch_date desc
 ```
 %%
 
-| File                                                                                        | launch_date      | outcome |
-| ------------------------------------------------------------------------------------------- | ---------------- | ------- |
-| [[Launch/Launches/016 'Return to Sender' - Electron.md\|016 'Return to Sender' - Electron]] | 2020-11-20 02:20 | Success |
+| File                                                                                        | launch_date      |
+| ------------------------------------------------------------------------------------------- | ---------------- |
+| [[Launch/Launches/016 'Return to Sender' - Electron.md\|016 'Return to Sender' - Electron]] | 2020-11-20 02:20 |
 
 %%DATAVIEW_PUBLISHER: end %%
 

@@ -12,18 +12,21 @@ The Swedish National Space Agency (SNSA) is a government agency responsible for 
 
 
 ## 🚀 Launches
+
+### <span style="color:limegreen">Successful Launches</span>
+
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date, outcome
+table launch_date
 from "Launch/Launches"
-where contains(customer, [[Swedish National Space Agency]])
+where contains(customer, [[Swedish National Space Agency]]) and outcome = "Success"
 sort launch_date desc
 ```
 %%
 
-| File                                                                                              | launch_date      | outcome |
-| ------------------------------------------------------------------------------------------------- | ---------------- | ------- |
-| [[Launch/Launches/032 'Catch Me If You Can' - Electron.md\|032 'Catch Me If You Can' - Electron]] | 2022-11-04 17:27 | Success |
+| File                                                                                              | launch_date      |
+| ------------------------------------------------------------------------------------------------- | ---------------- |
+| [[Launch/Launches/032 'Catch Me If You Can' - Electron.md\|032 'Catch Me If You Can' - Electron]] | 2022-11-04 17:27 |
 
 %%DATAVIEW_PUBLISHER: end %%
 

@@ -12,25 +12,45 @@ Spaceflight Inc. was known as a leader in arranging launches of small satellites
 
 
 ## 🚀 Launches
+
+### <span style="color:limegreen">Successful Launches</span>
+
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date, outcome
+table launch_date
 from "Launch/Launches"
-where contains(customer, [[Spaceflight]])
+where contains(customer, [[Spaceflight]]) and outcome = "Success"
 sort launch_date desc
 ```
 %%
 
-| File                                                                                                        | launch_date      | outcome |
-| ----------------------------------------------------------------------------------------------------------- | ---------------- | ------- |
-| [[Launch/Launches/026 'There And Back Again' - Electron.md\|026 'There And Back Again' - Electron]]         | 2022-05-02 22:49 | Success |
-| [[Launch/Launches/022 'Love At First Insight' - Electron.md\|022 'Love At First Insight' - Electron]]       | 2021-11-18 01:38 | Success |
-| [[Launch/Launches/015 'In Focus' - Electron.md\|015 'In Focus' - Electron]]                                 | 2020-10-28 21:21 | Success |
-| [[Launch/Launches/013 'Pics Or It Didn't Happen' - Electron.md\|013 'Pics Or It Didn't Happen' - Electron]] | 2020-07-04 21:19 | Failure |
-| [[Launch/Launches/010 'Running Out Of Fingers' - Electron.md\|010 'Running Out Of Fingers' - Electron]]     | 2019-12-06 08:18 | Success |
-| [[Launch/Launches/007 'Make it Rain' - Electron.md\|007 'Make it Rain' - Electron]]                         | 2019-06-29 04:30 | Success |
+| File                                                                                                    | launch_date      |
+| ------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[Launch/Launches/026 'There And Back Again' - Electron.md\|026 'There And Back Again' - Electron]]     | 2022-05-02 22:49 |
+| [[Launch/Launches/022 'Love At First Insight' - Electron.md\|022 'Love At First Insight' - Electron]]   | 2021-11-18 01:38 |
+| [[Launch/Launches/015 'In Focus' - Electron.md\|015 'In Focus' - Electron]]                             | 2020-10-28 21:21 |
+| [[Launch/Launches/010 'Running Out Of Fingers' - Electron.md\|010 'Running Out Of Fingers' - Electron]] | 2019-12-06 08:18 |
+| [[Launch/Launches/007 'Make it Rain' - Electron.md\|007 'Make it Rain' - Electron]]                     | 2019-06-29 04:30 |
 
 %%DATAVIEW_PUBLISHER: end %%
+
+### <span style="color:orangered">Failed Launches</span>
+
+%%DATAVIEW_PUBLISHER: start
+```
+table launch_date
+from "Launch/Launches"
+where contains(customer, [[Spaceflight]]) and outcome = "Failure"
+sort launch_date desc
+```
+%%
+
+| File                                                                                                        | launch_date      |
+| ----------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[Launch/Launches/013 'Pics Or It Didn't Happen' - Electron.md\|013 'Pics Or It Didn't Happen' - Electron]] | 2020-07-04 21:19 |
+
+%%DATAVIEW_PUBLISHER: end %%
+
 
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
