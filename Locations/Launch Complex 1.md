@@ -119,6 +119,7 @@ sort launch_date desc
 | [[Launch/Launches/049 'PREFIRE and ICE' - Electron.md\|049 'PREFIRE and ICE' - Electron]]                                   | 2024-06-05 03:15 |
 | [[Launch/Launches/048 'Ready, Aim, Prefire' - Electron.md\|048 'Ready, Aim, Prefire' - Electron]]                           | 2024-05-25 07:15 |
 | [[Launch/Launches/047 'Beginning Of The Swarm' - Electron.md\|047 'Beginning Of The Swarm' - Electron]]                     | 2024-04-23 22:00 |
+| [[Launch/Launches/045 'Owl Night Long' - Electron.md\|045 'Owl Night Long' - Electron]]                                     | 2024-03-12 14:00 |
 | [[Launch/Launches/044 'On Closer Inspection' - Electron.md\|044 'On Closer Inspection' - Electron]]                         | 2024-02-19 14:52 |
 | [[Launch/Launches/043 'Four Of A Kind' - Electron.md\|043 'Four Of A Kind' - Electron]]                                     | 2024-01-31 06:34 |
 | [[Launch/Launches/042 'The Moon God Awakens' - Electron.md\|042 'The Moon God Awakens' - Electron]]                         | 2023-12-15 04:05 |

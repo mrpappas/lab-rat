@@ -7,10 +7,8 @@ tags:
 mission_name: Owl Night Long
 launch_date: 2024-03-12 14:00
 outcome: Success
-customer:
-  - "[[Synspective]]"
-location:
-  - "[[Launch Complex 1]]"
+customer: "[[Synspective]]"
+location: "[[Launch Complex 1]]"
 vehicle: "[[Electron]]"
 orbit_type: "[[🌍 Orbits#SSO]]"
 target_orbit: 561 km | 97°
