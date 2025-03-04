@@ -12,8 +12,6 @@ E-Space is a low Earth orbit ([[🌍 Orbits#LEO|LEO]]) satellite communications 
 
 ## 🚀 Launches
 
-### <span style="color:limegreen">Successful Launches</span>
-
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date

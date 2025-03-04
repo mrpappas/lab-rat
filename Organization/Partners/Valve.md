@@ -13,8 +13,6 @@ Valve Corporation is a leading video game developer and digital distribution pla
 
 ## 🚀 Launches
 
-### <span style="color:limegreen">Successful Launches</span>
-
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date

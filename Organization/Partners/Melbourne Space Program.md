@@ -12,8 +12,6 @@ The Melbourne Space Program is a non-profit organization based in Melbourne, Aus
 
 ## 🚀 Launches
 
-### <span style="color:limegreen">Successful Launches</span>
-
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date

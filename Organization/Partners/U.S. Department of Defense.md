@@ -12,8 +12,6 @@ website: https://www.defense.gov/
 
 ## 🚀 Launches
 
-### <span style="color:limegreen">Successful Launches</span>
-
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date

@@ -14,8 +14,6 @@ KAIST collaborates with international partners and government agencies, playing 
 
 ## 🚀 Launches
 
-### <span style="color:limegreen">Successful Launches</span>
-
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date

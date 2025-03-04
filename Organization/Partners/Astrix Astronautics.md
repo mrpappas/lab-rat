@@ -12,8 +12,6 @@ Astrix Astronautics is a New Zealand-based company specializing in innovative po
 
 ## 🚀 Launches
 
-### <span style="color:limegreen">Successful Launches</span>
-
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date

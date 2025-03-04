@@ -15,8 +15,6 @@ Swarm Technologies, a subsidiary of SpaceX, provides affordable and reliable glo
 
 ## 🚀 Launches
 
-### <span style="color:limegreen">Successful Launches</span>
-
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date

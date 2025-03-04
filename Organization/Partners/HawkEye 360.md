@@ -12,8 +12,6 @@ HawkEye 360 is a geospatial analytics company that operates a constellation of s
 
 ## 🚀 Launches
 
-### <span style="color:limegreen">Successful Launches</span>
-
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date

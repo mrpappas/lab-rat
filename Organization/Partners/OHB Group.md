@@ -13,8 +13,6 @@ OHB Group is a leading European space and technology company specializing in the
 
 ## 🚀 Launches
 
-### <span style="color:limegreen">Successful Launches</span>
-
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date

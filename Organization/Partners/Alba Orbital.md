@@ -13,8 +13,6 @@ Alba Orbital is a Scottish aerospace company specializing in the development and
 
 ## 🚀 Launches
 
-### <span style="color:limegreen">Successful Launches</span>
-
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date

@@ -12,8 +12,6 @@ Care Weather is a technology company focused on deploying **small satellite-base
 
 ## 🚀 Launches
 
-### <span style="color:limegreen">Successful Launches</span>
-
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date

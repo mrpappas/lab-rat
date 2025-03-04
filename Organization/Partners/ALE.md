@@ -13,8 +13,6 @@ ALE Co., Ltd. is a Japanese company specializing in space entertainment and atmo
 
 ## 🚀 Launches
 
-### <span style="color:limegreen">Successful Launches</span>
-
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date

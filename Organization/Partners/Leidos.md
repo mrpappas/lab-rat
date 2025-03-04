@@ -12,8 +12,6 @@ Leidos is a U.S.-based technology and defense company specializing in advanced s
 
 ## 🚀 Launches
 
-### <span style="color:limegreen">Successful Launches</span>
-
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date

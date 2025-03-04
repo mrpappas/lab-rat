@@ -22,8 +22,6 @@ In this orbit, CAPSTONE will orbit together with the Moon as it orbits Earth and
 
 ## 🚀 Launches
 
-### <span style="color:limegreen">Successful Launches</span>
-
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date

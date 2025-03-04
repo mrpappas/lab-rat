@@ -13,8 +13,6 @@ Synspective is a Japanese startup that develops and operates [[📦 Payload Type
 
 ## 🚀 Launches
 
-### <span style="color:limegreen">Successful Launches</span>
-
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date

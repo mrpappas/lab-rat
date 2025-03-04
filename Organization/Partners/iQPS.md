@@ -14,8 +14,6 @@ iQPS has launched several satellites to demonstrate its SAR capabilities and is 
 
 ## 🚀 Launches
 
-### <span style="color:limegreen">Successful Launches</span>
-
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date

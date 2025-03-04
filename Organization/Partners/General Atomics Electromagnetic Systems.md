@@ -13,8 +13,6 @@ General Atomics Electromagnetic Systems (GA-EMS) designs and manufactures advanc
 
 ## 🚀 Launches
 
-### <span style="color:limegreen">Successful Launches</span>
-
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date

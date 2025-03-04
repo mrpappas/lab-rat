@@ -22,8 +22,6 @@ Part of of [NASA's Starling](https://www.nasa.gov/smallspacecraft/what-is-starli
 
 ## 🚀 Launches
 
-### <span style="color:limegreen">Successful Launches</span>
-
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date

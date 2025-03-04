@@ -15,8 +15,6 @@ Tyvak Nano-Satellite Systems designs and builds advanced small satellites, offer
 
 ## 🚀 Launches
 
-### <span style="color:limegreen">Successful Launches</span>
-
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date

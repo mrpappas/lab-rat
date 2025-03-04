@@ -11,8 +11,6 @@ website: https://www.nro.gov/
 >The National Reconnaissance Office (NRO) is a U.S. government agency responsible for designing, building, and operating reconnaissance satellites to support national security. Established in 1961, the NRO plays a critical role in collecting intelligence for the Department of Defense, intelligence community, and policymakers, focusing on areas like threat assessment, military operations, and disaster response. It develops and manages cutting-edge satellite systems, leveraging advanced technologies to provide geospatial intelligence (GEOINT) and signals intelligence (SIGINT). The NRO works closely with agencies like the CIA, NSA, and U.S. Space Force, as well as commercial and international partners, ensuring the United States maintains a strategic advantage in space-based reconnaissance.
 ## 🚀 Launches
 
-### <span style="color:limegreen">Successful Launches</span>
-
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date

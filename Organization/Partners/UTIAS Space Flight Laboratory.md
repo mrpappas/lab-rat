@@ -13,8 +13,6 @@ UTIAS Flight Lab, part of the University of Toronto Institute for Aerospace Stud
 
 ## 🚀 Launches
 
-### <span style="color:limegreen">Successful Launches</span>
-
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date

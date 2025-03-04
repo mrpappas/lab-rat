@@ -13,8 +13,6 @@ TriSept provides launch integration, mission management, and engineering service
 
 ## 🚀 Launches
 
-### <span style="color:limegreen">Successful Launches</span>
-
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date

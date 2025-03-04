@@ -12,8 +12,6 @@ Astroscale-Japan is a subsidiary of Astroscale Holdings, a company dedicated to 
 
 ## 🚀 Launches
 
-### <span style="color:limegreen">Successful Launches</span>
-
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date

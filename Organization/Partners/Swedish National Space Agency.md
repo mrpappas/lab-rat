@@ -13,8 +13,6 @@ The Swedish National Space Agency (SNSA) is a government agency responsible for 
 
 ## 🚀 Launches
 
-### <span style="color:limegreen">Successful Launches</span>
-
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date

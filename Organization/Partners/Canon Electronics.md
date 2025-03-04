@@ -12,8 +12,6 @@ Canon Electronics is a **Japan-based technology company** that specializes in **
 
 ## 🚀 Launches
 
-### <span style="color:limegreen">Successful Launches</span>
-
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date

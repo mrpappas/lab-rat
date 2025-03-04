@@ -16,8 +16,6 @@ Kinéis positions itself as a key player in the growing IoT space market, offeri
 
 ## 🚀 Launches
 
-### <span style="color:limegreen">Successful Launches</span>
-
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date

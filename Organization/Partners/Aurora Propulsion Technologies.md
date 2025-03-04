@@ -12,8 +12,6 @@ Aurora Propulsion Technologies is a Finnish company specializing in spacecraft p
 
 ## 🚀 Launches
 
-### <span style="color:limegreen">Successful Launches</span>
-
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date

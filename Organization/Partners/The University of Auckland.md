@@ -12,8 +12,6 @@ The University of Auckland's space systems program focuses on research, developm
 
 ## 🚀 Launches
 
-### <span style="color:limegreen">Successful Launches</span>
-
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date

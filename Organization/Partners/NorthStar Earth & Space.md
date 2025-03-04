@@ -17,8 +17,6 @@ The company aims to deliver critical data to governments, commercial operators, 
 
 ## 🚀 Launches
 
-### <span style="color:limegreen">Successful Launches</span>
-
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date

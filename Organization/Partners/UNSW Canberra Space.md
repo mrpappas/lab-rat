@@ -12,8 +12,6 @@ UNSW Canberra Space is a leading Australian space research and development cente
 
 ## 🚀 Launches
 
-### <span style="color:limegreen">Successful Launches</span>
-
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date
