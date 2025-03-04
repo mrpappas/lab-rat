@@ -1,25 +1,24 @@
 ---
-title: "Rocket Lab | The Space Company | Rocket Lab"
+title: "Firefly’s Blue Ghost Spacecraft Begins Journey to Moon, Supported by Rocket Lab Software and Components"
 source: "https://www.rocketlabusa.com/updates/fireflys-blue-ghost-spacecraft-begins-journey-to-moon-supported-by-rocket-lab-software-and-components/"
-author:
-  - "[[Rocket Lab]]"
+author: "[[Rocket Lab]]"
 published: 2025-01-23
-description:
-customer:
- - "[[Firefly Aerospace]]"
+customer: "[[Firefly Aerospace]]"
+mission: "[[Firefly Aerospace#🌍 Missions#Blue Ghost Mission 1]]"
 tags:
  - space-systems
  - solar
- - software
+ - space-software
 ---
 
 >[!summary]
->#space-systems #solar #software
+> #space-systems #solar #software
 >**Title**: "Firefly’s Blue Ghost Spacecraft Begins Journey to Moon, Supported by Rocket Lab Software and Components"
 **Source**: "https://www.rocketlabusa.com/updates/fireflys-blue-ghost-spacecraft-begins-journey-to-moon-supported-by-rocket-lab-software-and-components/"
 **Author**: [[Rocket Lab]]
 **Published**: 2025-01-23
 **Customer**: [[Firefly Aerospace]]
+**Mission**: [[Firefly Aerospace#🌍 Missions#Blue Ghost Mission 1|Blue Ghost Mission 1]]
 
 **Long Beach, Calif. January 23, 2025** – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, celebrates the successful launch of Firefly Aerospace’s Blue Ghost Mission 1 on January 15. Rocket Lab is supporting Blue Ghost’s 45-day journey to the Moon with the Company’s [MAX Flight and MAX Ground Data Software suites](https://www.rocketlabusa.com/space-systems/space-software/).
 
