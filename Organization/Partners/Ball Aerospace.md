@@ -16,15 +16,15 @@ Until 2024, the firm was a wholly owned subsidiary of Ball Corporation, with pri
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
-table title as "Title", published as "Published"
+table published as "Published"
 from "News"
 where contains(customer, [[Ball Aerospace]])
 sort published desc
 ```
 %%
 
-| File                                                                                                                                                       | Title                                                                   | Published     |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------- |
-| [[News/Rocket Lab selected by Ball Aerospace to Power NASA’s GLIDE Spacecraft.md\|Rocket Lab selected by Ball Aerospace to Power NASA’s GLIDE Spacecraft]] | Rocket Lab selected by Ball Aerospace to Power NASA’s GLIDE Spacecraft  | June 09, 2022 |
+| File                                                                                                                                                       | Published     |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| [[News/Rocket Lab selected by Ball Aerospace to Power NASA’s GLIDE Spacecraft.md\|Rocket Lab selected by Ball Aerospace to Power NASA’s GLIDE Spacecraft]] | June 09, 2022 |
 
 %%DATAVIEW_PUBLISHER: end %%

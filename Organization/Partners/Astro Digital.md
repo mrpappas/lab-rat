@@ -32,16 +32,16 @@ sort launch_date desc
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
-table title as "Title", published as "Published"
+table published as "Published"
 from "News"
 where contains(customer, [[Astro Digital]])
 sort published desc
 ```
 %%
 
-| File                                                                                                                                                                                                     | Title                                                                                         | Published          |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------ |
-| [[News/Rocket Lab successfully launches ninth Electron mission, deploys payload to highest orbit yet.md\|Rocket Lab successfully launches ninth Electron mission, deploys payload to highest orbit yet]] | Rocket Lab successfully launches ninth Electron mission, deploys payload to highest orbit yet | October 17, 2019   |
-| [[News/Rocket Lab to launch dedicated mission for Astro Digital.md\|Rocket Lab to launch dedicated mission for Astro Digital]]                                                                           | Rocket Lab to launch dedicated mission for Astro Digital                                      | September 30, 2019 |
+| File                                                                                                                                                                                                     | Published          |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[News/Rocket Lab successfully launches ninth Electron mission, deploys payload to highest orbit yet.md\|Rocket Lab successfully launches ninth Electron mission, deploys payload to highest orbit yet]] | October 17, 2019   |
+| [[News/Rocket Lab to launch dedicated mission for Astro Digital.md\|Rocket Lab to launch dedicated mission for Astro Digital]]                                                                           | September 30, 2019 |
 
 %%DATAVIEW_PUBLISHER: end %%

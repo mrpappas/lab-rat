@@ -32,18 +32,18 @@ sort launch_date desc
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
-table title as "Title", published as "Published"
+table published as "Published"
 from "News"
 where contains(customer, [[DARPA]])
 sort published desc
 ```
 %%
 
-| File                                                                                                                                                                                                                               | Title                                                                                                       | Published        |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ---------------- |
-| [[News/Rocket Lab Supports Significant Milestone for DARPA and Space Development Agency on the Mandrake-2 Mission.md\|Rocket Lab Supports Significant Milestone for DARPA and Space Development Agency on the Mandrake-2 Mission]] | Rocket Lab Supports Significant Milestone for DARPA and Space Development Agency on the Mandrake-2 Mission  | July 13, 2022    |
-| [[News/Rocket Lab successfully launches R3D2 satellite for DARPA.md\|Rocket Lab successfully launches R3D2 satellite for DARPA]]                                                                                                   | Rocket Lab successfully launches R3D2 satellite for DARPA                                                   | March 28, 2019   |
-| [[News/Rocket Lab to launch dedicated Electron mission for DARPA.md\|Rocket Lab to launch dedicated Electron mission for DARPA]]                                                                                                   | Rocket Lab to launch dedicated Electron mission for DARPA                                                   | January 22, 2019 |
+| File                                                                                                                                                                                                                               | Published        |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[News/Rocket Lab Supports Significant Milestone for DARPA and Space Development Agency on the Mandrake-2 Mission.md\|Rocket Lab Supports Significant Milestone for DARPA and Space Development Agency on the Mandrake-2 Mission]] | July 13, 2022    |
+| [[News/Rocket Lab successfully launches R3D2 satellite for DARPA.md\|Rocket Lab successfully launches R3D2 satellite for DARPA]]                                                                                                   | March 28, 2019   |
+| [[News/Rocket Lab to launch dedicated Electron mission for DARPA.md\|Rocket Lab to launch dedicated Electron mission for DARPA]]                                                                                                   | January 22, 2019 |
 
 %%DATAVIEW_PUBLISHER: end %%
 ## 🛰️ Space Systems

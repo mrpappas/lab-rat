@@ -37,17 +37,17 @@ sort launch_date desc
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
-table title as "Title", published as "Published"
+table published as "Published"
 from "News"
 where contains(customer, [[NorthStar Earth & Space]])
 sort published desc
 ```
 %%
 
-| File                                                                                                                                                                                   | Title                                                                                 | Published        |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ---------------- |
-| [[News/Rocket Lab Successfully Launches First Electron Mission of Busy 2024 Launch Schedule.md\|Rocket Lab Successfully Launches First Electron Mission of Busy 2024 Launch Schedule]] | Rocket Lab Successfully Launches First Electron Mission of Busy 2024 Launch Schedule  | January 31, 2024 |
-| [[News/Rocket Lab to Launch Space Situational Awareness Mission for Spire and NorthStar.md\|Rocket Lab to Launch Space Situational Awareness Mission for Spire and NorthStar]]         | Rocket Lab to Launch Space Situational Awareness Mission for Spire and NorthStar      | January 08, 2024 |
-| [[News/Rocket Lab to Launch Space Object Monitoring Mission For Spire Global & NorthStar.md\|Rocket Lab to Launch Space Object Monitoring Mission For Spire Global & NorthStar]]       | Rocket Lab to Launch Space Object Monitoring Mission For Spire Global & NorthStar     | June 22, 2023    |
+| File                                                                                                                                                                                   | Published        |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[News/Rocket Lab Successfully Launches First Electron Mission of Busy 2024 Launch Schedule.md\|Rocket Lab Successfully Launches First Electron Mission of Busy 2024 Launch Schedule]] | January 31, 2024 |
+| [[News/Rocket Lab to Launch Space Situational Awareness Mission for Spire and NorthStar.md\|Rocket Lab to Launch Space Situational Awareness Mission for Spire and NorthStar]]         | January 08, 2024 |
+| [[News/Rocket Lab to Launch Space Object Monitoring Mission For Spire Global & NorthStar.md\|Rocket Lab to Launch Space Object Monitoring Mission For Spire Global & NorthStar]]       | June 22, 2023    |
 
 %%DATAVIEW_PUBLISHER: end %%

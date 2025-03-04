@@ -13,15 +13,15 @@ website: https://www.ustranscom.mil/
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
-table title as "Title", published as "Published"
+table published as "Published"
 from "News"
 where contains(customer, [[USTRANSCOM]])
 sort published desc
 ```
 %%
 
-| File                                                                                                                                                                                                                                                               | Title                                                                                                                       | Published          |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[News/Rocket Lab Signs Agreement with USTRANSCOM to Explore Using Neutron and Electron Rockets to Deliver Cargo Around the World.md\|Rocket Lab Signs Agreement with USTRANSCOM to Explore Using Neutron and Electron Rockets to Deliver Cargo Around the World]] | Rocket Lab Signs Agreement with USTRANSCOM to Explore Using Neutron and Electron Rockets to Deliver Cargo Around the World  | September 06, 2022 |
+| File                                                                                                                                                                                                                                                               | Published          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
+| [[News/Rocket Lab Signs Agreement with USTRANSCOM to Explore Using Neutron and Electron Rockets to Deliver Cargo Around the World.md\|Rocket Lab Signs Agreement with USTRANSCOM to Explore Using Neutron and Electron Rockets to Deliver Cargo Around the World]] | September 06, 2022 |
 
 %%DATAVIEW_PUBLISHER: end %%

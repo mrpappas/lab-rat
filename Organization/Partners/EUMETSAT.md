@@ -13,14 +13,14 @@ website:
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
-table title as "Title", published as "Published"
+table published as "Published"
 from "News"
 where contains(customer, [[EUMETSAT]])
 sort published desc
 ```
 %%
 
-| File | Title | Published |
-| ---- | ----- | --------- |
+| File | Published |
+| ---- | --------- |
 
 %%DATAVIEW_PUBLISHER: end %%

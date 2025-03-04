@@ -30,15 +30,15 @@ sort launch_date desc
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
-table title as "Title", published as "Published"
+table published as "Published"
 from "News"
 where contains(customer, [[Boston University]])
 sort published desc
 ```
 %%
 
-| File                                                                                                                                                                                                               | Title                                                                                               | Published      |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- | -------------- |
-| [[News/Rocket Lab’s Next Mission to Launch Satellites for NASA, NRO and the University of New South Wales.md\|Rocket Lab’s Next Mission to Launch Satellites for NASA, NRO and the University of New South Wales]] | Rocket Lab’s Next Mission to Launch Satellites for NASA, NRO and the University of New South Wales  | March 09, 2020 |
+| File                                                                                                                                                                                                               | Published      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------- |
+| [[News/Rocket Lab’s Next Mission to Launch Satellites for NASA, NRO and the University of New South Wales.md\|Rocket Lab’s Next Mission to Launch Satellites for NASA, NRO and the University of New South Wales]] | March 09, 2020 |
 
 %%DATAVIEW_PUBLISHER: end %%

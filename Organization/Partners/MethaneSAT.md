@@ -12,15 +12,15 @@ https://en.wikipedia.org/wiki/MethaneSAT
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
-table title as "Title", published as "Published"
+table published as "Published"
 from "News"
 where contains(customer, [[MethaneSAT]])
 sort published desc
 ```
 %%
 
-| File                                                                                                                                                                                                                 | Title                                                                                                | Published      |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | -------------- |
-| [[News/Rocket Lab To Develop Mission Operations Control Center For MethaneSAT Climate Monitoring Satellite.md\|Rocket Lab To Develop Mission Operations Control Center For MethaneSAT Climate Monitoring Satellite]] | Rocket Lab To Develop Mission Operations Control Center For MethaneSAT Climate Monitoring Satellite  | April 22, 2021 |
+| File                                                                                                                                                                                                                 | Published      |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| [[News/Rocket Lab To Develop Mission Operations Control Center For MethaneSAT Climate Monitoring Satellite.md\|Rocket Lab To Develop Mission Operations Control Center For MethaneSAT Climate Monitoring Satellite]] | April 22, 2021 |
 
 %%DATAVIEW_PUBLISHER: end %%

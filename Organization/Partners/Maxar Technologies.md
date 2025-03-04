@@ -13,15 +13,15 @@ website: https://www.maxar.com/
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
-table title as "Title", published as "Published"
+table published as "Published"
 from "News"
 where contains(customer, [[Maxar Technologies]])
 sort published desc
 ```
 %%
 
-| File                                                                                                                                                                                       | Title                                                                                  | Published         |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- | ----------------- |
-| [[News/Rocket Lab Delivers Final Solar Panels for NASA Gateway’s Power and Propulsion Element.md\|Rocket Lab Delivers Final Solar Panels for NASA Gateway’s Power and Propulsion Element]] | Rocket Lab Delivers Final Solar Panels for NASA Gateway’s Power and Propulsion Element | November 03, 2022 |
+| File                                                                                                                                                                                       | Published         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
+| [[News/Rocket Lab Delivers Final Solar Panels for NASA Gateway’s Power and Propulsion Element.md\|Rocket Lab Delivers Final Solar Panels for NASA Gateway’s Power and Propulsion Element]] | November 03, 2022 |
 
 %%DATAVIEW_PUBLISHER: end %%

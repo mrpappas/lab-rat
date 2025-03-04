@@ -13,15 +13,15 @@ website: https://www.telesat.com/
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
-table title as "Title", published as "Published"
+table published as "Published"
 from "News"
 where contains(customer, [[Telesat]])
 sort published desc
 ```
 %%
 
-| File                                                                                                                                                                           | Title                                                                             | Published    |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------- | ------------ |
-| [[News/Space Flight Laboratory Selects Rocket Lab to Launch Telesat Broadband Satellite.md\|Space Flight Laboratory Selects Rocket Lab to Launch Telesat Broadband Satellite]] | Space Flight Laboratory Selects Rocket Lab to Launch Telesat Broadband Satellite  | May 31, 2023 |
+| File                                                                                                                                                                           | Published    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ |
+| [[News/Space Flight Laboratory Selects Rocket Lab to Launch Telesat Broadband Satellite.md\|Space Flight Laboratory Selects Rocket Lab to Launch Telesat Broadband Satellite]] | May 31, 2023 |
 
 %%DATAVIEW_PUBLISHER: end %%

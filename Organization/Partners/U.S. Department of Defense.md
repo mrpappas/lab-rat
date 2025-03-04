@@ -32,17 +32,17 @@ sort launch_date desc
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
-table title as "Title", published as "Published"
+table published as "Published"
 from "News"
 where contains(customer, [[U.S. Department of Defense]])
 sort published desc
 ```
 %%
 
-| File                                                                                                                                                                                                                       | Title                                                                                                   | Published         |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ----------------- |
-| [[News/Mission Success for Rocket Lab’s Latest Suborbital Hypersonic Launch.md\|Mission Success for Rocket Lab’s Latest Suborbital Hypersonic Launch]]                                                                     | Mission Success for Rocket Lab’s Latest Suborbital Hypersonic Launch                                    | December 09, 2024 |
-| [[News/Rocket Lab Successfully Launches Two Missions in Less Than 24 Hours.md\|Rocket Lab Successfully Launches Two Missions in Less Than 24 Hours]]                                                                       | Rocket Lab Successfully Launches Two Missions in Less Than 24 Hours                                     | November 25, 2024 |
-| [[News/Rocket Lab Adds New HASTE Launch from Virginia for the Department of Defense’s Defense Innovation Unit.md\|Rocket Lab Adds New HASTE Launch from Virginia for the Department of Defense’s Defense Innovation Unit]] | Rocket Lab Adds New HASTE Launch from Virginia for the Department of Defense’s Defense Innovation Unit  | November 08, 2023 |
+| File                                                                                                                                                                                                                       | Published         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[News/Mission Success for Rocket Lab’s Latest Suborbital Hypersonic Launch.md\|Mission Success for Rocket Lab’s Latest Suborbital Hypersonic Launch]]                                                                     | December 09, 2024 |
+| [[News/Rocket Lab Successfully Launches Two Missions in Less Than 24 Hours.md\|Rocket Lab Successfully Launches Two Missions in Less Than 24 Hours]]                                                                       | November 25, 2024 |
+| [[News/Rocket Lab Adds New HASTE Launch from Virginia for the Department of Defense’s Defense Innovation Unit.md\|Rocket Lab Adds New HASTE Launch from Virginia for the Department of Defense’s Defense Innovation Unit]] | November 08, 2023 |
 
 %%DATAVIEW_PUBLISHER: end %%

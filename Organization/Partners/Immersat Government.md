@@ -13,15 +13,15 @@ Inmarsat Government is the U.S. subsidiary of Inmarsat, providing secure satelli
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
-table title as "Title", published as "Published"
+table published as "Published"
 from "News"
 where contains(customer, [[Immersat Government]])
 sort published desc
 ```
 %%
 
-| File                                                                                                                                                                                                                             | Title                                                                                                       | Published         |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ----------------- |
-| [[News/NASA’s Communications Services Project Sees Inmarsat Government Select Rocket Lab to Develop L-Band Radio.md\|NASA’s Communications Services Project Sees Inmarsat Government Select Rocket Lab to Develop L-Band Radio]] | NASA’s Communications Services Project Sees Inmarsat Government Select Rocket Lab to Develop L-Band Radio   | November 03, 2022 |
+| File                                                                                                                                                                                                                             | Published         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[News/NASA’s Communications Services Project Sees Inmarsat Government Select Rocket Lab to Develop L-Band Radio.md\|NASA’s Communications Services Project Sees Inmarsat Government Select Rocket Lab to Develop L-Band Radio]] | November 03, 2022 |
 
 %%DATAVIEW_PUBLISHER: end %%

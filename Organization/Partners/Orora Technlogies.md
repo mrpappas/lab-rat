@@ -48,15 +48,15 @@ They carries OroraTech’s unique and proprietary thermal-infrared camera (devel
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
-table title as "Title", published as "Published"
+table published as "Published"
 from "News"
 where contains(customer, [[Orora Technlogies]])
 sort published desc
 ```
 %%
 
-| File                                                                                                                                                                                 | Title                                                                               | Published        |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- | ---------------- |
-| [[News/Rocket Lab to Launch Global Wildfire Detection and Monitoring Mission for OroraTech.md\|Rocket Lab to Launch Global Wildfire Detection and Monitoring Mission for OroraTech]] | Rocket Lab to Launch Global Wildfire Detection and Monitoring Mission for OroraTech | January 22, 2025 |
+| File                                                                                                                                                                                 | Published        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- |
+| [[News/Rocket Lab to Launch Global Wildfire Detection and Monitoring Mission for OroraTech.md\|Rocket Lab to Launch Global Wildfire Detection and Monitoring Mission for OroraTech]] | January 22, 2025 |
 
 %%DATAVIEW_PUBLISHER: end %%

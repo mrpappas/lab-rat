@@ -32,17 +32,17 @@ sort launch_date desc
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
-table title as "Title", published as "Published"
+table published as "Published"
 from "News"
 where contains(customer, [[Melbourne Space Program]])
 sort published desc
 ```
 %%
 
-| File                                                                                                                                                                                                   | Title                                                                                         | Published     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- | ------------- |
-| [[News/Rocket Lab successfully launches seventh Electron mission, deploys seven satellites to orbit.md\|Rocket Lab successfully launches seventh Electron mission, deploys seven satellites to orbit]] | Rocket Lab successfully launches seventh Electron mission, deploys seven satellites to orbit  | June 29, 2019 |
-| [[News/Rocket Lab to launch rideshare mission for Spaceflight.md\|Rocket Lab to launch rideshare mission for Spaceflight]]                                                                             | Rocket Lab to launch rideshare mission for Spaceflight                                        | May 10, 2019  |
+| File                                                                                                                                                                                                   | Published     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------- |
+| [[News/Rocket Lab successfully launches seventh Electron mission, deploys seven satellites to orbit.md\|Rocket Lab successfully launches seventh Electron mission, deploys seven satellites to orbit]] | June 29, 2019 |
+| [[News/Rocket Lab to launch rideshare mission for Spaceflight.md\|Rocket Lab to launch rideshare mission for Spaceflight]]                                                                             | May 10, 2019  |
 
 %%DATAVIEW_PUBLISHER: end %%
 ## ✏️ Notes

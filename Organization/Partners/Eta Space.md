@@ -15,15 +15,15 @@ One of Eta Space's flagship projects is the LOXSAT-1, a demonstration mission su
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
-table title as "Title", published as "Published"
+table published as "Published"
 from "News"
 where contains(customer, [[Eta Space]])
 sort published desc
 ```
 %%
 
-| File                                                                                                                                                                                                                             | Title                                                                                                      | Published         |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ----------------- |
-| [[News/Rocket Lab Announces Third Quarter 2021 Financial Results and Issues Guidance for the Fourth Quarter 2021.md\|Rocket Lab Announces Third Quarter 2021 Financial Results and Issues Guidance for the Fourth Quarter 2021]] | Rocket Lab Announces Third Quarter 2021 Financial Results and Issues Guidance for the Fourth Quarter 2021  | November 15, 2021 |
+| File                                                                                                                                                                                                                             | Published         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[News/Rocket Lab Announces Third Quarter 2021 Financial Results and Issues Guidance for the Fourth Quarter 2021.md\|Rocket Lab Announces Third Quarter 2021 Financial Results and Issues Guidance for the Fourth Quarter 2021]] | November 15, 2021 |
 
 %%DATAVIEW_PUBLISHER: end %%

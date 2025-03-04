@@ -34,17 +34,17 @@ sort launch_date desc
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
-table title as "Title", published as "Published"
+table published as "Published"
 from "News"
 where contains(customer, [[Korea Advanced Institute of Science and Technology]])
 sort published desc
 ```
 %%
 
-| File                                                                                                                                                                                                                               | Title                                                                                                 | Published         |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------- |
-| [[News/Rocket Lab Successfully Deploys Satellites ~500km Apart to Separate Orbits  For KAIST and NASA  Rocket Lab.md\|Rocket Lab Successfully Deploys Satellites ~500km Apart to Separate Orbits  For KAIST and NASA  Rocket Lab]] | Rocket Lab Successfully Deploys Satellites ~500km Apart to Separate Orbits  For KAIST and NASA        | April 24, 2024    |
-| [[News/Rocket Lab Prepares to Launch Mission for KAIST and NASA to Deploy Satellites to Two Separate Orbits.md\|Rocket Lab Prepares to Launch Mission for KAIST and NASA to Deploy Satellites to Two Separate Orbits]]             | Rocket Lab Prepares to Launch Mission for KAIST and NASA to Deploy Satellites to Two Separate Orbits  | April 01, 2024    |
-| [[News/Rocket Lab Signs Deal to Launch South Korean Satellite.md\|Rocket Lab Signs Deal to Launch South Korean Satellite]]                                                                                                         | Rocket Lab Signs Deal to Launch South Korean Satellite                                                | December 07, 2023 |
+| File                                                                                                                                                                                                                               | Published         |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[News/Rocket Lab Successfully Deploys Satellites ~500km Apart to Separate Orbits  For KAIST and NASA  Rocket Lab.md\|Rocket Lab Successfully Deploys Satellites ~500km Apart to Separate Orbits  For KAIST and NASA  Rocket Lab]] | April 24, 2024    |
+| [[News/Rocket Lab Prepares to Launch Mission for KAIST and NASA to Deploy Satellites to Two Separate Orbits.md\|Rocket Lab Prepares to Launch Mission for KAIST and NASA to Deploy Satellites to Two Separate Orbits]]             | April 01, 2024    |
+| [[News/Rocket Lab Signs Deal to Launch South Korean Satellite.md\|Rocket Lab Signs Deal to Launch South Korean Satellite]]                                                                                                         | December 07, 2023 |
 
 %%DATAVIEW_PUBLISHER: end %%

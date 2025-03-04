@@ -25,17 +25,17 @@ Rocket Lab was selected as a subcontractor to provide [[MAX Flight Software]], [
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
-table title as "Title", published as "Published"
+table published as "Published"
 from "News"
 where contains(customer, [[Firefly Aerospace]])
 sort published desc
 ```
 %%
 
-| File                                                                                                                                                                                                                         | Title                                                                                                   | Published        |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ---------------- |
-| [[News/Rocket Lab Space Software Supports Lunar Landing for Firefly’s Blue Ghost 1 Mission.md\|Rocket Lab Space Software Supports Lunar Landing for Firefly’s Blue Ghost 1 Mission]]                                         | Rocket Lab Space Software Supports Lunar Landing for Firefly’s Blue Ghost 1 Mission                     | March 03, 2025   |
-| [[News/Firefly’s Blue Ghost Spacecraft Begins Journey to Moon, Supported by Rocket Lab Software and Components.md\|Firefly’s Blue Ghost Spacecraft Begins Journey to Moon, Supported by Rocket Lab Software and Components]] | Firefly’s Blue Ghost Spacecraft Begins Journey to Moon, Supported by Rocket Lab Software and Components | January 23, 2025 |
+| File                                                                                                                                                                                                                         | Published        |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[News/Rocket Lab Space Software Supports Lunar Landing for Firefly’s Blue Ghost 1 Mission.md\|Rocket Lab Space Software Supports Lunar Landing for Firefly’s Blue Ghost 1 Mission]]                                         | March 03, 2025   |
+| [[News/Firefly’s Blue Ghost Spacecraft Begins Journey to Moon, Supported by Rocket Lab Software and Components.md\|Firefly’s Blue Ghost Spacecraft Begins Journey to Moon, Supported by Rocket Lab Software and Components]] | January 23, 2025 |
 
 %%DATAVIEW_PUBLISHER: end %%
 

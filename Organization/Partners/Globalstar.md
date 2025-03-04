@@ -33,16 +33,16 @@ The Globalstar global mobile communications network offers global, digital real 
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
-table title as "Title", published as "Published"
+table published as "Published"
 from "News"
 where contains(customer, [[Globalstar]])
 sort published desc
 ```
 %%
 
-| File                                                                                                                                                                                                                       | Title                                                                                                   | Published         |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ----------------- |
-| [[News/Rocket Lab Selected by MDA to Deliver Satellite Operations Control Center for Globalstar Constellation.md\|Rocket Lab Selected by MDA to Deliver Satellite Operations Control Center for Globalstar Constellation]] | Rocket Lab Selected by MDA to Deliver Satellite Operations Control Center for Globalstar Constellation  | November 09, 2022 |
-| [[News/Rocket Lab Selected by MDA to Design and Build Spacecraft for Globalstar.md\|Rocket Lab Selected by MDA to Design and Build Spacecraft for Globalstar]]                                                             | Rocket Lab Selected by MDA to Design and Build Spacecraft for Globalstar                                | February 24, 2022 |
+| File                                                                                                                                                                                                                       | Published         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[News/Rocket Lab Selected by MDA to Deliver Satellite Operations Control Center for Globalstar Constellation.md\|Rocket Lab Selected by MDA to Deliver Satellite Operations Control Center for Globalstar Constellation]] | November 09, 2022 |
+| [[News/Rocket Lab Selected by MDA to Design and Build Spacecraft for Globalstar.md\|Rocket Lab Selected by MDA to Design and Build Spacecraft for Globalstar]]                                                             | February 24, 2022 |
 
 %%DATAVIEW_PUBLISHER: end %%

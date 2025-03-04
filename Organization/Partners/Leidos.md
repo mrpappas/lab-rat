@@ -32,16 +32,16 @@ sort launch_date desc
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
-table title as "Title", published as "Published"
+table published as "Published"
 from "News"
 where contains(customer, [[Leidos]])
 sort published desc
 ```
 %%
 
-| File                                                                                                                                                                                   | Title                                                                                  | Published          |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ------------------ |
-| [[News/Rocket Lab Signs Deal with Leidos to Launch Four HASTE Missions.md\|Rocket Lab Signs Deal with Leidos to Launch Four HASTE Missions]]                                           | Rocket Lab Signs Deal with Leidos to Launch Four HASTE Missions                        | September 12, 2023 |
-| [[News/Rocket Lab Debuts HASTE Rocket with First Successful Suborbital Launch from Virginia.md\|Rocket Lab Debuts HASTE Rocket with First Successful Suborbital Launch from Virginia]] | Rocket Lab Debuts HASTE Rocket with First Successful Suborbital Launch from Virginia   | June 17, 2023      |
+| File                                                                                                                                                                                   | Published          |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[News/Rocket Lab Signs Deal with Leidos to Launch Four HASTE Missions.md\|Rocket Lab Signs Deal with Leidos to Launch Four HASTE Missions]]                                           | September 12, 2023 |
+| [[News/Rocket Lab Debuts HASTE Rocket with First Successful Suborbital Launch from Virginia.md\|Rocket Lab Debuts HASTE Rocket with First Successful Suborbital Launch from Virginia]] | June 17, 2023      |
 
 %%DATAVIEW_PUBLISHER: end %%

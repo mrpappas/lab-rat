@@ -32,17 +32,17 @@ sort launch_date desc
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
-table title as "Title", published as "Published"
+table published as "Published"
 from "News"
 where contains(customer, [[In-Space Missions]])
 sort published desc
 ```
 %%
 
-| File                                                                                                                                 | Title                                                         | Published     |
-| ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------- | ------------- |
-| [[News/Rocket Lab to Resume Electron Launches in August.md\|Rocket Lab to Resume Electron Launches in August]]                       | Rocket Lab to Resume Electron Launches in August              | July 31, 2020 |
-| [[News/Rocket Lab Mission Fails to Reach Orbit.md\|Rocket Lab Mission Fails to Reach Orbit]]                                         | Rocket Lab Mission Fails to Reach Orbit                       | July 04, 2020 |
-| [[News/Rocket Lab to Demonstrate Fastest Launch Turnaround to Date.md\|Rocket Lab to Demonstrate Fastest Launch Turnaround to Date]] | Rocket Lab to Demonstrate Fastest Launch Turnaround to Date   | June 15, 2020 |
+| File                                                                                                                                 | Published     |
+| ------------------------------------------------------------------------------------------------------------------------------------ | ------------- |
+| [[News/Rocket Lab to Resume Electron Launches in August.md\|Rocket Lab to Resume Electron Launches in August]]                       | July 31, 2020 |
+| [[News/Rocket Lab Mission Fails to Reach Orbit.md\|Rocket Lab Mission Fails to Reach Orbit]]                                         | July 04, 2020 |
+| [[News/Rocket Lab to Demonstrate Fastest Launch Turnaround to Date.md\|Rocket Lab to Demonstrate Fastest Launch Turnaround to Date]] | June 15, 2020 |
 
 %%DATAVIEW_PUBLISHER: end %%

@@ -33,18 +33,18 @@ sort launch_date desc
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
-table title as "Title", published as "Published"
+table published as "Published"
 from "News"
 where contains(customer, [[Valve]])
 sort published desc
 ```
 %%
 
-| File                                                                                                                                   | Title                                                        | Published         |
-| -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ----------------- |
-| [[News/How to bring a rocket back from space.md\|How to bring a rocket back from space]]                                               | How to bring a rocket back from space                        | November 30, 2020 |
-| [[News/Rocket Lab Launches 16th Mission, Completes Booster Recovery.md\|Rocket Lab Launches 16th Mission, Completes Booster Recovery]] | Rocket Lab Launches 16th Mission, Completes Booster Recovery | November 22, 2020 |
-| [[News/Rocket Lab to Attempt First Stage Recovery on Next Mission.md\|Rocket Lab to Attempt First Stage Recovery on Next Mission]]     | Rocket Lab to Attempt First Stage Recovery on Next Mission   | November 05, 2020 |
-| [[News/Rocket Lab to Launch Most Diverse Mission Yet.md\|Rocket Lab to Launch Most Diverse Mission Yet]]                               | Rocket Lab to Launch Most Diverse Mission Yet                | November 02, 2020 |
+| File                                                                                                                                   | Published         |
+| -------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[News/How to bring a rocket back from space.md\|How to bring a rocket back from space]]                                               | November 30, 2020 |
+| [[News/Rocket Lab Launches 16th Mission, Completes Booster Recovery.md\|Rocket Lab Launches 16th Mission, Completes Booster Recovery]] | November 22, 2020 |
+| [[News/Rocket Lab to Attempt First Stage Recovery on Next Mission.md\|Rocket Lab to Attempt First Stage Recovery on Next Mission]]     | November 05, 2020 |
+| [[News/Rocket Lab to Launch Most Diverse Mission Yet.md\|Rocket Lab to Launch Most Diverse Mission Yet]]                               | November 02, 2020 |
 
 %%DATAVIEW_PUBLISHER: end %%

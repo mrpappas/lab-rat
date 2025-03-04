@@ -34,20 +34,20 @@ sort launch_date desc
 
 %%DATAVIEW_PUBLISHER: start
 ```
-table title as "Title", published as "Published"
+table published as "Published"
 from "News"
 where contains(customer, [[Alba Orbital]])
 sort published desc
 ```
 %%
 
-| File                                                                                                                                                                                                                                     | Title                                                                                                          | Published         |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ----------------- |
-| [[News/Rocket Lab Successfully Deploys 34 Satellites and Catches Rocket Booster Returning from Space with Helicopter.md\|Rocket Lab Successfully Deploys 34 Satellites and Catches Rocket Booster Returning from Space with Helicopter]] | Rocket Lab Successfully Deploys 34 Satellites and Catches Rocket Booster Returning from Space with Helicopter  | May 02, 2022      |
-| [[News/Rocket Lab to Attempt First Mid-Air Helicopter Capture of the Electron Rocket During Next Mission.md\|Rocket Lab to Attempt First Mid-Air Helicopter Capture of the Electron Rocket During Next Mission]]                         | Rocket Lab to Attempt First Mid-Air Helicopter Capture of the Electron Rocket During Next Mission              | April 06, 2022    |
-| [[News/Rocket Lab to Launch Four PocketQube Satellites for Alba Orbital.md\|Rocket Lab to Launch Four PocketQube Satellites for Alba Orbital]]                                                                                           | Rocket Lab to Launch Four PocketQube Satellites for Alba Orbital                                               | August 18, 2021   |
-| [[News/Rocket Lab Debuts Fully Autonomous Flight Termination System.md\|Rocket Lab Debuts Fully Autonomous Flight Termination System]]                                                                                                   | Rocket Lab Debuts Fully Autonomous Flight Termination System                                                   | December 09, 2019 |
-| [[News/Rocket Lab launches milestone tenth mission, completes major success for reusable rocket program.md\|Rocket Lab launches milestone tenth mission, completes major success for reusable rocket program]]                           | Rocket Lab launches milestone tenth mission, completes major success for reusable rocket program               | December 06, 2019 |
-| [[News/Next Generation Electron Booster on the Pad  for Rocket Lab’s 10th Mission.md\|Next Generation Electron Booster on the Pad  for Rocket Lab’s 10th Mission]]                                                                       | Next Generation Electron Booster on the Pad  for Rocket Lab’s 10th Mission                                     | November 05, 2019 |
+| File                                                                                                                                                                                                                                     | Published         |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[News/Rocket Lab Successfully Deploys 34 Satellites and Catches Rocket Booster Returning from Space with Helicopter.md\|Rocket Lab Successfully Deploys 34 Satellites and Catches Rocket Booster Returning from Space with Helicopter]] | May 02, 2022      |
+| [[News/Rocket Lab to Attempt First Mid-Air Helicopter Capture of the Electron Rocket During Next Mission.md\|Rocket Lab to Attempt First Mid-Air Helicopter Capture of the Electron Rocket During Next Mission]]                         | April 06, 2022    |
+| [[News/Rocket Lab to Launch Four PocketQube Satellites for Alba Orbital.md\|Rocket Lab to Launch Four PocketQube Satellites for Alba Orbital]]                                                                                           | August 18, 2021   |
+| [[News/Rocket Lab Debuts Fully Autonomous Flight Termination System.md\|Rocket Lab Debuts Fully Autonomous Flight Termination System]]                                                                                                   | December 09, 2019 |
+| [[News/Rocket Lab launches milestone tenth mission, completes major success for reusable rocket program.md\|Rocket Lab launches milestone tenth mission, completes major success for reusable rocket program]]                           | December 06, 2019 |
+| [[News/Next Generation Electron Booster on the Pad  for Rocket Lab’s 10th Mission.md\|Next Generation Electron Booster on the Pad  for Rocket Lab’s 10th Mission]]                                                                       | November 05, 2019 |
 
 %%DATAVIEW_PUBLISHER: end %%

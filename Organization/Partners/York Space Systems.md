@@ -33,16 +33,16 @@ sort launch_date desc
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
-table title as "Title", published as "Published"
+table published as "Published"
 from "News"
 where contains(customer, [[York Space Systems]])
 sort published desc
 ```
 %%
 
-| File                                                                                                                                                                                     | Title                                                                                  | Published      |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | -------------- |
-| [[News/Rocket Lab successfully launches three R&D satellites to orbit for the U.S. Air Force.md\|Rocket Lab successfully launches three R&D satellites to orbit for the U.S. Air Force]] | Rocket Lab successfully launches three R&D satellites to orbit for the U.S. Air Force  | May 05, 2019   |
-| [[News/Rocket Lab to launch three R&D satellites for the U.S. Air Force.md\|Rocket Lab to launch three R&D satellites for the U.S. Air Force]]                                           | Rocket Lab to launch three R&D satellites for the U.S. Air Force                       | April 04, 2019 |
+| File                                                                                                                                                                                     | Published      |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| [[News/Rocket Lab successfully launches three R&D satellites to orbit for the U.S. Air Force.md\|Rocket Lab successfully launches three R&D satellites to orbit for the U.S. Air Force]] | May 05, 2019   |
+| [[News/Rocket Lab to launch three R&D satellites for the U.S. Air Force.md\|Rocket Lab to launch three R&D satellites for the U.S. Air Force]]                                           | April 04, 2019 |
 
 %%DATAVIEW_PUBLISHER: end %%

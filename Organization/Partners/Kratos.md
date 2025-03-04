@@ -13,15 +13,15 @@ Kratos Space, a division of Kratos Defense & Security Solutions, specializes in 
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
-table title as "Title", published as "Published"
+table published as "Published"
 from "News"
 where contains(customer, [[Kratos]])
 sort published desc
 ```
 %%
 
-| File                                                                                                                                                                                                 | Title                                                                                                      | Published        |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ---------------- |
-| [[News/Rocket Lab Selected by Kratos to Deliver Hypersonic Test Launches for DoD with HASTE Rocket.md\|Rocket Lab Selected by Kratos to Deliver Hypersonic Test Launches for DoD with HASTE Rocket]] | Rocket Lab Selected by Kratos to Deliver Hypersonic Test Launches for DoD with HASTE Rocket  \| Rocket Lab | January 07, 2025 |
+| File                                                                                                                                                                                                 | Published        |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[News/Rocket Lab Selected by Kratos to Deliver Hypersonic Test Launches for DoD with HASTE Rocket.md\|Rocket Lab Selected by Kratos to Deliver Hypersonic Test Launches for DoD with HASTE Rocket]] | January 07, 2025 |
 
 %%DATAVIEW_PUBLISHER: end %%

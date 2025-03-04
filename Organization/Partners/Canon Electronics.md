@@ -33,21 +33,21 @@ sort launch_date desc
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
-table title as "Title", published as "Published"
+table published as "Published"
 from "News"
 where contains(customer, [[Canon Electronics]])
 sort published desc
 ```
 %%
 
-| File                                                                                                                                                                                                                               | Title                                                                                                       | Published          |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[News/Rocket Lab demonstrates flexible in-space transportation with new Kick Stage maneuver.md\|Rocket Lab demonstrates flexible in-space transportation with new Kick Stage maneuver]]                                           | Rocket Lab demonstrates flexible in-space transportation with new Kick Stage maneuver                       | October 30, 2020   |
-| [[News/Rocket Lab Successfully Launches 15th Mission, Deploys Satellites for Planet, Canon Electronics Inc..md\|Rocket Lab Successfully Launches 15th Mission, Deploys Satellites for Planet, Canon Electronics Inc.]]             | Rocket Lab Successfully Launches 15th Mission, Deploys Satellites for Planet, Canon Electronics Inc.        | October 29, 2020   |
-| [[News/Rocket Lab To Launch Commercial Earth-Imaging Rideshare Mission For Planet, Canon Electronics.md\|Rocket Lab To Launch Commercial Earth-Imaging Rideshare Mission For Planet, Canon Electronics]]                           | Rocket Lab To Launch Commercial Earth-Imaging Rideshare Mission For Planet, Canon Electronics               | September 21, 2020 |
-| [[News/Rocket Lab to Resume Electron Launches in August.md\|Rocket Lab to Resume Electron Launches in August]]                                                                                                                     | Rocket Lab to Resume Electron Launches in August                                                            | July 31, 2020      |
-| [[News/Rocket Lab Mission Fails to Reach Orbit.md\|Rocket Lab Mission Fails to Reach Orbit]]                                                                                                                                       | Rocket Lab Mission Fails to Reach Orbit                                                                     | July 04, 2020      |
-| [[News/Rocket Lab to Demonstrate Fastest Launch Turnaround to Date.md\|Rocket Lab to Demonstrate Fastest Launch Turnaround to Date]]                                                                                               | Rocket Lab to Demonstrate Fastest Launch Turnaround to Date                                                 | June 15, 2020      |
-| [[News/Rocket Lab confirms three launches with Spaceflight, including missions for Canon Electronics and BlackSky.md\|Rocket Lab confirms three launches with Spaceflight, including missions for Canon Electronics and BlackSky]] | Rocket Lab confirms three launches with Spaceflight, including missions for Canon Electronics and BlackSky  | June 11, 2018      |
+| File                                                                                                                                                                                                                               | Published          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[News/Rocket Lab demonstrates flexible in-space transportation with new Kick Stage maneuver.md\|Rocket Lab demonstrates flexible in-space transportation with new Kick Stage maneuver]]                                           | October 30, 2020   |
+| [[News/Rocket Lab Successfully Launches 15th Mission, Deploys Satellites for Planet, Canon Electronics Inc..md\|Rocket Lab Successfully Launches 15th Mission, Deploys Satellites for Planet, Canon Electronics Inc.]]             | October 29, 2020   |
+| [[News/Rocket Lab To Launch Commercial Earth-Imaging Rideshare Mission For Planet, Canon Electronics.md\|Rocket Lab To Launch Commercial Earth-Imaging Rideshare Mission For Planet, Canon Electronics]]                           | September 21, 2020 |
+| [[News/Rocket Lab to Resume Electron Launches in August.md\|Rocket Lab to Resume Electron Launches in August]]                                                                                                                     | July 31, 2020      |
+| [[News/Rocket Lab Mission Fails to Reach Orbit.md\|Rocket Lab Mission Fails to Reach Orbit]]                                                                                                                                       | July 04, 2020      |
+| [[News/Rocket Lab to Demonstrate Fastest Launch Turnaround to Date.md\|Rocket Lab to Demonstrate Fastest Launch Turnaround to Date]]                                                                                               | June 15, 2020      |
+| [[News/Rocket Lab confirms three launches with Spaceflight, including missions for Canon Electronics and BlackSky.md\|Rocket Lab confirms three launches with Spaceflight, including missions for Canon Electronics and BlackSky]] | June 11, 2018      |
 
 %%DATAVIEW_PUBLISHER: end %%

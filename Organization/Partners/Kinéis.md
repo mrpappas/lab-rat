@@ -39,24 +39,24 @@ sort launch_date desc
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
-table title as "Title", published as "Published"
+table published as "Published"
 from "News"
 where contains(customer, [[Kinéis]])
 sort published desc
 ```
 %%
 
-| File                                                                                                                                                                                                                   | Title                                                                                                 | Published          |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------ |
-| [[News/Rocket Lab Launches Next Batch of Satellites for Kinéis Constellation.md\|Rocket Lab Launches Next Batch of Satellites for Kinéis Constellation]]                                                               | Rocket Lab Launches Next Batch of Satellites for Kinéis Constellation                                 | February 08, 2025  |
-| [[News/Rocket Lab Schedules Next Electron Launch for Constellation Operator Kinéis.md\|Rocket Lab Schedules Next Electron Launch for Constellation Operator Kinéis]]                                                   | Rocket Lab Schedules Next Electron Launch for Constellation Operator Kinéis                           | January 21, 2025   |
-| [[News/Rocket Lab Successfully Launches Two Missions in Less Than 24 Hours.md\|Rocket Lab Successfully Launches Two Missions in Less Than 24 Hours]]                                                                   | Rocket Lab Successfully Launches Two Missions in Less Than 24 Hours                                   | November 25, 2024  |
-| [[News/Rocket Lab Schedules Next Launch for Constellation Operator Kinéis.md\|Rocket Lab Schedules Next Launch for Constellation Operator Kinéis]]                                                                     | Rocket Lab Schedules Next Launch for Constellation Operator Kinéis                                    | November 12, 2024  |
-| [[News/Rocket Lab Successfully Launches 53rd Electron Mission, Deploys Another Five Satellites for Kinéis.md\|Rocket Lab Successfully Launches 53rd Electron Mission, Deploys Another Five Satellites for Kinéis]]     | Rocket Lab Successfully Launches 53rd Electron Mission, Deploys Another Five Satellites for Kinéis    | September 21, 2024 |
-| [[News/Rocket Lab Sets Launch Date for Second Dedicated Kinéis Mission to Deploy IoT Constellation.md\|Rocket Lab Sets Launch Date for Second Dedicated Kinéis Mission to Deploy IoT Constellation]]                   | Rocket Lab Sets Launch Date for Second Dedicated Kinéis Mission to Deploy IoT Constellation           | September 03, 2024 |
-| [[News/Rocket Lab Successfully Launches 50th Electron Mission, Deploys Satellites for Kinéis.md\|Rocket Lab Successfully Launches 50th Electron Mission, Deploys Satellites for Kinéis]]                               | Rocket Lab Successfully Launches 50th Electron Mission, Deploys Satellites for Kinéis                 | June 21, 2024      |
-| [[News/Rocket Lab Sets Launch Date for 50th Electron Mission, Prepares to Deploy Five Satellites for Kinéis.md\|Rocket Lab Sets Launch Date for 50th Electron Mission, Prepares to Deploy Five Satellites for Kinéis]] | Rocket Lab Sets Launch Date for 50th Electron Mission, Prepares to Deploy Five Satellites for Kinéis  | June 07, 2024      |
-| [[News/Rocket Lab Lands Multi-Launch Deal to Deploy Entire IoT Satellite Constellation for Kinéis.md\|Rocket Lab Lands Multi-Launch Deal to Deploy Entire IoT Satellite Constellation for Kinéis]]                     | Rocket Lab Lands Multi-Launch Deal to Deploy Entire IoT Satellite Constellation for Kinéis            | September 08, 2021 |
+| File                                                                                                                                                                                                                   | Published          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[News/Rocket Lab Launches Next Batch of Satellites for Kinéis Constellation.md\|Rocket Lab Launches Next Batch of Satellites for Kinéis Constellation]]                                                               | February 08, 2025  |
+| [[News/Rocket Lab Schedules Next Electron Launch for Constellation Operator Kinéis.md\|Rocket Lab Schedules Next Electron Launch for Constellation Operator Kinéis]]                                                   | January 21, 2025   |
+| [[News/Rocket Lab Successfully Launches Two Missions in Less Than 24 Hours.md\|Rocket Lab Successfully Launches Two Missions in Less Than 24 Hours]]                                                                   | November 25, 2024  |
+| [[News/Rocket Lab Schedules Next Launch for Constellation Operator Kinéis.md\|Rocket Lab Schedules Next Launch for Constellation Operator Kinéis]]                                                                     | November 12, 2024  |
+| [[News/Rocket Lab Successfully Launches 53rd Electron Mission, Deploys Another Five Satellites for Kinéis.md\|Rocket Lab Successfully Launches 53rd Electron Mission, Deploys Another Five Satellites for Kinéis]]     | September 21, 2024 |
+| [[News/Rocket Lab Sets Launch Date for Second Dedicated Kinéis Mission to Deploy IoT Constellation.md\|Rocket Lab Sets Launch Date for Second Dedicated Kinéis Mission to Deploy IoT Constellation]]                   | September 03, 2024 |
+| [[News/Rocket Lab Successfully Launches 50th Electron Mission, Deploys Satellites for Kinéis.md\|Rocket Lab Successfully Launches 50th Electron Mission, Deploys Satellites for Kinéis]]                               | June 21, 2024      |
+| [[News/Rocket Lab Sets Launch Date for 50th Electron Mission, Prepares to Deploy Five Satellites for Kinéis.md\|Rocket Lab Sets Launch Date for 50th Electron Mission, Prepares to Deploy Five Satellites for Kinéis]] | June 07, 2024      |
+| [[News/Rocket Lab Lands Multi-Launch Deal to Deploy Entire IoT Satellite Constellation for Kinéis.md\|Rocket Lab Lands Multi-Launch Deal to Deploy Entire IoT Satellite Constellation for Kinéis]]                     | September 08, 2021 |
 
 %%DATAVIEW_PUBLISHER: end %%
 ## 🛰️ Space Systems

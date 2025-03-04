@@ -33,16 +33,16 @@ sort launch_date desc
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
-table title as "Title", published as "Published"
+table published as "Published"
 from "News"
 where contains(customer, [[Swedish National Space Agency]])
 sort published desc
 ```
 %%
 
-| File                                                                                                                                                                       | Title                                                                           | Published         |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ----------------- |
-| [[News/Rocket Lab Successfully Deploys 152nd Satellite.md\|Rocket Lab Successfully Deploys 152nd Satellite]]                                                               | Rocket Lab Successfully Deploys 152nd Satellite                                 | November 04, 2022 |
-| [[News/Rocket Lab to Attempt Next Mid-Air Helicopter Rocket Catch During Next Mission.md\|Rocket Lab to Attempt Next Mid-Air Helicopter Rocket Catch During Next Mission]] | Rocket Lab to Attempt Next Mid-Air Helicopter Rocket Catch During Next Mission  | November 01, 2022 |
+| File                                                                                                                                                                       | Published         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[News/Rocket Lab Successfully Deploys 152nd Satellite.md\|Rocket Lab Successfully Deploys 152nd Satellite]]                                                               | November 04, 2022 |
+| [[News/Rocket Lab to Attempt Next Mid-Air Helicopter Rocket Catch During Next Mission.md\|Rocket Lab to Attempt Next Mid-Air Helicopter Rocket Catch During Next Mission]] | November 01, 2022 |
 
 %%DATAVIEW_PUBLISHER: end %%

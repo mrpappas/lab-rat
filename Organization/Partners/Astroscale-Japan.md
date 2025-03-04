@@ -33,18 +33,18 @@ sort launch_date desc
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
-table title as "Title", published as "Published"
+table published as "Published"
 from "News"
 where contains(customer, [[Astroscale-Japan]])
 sort published desc
 ```
 %%
 
-| File                                                                                                                                                                                                         | Title                                                                                            | Published          |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ------------------ |
-| [[News/Rocket Lab Successfully Launches Mission Designed to Investigate Removing Space Junk from Orbit.md\|Rocket Lab Successfully Launches Mission Designed to Investigate Removing Space Junk from Orbit]] | Rocket Lab Successfully Launches Mission Designed to Investigate Removing Space Junk from Orbit  | February 19, 2024  |
-| [[News/Rocket Lab Sets Launch Window for Astroscale Orbital Debris Inspection Demonstration Mission.md\|Rocket Lab Sets Launch Window for Astroscale Orbital Debris Inspection Demonstration Mission]]       | Rocket Lab Sets Launch Window for Astroscale Orbital Debris Inspection Demonstration Mission     | February 07, 2024  |
-| [[News/Rocket Lab Wins Contract to Launch Orbital Debris Removal Demonstration Mission for Astroscale.md\|Rocket Lab Wins Contract to Launch Orbital Debris Removal Demonstration Mission for Astroscale]]   | Rocket Lab Wins Contract to Launch Orbital Debris Removal Demonstration Mission for Astroscale   | September 21, 2021 |
+| File                                                                                                                                                                                                         | Published          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
+| [[News/Rocket Lab Successfully Launches Mission Designed to Investigate Removing Space Junk from Orbit.md\|Rocket Lab Successfully Launches Mission Designed to Investigate Removing Space Junk from Orbit]] | February 19, 2024  |
+| [[News/Rocket Lab Sets Launch Window for Astroscale Orbital Debris Inspection Demonstration Mission.md\|Rocket Lab Sets Launch Window for Astroscale Orbital Debris Inspection Demonstration Mission]]       | February 07, 2024  |
+| [[News/Rocket Lab Wins Contract to Launch Orbital Debris Removal Demonstration Mission for Astroscale.md\|Rocket Lab Wins Contract to Launch Orbital Debris Removal Demonstration Mission for Astroscale]]   | September 21, 2021 |
 
 %%DATAVIEW_PUBLISHER: end %%
 

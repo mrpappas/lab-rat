@@ -33,20 +33,20 @@ sort launch_date desc
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
-table title as "Title", published as "Published"
+table published as "Published"
 from "News"
 where contains(customer, [[E-Space]])
 sort published desc
 ```
 %%
 
-| File                                                                                                                                                                                                                                     | Title                                                                                                          | Published         |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ----------------- |
-| [[News/From Contract to Space in Less Than Ten Weeks Rocket Lab Launches its 54th Electron Mission.md\|From Contract to Space in Less Than Ten Weeks Rocket Lab Launches its 54th Electron Mission]]                                     | From Contract to Space in Less Than Ten Weeks: Rocket Lab Launches its 54th Electron Mission                   | November 05, 2024 |
-| [[News/Rocket Lab Adds New Mission to 2024 Launch Manifest, Schedules Launch in Coming Days.md\|Rocket Lab Adds New Mission to 2024 Launch Manifest, Schedules Launch in Coming Days]]                                                   | Rocket Lab Adds New Mission to 2024 Launch Manifest, Schedules Launch in Coming Days                           | October 16, 2024  |
-| [[News/Rocket Lab Successfully Deploys 34 Satellites and Catches Rocket Booster Returning from Space with Helicopter.md\|Rocket Lab Successfully Deploys 34 Satellites and Catches Rocket Booster Returning from Space with Helicopter]] | Rocket Lab Successfully Deploys 34 Satellites and Catches Rocket Booster Returning from Space with Helicopter  | May 02, 2022      |
-| [[News/Rocket Lab to Attempt First Mid-Air Helicopter Capture of the Electron Rocket During Next Mission.md\|Rocket Lab to Attempt First Mid-Air Helicopter Capture of the Electron Rocket During Next Mission]]                         | Rocket Lab to Attempt First Mid-Air Helicopter Capture of the Electron Rocket During Next Mission              | April 06, 2022    |
-| [[News/Rocket Lab to Launch Three Demonstration Satellites for E-Space.md\|Rocket Lab to Launch Three Demonstration Satellites for E-Space]]                                                                                             | Rocket Lab to Launch Three Demonstration Satellites for E-Space                                                | March 21, 2022    |
+| File                                                                                                                                                                                                                                     | Published         |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[News/From Contract to Space in Less Than Ten Weeks Rocket Lab Launches its 54th Electron Mission.md\|From Contract to Space in Less Than Ten Weeks Rocket Lab Launches its 54th Electron Mission]]                                     | November 05, 2024 |
+| [[News/Rocket Lab Adds New Mission to 2024 Launch Manifest, Schedules Launch in Coming Days.md\|Rocket Lab Adds New Mission to 2024 Launch Manifest, Schedules Launch in Coming Days]]                                                   | October 16, 2024  |
+| [[News/Rocket Lab Successfully Deploys 34 Satellites and Catches Rocket Booster Returning from Space with Helicopter.md\|Rocket Lab Successfully Deploys 34 Satellites and Catches Rocket Booster Returning from Space with Helicopter]] | May 02, 2022      |
+| [[News/Rocket Lab to Attempt First Mid-Air Helicopter Capture of the Electron Rocket During Next Mission.md\|Rocket Lab to Attempt First Mid-Air Helicopter Capture of the Electron Rocket During Next Mission]]                         | April 06, 2022    |
+| [[News/Rocket Lab to Launch Three Demonstration Satellites for E-Space.md\|Rocket Lab to Launch Three Demonstration Satellites for E-Space]]                                                                                             | March 21, 2022    |
 
 %%DATAVIEW_PUBLISHER: end %%
 

@@ -24,16 +24,16 @@ Argos-4 is a satellite payload that supports the [Argos Data Collection System](
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
-table title as "Title", published as "Published"
+table published as "Published"
 from "News"
 where contains(customer, [[CNES]])
 sort published desc
 ```
 %%
 
-| File                                                                                                                                                                                                                                                             | Title                                                                                                                      | Published          |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[News/Rocket Lab to Launch 31st Mission, Deploying Environmental Monitoring Satellite for General Atomics.md\|Rocket Lab to Launch 31st Mission, Deploying Environmental Monitoring Satellite for General Atomics]]                                             | Rocket Lab to Launch 31st Mission, Deploying Environmental Monitoring Satellite for General Atomics                        | October 04, 2022   |
-| [[News/Rocket Lab to Launch NOAA-Supported Argos-4 Spacecraft for General Atomics to Support Environmental Monitoring from Space.md\|Rocket Lab to Launch NOAA-Supported Argos-4 Spacecraft for General Atomics to Support Environmental Monitoring from Space]] | Rocket Lab to Launch NOAA-Supported Argos-4 Spacecraft for General Atomics to Support Environmental Monitoring from Space  | September 19, 2022 |
+| File                                                                                                                                                                                                                                                             | Published          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[News/Rocket Lab to Launch 31st Mission, Deploying Environmental Monitoring Satellite for General Atomics.md\|Rocket Lab to Launch 31st Mission, Deploying Environmental Monitoring Satellite for General Atomics]]                                             | October 04, 2022   |
+| [[News/Rocket Lab to Launch NOAA-Supported Argos-4 Spacecraft for General Atomics to Support Environmental Monitoring from Space.md\|Rocket Lab to Launch NOAA-Supported Argos-4 Spacecraft for General Atomics to Support Environmental Monitoring from Space]] | September 19, 2022 |
 
 %%DATAVIEW_PUBLISHER: end %%

@@ -33,20 +33,20 @@ sort launch_date desc
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
-table title as "Title", published as "Published"
+table published as "Published"
 from "News"
 where contains(customer, [[U.S. Air Force]])
 sort published desc
 ```
 %%
 
-| File                                                                                                                                                                                                                                                 | Title                                                                                                                | Published         |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| [[News/Rocket Lab Granted Air Force Research Lab Award to Showcase Digital Engineering with New Archimedes Rocket Engine.md\|Rocket Lab Granted Air Force Research Lab Award to Showcase Digital Engineering with New Archimedes Rocket Engine]]     | Rocket Lab Granted Air Force Research Lab Award to Showcase Digital Engineering with New Archimedes Rocket Engine    | November 12, 2024 |
-| [[News/Rocket Lab Opens Launch Complex 2, Confirms U.S. Air Force Payload as First Electron Mission from U.S. Soil.md\|Rocket Lab Opens Launch Complex 2, Confirms U.S. Air Force Payload as First Electron Mission from U.S. Soil]]                 | Rocket Lab Opens Launch Complex 2, Confirms U.S. Air Force Payload as First Electron Mission from U.S. Soil          | December 12, 2019 |
-| [[News/Rocket Lab successfully launches eighth Electron mission,  takes next step in recovery and reuse for future flights.md\|Rocket Lab successfully launches eighth Electron mission,  takes next step in recovery and reuse for future flights]] | Rocket Lab successfully launches eighth Electron mission,  takes next step in recovery and reuse for future flights  | August 20, 2019   |
-| [[News/Rocket Lab’s Next Mission Focused On Building Constellations And Enabling R&D.md\|Rocket Lab’s Next Mission Focused On Building Constellations And Enabling R&D]]                                                                             | Rocket Lab’s Next Mission Focused On Building Constellations And Enabling R&D                                        | July 22, 2019     |
-| [[News/Rocket Lab successfully launches three R&D satellites to orbit for the U.S. Air Force.md\|Rocket Lab successfully launches three R&D satellites to orbit for the U.S. Air Force]]                                                             | Rocket Lab successfully launches three R&D satellites to orbit for the U.S. Air Force                                | May 05, 2019      |
-| [[News/Rocket Lab to launch three R&D satellites for the U.S. Air Force.md\|Rocket Lab to launch three R&D satellites for the U.S. Air Force]]                                                                                                       | Rocket Lab to launch three R&D satellites for the U.S. Air Force                                                     | April 04, 2019    |
+| File                                                                                                                                                                                                                                                 | Published         |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[News/Rocket Lab Granted Air Force Research Lab Award to Showcase Digital Engineering with New Archimedes Rocket Engine.md\|Rocket Lab Granted Air Force Research Lab Award to Showcase Digital Engineering with New Archimedes Rocket Engine]]     | November 12, 2024 |
+| [[News/Rocket Lab Opens Launch Complex 2, Confirms U.S. Air Force Payload as First Electron Mission from U.S. Soil.md\|Rocket Lab Opens Launch Complex 2, Confirms U.S. Air Force Payload as First Electron Mission from U.S. Soil]]                 | December 12, 2019 |
+| [[News/Rocket Lab successfully launches eighth Electron mission,  takes next step in recovery and reuse for future flights.md\|Rocket Lab successfully launches eighth Electron mission,  takes next step in recovery and reuse for future flights]] | August 20, 2019   |
+| [[News/Rocket Lab’s Next Mission Focused On Building Constellations And Enabling R&D.md\|Rocket Lab’s Next Mission Focused On Building Constellations And Enabling R&D]]                                                                             | July 22, 2019     |
+| [[News/Rocket Lab successfully launches three R&D satellites to orbit for the U.S. Air Force.md\|Rocket Lab successfully launches three R&D satellites to orbit for the U.S. Air Force]]                                                             | May 05, 2019      |
+| [[News/Rocket Lab to launch three R&D satellites for the U.S. Air Force.md\|Rocket Lab to launch three R&D satellites for the U.S. Air Force]]                                                                                                       | April 04, 2019    |
 
 %%DATAVIEW_PUBLISHER: end %%
