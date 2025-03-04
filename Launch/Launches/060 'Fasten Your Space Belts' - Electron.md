@@ -25,8 +25,8 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/fasten-you
 **Location**: [[Launch Complex 1]]
 **Vehicle**: [[Electron]]
 **Orbit Type**: [[🌍 Orbits#LEO|LEO]]
-**Target Orbit**: 470km
-**Payload Mass**: 
+**Target Orbit**: 470km 59°
+**Payload Mass**: 138 kg
 **Recovery**: No attempt
 **Mission Link**: https://www.rocketlabusa.com/missions/missions-launched/fasten-your-space-belts/
 **Press Kit**: [[RL-F60-BlackSky-Fasten-Your-Space-Belts.pdf]]
@@ -42,7 +42,7 @@ Like earlier Black Sky launches on [[Electron]], this mission was supported by a
 
 ## 📦 Payload
 
-[[BlackSky]]'s first Gen-3 variant
+X1 [[BlackSky#🛰️ Space Systems#BlackSky Gen-3|BlackSky Gen-3]]
 
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start

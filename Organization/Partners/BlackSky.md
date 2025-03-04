@@ -34,6 +34,42 @@ sort launch_date desc
 
 %%DATAVIEW_PUBLISHER: end %%
 
+## 🛰️ Space Systems
+
+### BlackSky Gen-2
+
+https://space.skyrocket.de/doc_sdat/blacksky-global.htm
+
+The satellites feature the SpaceView-24 imaging system built by Harris Corp.'s Exelis with an aperture of 24 cm It has a ground resolution of 0.9 - 1.1 m from an orbital height of 500 km. They have a onboard propulsion for a 3 year orbital life. The satellites are built by Spaceflight Services based on their SCOUT bus.
+
+![[Pasted image 20250303200134.jpg]]
+
+### BlackSky Gen-3
+
+🔗 https://www.blacksky.com/gen-3/
+[🔧 Data Sheet](https://www.blacksky.com/wp-content/uploads/2025/02/BlackSky-Gen-3-Data-Sheet.pdf)
+
+BlackSky's latest generation Earth Observation satellite featuring 35 cm resolution, multispectral capabilities, AI-enabled analytics, low-latency communications, and a highly agile attitude control system. 
+
+![[Pasted image 20250303195116.png]]
+
+
+| Specification                     | Value                                                                                                                                                                                     |
+| --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Tasking to collection             | < 10 hours                                                                                                                                                                                |
+| Collection to delivery            | < 90 minutes                                                                                                                                                                              |
+| Automated object detection        | Vehicles: Truck, semi-truck, pickup, jeep, van, private car,<br>bus, construction vehicle<br>Vessels: Small vessel, tug, container, warship, patrol,<br>submarine, merchant vessel, other |
+| NIIRS image quality class         | Visible: NIIRS 5+<br>Shortwave infrared: NIIRS 3+                                                                                                                                         |
+| Best ground sample distance (GSD) | Visible: 35 cm<br>Shortwave infrared: 1.2 m                                                                                                                                               |
+| Minimum scene size                | Visible: 18 km² (3.7 km x 4.9 km)<br>Shortwave infrared: 1.8 km² (1.2 km x 1.5 km)                                                                                                        |
+| Spectral bands                    | RGB, panchromatic, shortwave infrared                                                                                                                                                     |
+| Geolocation accuracy              | < 20 m CE90<br>< 10 m CE90 in Australia, United States                                                                                                                                    |
+| Orbital altitude                  | 450 km low-earth orbit (LEO)                                                                                                                                                              |
+| Orbital inclination               | Mid-inclined orbit (MIO)<br>Capable of sun-synchronous orbit (SSO)                                                                                                                        |
+| Communications                    | X-band primary downlink<br>S-band primary uplink<br>UHF backup uplink and downlink                                                                                                        |
+| Design life                       | 5+ years                                                                                                                                                                                  |
+
+
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
