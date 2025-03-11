@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organization/Partners/University of California Berkeley Space Sciences Laboratory.md",
+                "file": "💼 SEC Filings (2025).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "University of California Berkeley Space Sciences Laboratory"
+              "title": "💼 SEC Filings (2025)"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "orora",
+                "query": "S-1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 254.5
   },
   "right": {
     "id": "d6554af7f7699467",
@@ -189,32 +189,36 @@
   },
   "active": "1c292adb601a82c0",
   "lastOpenFiles": [
-    "Organization/Partners/York Space Systems.md",
-    "Organization/Partners/Vector Acquisition Corporation (VACQ).md",
-    "Organization/Partners/Varda Space Industries.md",
-    "Organization/Partners/Valve.md",
-    "Organization/Partners/UTIAS Space Flight Laboratory.md",
-    "Organization/Partners/USTRANSCOM.md",
-    "Organization/Partners/UNSW Canberra Space.md",
-    "Organization/Partners/Unseenlabs.md",
-    "Organization/Partners/University of California Berkeley Space Sciences Laboratory.md",
-    "Organization/Partners/U.S. Space Force.md",
-    "Organization/Partners/U.S. Department of Defense.md",
-    "Organization/Partners/U.S. Army.md",
-    "Organization/Partners/U.S. Air Force.md",
-    "Organization/Partners/Tyvak Nano-Satellite Systems.md",
-    "Organization/Partners/Trisept.md",
-    "Organization/Partners/The University of Auckland.md",
-    "Organization/Partners/Telesat.md",
-    "Organization/Partners/Synspective.md",
-    "Organization/Partners/Swedish National Space Agency.md",
-    "Organization/Partners/Swarm.md",
-    "Organization/Partners/Spire Global.md",
-    "Organization/Partners/Spaceflight.md",
-    "Organization/Partners/Space Development Agency (SDA).md",
-    "Organization/Partners/SailGP.md",
-    "Organization/Partners/Planet Labs.md",
-    "Organization/Partners/Orora Technlogies.md",
+    "Filings/2025/Misc/03-11-25 424B5.md",
+    "💼 SEC Filings (2025).md",
+    "💼 SEC Filings (All).md",
+    "Filings/Filing Definitions.md",
+    "Filings/2022/Misc/5-02-22 POS AM S-1 - Amendment 1.md",
+    "Filings/2022/Misc/5-02-22 POS AM S-1 - Amendment.md",
+    "Filings/2022/Misc/5-09-22 S-1 - Securities Registration Statement.md",
+    "Filings/2022/Misc/5-24-22 S-1A - Registration Statement Amendment.md",
+    "Filings/2022/EFFECT/5-27-22 EFFECT - 333-264781.md",
+    "Filings/2020/Misc/9-24-20 8-A12B - Securities Registration for Nasdaq Listing.md",
+    "Filings/2025/Misc/03-11-25 S3ASR.md",
+    "Filings/2025/8-K/03-11-25 8-K ATM Equity Offering Sales Agreement.md",
+    "Vault-Assets/PDFs/3cffed2d-0bc6-4b84-aaab-59a083dbcaf1.pdf",
+    "Vault-Assets/PDFs/61afe5ea-35cf-4e30-8272-4de7742e2197.pdf",
+    "Filings/2025/Misc",
+    "Vault-Assets/PDFs/e579ee65-2612-4aa2-87b9-880a5391a23d.pdf",
+    "Home.md",
+    "Launch/Launches/060 'Fasten Your Space Belts' - Electron.md",
+    "🚀 Launches.md",
+    "Launch/Launches/061 'The Lightning God Reigns' - Electron.md",
+    "News/Rocket Lab Inks Dedicated Launch Deal with Japanese Earth Imaging Company iQPS.md",
+    "News/Rocket Lab Prepares to Launch iQPS Mission.md",
+    "News/Rocket Lab Reaches New Annual Launch Record with 10th Electron Mission This Year.md",
+    "News/Rocket Lab Sets Next Electron Launch Window, Provides Update on Anomaly Review.md",
+    "News/Rocket Lab Signs Multi-Launch Contract with iQPS for Four Electron Missions.md",
+    "News/Rocket Lab Signs Second Multi-Launch Deal, Secures Eight Electron Missions with iQPS.md",
+    "Organization/Partners/iQPS.md",
+    "📊 Earnings Calls.md",
+    "📋 To Do List.md",
+    "📰 News.md",
     "Vault-Assets/Images/Pasted image 20250303195116.png",
     "Vault-Assets/Images/Pasted image 20250303200134.jpg",
     "Vault-Assets/Images/Pasted image 20250303192308.jpg",
@@ -231,10 +235,6 @@
     "Vault-Assets/PDFs/ce2a0404-7ba0-4593-a9de-f706c0a792b6 (1).pdf",
     "Vault-Assets/PDFs/9e92136e-05a8-437a-96c9-04fdcc8e35bb.pdf",
     "Vault-Assets/PDFs/ce2a0404-7ba0-4593-a9de-f706c0a792b6.pdf",
-    "Vault-Assets/PDFs/28758089-ca0a-4210-8cb8-980d77346c1b.pdf",
-    "Vault-Assets/PDFs/RL-F60-BlackSky-Fasten-Your-Space-Belts.pdf",
-    "Vault-Assets/PDFs/Ice-AIS-Baby-Press-Kit2.pdf",
-    "Vault-Assets/PDFs/52595764-ce1d-4962-8bdb-562aa841e4d6.pdf",
     "Untitled.canvas",
     "Subsidiaries/Untitled.canvas"
   ]

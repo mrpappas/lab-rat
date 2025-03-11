@@ -13,9 +13,9 @@
 - [ ] [[Wallops Flight Facility]]
 
 ## 💰Financial
-- [ ] Quarterly Reports & Investor Presentations
+- [x] Quarterly Reports & Investor Presentations
 - [ ] Quarterly and Annual Financial Statements
-- [ ] Earnings Call Video (Transcript?)
+- [x] Earnings Call Video (Transcript?)
 ## 📰 News
 
 - [ ] Add News articles from 3rd party (probably https://spacenews.com/) 
@@ -34,6 +34,7 @@
 - [x] [[Lightning]]
 - [x] [[Photon]]
 - [x] [[Pioneer]]
+- [x] [[Flatellite]]
 - [ ] Add corresponding spacecraft to missions, and launches
 
 ## 📡 Space Systems

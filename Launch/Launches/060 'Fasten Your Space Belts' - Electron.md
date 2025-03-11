@@ -13,7 +13,7 @@ vehicle: "[[Electron]]"
 orbit_type: "[[🌍 Orbits#LEO]]"
 target_orbit: 470km
 payload_mass: 
-recovery: no attempt likely
+recovery: No attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/fasten-your-space-belts/
 ---
 #electron #launch #success

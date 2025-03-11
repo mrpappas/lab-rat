@@ -5,6 +5,7 @@ author:
   - "[[Rocket Lab]]"
 published: 2025-02-27
 description: "Rocket Lab Signs Second Multi-Launch Deal, Secures Eight Electron Missions with iQPS"
+mission: "[[061 'The Lightning God Reigns' - Electron]]"
 customer: "[[iQPS]]"
 tags:
  - launch

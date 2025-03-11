@@ -158,5 +158,6 @@ sort launch_date desc
 | [[Launch/Launches/004 'NASA ELaNa-19' - Electron.md\|004 'NASA ELaNa-19' - Electron]]                                       | 2018-12-16 06:33 |
 | [[Launch/Launches/002 'Still Testing' - Electron.md\|002 'Still Testing' - Electron]]                                       | 2018-01-21 02:43 |
 | [[Launch/Launches/001 'It's a Test' - Electron.md\|001 'It's a Test' - Electron]]                                           | 2017-05-25 04:20 |
+| [[Launch/Launches/061 'The Lightning God Reigns' - Electron.md\|061 'The Lightning God Reigns' - Electron]]                 | \-               |
 
 %%DATAVIEW_PUBLISHER: end%%

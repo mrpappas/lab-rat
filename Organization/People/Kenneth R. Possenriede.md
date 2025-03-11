@@ -41,8 +41,8 @@ sort Filing_Date desc
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ------------------ |
 | [[Filings/2024/Form 4/9-23-24 Form 4 - Kenneth Possenriede.md\|9-23-24 Form 4 - Kenneth Possenriede]]    | [[Filings/Filing Definitions.md#Form 4\|Form 4]] | September 23, 2024 |
 | [[Filings/2024/8-K/8-23-24 8-K - Kenneth Possenriede Hired.md\|8-23-24 8-K - Kenneth Possenriede Hired]] | [[Filings/Filing Definitions.md#8-K\|8-K]]       | August 23, 2024    |
-| [[Filings/2024/Form 3/8-23-24 Form 3 - Kenneth Possenriede.md\|8-23-24 Form 3 - Kenneth Possenriede]]    | [[Filings/Filing Definitions.md#Form 3\|Form 3]] | August 23, 2024    |
 | [[Filings/2024/Form 4/8-23-24 Form 4 - Kenneth Possenriede.md\|8-23-24 Form 4 - Kenneth Possenriede]]    | [[Filings/Filing Definitions.md#Form 4\|Form 4]] | August 23, 2024    |
+| [[Filings/2024/Form 3/8-23-24 Form 3 - Kenneth Possenriede.md\|8-23-24 Form 3 - Kenneth Possenriede]]    | [[Filings/Filing Definitions.md#Form 3\|Form 3]] | August 23, 2024    |
 
 %%DATAVIEW_PUBLISHER: end %%
 ## 📰 News

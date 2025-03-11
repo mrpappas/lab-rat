@@ -4,7 +4,7 @@ source: "https://www.rocketlabusa.com/updates/rocket-lab-signs-multi-launch-cont
 author:
   - "[[Rocket Lab]]"
 published: 2025-02-03
-description: ""
+mission: "[[061 'The Lightning God Reigns' - Electron]]"
 customer: 
  - "[[iQPS]]"
 tags:
