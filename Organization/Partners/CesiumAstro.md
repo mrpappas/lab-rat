@@ -108,7 +108,7 @@ A high-performance, compact, software-defined radio designed to operate in LEO a
 ```
 table published as "Published"
 from "News"
-where contains(partners, [[CesiumAstro]])
+where contains(partner, [[CesiumAstro]])
 sort published desc
 ```
 %%
