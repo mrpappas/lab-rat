@@ -13,13 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
+                "file": "Space Systems/Separation Systems/Canisterized Satellite Dispenser (CSD).md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Canisterized Satellite Dispenser (CSD)"
+            }
+          },
+          {
+            "id": "b5366a2b7f0b58e0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Vault-Assets/PDFs/2002337G-CSD-Data-Sheet-compressed2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "2002337G-CSD-Data-Sheet-compressed2"
             }
           }
         ]
@@ -189,8 +201,12 @@
   },
   "active": "46ab014e1923638a",
   "lastOpenFiles": [
-    "Launch/Launches/060 'Fasten Your Space Belts' - Electron.md",
+    "Pasted image 20250313191052.png",
+    "Pasted image 20250313190629.png",
+    "Vault-Assets/PDFs/2002337G-CSD-Data-Sheet-compressed2.pdf",
+    "Space Systems/Separation Systems/Canisterized Satellite Dispenser (CSD).md",
     "Home.md",
+    "Launch/Launches/060 'Fasten Your Space Belts' - Electron.md",
     "🚀 Launches.md",
     "📋 To Do List.md",
     "📰 News.md",
@@ -221,11 +237,8 @@
     "Organization/Partners/Alba Orbital.md",
     "Organization/Partners/ALE.md",
     "Organization/Partners/Astrix Astronautics.md",
-    "Organization/Partners/Astro Digital.md",
-    "Organization/Partners/Aurora Propulsion Technologies.md",
     "Vault-Assets/Images/Pasted image 20250312190140.png",
     "Vault-Assets/Images/Pasted image 20250312190058.png",
-    "Pasted image 20250312190024.png",
     "Vault-Assets/PDFs/3cffed2d-0bc6-4b84-aaab-59a083dbcaf1.pdf",
     "Vault-Assets/PDFs/61afe5ea-35cf-4e30-8272-4de7742e2197.pdf",
     "Filings/2025/Misc",
@@ -234,7 +247,6 @@
     "Filings/2025/10-K",
     "Vault-Assets/PDFs/0fbb0efa-5b5a-4173-bc8a-aa3035698a66.pdf",
     "Vault-Assets/PDFs/ce2a0404-7ba0-4593-a9de-f706c0a792b6 (1).pdf",
-    "Vault-Assets/PDFs/9e92136e-05a8-437a-96c9-04fdcc8e35bb.pdf",
     "Untitled.canvas",
     "Subsidiaries/Untitled.canvas"
   ]
