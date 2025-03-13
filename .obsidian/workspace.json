@@ -11,14 +11,15 @@
             "id": "46ab014e1923638a",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "🛰️ Space Systems.md",
-                "bFile": "🛰️ Space Systems.md",
-                "aRef": ""
+                "file": "Space Systems/Software/MAX Flight Software.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "diff",
-              "title": "Diff: 🛰️ Space Systems"
+              "icon": "lucide-file",
+              "title": "MAX Flight Software"
             }
           }
         ]
@@ -188,8 +189,8 @@
   },
   "active": "46ab014e1923638a",
   "lastOpenFiles": [
-    "Space Systems/Software/MAX Flight Software.md",
     "Space Systems/Software/MAX Ground Data System.md",
+    "Space Systems/Software/MAX Flight Software.md",
     "Space Systems/Software/SOLIS.md",
     "Space Systems/Software/Maestro.md",
     "Space Systems/Software/Intermission.md",

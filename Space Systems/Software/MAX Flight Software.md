@@ -2,19 +2,21 @@
 **Subsidiary:** [[Advanced Solutions Inc]]
 
 >[!summary]
->Flight proven off-the-shelf flight software providing the foundation for complex space missions from day one.
->
-MAX FSW Includes:
->- Full [FSW](https://www.nasa.gov/wp-content/uploads/2015/04/flight_software.pdf) library for all spacecraft functions including [GN&C](https://en.wikipedia.org/wiki/Guidance,_navigation,_and_control)
->- [ODySSy](https://www.youtube.com/watch?v=KpcWV5Au-sc&t=1s) - Onboard Dynamic Simulation System
->- Max Constellation
->- [SEQUENCER](https://www.youtube.com/watch?v=QdgcHttgbSY) – Providing highly autonomous operation
->- [MAX DevTool](https://www.youtube.com/watch?v=JFpChd3BHV8) - Auto-Coding for customizing your flight software
->- MAX GDS (Ground Data System) for interacting with MAX
+>MAX (Modular Autonomous eXtendible) is a comprehensive Flight Software framework. It is also a collection of C++ objects and algorithms uniquely designed for use on nearly any type of aerospace vehicle. Though the typical vehicle application is satellites, MAX has also been applied to payloads, transfer vehicles, lunar landers, space-planes, and atmospheric flight vehicles.
 >
 >🔗 https://www.rocketlabusa.com/space-systems/space-software/
->[📄 MAX and SOLIS Documentation](https://max.rocketlabusa.com/docs#Welcome.md) 
->📰 [[RL-MAX-FSW-Brochure- (1).pdf|Max FSW Brochure]]
+[📄 MAX and SOLIS Documentation](https://max.rocketlabusa.com/docs#Welcome.md) 
+📰 [[RL-MAX-FSW-Brochure- (1).pdf|Max FSW Brochure]]
+
+## 🛠️ Features
+
+- Full [FSW](https://www.nasa.gov/wp-content/uploads/2015/04/flight_software.pdf) library for all spacecraft functions including [GN&C](https://en.wikipedia.org/wiki/Guidance,_navigation,_and_control)
+- [ODySSy](https://www.youtube.com/watch?v=KpcWV5Au-sc&t=1s) - Onboard Dynamic Simulation System
+- Max Constellation
+- [SEQUENCER](https://www.youtube.com/watch?v=QdgcHttgbSY) – Providing highly autonomous operation
+- [MAX DevTool](https://www.youtube.com/watch?v=JFpChd3BHV8) - Auto-Coding for customizing your flight software
+- MAX GDS (Ground Data System) for interacting with MAX
+
 
 
 ![[Pasted image 20250312184721.png]]
