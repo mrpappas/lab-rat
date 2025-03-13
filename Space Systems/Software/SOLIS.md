@@ -45,16 +45,16 @@ SOLIS is a commercial plug-in to the [ANSYS, Inc Systems ToolKit (STKTM)](https:
 
 ## ✅ Applications
 
-- System/Mission Requirements
+- **System/Mission Requirements**
 	Requirements definition, feasibility studies, component selection
-- Conceptual Design
+- **Conceptual Design**
 	Analyze various system concepts to determine which can meet mission requirements
-- Preliminary Design
+- **Preliminary Design**
 	Variations of conceptual designs are analyzed and refined
 	Define subsystem and component level specifications
-- Critical Design
+- **Critical Design**
 	Final design verification of subsystem models and components
-- Risk Reduction and IV&V
+- **Risk Reduction and IV&V**
 	Independent validation and sensitivity/margin analysis
 
 

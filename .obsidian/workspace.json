@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Space Systems/Software/MAX Flight Software.md",
+                "file": "Space Systems/Software/SOLIS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MAX Flight Software"
+              "title": "SOLIS"
             }
           }
         ]
@@ -189,9 +189,10 @@
   },
   "active": "46ab014e1923638a",
   "lastOpenFiles": [
+    "Space Systems/⚖️ NASA Mission and Instrument Risk Classification.md",
+    "Space Systems/Software/SOLIS.md",
     "Space Systems/Software/MAX Ground Data System.md",
     "Space Systems/Software/MAX Flight Software.md",
-    "Space Systems/Software/SOLIS.md",
     "Space Systems/Software/Maestro.md",
     "Space Systems/Software/Intermission.md",
     "Vault-Assets/Images/Pasted image 20250312225313.png",
