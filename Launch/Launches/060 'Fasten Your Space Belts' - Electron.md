@@ -7,8 +7,7 @@ mission_name: Fasten Your Space Belts
 launch_date: 2025-02-19 12:17 pm NZDT
 outcome: Success
 customer: "[[BlackSky]]"
-location:
-  - "[[Launch Complex 1]]"
+location: "[[Launch Complex 1]]"
 vehicle: "[[Electron]]"
 orbit_type: "[[🌍 Orbits#LEO]]"
 target_orbit: 470km

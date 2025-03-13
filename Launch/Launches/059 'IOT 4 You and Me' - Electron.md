@@ -7,8 +7,7 @@ mission_name: IOT 4 You and Me
 launch_date: 2025-02-04 20:43
 outcome: Success
 customer: "[[Kinéis]]"
-location:
-  - "[[Launch Complex 1]]"
+location: "[[Launch Complex 1]]"
 vehicle: "[[Electron]]"
 orbit_type: "[[🌍 Orbits#SSO]]"
 target_orbit: 643 km | 98° (based on previous missions)
