@@ -21,7 +21,7 @@ tags:
 
 **Long Beach, Calif. August 5, 2024**– Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, introduced its next generation satellite separation system, the [[Advanced Satellite Dispenser (ASD)]], at the Small Satellite Conference in Logan, Utah.
 
-The ASD is a cost-effective, versatile, and reliable deployment mechanism for small satellites in the CubeSat form factor and builds upon Rocket Lab’s heritage Canisterized Satellite Dispenser (CSD) technology, which has successfully deployed more than 60 satellites to orbit across more than 11 years in use.
+The ASD is a cost-effective, versatile, and reliable deployment mechanism for small satellites in the CubeSat form factor and builds upon Rocket Lab’s heritage [[Canisterized Satellite Dispenser (CSD)]] technology, which has successfully deployed more than 60 satellites to orbit across more than 11 years in use.
 
 Innovating on its predecessor the CSD, the ASD provides customers with the option to remove encapsulation of the payload during flight or use optional walls and door, giving it the ability to fly with or without canisterization. This feature allows satellite designers increased flexibility to adapt their payloads to mission needs. This next generation satellite dispenser uses the heritage preloaded tab interface to ensure there is no slipping or gapping within the system, providing mission assurance for the payload, other payloads sharing the fairing, and the launch vehicle.
 

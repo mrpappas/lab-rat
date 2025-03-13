@@ -12,7 +12,7 @@ payloads. It fully encapsulates the payload during launch and thus provides miss
 🔗 https://www.rocketlabusa.com/space-systems/separation-systems/satellite-dispensers/
 [[2002337G-CSD-Data-Sheet-compressed2.pdf|📋 Data Sheet]]
 
-![[Pasted image 20250111151250.png|300]]
+![[Pasted image 20250111151250.png|400]]
 ## 🛠️ Features
 
 | Feature                                         | Description                                                                                                                                                                                         |
@@ -41,16 +41,13 @@ payloads. It fully encapsulates the payload during launch and thus provides miss
 | **Lowest Cost**                                 | Reduced mission cost through simplified design, test, and integration.                                                                                                                              |
 
 
+>[!info] Images from official Data Sheet.
+
 ![[Pasted image 20250313191052.png]]
 ## 📐 Variants
 
 The Canisterized Satellite Dispenser comes in three standard sizes **3U**, **6U**, and **12U**
 
 ![[Pasted image 20250313190629.png]]
-
-
-
-
-## 📋 Data Sheet
 
 

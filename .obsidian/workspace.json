@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Space Systems/Separation Systems/Canisterized Satellite Dispenser (CSD).md",
+                "file": "News/Rocket Lab Introduces Next-Generation Satellite Dispenser.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Canisterized Satellite Dispenser (CSD)"
+              "title": "Rocket Lab Introduces Next-Generation Satellite Dispenser"
             }
           },
           {
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "maestro",
+                "query": "Canisterized Satellite Dispenser",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -91,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 337.5
   },
   "right": {
     "id": "d6554af7f7699467",
@@ -199,11 +199,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "46ab014e1923638a",
+  "active": "581793ba6e53cf14",
   "lastOpenFiles": [
+    "News/Rocket Lab to Acquire Space Hardware Company Planetary Systems Corporation.md",
+    "Organization/People/Walter Holemans.md",
+    "Organization/Subsidiaries/Planetary Systems Corporation (PSC).md",
+    "Space Systems/Separation Systems/Canisterized Satellite Dispenser (CSD).md",
     "Vault-Assets/Images/Pasted image 20250313190629.png",
     "Vault-Assets/Images/Pasted image 20250313191052.png",
-    "Space Systems/Separation Systems/Canisterized Satellite Dispenser (CSD).md",
     "Vault-Assets/PDFs/2002337G-CSD-Data-Sheet-compressed2.pdf",
     "Home.md",
     "Launch/Launches/060 'Fasten Your Space Belts' - Electron.md",
@@ -235,8 +238,6 @@
     "Vault-Assets/Images/Pasted image 20250312184721.png",
     "Organization/Partners/Alaska Aerospace Corporation.md",
     "Organization/Partners/Alba Orbital.md",
-    "Organization/Partners/ALE.md",
-    "Organization/Partners/Astrix Astronautics.md",
     "Vault-Assets/Images/Pasted image 20250312190140.png",
     "Vault-Assets/PDFs/3cffed2d-0bc6-4b84-aaab-59a083dbcaf1.pdf",
     "Vault-Assets/PDFs/61afe5ea-35cf-4e30-8272-4de7742e2197.pdf",
