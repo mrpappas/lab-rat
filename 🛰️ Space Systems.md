@@ -95,6 +95,8 @@ sort name asc
 | [[Space Systems/Software/MAX Flight Software.md\|MAX Flight Software]]       |
 | [[Space Systems/Software/MAX Ground Data System.md\|MAX Ground Data System]] |
 | [[Space Systems/Software/SOLIS.md\|SOLIS]]                                   |
+| [[Space Systems/Software/Intermission.md\|Intermission]]                     |
+| [[Space Systems/Software/Maestro.md\|Maestro]]                               |
 
 %% DATAVIEW_PUBLISHER: end %%
 
