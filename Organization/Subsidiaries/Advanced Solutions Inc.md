@@ -24,9 +24,18 @@ The acquisition was part of Rocket Lab’s strategy to enhance its space systems
 
 ## 🖥️ Software 
 
+>[!warning] Recent Changes
+>Rocket Lab recently reorganized its software offerings including an extension of MAX-FSW, MAX Constellation as well as introducing Intermission and Maestro. 
+>Source: [[Rocket Lab Unveils New Satellite Software for Ground Data, Spacecraft Operations, and Constellation Management]]
+
 - [[SOLIS]]
 - [[MAX Flight Software]]
+- Intermission
+- Maestro
 - [[MAX Ground Data System]]
+
+
+![[Pasted image 20250312225313.png]]
 
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start

@@ -1,7 +1,3 @@
----
-
-subsidiary: "[[Advanced Solutions Inc]]"
----
 
 **Subsidiary:** [[Advanced Solutions Inc]]
 
@@ -13,7 +9,7 @@ MAX GDS includes:
 >- Rich visualizations and powerful API
 >- Test as you fly light capability reducing risk and training related to having different ground systems for test and flight.
 >
->🔗 https://www.rocketlabusa.com/space-systems/space-software/max-ground-data-systems/
+>🔗 https://www.rocketlabusa.com/space-systems/space-software/
 [📄 MAX and SOLIS Documentation](https://max.rocketlabusa.com/docs#Welcome.md)
 
 <div class="responsive-video">

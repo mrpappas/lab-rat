@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c267db88c2ba7d8e",
+        "id": "5a656661ddde38e0",
         "type": "tabs",
         "children": [
           {
-            "id": "1c292adb601a82c0",
+            "id": "46ab014e1923638a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Launch Complex 1.md",
-                "mode": "preview",
+                "file": "Space Systems/Software/MAX Flight Software.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Launch Complex 1"
+              "title": "MAX Flight Software"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "maestro",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -187,10 +187,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1c292adb601a82c0",
+  "active": "46ab014e1923638a",
   "lastOpenFiles": [
-    "Launch/Launches/060 'Fasten Your Space Belts' - Electron.md",
+    "Space Systems/Software/SOLIS.md",
+    "Space Systems/Software/MAX Flight Software.md",
+    "Space Systems/Software/Maestro.md",
+    "Space Systems/Software/MAX Ground Data System.md",
+    "Space Systems/Software/Intermission.md",
+    "Vault-Assets/Images/Pasted image 20250312225313.png",
+    "Vault-Assets/PDFs/RL-MAX-FSW-Brochure- (1).pdf",
+    "README.md",
+    "RL-MAESTRO-White.svg",
+    "Organization/Subsidiaries/Advanced Solutions Inc.md",
+    "Vault-Assets/Images/Pasted image 20250312215731.png",
+    "Vault-Assets/Images/Pasted image 20250312220457.png",
+    "Vault-Assets/Images/Pasted image 20250312220409.png",
+    "Pasted image 20250312215707.png",
+    "Organization/Partners/Synspective.md",
+    "🤝 Partners.md",
+    "Locations/Launch Complex 1.md",
     "🚀 Launches.md",
+    "Financial/Pre-IPO Investors/Lockheed Martin.md",
+    "Organization/Partners/Airbus.md",
+    "Launch/Launches/060 'Fasten Your Space Belts' - Electron.md",
     "Launch/Launches/059 'IOT 4 You and Me' - Electron.md",
     "🏛️ Board of Directors.md",
     "Vault-Assets/Images/Pasted image 20250312184721.png",
@@ -203,38 +222,18 @@
     "Organization/Partners/Ball Aerospace.md",
     "Organization/Partners/BlackSky.md",
     "Organization/Partners/Mynaric.md",
-    "Space Systems/Missions/SDA Tranche 1 - Initial Warfighting Capability.md",
-    "Space Systems/Software/MAX Flight Software.md",
-    "Space Systems/Software/MAX Ground Data System.md",
-    "Space Systems/Software/SOLIS.md",
     "Vault-Assets/Images/Pasted image 20250312190140.png",
     "Vault-Assets/Images/Pasted image 20250312190058.png",
     "Pasted image 20250312190024.png",
-    "Organization/Subsidiaries/Advanced Solutions Inc.md",
-    "Organization/Subsidiaries/Planetary Systems Corporation (PSC).md",
-    "News/Rocket Lab Unveils New Satellite Software for Ground Data, Spacecraft Operations, and Constellation Management.md",
-    "💼 SEC Filings (All).md",
-    "News/Rocket Lab Begins Installation of Large Carbon Composite Rocket-Building Machine.md",
-    "Vault-Assets/Images/Pasted image 20250312183534.png",
-    "Organization/Partners/Airbus.md",
-    "Space Systems/Missions/OneWeb Constellation.md",
-    "Space Systems/Missions/GLIDE.md",
-    "News/Airbus Awards Rocket Lab Contract to Power Next-Gen OneWeb Constellation for Eutelsat.md",
-    "Vault-Assets/Images/Artist-view-OneWeb-satellite-Copyright-Eutelsat-OneWeb.gif",
-    "Vault-Assets/Images/Pasted image 20250311192647.jpg",
-    "Vault-Assets/Images/Pasted image 20250311195314.png",
     "Vault-Assets/PDFs/3cffed2d-0bc6-4b84-aaab-59a083dbcaf1.pdf",
     "Vault-Assets/PDFs/61afe5ea-35cf-4e30-8272-4de7742e2197.pdf",
     "Filings/2025/Misc",
     "Vault-Assets/PDFs/e579ee65-2612-4aa2-87b9-880a5391a23d.pdf",
-    "Vault-Assets/Images/Pasted image 20250303195116.png",
-    "Vault-Assets/Images/Pasted image 20250303200134.jpg",
     "Vault-Assets/PDFs/c5d1fba9-6e22-42ae-8e23-a15229a11f4d.pdf",
     "Filings/2025/10-K",
     "Vault-Assets/PDFs/0fbb0efa-5b5a-4173-bc8a-aa3035698a66.pdf",
     "Vault-Assets/PDFs/ce2a0404-7ba0-4593-a9de-f706c0a792b6 (1).pdf",
     "Vault-Assets/PDFs/9e92136e-05a8-437a-96c9-04fdcc8e35bb.pdf",
-    "Vault-Assets/PDFs/ce2a0404-7ba0-4593-a9de-f706c0a792b6.pdf",
     "Untitled.canvas",
     "Subsidiaries/Untitled.canvas"
   ]
