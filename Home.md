@@ -21,12 +21,6 @@ This provides a great high level analysis of Rocket Lab's current business and p
 - [[🟢 Subsidiaries]]
 - [[📊 Earnings Calls]]
 
-## 🛠️ Want to contribute? 
-
-**Check here**: [[📋 To Do List]]
-**Change Request Form**: [Link](https://docs.google.com/forms/d/e/1FAIpQLSc8_RGjO3WIBK9duFOTnrdnfTLYURA4qqhYs0ZCXeHtYCoLlg/viewform)
-🖥️ **GitHub**: https://github.com/mrpappas/lab-rat
-
 ## 📰 Recent News
 
 %% DATAVIEW_PUBLISHER: start
@@ -90,3 +84,9 @@ A collection of great resources for keeping up to date on Rocket Lab.
 
 Made by [SpaceGhost](https://x.com/SpaceGhost_42)
 Made with [Obsidian](https://obsidian.md/)
+
+## 🛠️ Want to contribute? 
+
+**Check here**: [[📋 To Do List]]
+**Change Request Form**: [Link](https://docs.google.com/forms/d/e/1FAIpQLSc8_RGjO3WIBK9duFOTnrdnfTLYURA4qqhYs0ZCXeHtYCoLlg/viewform)
+🖥️ **GitHub**: https://github.com/mrpappas/lab-rat
