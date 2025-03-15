@@ -11,7 +11,7 @@ customer: "[[Synspective]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"
 orbit_type: "[[🌍 Orbits#LEO]]"
-target_orbit: 574 km 97°
+target_orbit: 574 km | 97°
 payload_mass: 100 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/owl-the-way-up/

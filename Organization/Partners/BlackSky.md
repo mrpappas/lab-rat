@@ -23,7 +23,7 @@ sort launch_date desc
 
 | File                                                                                | Location                                              | Vehicle                          | Orbit & Mass                        | Outcome   |
 | ----------------------------------------------------------------------------------- | ----------------------------------------------------- | -------------------------------- | ----------------------------------- | --------- |
-| [[Launch/Launches/060 'Fasten Your Space Belts'.md\|060 'Fasten Your Space Belts']] | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 470km \| 138 kg                     | ✅ Success |
+| [[Launch/Launches/060 'Fasten Your Space Belts'.md\|060 'Fasten Your Space Belts']] | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 470km \| 59° \| 138 kg              | ✅ Success |
 | [[Launch/Launches/035 'The Beat Goes On'.md\|035 'The Beat Goes On']]               | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 450 km \| 42° \| 120 kg             | ✅ Success |
 | [[Launch/Launches/025 'Without Mission A Beat'.md\|025 'Without Mission A Beat']]   | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 430 km \| 53° \| 120 kg             | ✅ Success |
 | [[Launch/Launches/023 'A Data With Destiny'.md\|023 'A Data With Destiny']]         | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 430 km \| 42° \| 120 kg             | ✅ Success |

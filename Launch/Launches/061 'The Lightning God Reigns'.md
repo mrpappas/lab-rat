@@ -9,7 +9,7 @@ customer: "[[iQPS]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"
 orbit_type: "[[🌍 Orbits#LEO]]"
-target_orbit: 575km 
+target_orbit: 575km | 42°
 payload_mass: 100 kg
 recovery: No attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/the-lightning-god-reigns
@@ -22,7 +22,7 @@ Customer: [[iQPS]]
 Location: [[Launch Complex 1#Launch Pad B]]
 Vehicle: [[Electron]]
 Orbit Type: [[🌍 Orbits#LEO]]
-Target Orbit: 575km 42°
+Target Orbit: 575km | 42°
 Payload Mass: 100 kg
 Recovery: No attempt
 Mission Link: https://www.rocketlabusa.com/missions/missions-launched/the-lightning-god-reigns

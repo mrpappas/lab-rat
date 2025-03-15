@@ -25,7 +25,7 @@ sort launch_date desc
 
 | File                                                                                  | Location                                              | Vehicle                          | Orbit & Mass            | Outcome   |
 | ------------------------------------------------------------------------------------- | ----------------------------------------------------- | -------------------------------- | ----------------------- | --------- |
-| [[Launch/Launches/061 'The Lightning God Reigns'.md\|061 'The Lightning God Reigns']] | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 575km \| 100 kg         | ✅ Success |
+| [[Launch/Launches/061 'The Lightning God Reigns'.md\|061 'The Lightning God Reigns']] | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 575km \| 42° \| 100 kg  | ✅ Success |
 | [[Launch/Launches/042 'The Moon God Awakens'.md\|042 'The Moon God Awakens']]         | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 575 km \| 42° \| 100 kg | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end %%

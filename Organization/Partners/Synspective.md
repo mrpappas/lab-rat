@@ -25,7 +25,7 @@ sort launch_date desc
 
 | File                                                                                    | Location                                              | Vehicle                          | Orbit & Mass              | Outcome   |
 | --------------------------------------------------------------------------------------- | ----------------------------------------------------- | -------------------------------- | ------------------------- | --------- |
-| [[Launch/Launches/058 'Owl The Way Up'.md\|058 'Owl The Way Up']]                       | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 574 km 97° \| 100 kg      | ✅ Success |
+| [[Launch/Launches/058 'Owl The Way Up'.md\|058 'Owl The Way Up']]                       | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 574 km \| 97° \| 100 kg   | ✅ Success |
 | [[Launch/Launches/051 'Owl For One, One For Owl'.md\|051 'Owl For One, One For Owl']]   | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 543 km \| 43° \| 100 kg   | ✅ Success |
 | [[Launch/Launches/045 'Owl Night Long'.md\|045 'Owl Night Long']]                       | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 561 km \| 97° \| 100 kg   | ✅ Success |
 | [[Launch/Launches/030 'The Owl Spreads Its Wings'.md\|030 'The Owl Spreads Its Wings']] | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 563 km \| 97° \| 100 kg   | ✅ Success |
