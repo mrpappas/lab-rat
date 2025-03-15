@@ -18,10 +18,10 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/the-lightn
 Mission Name: The Lighting God Reigns
 Launch Date: 2025-03-15 00:00 UTC
 Outcome: Success
-Customer: "[[iQPS]]"
-Location: "[[Launch Complex 1]]"
-Vehicle: "[[Electron]]"
-Orbit Type: "[[🌍 Orbits#LEO]]"
+Customer: [[iQPS]]
+Location: [[Launch Complex 1]]
+Vehicle: [[Electron]]
+Orbit Type: [[🌍 Orbits#LEO]]
 Target Orbit: 575km 42°
 Payload Mass: 100 kg
 Recovery: No attempt
