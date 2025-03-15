@@ -23,9 +23,10 @@ sort launch_date desc
 ```
 %%
 
-| File                                                                                                | launch_date      |
-| --------------------------------------------------------------------------------------------------- | ---------------- |
-| [[Launch/Launches/042 'The Moon God Awakens' - Electron.md\|042 'The Moon God Awakens' - Electron]] | 2023-12-15 04:05 |
+| File                                                                                                        | launch_date      |
+| ----------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[Launch/Launches/061 'The Lightning God Reigns' - Electron.md\|061 'The Lightning God Reigns' - Electron]] | 2025-03-15 00:00 |
+| [[Launch/Launches/042 'The Moon God Awakens' - Electron.md\|042 'The Moon God Awakens' - Electron]]         | 2023-12-15 04:05 |
 
 %%DATAVIEW_PUBLISHER: end %%
 

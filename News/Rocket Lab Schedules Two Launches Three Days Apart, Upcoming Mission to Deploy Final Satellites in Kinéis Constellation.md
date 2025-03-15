@@ -7,6 +7,7 @@ customer:
  - "[[Kinéis]]"
  - "[[iQPS]]"
 mission:
+ - "[[061 'The Lightning God Reigns' - Electron]]"
 tags:
  - electron
  - launch

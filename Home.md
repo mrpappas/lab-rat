@@ -36,8 +36,8 @@ limit 10
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [[News/Airbus Awards Rocket Lab Contract to Power Next-Gen OneWeb Constellation for Eutelsat.md\|Airbus Awards Rocket Lab Contract to Power Next-Gen OneWeb Constellation for Eutelsat]]                                                                                                                                                   |
 | [[News/Rocket Lab Unveils New Satellite Software for Ground Data, Spacecraft Operations, and Constellation Management.md\|Rocket Lab Unveils New Satellite Software for Ground Data, Spacecraft Operations, and Constellation Management]]                                                                                                 |
-| [[News/Rocket Lab Announces “At The Market” (ATM) Equity Offering Program.md\|Rocket Lab Announces “At The Market” (ATM) Equity Offering Program]]                                                                                                                                                                                         |
 | [[News/Rocket Lab Announces Intention to Acquire Mynaric, Leading Laser Communications Provider, in Latest Strategic Step Toward Becoming an End-to-End Space Company.md\|Rocket Lab Announces Intention to Acquire Mynaric, Leading Laser Communications Provider, in Latest Strategic Step Toward Becoming an End-to-End Space Company]] |
+| [[News/Rocket Lab Announces “At The Market” (ATM) Equity Offering Program.md\|Rocket Lab Announces “At The Market” (ATM) Equity Offering Program]]                                                                                                                                                                                         |
 | [[News/Rocket Lab Schedules Two Launches Three Days Apart, Upcoming Mission to Deploy Final Satellites in Kinéis Constellation.md\|Rocket Lab Schedules Two Launches Three Days Apart, Upcoming Mission to Deploy Final Satellites in Kinéis Constellation]]                                                                               |
 | [[News/Rocket Lab Space Software Supports Lunar Landing for Firefly’s Blue Ghost 1 Mission.md\|Rocket Lab Space Software Supports Lunar Landing for Firefly’s Blue Ghost 1 Mission]]                                                                                                                                                       |
 | [[News/Touchdown For In-Space Manufacturing Mission Rocket Lab’s Pioneer Spacecraft Delivers Re-Entry for Varda’s In-Space Manufacturing Capsule in South Australia.md\|Touchdown For In-Space Manufacturing Mission Rocket Lab’s Pioneer Spacecraft Delivers Re-Entry for Varda’s In-Space Manufacturing Capsule in South Australia]]     |
@@ -61,6 +61,7 @@ limit 10
 
 | File                                                                                                                                            |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Launch/Launches/061 'The Lightning God Reigns' - Electron.md\|061 'The Lightning God Reigns' - Electron]]                                     |
 | [[Launch/Launches/060 'Fasten Your Space Belts' - Electron.md\|060 'Fasten Your Space Belts' - Electron]]                                       |
 | [[Launch/Launches/059 'IOT 4 You and Me' - Electron.md\|059 'IOT 4 You and Me' - Electron]]                                                     |
 | [[Launch/Launches/058 'Owl The Way Up' - Electron.md\|058 'Owl The Way Up' - Electron]]                                                         |
@@ -70,7 +71,6 @@ limit 10
 | [[Launch/Launches/054 'Changes In Latitudes, Changes In Attitudes' - Electron.md\|054 'Changes In Latitudes, Changes In Attitudes' - Electron]] |
 | [[Launch/Launches/053 'Kineis Killed the RadIOT Star' - Electron.md\|053 'Kineis Killed the RadIOT Star' - Electron]]                           |
 | [[Launch/Launches/052 'A Sky Full Of SARs' - Electron.md\|052 'A Sky Full Of SARs' - Electron]]                                                 |
-| [[Launch/Launches/051 'Owl For One, One For Owl' - Electron.md\|051 'Owl For One, One For Owl' - Electron]]                                     |
 
 %% DATAVIEW_PUBLISHER: end %%
 ## ℹ️ Resources
