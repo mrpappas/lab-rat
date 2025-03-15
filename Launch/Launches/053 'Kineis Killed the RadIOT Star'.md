@@ -50,13 +50,15 @@ x5 [[Kinéis#🛰️ Space Systems#Kinéis IoT|Kinéis IoT]] Satellites
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[053 'Kineis Killed the RadIOT Star' - Electron]])
+where contains(mission, [[053 'Kineis Killed the RadIOT Star']])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                                                                                               | Published          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
+| [[News/Rocket Lab Successfully Launches 53rd Electron Mission, Deploys Another Five Satellites for Kinéis.md\|Rocket Lab Successfully Launches 53rd Electron Mission, Deploys Another Five Satellites for Kinéis]] | September 21, 2024 |
+| [[News/Rocket Lab Sets Launch Date for Second Dedicated Kinéis Mission to Deploy IoT Constellation.md\|Rocket Lab Sets Launch Date for Second Dedicated Kinéis Mission to Deploy IoT Constellation]]               | September 03, 2024 |
 
 %%DATAVIEW_PUBLISHER: end %%
 

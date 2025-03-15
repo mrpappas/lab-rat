@@ -47,13 +47,16 @@ To enable the rendezvous with a non-cooperative space object required a dedicate
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[044 'On Closer Inspection' - Electron]])
+where contains(mission, [[044 'On Closer Inspection']])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                                                                                         | Published          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
+| [[News/Rocket Lab Successfully Launches Mission Designed to Investigate Removing Space Junk from Orbit.md\|Rocket Lab Successfully Launches Mission Designed to Investigate Removing Space Junk from Orbit]] | February 19, 2024  |
+| [[News/Rocket Lab Sets Launch Window for Astroscale Orbital Debris Inspection Demonstration Mission.md\|Rocket Lab Sets Launch Window for Astroscale Orbital Debris Inspection Demonstration Mission]]       | February 07, 2024  |
+| [[News/Rocket Lab Wins Contract to Launch Orbital Debris Removal Demonstration Mission for Astroscale.md\|Rocket Lab Wins Contract to Launch Orbital Debris Removal Demonstration Mission for Astroscale]]   | September 21, 2021 |
 
 %%DATAVIEW_PUBLISHER: end %%
 

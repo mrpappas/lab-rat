@@ -48,13 +48,15 @@ x1 [[Synspective#🛰️ Space Systems#StriX|Strix]] Series Satellite for [[Syns
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[058 'Owl The Way Up' - Electron]])
+where contains(mission, [[058 'Owl The Way Up']])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                                                                                                               | Published         |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[News/Rocket Lab Successfully Deploys Satellite for Synspective, Caps Off Year with 60% Increase in Launches YoY.md\|Rocket Lab Successfully Deploys Satellite for Synspective, Caps Off Year with 60% Increase in Launches YoY]] | December 22, 2024 |
+| [[News/Rocket Lab Sets Launch Window to Deploy Synspective Satellites.md\|Rocket Lab Sets Launch Window to Deploy Synspective Satellites]]                                                                                         | December 05, 2024 |
 
 %%DATAVIEW_PUBLISHER: end %%
 

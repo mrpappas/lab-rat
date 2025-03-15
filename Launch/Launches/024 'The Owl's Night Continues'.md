@@ -49,13 +49,16 @@ x1 [[Synspective#🛰️ Space Systems#StriX|Strix]] Series Satellite for [[Syns
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[024 'The Owl's Night Continues' - Electron]])
+where contains(mission, [[024 'The Owl's Night Continues']])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                                                                                             | Published         |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[News/Rocket Lab Successfully Launches Second Mission for Synspective, Deploys 110th Satellite to Orbit.md\|Rocket Lab Successfully Launches Second Mission for Synspective, Deploys 110th Satellite to Orbit]] | March 01, 2022    |
+| [[News/Rocket Lab Brings Forward Launch for Earth Imaging Company Synspective.md\|Rocket Lab Brings Forward Launch for Earth Imaging Company Synspective]]                                                       | February 09, 2022 |
+| [[News/Rocket Lab to Launch Three Dedicated Electron Missions for Earth Imaging Company Synspective.md\|Rocket Lab to Launch Three Dedicated Electron Missions for Earth Imaging Company Synspective]]           | December 07, 2021 |
 
 %%DATAVIEW_PUBLISHER: end %%
 

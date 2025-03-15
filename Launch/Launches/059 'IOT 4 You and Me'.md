@@ -59,13 +59,15 @@ x5 [[Kinéis#🛰️ Space Systems#Kinéis IoT|Kinéis IoT]] Satellites
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[059 'IOT 4 You and Me' - Electron]])
+where contains(mission, [[059 'IOT 4 You and Me']])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                                                 | Published         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[News/Rocket Lab Launches Next Batch of Satellites for Kinéis Constellation.md\|Rocket Lab Launches Next Batch of Satellites for Kinéis Constellation]]             | February 08, 2025 |
+| [[News/Rocket Lab Schedules Next Electron Launch for Constellation Operator Kinéis.md\|Rocket Lab Schedules Next Electron Launch for Constellation Operator Kinéis]] | January 21, 2025  |
 
 %%DATAVIEW_PUBLISHER: end %%
 

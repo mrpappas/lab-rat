@@ -46,13 +46,16 @@ Onboard this rideshare mission were six spacecraft comprised of 5cm PocketQube m
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[010 'Running Out Of Fingers' - Electron]])
+where contains(mission, [[010 'Running Out Of Fingers']])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                                                                                           | Published         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[News/Rocket Lab Debuts Fully Autonomous Flight Termination System.md\|Rocket Lab Debuts Fully Autonomous Flight Termination System]]                                                                         | December 09, 2019 |
+| [[News/Rocket Lab launches milestone tenth mission, completes major success for reusable rocket program.md\|Rocket Lab launches milestone tenth mission, completes major success for reusable rocket program]] | December 06, 2019 |
+| [[News/Next Generation Electron Booster on the Pad  for Rocket Lab’s 10th Mission.md\|Next Generation Electron Booster on the Pad  for Rocket Lab’s 10th Mission]]                                             | November 05, 2019 |
 
 %%DATAVIEW_PUBLISHER: end %%
 

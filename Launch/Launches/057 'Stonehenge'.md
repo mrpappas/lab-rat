@@ -41,13 +41,14 @@ Press Kit: 🚫 No Press Kit Issued for this Mission
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[057 'Stonehenge' - HASTE]])
+where contains(mission, [[057 'Stonehenge']])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                       | Published       |
+| ------------------------------------------------------------------------------------------------------------------------------------------ | --------------- |
+| [[News/Rocket Lab Inks New Deal to Launch HASTE Mission from Virginia.md\|Rocket Lab Inks New Deal to Launch HASTE Mission from Virginia]] | August 08, 2023 |
 
 %%DATAVIEW_PUBLISHER: end %%
 

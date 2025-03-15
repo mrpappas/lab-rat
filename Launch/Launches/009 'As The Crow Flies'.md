@@ -47,13 +47,15 @@ The mission was named ‘As The Crow Flies’ in a nod to Astro Digital’s Corv
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[009 'As The Crow Flies' - Electron]])
+where contains(mission, [[009 'As The Crow Flies']])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                                                                                     | Published          |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[News/Rocket Lab successfully launches ninth Electron mission, deploys payload to highest orbit yet.md\|Rocket Lab successfully launches ninth Electron mission, deploys payload to highest orbit yet]] | October 17, 2019   |
+| [[News/Rocket Lab to launch dedicated mission for Astro Digital.md\|Rocket Lab to launch dedicated mission for Astro Digital]]                                                                           | September 30, 2019 |
 
 %%DATAVIEW_PUBLISHER: end %%
 

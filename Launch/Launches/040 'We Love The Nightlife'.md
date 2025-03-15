@@ -51,13 +51,16 @@ x1 [[Capella Space#🛰️ Space Systems#Acadia|Acadia SAR]] Satellite
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[040 'We Love The Nightlife' - Electron]])
+where contains(mission, [[040 'We Love The Nightlife']])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                                                                                       | Published       |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
+| [[News/Rocket Lab Launches 40th Electron Mission, Successfully Flies Reused Engine.md\|Rocket Lab Launches 40th Electron Mission, Successfully Flies Reused Engine]]                                       | August 24, 2023 |
+| [[News/Rocket Lab Brings Forward Milestone Recovery Mission.md\|Rocket Lab Brings Forward Milestone Recovery Mission]]                                                                                     | August 23, 2023 |
+| [[News/Rocket Lab Announces Launch Window for Next Mission in Multi-Launch Contract for Capella Space.md\|Rocket Lab Announces Launch Window for Next Mission in Multi-Launch Contract for Capella Space]] | July 20, 2023   |
 
 %%DATAVIEW_PUBLISHER: end %%
 

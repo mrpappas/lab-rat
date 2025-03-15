@@ -54,13 +54,16 @@ x1 [[Synspective#🛰️ Space Systems#StriX|Strix]] Series Satellite for [[Syns
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[045 'Owl Night Long' - Electron]])
+where contains(mission, [[045 'Owl Night Long']])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                                                                                                                   | Published         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[News/Rocket Lab Successfully Launches 45th Electron Mission, 4th for Longtime Partner Synspective.md\|Rocket Lab Successfully Launches 45th Electron Mission, 4th for Longtime Partner Synspective]]                                 | March 13, 2024    |
+| [[News/Rocket Lab Schedules Launch Date for 45th Electron Mission to Deploy Earth-Imaging Satellite for Synspective.md\|Rocket Lab Schedules Launch Date for 45th Electron Mission to Deploy Earth-Imaging Satellite for Synspective]] | February 20, 2024 |
+| [[News/Rocket Lab to Launch Three Dedicated Electron Missions for Earth Imaging Company Synspective.md\|Rocket Lab to Launch Three Dedicated Electron Missions for Earth Imaging Company Synspective]]                                 | December 07, 2021 |
 
 %%DATAVIEW_PUBLISHER: end %%
 

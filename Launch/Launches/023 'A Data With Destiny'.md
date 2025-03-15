@@ -47,13 +47,16 @@ The two Gen-2 satellites on this mission, along with those previously launched b
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[023 'A Data With Destiny' - Electron]])
+where contains(mission, [[023 'A Data With Destiny']])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                                                       | Published         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[News/Rocket Lab Launches 109th Satellite to Orbit.md\|Rocket Lab Launches 109th Satellite to Orbit]]                                                                     | December 09, 2021 |
+| [[News/Rocket Lab Launch Operations Underway For Two BlackSky Missions in November.md\|Rocket Lab Launch Operations Underway For Two BlackSky Missions in November]]       | October 11, 2021  |
+| [[News/Rocket Lab to Launch Three Back-To-Back Missions for BlackSky from late August.md\|Rocket Lab to Launch Three Back-To-Back Missions for BlackSky from late August]] | August 10, 2021   |
 
 %%DATAVIEW_PUBLISHER: end %%
 

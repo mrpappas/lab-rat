@@ -52,13 +52,15 @@ The final spacecraft manifested on the mission were two experimental satellites 
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[008 'Look Ma, No Hands' - Electron]])
+where contains(mission, [[008 'Look Ma, No Hands']])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                                                                                                                                 | Published       |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
+| [[News/Rocket Lab successfully launches eighth Electron mission,  takes next step in recovery and reuse for future flights.md\|Rocket Lab successfully launches eighth Electron mission,  takes next step in recovery and reuse for future flights]] | August 20, 2019 |
+| [[News/Rocket Lab’s Next Mission Focused On Building Constellations And Enabling R&D.md\|Rocket Lab’s Next Mission Focused On Building Constellations And Enabling R&D]]                                                                             | July 22, 2019   |
 
 %%DATAVIEW_PUBLISHER: end %%
 ## 📽️ Launch Video

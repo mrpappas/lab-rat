@@ -49,13 +49,17 @@ The mission also included the successful splashdown and recovery of Electron's f
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[043 'Four Of A Kind' - Electron]])
+where contains(mission, [[043 'Four Of A Kind']])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                                                                                             | Published        |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[News/Rocket Lab Returns Previously Flown Electron to Production Line in Preparation for First Reflight.md\|Rocket Lab Returns Previously Flown Electron to Production Line in Preparation for First Reflight]] | April 11, 2024   |
+| [[News/Rocket Lab Successfully Launches First Electron Mission of Busy 2024 Launch Schedule.md\|Rocket Lab Successfully Launches First Electron Mission of Busy 2024 Launch Schedule]]                           | January 31, 2024 |
+| [[News/Rocket Lab to Launch Space Situational Awareness Mission for Spire and NorthStar.md\|Rocket Lab to Launch Space Situational Awareness Mission for Spire and NorthStar]]                                   | January 08, 2024 |
+| [[News/Rocket Lab to Launch Space Object Monitoring Mission For Spire Global & NorthStar.md\|Rocket Lab to Launch Space Object Monitoring Mission For Spire Global & NorthStar]]                                 | June 22, 2023    |
 
 %%DATAVIEW_PUBLISHER: end %%
 

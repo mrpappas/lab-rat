@@ -48,13 +48,15 @@ x5 [[Kinéis#🛰️ Space Systems#Kinéis IoT| Kinéis IoT]] Satellites
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[050 'No Time Toulouse' - Electron]])
+where contains(mission, [[050 'No Time Toulouse']])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                                                                                                   | Published     |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| [[News/Rocket Lab Successfully Launches 50th Electron Mission, Deploys Satellites for Kinéis.md\|Rocket Lab Successfully Launches 50th Electron Mission, Deploys Satellites for Kinéis]]                               | June 21, 2024 |
+| [[News/Rocket Lab Sets Launch Date for 50th Electron Mission, Prepares to Deploy Five Satellites for Kinéis.md\|Rocket Lab Sets Launch Date for 50th Electron Mission, Prepares to Deploy Five Satellites for Kinéis]] | June 07, 2024 |
 
 %%DATAVIEW_PUBLISHER: end %%
 

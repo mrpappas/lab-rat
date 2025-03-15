@@ -49,13 +49,17 @@ The secondary payload was NASA's ACS3, a technology demonstration of new materia
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[047 'Beginning Of The Swarm' - Electron]])
+where contains(mission, [[047 'Beginning Of The Swarm']])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                                                                                                               | Published         |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[News/Rocket Lab Successfully Deploys Satellites ~500km Apart to Separate Orbits  For KAIST and NASA  Rocket Lab.md\|Rocket Lab Successfully Deploys Satellites ~500km Apart to Separate Orbits  For KAIST and NASA  Rocket Lab]] | April 24, 2024    |
+| [[News/Rocket Lab Prepares to Launch Mission for KAIST and NASA to Deploy Satellites to Two Separate Orbits.md\|Rocket Lab Prepares to Launch Mission for KAIST and NASA to Deploy Satellites to Two Separate Orbits]]             | April 01, 2024    |
+| [[News/Rocket Lab Signs Deal to Launch South Korean Satellite.md\|Rocket Lab Signs Deal to Launch South Korean Satellite]]                                                                                                         | December 07, 2023 |
+| [[News/Rocket Lab Selected to Launch NASA’s Advanced Composite Solar Sail System.md\|Rocket Lab Selected to Launch NASA’s Advanced Composite Solar Sail System]]                                                                   | October 06, 2021  |
 
 %%DATAVIEW_PUBLISHER: end %%
 

@@ -42,13 +42,22 @@ Despite not reaching orbit, the mission successfully demonstrated key systems in
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[001 'It's a Test' - Electron]])
+where contains(mission, [[001 'It's a Test']])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                                                                 | Published       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------- |
+| [[News/'It's a Test' - Live News Updates  Rocket Lab.md\|'It's a Test' - Live News Updates  Rocket Lab]]                                                                             | August 24, 2017 |
+| [[News/Rocket Lab Completes Post-Flight Analysis for Electron 'Its a Test'.md\|Rocket Lab Completes Post-Flight Analysis for Electron 'Its a Test']]                                 | August 07, 2017 |
+| [[News/Rocket Lab Electron 'Its a Test' flight successfully makes it to space.md\|Rocket Lab Electron 'Its a Test' flight successfully makes it to space]]                           | May 25, 2017    |
+| [[News/'It's a Test' update.md\|'It's a Test' update]]                                                                                                                               | May 24, 2017    |
+| [[News/'It's a Test' - Live News Updates (1).md\|'It's a Test' - Live News Updates (1)]]                                                                                             | May 23, 2017    |
+| [[News/'It's a Test' - Live News Updates (2).md\|'It's a Test' - Live News Updates (2)]]                                                                                             | May 23, 2017    |
+| [[News/'It's a Test' - Media Advisory on Viewing a Launch of Rocket Lab's Electron Vehicle.md\|'It's a Test' - Media Advisory on Viewing a Launch of Rocket Lab's Electron Vehicle]] | May 19, 2017    |
+| [[News/'It's a Test' - Press Kit.md\|'It's a Test' - Press Kit]]                                                                                                                     | May 19, 2017    |
+| [[News/Electron Test Launch Window Announced.md\|Electron Test Launch Window Announced]]                                                                                             | May 15, 2017    |
 
 %%DATAVIEW_PUBLISHER: end %%
 ## 📽️ Launch Video

@@ -46,13 +46,16 @@ The ‘PREFIRE and Ice’ launch launched on June 5th, 2024 from [[Launch Comple
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[049 'PREFIRE and ICE' - Electron]])
+where contains(mission, [[049 'PREFIRE and ICE']])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                                                                           | Published       |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
+| [[News/Rocket Lab Successfully Completes Second Launch for NASA Climate Science Mission.md\|Rocket Lab Successfully Completes Second Launch for NASA Climate Science Mission]]                 | June 05, 2024   |
+| [[News/Rocket Lab Prepares Back-To-Back Launches For Climate Change Research Mission For NASA.md\|Rocket Lab Prepares Back-To-Back Launches For Climate Change Research Mission For NASA]]     | April 29, 2024  |
+| [[News/Rocket Lab to Launch Climate Change Research Mission Focused on Arctic Ice Caps for NASA.md\|Rocket Lab to Launch Climate Change Research Mission Focused on Arctic Ice Caps for NASA]] | August 14, 2023 |
 
 %%DATAVIEW_PUBLISHER: end %%
 

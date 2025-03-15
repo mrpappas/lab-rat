@@ -50,13 +50,16 @@ The 10th and final payload, Canon Electronics Inc.’s CE-SAT-IIB, was arranged 
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[015 'In Focus' - Electron]])
+where contains(mission, [[015 'In Focus']])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                                                                                                   | Published          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[News/Rocket Lab demonstrates flexible in-space transportation with new Kick Stage maneuver.md\|Rocket Lab demonstrates flexible in-space transportation with new Kick Stage maneuver]]                               | October 30, 2020   |
+| [[News/Rocket Lab Successfully Launches 15th Mission, Deploys Satellites for Planet, Canon Electronics Inc..md\|Rocket Lab Successfully Launches 15th Mission, Deploys Satellites for Planet, Canon Electronics Inc.]] | October 29, 2020   |
+| [[News/Rocket Lab To Launch Commercial Earth-Imaging Rideshare Mission For Planet, Canon Electronics.md\|Rocket Lab To Launch Commercial Earth-Imaging Rideshare Mission For Planet, Canon Electronics]]               | September 21, 2020 |
 
 %%DATAVIEW_PUBLISHER: end %%
 

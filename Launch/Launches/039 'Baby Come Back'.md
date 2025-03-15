@@ -65,13 +65,18 @@ The ‘Baby Come Back’ mission is a rideshare mission and will carry satellite
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[039 'Baby Come Back' - Electron]])
+where contains(mission, [[039 'Baby Come Back']])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                                                                                                                                       | Published     |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| [[News/Rocket Lab Deploys Satellites for NASA and Commercial Constellation Operators,  Successfully Recovers Booster.md\|Rocket Lab Deploys Satellites for NASA and Commercial Constellation Operators,  Successfully Recovers Booster]]                   | July 17, 2023 |
+| [[News/Rocket Lab Prepares to Launch Mix of NASA and Commercial Satellites, and Takes Next Step in Rocket Reusability Program.md\|Rocket Lab Prepares to Launch Mix of NASA and Commercial Satellites, and Takes Next Step in Rocket Reusability Program]] | July 17, 2023 |
+| [[News/Rocket Lab to Launch Multiple Satellites as Part of Upcoming Recovery Mission.md\|Rocket Lab to Launch Multiple Satellites as Part of Upcoming Recovery Mission]]                                                                                   | June 22, 2023 |
+| [[News/Space Flight Laboratory Selects Rocket Lab to Launch Telesat Broadband Satellite.md\|Space Flight Laboratory Selects Rocket Lab to Launch Telesat Broadband Satellite]]                                                                             | May 31, 2023  |
+| [[News/Rocket Lab to Launch Small Satellite Swarm for NASA.md\|Rocket Lab to Launch Small Satellite Swarm for NASA]]                                                                                                                                       | May 09, 2023  |
 
 %%DATAVIEW_PUBLISHER: end %%
 

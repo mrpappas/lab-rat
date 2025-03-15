@@ -56,13 +56,16 @@ x 1 [[iQPS#🛰️ Space Systems#QPS-SAR|QPS-SAR]]
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[061 'The Lightning God Reigns' - Electron]])
+where contains(mission, [[061 'The Lightning God Reigns']])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                                                                                                                                         | Published         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
+| [[News/Rocket Lab Schedules Two Launches Three Days Apart, Upcoming Mission to Deploy Final Satellites in Kinéis Constellation.md\|Rocket Lab Schedules Two Launches Three Days Apart, Upcoming Mission to Deploy Final Satellites in Kinéis Constellation]] | March 10, 2025    |
+| [[News/Rocket Lab Signs Second Multi-Launch Deal, Secures Eight Electron Missions with iQPS.md\|Rocket Lab Signs Second Multi-Launch Deal, Secures Eight Electron Missions with iQPS]]                                                                       | February 27, 2025 |
+| [[News/Rocket Lab Signs Multi-Launch Contract with iQPS for Four Electron Missions.md\|Rocket Lab Signs Multi-Launch Contract with iQPS for Four Electron Missions]]                                                                                         | February 03, 2025 |
 
 %%DATAVIEW_PUBLISHER: end %%
 

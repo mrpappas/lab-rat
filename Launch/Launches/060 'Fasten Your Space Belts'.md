@@ -47,13 +47,15 @@ X1 [[BlackSky#🛰️ Space Systems#BlackSky Gen-3|BlackSky Gen-3]]
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[060 'Fasten Your Space Belts' - Electron]])
+where contains(mission, [[060 'Fasten Your Space Belts']])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                                                                                 | Published         |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[News/Rocket Lab Successfully Launches 60th Electron, First of Multiple New Missions for BlackSky.md\|Rocket Lab Successfully Launches 60th Electron, First of Multiple New Missions for BlackSky]] | February 18, 2025 |
+| [[News/Rocket Lab Schedules Launch for First of Multiple Missions for BlackSky.md\|Rocket Lab Schedules Launch for First of Multiple Missions for BlackSky]]                                         | February 10, 2025 |
 
 %%DATAVIEW_PUBLISHER: end %%
 

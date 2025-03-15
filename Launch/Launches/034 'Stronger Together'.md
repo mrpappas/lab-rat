@@ -47,13 +47,16 @@ The launch was a dedicated mission for Capella Space, a leading U.S. satellite m
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[034 'Stronger Together' - Electron]])
+where contains(mission, [[034 'Stronger Together']])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                                                                 | Published         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
+| [[News/Rocket Lab Successfully Launches 34th Electron Rocket, Second Mission from Virginia.md\|Rocket Lab Successfully Launches 34th Electron Rocket, Second Mission from Virginia]] | March 16, 2023    |
+| [[News/Rocket Lab Announces Launch Window for Second Electron Mission from Virginia.md\|Rocket Lab Announces Launch Window for Second Electron Mission from Virginia]]               | March 07, 2023    |
+| [[News/Rocket Lab Plans Two Launches Days Apart From Two Continents.md\|Rocket Lab Plans Two Launches Days Apart From Two Continents]]                                               | February 28, 2023 |
 
 %%DATAVIEW_PUBLISHER: end %%
 

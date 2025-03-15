@@ -57,13 +57,16 @@ Rocket Lab has now reliably replicated the issue in test and identified that it 
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[013 'Pics Or It Didn't Happen' - Electron]])
+where contains(mission, [[013 'Pics Or It Didn't Happen']])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                 | Published     |
+| ------------------------------------------------------------------------------------------------------------------------------------ | ------------- |
+| [[News/Rocket Lab to Resume Electron Launches in August.md\|Rocket Lab to Resume Electron Launches in August]]                       | July 31, 2020 |
+| [[News/Rocket Lab Mission Fails to Reach Orbit.md\|Rocket Lab Mission Fails to Reach Orbit]]                                         | July 04, 2020 |
+| [[News/Rocket Lab to Demonstrate Fastest Launch Turnaround to Date.md\|Rocket Lab to Demonstrate Fastest Launch Turnaround to Date]] | June 15, 2020 |
 
 %%DATAVIEW_PUBLISHER: end %%
 
