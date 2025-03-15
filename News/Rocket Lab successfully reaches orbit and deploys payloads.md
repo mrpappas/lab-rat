@@ -1,7 +1,6 @@
 ---
-
 title: "Rocket Lab successfully reaches orbit and deploys payloads "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-reaches-orbit-and-deploys-payloads-january-21-2018/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-reaches-orbit-and-deploys-payloads-january-21-2018/
 author:
   - "[[Rocket Lab]]"
 published: 2018-01-21
@@ -10,10 +9,10 @@ customer:
   - "[[Planet Labs]]"
   - "[[Spire Global]]"
 mission:
- - "[[002 'Still Testing' - Electron]]"
+  - "[[002 'Still Testing']]"
 tags:
- - electron
- - launch
+  - electron
+  - launch
 ---
 >[!summary]
 #electron #launch
@@ -23,7 +22,7 @@ tags:
 **Published:** 2018-01-21
 **Description:** *Huntington Beach, California and Auckland, New Zealand January 21 2018:*
 **Customer:** [[Planet Labs]], [[Spire Global]]
-**Mission:** [[002 'Still Testing' - Electron]]
+**Mission:** [[002 'Still Testing']]
 
 **Huntington Beach, California and Auckland, New Zealand January 21 2018:**
 

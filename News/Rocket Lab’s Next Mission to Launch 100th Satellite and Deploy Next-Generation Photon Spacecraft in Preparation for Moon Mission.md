@@ -1,26 +1,25 @@
 ---
-
 title: "Rocket Lab’s Next Mission to Launch 100th Satellite and Deploy Next-Generation Photon Spacecraft in Preparation for Moon Mission "
-source: "https://www.rocketlabusa.com/updates/rocket-labs-next-mission-to-launch-100th-satellite-and-deploy-next-generation-photon-spacecraft-in-preparation-for-moon-mission/"
+source: https://www.rocketlabusa.com/updates/rocket-labs-next-mission-to-launch-100th-satellite-and-deploy-next-generation-photon-spacecraft-in-preparation-for-moon-mission/
 author:
   - "[[Rocket Lab]]"
 published: 2021-02-09
-description: "The mission will deploy a range of satellites for commercial and government customers, as well as place a next-generation Photon spacecraft in orbit to build heritage for Rocket Lab’s upcoming mission to the Moon for NASA"
-Customer: 
-- "[[BlackSky]]"
-- "[[Tyvak Nano-Satellite Systems]]"
-- "[[Fleet Space]]"
-- "[[Myriota]]"
-- "[[UNSW Canberra Space]]"
-- "[[Care Weather]]"
-- "[[U.S. Army]]"
-- "[[Trisept]]"
+description: The mission will deploy a range of satellites for commercial and government customers, as well as place a next-generation Photon spacecraft in orbit to build heritage for Rocket Lab’s upcoming mission to the Moon for NASA
+Customer:
+  - "[[BlackSky]]"
+  - "[[Tyvak Nano-Satellite Systems]]"
+  - "[[Fleet Space]]"
+  - "[[Myriota]]"
+  - "[[UNSW Canberra Space]]"
+  - "[[Care Weather]]"
+  - "[[U.S. Army]]"
+  - "[[Trisept]]"
 mission:
- - "[[019 'They Go Up So Fast' - Electron]]"
+  - "[[019 'They Go Up So Fast']]"
 tags:
- - electron
- - launch
- - photon
+  - electron
+  - launch
+  - photon
 ---
 >[!summary]
 #electron #launch #photon
@@ -30,7 +29,7 @@ tags:
 **Published:** 2021-02-09
 **Description:** The mission will deploy a range of satellites for commercial and government customers, as well as place a next-generation Photon spacecraft in orbit to build heritage for Rocket Lab’s upcoming mission to the Moon for NASA
 **Customer:** [[BlackSky]], [[Tyvak Nano-Satellite Systems]], [[Fleet Space]], [[Myriota]], [[UNSW Canberra Space]], [[Care Weather]], [[U.S. Army]], [[Trisept]]
-**Mission:** [[019 'They Go Up So Fast' - Electron]]
+**Mission:** [[019 'They Go Up So Fast']]
 
 *The mission will deploy a range of satellites for commercial and government customers, as well as place a next-generation Photon spacecraft in orbit to build heritage for Rocket Lab’s upcoming mission to the Moon for NASA*
 

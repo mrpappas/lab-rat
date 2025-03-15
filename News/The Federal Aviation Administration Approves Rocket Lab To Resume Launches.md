@@ -1,18 +1,17 @@
 ---
-
 title: "The Federal Aviation Administration Approves Rocket Lab To Resume Launches    "
-source: "https://www.rocketlabusa.com/updates/the-federal-aviation-administration-approves-rocket-lab-to-resume-launches/"
+source: https://www.rocketlabusa.com/updates/the-federal-aviation-administration-approves-rocket-lab-to-resume-launches/
 author:
   - "[[Rocket Lab]]"
 published: 2021-06-02
 description: "*Long Beach, California. 02 June, 2021* – Rocket Lab, the leading launch and space systems company, announced today it has received authorization from the Federal Aviation Administration (FAA) to resume launches. The approval comes fewer than three weeks after Rocket Lab experienced an anomaly during its 20th launch, resulting in the loss of the mission."
 customer:
- - "[[BlackSky]]"
+  - "[[BlackSky]]"
 mission:
- - "[[020 'Running Out Of Toes' - Electron]]"
+  - "[[020 'Running Out Of Toes']]"
 tags:
- - anomaly
- - electron
+  - anomaly
+  - electron
 ---
 >[!summary]
 #anomaly #electron
@@ -22,7 +21,7 @@ tags:
 **Published:** 2021-06-02
 **Description:** *Long Beach, California. 02 June, 2021* – Rocket Lab, the leading launch and space systems company, announced today it has received authorization from the Federal Aviation Administration (FAA) to resume launches. The approval comes fewer than three weeks after Rocket Lab experienced an anomaly during its 20th launch, resulting in the loss of the mission.
 **Customer:** [[BlackSky]]
-**Mission:** [[020 'Running Out Of Toes' - Electron]]
+**Mission:** [[020 'Running Out Of Toes']]
 
 **Long Beach, California. 02 June, 2021** – Rocket Lab, the leading launch and space systems company, announced today it has received authorization from the Federal Aviation Administration (FAA) to resume launches. The approval comes fewer than three weeks after Rocket Lab experienced an anomaly during its 20<sup>th</sup> launch, resulting in the loss of the mission.
 

@@ -1,16 +1,15 @@
 ---
-
 title: "Rocket Lab Successfully Launches 31st Electron Rocket, Breaks Annual Launch Record "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-31st-electron-rocket-breaks-annual-launch-record/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-31st-electron-rocket-breaks-annual-launch-record/
 author:
   - "[[Rocket Lab]]"
 published: 2022-10-07
 description: "*Long Beach, Calif. Oct. 7, 2022* – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, today broke its annual launch record with the launch of “It Argos Up From Here,” a dedicated launch for General Atomics Electromagnetic Systems (GA-EMS). The mission was Rocket Lab’s 31st Electron launch overall and the eighth for the year to date, besting the company’s previous record of seven launches in 2020. Rocket Lab has now successfully launched a mission every month since April 2022, delivering frequent and reliable access to orbit."
 customer: "[[General Atomics Electromagnetic Systems]]"
-mission: "[[031 'It Argos Up From Here' - Electron]]"
+mission: "[[031 'It Argos Up From Here']]"
 tags:
-  - "launch"
-  - "electron"
+  - launch
+  - electron
 ---
 >[!summary]
 #launch #electron
@@ -20,7 +19,7 @@ tags:
 **Published:** 2022-10-07
 **Description:** *Long Beach, Calif. Oct. 7, 2022* – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, today broke its annual launch record with the launch of “It Argos Up From Here,” a dedicated launch for General Atomics Electromagnetic Systems (GA-EMS). The mission was Rocket Lab’s 31st Electron launch overall and the eighth for the year to date, besting the company’s previous record of seven launches in 2020. Rocket Lab has now successfully launched a mission every month since April 2022, delivering frequent and reliable access to orbit.
 **Customer:** [[General Atomics Electromagnetic Systems]]
-**Mission:** [[031 'It Argos Up From Here' - Electron]]
+**Mission:** [[031 'It Argos Up From Here']]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-31st-electron-rocket-breaks-annual-launch-record/
 

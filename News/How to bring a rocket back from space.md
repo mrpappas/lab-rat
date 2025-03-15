@@ -1,21 +1,20 @@
 ---
-
 title: "How to bring a rocket back from space  "
-source: "https://www.rocketlabusa.com/updates/how-to-bring-a-rocket-back-from-space/"
+source: https://www.rocketlabusa.com/updates/how-to-bring-a-rocket-back-from-space/
 author:
   - "[[Rocket Lab]]"
 published: 2020-11-30
 description: "*Return to Sender Recovery Update*"
-Customer: 
-- "[[Trisept]]"
-- "[[Unseenlabs]]"
-- "[[Swarm]]"
-- "[[The University of Auckland]]"
-- "[[Valve]]"
+Customer:
+  - "[[Trisept]]"
+  - "[[Unseenlabs]]"
+  - "[[Swarm]]"
+  - "[[The University of Auckland]]"
+  - "[[Valve]]"
 mission:
- - "[[016 'Return to Sender' - Electron]]"
+  - "[[016 'Return to Sender']]"
 tags:
- - electron
+  - electron
 ---
 >[!summary]
 #electron
@@ -25,7 +24,7 @@ tags:
 **Published:** 2020-11-30
 **Description:** *Return to Sender Recovery Update*
 **Customer:** [[Trisept]], [[Unseenlabs]], [[Swarm]], [[The University of Auckland]], [[Valve]]
-**Mission:** [[016 'Return to Sender' - Electron]]
+**Mission:** [[016 'Return to Sender']]
 
 ## **Return to Sender Recovery Update**
 

@@ -1,18 +1,17 @@
 ---
-
 title: "Capella Space and Rocket Lab to Launch Mid-Inclination Satellite to Enable Improved Monitoring of Key Global Regions "
-source: "https://www.rocketlabusa.com/updates/capella-space-and-rocket-lab-to-launch-mid-inclination-satellite-to-enable-improved-monitoring-of-key-global-regions/"
+source: https://www.rocketlabusa.com/updates/capella-space-and-rocket-lab-to-launch-mid-inclination-satellite-to-enable-improved-monitoring-of-key-global-regions/
 author:
   - "[[Rocket Lab]]"
 published: 2020-03-05
-description: "Capella Space and Rocket Lab to Launch Mid-Inclination Satellite to Enable Improved Monitoring of Key Global Regions"
+description: Capella Space and Rocket Lab to Launch Mid-Inclination Satellite to Enable Improved Monitoring of Key Global Regions
 customer:
- - "[[Capella Space]]"
+  - "[[Capella Space]]"
 mission:
- - "[[014 'I Can't Believe It's Not Optical' - Electron]]"
+  - "[[014 'I Can't Believe It's Not Optical']]"
 tags:
- - electron
- - contract
+  - electron
+  - contract
 ---
 >[!summary]
 #electron #contract
@@ -22,7 +21,7 @@ tags:
 **Published:** 2020-03-05
 **Description:** Capella Space and Rocket Lab to Launch Mid-Inclination Satellite to Enable Improved Monitoring of Key Global Regions
 **Customer:** [[Capella Space]]
-**Mission:** [[014 'I Can't Believe It's Not Optical' - Electron]]
+**Mission:** [[014 'I Can't Believe It's Not Optical']]
 
 Capella Space and Rocket Lab to Launch Mid-Inclination Satellite to Enable Improved Monitoring of Key Global Regions 
 

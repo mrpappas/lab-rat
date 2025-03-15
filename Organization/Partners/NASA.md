@@ -13,24 +13,24 @@ NASA (National Aeronautics and Space Administration) is the United States govern
 
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date
+table location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
-where contains(customer, [[NASA]]) and outcome = "Success"
+where contains(customer, [[NASA]])
 sort launch_date desc
 ```
 %%
 
-| File                                                                                                            | launch_date      |
-| --------------------------------------------------------------------------------------------------------------- | ---------------- |
-| [[Launch/Launches/049 'PREFIRE and ICE' - Electron.md\|049 'PREFIRE and ICE' - Electron]]                       | 2024-06-05 03:15 |
-| [[Launch/Launches/048 'Ready, Aim, Prefire' - Electron.md\|048 'Ready, Aim, Prefire' - Electron]]               | 2024-05-25 07:15 |
-| [[Launch/Launches/047 'Beginning Of The Swarm' - Electron.md\|047 'Beginning Of The Swarm' - Electron]]         | 2024-04-23 22:00 |
-| [[Launch/Launches/039 'Baby Come Back' - Electron.md\|039 'Baby Come Back' - Electron]]                         | 2023-07-18 01:27 |
-| [[Launch/Launches/037 'Coming To A Storm Near You' - Electron.md\|037 'Coming To A Storm Near You' - Electron]] | 2023-05-26 03:46 |
-| [[Launch/Launches/036 'Rocket Like A Hurricane' - Electron.md\|036 'Rocket Like A Hurricane' - Electron]]       | 2023-05-08 01:00 |
-| [[Launch/Launches/027 'CAPSTONE' - Electron.md\|027 'CAPSTONE' - Electron]]                                     | 2022-06-28 09:55 |
-| [[Launch/Launches/012 'Don't Stop Me Now' - Electron.md\|012 'Don't Stop Me Now' - Electron]]                   | 2020-06-13 05:12 |
-| [[Launch/Launches/004 'NASA ELaNa-19' - Electron.md\|004 'NASA ELaNa-19' - Electron]]                           | 2018-12-16 06:33 |
+| File                                                                                      | Location                                              | Vehicle                          | Orbit & Mass                                       | Outcome   |
+| ----------------------------------------------------------------------------------------- | ----------------------------------------------------- | -------------------------------- | -------------------------------------------------- | --------- |
+| [[Launch/Launches/049 'PREFIRE and ICE'.md\|049 'PREFIRE and ICE']]                       | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 525 km \| 97.5° \| 15 kg                           | ✅ Success |
+| [[Launch/Launches/048 'Ready, Aim, Prefire'.md\|048 'Ready, Aim, Prefire']]               | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 525 km \| 97.5° \| 15 kg                           | ✅ Success |
+| [[Launch/Launches/047 'Beginning Of The Swarm'.md\|047 'Beginning Of The Swarm']]         | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 520 km (Neonsat-1), 1,000 km (ACS3), 97° \| 115 kg | ✅ Success |
+| [[Launch/Launches/039 'Baby Come Back'.md\|039 'Baby Come Back']]                         | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 1000 km \| 99.45° \| 86 kg                         | ✅ Success |
+| [[Launch/Launches/037 'Coming To A Storm Near You'.md\|037 'Coming To A Storm Near You']] | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 550 km \| 32° \| 10 kg                             | ✅ Success |
+| [[Launch/Launches/036 'Rocket Like A Hurricane'.md\|036 'Rocket Like A Hurricane']]       | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 550 km \| 32° \| 10 kg                             | ✅ Success |
+| [[Launch/Launches/027 'CAPSTONE'.md\|027 'CAPSTONE']]                                     | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | Translunar Injection (TLI) \| 80kg                 | ✅ Success |
+| [[Launch/Launches/012 'Don't Stop Me Now'.md\|012 'Don't Stop Me Now']]                   | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 570 x 590 km \| 97.75° \| Classified               | ✅ Success |
+| [[Launch/Launches/004 'NASA ELaNa-19'.md\|004 'NASA ELaNa-19']]                           | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 500 km \| 85° \| 78 kg                             | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end %%
 

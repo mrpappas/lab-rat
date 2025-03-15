@@ -14,16 +14,16 @@ The University of Auckland's space systems program focuses on research, developm
 
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date
+table location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
-where contains(customer, [[The University of Auckland]]) and outcome = "Success"
+where contains(customer, [[The University of Auckland]])
 sort launch_date desc
 ```
 %%
 
-| File                                                                                        | launch_date      |
-| ------------------------------------------------------------------------------------------- | ---------------- |
-| [[Launch/Launches/016 'Return to Sender' - Electron.md\|016 'Return to Sender' - Electron]] | 2020-11-20 02:20 |
+| File                                                                  | Location                                              | Vehicle                          | Orbit & Mass              | Outcome   |
+| --------------------------------------------------------------------- | ----------------------------------------------------- | -------------------------------- | ------------------------- | --------- |
+| [[Launch/Launches/016 'Return to Sender'.md\|016 'Return to Sender']] | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 500 km \| 97.3° \| 200 kg | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end %%
 

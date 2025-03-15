@@ -1,18 +1,17 @@
 ---
-
 title: "Rocket Lab Successfully Deploys Satellite for Capella Space on 14th Mission "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-deploys-satellite-for-capella-space-on-14th-mission/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-deploys-satellite-for-capella-space-on-14th-mission/
 author:
   - "[[Rocket Lab]]"
 published: 2020-08-31
 description: "*Rocket Lab Successfully Deploys Satellite for Capella Space on 14th Mission*"
 customer:
- - "[[Capella Space]]"
+  - "[[Capella Space]]"
 mission:
- - "[[014 'I Can't Believe It's Not Optical' - Electron]]"
+  - "[[014 'I Can't Believe It's Not Optical']]"
 tags:
- - electron
- - launch
+  - electron
+  - launch
 ---
 >[!summary]
 #electron #launch
@@ -22,7 +21,7 @@ tags:
 **Published:** 2020-08-31
 **Description:** *Rocket Lab Successfully Deploys Satellite for Capella Space on 14th Mission*
 **Customer:** [[Capella Space]]
-**Mission:** [[014 'I Can't Believe It's Not Optical' - Electron]]
+**Mission:** [[014 'I Can't Believe It's Not Optical']]
 
 **Rocket Lab Successfully Deploys Satellite for Capella Space on 14<sup>th</sup> Mission** 
 

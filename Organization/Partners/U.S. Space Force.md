@@ -14,16 +14,16 @@ website: https://www.spaceforce.mil/
 
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date
+table location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
-where contains(customer, [[U.S. Space Force]]) and outcome = "Success"
+where contains(customer, [[U.S. Space Force]])
 sort launch_date desc
 ```
 %%
 
-| File                                                                                                              | launch_date      |
-| ----------------------------------------------------------------------------------------------------------------- | ---------------- |
-| [[Launch/Launches/021 'It's A Little Chile Up Here' - Electron.md\|021 'It's A Little Chile Up Here' - Electron]] | 2021-07-29 06:00 |
+| File                                                                                        | Location                                              | Vehicle                          | Orbit & Mass             | Outcome   |
+| ------------------------------------------------------------------------------------------- | ----------------------------------------------------- | -------------------------------- | ------------------------ | --------- |
+| [[Launch/Launches/021 'It's A Little Chile Up Here'.md\|021 'It's A Little Chile Up Here']] | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 600 km \| 37° \| Unknown | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end %%
 

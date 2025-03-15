@@ -1,16 +1,15 @@
 ---
-
 title: "Rocket Lab Successfully Launches Second Batch of TROPICS Satellites for NASA "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-second-batch-of-tropics-satellites-for-nasa/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-second-batch-of-tropics-satellites-for-nasa/
 author:
   - "[[Rocket Lab]]"
 published: 2023-05-26
 description: "*The ‘Coming To A Storm Near You’ launch was the second of two dedicated Electron launches to deploy a constellation of hurricane monitoring satellites for NASA*"
 customer: "[[NASA]]"
-mission: "[[037 'Coming To A Storm Near You' - Electron]]"
+mission: "[[037 'Coming To A Storm Near You']]"
 tags:
-  - "launch"
-  - "electron"
+  - launch
+  - electron
 ---
 >[!summary]
 #launch #electron
@@ -20,7 +19,7 @@ tags:
 **Published:** 2023-05-26
 **Description:** *The ‘Coming To A Storm Near You’ launch was the second of two dedicated Electron launches to deploy a constellation of hurricane monitoring satellites for NASA*
 **Customer:** [[NASA]]
-**Mission:** [[037 'Coming To A Storm Near You' - Electron]]
+**Mission:** [[037 'Coming To A Storm Near You']]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-second-batch-of-tropics-satellites-for-nasa/
 

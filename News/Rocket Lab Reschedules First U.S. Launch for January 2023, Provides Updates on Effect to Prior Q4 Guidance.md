@@ -1,16 +1,15 @@
 ---
-
 title: "Rocket Lab Reschedules First U.S. Launch for January 2023, Provides Updates on Effect to Prior Q4 Guidance "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-reschedules-first-u-s-launch-for-january-2023-provides-updates-on-effect-to-prior-q4-guidance/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-reschedules-first-u-s-launch-for-january-2023-provides-updates-on-effect-to-prior-q4-guidance/
 author:
   - "[[Rocket Lab]]"
 published: 2022-12-19
 description: "WALLOPS ISLAND, Virginia - Rocket Lab USA, Inc (Nasdaq: RKLB) (“Rocket Lab”), a leading launch and space systems company, has today announced the launch window for its first Electron mission from U.S. soil has been rescheduled to January 2023."
 customer: "[[HawkEye 360]]"
-mission: "[[033 'Virginia is for Launch Lovers' - Electron]]"
+mission: "[[033 'Virginia is for Launch Lovers']]"
 tags:
-  - "launch"
-  - "electron"
+  - launch
+  - electron
 ---
 >[!summary]
 #launch #electron
@@ -20,7 +19,7 @@ tags:
 **Published:** 2022-12-19
 **Description:** WALLOPS ISLAND, Virginia - Rocket Lab USA, Inc (Nasdaq: RKLB) (“Rocket Lab”), a leading launch and space systems company, has today announced the launch window for its first Electron mission from U.S. soil has been rescheduled to January 2023.
 **Customer:** [[HawkEye 360]]
-**Mission:** [[033 'Virginia is for Launch Lovers' - Electron]]
+**Mission:** [[033 'Virginia is for Launch Lovers']]
 
 Rocket Lab USA, Inc (Nasdaq: RKLB) (“Rocket Lab”), a leading launch and space systems company, has today announced the launch window for its first Electron mission from U.S. soil has been rescheduled to January 2023.
 

@@ -1,16 +1,15 @@
 ---
-
 title: "Rocket Lab to Launch Small Satellite Swarm for NASA  "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-to-launch-small-satellite-swarm-for-nasa/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-to-launch-small-satellite-swarm-for-nasa/
 author:
   - "[[Rocket Lab]]"
 published: 2023-05-09
 description: "*Four Starling satellites have been added to Electron’s 2023 manifest. *"
 customer: "[[NASA]]"
-mission: "[[039 'Baby Come Back' - Electron]]"
+mission: "[[039 'Baby Come Back']]"
 tags:
-  - "contract"
-  - "electron"
+  - contract
+  - electron
 ---
 >[!summary]
 #contract #electron
@@ -20,7 +19,7 @@ tags:
 **Published:** 2023-05-09
 **Description:** *Four Starling satellites have been added to Electron’s 2023 manifest. *
 **Customer:** [[NASA]]
-**Mission:** [[039 'Baby Come Back' - Electron]]
+**Mission:** [[039 'Baby Come Back']]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-to-launch-small-satellite-swarm-for-nasa/
 

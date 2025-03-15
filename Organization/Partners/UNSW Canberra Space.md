@@ -14,17 +14,17 @@ UNSW Canberra Space is a leading Australian space research and development cente
 
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date
+table location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
-where contains(customer, [[UNSW Canberra Space]]) and outcome = "Success"
+where contains(customer, [[UNSW Canberra Space]])
 sort launch_date desc
 ```
 %%
 
-| File                                                                                            | launch_date      |
-| ----------------------------------------------------------------------------------------------- | ---------------- |
-| [[Launch/Launches/019 'They Go Up So Fast' - Electron.md\|019 'They Go Up So Fast' - Electron]] | 2021-03-22 22:30 |
-| [[Launch/Launches/012 'Don't Stop Me Now' - Electron.md\|012 'Don't Stop Me Now' - Electron]]   | 2020-06-13 05:12 |
+| File                                                                      | Location                                              | Vehicle                          | Orbit & Mass                         | Outcome   |
+| ------------------------------------------------------------------------- | ----------------------------------------------------- | -------------------------------- | ------------------------------------ | --------- |
+| [[Launch/Launches/019 'They Go Up So Fast'.md\|019 'They Go Up So Fast']] | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 450 km and 550 km \| 45° \| Unknown  | ✅ Success |
+| [[Launch/Launches/012 'Don't Stop Me Now'.md\|012 'Don't Stop Me Now']]   | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 570 x 590 km \| 97.75° \| Classified | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end %%
 

@@ -14,16 +14,16 @@ Leidos is a U.S.-based technology and defense company specializing in advanced s
 
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date
+table location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
-where contains(customer, [[Leidos]]) and outcome = "Success"
+where contains(customer, [[Leidos]])
 sort launch_date desc
 ```
 %%
 
-| File                                                                            | launch_date      |
-| ------------------------------------------------------------------------------- | ---------------- |
-| [[Launch/Launches/038 'Scout's Arrow' - HASTE.md\|038 'Scout's Arrow' - HASTE]] | 2023-06-18 01:24 |
+| File                                                            | Location                                               | Vehicle                    | Orbit & Mass          | Outcome   |
+| --------------------------------------------------------------- | ------------------------------------------------------ | -------------------------- | --------------------- | --------- |
+| [[Launch/Launches/038 'Scout's Arrow'.md\|038 'Scout's Arrow']] | [[Locations/Launch Complex 2.md#Launch Pad 0C\|LC2-0]] | [[Launch/HASTE.md\|HASTE]] | Suborbital \| unknown | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end %%
 

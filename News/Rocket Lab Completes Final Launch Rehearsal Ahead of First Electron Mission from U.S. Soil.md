@@ -1,16 +1,15 @@
 ---
-
 title: "Rocket Lab Completes Final Launch Rehearsal Ahead of First Electron Mission from U.S. Soil "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-completes-final-launch-rehearsal-ahead-of-first-electron-mission-from-u-s-soil/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-completes-final-launch-rehearsal-ahead-of-first-electron-mission-from-u-s-soil/
 author:
   - "[[Rocket Lab]]"
 published: 2022-11-21
 description: "*With rocket and launch pad checkouts complete, Rocket Lab is ready for its first mission from U.S. soil at Launch Complex 2 in Virginia*"
 customer: "[[HawkEye 360]]"
-mission: "[[033 'Virginia is for Launch Lovers' - Electron]]"
+mission: "[[033 'Virginia is for Launch Lovers']]"
 tags:
-  - "electron"
-  - "launch"
+  - electron
+  - launch
 ---
 >[!summary]
 #electron #launch
@@ -20,7 +19,7 @@ tags:
 **Published:** 2022-11-21
 **Description:** *With rocket and launch pad checkouts complete, Rocket Lab is ready for its first mission from U.S. soil at Launch Complex 2 in Virginia*
 **Customer:** [[HawkEye 360]]
-**Mission:** [[033 'Virginia is for Launch Lovers' - Electron]]
+**Mission:** [[033 'Virginia is for Launch Lovers']]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-completes-final-launch-rehearsal-ahead-of-first-electron-mission-from-u-s-soil/
 

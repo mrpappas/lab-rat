@@ -1,21 +1,20 @@
 ---
-
 title: "Rocket Lab Successfully Launches Two Missions in Less Than 24 Hours  "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-two-missions-in-less-than-24-hours/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-two-missions-in-less-than-24-hours/
 author:
   - "[[Rocket Lab]]"
 published: 2024-11-25
-description: "Two missions launched in less than 24 hours from two pads in two different hemispheres, setting a new company record for fastest launch turnaround."
-customer: 
- - "[[Kinéis]]"
- - "[[U.S. Department of Defense]]"
-mission: 
- - "[[056 'Ice AIS Baby' - Electron]]"
- - "[[055 'HASTE A La Vista' - HASTE]]"
+description: Two missions launched in less than 24 hours from two pads in two different hemispheres, setting a new company record for fastest launch turnaround.
+customer:
+  - "[[Kinéis]]"
+  - "[[U.S. Department of Defense]]"
+mission:
+  - "[[056 'Ice AIS Baby']]"
+  - "[[055 'HASTE A La Vista']]"
 tags:
-  - "launch"
-  - "electron"
-  - "HASTE"
+  - launch
+  - electron
+  - HASTE
 ---
 >[!summary]
 #launch #electron #HASTE
@@ -25,7 +24,7 @@ tags:
 **Published:** 2024-11-25
 **Description:** Two missions launched in less than 24 hours from two pads in two different hemispheres, setting a new company record for fastest launch turnaround.
 **Customer:** [[Kinéis]], [[U.S. Department of Defense]]
-**Mission:** [[056 'Ice AIS Baby' - Electron]], [[055 'HASTE A La Vista' - HASTE]]
+**Mission:** [[056 'Ice AIS Baby']], [[055 'HASTE A La Vista']]
 
 **Source**: https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-two-missions-in-less-than-24-hours/
 

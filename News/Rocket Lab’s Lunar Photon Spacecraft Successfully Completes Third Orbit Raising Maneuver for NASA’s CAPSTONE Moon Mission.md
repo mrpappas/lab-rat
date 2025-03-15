@@ -1,20 +1,19 @@
 ---
-
 title: "Rocket Lab’s Lunar Photon Spacecraft Successfully Completes Third Orbit Raising Maneuver for NASA’s CAPSTONE Moon Mission "
-source: "https://www.rocketlabusa.com/updates/rocket-labs-lunar-photon-spacecraft-successfully-completes-third-orbit-raising-maneuver-for-nasas-capstone-moon-mission/"
+source: https://www.rocketlabusa.com/updates/rocket-labs-lunar-photon-spacecraft-successfully-completes-third-orbit-raising-maneuver-for-nasas-capstone-moon-mission/
 author:
   - "[[Rocket Lab]]"
 published: 2022-06-29
 description: "*Long Beach, California. June 29, 2022 *- Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, today announced its Lunar Photon spacecraft has successfully completed the third of seven planned orbit raising maneuvers, bringing the CAPSTONE spacecraft closer to the Moon."
 customer:
- - "[[NASA]]"
- - "[[Advanced Space]]"
+  - "[[NASA]]"
+  - "[[Advanced Space]]"
 mission:
- - "[[027 'CAPSTONE' - Electron]]"
-insider:
+  - "[[027 'CAPSTONE']]"
+insider: 
 tags:
- - space-systems
- - electron
+  - space-systems
+  - electron
 ---
 >[!summary]
 #space-systems #electron
@@ -24,7 +23,7 @@ tags:
 **Published:** 2022-06-29
 **Description:** *Long Beach, California. June 29, 2022 *- Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, today announced its Lunar Photon spacecraft has successfully completed the third of seven planned orbit raising maneuvers, bringing the CAPSTONE spacecraft closer to the Moon.
 **Customer:** [[NASA]], [[Advanced Space]]
-**Mission:** [[027 'CAPSTONE' - Electron]]
+**Mission:** [[027 'CAPSTONE']]
 **Insider:** None
 
 **Long Beach, California. June 29, 2022** \- Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, today announced its Lunar Photon spacecraft has successfully completed the third of seven planned orbit raising maneuvers, bringing the CAPSTONE spacecraft closer to the Moon.

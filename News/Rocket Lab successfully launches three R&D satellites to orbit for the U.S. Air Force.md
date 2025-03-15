@@ -1,5 +1,4 @@
 ---
-
 title: "Rocket Lab successfully launches three R&D satellites to orbit for the U.S. Air Force "
 source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-three-r-and-d-satellites-to-orbit-for-the-u-s-air-force/
 author:
@@ -10,7 +9,7 @@ customer:
   - "[[U.S. Air Force]]"
   - "[[York Space Systems]]"
 mission:
-  - "[[006 'STP-27RD' - Electron]]"
+  - "[[006 'STP-27RD']]"
 tags:
   - electron
   - launch
@@ -23,7 +22,7 @@ tags:
 **Published:** 2019-05-05
 **Description:** *Rocket Lab successfully launches three R&amp;D satellites to orbit for the U.S. Air Force*
 **Customer:** [[U.S. Air Force]], [[York Space Systems]]
-**Mission:** [[006 'STP-27RD' - Electron]]
+**Mission:** [[006 'STP-27RD']]
 
 **Rocket Lab successfully launches three R&D satellites to orbit for the U.S. Air Force**
 

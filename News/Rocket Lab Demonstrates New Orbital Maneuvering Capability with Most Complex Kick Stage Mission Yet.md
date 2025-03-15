@@ -1,18 +1,17 @@
 ---
-
 title: "Rocket Lab Demonstrates New Orbital Maneuvering Capability with Most Complex Kick Stage Mission Yet "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-demonstrates-new-orbital-maneuvering-capability-with-most-complex-kick-stage-mission-yet/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-demonstrates-new-orbital-maneuvering-capability-with-most-complex-kick-stage-mission-yet/
 author:
   - "[[Rocket Lab]]"
 published: 2021-01-26
 description: "*Rocket Lab Demonstrates New Orbital Maneuvering Capability with Most Complex Kick Stage Mission Yet*"
 customer:
- - "[[OHB Group]]"
+  - "[[OHB Group]]"
 mission:
- - "[[018 'Another One Leaves the Crust' - Electron]]"
+  - "[[018 'Another One Leaves the Crust']]"
 tags:
- - electron
- - launch
+  - electron
+  - launch
 ---
 >[!summary]
 #electron #launch
@@ -22,7 +21,7 @@ tags:
 **Published:** 2021-01-26
 **Description:** *Rocket Lab Demonstrates New Orbital Maneuvering Capability with Most Complex Kick Stage Mission Yet*
 **Customer:** [[OHB Group]]
-**Mission:** [[018 'Another One Leaves the Crust' - Electron]]
+**Mission:** [[018 'Another One Leaves the Crust']]
 
 **Rocket Lab Demonstrates New Orbital Maneuvering Capability with Most Complex Kick Stage Mission Yet**
 

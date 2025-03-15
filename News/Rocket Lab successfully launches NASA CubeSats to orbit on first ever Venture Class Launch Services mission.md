@@ -1,18 +1,17 @@
 ---
-
 title: "Rocket Lab successfully launches NASA CubeSats to orbit on first ever Venture Class Launch Services mission "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-nasa-cubesats-to-orbit-on-first-ever-venture-class-launch-services-mission/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-nasa-cubesats-to-orbit-on-first-ever-venture-class-launch-services-mission/
 author:
   - "[[Rocket Lab]]"
 published: 2018-12-16
 description: "*Rocket Lab successfully launches NASA CubeSats to orbit on first ever Venture Class Launch Services mission*"
 customer:
- - "[[NASA]]"
+  - "[[NASA]]"
 mission:
- - "[[004 'NASA ELaNa-19' - Electron]]"
+  - "[[004 'NASA ELaNa-19']]"
 tags:
- - electron
- - launch
+  - electron
+  - launch
 ---
 >[!summary]
 #electron #launch
@@ -22,7 +21,7 @@ tags:
 **Published:** 2018-12-16
 **Description:** *Rocket Lab successfully launches NASA CubeSats to orbit on first ever Venture Class Launch Services mission*
 **Customer:** [[NASA]]
-**Mission:** [[004 'NASA ELaNa-19' - Electron]]
+**Mission:** [[004 'NASA ELaNa-19']]
 
 **Rocket Lab successfully launches NASA CubeSats to orbit on first ever Venture Class Launch Services mission**
 

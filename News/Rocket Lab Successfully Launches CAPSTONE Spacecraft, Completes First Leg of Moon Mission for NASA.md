@@ -1,20 +1,19 @@
 ---
-
 title: "Rocket Lab Successfully Launches CAPSTONE Spacecraft, Completes First Leg of Moon Mission for NASA "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-capstone-spacecraft-completes-first-leg-of-moon-mission-for-nasa/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-capstone-spacecraft-completes-first-leg-of-moon-mission-for-nasa/
 author:
   - "[[Rocket Lab]]"
 published: 2022-06-28
 description: "*Long Beach, California. June 28, 2022* – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, has successfully launched CAPSTONE, a microwave-oven-sized satellite designed to test a new orbit around the Moon for NASA."
 customer:
- - "[[NASA]]"
- - "[[Advanced Space]]"
+  - "[[NASA]]"
+  - "[[Advanced Space]]"
 mission:
- - "[[027 'CAPSTONE' - Electron]]"
-insider:
+  - "[[027 'CAPSTONE']]"
+insider: 
 tags:
- - space-systems
- - electron
+  - space-systems
+  - electron
 ---
 >[!summary]
 #space-systems #electron
@@ -24,7 +23,7 @@ tags:
 **Published:** 2022-06-28
 **Description:** *Long Beach, California. June 28, 2022* – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, has successfully launched CAPSTONE, a microwave-oven-sized satellite designed to test a new orbit around the Moon for NASA.
 **Customer:** [[NASA]], [[Advanced Space]]
-**Mission:** [[027 'CAPSTONE' - Electron]]
+**Mission:** [[027 'CAPSTONE']]
 **Insider:** None
 
 **Long Beach, California. June 28, 2022** – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, has successfully launched CAPSTONE, a microwave-oven-sized satellite designed to test a new orbit around the Moon for NASA.

@@ -1,20 +1,19 @@
 ---
-
 title: "Rocket Lab Deploys Satellites for NASA and Commercial Constellation Operators,  Successfully Recovers Booster    "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-deploys-satellites-for-nasa-and-commercial-constellation-operators-successfully-recovers-booster/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-deploys-satellites-for-nasa-and-commercial-constellation-operators-successfully-recovers-booster/
 author:
   - "[[Rocket Lab]]"
 published: 2023-07-17
 description: "*Rocket Lab Deploys Satellites for NASA and Commercial Constellation Operators, Successfully Recovers Booster *"
 customer:
- - "[[NASA]]"
- - "[[UTIAS Space Flight Laboratory]]"
- - "[[Spire Global]]"
-mission: "[[039 'Baby Come Back' - Electron]]"
+  - "[[NASA]]"
+  - "[[UTIAS Space Flight Laboratory]]"
+  - "[[Spire Global]]"
+mission: "[[039 'Baby Come Back']]"
 tags:
-  - "electron"
-  - "launch"
-  - "recovery"
+  - electron
+  - launch
+  - recovery
 ---
 >[!summary]
 #electron #launch #recovery
@@ -24,7 +23,7 @@ tags:
 **Published:** 2023-07-17
 **Description:** *Rocket Lab Deploys Satellites for NASA and Commercial Constellation Operators, Successfully Recovers Booster *
 **Customer:** [[NASA]], [[UTIAS Space Flight Laboratory]], [[Spire Global]]
-**Mission:** [[039 'Baby Come Back' - Electron]]
+**Mission:** [[039 'Baby Come Back']]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-deploys-satellites-for-nasa-and-commercial-constellation-operators-successfully-recovers-booster/
 

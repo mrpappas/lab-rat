@@ -1,16 +1,15 @@
 ---
-
 title: "Rocket Lab Debuts HASTE Rocket with First Successful Suborbital Launch from Virginia  "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-debuts-haste-rocket-with-first-successful-suborbital-launch-from-virginia/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-debuts-haste-rocket-with-first-successful-suborbital-launch-from-virginia/
 author:
   - "[[Rocket Lab]]"
 published: 2023-06-17
-description: "The launch of the new HASTE vehicle marks a new era to support hypersonic system technology development"
+description: The launch of the new HASTE vehicle marks a new era to support hypersonic system technology development
 customer: "[[Leidos]]"
-mission: "[[038 'Scout's Arrow' - HASTE]]"
+mission: "[[038 'Scout's Arrow']]"
 tags:
-  - "launch"
-  - "HASTE"
+  - launch
+  - HASTE
 ---
 >[!summary]
 #launch #HASTE
@@ -20,7 +19,7 @@ tags:
 **Published:** 2023-06-17
 **Description:** The launch of the new HASTE vehicle marks a new era to support hypersonic system technology development
 **Customer:** [[Leidos]]
-**Mission:** [[038 'Scout's Arrow' - HASTE]]
+**Mission:** [[038 'Scout's Arrow']]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-debuts-haste-rocket-with-first-successful-suborbital-launch-from-virginia/
 

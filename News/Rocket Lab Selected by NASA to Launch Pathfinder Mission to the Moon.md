@@ -1,19 +1,18 @@
 ---
-
 title: "Rocket Lab Selected by NASA to Launch Pathfinder Mission to the Moon "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-selected-by-nasa-to-launch-pathfinder-mission-to-the-moon/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-selected-by-nasa-to-launch-pathfinder-mission-to-the-moon/
 author:
   - "[[Rocket Lab]]"
 published: 2020-02-14
 description: "*Rocket Lab Selected by NASA to Launch Pathfinder Mission to the Moon*"
 customer:
- - "[[NASA]]"
- - "[[Advanced Space]]"
+  - "[[NASA]]"
+  - "[[Advanced Space]]"
 mission:
- - "[[027 'CAPSTONE' - Electron]]"
+  - "[[027 'CAPSTONE']]"
 tags:
- - electron
- - contract
+  - electron
+  - contract
 ---
 >[!summary]
 #electron #contract
@@ -23,7 +22,7 @@ tags:
 **Published:** 2020-02-14
 **Description:** *Rocket Lab Selected by NASA to Launch Pathfinder Mission to the Moon*
 **Customer:** [[NASA]], [[Advanced Space]]
-**Mission:** [[027 'CAPSTONE' - Electron]]
+**Mission:** [[027 'CAPSTONE']]
 
 **Rocket Lab Selected by NASA to Launch Pathfinder Mission to the Moon**
 

@@ -1,16 +1,14 @@
 ---
-
 title: "Rocket Lab Successfully Launches First Electron Mission of Busy 2024 Launch Schedule "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-first-electron-mission-of-busy-2024-launch-schedule/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-first-electron-mission-of-busy-2024-launch-schedule/
 author:
   - "[[Rocket Lab]]"
 published: 2024-01-31
-description: "The ‘Four Of A Kind’ mission also included a successful splashdown of Electron’s first stage from the ocean after launch, furthering Rocket Lab’s efforts to make Electron the world’s first reusable small orbital rocket."
+description: The ‘Four Of A Kind’ mission also included a successful splashdown of Electron’s first stage from the ocean after launch, furthering Rocket Lab’s efforts to make Electron the world’s first reusable small orbital rocket.
 customer:
- - "[[Spire Global]]"
- - "[[NorthStar Earth & Space]]"
-mission: "[[043 'Four Of A Kind' - Electron]]"
-
+  - "[[Spire Global]]"
+  - "[[NorthStar Earth & Space]]"
+mission: "[[043 'Four Of A Kind']]"
 ---
 >[!summary]
 **Title:** Rocket Lab Successfully Launches First Electron Mission of Busy 2024 Launch Schedule 
@@ -19,7 +17,7 @@ mission: "[[043 'Four Of A Kind' - Electron]]"
 **Published:** 2024-01-31
 **Description:** The ‘Four Of A Kind’ mission also included a successful splashdown of Electron’s first stage from the ocean after launch, furthering Rocket Lab’s efforts to make Electron the world’s first reusable small orbital rocket.
 **Customer:** [[Spire Global]], [[NorthStar Earth & Space]]
-**Mission:** [[043 'Four Of A Kind' - Electron]]
+**Mission:** [[043 'Four Of A Kind']]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-first-electron-mission-of-busy-2024-launch-schedule/
 

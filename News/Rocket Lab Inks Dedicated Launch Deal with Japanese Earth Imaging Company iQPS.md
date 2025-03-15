@@ -1,16 +1,15 @@
 ---
-
 title: "Rocket Lab Inks Dedicated Launch Deal with Japanese Earth Imaging Company iQPS "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-inks-dedicated-launch-deal-with-japanese-earth-imaging-company-iqps/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-inks-dedicated-launch-deal-with-japanese-earth-imaging-company-iqps/
 author:
   - "[[Rocket Lab]]"
 published: 2023-08-17
 description: "*Rocket Lab has stepped in to provide iQPS with an expedited dedicated launch on Electron*"
 customer: "[[iQPS]]"
-mission: "[[042 'The Moon God Awakens' - Electron]]"
+mission: "[[042 'The Moon God Awakens']]"
 tags:
-  - "contract"
-  - "electron"
+  - contract
+  - electron
 ---
 >[!summary]
 #contract #electron
@@ -20,7 +19,7 @@ tags:
 **Published:** 2023-08-17
 **Description:** *Rocket Lab has stepped in to provide iQPS with an expedited dedicated launch on Electron*
 **Customer:** [[iQPS]]
-**Mission:** [[042 'The Moon God Awakens' - Electron]]
+**Mission:** [[042 'The Moon God Awakens']]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-inks-dedicated-launch-deal-with-japanese-earth-imaging-company-iqps/
 

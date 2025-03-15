@@ -1,17 +1,16 @@
 ---
-
 title: "Rocket Lab Completes Post-Flight Analysis for Electron 'Its a Test'  "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-completes-post-flight-analysis/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-completes-post-flight-analysis/
 author:
   - "[[Rocket Lab]]"
 published: 2017-08-07
-description: "Rocket Lab has completed an internal review of data from its May 25 test flight of its Electron rocket. The review found the launch had to be terminated due to an independent contractor’s ground equipment issue, rather than an issue with the rocket. Rocket Lab’s investigation board has identified the root causes and corrective actions."
+description: Rocket Lab has completed an internal review of data from its May 25 test flight of its Electron rocket. The review found the launch had to be terminated due to an independent contractor’s ground equipment issue, rather than an issue with the rocket. Rocket Lab’s investigation board has identified the root causes and corrective actions.
 customer: n/a
 mission:
- - "[[001 'It's a Test' - Electron]]"
+  - "[[001 'It's a Test']]"
 tags:
- - electron
- - launch
+  - electron
+  - launch
 ---
 >[!summary]
 #electron #launch
@@ -21,7 +20,7 @@ tags:
 **Published:** 2017-08-07
 **Description:** Rocket Lab has completed an internal review of data from its May 25 test flight of its Electron rocket. The review found the launch had to be terminated due to an independent contractor’s ground equipment issue, rather than an issue with the rocket. Rocket Lab’s investigation board has identified the root causes and corrective actions.
 **Customer:** n/a
-**Mission:** [[001 'It's a Test' - Electron]]
+**Mission:** [[001 'It's a Test']]
 
 Rocket Lab has completed an internal review of data from its May 25 test flight of its Electron rocket. The review found the launch had to be terminated due to an independent contractor’s ground equipment issue, rather than an issue with the rocket. Rocket Lab’s investigation board has identified the root causes and corrective actions.
 

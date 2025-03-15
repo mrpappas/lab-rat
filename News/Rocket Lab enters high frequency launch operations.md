@@ -1,5 +1,4 @@
 ---
-
 title: Rocket Lab enters high frequency launch operations
 source: https://www.rocketlabusa.com/updates/rocket-lab-enters-high-frequency-launch-operations/
 author:
@@ -12,8 +11,8 @@ customer:
   - "[[Fleet Space]]"
   - "[[NASA]]"
 mission:
-  - "[[003 'It's Business Time' - Electron]]"
-  - "[[004 'NASA ELaNa-19' - Electron]]"
+  - "[[003 'It's Business Time']]"
+  - "[[004 'NASA ELaNa-19']]"
 tags:
   - electron
 ---
@@ -25,7 +24,7 @@ tags:
 **Published:** 2018-10-30
 **Description:** *It’s Business Time launch window confirmed as concurrent launch operations underway for back-to-back missions in November and December*
 **Customer:** [[Spire Global]], [[Tyvak Nano-Satellite Systems]], [[Fleet Space]], [[NASA]]
-**Mission:** [[003 'It's Business Time' - Electron]], [[004 'NASA ELaNa-19' - Electron]]
+**Mission:** [[003 'It's Business Time']], [[004 'NASA ELaNa-19']]
 
 **It’s Business Time launch window confirmed as concurrent launch operations underway for back-to-back missions in November and December**
 

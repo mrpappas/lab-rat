@@ -12,20 +12,18 @@ In-Space Missions is a UK-based company that designs, builds, and operates satel
 
 ## 🚀 Launches
 
-### <span style="color:orangered">Failed Launches</span>
-
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date
+table location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
-where contains(customer, [[In-Space Missions]]) and outcome = "Failure"
+where contains(customer, [[In-Space Missions]])
 sort launch_date desc
 ```
 %%
 
-| File                                                                                                        | launch_date      |
-| ----------------------------------------------------------------------------------------------------------- | ---------------- |
-| [[Launch/Launches/013 'Pics Or It Didn't Happen' - Electron.md\|013 'Pics Or It Didn't Happen' - Electron]] | 2020-07-04 21:19 |
+| File                                                                                  | Location                                              | Vehicle                          | Orbit & Mass             | Outcome   |
+| ------------------------------------------------------------------------------------- | ----------------------------------------------------- | -------------------------------- | ------------------------ | --------- |
+| [[Launch/Launches/013 'Pics Or It Didn't Happen'.md\|013 'Pics Or It Didn't Happen']] | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 500 km \| 97.5° \| 75 kg | ❌ Failure |
 
 %%DATAVIEW_PUBLISHER: end %%
 

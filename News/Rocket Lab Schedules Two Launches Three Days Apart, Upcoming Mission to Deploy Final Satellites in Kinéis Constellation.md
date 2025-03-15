@@ -1,16 +1,16 @@
 ---
-title: "Rocket Lab Schedules Two Launches Three Days Apart, Upcoming Mission to Deploy Final Satellites in Kinéis Constellation"
-source: "https://www.rocketlabusa.com/updates/rocket-lab-schedules-two-launches-three-days-apart-upcoming-mission-to-deploy-final-satellites-in-kineis-constellation/"
+title: Rocket Lab Schedules Two Launches Three Days Apart, Upcoming Mission to Deploy Final Satellites in Kinéis Constellation
+source: https://www.rocketlabusa.com/updates/rocket-lab-schedules-two-launches-three-days-apart-upcoming-mission-to-deploy-final-satellites-in-kineis-constellation/
 author: "[[Rocket Lab]]"
 published: 2025-03-10
 customer:
- - "[[Kinéis]]"
- - "[[iQPS]]"
+  - "[[Kinéis]]"
+  - "[[iQPS]]"
 mission:
- - "[[061 'The Lightning God Reigns' - Electron]]"
+  - "[[061 'The Lightning God Reigns']]"
 tags:
- - electron
- - launch
+  - electron
+  - launch
 ---
 
 >[!summary]

@@ -1,19 +1,18 @@
 ---
-
 title: "Rocket Lab Prepares to Launch Mix of NASA and Commercial Satellites, and Takes Next Step in Rocket Reusability Program "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-prepares-mix-of-nasa-and-commercial-satellites-and-takes-next-step-in-rocket-reusability-program-new-blog-post/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-prepares-mix-of-nasa-and-commercial-satellites-and-takes-next-step-in-rocket-reusability-program-new-blog-post/
 author:
   - "[[Rocket Lab]]"
 published: 2023-07-17
 description: "*Rocket Lab Prepares to Launch Mix of NASA and Commercial Satellites, and Takes Next Step in Rocket Reusability Program*"
 customer:
- - "[[NASA]]"
- - "[[UTIAS Space Flight Laboratory]]"
- - "[[Spire Global]]"
-mission: "[[039 'Baby Come Back' - Electron]]"
+  - "[[NASA]]"
+  - "[[UTIAS Space Flight Laboratory]]"
+  - "[[Spire Global]]"
+mission: "[[039 'Baby Come Back']]"
 tags:
-  - "launch"
-  - "electron"
+  - launch
+  - electron
 ---
 >[!summary]
 #launch #electron
@@ -23,7 +22,7 @@ tags:
 **Published:** 2023-07-17
 **Description:** *Rocket Lab Prepares to Launch Mix of NASA and Commercial Satellites, and Takes Next Step in Rocket Reusability Program*
 **Customer:** [[NASA]], [[UTIAS Space Flight Laboratory]], [[Spire Global]]
-**Mission:** [[039 'Baby Come Back' - Electron]]
+**Mission:** [[039 'Baby Come Back']]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-prepares-mix-of-nasa-and-commercial-satellites-and-takes-next-step-in-rocket-reusability-program-new-blog-post/
 

@@ -12,46 +12,29 @@ BlackSky is a **U.S.-based geospatial intelligence company** that specializes in
 
 ## 🚀 Launches
 
-### <span style="color:limegreen">Successful Launches</span>
-
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date
+table location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
-where contains(customer, [[BlackSky]]) and outcome = "Success"
+where contains(customer, [[BlackSky]])
 sort launch_date desc
 ```
 %%
 
-| File                                                                                                      | launch_date              |
-| --------------------------------------------------------------------------------------------------------- | ------------------------ |
-| [[Launch/Launches/060 'Fasten Your Space Belts' - Electron.md\|060 'Fasten Your Space Belts' - Electron]] | 2025-02-19 12:17 pm NZDT |
-| [[Launch/Launches/035 'The Beat Goes On' - Electron.md\|035 'The Beat Goes On' - Electron]]               | 2023-03-24 09:14         |
-| [[Launch/Launches/025 'Without Mission A Beat' - Electron.md\|025 'Without Mission A Beat' - Electron]]   | 2022-04-02 12:41         |
-| [[Launch/Launches/023 'A Data With Destiny' - Electron.md\|023 'A Data With Destiny' - Electron]]         | 2021-12-09 00:02         |
-| [[Launch/Launches/022 'Love At First Insight' - Electron.md\|022 'Love At First Insight' - Electron]]     | 2021-11-18 01:38         |
-| [[Launch/Launches/019 'They Go Up So Fast' - Electron.md\|019 'They Go Up So Fast' - Electron]]           | 2021-03-22 22:30         |
-| [[Launch/Launches/008 'Look Ma, No Hands' - Electron.md\|008 'Look Ma, No Hands' - Electron]]             | 2019-08-19 12:12         |
-| [[Launch/Launches/007 'Make it Rain' - Electron.md\|007 'Make it Rain' - Electron]]                       | 2019-06-29 04:30         |
+| File                                                                                | Location                                              | Vehicle                          | Orbit & Mass                        | Outcome   |
+| ----------------------------------------------------------------------------------- | ----------------------------------------------------- | -------------------------------- | ----------------------------------- | --------- |
+| [[Launch/Launches/060 'Fasten Your Space Belts'.md\|060 'Fasten Your Space Belts']] | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 470km \| 138 kg                     | ✅ Success |
+| [[Launch/Launches/035 'The Beat Goes On'.md\|035 'The Beat Goes On']]               | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 450 km \| 42° \| 120 kg             | ✅ Success |
+| [[Launch/Launches/025 'Without Mission A Beat'.md\|025 'Without Mission A Beat']]   | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 430 km \| 53° \| 120 kg             | ✅ Success |
+| [[Launch/Launches/023 'A Data With Destiny'.md\|023 'A Data With Destiny']]         | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 430 km \| 42° \| 120 kg             | ✅ Success |
+| [[Launch/Launches/022 'Love At First Insight'.md\|022 'Love At First Insight']]     | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 430 km \| 42° \| 120 kg             | ✅ Success |
+| [[Launch/Launches/020 'Running Out Of Toes'.md\|020 'Running Out Of Toes']]         | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 430 km \| 50° \| 120 kg             | ❌ Failure |
+| [[Launch/Launches/019 'They Go Up So Fast'.md\|019 'They Go Up So Fast']]           | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 450 km and 550 km \| 45° \| Unknown | ✅ Success |
+| [[Launch/Launches/008 'Look Ma, No Hands'.md\|008 'Look Ma, No Hands']]             | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 510 km \| 94.8° \| 80 kg            | ✅ Success |
+| [[Launch/Launches/007 'Make it Rain'.md\|007 'Make it Rain']]                       | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 450 km \| 45° \| 80 kg              | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end %%
 
-### <span style="color:orangered">Failed Launches</span>
-
-%%DATAVIEW_PUBLISHER: start
-```
-table launch_date
-from "Launch/Launches"
-where contains(customer, [[BlackSky]]) and outcome = "Failure"
-sort launch_date desc
-```
-%%
-
-| File                                                                                              | launch_date      |
-| ------------------------------------------------------------------------------------------------- | ---------------- |
-| [[Launch/Launches/020 'Running Out Of Toes' - Electron.md\|020 'Running Out Of Toes' - Electron]] | 2021-05-15 11:11 |
-
-%%DATAVIEW_PUBLISHER: end %%
 ## 🛰️ Space Systems
 
 ### BlackSky Gen-2

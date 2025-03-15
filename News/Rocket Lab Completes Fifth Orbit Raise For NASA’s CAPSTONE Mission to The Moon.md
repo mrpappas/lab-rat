@@ -1,20 +1,19 @@
 ---
-
 title: "Rocket Lab Completes Fifth Orbit Raise For NASA’s CAPSTONE Mission to The Moon  "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-completes-fifth-orbit-raise-for-nasas-capstone-mission-to-the-moon/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-completes-fifth-orbit-raise-for-nasas-capstone-mission-to-the-moon/
 author:
   - "[[Rocket Lab]]"
 published: 2022-06-30
 description: "*Long Beach, California. June 30, 2022 –* Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, today confirmed its Photon Lunar spacecraft successfully ignited its HyperCurie engine for a fifth time, further carrying NASA’s CAPSTONE satellite toward the Moon."
 customer:
- - "[[NASA]]"
- - "[[Advanced Space]]"
+  - "[[NASA]]"
+  - "[[Advanced Space]]"
 mission:
- - "[[027 'CAPSTONE' - Electron]]"
-insider:
-tags: 
- - space-systems
- - electron
+  - "[[027 'CAPSTONE']]"
+insider: 
+tags:
+  - space-systems
+  - electron
 ---
 >[!summary]
 #space-systems #electron
@@ -24,7 +23,7 @@ tags:
 **Published:** 2022-06-30
 **Description:** *Long Beach, California. June 30, 2022 –* Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, today confirmed its Photon Lunar spacecraft successfully ignited its HyperCurie engine for a fifth time, further carrying NASA’s CAPSTONE satellite toward the Moon.
 **Customer:** [[NASA]], [[Advanced Space]]
-**Mission:** [[027 'CAPSTONE' - Electron]]
+**Mission:** [[027 'CAPSTONE']]
 **Insider:** None
 
 **Long Beach, California. June 30, 2022 –** Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, today confirmed its Photon Lunar spacecraft successfully ignited its HyperCurie engine for a fifth time, further carrying NASA’s CAPSTONE satellite toward the Moon.

@@ -1,20 +1,19 @@
 ---
-
 title: "Rocket Lab Moon Mission for NASA a Success "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-moon-mission-for-nasa-a-success/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-moon-mission-for-nasa-a-success/
 author:
   - "[[Rocket Lab]]"
 published: 2022-07-04
-description: "Rocket Lab successfully deploys CAPSTONE satellite to lunar transfer orbit for NASA, charting a new path to the Moon. CAPSTONE is testing a never-before-flown orbit of the Moon and is the first mission of NASA’s Artemis program"
-customer: 
- - "[[NASA]]"
- - "[[Advanced Space]]"
-mission: 
- - "[[027 'CAPSTONE' - Electron]]"
-insider:
+description: Rocket Lab successfully deploys CAPSTONE satellite to lunar transfer orbit for NASA, charting a new path to the Moon. CAPSTONE is testing a never-before-flown orbit of the Moon and is the first mission of NASA’s Artemis program
+customer:
+  - "[[NASA]]"
+  - "[[Advanced Space]]"
+mission:
+  - "[[027 'CAPSTONE']]"
+insider: 
 tags:
- - space-systems
- - launch
+  - space-systems
+  - launch
 ---
 >[!summary]
 #space-systems #launch
@@ -24,7 +23,7 @@ tags:
 **Published:** 2022-07-04
 **Description:** Rocket Lab successfully deploys CAPSTONE satellite to lunar transfer orbit for NASA, charting a new path to the Moon. CAPSTONE is testing a never-before-flown orbit of the Moon and is the first mission of NASA’s Artemis program
 **Customer:** [[NASA]], [[Advanced Space]]
-**Mission:** [[027 'CAPSTONE' - Electron]]
+**Mission:** [[027 'CAPSTONE']]
 **Insider:** None
 
 *Rocket Lab successfully deploys CAPSTONE satellite to lunar transfer orbit for NASA, charting a new path to the Moon. CAPSTONE is testing a never-before-flown orbit of the Moon and is the first mission of NASA’s Artemis program*

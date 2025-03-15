@@ -1,16 +1,15 @@
 ---
-
 title: "Rocket Lab Sets Date for Second NASA TROPICS Launch to Deploy Storm Monitoring Constellation  "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-sets-date-for-second-nasa-tropics-launch-to-deploy-storm-monitoring-constellation/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-sets-date-for-second-nasa-tropics-launch-to-deploy-storm-monitoring-constellation/
 author:
   - "[[Rocket Lab]]"
 published: 2023-05-15
 description: "*Rocket Lab is preparing to launch the second half of NASA’s TROPICS satellite constellation as early as May 22, just two weeks after successfully completing the first launch*"
 customer: "[[NASA]]"
-mission: "[[037 'Coming To A Storm Near You' - Electron]]"
+mission: "[[037 'Coming To A Storm Near You']]"
 tags:
-  - "launch"
-  - "electron"
+  - launch
+  - electron
 ---
 >[!summary]
 #launch #electron
@@ -20,7 +19,7 @@ tags:
 **Published:** 2023-05-15
 **Description:** *Rocket Lab is preparing to launch the second half of NASA’s TROPICS satellite constellation as early as May 22, just two weeks after successfully completing the first launch*
 **Customer:** [[NASA]]
-**Mission:** [[037 'Coming To A Storm Near You' - Electron]]
+**Mission:** [[037 'Coming To A Storm Near You']]
 
 ***Rocket Lab is preparing to launch the second half of NASA’s TROPICS satellite constellation as early as May 22, just two weeks after successfully completing the first launch***
 

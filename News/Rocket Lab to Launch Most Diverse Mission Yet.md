@@ -1,7 +1,6 @@
 ---
-
 title: "Rocket Lab to Launch Most Diverse Mission Yet "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-to-launch-most-diverse-mission-yet/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-to-launch-most-diverse-mission-yet/
 author:
   - "[[Rocket Lab]]"
 published: 2020-11-02
@@ -13,10 +12,10 @@ Customer:
   - "[[The University of Auckland]]"
   - "[[Valve]]"
 mission:
- - "[[016 'Return to Sender' - Electron]]"
+  - "[[016 'Return to Sender']]"
 tags:
- - electron
- - launch
+  - electron
+  - launch
 ---
 >[!summary]
 #electron #launch
@@ -26,7 +25,7 @@ tags:
 **Published:** 2020-11-02
 **Description:** *Rocket Lab to Launch Most Diverse Mission Yet *
 **Customer:** [[Trisept]], [[Unseenlabs]], [[Swarm]], [[The University of Auckland]], [[Valve]]
-**Mission:** [[016 'Return to Sender' - Electron]]
+**Mission:** [[016 'Return to Sender']]
 
 **Rocket Lab to Launch Most Diverse Mission Yet** 
 

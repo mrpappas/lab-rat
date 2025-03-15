@@ -1,24 +1,23 @@
 ---
-
 title: "Rocket Lab Successfully Deploys 34 Satellites and Catches Rocket Booster Returning from Space with Helicopter "
-source: "https://www.rocketlabusa.com/updates/new-blog-post-8/"
+source: https://www.rocketlabusa.com/updates/new-blog-post-8/
 author:
   - "[[Rocket Lab]]"
 published: 2022-05-02
 description: "*Long Beach, Calif. May 2, 2022:* Rocket Lab (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, has successfully launched its 26th Electron mission, deploying 34 satellites to orbit. Rocket Lab has now deployed a total of 146 satellites to orbit with the Electron launch vehicle."
-Customer: 
-- "[[Alba Orbital]]"
-- "[[Astrix Astronautics]]"
-- "[[Aurora Propulsion Technologies]]"
-- "[[E-Space]]"
-- "[[Spaceflight]]"
-- "[[Unseenlabs]]"
+Customer:
+  - "[[Alba Orbital]]"
+  - "[[Astrix Astronautics]]"
+  - "[[Aurora Propulsion Technologies]]"
+  - "[[E-Space]]"
+  - "[[Spaceflight]]"
+  - "[[Unseenlabs]]"
 mission:
- - "[[026 'There And Back Again' - Electron]]"
+  - "[[026 'There And Back Again']]"
 tags:
- - electron
- - launch
- - reusability
+  - electron
+  - launch
+  - reusability
 ---
 >[!summary]
 #electron #launch #reusability
@@ -28,7 +27,7 @@ tags:
 **Published:** 2022-05-02
 **Description:** *Long Beach, Calif. May 2, 2022:* Rocket Lab (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, has successfully launched its 26th Electron mission, deploying 34 satellites to orbit. Rocket Lab has now deployed a total of 146 satellites to orbit with the Electron launch vehicle.
 **Customer:** [[Alba Orbital]], [[Astrix Astronautics]], [[Aurora Propulsion Technologies]], [[E-Space]], [[Spaceflight]], [[Unseenlabs]]
-**Mission:** [[026 'There And Back Again' - Electron]]
+**Mission:** [[026 'There And Back Again']]
 
 **Long Beach, Calif. May 2, 2022:** Rocket Lab (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, has successfully launched its 26th Electron mission, deploying 34 satellites to orbit. Rocket Lab has now deployed a total of 146 satellites to orbit with the Electron launch vehicle.
 

@@ -1,16 +1,15 @@
 ---
-
 title: "Rocket Lab Successfully Launches First Electron Mission from U.S. Soil "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-first-electron-mission-from-u-s-soil/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-first-electron-mission-from-u-s-soil/
 author:
   - "[[Rocket Lab]]"
 published: 2023-01-24
 description: "*Rocket Lab Successfully Launches First U.S. Electron Mission*"
 customer: "[[HawkEye 360]]"
-mission: "[[033 'Virginia is for Launch Lovers' - Electron]]"
+mission: "[[033 'Virginia is for Launch Lovers']]"
 tags:
-  - "launch"
-  - "electron"
+  - launch
+  - electron
 ---
 >[!summary]
 #launch #electron
@@ -20,7 +19,7 @@ tags:
 **Published:** 2023-01-24
 **Description:** *Rocket Lab Successfully Launches First U.S. Electron Mission*
 **Customer:** [[HawkEye 360]]
-**Mission:** [[033 'Virginia is for Launch Lovers' - Electron]]
+**Mission:** [[033 'Virginia is for Launch Lovers']]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-first-electron-mission-from-u-s-soil/
 

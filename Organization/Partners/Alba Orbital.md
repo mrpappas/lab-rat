@@ -15,17 +15,17 @@ Alba Orbital is a Scottish aerospace company specializing in the development and
 
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date
+table location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
-where contains(customer, [[Alba Orbital]]) and outcome = "Success"
+where contains(customer, [[Alba Orbital]])
 sort launch_date desc
 ```
 %%
 
-| File                                                                                                    | launch_date      |
-| ------------------------------------------------------------------------------------------------------- | ---------------- |
-| [[Launch/Launches/026 'There And Back Again' - Electron.md\|026 'There And Back Again' - Electron]]     | 2022-05-02 22:49 |
-| [[Launch/Launches/010 'Running Out Of Fingers' - Electron.md\|010 'Running Out Of Fingers' - Electron]] | 2019-12-06 08:18 |
+| File                                                                              | Location                                              | Vehicle                          | Orbit & Mass                 | Outcome   |
+| --------------------------------------------------------------------------------- | ----------------------------------------------------- | -------------------------------- | ---------------------------- | --------- |
+| [[Launch/Launches/026 'There And Back Again'.md\|026 'There And Back Again']]     | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 520 km \| 94° \| Unknown     | ✅ Success |
+| [[Launch/Launches/010 'Running Out Of Fingers'.md\|010 'Running Out Of Fingers']] | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 385 x 400 km \| 97° \| 77 kg | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end %%
 ## 📰 News

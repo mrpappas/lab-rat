@@ -17,18 +17,18 @@ website: https://unseenlabs.space/
 
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date
+table location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
-where contains(customer, [[Unseenlabs]]) and outcome = "Success"
+where contains(customer, [[Unseenlabs]])
 sort launch_date desc
 ```
 %%
 
-| File                                                                                                | launch_date      |
-| --------------------------------------------------------------------------------------------------- | ---------------- |
-| [[Launch/Launches/026 'There And Back Again' - Electron.md\|026 'There And Back Again' - Electron]] | 2022-05-02 22:49 |
-| [[Launch/Launches/016 'Return to Sender' - Electron.md\|016 'Return to Sender' - Electron]]         | 2020-11-20 02:20 |
-| [[Launch/Launches/008 'Look Ma, No Hands' - Electron.md\|008 'Look Ma, No Hands' - Electron]]       | 2019-08-19 12:12 |
+| File                                                                          | Location                                              | Vehicle                          | Orbit & Mass              | Outcome   |
+| ----------------------------------------------------------------------------- | ----------------------------------------------------- | -------------------------------- | ------------------------- | --------- |
+| [[Launch/Launches/026 'There And Back Again'.md\|026 'There And Back Again']] | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 520 km \| 94° \| Unknown  | ✅ Success |
+| [[Launch/Launches/016 'Return to Sender'.md\|016 'Return to Sender']]         | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 500 km \| 97.3° \| 200 kg | ✅ Success |
+| [[Launch/Launches/008 'Look Ma, No Hands'.md\|008 'Look Ma, No Hands']]       | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 510 km \| 94.8° \| 80 kg  | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end %%
 

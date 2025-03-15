@@ -1,19 +1,18 @@
 ---
-
 title: "Rocket Lab Debuts Fully Autonomous Flight Termination System  "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-debuts-fully-autonomous-flight-termination-system/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-debuts-fully-autonomous-flight-termination-system/
 author:
   - "[[Rocket Lab]]"
 published: 2019-12-09
 description: "*Rocket Lab demonstrated the system on the company’s recent 10th Electron launch in a move that will enable a higher launch cadence and deliver responsive launch capability*"
-customer: 
-- "[[Alba Orbital]]"
-- "[[Spaceflight]]"
-- "[[ALE]]"
+customer:
+  - "[[Alba Orbital]]"
+  - "[[Spaceflight]]"
+  - "[[ALE]]"
 mission:
- - "[[010 'Running Out Of Fingers' - Electron]]"
+  - "[[010 'Running Out Of Fingers']]"
 tags:
- - electron
+  - electron
 ---
 >[!summary]
 #electron
@@ -23,7 +22,7 @@ tags:
 **Published:** 2019-12-09
 **Description:** *Rocket Lab demonstrated the system on the company’s recent 10th Electron launch in a move that will enable a higher launch cadence and deliver responsive launch capability*
 **Customer:** [[Alba Orbital]], [[Spaceflight]], [[ALE]]
-**Mission:** [[010 'Running Out Of Fingers' - Electron]]
+**Mission:** [[010 'Running Out Of Fingers']]
 
 ***Rocket Lab demonstrated the system on the company’s recent 10th Electron launch in a move that will enable a higher launch cadence and deliver responsive launch capability*** 
 

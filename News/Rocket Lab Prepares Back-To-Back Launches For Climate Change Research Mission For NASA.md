@@ -1,18 +1,17 @@
 ---
-
 title: "Rocket Lab Prepares Back-To-Back Launches For Climate Change Research Mission For NASA   "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-prepares-back-to-back-launches-for-climate-change-research-mission-for-nasa/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-prepares-back-to-back-launches-for-climate-change-research-mission-for-nasa/
 author:
   - "[[Rocket Lab]]"
 published: 2024-04-29
-description: "NASA’s PREFIRE mission requires two satellites to be deployed to precise orbits one after the other, demonstrating Electron’s highly responsive launch capability."
+description: NASA’s PREFIRE mission requires two satellites to be deployed to precise orbits one after the other, demonstrating Electron’s highly responsive launch capability.
 customer: "[[NASA]]"
 mission:
- - "[[048 'Ready, Aim, Prefire' - Electron]]"
- - "[[049 'PREFIRE and ICE' - Electron]]"
+  - "[[048 'Ready, Aim, Prefire']]"
+  - "[[049 'PREFIRE and ICE']]"
 tags:
-  - "launch"
-  - "electron"
+  - launch
+  - electron
 ---
 >[!summary]
 #launch #electron
@@ -22,7 +21,7 @@ tags:
 **Published:** 2024-04-29
 **Description:** NASA’s PREFIRE mission requires two satellites to be deployed to precise orbits one after the other, demonstrating Electron’s highly responsive launch capability.
 **Customer:** [[NASA]]
-**Mission:** [[048 'Ready, Aim, Prefire' - Electron]], [[049 'PREFIRE and ICE' - Electron]]
+**Mission:** [[048 'Ready, Aim, Prefire']], [[049 'PREFIRE and ICE']]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-prepares-back-to-back-launches-for-climate-change-research-mission-for-nasa/
 

@@ -1,18 +1,17 @@
 ---
-
 title: "Rocket Lab to Recover Electron Booster on Next Mission "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-to-recover-electron-booster-on-next-mission/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-to-recover-electron-booster-on-next-mission/
 author:
   - "[[Rocket Lab]]"
 published: 2021-04-08
 description: "*Bringing a Rocket Back from Space: Rocket Lab to Recover Electron Booster on Next Mission *"
 customer:
- - "[[BlackSky]]"
+  - "[[BlackSky]]"
 mission:
- - "[[020 'Running Out Of Toes' - Electron]]"
+  - "[[020 'Running Out Of Toes']]"
 tags:
- - electron
- - launch
+  - electron
+  - launch
 ---
 >[!summary]
 #electron #launch
@@ -22,7 +21,7 @@ tags:
 **Published:** 2021-04-08
 **Description:** *Bringing a Rocket Back from Space: Rocket Lab to Recover Electron Booster on Next Mission *
 **Customer:** [[BlackSky]]
-**Mission:** [[020 'Running Out Of Toes' - Electron]]
+**Mission:** [[020 'Running Out Of Toes']]
 
 **Bringing a Rocket Back from Space: Rocket Lab to Recover Electron Booster on Next Mission** 
 

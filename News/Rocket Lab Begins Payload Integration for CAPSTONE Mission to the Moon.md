@@ -1,20 +1,19 @@
 ---
-
 title: "Rocket Lab Begins Payload Integration for CAPSTONE Mission to the Moon "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-begins-payload-integration-for-capstone-mission-to-the-moon/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-begins-payload-integration-for-capstone-mission-to-the-moon/
 author:
   - "[[Rocket Lab]]"
 published: 2022-05-16
 description: "*Rocket Lab Begins Payload Integration for CAPSTONE Mission to the Moon*"
 customer:
- - "[[NASA]]"
- - "[[Advanced Space]]"
+  - "[[NASA]]"
+  - "[[Advanced Space]]"
 mission:
- - "[[027 'CAPSTONE' - Electron]]"
-insider:
+  - "[[027 'CAPSTONE']]"
+insider: 
 tags:
- - space-systems
- - electron
+  - space-systems
+  - electron
 ---
 >[!summary]
 #space-systems #electron
@@ -24,7 +23,7 @@ tags:
 **Published:** 2022-05-16
 **Description:** *Rocket Lab Begins Payload Integration for CAPSTONE Mission to the Moon*
 **Customer:** [[NASA]], [[Advanced Space]]
-**Mission:** [[027 'CAPSTONE' - Electron]]
+**Mission:** [[027 'CAPSTONE']]
 **Insider:** None
 
 Rocket Lab Begins Payload Integration for CAPSTONE Mission to the Moon

@@ -1,6 +1,5 @@
 ---
-
-title: Rocket Lab Successfully Deploys NRO Satellite On 11th Electron Mission 
+title: Rocket Lab Successfully Deploys NRO Satellite On 11th Electron Mission
 source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-deploys-nro-satellite-on-11th-electron-mission/
 author:
   - "[[Rocket Lab]]"
@@ -9,10 +8,10 @@ description: Mahia Peninsula, 31 January 2020 -* *Rocket Lab, a space technology
 customer:
   - "[[National Reconnaissance Office (NRO)]]"
 mission:
-  - "[[011 'Birds of a Feather' - Electron]]"
+  - "[[011 'Birds of a Feather']]"
 tags:
- - electron
- - launch
+  - electron
+  - launch
 ---
 >[!summary]
 #electron #launch
@@ -22,7 +21,7 @@ tags:
 **Published:** 2020-01-31
 **Description:** Mahia Peninsula, 31 January 2020 -* *Rocket Lab, a space technology company and global leader in dedicated small satellite launch, has successfully deployed a payload to orbit for the National Reconnaissance Office (NRO) in the company’s 11th Electron mission.
 **Customer:** [[National Reconnaissance Office (NRO)]]
-**Mission:** [[011 'Birds of a Feather' - Electron]]
+**Mission:** [[011 'Birds of a Feather']]
 
 Mahia Peninsula, 31 January 2020 - Rocket Lab, a space technology company and global leader in dedicated small satellite launch, has successfully deployed a payload to orbit for the [[National Reconnaissance Office (NRO)]] in the company’s 11<sup>th</sup> Electron mission.
 

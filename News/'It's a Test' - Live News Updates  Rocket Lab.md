@@ -1,17 +1,16 @@
 ---
-
 title: "'It's a Test' - Live News Updates "
-source: "https://www.rocketlabusa.com/updates/its-a-test-live-news-updates-3/"
+source: https://www.rocketlabusa.com/updates/its-a-test-live-news-updates-3/
 author:
   - "[[Rocket Lab]]"
 published: 2017-08-24
 description: "*Rocket Lab Testing Update ― 24 May 2017*"
 customer: n/a
 mission:
- - "[[001 'It's a Test' - Electron]]"
+  - "[[001 'It's a Test']]"
 tags:
- - electron
- - launch
+  - electron
+  - launch
 ---
 >[!summary]
 #electron #launch
@@ -21,7 +20,7 @@ tags:
 **Published:** 2017-08-24
 **Description:** *Rocket Lab Testing Update ― 24 May 2017*
 **Customer:** n/a
-**Mission:** [[001 'It's a Test' - Electron]]
+**Mission:** [[001 'It's a Test']]
 
 **Rocket Lab Testing Update ― 24 May 2017**
 

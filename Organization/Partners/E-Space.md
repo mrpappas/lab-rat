@@ -14,17 +14,17 @@ E-Space is a low Earth orbit ([[🌍 Orbits#LEO|LEO]]) satellite communications 
 
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date
+table location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
-where contains(customer, [[E-Space]]) and outcome = "Success"
+where contains(customer, [[E-Space]])
 sort launch_date desc
 ```
 %%
 
-| File                                                                                                                                            | launch_date      |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
-| [[Launch/Launches/054 'Changes In Latitudes, Changes In Attitudes' - Electron.md\|054 'Changes In Latitudes, Changes In Attitudes' - Electron]] | 2024-11-05 10:54 |
-| [[Launch/Launches/026 'There And Back Again' - Electron.md\|026 'There And Back Again' - Electron]]                                             | 2022-05-02 22:49 |
+| File                                                                                                                      | Location                                              | Vehicle                          | Orbit & Mass             | Outcome   |
+| ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | -------------------------------- | ------------------------ | --------- |
+| [[Launch/Launches/054 'Changes In Latitudes, Changes In Attitudes'.md\|054 'Changes In Latitudes, Changes In Attitudes']] | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | Classified \| Classified | ✅ Success |
+| [[Launch/Launches/026 'There And Back Again'.md\|026 'There And Back Again']]                                             | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 520 km \| 94° \| Unknown | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end %%
 
@@ -50,4 +50,4 @@ sort published desc
 
 ## ✏️ Notes
 
-- [[054 'Changes In Latitudes, Changes In Attitudes' - Electron]] Rocket Lab did not publicly disclose the customer but New Zealand government filings indicated E-Space was likely the customer. [Source](https://x.com/SpaceEquities/status/1846992995419333052)
+- [[054 'Changes In Latitudes, Changes In Attitudes']] Rocket Lab did not publicly disclose the customer but New Zealand government filings indicated E-Space was likely the customer. [Source](https://x.com/SpaceEquities/status/1846992995419333052)

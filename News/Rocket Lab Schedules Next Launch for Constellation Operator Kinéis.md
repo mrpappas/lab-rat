@@ -1,16 +1,15 @@
 ---
-
 title: "Rocket Lab Schedules Next Launch for Constellation Operator Kinéis "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-schedules-next-launch-for-constellation-operator-kineis/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-schedules-next-launch-for-constellation-operator-kineis/
 author:
   - "[[Rocket Lab]]"
 published: 2024-11-12
 description: "*The mission will be the third of five dedicated Electron launches booked by the French Internet-of-Things constellation operator*"
 customer: "[[Kinéis]]"
-mission: "[[056 'Ice AIS Baby' - Electron]]"
+mission: "[[056 'Ice AIS Baby']]"
 tags:
-  - "launch"
-  - "electron"
+  - launch
+  - electron
 ---
 >[!summary]
 #launch #electron
@@ -20,7 +19,7 @@ tags:
 **Published:** 2024-11-12
 **Description:** *The mission will be the third of five dedicated Electron launches booked by the French Internet-of-Things constellation operator*
 **Customer:** [[Kinéis]]
-**Mission:** [[056 'Ice AIS Baby' - Electron]]
+**Mission:** [[056 'Ice AIS Baby']]
 
 **Source**: https://www.rocketlabusa.com/updates/rocket-lab-schedules-next-launch-for-constellation-operator-kineis/
 

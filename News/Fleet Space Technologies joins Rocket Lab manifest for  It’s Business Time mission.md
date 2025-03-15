@@ -1,7 +1,6 @@
 ---
-
 title: "Fleet Space Technologies joins Rocket Lab manifest for  It’s Business Time mission  "
-source: "https://www.rocketlabusa.com/updates/fleet-space-technologies-joins-rocket-lab-manifest-for-its-business-time-mission/"
+source: https://www.rocketlabusa.com/updates/fleet-space-technologies-joins-rocket-lab-manifest-for-its-business-time-mission/
 author:
   - "[[Rocket Lab]]"
 published: 2018-10-29
@@ -9,9 +8,9 @@ description: "*Fleet’s two ‘Proxima’ satellites are the first scheduled la
 customer:
   - "[[Fleet Space]]"
 mission:
- - "[[003 'It's Business Time' - Electron]]"
+  - "[[003 'It's Business Time']]"
 tags:
- - electron
+  - electron
 ---
 >[!summary]
 #electron
@@ -21,7 +20,7 @@ tags:
 **Published:** 2018-10-29
 **Description:** *Fleet’s two ‘Proxima’ satellites are the first scheduled launch of commercial CubeSats from an Australian company*
 **Customer:** [[Fleet Space]]
-**Mission:** [[003 'It's Business Time' - Electron]]
+**Mission:** [[003 'It's Business Time']]
 
 **Fleet’s two ‘Proxima’ satellites are the first scheduled launch of commercial CubeSats from an Australian company**
 

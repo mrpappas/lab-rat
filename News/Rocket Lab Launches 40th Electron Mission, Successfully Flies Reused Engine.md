@@ -1,17 +1,16 @@
 ---
-
 title: "Rocket Lab Launches 40th Electron Mission, Successfully Flies Reused Engine "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-launches-40th-electron-mission-successfully-flies-reused-engine/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-launches-40th-electron-mission-successfully-flies-reused-engine/
 author:
   - "[[Rocket Lab]]"
 published: 2023-08-24
 description: "*Rocket Lab Launches 40th Electron Mission, Successfully Flies Reused Engine*"
 customer: "[[Capella Space]]"
-mission: "[[040 'We Love The Nightlife' - Electron]]"
+mission: "[[040 'We Love The Nightlife']]"
 tags:
-  - "launch"
-  - "electron"
-  - "rutherford"
+  - launch
+  - electron
+  - rutherford
 ---
 >[!summary]
 #launch #electron #rutherford
@@ -21,7 +20,7 @@ tags:
 **Published:** 2023-08-24
 **Description:** *Rocket Lab Launches 40th Electron Mission, Successfully Flies Reused Engine*
 **Customer:** [[Capella Space]]
-**Mission:** [[040 'We Love The Nightlife' - Electron]]
+**Mission:** [[040 'We Love The Nightlife']]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-launches-40th-electron-mission-successfully-flies-reused-engine/
 

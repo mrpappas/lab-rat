@@ -1,18 +1,17 @@
 ---
-
 title: "NASA Selects Rocket Lab to Launch TROPICS Mission "
-source: "https://www.rocketlabusa.com/updates/nasa-selects-rocket-lab-to-launch-tropics-mission/"
+source: https://www.rocketlabusa.com/updates/nasa-selects-rocket-lab-to-launch-tropics-mission/
 author:
   - "[[Rocket Lab]]"
 published: 2022-11-23
 description: "Long Beach, California. November. 23, 2022 – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, today announced it has been selected by NASA to launch the Time-Resolved Observations of Precipitation Structure and Storm Intensity with a Constellation of Smallsats (TROPICS[https://weather.msfc.nasa.gov/tropics/]) mission, as part of the agency's Venture-class Acquisition of Dedicated and Rideshare (VADR) launch services contract."
 customer: "[[NASA]]"
 mission:
- - "[[036 'Rocket Like A Hurricane' - Electron]]"
- - "[[037 'Coming To A Storm Near You' - Electron]]"
+  - "[[036 'Rocket Like A Hurricane']]"
+  - "[[037 'Coming To A Storm Near You']]"
 tags:
-  - "electron"
-  - "contract"
+  - electron
+  - contract
 ---
 >[!summary]
 #electron #contract
@@ -22,7 +21,7 @@ tags:
 **Published:** 2022-11-23
 **Description:** Long Beach, California. November. 23, 2022 – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, today announced it has been selected by NASA to launch the Time-Resolved Observations of Precipitation Structure and Storm Intensity with a Constellation of Smallsats (TROPICS[https://weather.msfc.nasa.gov/tropics/]) mission, as part of the agency's Venture-class Acquisition of Dedicated and Rideshare (VADR) launch services contract.
 **Customer:** [[NASA]]
-**Mission:** [[036 'Rocket Like A Hurricane' - Electron]], [[037 'Coming To A Storm Near You' - Electron]]
+**Mission:** [[036 'Rocket Like A Hurricane']], [[037 'Coming To A Storm Near You']]
 
 Source: https://www.rocketlabusa.com/updates/nasa-selects-rocket-lab-to-launch-tropics-mission/
 

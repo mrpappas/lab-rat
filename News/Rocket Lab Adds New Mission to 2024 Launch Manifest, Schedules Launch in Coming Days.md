@@ -1,16 +1,15 @@
 ---
-
 title: "Rocket Lab Adds New Mission to 2024 Launch Manifest, Schedules Launch in Coming Days "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-adds-new-mission-to-2024-launch-manifest-schedules-launch-in-coming-days/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-adds-new-mission-to-2024-launch-manifest-schedules-launch-in-coming-days/
 author:
   - "[[Rocket Lab]]"
 published: 2024-10-16
-description: "The introduction of this latest mission to Electron’s 2024 launch manifest, less than two months since the launch contract was signed, represents Rocket Lab’s fastest contract-to-launch turnaround ever."
+description: The introduction of this latest mission to Electron’s 2024 launch manifest, less than two months since the launch contract was signed, represents Rocket Lab’s fastest contract-to-launch turnaround ever.
 customer: "[[E-Space]]"
-mission: "[[054 'Changes In Latitudes, Changes In Attitudes' - Electron]]"
+mission: "[[054 'Changes In Latitudes, Changes In Attitudes']]"
 tags:
-  - "launch"
-  - "electron"
+  - launch
+  - electron
 ---
 >[!summary]
 #launch #electron
@@ -20,7 +19,7 @@ tags:
 **Published:** 2024-10-16
 **Description:** The introduction of this latest mission to Electron’s 2024 launch manifest, less than two months since the launch contract was signed, represents Rocket Lab’s fastest contract-to-launch turnaround ever.
 **Customer:** [[E-Space]]
-**Mission:** [[054 'Changes In Latitudes, Changes In Attitudes' - Electron]]
+**Mission:** [[054 'Changes In Latitudes, Changes In Attitudes']]
 
 **Source**: https://www.rocketlabusa.com/updates/rocket-lab-adds-new-mission-to-2024-launch-manifest-schedules-launch-in-coming-days/
 

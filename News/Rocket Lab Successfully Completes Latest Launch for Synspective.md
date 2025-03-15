@@ -1,16 +1,15 @@
 ---
-
 title: "Rocket Lab Successfully Completes Latest Launch for Synspective "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-completes-latest-launch-for-synspective/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-completes-latest-launch-for-synspective/
 author:
   - "[[Rocket Lab]]"
 published: 2024-08-03
-description: "The mission was the fifth of 16 Electron launches for Synspective to deploy a Synthetic Aperture Radar (SAR) satellite constellation."
+description: The mission was the fifth of 16 Electron launches for Synspective to deploy a Synthetic Aperture Radar (SAR) satellite constellation.
 customer: "[[Synspective]]"
-mission: "[[051 'Owl For One, One For Owl' - Electron]]"
+mission: "[[051 'Owl For One, One For Owl']]"
 tags:
-  - "launch"
-  - "electron"
+  - launch
+  - electron
 ---
 >[!summary]
 #launch #electron
@@ -20,7 +19,7 @@ tags:
 **Published:** 2024-08-03
 **Description:** The mission was the fifth of 16 Electron launches for Synspective to deploy a Synthetic Aperture Radar (SAR) satellite constellation.
 **Customer:** [[Synspective]]
-**Mission:** [[051 'Owl For One, One For Owl' - Electron]]
+**Mission:** [[051 'Owl For One, One For Owl']]
 
 **Source**: https://www.rocketlabusa.com/updates/rocket-lab-successfully-completes-latest-launch-for-synspective/
 

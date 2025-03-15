@@ -1,16 +1,15 @@
 ---
-
 title: "Rocket Lab Inks New Deal to Launch HASTE Mission from Virginia  "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-inks-new-deal-to-launch-haste-mission-from-virginia/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-inks-new-deal-to-launch-haste-mission-from-virginia/
 author:
   - "[[Rocket Lab]]"
 published: 2023-08-08
 description: "*The new contract signed just days after Rocket Lab successfully launched the inaugural HASTE suborbital mission, marking a new era of rapid hypersonic technology development opportunities*"
-customer:
-mission: "[[057 'Stonehenge' - HASTE]]"
+customer: 
+mission: "[[057 'Stonehenge']]"
 tags:
-  - "HASTE"
-  - "contract"
+  - HASTE
+  - contract
 ---
 >[!summary]
 #HASTE #contract
@@ -20,7 +19,7 @@ tags:
 **Published:** 2023-08-08
 **Description:** *The new contract signed just days after Rocket Lab successfully launched the inaugural HASTE suborbital mission, marking a new era of rapid hypersonic technology development opportunities*
 **Customer:** None
-**Mission:** [[057 'Stonehenge' - HASTE]]
+**Mission:** [[057 'Stonehenge']]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-inks-new-deal-to-launch-haste-mission-from-virginia/
 

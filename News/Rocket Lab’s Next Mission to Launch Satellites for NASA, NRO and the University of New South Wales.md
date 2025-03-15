@@ -1,21 +1,20 @@
 ---
-
 title: "Rocket Lab’s Next Mission to Launch Satellites for NASA, NRO and the University of New South Wales "
-source: "https://www.rocketlabusa.com/updates/media-release-rocket-labs-next-mission-to-launch-satellites-for-nasa-nro-and-the-university-of-new-south-wales/"
+source: https://www.rocketlabusa.com/updates/media-release-rocket-labs-next-mission-to-launch-satellites-for-nasa-nro-and-the-university-of-new-south-wales/
 author:
   - "[[Rocket Lab]]"
 published: 2020-03-09
 description: "*Rocket Lab’s Next Mission to Launch Satellites for NASA, NRO and the University of New South Wales*"
-customer: 
-- "[[Boston University]]"
-- "[[NASA]]"
-- "[[National Reconnaissance Office (NRO)]]"
-- "[[UNSW Canberra Space]]"
+customer:
+  - "[[Boston University]]"
+  - "[[NASA]]"
+  - "[[National Reconnaissance Office (NRO)]]"
+  - "[[UNSW Canberra Space]]"
 mission:
- - "[[012 'Don't Stop Me Now' - Electron]]"
+  - "[[012 'Don't Stop Me Now']]"
 tags:
- - electron
- - launch
+  - electron
+  - launch
 ---
 >[!summary]
 #electron #launch
@@ -25,7 +24,7 @@ tags:
 **Published:** 2020-03-09
 **Description:** *Rocket Lab’s Next Mission to Launch Satellites for NASA, NRO and the University of New South Wales*
 **Customer:** [[Boston University]], [[NASA]], [[National Reconnaissance Office (NRO)]], [[UNSW Canberra Space]]
-**Mission:** [[012 'Don't Stop Me Now' - Electron]]
+**Mission:** [[012 'Don't Stop Me Now']]
 
 **Rocket Lab’s Next Mission to Launch Satellites for NASA, NRO and the University of New South Wales**
 

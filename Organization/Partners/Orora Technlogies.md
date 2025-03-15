@@ -16,15 +16,15 @@ Website: https://ororatech.com/
 ## 🚀 Launches
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date
+table location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
-where contains(customer, [[Orora Technlogies]]) and outcome = "Success"
+where contains(customer, [[Orora Technlogies]])
 sort launch_date desc
 ```
 %%
 
-| File | launch_date |
-| ---- | ----------- |
+| File | Location | Vehicle | Orbit & Mass | Outcome |
+| ---- | -------- | ------- | ------------ | ------- |
 
 %%DATAVIEW_PUBLISHER: end %%
 

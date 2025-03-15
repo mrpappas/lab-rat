@@ -1,20 +1,19 @@
 ---
-
 title: "Rocket Lab’s Next Mission Focused On Building Constellations And Enabling R&D "
-source: "https://www.rocketlabusa.com/updates/rocket-labs-next-mission-focused-on-building-constellations-and-enabling-r-and-d/"
+source: https://www.rocketlabusa.com/updates/rocket-labs-next-mission-focused-on-building-constellations-and-enabling-r-and-d/
 author:
   - "[[Rocket Lab]]"
 published: 2019-07-22
 description: "*The rideshare mission will loft another Earth-imaging satellite for BlackSky’s constellation, a satellite for a new maritime tracking constellation, and two United States Air Force research satellites *"
-customer: 
-- "[[BlackSky]]"
-- "[[U.S. Air Force]]"
-- "[[Unseenlabs]]"
+customer:
+  - "[[BlackSky]]"
+  - "[[U.S. Air Force]]"
+  - "[[Unseenlabs]]"
 mission:
- - "[[008 'Look Ma, No Hands' - Electron]]"
+  - "[[008 'Look Ma, No Hands']]"
 tags:
- - electron
- - contract
+  - electron
+  - contract
 ---
 >[!summary]
 #electron #contract
@@ -24,7 +23,7 @@ tags:
 **Published:** 2019-07-22
 **Description:** *The rideshare mission will loft another Earth-imaging satellite for BlackSky’s constellation, a satellite for a new maritime tracking constellation, and two United States Air Force research satellites *
 **Customer:** [[BlackSky]], [[U.S. Air Force]], [[Unseenlabs]]
-**Mission:** [[008 'Look Ma, No Hands' - Electron]]
+**Mission:** [[008 'Look Ma, No Hands']]
 
 ***The rideshare mission will loft another Earth-imaging satellite for BlackSky’s constellation, a satellite for a new maritime tracking constellation, and two United States Air Force research satellites*** 
 

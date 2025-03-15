@@ -1,18 +1,17 @@
 ---
-
 title: "Rocket Lab Launches 109th Satellite to Orbit "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-launches-109th-satellite-to-orbit/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-launches-109th-satellite-to-orbit/
 author:
   - "[[Rocket Lab]]"
 published: 2021-12-09
 description: "*Mahia, New Zealand. December 09, 2021* – Rocket Lab USA, Inc (Nasdaq: RKLB[https://investors.rocketlabusa.com/]), a leading launch and space systems company, has successfully deployed two satellites to orbit for real-time geospatial intelligence company BlackSky (NYSE: BKSY[https://ir.blacksky.com/]), bringing the total number of satellites deployed by Rocket Lab to 109."
 customer:
- - "[[BlackSky]]"
+  - "[[BlackSky]]"
 mission:
- - "[[023 'A Data With Destiny' - Electron]]"
+  - "[[023 'A Data With Destiny']]"
 tags:
- - electron
- - launch
+  - electron
+  - launch
 ---
 >[!summary]
 #electron #launch
@@ -22,7 +21,7 @@ tags:
 **Published:** 2021-12-09
 **Description:** *Mahia, New Zealand. December 09, 2021* – Rocket Lab USA, Inc (Nasdaq: RKLB[https://investors.rocketlabusa.com/]), a leading launch and space systems company, has successfully deployed two satellites to orbit for real-time geospatial intelligence company BlackSky (NYSE: BKSY[https://ir.blacksky.com/]), bringing the total number of satellites deployed by Rocket Lab to 109.
 **Customer:** [[BlackSky]]
-**Mission:** [[023 'A Data With Destiny' - Electron]]
+**Mission:** [[023 'A Data With Destiny']]
 
 **Mahia, New Zealand. December 09,  2021** – Rocket Lab USA, Inc (Nasdaq: [RKLB](https://investors.rocketlabusa.com/)), a leading launch and space systems company, has successfully deployed two satellites to orbit for real-time geospatial intelligence company BlackSky (NYSE: [BKSY](https://ir.blacksky.com/)), bringing the total number of satellites deployed by Rocket Lab to 109.
 

@@ -1,16 +1,15 @@
 ---
-
 title: "Rocket Lab Reaches New Annual Launch Record with 10th Electron Mission This Year "
-source: "https://www.rocketlabusa.com/updates/new-blog-post-14/"
+source: https://www.rocketlabusa.com/updates/new-blog-post-14/
 author:
   - "[[Rocket Lab]]"
 published: 2023-12-15
 description: "*Rocket Lab Reaches New Annual Launch Record with 10th Electron Mission This Year*"
 customer: "[[iQPS]]"
-mission: "[[042 'The Moon God Awakens' - Electron]]"
+mission: "[[042 'The Moon God Awakens']]"
 tags:
-  - "launch"
-  - "electron"
+  - launch
+  - electron
 ---
 >[!summary]
 #launch #electron
@@ -20,7 +19,7 @@ tags:
 **Published:** 2023-12-15
 **Description:** *Rocket Lab Reaches New Annual Launch Record with 10th Electron Mission This Year*
 **Customer:** [[iQPS]]
-**Mission:** [[042 'The Moon God Awakens' - Electron]]
+**Mission:** [[042 'The Moon God Awakens']]
 
 Source: https://www.rocketlabusa.com/updates/new-blog-post-14/
 ### **Rocket Lab Reaches New Annual Launch Record with 10<sup>th</sup> Electron Mission This Year**

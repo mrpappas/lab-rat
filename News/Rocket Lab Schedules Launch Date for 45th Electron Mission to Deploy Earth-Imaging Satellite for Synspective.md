@@ -1,16 +1,15 @@
 ---
-
 title: "Rocket Lab Schedules Launch Date for 45th Electron Mission to Deploy Earth-Imaging Satellite for Synspective  "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-schedules-launch-date-for-45th-electron-mission-to-deploy-earth-imaging-satellite-for-synspective/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-schedules-launch-date-for-45th-electron-mission-to-deploy-earth-imaging-satellite-for-synspective/
 author:
   - "[[Rocket Lab]]"
 published: 2024-02-20
 description: "*Rocket Lab Schedules Launch Date for 45th Electron Mission to Deploy Earth-Imaging Satellite for Synspective*"
 customer: "[[Synspective]]"
-mission: "[[045 'Owl Night Long' - Electron]]"
+mission: "[[045 'Owl Night Long']]"
 tags:
-  - "launch"
-  - "electron"
+  - launch
+  - electron
 ---
 >[!summary]
 #launch #electron
@@ -20,7 +19,7 @@ tags:
 **Published:** 2024-02-20
 **Description:** *Rocket Lab Schedules Launch Date for 45th Electron Mission to Deploy Earth-Imaging Satellite for Synspective*
 **Customer:** [[Synspective]]
-**Mission:** [[045 'Owl Night Long' - Electron]]
+**Mission:** [[045 'Owl Night Long']]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-schedules-launch-date-for-45th-electron-mission-to-deploy-earth-imaging-satellite-for-synspective/
 

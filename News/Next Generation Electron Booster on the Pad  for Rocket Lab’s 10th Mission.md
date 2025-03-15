@@ -1,20 +1,19 @@
 ---
-
 title: "Next Generation Electron Booster on the Pad  for Rocket Lab’s 10th Mission "
-source: "https://www.rocketlabusa.com/updates/next-generation-electron-booster-on-the-pad-for-rocket-labs-10th-mission/"
+source: https://www.rocketlabusa.com/updates/next-generation-electron-booster-on-the-pad-for-rocket-labs-10th-mission/
 author:
   - "[[Rocket Lab]]"
 published: 2019-11-05
 description: "*Next Generation Electron Booster on the Pad for Rocket Lab’s 10th Mission*"
-customer: 
-- "[[Alba Orbital]]"
-- "[[Spaceflight]]"
-- "[[ALE]]"
+customer:
+  - "[[Alba Orbital]]"
+  - "[[Spaceflight]]"
+  - "[[ALE]]"
 mission:
- - "[[010 'Running Out Of Fingers' - Electron]]"
+  - "[[010 'Running Out Of Fingers']]"
 tags:
- - electron
- - launch
+  - electron
+  - launch
 ---
 >[!summary]
 #electron #launch
@@ -24,7 +23,7 @@ tags:
 **Published:** 2019-11-05
 **Description:** *Next Generation Electron Booster on the Pad for Rocket Lab’s 10th Mission*
 **Customer:** [[Alba Orbital]], [[Spaceflight]], [[ALE]]
-**Mission:** [[010 'Running Out Of Fingers' - Electron]]
+**Mission:** [[010 'Running Out Of Fingers']]
 
 **Next Generation Electron Booster on the Pad for Rocket Lab’s 10<sup>th</sup> Mission**
 

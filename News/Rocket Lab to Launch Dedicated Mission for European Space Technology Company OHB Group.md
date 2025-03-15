@@ -1,18 +1,17 @@
 ---
-
 title: "Rocket Lab to Launch Dedicated Mission for European Space Technology Company OHB Group "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-to-launch-dedicated-mission-for-european-space-technology-company-ohb-group/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-to-launch-dedicated-mission-for-european-space-technology-company-ohb-group/
 author:
   - "[[Rocket Lab]]"
 published: 2020-08-25
 description: "*Rocket Lab to Launch Dedicated Mission for European Space Technology Company OHB Group*"
 customer:
- - "[[OHB Group]]"
+  - "[[OHB Group]]"
 mission:
- - "[[018 'Another One Leaves the Crust' - Electron]]"
+  - "[[018 'Another One Leaves the Crust']]"
 tags:
- - electron
- - contract
+  - electron
+  - contract
 ---
 >[!summary]
 #electron #contract
@@ -22,7 +21,7 @@ tags:
 **Published:** 2020-08-25
 **Description:** *Rocket Lab to Launch Dedicated Mission for European Space Technology Company OHB Group*
 **Customer:** [[OHB Group]]
-**Mission:** [[018 'Another One Leaves the Crust' - Electron]]
+**Mission:** [[018 'Another One Leaves the Crust']]
 
 **Rocket Lab to Launch Dedicated Mission for European Space Technology Company OHB Group**
 

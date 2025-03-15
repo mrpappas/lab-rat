@@ -1,18 +1,17 @@
 ---
-
 title: "Space Flight Laboratory Selects Rocket Lab to Launch Telesat Broadband Satellite "
-source: "https://www.rocketlabusa.com/updates/space-flight-laboratory-selects-rocket-lab-to-launch-telesat-broadband-satellite/"
+source: https://www.rocketlabusa.com/updates/space-flight-laboratory-selects-rocket-lab-to-launch-telesat-broadband-satellite/
 author:
   - "[[Rocket Lab]]"
 published: 2023-05-31
 description: "*Long Beach, California. May 31, 2023* – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced it has signed a deal to launch the LEO 3 satellite for global satellite operator Telesat[https://www.telesat.com/] (Nasdaq and TSX: TSAT) on an Electron mission scheduled for Q3, 2023. The satellite has been built and manifested to Electron by mission management provider and satellite developer Space Flight Laboratory (SFL) of Toronto."
-customer: 
- - "[[UTIAS Space Flight Laboratory]]"
- - "[[Telesat]]"
-mission: "[[039 'Baby Come Back' - Electron]]"
+customer:
+  - "[[UTIAS Space Flight Laboratory]]"
+  - "[[Telesat]]"
+mission: "[[039 'Baby Come Back']]"
 tags:
-  - "contract"
-  - "electron"
+  - contract
+  - electron
 ---
 >[!summary]
 #contract #electron
@@ -22,7 +21,7 @@ tags:
 **Published:** 2023-05-31
 **Description:** *Long Beach, California. May 31, 2023* – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced it has signed a deal to launch the LEO 3 satellite for global satellite operator Telesat[https://www.telesat.com/] (Nasdaq and TSX: TSAT) on an Electron mission scheduled for Q3, 2023. The satellite has been built and manifested to Electron by mission management provider and satellite developer Space Flight Laboratory (SFL) of Toronto.
 **Customer:** [[UTIAS Space Flight Laboratory]], [[Telesat]]
-**Mission:** [[039 'Baby Come Back' - Electron]]
+**Mission:** [[039 'Baby Come Back']]
 
 Source: https://www.rocketlabusa.com/updates/space-flight-laboratory-selects-rocket-lab-to-launch-telesat-broadband-satellite/
 

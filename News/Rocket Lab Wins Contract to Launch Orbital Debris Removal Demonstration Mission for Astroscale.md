@@ -1,18 +1,17 @@
 ---
-
 title: "Rocket Lab Wins Contract to Launch Orbital Debris Removal Demonstration Mission for Astroscale "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-wins-contract-to-launch-orbital-debris-removal-demonstration-mission-for-astroscale/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-wins-contract-to-launch-orbital-debris-removal-demonstration-mission-for-astroscale/
 author:
   - "[[Rocket Lab]]"
 published: 2021-09-21
 description: "*Electron's Kick Stage will enable an Astroscale satellite to rendezvous with a spent Japanese upper stage rocket body in low Earth orbit, demonstrating new debris removal technology for space sustainability *"
 customer:
- - "[[Astroscale-Japan]]"
+  - "[[Astroscale-Japan]]"
 mission:
- - "[[044 'On Closer Inspection' - Electron]]"
+  - "[[044 'On Closer Inspection']]"
 tags:
- - electron
- - contract
+  - electron
+  - contract
 ---
 >[!summary]
 #electron #contract
@@ -22,7 +21,7 @@ tags:
 **Published:** 2021-09-21
 **Description:** *Electron's Kick Stage will enable an Astroscale satellite to rendezvous with a spent Japanese upper stage rocket body in low Earth orbit, demonstrating new debris removal technology for space sustainability *
 **Customer:** [[Astroscale-Japan]]
-**Mission:** [[044 'On Closer Inspection' - Electron]]
+**Mission:** [[044 'On Closer Inspection']]
 
 ***Electron's Kick Stage will enable an Astroscale satellite to rendezvous with a spent Japanese upper stage rocket body in low Earth orbit, demonstrating new debris removal technology for space sustainability*** 
 

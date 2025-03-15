@@ -1,19 +1,18 @@
 ---
-
 title: "Rocket Lab Progresses Flight Review, Recovers First Stage Following Successful Ocean Splashdown "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-progresses-flight-review-recovers-first-stage-following-successful-ocean-splashdown/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-progresses-flight-review-recovers-first-stage-following-successful-ocean-splashdown/
 author:
   - "[[Rocket Lab]]"
 published: 2021-05-17
 description: "*Rocket Lab Progresses Flight Review, Recovers First Stage Following Successful Ocean Splashdown*"
 customer:
- - "[[BlackSky]]"
+  - "[[BlackSky]]"
 mission:
- - "[[020 'Running Out Of Toes' - Electron]]"
+  - "[[020 'Running Out Of Toes']]"
 tags:
- - electron
- - launch
- - anomaly
+  - electron
+  - launch
+  - anomaly
 ---
 >[!summary]
 #electron #launch #anomaly
@@ -23,7 +22,7 @@ tags:
 **Published:** 2021-05-17
 **Description:** *Rocket Lab Progresses Flight Review, Recovers First Stage Following Successful Ocean Splashdown*
 **Customer:** [[BlackSky]]
-**Mission:** [[020 'Running Out Of Toes' - Electron]]
+**Mission:** [[020 'Running Out Of Toes']]
 
 **Rocket Lab Progresses Flight Review, Recovers First Stage Following Successful Ocean Splashdown**
 

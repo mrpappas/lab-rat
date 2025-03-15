@@ -18,19 +18,19 @@ Kinéis positions itself as a key player in the growing IoT space market, offeri
 
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date
+table location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
-where contains(customer, [[Kinéis]]) and outcome = "Success"
+where contains(customer, [[Kinéis]])
 sort launch_date desc
 ```
 %%
 
-| File                                                                                                                  | launch_date      |
-| --------------------------------------------------------------------------------------------------------------------- | ---------------- |
-| [[Launch/Launches/059 'IOT 4 You and Me' - Electron.md\|059 'IOT 4 You and Me' - Electron]]                           | 2025-02-04 20:43 |
-| [[Launch/Launches/056 'Ice AIS Baby' - Electron.md\|056 'Ice AIS Baby' - Electron]]                                   | 2024-11-25 04:55 |
-| [[Launch/Launches/053 'Kineis Killed the RadIOT Star' - Electron.md\|053 'Kineis Killed the RadIOT Star' - Electron]] | 2024-09-20 23:01 |
-| [[Launch/Launches/050 'No Time Toulouse' - Electron.md\|050 'No Time Toulouse' - Electron]]                           | 2024-06-18 18:13 |
+| File                                                                                            | Location                                              | Vehicle                          | Orbit & Mass            | Outcome   |
+| ----------------------------------------------------------------------------------------------- | ----------------------------------------------------- | -------------------------------- | ----------------------- | --------- |
+| [[Launch/Launches/059 'IOT 4 You and Me'.md\|059 'IOT 4 You and Me']]                           | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 643 km \| 97° \| 150 kg | ✅ Success |
+| [[Launch/Launches/056 'Ice AIS Baby'.md\|056 'Ice AIS Baby']]                                   | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 643 km \| 97° \| 150 kg | ✅ Success |
+| [[Launch/Launches/053 'Kineis Killed the RadIOT Star'.md\|053 'Kineis Killed the RadIOT Star']] | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 643 km \| 98° \| 150 kg | ✅ Success |
+| [[Launch/Launches/050 'No Time Toulouse'.md\|050 'No Time Toulouse']]                           | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 635 km \| 98° \| 150 kg | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end %%
 

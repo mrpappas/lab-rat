@@ -15,7 +15,7 @@ Rocket Lab’s Launch Complex 2 represents a new responsive launch capability fo
 
 ## 🏭 Facilities
 
-### 🚀 Launch Pad 0C
+###  Launch Pad 0C
 
 **Location**: [37°49'59.8"N 75°29'17.6"W](https://www.google.com/maps/place/37%C2%B049'59.8%22N+75%C2%B029'17.6%22W/@37.8332723,-75.4886878,263m/data=!3m1!1e3!4m4!3m3!8m2!3d37.8332778!4d-75.4882222!5m1!1e2?hl=en&entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D)
 **66 Metric Ton Launch Platform and 7.6 Ton strongback**
@@ -59,14 +59,8 @@ sort launch_date desc
 ```
 %%
 
-| File                                                                                                                  | launch_date      |
-| --------------------------------------------------------------------------------------------------------------------- | ---------------- |
-| [[Launch/Launches/057 'Stonehenge' - HASTE.md\|057 'Stonehenge' - HASTE]]                                             | 2024-12-13 00:00 |
-| [[Launch/Launches/055 'HASTE A La Vista' - HASTE.md\|055 'HASTE A La Vista' - HASTE]]                                 | 2024-11-24 06:00 |
-| [[Launch/Launches/046 'Live And Let Fly' - Electron.md\|046 'Live And Let Fly' - Electron]]                           | 2024-03-21 06:40 |
-| [[Launch/Launches/038 'Scout's Arrow' - HASTE.md\|038 'Scout's Arrow' - HASTE]]                                       | 2023-06-18 01:24 |
-| [[Launch/Launches/034 'Stronger Together' - Electron.md\|034 'Stronger Together' - Electron]]                         | 2023-03-16 22:38 |
-| [[Launch/Launches/033 'Virginia is for Launch Lovers' - Electron.md\|033 'Virginia is for Launch Lovers' - Electron]] | 2023-01-24 23:00 |
+| File | launch_date |
+| ---- | ----------- |
 
 %%DATAVIEW_PUBLISHER: end%%
 

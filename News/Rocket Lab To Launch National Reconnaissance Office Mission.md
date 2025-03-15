@@ -1,7 +1,6 @@
 ---
-
 title: "Rocket Lab To Launch National Reconnaissance Office Mission  "
-source: "https://www.rocketlabusa.com/updates/media-release-rocket-lab-to-launch-national-reconnaissance-office-mission/"
+source: https://www.rocketlabusa.com/updates/media-release-rocket-lab-to-launch-national-reconnaissance-office-mission/
 author:
   - "[[Rocket Lab]]"
 published: 2020-01-20
@@ -9,10 +8,10 @@ description: "*Rocket Lab To Launch National Reconnaissance Office Mission *"
 customer:
   - "[[National Reconnaissance Office (NRO)]]"
 mission:
-  - "[[011 'Birds of a Feather' - Electron]]"
+  - "[[011 'Birds of a Feather']]"
 tags:
- - electron
- - launch
+  - electron
+  - launch
 ---
 >[!summary]
 #electron #launch
@@ -22,7 +21,7 @@ tags:
 **Published:** 2020-01-20
 **Description:** *Rocket Lab To Launch National Reconnaissance Office Mission *
 **Customer:** [[National Reconnaissance Office (NRO)]]
-**Mission:** [[011 'Birds of a Feather' - Electron]]
+**Mission:** [[011 'Birds of a Feather']]
 
 **Rocket Lab To Launch National Reconnaissance Office Mission** 
 

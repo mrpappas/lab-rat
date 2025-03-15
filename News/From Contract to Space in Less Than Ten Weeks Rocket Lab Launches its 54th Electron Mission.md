@@ -1,17 +1,16 @@
 ---
-
 title: "From Contract to Space in Less Than Ten Weeks: Rocket Lab Launches its 54th Electron Mission "
-source: "https://www.rocketlabusa.com/updates/from-contract-to-space-in-less-than-ten-weeks-rocket-lab-launches-its-54th-electron-mission/"
+source: https://www.rocketlabusa.com/updates/from-contract-to-space-in-less-than-ten-weeks-rocket-lab-launches-its-54th-electron-mission/
 author:
   - "[[Rocket Lab]]"
 published: 2024-11-05
-description: "The contract for Rocket Lab’s latest launch was signed less than ten weeks before lift-off, making it one of the fastest contract-to-launch turnarounds in Company history."
+description: The contract for Rocket Lab’s latest launch was signed less than ten weeks before lift-off, making it one of the fastest contract-to-launch turnarounds in Company history.
 customer: "[[E-Space]]"
-mission: "[[054 'Changes In Latitudes, Changes In Attitudes' - Electron]]"
+mission: "[[054 'Changes In Latitudes, Changes In Attitudes']]"
 tags:
-  - "launch"
-  - "electron"
-  - "contract"
+  - launch
+  - electron
+  - contract
 ---
 >[!summary]
 #launch #electron #contract
@@ -21,7 +20,7 @@ tags:
 **Published:** 2024-11-05
 **Description:** The contract for Rocket Lab’s latest launch was signed less than ten weeks before lift-off, making it one of the fastest contract-to-launch turnarounds in Company history.
 **Customer:** [[E-Space]]
-**Mission:** [[054 'Changes In Latitudes, Changes In Attitudes' - Electron]]
+**Mission:** [[054 'Changes In Latitudes, Changes In Attitudes']]
 
 **Source**: https://www.rocketlabusa.com/updates/from-contract-to-space-in-less-than-ten-weeks-rocket-lab-launches-its-54th-electron-mission/
 

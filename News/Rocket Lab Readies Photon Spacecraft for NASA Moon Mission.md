@@ -1,20 +1,19 @@
 ---
-
 title: "Rocket Lab Readies Photon Spacecraft for NASA Moon Mission "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-readies-photon-spacecraft-for-nasa-moon-mission/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-readies-photon-spacecraft-for-nasa-moon-mission/
 author:
   - "[[Rocket Lab]]"
 published: 2020-12-11
 description: "*Rocket Lab Readies Photon Spacecraft for NASA Moon Mission*"
 customer:
- - "[[NASA]]"
- - "[[Advanced Space]]"
+  - "[[NASA]]"
+  - "[[Advanced Space]]"
 mission:
- - "[[027 'CAPSTONE' - Electron]]"
+  - "[[027 'CAPSTONE']]"
 tags:
- - space-systems
- - photon
- - electron
+  - space-systems
+  - photon
+  - electron
 ---
 >[!summary]
 #space-systems #photon #electron
@@ -24,7 +23,7 @@ tags:
 **Published:** 2020-12-11
 **Description:** *Rocket Lab Readies Photon Spacecraft for NASA Moon Mission*
 **Customer:** [[NASA]], [[Advanced Space]]
-**Mission:** [[027 'CAPSTONE' - Electron]]
+**Mission:** [[027 'CAPSTONE']]
 
 **Rocket Lab Readies Photon Spacecraft for NASA Moon Mission**
 

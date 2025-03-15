@@ -1,18 +1,17 @@
 ---
-
 title: "Rocket Lab Successfully Launches Second Mission for Synspective, Deploys 110th Satellite to Orbit "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-second-mission-for-synspective-deploys-110th-satellite-to-orbit/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-second-mission-for-synspective-deploys-110th-satellite-to-orbit/
 author:
   - "[[Rocket Lab]]"
 published: 2022-03-01
 description: "*Rocket Lab Successfully Launches Second Mission for Synspective, Deploys 110th Satellite to Orbit*"
 customer:
- - "[[Synspective]]"
+  - "[[Synspective]]"
 mission:
- - "[[024 'The Owl's Night Continues' - Electron]]"
+  - "[[024 'The Owl's Night Continues']]"
 tags:
- - electron
- - launch
+  - electron
+  - launch
 ---
 >[!summary]
 #electron #launch
@@ -22,7 +21,7 @@ tags:
 **Published:** 2022-03-01
 **Description:** *Rocket Lab Successfully Launches Second Mission for Synspective, Deploys 110th Satellite to Orbit*
 **Customer:** [[Synspective]]
-**Mission:** [[024 'The Owl's Night Continues' - Electron]]
+**Mission:** [[024 'The Owl's Night Continues']]
 
 **Rocket Lab Successfully Launches Second Mission for Synspective, Deploys 110th Satellite to Orbit**
 

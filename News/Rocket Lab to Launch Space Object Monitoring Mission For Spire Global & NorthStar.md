@@ -1,18 +1,17 @@
 ---
-
 title: "Rocket Lab to Launch Space Object Monitoring Mission For Spire Global & NorthStar "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-to-launch-space-object-monitoring-mission-for-spire-global-and-northstar/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-to-launch-space-object-monitoring-mission-for-spire-global-and-northstar/
 author:
   - "[[Rocket Lab]]"
 published: 2023-06-22
-description: "Launching no earlier than September 2023, the mission will deliver the first of NorthStar’s commercial Space Situational Awareness (SSA) satellites built by Spire Global."
+description: Launching no earlier than September 2023, the mission will deliver the first of NorthStar’s commercial Space Situational Awareness (SSA) satellites built by Spire Global.
 customer:
- - "[[Spire Global]]"
- - "[[NorthStar Earth & Space]]"
-mission: "[[043 'Four Of A Kind' - Electron]]"
+  - "[[Spire Global]]"
+  - "[[NorthStar Earth & Space]]"
+mission: "[[043 'Four Of A Kind']]"
 tags:
-  - "electron"
-  - "contract"
+  - electron
+  - contract
 ---
 >[!summary]
 #electron #contract
@@ -22,7 +21,7 @@ tags:
 **Published:** 2023-06-22
 **Description:** Launching no earlier than September 2023, the mission will deliver the first of NorthStar’s commercial Space Situational Awareness (SSA) satellites built by Spire Global.
 **Customer:** [[Spire Global]], [[NorthStar Earth & Space]]
-**Mission:** [[043 'Four Of A Kind' - Electron]]
+**Mission:** [[043 'Four Of A Kind']]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-to-launch-space-object-monitoring-mission-for-spire-global-and-northstar/
 

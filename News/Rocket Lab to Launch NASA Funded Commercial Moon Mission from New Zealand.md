@@ -1,18 +1,17 @@
 ---
-
 title: "Rocket Lab to Launch NASA Funded Commercial Moon Mission from New Zealand "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-to-launch-nasa-funded-commercial-moon-mission-from-new-zealand/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-to-launch-nasa-funded-commercial-moon-mission-from-new-zealand/
 author:
   - "[[Rocket Lab]]"
 published: 2021-08-06
 description: "*Rocket Lab to Launch NASA Funded Commercial Moon Mission from New Zealand*"
 customer:
- - "[[NASA]]"
- - "[[Advanced Space]]"
+  - "[[NASA]]"
+  - "[[Advanced Space]]"
 mission:
- - "[[027 'CAPSTONE' - Electron]]"
+  - "[[027 'CAPSTONE']]"
 tags:
- - electron
+  - electron
 ---
 >[!summary]
 #electron
@@ -22,7 +21,7 @@ tags:
 **Published:** 2021-08-06
 **Description:** *Rocket Lab to Launch NASA Funded Commercial Moon Mission from New Zealand*
 **Customer:** [[NASA]], [[Advanced Space]]
-**Mission:** [[027 'CAPSTONE' - Electron]]
+**Mission:** [[027 'CAPSTONE']]
 
 **Rocket Lab to Launch NASA Funded Commercial Moon Mission from New Zealand**
 

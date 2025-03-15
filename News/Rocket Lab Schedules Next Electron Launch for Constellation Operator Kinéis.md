@@ -1,17 +1,17 @@
 ---
-title: "Rocket Lab Schedules Next Electron Launch for Constellation Operator Kinéis"
-source: "https://www.rocketlabusa.com/updates/rocket-lab-schedules-next-electron-launch-for-constellation-operator-kineis/"
+title: Rocket Lab Schedules Next Electron Launch for Constellation Operator Kinéis
+source: https://www.rocketlabusa.com/updates/rocket-lab-schedules-next-electron-launch-for-constellation-operator-kineis/
 author:
   - "[[Rocket Lab]]"
 published: 2025-01-21
-description: "Keep up with the latest from Rocket Lab."
+description: Keep up with the latest from Rocket Lab.
 customer:
- - "[[Kinéis]]"
-mission: "[[059 'IOT 4 You and Me' - Electron]]"
-insider:
+  - "[[Kinéis]]"
+mission: "[[059 'IOT 4 You and Me']]"
+insider: 
 tags:
- - launch
- - electron
+  - launch
+  - electron
 ---
 >[!summary]
 **Title:** Rocket Lab Schedules Next Electron Launch for Constellation Operator Kinéis
@@ -20,7 +20,7 @@ tags:
 **Published:** 2025-01-21
 **Description:** Rocket Lab Schedules Next Electron Launch for Constellation Operator Kinéis
 **Partner**: [[Kinéis]]
-**Mission**: [[059 'IOT 4 You and Me' - Electron]]
+**Mission**: [[059 'IOT 4 You and Me']]
 
 
 ***The mission will be Rocket Lab’s fourth in a series of five dedicated Electron launches for the French Internet-of-Things constellation operator***

@@ -1,20 +1,19 @@
 ---
-
 title: "Rocket Lab Plans Two Launches Days Apart From Two Continents "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-plans-two-launches-days-apart-from-two-continents/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-plans-two-launches-days-apart-from-two-continents/
 author:
   - "[[Rocket Lab]]"
 published: 2023-02-28
-description: "Rocket Lab prepares to launch two dedicated Electron missions in March from the Company’s two launch sites across Virginia and New Zealand"
+description: Rocket Lab prepares to launch two dedicated Electron missions in March from the Company’s two launch sites across Virginia and New Zealand
 customer:
- - "[[BlackSky]]"
- - "[[Capella Space]]"
+  - "[[BlackSky]]"
+  - "[[Capella Space]]"
 mission:
- - "[[035 'The Beat Goes On' - Electron]]"
- - "[[034 'Stronger Together' - Electron]]"
+  - "[[035 'The Beat Goes On']]"
+  - "[[034 'Stronger Together']]"
 tags:
-  - "launch"
-  - "electron"
+  - launch
+  - electron
 ---
 >[!summary]
 #launch #electron
@@ -24,7 +23,7 @@ tags:
 **Published:** 2023-02-28
 **Description:** Rocket Lab prepares to launch two dedicated Electron missions in March from the Company’s two launch sites across Virginia and New Zealand
 **Customer:** [[BlackSky]], [[Capella Space]]
-**Mission:** [[035 'The Beat Goes On' - Electron]], [[034 'Stronger Together' - Electron]]
+**Mission:** [[035 'The Beat Goes On']], [[034 'Stronger Together']]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-plans-two-launches-days-apart-from-two-continents/
 

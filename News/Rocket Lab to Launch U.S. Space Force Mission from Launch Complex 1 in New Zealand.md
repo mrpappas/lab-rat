@@ -1,18 +1,17 @@
 ---
-
 title: "Rocket Lab to Launch U.S. Space Force Mission from Launch Complex 1 in New Zealand "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-to-launch-u-s-space-force-mission-from-launch-complex-1-in-new-zealand/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-to-launch-u-s-space-force-mission-from-launch-complex-1-in-new-zealand/
 author:
   - "[[Rocket Lab]]"
 published: 2021-07-27
 description: "*Rocket Lab to Launch U.S. Space Force Mission from Launch Complex 1 in New Zealand*"
 customer:
- - "[[U.S. Space Force]]"
+  - "[[U.S. Space Force]]"
 mission:
- - "[[021 'It's A Little Chile Up Here' - Electron]]"
+  - "[[021 'It's A Little Chile Up Here']]"
 tags:
- - electron
- - launch
+  - electron
+  - launch
 ---
 >[!summary]
 #electron #launch
@@ -22,7 +21,7 @@ tags:
 **Published:** 2021-07-27
 **Description:** *Rocket Lab to Launch U.S. Space Force Mission from Launch Complex 1 in New Zealand*
 **Customer:** [[U.S. Space Force]]
-**Mission:** [[021 'It's A Little Chile Up Here' - Electron]]
+**Mission:** [[021 'It's A Little Chile Up Here']]
 
 **Rocket Lab to Launch U.S. Space Force Mission from Launch Complex 1 in New Zealand**
 

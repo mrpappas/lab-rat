@@ -1,15 +1,14 @@
 ---
-
 title: "Rocket Lab Receives Federal Aviation Administration Authorization to Resume Launches "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-receives-federal-aviation-administration-authorization-to-resume-launches/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-receives-federal-aviation-administration-authorization-to-resume-launches/
 author:
   - "[[Rocket Lab]]"
 published: 2023-10-25
 description: "*Long Beach, California. October 25, 2023* – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced it has received authorization from the Federal Aviation Administration (FAA) to resume Electron launches from Launch Complex 1."
 customer: "[[Capella Space]]"
-mission: "[[041 'We Will Never Desert You' - Electron]]"
+mission: "[[041 'We Will Never Desert You']]"
 tags:
-  - "electron"
+  - electron
 ---
 >[!summary]
 #electron
@@ -19,7 +18,7 @@ tags:
 **Published:** 2023-10-25
 **Description:** *Long Beach, California. October 25, 2023* – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced it has received authorization from the Federal Aviation Administration (FAA) to resume Electron launches from Launch Complex 1.
 **Customer:** [[Capella Space]]
-**Mission:** [[041 'We Will Never Desert You' - Electron]]
+**Mission:** [[041 'We Will Never Desert You']]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-receives-federal-aviation-administration-authorization-to-resume-launches/
 

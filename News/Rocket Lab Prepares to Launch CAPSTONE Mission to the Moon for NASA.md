@@ -1,20 +1,19 @@
 ---
-
 title: "Rocket Lab Prepares to Launch CAPSTONE Mission to the Moon for NASA "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-prepares-to-launch-capstone-mission-to-the-moon-for-nasa/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-prepares-to-launch-capstone-mission-to-the-moon-for-nasa/
 author:
   - "[[Rocket Lab]]"
 published: 2022-06-23
 description: "*Rocket Lab Prepares to Launch CAPSTONE Mission to the Moon for NASA*"
 customer:
- - "[[NASA]]"
- - "[[Advanced Space]]"
+  - "[[NASA]]"
+  - "[[Advanced Space]]"
 mission:
- - "[[027 'CAPSTONE' - Electron]]"
-insider:
+  - "[[027 'CAPSTONE']]"
+insider: 
 tags:
- - electron
- - space-systems
+  - electron
+  - space-systems
 ---
 >[!summary]
 #electron #space-systems
@@ -24,7 +23,7 @@ tags:
 **Published:** 2022-06-23
 **Description:** *Rocket Lab Prepares to Launch CAPSTONE Mission to the Moon for NASA*
 **Customer:** [[NASA]], [[Advanced Space]]
-**Mission:** [[027 'CAPSTONE' - Electron]]
+**Mission:** [[027 'CAPSTONE']]
 **Insider:** None
 
 **Rocket Lab Prepares to Launch CAPSTONE Mission to the Moon for NASA**

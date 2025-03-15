@@ -1,7 +1,6 @@
 ---
-
 title: "Rocket Lab integrates payloads for first ever NASA Venture Class Launch Services Mission "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-integrates-payloads-for-first-ever-nasa-venture-class-launch-services-mission/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-integrates-payloads-for-first-ever-nasa-venture-class-launch-services-mission/
 author:
   - "[[Rocket Lab]]"
 published: 2018-04-25
@@ -9,10 +8,10 @@ description: "Huntington Beach, California and Auckland, New Zealand April 25, 2
 customer:
   - "[[NASA]]"
 mission:
- - "[[004 'NASA ELaNa-19' - Electron]]"
+  - "[[004 'NASA ELaNa-19']]"
 tags:
- - electron
- - launch
+  - electron
+  - launch
 ---
 >[!summary]
 #electron #launch
@@ -22,7 +21,7 @@ tags:
 **Published:** 2018-04-25
 **Description:** Huntington Beach, California and Auckland, New Zealand April 25, 2018:
 **Customer:** [[NASA]]
-**Mission:** [[004 'NASA ELaNa-19' - Electron]]
+**Mission:** [[004 'NASA ELaNa-19']]
 
 Huntington Beach, California and Auckland, New Zealand April 25, 2018:
 

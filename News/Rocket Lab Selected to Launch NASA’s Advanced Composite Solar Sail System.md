@@ -1,18 +1,17 @@
 ---
-
 title: "Rocket Lab Selected to Launch NASA’s Advanced Composite Solar Sail System "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-selected-to-launch-nasas-advanced-composite-solar-sail-system/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-selected-to-launch-nasas-advanced-composite-solar-sail-system/
 author:
   - "[[Rocket Lab]]"
 published: 2021-10-06
 description: "*Rocket Lab Selected to Launch NASA’s Advanced Composite Solar Sail System*"
 customer:
- - "[[NASA]]"
-mission: 
- - "[[047 'Beginning Of The Swarm' - Electron]]"
+  - "[[NASA]]"
+mission:
+  - "[[047 'Beginning Of The Swarm']]"
 tags:
- - contract
- - electron
+  - contract
+  - electron
 ---
 >[!summary]
 #contract #electron
@@ -22,7 +21,7 @@ tags:
 **Published:** 2021-10-06
 **Description:** *Rocket Lab Selected to Launch NASA’s Advanced Composite Solar Sail System*
 **Customer:** [[NASA]]
-**Mission:** [[047 'Beginning Of The Swarm' - Electron]]
+**Mission:** [[047 'Beginning Of The Swarm']]
 
 **Rocket Lab Selected to Launch NASA’s Advanced Composite Solar Sail System**
 

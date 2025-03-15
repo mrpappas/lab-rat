@@ -1,16 +1,15 @@
 ---
-
 title: "Rocket Lab Successfully Launches 35th Electron Seven Days After Previous Launch, Sets New Company Record for Fastest Launch Turnaround  "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-35th-electron-seven-days-after-previous-launch-sets-new-company-record-for-fastest-launch-turnaround/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-35th-electron-seven-days-after-previous-launch-sets-new-company-record-for-fastest-launch-turnaround/
 author:
   - "[[Rocket Lab]]"
 published: 2023-03-24
 description: "*Rocket Lab Successfully Launches 35th Electron Seven Days After Previous Launch, Sets New Company Record for Fastest Launch Turnaround *"
 customer: "[[BlackSky]]"
-mission: "[[035 'The Beat Goes On' - Electron]]"
+mission: "[[035 'The Beat Goes On']]"
 tags:
-  - "launch"
-  - "electron"
+  - launch
+  - electron
 ---
 >[!summary]
 #launch #electron
@@ -20,7 +19,7 @@ tags:
 **Published:** 2023-03-24
 **Description:** *Rocket Lab Successfully Launches 35th Electron Seven Days After Previous Launch, Sets New Company Record for Fastest Launch Turnaround *
 **Customer:** [[BlackSky]]
-**Mission:** [[035 'The Beat Goes On' - Electron]]
+**Mission:** [[035 'The Beat Goes On']]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-35th-electron-seven-days-after-previous-launch-sets-new-company-record-for-fastest-launch-turnaround/
 

@@ -1,21 +1,20 @@
 ---
-
 title: "Rocket Lab launches milestone tenth mission, completes major success for reusable rocket program  "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-launches-milestone-tenth-mission-completes-major-success-for-reusable-rocket-program/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-launches-milestone-tenth-mission-completes-major-success-for-reusable-rocket-program/
 author:
   - "[[Rocket Lab]]"
 published: 2019-12-06
 description: "*Rocket Lab successfully completes a guided re-entry of the Electron launch vehicle first stage all the way to splashdown and continues track record of 100% mission success for customers with 47 satellites delivered to orbit to date.*"
-customer: 
-- "[[Alba Orbital]]"
-- "[[Spaceflight]]"
-- "[[ALE]]"
+customer:
+  - "[[Alba Orbital]]"
+  - "[[Spaceflight]]"
+  - "[[ALE]]"
 mission:
- - "[[010 'Running Out Of Fingers' - Electron]]"
+  - "[[010 'Running Out Of Fingers']]"
 tags:
- - electron
- - launch
- - reusability
+  - electron
+  - launch
+  - reusability
 ---
 >[!summary]
 #electron #launch #reusability
@@ -25,7 +24,7 @@ tags:
 **Published:** 2019-12-06
 **Description:** *Rocket Lab successfully completes a guided re-entry of the Electron launch vehicle first stage all the way to splashdown and continues track record of 100% mission success for customers with 47 satellites delivered to orbit to date.*
 **Customer:** [[Alba Orbital]], [[Spaceflight]], [[ALE]]
-**Mission:** [[010 'Running Out Of Fingers' - Electron]]
+**Mission:** [[010 'Running Out Of Fingers']]
 
 **Rocket Lab successfully completes a guided re-entry of the Electron launch vehicle first stage all the way to splashdown and continues track record of 100% mission success for customers with 47 satellites delivered to orbit to date.**
 

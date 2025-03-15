@@ -1,20 +1,19 @@
 ---
-
 title: "Rocket Lab moves ‘It’s Business Time’ launch window "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-moves-its-business-time-launch-window/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-moves-its-business-time-launch-window/
 author:
   - "[[Rocket Lab]]"
 published: 2018-04-17
-description: "Rocket Lab will move the ‘It’s Business Time’ launch, scheduled between 20 April – 3 May, to the next available launch window in coming weeks. The shift comes after pad team identified some unusual motor controller behavior during a wet dress rehearsal carried out this week. With just days between rehearsal and window opening, the call to move to the window is a conservative one made to allow the team additional time to review data."
+description: Rocket Lab will move the ‘It’s Business Time’ launch, scheduled between 20 April – 3 May, to the next available launch window in coming weeks. The shift comes after pad team identified some unusual motor controller behavior during a wet dress rehearsal carried out this week. With just days between rehearsal and window opening, the call to move to the window is a conservative one made to allow the team additional time to review data.
 customer:
   - "[[Spire Global]]"
   - "[[Tyvak Nano-Satellite Systems]]"
   - "[[Fleet Space]]"
 mission:
- - "[[003 'It's Business Time' - Electron]]"
+  - "[[003 'It's Business Time']]"
 tags:
- - electron
- - launch
+  - electron
+  - launch
 ---
 >[!summary]
 #electron #launch
@@ -24,7 +23,7 @@ tags:
 **Published:** 2018-04-17
 **Description:** Rocket Lab will move the ‘It’s Business Time’ launch, scheduled between 20 April – 3 May, to the next available launch window in coming weeks. The shift comes after pad team identified some unusual motor controller behavior during a wet dress rehearsal carried out this week. With just days between rehearsal and window opening, the call to move to the window is a conservative one made to allow the team additional time to review data.
 **Customer:** [[Spire Global]], [[Tyvak Nano-Satellite Systems]], [[Fleet Space]]
-**Mission:** [[003 'It's Business Time' - Electron]]
+**Mission:** [[003 'It's Business Time']]
 
 Rocket Lab will move the ‘It’s Business Time’ launch, scheduled between 20 April – 3 May, to the next available launch window in coming weeks. The shift comes after pad team identified some unusual motor controller behavior during a wet dress rehearsal carried out this week. With just days between rehearsal and window opening, the call to move to the window is a conservative one made to allow the team additional time to review data.
 

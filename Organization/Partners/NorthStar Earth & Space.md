@@ -19,16 +19,16 @@ The company aims to deliver critical data to governments, commercial operators, 
 
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date
+table location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
-where contains(customer, [[NorthStar Earth & Space]]) and outcome = "Success"
+where contains(customer, [[NorthStar Earth & Space]])
 sort launch_date desc
 ```
 %%
 
-| File                                                                                    | launch_date      |
-| --------------------------------------------------------------------------------------- | ---------------- |
-| [[Launch/Launches/043 'Four Of A Kind' - Electron.md\|043 'Four Of A Kind' - Electron]] | 2024-01-31 06:34 |
+| File                                                              | Location                                              | Vehicle                          | Orbit & Mass            | Outcome   |
+| ----------------------------------------------------------------- | ----------------------------------------------------- | -------------------------------- | ----------------------- | --------- |
+| [[Launch/Launches/043 'Four Of A Kind'.md\|043 'Four Of A Kind']] | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 530 km \| 97° \| 112 kg | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end %%
 

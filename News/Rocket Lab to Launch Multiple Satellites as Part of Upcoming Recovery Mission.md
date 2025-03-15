@@ -1,19 +1,18 @@
 ---
-
 title: "Rocket Lab to Launch Multiple Satellites as Part of Upcoming Recovery Mission  "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-to-launch-multiple-satellites-as-part-of-upcoming-recovery-mission/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-to-launch-multiple-satellites-as-part-of-upcoming-recovery-mission/
 author:
   - "[[Rocket Lab]]"
 published: 2023-06-22
-description: "The mission is the second marine recovery attempt of Electron this year after the success of the 35th mission."
+description: The mission is the second marine recovery attempt of Electron this year after the success of the 35th mission.
 customer:
- - "[[NASA]]"
- - "[[UTIAS Space Flight Laboratory]]"
- - "[[Spire Global]]"
-mission: "[[039 'Baby Come Back' - Electron]]"
+  - "[[NASA]]"
+  - "[[UTIAS Space Flight Laboratory]]"
+  - "[[Spire Global]]"
+mission: "[[039 'Baby Come Back']]"
 tags:
-  - "launch"
-  - "electron"
+  - launch
+  - electron
 ---
 >[!summary]
 #launch #electron
@@ -23,7 +22,7 @@ tags:
 **Published:** 2023-06-22
 **Description:** The mission is the second marine recovery attempt of Electron this year after the success of the 35th mission.
 **Customer:** [[NASA]], [[UTIAS Space Flight Laboratory]], [[Spire Global]]
-**Mission:** [[039 'Baby Come Back' - Electron]]
+**Mission:** [[039 'Baby Come Back']]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-to-launch-multiple-satellites-as-part-of-upcoming-recovery-mission/
 

@@ -1,18 +1,17 @@
 ---
-
 title: "Rocket Lab to Launch Four PocketQube Satellites for Alba Orbital "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-to-launch-four-pocketqube-satellites-for-alba-orbital/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-to-launch-four-pocketqube-satellites-for-alba-orbital/
 author:
   - "[[Rocket Lab]]"
 published: 2021-08-18
 description: "*Rocket Lab to Launch Four PocketQube Satellites for Alba Orbital*"
 customer:
- - "[[Alba Orbital]]"
+  - "[[Alba Orbital]]"
 mission:
- - "[[026 'There And Back Again' - Electron]]"
+  - "[[026 'There And Back Again']]"
 tags:
- - electron
- - contract
+  - electron
+  - contract
 ---
 >[!summary]
 #electron #contract
@@ -22,7 +21,7 @@ tags:
 **Published:** 2021-08-18
 **Description:** *Rocket Lab to Launch Four PocketQube Satellites for Alba Orbital*
 **Customer:** [[Alba Orbital]]
-**Mission:** [[026 'There And Back Again' - Electron]]
+**Mission:** [[026 'There And Back Again']]
 
 **Rocket Lab to Launch Four PocketQube Satellites for Alba Orbital**
 

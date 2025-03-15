@@ -1,7 +1,6 @@
 ---
-
 title: "Rocket Lab Confirms Next Electron Launch Window Opens for BlackSky April 1, 2022 UTC; Provides Update on Effect to Prior Q1 Revenue Guidance "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-confirms-next-electron-launch-window-opens-for-blacksky-april-1-2022-utc-provides-update-on-effect-to-prior-q1-revenue-guidance/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-confirms-next-electron-launch-window-opens-for-blacksky-april-1-2022-utc-provides-update-on-effect-to-prior-q1-revenue-guidance/
 author:
   - "[[Rocket Lab]]"
 published: 2022-03-24
@@ -9,10 +8,10 @@ description: "*Rocket Lab Confirms Next Electron Launch Window Opens for BlackSk
 customer:
   - "[[BlackSky]]"
 mission:
-  - "[[025 'Without Mission A Beat' - Electron]]"
+  - "[[025 'Without Mission A Beat']]"
 tags:
- - electron
- - launch
+  - electron
+  - launch
 ---
 >[!summary]
 #electron #launch
@@ -22,7 +21,7 @@ tags:
 **Published:** 2022-03-24
 **Description:** *Rocket Lab Confirms Next Electron Launch Window Opens for BlackSky April 1, 2022 UTC; Provides Update on Effect to Prior Q1 Revenue Guidance*
 **Customer:** [[BlackSky]]
-**Mission:** [[025 'Without Mission A Beat' - Electron]]
+**Mission:** [[025 'Without Mission A Beat']]
 
 **Rocket Lab Confirms Next Electron Launch Window Opens for BlackSky April 1, 2022 UTC; Provides Update on Effect to Prior Q1 Revenue Guidance**
 

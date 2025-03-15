@@ -1,19 +1,18 @@
 ---
-
 title: "Rocket Lab to Launch 31st Mission, Deploying Environmental Monitoring Satellite for General Atomics  "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-to-launch-31st-mission-deploying-environmental-monitoring-satellite-for-general-atomics/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-to-launch-31st-mission-deploying-environmental-monitoring-satellite-for-general-atomics/
 author:
   - "[[Rocket Lab]]"
 published: 2022-10-04
-description: "As the eighth Electron mission of the year, the launch will see the Company surpass its previous record of seven launches in one year"
-customer: 
- - "[[General Atomics Electromagnetic Systems]]"
- - "[[CNES]]"
- - "[[NOAA]]"
-mission: "[[031 'It Argos Up From Here' - Electron]]"
+description: As the eighth Electron mission of the year, the launch will see the Company surpass its previous record of seven launches in one year
+customer:
+  - "[[General Atomics Electromagnetic Systems]]"
+  - "[[CNES]]"
+  - "[[NOAA]]"
+mission: "[[031 'It Argos Up From Here']]"
 tags:
-  - "launch"
-  - "electron"
+  - launch
+  - electron
 ---
 >[!summary]
 #launch #electron
@@ -23,7 +22,7 @@ tags:
 **Published:** 2022-10-04
 **Description:** As the eighth Electron mission of the year, the launch will see the Company surpass its previous record of seven launches in one year
 **Customer:** [[General Atomics Electromagnetic Systems]], [[CNES]], [[NOAA]]
-**Mission:** [[031 'It Argos Up From Here' - Electron]]
+**Mission:** [[031 'It Argos Up From Here']]
 
 *As the eighth Electron mission of the year, the launch will see the Company surpass its previous record of seven launches in one year*
 

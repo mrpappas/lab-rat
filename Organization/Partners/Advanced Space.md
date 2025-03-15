@@ -24,16 +24,16 @@ In this orbit, CAPSTONE will orbit together with the Moon as it orbits Earth and
 
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date
+table location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
-where contains(customer, [[Advanced Space]]) and outcome = "Success"
+where contains(customer, [[Advanced Space]])
 sort launch_date desc
 ```
 %%
 
-| File                                                                        | launch_date      |
-| --------------------------------------------------------------------------- | ---------------- |
-| [[Launch/Launches/027 'CAPSTONE' - Electron.md\|027 'CAPSTONE' - Electron]] | 2022-06-28 09:55 |
+| File                                                  | Location                                              | Vehicle                          | Orbit & Mass                       | Outcome   |
+| ----------------------------------------------------- | ----------------------------------------------------- | -------------------------------- | ---------------------------------- | --------- |
+| [[Launch/Launches/027 'CAPSTONE'.md\|027 'CAPSTONE']] | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | Translunar Injection (TLI) \| 80kg | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end %%
 

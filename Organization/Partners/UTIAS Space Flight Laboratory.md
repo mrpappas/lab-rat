@@ -15,16 +15,16 @@ UTIAS Flight Lab, part of the University of Toronto Institute for Aerospace Stud
 
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date
+table location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
-where contains(customer, [[UTIAS Space Flight Laboratory]]) and outcome = "Success"
+where contains(customer, [[UTIAS Space Flight Laboratory]])
 sort launch_date desc
 ```
 %%
 
-| File                                                                                    | launch_date      |
-| --------------------------------------------------------------------------------------- | ---------------- |
-| [[Launch/Launches/039 'Baby Come Back' - Electron.md\|039 'Baby Come Back' - Electron]] | 2023-07-18 01:27 |
+| File                                                              | Location                                              | Vehicle                          | Orbit & Mass               | Outcome   |
+| ----------------------------------------------------------------- | ----------------------------------------------------- | -------------------------------- | -------------------------- | --------- |
+| [[Launch/Launches/039 'Baby Come Back'.md\|039 'Baby Come Back']] | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 1000 km \| 99.45° \| 86 kg | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end %%
 

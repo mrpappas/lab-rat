@@ -1,18 +1,17 @@
 ---
-
 title: "Rocket Lab Signs Launch Contract with Spaceflight  "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-signs-launch-contract-with-spaceflight/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-signs-launch-contract-with-spaceflight/
 author:
   - "[[Rocket Lab]]"
 published: 2017-05-18
-description: "Rocket Lab today announces a new customer contract with Spaceflight, the launch services and mission management provider. Spaceflight has purchased an Electron rocket to increase the frequency of its dedicated rideshare missions."
+description: Rocket Lab today announces a new customer contract with Spaceflight, the launch services and mission management provider. Spaceflight has purchased an Electron rocket to increase the frequency of its dedicated rideshare missions.
 customer:
- - "[[Spaceflight]]"
+  - "[[Spaceflight]]"
 mission:
- - "[[007 'Make it Rain' - Electron]]"
+  - "[[007 'Make it Rain']]"
 tags:
- - electron
- - contract
+  - electron
+  - contract
 ---
 >[!summary]
 #electron #contract
@@ -22,7 +21,7 @@ tags:
 **Published:** 2017-05-18
 **Description:** Rocket Lab today announces a new customer contract with Spaceflight, the launch services and mission management provider. Spaceflight has purchased an Electron rocket to increase the frequency of its dedicated rideshare missions.
 **Customer:** [[Spaceflight]]
-**Mission:** [[007 'Make it Rain' - Electron]]
+**Mission:** [[007 'Make it Rain']]
 
 Rocket Lab today announces a new customer contract with Spaceflight, the launch services and mission management provider. Spaceflight has purchased an Electron rocket to increase the frequency of its dedicated rideshare missions.
 

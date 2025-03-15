@@ -1,19 +1,18 @@
 ---
-
 title: "Still Testing launch window begins "
-source: "https://www.rocketlabusa.com/updates/still-testing-launch-window-begins/"
+source: https://www.rocketlabusa.com/updates/still-testing-launch-window-begins/
 author:
   - "[[Rocket Lab]]"
 published: 2017-12-11
-description: "In the coming days we will attempt to launch the second Rocket Lab Electron rocket, Still Testing. As the name suggests, we are still very much in a test phase, but this flight is a significant milestone for our team and the next step in our mission to democratize space."
+description: In the coming days we will attempt to launch the second Rocket Lab Electron rocket, Still Testing. As the name suggests, we are still very much in a test phase, but this flight is a significant milestone for our team and the next step in our mission to democratize space.
 customer:
   - "[[Planet Labs]]"
   - "[[Spire Global]]"
 mission:
- - "[[002 'Still Testing' - Electron]]"
+  - "[[002 'Still Testing']]"
 tags:
- - electron
- - launch
+  - electron
+  - launch
 ---
 >[!summary]
 #electron #launch
@@ -23,7 +22,7 @@ tags:
 **Published:** 2017-12-11
 **Description:** In the coming days we will attempt to launch the second Rocket Lab Electron rocket, Still Testing. As the name suggests, we are still very much in a test phase, but this flight is a significant milestone for our team and the next step in our mission to democratize space.
 **Customer:** [[Planet Labs]], [[Spire Global]]
-**Mission:** [[002 'Still Testing' - Electron]]
+**Mission:** [[002 'Still Testing']]
 
 In the coming days we will attempt to launch the second Rocket Lab Electron rocket, Still Testing. As the name suggests, we are still very much in a test phase, but this flight is a significant milestone for our team and the next step in our mission to democratize space.  
 

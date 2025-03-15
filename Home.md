@@ -59,18 +59,18 @@ limit 10
 ```
 %%
 
-| File                                                                                                                                            |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Launch/Launches/061 'The Lightning God Reigns' - Electron.md\|061 'The Lightning God Reigns' - Electron]]                                     |
-| [[Launch/Launches/060 'Fasten Your Space Belts' - Electron.md\|060 'Fasten Your Space Belts' - Electron]]                                       |
-| [[Launch/Launches/059 'IOT 4 You and Me' - Electron.md\|059 'IOT 4 You and Me' - Electron]]                                                     |
-| [[Launch/Launches/058 'Owl The Way Up' - Electron.md\|058 'Owl The Way Up' - Electron]]                                                         |
-| [[Launch/Launches/057 'Stonehenge' - HASTE.md\|057 'Stonehenge' - HASTE]]                                                                       |
-| [[Launch/Launches/056 'Ice AIS Baby' - Electron.md\|056 'Ice AIS Baby' - Electron]]                                                             |
-| [[Launch/Launches/055 'HASTE A La Vista' - HASTE.md\|055 'HASTE A La Vista' - HASTE]]                                                           |
-| [[Launch/Launches/054 'Changes In Latitudes, Changes In Attitudes' - Electron.md\|054 'Changes In Latitudes, Changes In Attitudes' - Electron]] |
-| [[Launch/Launches/053 'Kineis Killed the RadIOT Star' - Electron.md\|053 'Kineis Killed the RadIOT Star' - Electron]]                           |
-| [[Launch/Launches/052 'A Sky Full Of SARs' - Electron.md\|052 'A Sky Full Of SARs' - Electron]]                                                 |
+| File                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------- |
+| [[Launch/Launches/061 'The Lightning God Reigns'.md\|061 'The Lightning God Reigns']]                                     |
+| [[Launch/Launches/060 'Fasten Your Space Belts'.md\|060 'Fasten Your Space Belts']]                                       |
+| [[Launch/Launches/059 'IOT 4 You and Me'.md\|059 'IOT 4 You and Me']]                                                     |
+| [[Launch/Launches/058 'Owl The Way Up'.md\|058 'Owl The Way Up']]                                                         |
+| [[Launch/Launches/057 'Stonehenge'.md\|057 'Stonehenge']]                                                                 |
+| [[Launch/Launches/056 'Ice AIS Baby'.md\|056 'Ice AIS Baby']]                                                             |
+| [[Launch/Launches/055 'HASTE A La Vista'.md\|055 'HASTE A La Vista']]                                                     |
+| [[Launch/Launches/054 'Changes In Latitudes, Changes In Attitudes'.md\|054 'Changes In Latitudes, Changes In Attitudes']] |
+| [[Launch/Launches/053 'Kineis Killed the RadIOT Star'.md\|053 'Kineis Killed the RadIOT Star']]                           |
+| [[Launch/Launches/052 'A Sky Full Of SARs'.md\|052 'A Sky Full Of SARs']]                                                 |
 
 %% DATAVIEW_PUBLISHER: end %%
 ## ℹ️ Resources

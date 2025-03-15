@@ -1,18 +1,17 @@
 ---
-
 title: "Rocket Lab Readies First 2022 Electron Launch, BlackSky Adds Another Mission to Manifest "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-readies-first-2022-electron-launch-blacksky-adds-another-mission-to-manifest/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-readies-first-2022-electron-launch-blacksky-adds-another-mission-to-manifest/
 author:
   - "[[Rocket Lab]]"
 published: 2022-01-18
-description: "This 24th Electron launch is the latest in a multi-launch deal with Spaceflight Inc. for BlackSky, which has secured an additional dedicated mission on Rocket Lab’s 2022 launch manifest following multiple successful missions last year."
+description: This 24th Electron launch is the latest in a multi-launch deal with Spaceflight Inc. for BlackSky, which has secured an additional dedicated mission on Rocket Lab’s 2022 launch manifest following multiple successful missions last year.
 customer:
- - "[[BlackSky]]"
+  - "[[BlackSky]]"
 mission:
- - "[[025 'Without Mission A Beat' - Electron]]"
+  - "[[025 'Without Mission A Beat']]"
 tags:
- - electron
- - launch
+  - electron
+  - launch
 ---
 >[!summary]
 #electron #launch
@@ -22,7 +21,7 @@ tags:
 **Published:** 2022-01-18
 **Description:** This 24th Electron launch is the latest in a multi-launch deal with Spaceflight Inc. for BlackSky, which has secured an additional dedicated mission on Rocket Lab’s 2022 launch manifest following multiple successful missions last year.
 **Customer:** [[BlackSky]]
-**Mission:** [[025 'Without Mission A Beat' - Electron]]
+**Mission:** [[025 'Without Mission A Beat']]
 
 *This 24<sup>th</sup> Electron launch is the latest in a multi-launch deal with Spaceflight Inc. for BlackSky, which has secured an additional dedicated mission on Rocket Lab’s 2022 launch manifest following multiple successful missions last year.*
 

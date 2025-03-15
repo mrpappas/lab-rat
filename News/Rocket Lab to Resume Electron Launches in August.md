@@ -1,21 +1,20 @@
 ---
-
 title: "Rocket Lab to Resume Electron Launches in August  "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-to-resume-electron-launches-in-august/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-to-resume-electron-launches-in-august/
 author:
   - "[[Rocket Lab]]"
 published: 2020-07-31
 description: "*Rocket Lab to Resume Electron Launches in August*"
-Customer: 
-- "[[Planet Labs]]"
-- "[[Spaceflight]]"
-- "[[Canon Electronics]]"
-- "[[In-Space Missions]]"
+Customer:
+  - "[[Planet Labs]]"
+  - "[[Spaceflight]]"
+  - "[[Canon Electronics]]"
+  - "[[In-Space Missions]]"
 mission:
- - "[[013 'Pics Or It Didn't Happen' - Electron]]"
+  - "[[013 'Pics Or It Didn't Happen']]"
 tags:
- - electron
- - anomaly
+  - electron
+  - anomaly
 ---
 >[!summary]
 #electron #anomaly
@@ -25,7 +24,7 @@ tags:
 **Published:** 2020-07-31
 **Description:** *Rocket Lab to Resume Electron Launches in August*
 **Customer:** [[Planet Labs]], [[Spaceflight]], [[Canon Electronics]], [[In-Space Missions]]
-**Mission:** [[013 'Pics Or It Didn't Happen' - Electron]]
+**Mission:** [[013 'Pics Or It Didn't Happen']]
 
 **Rocket Lab to Resume Electron Launches in August**
 

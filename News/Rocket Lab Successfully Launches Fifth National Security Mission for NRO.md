@@ -1,16 +1,15 @@
 ---
-
 title: "Rocket Lab Successfully Launches Fifth National Security Mission for NRO "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-fifth-national-security-mission-for-nro/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-fifth-national-security-mission-for-nro/
 author:
   - "[[Rocket Lab]]"
 published: 2024-03-21
 description: "*The mission was Rocket Lab’s first launch for the National Reconnaissance Office from U.S. soil following four previous successful launches for the agency from New Zealand*"
 customer: "[[National Reconnaissance Office (NRO)]]"
-mission: "[[046 'Live And Let Fly' - Electron]]"
+mission: "[[046 'Live And Let Fly']]"
 tags:
-  - "launch"
-  - "electron"
+  - launch
+  - electron
 ---
 >[!summary]
 #launch #electron
@@ -20,7 +19,7 @@ tags:
 **Published:** 2024-03-21
 **Description:** *The mission was Rocket Lab’s first launch for the National Reconnaissance Office from U.S. soil following four previous successful launches for the agency from New Zealand*
 **Customer:** [[National Reconnaissance Office (NRO)]]
-**Mission:** [[046 'Live And Let Fly' - Electron]]
+**Mission:** [[046 'Live And Let Fly']]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-fifth-national-security-mission-for-nro/
 

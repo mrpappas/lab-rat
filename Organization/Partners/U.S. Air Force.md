@@ -14,17 +14,17 @@ website: https://www.airforce.com/
 
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date
+table location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
-where contains(customer, [[U.S. Air Force]]) and outcome = "Success"
+where contains(customer, [[U.S. Air Force]])
 sort launch_date desc
 ```
 %%
 
-| File                                                                                          | launch_date      |
-| --------------------------------------------------------------------------------------------- | ---------------- |
-| [[Launch/Launches/008 'Look Ma, No Hands' - Electron.md\|008 'Look Ma, No Hands' - Electron]] | 2019-08-19 12:12 |
-| [[Launch/Launches/006 'STP-27RD' - Electron.md\|006 'STP-27RD' - Electron]]                   | 2019-05-05 06:00 |
+| File                                                                    | Location                                              | Vehicle                          | Orbit & Mass             | Outcome   |
+| ----------------------------------------------------------------------- | ----------------------------------------------------- | -------------------------------- | ------------------------ | --------- |
+| [[Launch/Launches/008 'Look Ma, No Hands'.md\|008 'Look Ma, No Hands']] | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 510 km \| 94.8° \| 80 kg | ✅ Success |
+| [[Launch/Launches/006 'STP-27RD'.md\|006 'STP-27RD']]                   | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 500 km \| 40° \| 180 kg  | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end %%
 

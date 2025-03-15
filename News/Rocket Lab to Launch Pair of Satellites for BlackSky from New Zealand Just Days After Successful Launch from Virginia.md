@@ -1,16 +1,15 @@
 ---
-
 title: "Rocket Lab to Launch Pair of Satellites for BlackSky from New Zealand Just Days After Successful Launch from Virginia "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-to-launch-pair-of-satellites-for-blacksky-from-new-zealand-just-days-after-successful-launch-from-virginia/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-to-launch-pair-of-satellites-for-blacksky-from-new-zealand-just-days-after-successful-launch-from-virginia/
 author:
   - "[[Rocket Lab]]"
 published: 2023-03-17
-description: "The mission, Rocket Lab’s 8th mission for BlackSky Global, is scheduled to lift-off from Launch Complex 1 in New Zealand just six days after a successful mission from Launch Complex 2 in Virginia."
+description: The mission, Rocket Lab’s 8th mission for BlackSky Global, is scheduled to lift-off from Launch Complex 1 in New Zealand just six days after a successful mission from Launch Complex 2 in Virginia.
 customer: "[[BlackSky]]"
-mission: "[[035 'The Beat Goes On' - Electron]]"
+mission: "[[035 'The Beat Goes On']]"
 tags:
-  - "launch"
-  - "electron"
+  - launch
+  - electron
 ---
 >[!summary]
 #launch #electron
@@ -20,7 +19,7 @@ tags:
 **Published:** 2023-03-17
 **Description:** The mission, Rocket Lab’s 8th mission for BlackSky Global, is scheduled to lift-off from Launch Complex 1 in New Zealand just six days after a successful mission from Launch Complex 2 in Virginia.
 **Customer:** [[BlackSky]]
-**Mission:** [[035 'The Beat Goes On' - Electron]]
+**Mission:** [[035 'The Beat Goes On']]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-to-launch-pair-of-satellites-for-blacksky-from-new-zealand-just-days-after-successful-launch-from-virginia/
 

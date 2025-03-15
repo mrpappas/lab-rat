@@ -1,7 +1,6 @@
 ---
-
 title: "Rocket Lab to fly Planet and Spire satellites on second test flight "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-to-fly-planet-and-spire-satellites-on-second-test-flight/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-to-fly-planet-and-spire-satellites-on-second-test-flight/
 author:
   - "[[Rocket Lab]]"
 published: 2017-11-22
@@ -10,10 +9,10 @@ customer:
   - "[[Planet Labs]]"
   - "[[Spire Global]]"
 mission:
- - "[[002 'Still Testing' - Electron]]"
+  - "[[002 'Still Testing']]"
 tags:
- - electron
- - launch
+  - electron
+  - launch
 ---
 >[!summary]
 #electron #launch
@@ -23,7 +22,7 @@ tags:
 **Published:** 2017-11-22
 **Description:** *Huntington Beach, California and Auckland, New Zealand September 25, 2017:*
 **Customer:** [[Planet Labs]], [[Spire Global]]
-**Mission:** [[002 'Still Testing' - Electron]]
+**Mission:** [[002 'Still Testing']]
 
 **Huntington Beach, California and Auckland, New Zealand September 25, 2017:**
 

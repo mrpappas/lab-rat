@@ -1,7 +1,6 @@
 ---
-
 title: "Rocket Lab delays ‘Still Testing’ launch attempt "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-delays-still-testing-launch-attempt/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-delays-still-testing-launch-attempt/
 author:
   - "[[Rocket Lab]]"
 published: 2017-12-16
@@ -10,10 +9,10 @@ customer:
   - "[[Planet Labs]]"
   - "[[Spire Global]]"
 mission:
- - "[[002 'Still Testing' - Electron]]"
+  - "[[002 'Still Testing']]"
 tags:
- - electron
- - launch
+  - electron
+  - launch
 ---
 >[!summary]
 #electron #launch
@@ -23,7 +22,7 @@ tags:
 **Published:** 2017-12-16
 **Description:** *Saturday 16 December NZDT*: Rocket Lab has delayed its second test flight of the Electron rocket until early 2018.
 **Customer:** [[Planet Labs]], [[Spire Global]]
-**Mission:** [[002 'Still Testing' - Electron]]
+**Mission:** [[002 'Still Testing']]
 
 **Saturday 16 December NZDT**: Rocket Lab has delayed its second test flight of the Electron rocket until early 2018. 
 

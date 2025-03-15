@@ -1,16 +1,15 @@
 ---
-
 title: "Rocket Lab Successfully Launches First of Two Responsive Space Missions for the  National Reconnaissance Office  "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-first-of-two-responsive-space-missions-for-the-national-reconnaissance-office/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-first-of-two-responsive-space-missions-for-the-national-reconnaissance-office/
 author:
   - "[[Rocket Lab]]"
 published: 2022-07-13
 description: "*Long Beach, California. July 13, 2022* – Rocket Lab USA, Inc (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, has successfully launched the first of two responsive space missions for the National Reconnaissance Office (NRO)."
 customer: "[[National Reconnaissance Office (NRO)]]"
-mission: "[[028 'Wise One Looks Ahead' - Electron]]"
+mission: "[[028 'Wise One Looks Ahead']]"
 tags:
-  - "launch"
-  - "electron"
+  - launch
+  - electron
 ---
 >[!summary]
 #launch #electron
@@ -20,7 +19,7 @@ tags:
 **Published:** 2022-07-13
 **Description:** *Long Beach, California. July 13, 2022* – Rocket Lab USA, Inc (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, has successfully launched the first of two responsive space missions for the National Reconnaissance Office (NRO).
 **Customer:** [[National Reconnaissance Office (NRO)]]
-**Mission:** [[028 'Wise One Looks Ahead' - Electron]]
+**Mission:** [[028 'Wise One Looks Ahead']]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-first-of-two-responsive-space-missions-for-the-national-reconnaissance-office/
 

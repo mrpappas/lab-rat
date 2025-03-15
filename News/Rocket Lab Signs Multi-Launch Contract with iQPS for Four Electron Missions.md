@@ -1,15 +1,15 @@
 ---
-title: "Rocket Lab Signs Multi-Launch Contract with iQPS for Four Electron Missions"
-source: "https://www.rocketlabusa.com/updates/rocket-lab-signs-multi-launch-contract-with-iqps-for-four-electron-missions/"
+title: Rocket Lab Signs Multi-Launch Contract with iQPS for Four Electron Missions
+source: https://www.rocketlabusa.com/updates/rocket-lab-signs-multi-launch-contract-with-iqps-for-four-electron-missions/
 author:
   - "[[Rocket Lab]]"
 published: 2025-02-03
-mission: "[[061 'The Lightning God Reigns' - Electron]]"
-customer: 
- - "[[iQPS]]"
+mission: "[[061 'The Lightning God Reigns']]"
+customer:
+  - "[[iQPS]]"
 tags:
- - electron
- - contract
+  - electron
+  - contract
 ---
 
 >[!summary]

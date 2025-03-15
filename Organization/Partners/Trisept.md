@@ -15,17 +15,17 @@ TriSept provides launch integration, mission management, and engineering service
 
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date
+table location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
-where contains(customer, [[Trisept]]) and outcome = "Success"
+where contains(customer, [[Trisept]])
 sort launch_date desc
 ```
 %%
 
-| File                                                                                            | launch_date      |
-| ----------------------------------------------------------------------------------------------- | ---------------- |
-| [[Launch/Launches/019 'They Go Up So Fast' - Electron.md\|019 'They Go Up So Fast' - Electron]] | 2021-03-22 22:30 |
-| [[Launch/Launches/016 'Return to Sender' - Electron.md\|016 'Return to Sender' - Electron]]     | 2020-11-20 02:20 |
+| File                                                                      | Location                                              | Vehicle                          | Orbit & Mass                        | Outcome   |
+| ------------------------------------------------------------------------- | ----------------------------------------------------- | -------------------------------- | ----------------------------------- | --------- |
+| [[Launch/Launches/019 'They Go Up So Fast'.md\|019 'They Go Up So Fast']] | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 450 km and 550 km \| 45° \| Unknown | ✅ Success |
+| [[Launch/Launches/016 'Return to Sender'.md\|016 'Return to Sender']]     | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 500 km \| 97.3° \| 200 kg           | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end %%
 

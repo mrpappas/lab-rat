@@ -1,16 +1,15 @@
 ---
-
 title: "Rocket Lab Successfully Launches 34th Electron Rocket, Second Mission from Virginia "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-34th-electron-rocket-second-mission-from-virginia/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-34th-electron-rocket-second-mission-from-virginia/
 author:
   - "[[Rocket Lab]]"
 published: 2023-03-16
 description: "*Long Beach, Calif. March 16, 2023* – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, today announced it has successfully launched its 34th Electron rocket and second mission from its launch site on Wallops Island, Virginia deploying two spacecraft to low Earth orbit for Capella Space."
 customer: "[[Capella Space]]"
-mission: "[[034 'Stronger Together' - Electron]]"
+mission: "[[034 'Stronger Together']]"
 tags:
-  - "launch"
-  - "electron"
+  - launch
+  - electron
 ---
 >[!summary]
 #launch #electron
@@ -20,7 +19,7 @@ tags:
 **Published:** 2023-03-16
 **Description:** *Long Beach, Calif. March 16, 2023* – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, today announced it has successfully launched its 34th Electron rocket and second mission from its launch site on Wallops Island, Virginia deploying two spacecraft to low Earth orbit for Capella Space.
 **Customer:** [[Capella Space]]
-**Mission:** [[034 'Stronger Together' - Electron]]
+**Mission:** [[034 'Stronger Together']]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-34th-electron-rocket-second-mission-from-virginia/
 

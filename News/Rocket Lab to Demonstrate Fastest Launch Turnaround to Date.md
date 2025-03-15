@@ -1,21 +1,20 @@
 ---
-
 title: "Rocket Lab to Demonstrate Fastest Launch Turnaround to Date  "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-to-demonstrate-fastest-launch-turnaround-to-date/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-to-demonstrate-fastest-launch-turnaround-to-date/
 author:
   - "[[Rocket Lab]]"
 published: 2020-06-15
 description: "*Rocket Lab to Demonstrate Fastest Launch Turnaround to Date *"
-customer: 
-- "[[Planet Labs]]"
-- "[[Spaceflight]]"
-- "[[Canon Electronics]]"
-- "[[In-Space Missions]]"
+customer:
+  - "[[Planet Labs]]"
+  - "[[Spaceflight]]"
+  - "[[Canon Electronics]]"
+  - "[[In-Space Missions]]"
 mission:
- - "[[013 'Pics Or It Didn't Happen' - Electron]]"
+  - "[[013 'Pics Or It Didn't Happen']]"
 tags:
- - electron
- - launch
+  - electron
+  - launch
 ---
 >[!summary]
 #electron #launch
@@ -25,7 +24,7 @@ tags:
 **Published:** 2020-06-15
 **Description:** *Rocket Lab to Demonstrate Fastest Launch Turnaround to Date *
 **Customer:** [[Planet Labs]], [[Spaceflight]], [[Canon Electronics]], [[In-Space Missions]]
-**Mission:** [[013 'Pics Or It Didn't Happen' - Electron]]
+**Mission:** [[013 'Pics Or It Didn't Happen']]
 
 **Rocket Lab to Demonstrate Fastest Launch Turnaround to Date** 
 

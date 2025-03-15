@@ -1,16 +1,15 @@
 ---
-
 title: "Mission Success for Rocket Lab’s Latest Suborbital Hypersonic Launch  "
-source: "https://www.rocketlabusa.com/updates/mission-success-for-rocket-labs-latest-suborbital-hypersonic-launch/"
+source: https://www.rocketlabusa.com/updates/mission-success-for-rocket-labs-latest-suborbital-hypersonic-launch/
 author:
   - "[[Rocket Lab]]"
 published: 2024-12-09
 description: "*Long Beach, Calif. 09 December, 2024.* Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced it successfully launched a suborbital mission in November to test hypersonic technology for the Department of Defense."
 customer: "[[U.S. Department of Defense]]"
-mission: "[[055 'HASTE A La Vista' - HASTE]]"
+mission: "[[055 'HASTE A La Vista']]"
 tags:
-  - "launch"
-  - "HASTE"
+  - launch
+  - HASTE
 ---
 >[!summary]
 #launch #HASTE
@@ -20,7 +19,7 @@ tags:
 **Published:** 2024-12-09
 **Description:** *Long Beach, Calif. 09 December, 2024.* Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced it successfully launched a suborbital mission in November to test hypersonic technology for the Department of Defense.
 **Customer:** [[U.S. Department of Defense]]
-**Mission:** [[055 'HASTE A La Vista' - HASTE]]
+**Mission:** [[055 'HASTE A La Vista']]
 
 **Source**: https://www.rocketlabusa.com/updates/mission-success-for-rocket-labs-latest-suborbital-hypersonic-launch/
 

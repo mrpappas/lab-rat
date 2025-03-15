@@ -1,18 +1,17 @@
 ---
-
 title: "Rocket Lab to Launch Dedicated Mission for Japanese Space Industry Start-up Company Synspective "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-to-launch-dedicated-mission-for-japanese-space-industry-start-up-company-synspective/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-to-launch-dedicated-mission-for-japanese-space-industry-start-up-company-synspective/
 author:
   - "[[Rocket Lab]]"
 published: 2020-04-14
 description: "*Rocket Lab to Launch Dedicated Mission for Japanese Space Industry Start-up Company Synspective*"
 customer:
- - "[[Synspective]]"
+  - "[[Synspective]]"
 mission:
- - "[[017 'The Owl's Night Begins' - Electron]]"
+  - "[[017 'The Owl's Night Begins']]"
 tags:
- - electron
- - contract
+  - electron
+  - contract
 ---
 >[!summary]
 #electron #contract
@@ -22,7 +21,7 @@ tags:
 **Published:** 2020-04-14
 **Description:** *Rocket Lab to Launch Dedicated Mission for Japanese Space Industry Start-up Company Synspective*
 **Customer:** [[Synspective]]
-**Mission:** [[017 'The Owl's Night Begins' - Electron]]
+**Mission:** [[017 'The Owl's Night Begins']]
 
 **Rocket Lab to Launch Dedicated Mission for Japanese Space Industry Start-up Company Synspective**
 

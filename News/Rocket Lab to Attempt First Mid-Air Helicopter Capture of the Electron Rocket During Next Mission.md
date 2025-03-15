@@ -1,23 +1,22 @@
 ---
-
 title: "Rocket Lab to Attempt First Mid-Air Helicopter Capture of the Electron Rocket During Next Mission "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-to-attempt-first-mid-air-helicopter-capture-of-the-electron-rocket-during-next-mission/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-to-attempt-first-mid-air-helicopter-capture-of-the-electron-rocket-during-next-mission/
 author:
   - "[[Rocket Lab]]"
 published: 2022-04-06
-description: "For the first time, Rocket Lab will attempt a mid-air helicopter capture of an Electron rocket as it returns to Earth from space, furthering the company’s program to make Electron the first reusable orbital small launch vehicle"
-Customer: 
-- "[[Alba Orbital]]"
-- "[[Astrix Astronautics]]"
-- "[[Aurora Propulsion Technologies]]"
-- "[[E-Space]]"
-- "[[Spaceflight]]"
-- "[[Unseenlabs]]"
-mission: "[[026 'There And Back Again' - Electron]]"
+description: For the first time, Rocket Lab will attempt a mid-air helicopter capture of an Electron rocket as it returns to Earth from space, furthering the company’s program to make Electron the first reusable orbital small launch vehicle
+Customer:
+  - "[[Alba Orbital]]"
+  - "[[Astrix Astronautics]]"
+  - "[[Aurora Propulsion Technologies]]"
+  - "[[E-Space]]"
+  - "[[Spaceflight]]"
+  - "[[Unseenlabs]]"
+mission: "[[026 'There And Back Again']]"
 tags:
- - electron
- - launch
- - reusability
+  - electron
+  - launch
+  - reusability
 ---
 >[!summary]
 #electron #launch #reusability
@@ -27,7 +26,7 @@ tags:
 **Published:** 2022-04-06
 **Description:** For the first time, Rocket Lab will attempt a mid-air helicopter capture of an Electron rocket as it returns to Earth from space, furthering the company’s program to make Electron the first reusable orbital small launch vehicle
 **Customer:** [[Alba Orbital]], [[Astrix Astronautics]], [[Aurora Propulsion Technologies]], [[E-Space]], [[Spaceflight]], [[Unseenlabs]]
-**Mission:** [[026 'There And Back Again' - Electron]]
+**Mission:** [[026 'There And Back Again']]
 
 *For the first time, Rocket Lab will attempt a mid-air helicopter capture of an Electron rocket as it returns to Earth from space, furthering the company’s program to make Electron the first reusable orbital small launch vehicle*
 

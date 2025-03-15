@@ -1,16 +1,15 @@
 ---
-
 title: "Rocket Lab Announces Launch Window for Next Mission in Multi-Launch Contract for Capella Space "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-announces-launch-window-for-next-mission-in-multi-launch-contract-for-capella-space/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-announces-launch-window-for-next-mission-in-multi-launch-contract-for-capella-space/
 author:
   - "[[Rocket Lab]]"
 published: 2023-07-20
-description: "The “We Love the Nightlife” mission, Rocket Lab’s 40th Electron launch, will deliver the first of Capella Space’s next generation ‘Acadia’ Earth observation satellites to low Earth orbit."
+description: The “We Love the Nightlife” mission, Rocket Lab’s 40th Electron launch, will deliver the first of Capella Space’s next generation ‘Acadia’ Earth observation satellites to low Earth orbit.
 customer: "[[Capella Space]]"
-mission: "[[040 'We Love The Nightlife' - Electron]]"
+mission: "[[040 'We Love The Nightlife']]"
 tags:
-  - "electron"
-  - "launch"
+  - electron
+  - launch
 ---
 >[!summary]
 #electron #launch
@@ -20,7 +19,7 @@ tags:
 **Published:** 2023-07-20
 **Description:** The “We Love the Nightlife” mission, Rocket Lab’s 40th Electron launch, will deliver the first of Capella Space’s next generation ‘Acadia’ Earth observation satellites to low Earth orbit.
 **Customer:** [[Capella Space]]
-**Mission:** [[040 'We Love The Nightlife' - Electron]]
+**Mission:** [[040 'We Love The Nightlife']]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-announces-launch-window-for-next-mission-in-multi-launch-contract-for-capella-space/
 

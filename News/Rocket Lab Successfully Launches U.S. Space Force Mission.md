@@ -1,18 +1,17 @@
 ---
-
 title: "Rocket Lab Successfully Launches U.S. Space Force Mission "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-u-s-space-force-mission/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-u-s-space-force-mission/
 author:
   - "[[Rocket Lab]]"
 published: 2021-07-29
 description: "*Rocket Lab Successfully Launches U.S. Space Force Mission*"
 customer:
- - "[[U.S. Space Force]]"
+  - "[[U.S. Space Force]]"
 mission:
- - "[[021 'It's A Little Chile Up Here' - Electron]]"
+  - "[[021 'It's A Little Chile Up Here']]"
 tags:
- - electron
- - launch
+  - electron
+  - launch
 ---
 >[!summary]
 #electron #launch
@@ -22,7 +21,7 @@ tags:
 **Published:** 2021-07-29
 **Description:** *Rocket Lab Successfully Launches U.S. Space Force Mission*
 **Customer:** [[U.S. Space Force]]
-**Mission:** [[021 'It's A Little Chile Up Here' - Electron]]
+**Mission:** [[021 'It's A Little Chile Up Here']]
 
 **Rocket Lab Successfully Launches U.S. Space Force Mission**
 

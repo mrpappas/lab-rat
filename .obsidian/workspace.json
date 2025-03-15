@@ -13,31 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Launch/Launches/061 'The Lightning God Reigns' - Electron.md",
+                "file": "🚀 Launches.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "061 'The Lightning God Reigns' - Electron"
+              "title": "🚀 Launches"
             }
           },
           {
-            "id": "eecfdf0a932a0542",
+            "id": "ab2a7c865c50e79c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "News/Rocket Lab Signs Second Multi-Launch Deal, Secures Eight Electron Missions with iQPS.md",
+                "file": "🚀 Launches.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Rocket Lab Signs Second Multi-Launch Deal, Secures Eight Electron Missions with iQPS"
+              "title": "🚀 Launches"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Canisterized Satellite Dispenser",
+                "query": "Orora",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -202,47 +203,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "46ab014e1923638a",
+  "active": "ab2a7c865c50e79c",
   "lastOpenFiles": [
-    "Launch/Launches/060 'Fasten Your Space Belts' - Electron.md",
-    "Launch/Launches/061 'The Lightning God Reigns' - Electron.md",
-    "News/Rocket Lab Schedules Two Launches Three Days Apart, Upcoming Mission to Deploy Final Satellites in Kinéis Constellation.md",
-    "News/Rocket Lab Signs Second Multi-Launch Deal, Secures Eight Electron Missions with iQPS.md",
-    "📰 News.md",
-    "Vault-Assets/Images/Pasted image 20241229145415.jpg",
-    "Launch/⚖️ NASA Rocket Risk Classification.md",
+    "Organization/Partners/York Space Systems.md",
+    "Organization/Partners/Vector Acquisition Corporation (VACQ).md",
+    "Organization/Partners/Varda Space Industries.md",
+    "Organization/Partners/Valve.md",
+    "Organization/Partners/UTIAS Space Flight Laboratory.md",
+    "Organization/Partners/USTRANSCOM.md",
+    "Organization/Partners/UNSW Canberra Space.md",
+    "Organization/Partners/Unseenlabs.md",
+    "Organization/Partners/University of California Berkeley Space Sciences Laboratory.md",
+    "Organization/Partners/U.S. Space Force.md",
+    "Organization/Partners/U.S. Department of Defense.md",
+    "Organization/Partners/U.S. Army.md",
+    "Organization/Partners/U.S. Air Force.md",
+    "Organization/Partners/Tyvak Nano-Satellite Systems.md",
+    "Organization/Partners/Trisept.md",
+    "Organization/Partners/The University of Auckland.md",
+    "Organization/Partners/Telesat.md",
+    "Organization/Partners/Synspective.md",
+    "Organization/Partners/Swedish National Space Agency.md",
+    "Organization/Partners/Swarm.md",
+    "Organization/Partners/Spire Global.md",
+    "Organization/Partners/Spaceflight.md",
+    "Organization/Partners/Space Development Agency (SDA).md",
+    "Organization/Partners/SailGP.md",
+    "Organization/Partners/Redwire Space.md",
+    "Organization/Partners/Planet Labs.md",
+    "Vault-Assets/Images/52328481908_3e649b4570_b.jpg",
+    "Vault-Assets/Images/Globalstar_constellation-Globalstar.webp",
     "Vault-Assets/Images/Pasted image 20250314201500.png",
-    "Organization/Partners/iQPS.md",
-    "🚀 Launches.md",
-    "Launch/Launches/059 'IOT 4 You and Me' - Electron.md",
-    "🙋 People.md",
-    "Vault-Assets/PDFs/F61-The-Lightning-God-Reigns-press-kit-final (1).pdf",
-    "Launch/Launches/061 ''.md",
-    "Space Systems/Separation Systems/Canisterized Satellite Dispenser (CSD).md",
-    "Space Systems/Separation Systems/Maxwell CubeSat Dispenser.md",
     "Vault-Assets/Images/Pasted image 20250313193643.png",
-    "Vault-Assets/Images/Pasted image 20250313193153.png",
-    "Space Systems/Separation Systems/Advanced Satellite Dispenser (ASD).md",
-    "News/Rocket Lab Introduces Next-Generation Satellite Dispenser.md",
-    "News/Rocket Lab to Acquire Space Hardware Company Planetary Systems Corporation.md",
-    "Organization/People/Walter Holemans.md",
-    "Organization/Subsidiaries/Planetary Systems Corporation (PSC).md",
-    "Vault-Assets/Images/Pasted image 20250313190629.png",
-    "Vault-Assets/Images/Pasted image 20250313191052.png",
+    "Vault-Assets/Images/DYCDyj0U0AEJT7J.png",
+    "Vault-Assets/Images/Artist-view-OneWeb-satellite-Copyright-Eutelsat-OneWeb.gif",
+    "Vault-Assets/Images/ARGOS-4 (1).jpg.webp",
+    "Vault-Assets/Images/52360875908_3635562dc5_c.jpg",
+    "Vault-Assets/Images/51898840602_05fe12a63f_c.jpg",
+    "Vault-Assets/Images/Pasted image 20241229145415.jpg",
+    "Vault-Assets/PDFs/F61-The-Lightning-God-Reigns-press-kit-final (1).pdf",
     "Vault-Assets/PDFs/2002337G-CSD-Data-Sheet-compressed2.pdf",
-    "Home.md",
-    "📋 To Do List.md",
-    "Space Systems/Software/SOLIS.md",
-    "Space Systems/⚖️ NASA Mission and Instrument Risk Classification.md",
-    "Space Systems/Software/MAX Ground Data System.md",
-    "Space Systems/Software/MAX Flight Software.md",
-    "Space Systems/Software/Maestro.md",
-    "Space Systems/Software/Intermission.md",
-    "Vault-Assets/Images/Pasted image 20250312225313.png",
     "Vault-Assets/PDFs/RL-MAX-FSW-Brochure- (1).pdf",
-    "RL-MAESTRO-White.svg",
-    "Vault-Assets/Images/Pasted image 20250312215731.png",
-    "Vault-Assets/Images/Pasted image 20250312220457.png",
     "Vault-Assets/PDFs/3cffed2d-0bc6-4b84-aaab-59a083dbcaf1.pdf",
     "Vault-Assets/PDFs/61afe5ea-35cf-4e30-8272-4de7742e2197.pdf",
     "Filings/2025/Misc",

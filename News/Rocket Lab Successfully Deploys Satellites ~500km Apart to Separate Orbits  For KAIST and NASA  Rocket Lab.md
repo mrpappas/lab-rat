@@ -1,18 +1,17 @@
 ---
-
 title: "Rocket Lab Successfully Deploys Satellites ~500km Apart to Separate Orbits  For KAIST and NASA "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-deploys-satellites-500km-apart-to-separate-orbits-for-kaist-and-nasa/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-deploys-satellites-500km-apart-to-separate-orbits-for-kaist-and-nasa/
 author:
   - "[[Rocket Lab]]"
 published: 2024-04-24
-description: "Following payload deployment to two separate orbits, Electron’s Kick Stage completed a final engine burn to lower its altitude and speed up its reentry to help reduce space junk."
+description: Following payload deployment to two separate orbits, Electron’s Kick Stage completed a final engine burn to lower its altitude and speed up its reentry to help reduce space junk.
 customer:
- - "[[NASA]]"
- - "[[Korea Advanced Institute of Science and Technology]]"
-mission: "[[047 'Beginning Of The Swarm' - Electron]]"
+  - "[[NASA]]"
+  - "[[Korea Advanced Institute of Science and Technology]]"
+mission: "[[047 'Beginning Of The Swarm']]"
 tags:
-  - "launch"
-  - "electron"
+  - launch
+  - electron
 ---
 >[!summary]
 #launch #electron
@@ -22,7 +21,7 @@ tags:
 **Published:** 2024-04-24
 **Description:** Following payload deployment to two separate orbits, Electron’s Kick Stage completed a final engine burn to lower its altitude and speed up its reentry to help reduce space junk.
 **Customer:** [[NASA]], [[Korea Advanced Institute of Science and Technology]]
-**Mission:** [[047 'Beginning Of The Swarm' - Electron]]
+**Mission:** [[047 'Beginning Of The Swarm']]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-deploys-satellites-500km-apart-to-separate-orbits-for-kaist-and-nasa/
 

@@ -14,16 +14,16 @@ Astroscale-Japan is a subsidiary of Astroscale Holdings, a company dedicated to 
 
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date
+table location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
-where contains(customer, [[Astroscale-Japan]]) and outcome = "Success"
+where contains(customer, [[Astroscale-Japan]])
 sort launch_date desc
 ```
 %%
 
-| File                                                                                                | launch_date      |
-| --------------------------------------------------------------------------------------------------- | ---------------- |
-| [[Launch/Launches/044 'On Closer Inspection' - Electron.md\|044 'On Closer Inspection' - Electron]] | 2024-02-19 14:52 |
+| File                                                                          | Location                                              | Vehicle                          | Orbit & Mass            | Outcome   |
+| ----------------------------------------------------------------------------- | ----------------------------------------------------- | -------------------------------- | ----------------------- | --------- |
+| [[Launch/Launches/044 'On Closer Inspection'.md\|044 'On Closer Inspection']] | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 600 km \| 98° \| 150 kg | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end %%
 

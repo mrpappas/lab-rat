@@ -1,20 +1,19 @@
 ---
-
 title: "Rocket Lab to Launch Three Back-To-Back Missions for BlackSky from late August "
-source: "https://www.rocketlabusa.com/updates/new-blog-post-5/"
+source: https://www.rocketlabusa.com/updates/new-blog-post-5/
 author:
   - "[[Rocket Lab]]"
 published: 2021-08-10
-description: "The next Electron rocket on the pad is the first of three dedicated missions for BlackSky scheduled for lift-off from late August through September."
-customer: 
- - "[[BlackSky]]"
-mission: 
- - "[[022 'Love At First Insight' - Electron]]"
- - "[[023 'A Data With Destiny' - Electron]]"
- - "[[025 'Without Mission A Beat' - Electron]]"
-tags: 
- - contract
- - electron
+description: The next Electron rocket on the pad is the first of three dedicated missions for BlackSky scheduled for lift-off from late August through September.
+customer:
+  - "[[BlackSky]]"
+mission:
+  - "[[022 'Love At First Insight']]"
+  - "[[023 'A Data With Destiny']]"
+  - "[[025 'Without Mission A Beat']]"
+tags:
+  - contract
+  - electron
 ---
 >[!summary]
 #contract #electron
@@ -24,7 +23,7 @@ tags:
 **Published:** 2021-08-10
 **Description:** The next Electron rocket on the pad is the first of three dedicated missions for BlackSky scheduled for lift-off from late August through September.
 **Customer:** [[BlackSky]]
-**Mission:** [[022 'Love At First Insight' - Electron]], [[023 'A Data With Destiny' - Electron]], [[025 'Without Mission A Beat' - Electron]]
+**Mission:** [[022 'Love At First Insight']], [[023 'A Data With Destiny']], [[025 'Without Mission A Beat']]
 
 *The next Electron rocket on the pad is the first of three dedicated missions for BlackSky scheduled for lift-off from late August through September.*
 

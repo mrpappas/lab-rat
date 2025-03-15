@@ -1,20 +1,19 @@
 ---
-
 title: "Rocket Lab Successfully Raises Orbit a Fourth Time For NASA’s CAPSTONE Moon Mission "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-raises-orbit-a-fourth-time-for-nasas-capstone-moon-mission/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-raises-orbit-a-fourth-time-for-nasas-capstone-moon-mission/
 author:
   - "[[Rocket Lab]]"
 published: 2022-06-30
 description: "*Long Beach, California. June 30, 2022* – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, today confirmed its Photon Lunar spacecraft has successfully brought the CAPSTONE s7atellite for NASA closer to the Moon with the completion of its fourth orbit raising maneuver."
 customer:
- - "[[NASA]]"
- - "[[Advanced Space]]"
+  - "[[NASA]]"
+  - "[[Advanced Space]]"
 mission:
- - "[[027 'CAPSTONE' - Electron]]"
-insider:
+  - "[[027 'CAPSTONE']]"
+insider: 
 tags:
- - space-systems
- - electron
+  - space-systems
+  - electron
 ---
 >[!summary]
 #space-systems #electron
@@ -24,7 +23,7 @@ tags:
 **Published:** 2022-06-30
 **Description:** *Long Beach, California. June 30, 2022* – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, today confirmed its Photon Lunar spacecraft has successfully brought the CAPSTONE s7atellite for NASA closer to the Moon with the completion of its fourth orbit raising maneuver.
 **Customer:** [[NASA]], [[Advanced Space]]
-**Mission:** [[027 'CAPSTONE' - Electron]]
+**Mission:** [[027 'CAPSTONE']]
 **Insider:** None
 
 **Long Beach, California. June 30, 2022** – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, today confirmed its Photon Lunar spacecraft has successfully brought the CAPSTONE satellite for NASA closer to the Moon with the completion of its fourth orbit raising maneuver.

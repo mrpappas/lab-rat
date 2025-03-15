@@ -1,7 +1,6 @@
 ---
-
 title: "Rocket Lab to launch dedicated Electron mission for DARPA "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-to-launch-dedicated-electron-mission-for-darpa/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-to-launch-dedicated-electron-mission-for-darpa/
 author:
   - "[[Rocket Lab]]"
 published: 2019-01-22
@@ -9,10 +8,10 @@ description: "*Rocket Lab to launch dedicated Electron mission for DARPA*"
 customer:
   - "[[DARPA]]"
 mission:
-  - "[[005 'DARPA R3D2' - Electron]]"
+  - "[[005 'DARPA R3D2']]"
 tags:
- - electron
- - contract
+  - electron
+  - contract
 ---
 >[!summary]
 #electron #contract
@@ -22,7 +21,7 @@ tags:
 **Published:** 2019-01-22
 **Description:** *Rocket Lab to launch dedicated Electron mission for DARPA*
 **Customer:** [[DARPA]]
-**Mission:** [[005 'DARPA R3D2' - Electron]]
+**Mission:** [[005 'DARPA R3D2']]
 
 **Rocket Lab to launch dedicated Electron mission for [[DARPA]]**
 

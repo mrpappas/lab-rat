@@ -1,18 +1,17 @@
 ---
-
 title: "Rocket Lab Brings Forward Launch for Earth Imaging Company Synspective "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-brings-forward-launch-for-earth-imaging-company-synspective/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-brings-forward-launch-for-earth-imaging-company-synspective/
 author:
   - "[[Rocket Lab]]"
 published: 2022-02-09
-description: "The mission is the first of three upcoming dedicated Electron launches for Synspective and demonstrates Rocket Lab’s flexible and responsive launch capability."
+description: The mission is the first of three upcoming dedicated Electron launches for Synspective and demonstrates Rocket Lab’s flexible and responsive launch capability.
 customer:
- - "[[Synspective]]"
+  - "[[Synspective]]"
 mission:
- - "[[024 'The Owl's Night Continues' - Electron]]"
+  - "[[024 'The Owl's Night Continues']]"
 tags:
- - electron
- - launch
+  - electron
+  - launch
 ---
 >[!summary]
 #electron #launch
@@ -22,7 +21,7 @@ tags:
 **Published:** 2022-02-09
 **Description:** The mission is the first of three upcoming dedicated Electron launches for Synspective and demonstrates Rocket Lab’s flexible and responsive launch capability.
 **Customer:** [[Synspective]]
-**Mission:** [[024 'The Owl's Night Continues' - Electron]]
+**Mission:** [[024 'The Owl's Night Continues']]
 
 *The mission is the first of three upcoming dedicated Electron launches for [[Synspective]] and demonstrates Rocket Lab’s flexible and responsive launch capability.*
 

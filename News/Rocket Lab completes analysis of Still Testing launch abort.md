@@ -1,7 +1,6 @@
 ---
-
 title: "Rocket Lab completes analysis of Still Testing launch abort "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-completes-analysis-of-still-testing-launch-abort/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-completes-analysis-of-still-testing-launch-abort/
 author:
   - "[[Rocket Lab]]"
 published: 2017-12-13
@@ -10,11 +9,11 @@ customer:
   - "[[Planet Labs]]"
   - "[[Spire Global]]"
 mission:
- - "[[002 'Still Testing' - Electron]]"
+  - "[[002 'Still Testing']]"
 tags:
- - electron
- - launch
- - abort
+  - electron
+  - launch
+  - abort
 ---
 >[!summary]
 #electron #launch #abort
@@ -24,7 +23,7 @@ tags:
 **Published:** 2017-12-13
 **Description:** *Wednesday 13 December, 2017:* Rocket Lab has completed analysis of the Electron test flight abort that occurred during the company’s ‘Still Testing’ launch attempt yesterday.
 **Customer:** [[Planet Labs]], [[Spire Global]]
-**Mission:** [[002 'Still Testing' - Electron]]
+**Mission:** [[002 'Still Testing']]
 
 **Wednesday 13 December, 2017:** Rocket Lab has completed analysis of the Electron test flight abort that occurred during the company’s ‘Still Testing’ launch attempt yesterday. 
 

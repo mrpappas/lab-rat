@@ -1,7 +1,6 @@
 ---
-
 title: "Rocket Lab 'Its Business Time' launch window to open 20 April 2018 NZT "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-to-launch-first-commercial-mission-this-month/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-to-launch-first-commercial-mission-this-month/
 author:
   - "[[Rocket Lab]]"
 published: 2018-04-03
@@ -11,10 +10,10 @@ customer:
   - "[[Tyvak Nano-Satellite Systems]]"
   - "[[Fleet Space]]"
 mission:
- - "[[003 'It's Business Time' - Electron]]"
+  - "[[003 'It's Business Time']]"
 tags:
- - electron
- - launch
+  - electron
+  - launch
 ---
 >[!summary]
 #electron #launch
@@ -24,7 +23,7 @@ tags:
 **Published:** 2018-04-03
 **Description:** *Huntington Beach, California, 3 April 2018:*
 **Customer:** [[Spire Global]], [[Tyvak Nano-Satellite Systems]], [[Fleet Space]]
-**Mission:** [[003 'It's Business Time' - Electron]]
+**Mission:** [[003 'It's Business Time']]
 
 **Huntington Beach, California, 3 April 2018:**
 

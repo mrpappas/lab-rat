@@ -1,22 +1,21 @@
 ---
-
 title: "Rocket Lab to launch It’s Business Time and ELaNa XIX missions weeks apart "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-to-launch-its-business-time-and-elana-xix-missions-weeks-apart/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-to-launch-its-business-time-and-elana-xix-missions-weeks-apart/
 author:
   - "[[Rocket Lab]]"
 published: 2018-08-06
-description: "Rocket Lab back to the pad with rapid, consecutive launches"
+description: Rocket Lab back to the pad with rapid, consecutive launches
 customer:
   - "[[Spire Global]]"
   - "[[Tyvak Nano-Satellite Systems]]"
   - "[[Fleet Space]]"
   - "[[NASA]]"
 mission:
- - "[[003 'It's Business Time' - Electron]]"
- - "[[004 'NASA ELaNa-19' - Electron]]"
+  - "[[003 'It's Business Time']]"
+  - "[[004 'NASA ELaNa-19']]"
 tags:
- - electron
- - launch
+  - electron
+  - launch
 ---
 >[!summary]
 #electron #launch
@@ -26,7 +25,7 @@ tags:
 **Published:** 2018-08-06
 **Description:** Rocket Lab back to the pad with rapid, consecutive launches
 **Customer:** [[Spire Global]], [[Tyvak Nano-Satellite Systems]], [[Fleet Space]], [[NASA]]
-**Mission:** [[003 'It's Business Time' - Electron]], [[004 'NASA ELaNa-19' - Electron]]
+**Mission:** [[003 'It's Business Time']], [[004 'NASA ELaNa-19']]
 
 Rocket Lab back to the pad with rapid, consecutive launches
 

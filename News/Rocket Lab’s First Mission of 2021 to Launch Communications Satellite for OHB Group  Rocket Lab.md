@@ -1,18 +1,17 @@
 ---
-
 title: "Rocket Lab’s First Mission of 2021 to Launch Communications Satellite for OHB Group "
-source: "https://www.rocketlabusa.com/updates/rocket-labs-first-mission-of-2021-to-launch-communications-satellite-for-ohb-group/"
+source: https://www.rocketlabusa.com/updates/rocket-labs-first-mission-of-2021-to-launch-communications-satellite-for-ohb-group/
 author:
   - "[[Rocket Lab]]"
 published: 2021-01-05
 description: "*Rocket Lab’s First Mission of 2021 to Launch Communications Satellite for OHB Group*"
 customer:
- - "[[OHB Group]]"
+  - "[[OHB Group]]"
 mission:
- - "[[018 'Another One Leaves the Crust' - Electron]]"
+  - "[[018 'Another One Leaves the Crust']]"
 tags:
- - electron
- - launch
+  - electron
+  - launch
 ---
 >[!summary]
 #electron #launch
@@ -22,7 +21,7 @@ tags:
 **Published:** 2021-01-05
 **Description:** *Rocket Lab’s First Mission of 2021 to Launch Communications Satellite for OHB Group*
 **Customer:** [[OHB Group]]
-**Mission:** [[018 'Another One Leaves the Crust' - Electron]]
+**Mission:** [[018 'Another One Leaves the Crust']]
 
 **Rocket Lab’s First Mission of 2021 to Launch Communications Satellite for OHB Group**
 

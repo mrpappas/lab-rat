@@ -15,16 +15,16 @@ OHB Group is a leading European space and technology company specializing in the
 
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date
+table location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
-where contains(customer, [[OHB Group]]) and outcome = "Success"
+where contains(customer, [[OHB Group]])
 sort launch_date desc
 ```
 %%
 
-| File                                                                                                                | launch_date      |
-| ------------------------------------------------------------------------------------------------------------------- | ---------------- |
-| [[Launch/Launches/018 'Another One Leaves the Crust' - Electron.md\|018 'Another One Leaves the Crust' - Electron]] | 2021-01-20 07:26 |
+| File                                                                                          | Location                                              | Vehicle                          | Orbit & Mass            | Outcome   |
+| --------------------------------------------------------------------------------------------- | ----------------------------------------------------- | -------------------------------- | ----------------------- | --------- |
+| [[Launch/Launches/018 'Another One Leaves the Crust'.md\|018 'Another One Leaves the Crust']] | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 1200 km \| 90° \| 50 kg | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end %%
 

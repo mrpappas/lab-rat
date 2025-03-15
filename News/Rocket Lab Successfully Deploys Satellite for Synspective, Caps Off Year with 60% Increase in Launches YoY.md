@@ -1,16 +1,15 @@
 ---
-
 title: "Rocket Lab | The Space Company "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-deploys-satellite-for-synspective-caps-off-year-with-60-increase-in-launches-yoy/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-deploys-satellite-for-synspective-caps-off-year-with-60-increase-in-launches-yoy/
 author:
   - "[[Rocket Lab]]"
 published: 2024-12-22
-description: "The end-to-end space company delivering reliable launch services, spacecraft, satellite components."
+description: The end-to-end space company delivering reliable launch services, spacecraft, satellite components.
 customer: "[[Synspective]]"
-mission: "[[058 'Owl The Way Up' - Electron]]"
+mission: "[[058 'Owl The Way Up']]"
 tags:
-  - "launch"
-  - "electron"
+  - launch
+  - electron
 ---
 
 >[!summary]
@@ -21,7 +20,7 @@ tags:
 **Published:** 2024-12-22
 **Description:** The end-to-end space company delivering reliable launch services, spacecraft, satellite components.
 **Customer:** [[Synspective]]
-**Mission:** [[058 'Owl The Way Up' - Electron]]
+**Mission:** [[058 'Owl The Way Up']]
 
 **Source**: https://www.rocketlabusa.com/updates/rocket-lab-successfully-deploys-satellite-for-synspective-caps-off-year-with-60-increase-in-launches-yoy/
 

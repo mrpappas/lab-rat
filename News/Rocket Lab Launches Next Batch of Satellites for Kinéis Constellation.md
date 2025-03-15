@@ -1,17 +1,17 @@
 ---
-title: "Rocket Lab Launches Next Batch of Satellites for Kinéis Constellation"
-source: "https://www.rocketlabusa.com/updates/rocket-lab-launches-next-batch-of-satellites-for-kineis-constellation/"
+title: Rocket Lab Launches Next Batch of Satellites for Kinéis Constellation
+source: https://www.rocketlabusa.com/updates/rocket-lab-launches-next-batch-of-satellites-for-kineis-constellation/
 author:
   - "[[Rocket Lab]]"
 published: 2025-02-08
-description: "The end-to-end space company delivering reliable launch services, spacecraft, satellite components."
+description: The end-to-end space company delivering reliable launch services, spacecraft, satellite components.
 customer:
- - "[[Kinéis]]"
+  - "[[Kinéis]]"
 mission:
- - "[[059 'IOT 4 You and Me' - Electron]]"
+  - "[[059 'IOT 4 You and Me']]"
 tags:
- - launch
- - electron
+  - launch
+  - electron
 ---
 
 >[!summary]

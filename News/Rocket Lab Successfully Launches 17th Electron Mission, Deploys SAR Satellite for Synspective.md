@@ -1,18 +1,17 @@
 ---
-
 title: "Rocket Lab Successfully Launches 17th Electron Mission, Deploys SAR Satellite for Synspective "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-17th-electron-mission-deploys-sar-satellite-for-synspective/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-17th-electron-mission-deploys-sar-satellite-for-synspective/
 author:
   - "[[Rocket Lab]]"
 published: 2020-12-15
-description: "Rocket Lab, the leading dedicated small launch provider and space systems company, has successfully launched its 17th Electron mission, deploying the first spacecraft to orbit for synthetic aperture radar (SAR) satellite data and solutions provider Synspective."
+description: Rocket Lab, the leading dedicated small launch provider and space systems company, has successfully launched its 17th Electron mission, deploying the first spacecraft to orbit for synthetic aperture radar (SAR) satellite data and solutions provider Synspective.
 customer:
- - "[[Synspective]]"
+  - "[[Synspective]]"
 mission:
- - "[[017 'The Owl's Night Begins' - Electron]]"
+  - "[[017 'The Owl's Night Begins']]"
 tags:
- - electron
- - launch
+  - electron
+  - launch
 ---
 >[!summary]
 #electron #launch
@@ -22,7 +21,7 @@ tags:
 **Published:** 2020-12-15
 **Description:** Rocket Lab, the leading dedicated small launch provider and space systems company, has successfully launched its 17th Electron mission, deploying the first spacecraft to orbit for synthetic aperture radar (SAR) satellite data and solutions provider Synspective.
 **Customer:** [[Synspective]]
-**Mission:** [[017 'The Owl's Night Begins' - Electron]]
+**Mission:** [[017 'The Owl's Night Begins']]
 
 Rocket Lab, the leading dedicated small launch provider and space systems company, has successfully launched its 17th Electron mission, deploying the first spacecraft to orbit for synthetic aperture radar (SAR) satellite data and solutions provider [[Synspective]]. 
 

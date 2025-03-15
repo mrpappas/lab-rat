@@ -1,16 +1,15 @@
 ---
-
 title: "Rocket Lab Successfully Launches Mission Designed to Investigate Removing Space Junk from Orbit "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-mission-designed-to-investigate-removing-space-junk-from-orbit/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-mission-designed-to-investigate-removing-space-junk-from-orbit/
 author:
   - "[[Rocket Lab]]"
 published: 2024-02-19
-description: "Rocket Lab Successfully Launches Mission Designed to Investigate Removing Space Junk from Orbit"
+description: Rocket Lab Successfully Launches Mission Designed to Investigate Removing Space Junk from Orbit
 customer: "[[Astroscale-Japan]]"
-mission: "[[044 'On Closer Inspection' - Electron]]"
+mission: "[[044 'On Closer Inspection']]"
 tags:
-  - "launch"
-  - "electron"
+  - launch
+  - electron
 ---
 >[!summary]
 #launch #electron
@@ -20,7 +19,7 @@ tags:
 **Published:** 2024-02-19
 **Description:** Rocket Lab Successfully Launches Mission Designed to Investigate Removing Space Junk from Orbit
 **Customer:** [[Astroscale-Japan]]
-**Mission:** [[044 'On Closer Inspection' - Electron]]
+**Mission:** [[044 'On Closer Inspection']]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-mission-designed-to-investigate-removing-space-junk-from-orbit/
 

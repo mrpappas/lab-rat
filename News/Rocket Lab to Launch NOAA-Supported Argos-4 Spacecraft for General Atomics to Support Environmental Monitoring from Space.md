@@ -1,19 +1,18 @@
 ---
-
 title: "Rocket Lab to Launch NOAA-Supported Argos-4 Spacecraft for General Atomics to Support Environmental Monitoring from Space "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-to-launch-noaa-supported-argos-4-spacecraft-for-general-atomics-to-support-environmental-monitoring-from-space/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-to-launch-noaa-supported-argos-4-spacecraft-for-general-atomics-to-support-environmental-monitoring-from-space/
 author:
   - "[[Rocket Lab]]"
 published: 2022-09-19
-description: "The mission will deploy the Argos-4 Advanced Data Collection System (A-DCS) bringing the total number of satellites delivered to space by Rocket Lab to 151."
-customer: 
- - "[[General Atomics Electromagnetic Systems]]"
- - "[[CNES]]"
- - "[[NOAA]]"
-mission: "[[031 'It Argos Up From Here' - Electron]]"
+description: The mission will deploy the Argos-4 Advanced Data Collection System (A-DCS) bringing the total number of satellites delivered to space by Rocket Lab to 151.
+customer:
+  - "[[General Atomics Electromagnetic Systems]]"
+  - "[[CNES]]"
+  - "[[NOAA]]"
+mission: "[[031 'It Argos Up From Here']]"
 tags:
-  - "launch"
-  - "electron"
+  - launch
+  - electron
 ---
 >[!summary]
 #launch #electron
@@ -23,7 +22,7 @@ tags:
 **Published:** 2022-09-19
 **Description:** The mission will deploy the Argos-4 Advanced Data Collection System (A-DCS) bringing the total number of satellites delivered to space by Rocket Lab to 151.
 **Customer:** [[General Atomics Electromagnetic Systems]], [[CNES]], [[NOAA]]
-**Mission:** [[031 'It Argos Up From Here' - Electron]]
+**Mission:** [[031 'It Argos Up From Here']]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-to-launch-noaa-supported-argos-4-spacecraft-for-general-atomics-to-support-environmental-monitoring-from-space/
 

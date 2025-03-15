@@ -1,20 +1,19 @@
 ---
-
 title: "Rocket Lab Successfully Launches 15th Mission, Deploys Satellites for Planet, Canon Electronics Inc. "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-15th-mission-deploys-satellites-for-planet-canon-electronics-inc/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-15th-mission-deploys-satellites-for-planet-canon-electronics-inc/
 author:
   - "[[Rocket Lab]]"
 published: 2020-10-29
 description: "*Mahia, New Zealand. 29 October 2020* – Rocket Lab, a space systems company and the global leader in dedicated small satellite launch, has successfully launched its 15th Electron mission and deployed Earth-imaging satellites for Planet and Spaceflight Inc. customer Canon Electronics. The mission was Rocket Lab’s fifth for this year, making Electron the second-most frequently flown U.S. launch vehicle in 2020."
-Customer: 
-- "[[Planet Labs]]"
-- "[[Spaceflight]]"
-- "[[Canon Electronics]]"
+Customer:
+  - "[[Planet Labs]]"
+  - "[[Spaceflight]]"
+  - "[[Canon Electronics]]"
 mission:
- - "[[015 'In Focus' - Electron]]"
+  - "[[015 'In Focus']]"
 tags:
- - electron
- - launch
+  - electron
+  - launch
 ---
 >[!summary]
 #electron #launch
@@ -24,7 +23,7 @@ tags:
 **Published:** 2020-10-29
 **Description:** *Mahia, New Zealand. 29 October 2020* – Rocket Lab, a space systems company and the global leader in dedicated small satellite launch, has successfully launched its 15th Electron mission and deployed Earth-imaging satellites for Planet and Spaceflight Inc. customer Canon Electronics. The mission was Rocket Lab’s fifth for this year, making Electron the second-most frequently flown U.S. launch vehicle in 2020.
 **Customer:** [[Planet Labs]], [[Spaceflight]], [[Canon Electronics]]
-**Mission:** [[015 'In Focus' - Electron]]
+**Mission:** [[015 'In Focus']]
 
 **Mahia, New Zealand. 29 October 2020** – Rocket Lab, a space systems company and the global leader in dedicated small satellite launch, has successfully launched its 15<sup>th</sup> Electron mission and deployed Earth-imaging satellites for Planet and Spaceflight Inc. customer Canon Electronics. The mission was Rocket Lab’s fifth for this year, making Electron the second-most frequently flown U.S. launch vehicle in 2020.
 

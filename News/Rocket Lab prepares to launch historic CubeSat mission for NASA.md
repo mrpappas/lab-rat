@@ -1,18 +1,17 @@
 ---
-
 title: "Rocket Lab prepares to launch historic CubeSat mission for NASA  "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-prepares-to-launch-historic-small-satellite-mission-for-nasa/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-prepares-to-launch-historic-small-satellite-mission-for-nasa/
 author:
   - "[[Rocket Lab]]"
 published: 2018-12-04
 description: "*Rocket Lab prepares to launch historic CubeSat mission for NASA *"
 customer:
- - "[[NASA]]"
+  - "[[NASA]]"
 mission:
- - "[[004 'NASA ELaNa-19' - Electron]]"
+  - "[[004 'NASA ELaNa-19']]"
 tags:
- - electron
- - launch
+  - electron
+  - launch
 ---
 >[!summary]
 #electron #launch
@@ -22,7 +21,7 @@ tags:
 **Published:** 2018-12-04
 **Description:** *Rocket Lab prepares to launch historic CubeSat mission for NASA *
 **Customer:** [[NASA]]
-**Mission:** [[004 'NASA ELaNa-19' - Electron]]
+**Mission:** [[004 'NASA ELaNa-19']]
 
 **Rocket Lab prepares to launch historic CubeSat mission for NASA**
 

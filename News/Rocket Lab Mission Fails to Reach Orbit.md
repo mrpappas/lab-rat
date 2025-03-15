@@ -1,22 +1,21 @@
 ---
-
 title: "Rocket Lab Mission Fails to Reach Orbit "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-mission-fails-to-reach-orbit/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-mission-fails-to-reach-orbit/
 author:
   - "[[Rocket Lab]]"
 published: 2020-07-04
 description: "*Rocket Lab Mission Fails to Reach Orbit*"
-customer: 
-- "[[Planet Labs]]"
-- "[[Spaceflight]]"
-- "[[Canon Electronics]]"
-- "[[In-Space Missions]]"
+customer:
+  - "[[Planet Labs]]"
+  - "[[Spaceflight]]"
+  - "[[Canon Electronics]]"
+  - "[[In-Space Missions]]"
 mission:
- - "[[013 'Pics Or It Didn't Happen' - Electron]]"
+  - "[[013 'Pics Or It Didn't Happen']]"
 tags:
- - electron
- - launch
- - anomaly
+  - electron
+  - launch
+  - anomaly
 ---
 >[!summary]
 #electron #launch #anomaly
@@ -26,7 +25,7 @@ tags:
 **Published:** 2020-07-04
 **Description:** *Rocket Lab Mission Fails to Reach Orbit*
 **Customer:** [[Planet Labs]], [[Spaceflight]], [[Canon Electronics]], [[In-Space Missions]]
-**Mission:** [[013 'Pics Or It Didn't Happen' - Electron]]
+**Mission:** [[013 'Pics Or It Didn't Happen']]
 
 **Rocket Lab Mission Fails to Reach Orbit**
 

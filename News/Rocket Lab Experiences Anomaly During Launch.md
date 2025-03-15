@@ -1,19 +1,18 @@
 ---
-
 title: "Rocket Lab Experiences Anomaly During Launch "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-experiences-anomaly-during-launch/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-experiences-anomaly-during-launch/
 author:
   - "[[Rocket Lab]]"
 published: 2021-05-17
 description: "*Auckland, New Zealand. May 16, 2021*: Following a successful lift-off, first stage burn, and stage separation, Rocket Lab experienced an anomaly during its 20th Electron mission ‘Running Out Of Toes.’"
 customer:
- - "[[BlackSky]]"
+  - "[[BlackSky]]"
 mission:
- - "[[020 'Running Out Of Toes' - Electron]]"
+  - "[[020 'Running Out Of Toes']]"
 tags:
- - electron
- - launch
- - anomaly
+  - electron
+  - launch
+  - anomaly
 ---
 >[!summary]
 #electron #launch #anomaly
@@ -23,7 +22,7 @@ tags:
 **Published:** 2021-05-17
 **Description:** *Auckland, New Zealand. May 16, 2021*: Following a successful lift-off, first stage burn, and stage separation, Rocket Lab experienced an anomaly during its 20th Electron mission ‘Running Out Of Toes.’
 **Customer:** [[BlackSky]]
-**Mission:** [[020 'Running Out Of Toes' - Electron]]
+**Mission:** [[020 'Running Out Of Toes']]
 
 Auckland, New Zealand. May 16, 2021: Following a successful lift-off, first stage burn, and stage separation, Rocket Lab experienced an anomaly during its 20th Electron mission ‘Running Out Of Toes.’
 

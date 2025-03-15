@@ -13,44 +13,25 @@ Spaceflight Inc. was known as a leader in arranging launches of small satellites
 
 ## 🚀 Launches
 
-### <span style="color:limegreen">Successful Launches</span>
-
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date
+table location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
-where contains(customer, [[Spaceflight]]) and outcome = "Success"
+where contains(customer, [[Spaceflight]])
 sort launch_date desc
 ```
 %%
 
-| File                                                                                                    | launch_date      |
-| ------------------------------------------------------------------------------------------------------- | ---------------- |
-| [[Launch/Launches/026 'There And Back Again' - Electron.md\|026 'There And Back Again' - Electron]]     | 2022-05-02 22:49 |
-| [[Launch/Launches/022 'Love At First Insight' - Electron.md\|022 'Love At First Insight' - Electron]]   | 2021-11-18 01:38 |
-| [[Launch/Launches/015 'In Focus' - Electron.md\|015 'In Focus' - Electron]]                             | 2020-10-28 21:21 |
-| [[Launch/Launches/010 'Running Out Of Fingers' - Electron.md\|010 'Running Out Of Fingers' - Electron]] | 2019-12-06 08:18 |
-| [[Launch/Launches/007 'Make it Rain' - Electron.md\|007 'Make it Rain' - Electron]]                     | 2019-06-29 04:30 |
+| File                                                                                  | Location                                              | Vehicle                          | Orbit & Mass                 | Outcome   |
+| ------------------------------------------------------------------------------------- | ----------------------------------------------------- | -------------------------------- | ---------------------------- | --------- |
+| [[Launch/Launches/026 'There And Back Again'.md\|026 'There And Back Again']]         | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 520 km \| 94° \| Unknown     | ✅ Success |
+| [[Launch/Launches/022 'Love At First Insight'.md\|022 'Love At First Insight']]       | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 430 km \| 42° \| 120 kg      | ✅ Success |
+| [[Launch/Launches/015 'In Focus'.md\|015 'In Focus']]                                 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 500 km \| 97.5° \| 72 kg     | ✅ Success |
+| [[Launch/Launches/013 'Pics Or It Didn't Happen'.md\|013 'Pics Or It Didn't Happen']] | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 500 km \| 97.5° \| 75 kg     | ❌ Failure |
+| [[Launch/Launches/010 'Running Out Of Fingers'.md\|010 'Running Out Of Fingers']]     | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 385 x 400 km \| 97° \| 77 kg | ✅ Success |
+| [[Launch/Launches/007 'Make it Rain'.md\|007 'Make it Rain']]                         | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 450 km \| 45° \| 80 kg       | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end %%
-
-### <span style="color:orangered">Failed Launches</span>
-
-%%DATAVIEW_PUBLISHER: start
-```
-table launch_date
-from "Launch/Launches"
-where contains(customer, [[Spaceflight]]) and outcome = "Failure"
-sort launch_date desc
-```
-%%
-
-| File                                                                                                        | launch_date      |
-| ----------------------------------------------------------------------------------------------------------- | ---------------- |
-| [[Launch/Launches/013 'Pics Or It Didn't Happen' - Electron.md\|013 'Pics Or It Didn't Happen' - Electron]] | 2020-07-04 21:19 |
-
-%%DATAVIEW_PUBLISHER: end %%
-
 
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start

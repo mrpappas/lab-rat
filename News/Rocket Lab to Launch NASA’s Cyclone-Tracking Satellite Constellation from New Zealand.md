@@ -1,18 +1,17 @@
 ---
-
 title: "Rocket Lab to Launch NASA’s Cyclone-Tracking Satellite Constellation from New Zealand "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-to-launch-nasas-cyclone-tracking-satellite-constellation-from-new-zealand/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-to-launch-nasas-cyclone-tracking-satellite-constellation-from-new-zealand/
 author:
   - "[[Rocket Lab]]"
 published: 2023-04-10
-description: "To ensure the constellation is in orbit for the 2023 storm season, Rocket Lab will launch NASA’s four TROPICS satellites from Launch Complex 1 in New Zealand across two dedicated Electron missions in May"
+description: To ensure the constellation is in orbit for the 2023 storm season, Rocket Lab will launch NASA’s four TROPICS satellites from Launch Complex 1 in New Zealand across two dedicated Electron missions in May
 customer: "[[NASA]]"
 mission:
- - "[[036 'Rocket Like A Hurricane' - Electron]]"
- - "[[037 'Coming To A Storm Near You' - Electron]]"
+  - "[[036 'Rocket Like A Hurricane']]"
+  - "[[037 'Coming To A Storm Near You']]"
 tags:
-  - "launch"
-  - "electron"
+  - launch
+  - electron
 ---
 >[!summary]
 #launch #electron
@@ -22,7 +21,7 @@ tags:
 **Published:** 2023-04-10
 **Description:** To ensure the constellation is in orbit for the 2023 storm season, Rocket Lab will launch NASA’s four TROPICS satellites from Launch Complex 1 in New Zealand across two dedicated Electron missions in May
 **Customer:** [[NASA]]
-**Mission:** [[036 'Rocket Like A Hurricane' - Electron]], [[037 'Coming To A Storm Near You' - Electron]]
+**Mission:** [[036 'Rocket Like A Hurricane']], [[037 'Coming To A Storm Near You']]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-to-launch-nasas-cyclone-tracking-satellite-constellation-from-new-zealand/
 

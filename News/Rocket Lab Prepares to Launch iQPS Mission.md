@@ -1,16 +1,15 @@
 ---
-
 title: "Rocket Lab Prepares to Launch iQPS Mission "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-prepares-to-launch-iqps-mission/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-prepares-to-launch-iqps-mission/
 author:
   - "[[Rocket Lab]]"
 published: 2023-12-14
 description: "*Rocket Lab’s 42nd Electron mission will deliver an Earth observation satellite to orbit for Japanese company iQPS*"
 customer: "[[iQPS]]"
-mission: "[[042 'The Moon God Awakens' - Electron]]"
+mission: "[[042 'The Moon God Awakens']]"
 tags:
-  - "launch"
-  - "electron"
+  - launch
+  - electron
 ---
 >[!summary]
 #launch #electron
@@ -20,7 +19,7 @@ tags:
 **Published:** 2023-12-14
 **Description:** *Rocket Lab’s 42nd Electron mission will deliver an Earth observation satellite to orbit for Japanese company iQPS*
 **Customer:** [[iQPS]]
-**Mission:** [[042 'The Moon God Awakens' - Electron]]
+**Mission:** [[042 'The Moon God Awakens']]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-prepares-to-launch-iqps-mission/
 

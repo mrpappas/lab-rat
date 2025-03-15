@@ -1,17 +1,16 @@
 ---
-
 title: "Rocket Lab Electron 'Its a Test' flight successfully makes it to space "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-makes-it-to-space-2/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-makes-it-to-space-2/
 author:
   - "[[Rocket Lab]]"
 published: 2017-05-25
 description: "*Rocket Lab broke new ground today when its Electron rocket reached space at 16:23 NZST.*"
 customer: n/a
 mission:
- - "[[001 'It's a Test' - Electron]]"
+  - "[[001 'It's a Test']]"
 tags:
- - electron
- - launch
+  - electron
+  - launch
 ---
 >[!summary]
 #electron #launch
@@ -21,7 +20,7 @@ tags:
 **Published:** 2017-05-25
 **Description:** *Rocket Lab broke new ground today when its Electron rocket reached space at 16:23 NZST.*
 **Customer:** n/a
-**Mission:** [[001 'It's a Test' - Electron]]
+**Mission:** [[001 'It's a Test']]
 
 **Rocket Lab broke new ground today when its Electron rocket reached space at 16:23 NZST.**
 

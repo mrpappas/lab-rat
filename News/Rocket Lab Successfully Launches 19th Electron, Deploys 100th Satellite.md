@@ -1,25 +1,24 @@
 ---
-
 title: "Rocket Lab Successfully Launches 19th Electron, Deploys 100th Satellite  "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-19th-electron-deploys-100th-satellite/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-19th-electron-deploys-100th-satellite/
 author:
   - "[[Rocket Lab]]"
 published: 2021-03-23
-description: "The successful rideshare mission brings the total count of satellites deployed by Rocket Lab to 104"
-Customer: 
-- "[[BlackSky]]"
-- "[[Tyvak Nano-Satellite Systems]]"
-- "[[Fleet Space]]"
-- "[[Myriota]]"
-- "[[UNSW Canberra Space]]"
-- "[[Care Weather]]"
-- "[[U.S. Army]]"
-- "[[Trisept]]"
+description: The successful rideshare mission brings the total count of satellites deployed by Rocket Lab to 104
+Customer:
+  - "[[BlackSky]]"
+  - "[[Tyvak Nano-Satellite Systems]]"
+  - "[[Fleet Space]]"
+  - "[[Myriota]]"
+  - "[[UNSW Canberra Space]]"
+  - "[[Care Weather]]"
+  - "[[U.S. Army]]"
+  - "[[Trisept]]"
 mission:
- - "[[019 'They Go Up So Fast' - Electron]]"
+  - "[[019 'They Go Up So Fast']]"
 tags:
- - electron
- - launch
+  - electron
+  - launch
 ---
 >[!summary]
 #electron #launch
@@ -29,7 +28,7 @@ tags:
 **Published:** 2021-03-23
 **Description:** The successful rideshare mission brings the total count of satellites deployed by Rocket Lab to 104
 **Customer:** [[BlackSky]], [[Tyvak Nano-Satellite Systems]], [[Fleet Space]], [[Myriota]], [[UNSW Canberra Space]], [[Care Weather]], [[U.S. Army]], [[Trisept]]
-**Mission:** [[019 'They Go Up So Fast' - Electron]]
+**Mission:** [[019 'They Go Up So Fast']]
 
 *The successful rideshare mission brings the total count of satellites deployed by Rocket Lab to 104*
 

@@ -1,19 +1,18 @@
 ---
-
 title: "Rocket Lab Still Testing launch window announced "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-still-testing-launch-window-announced/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-still-testing-launch-window-announced/
 author:
   - "[[Rocket Lab]]"
 published: 2017-11-30
-description: "Rocket Lab will open a ten-day launch window from Friday December 8, 2017 NZDT to carry out the company’s second test launch of the Electron rocket. During this time a four-hour launch window will open daily from 2:30 p.m NZDT."
+description: Rocket Lab will open a ten-day launch window from Friday December 8, 2017 NZDT to carry out the company’s second test launch of the Electron rocket. During this time a four-hour launch window will open daily from 2:30 p.m NZDT.
 customer:
   - "[[Planet Labs]]"
   - "[[Spire Global]]"
 mission:
- - "[[002 'Still Testing' - Electron]]"
+  - "[[002 'Still Testing']]"
 tags:
- - electron
- - launch
+  - electron
+  - launch
 ---
 >[!summary]
 #electron #launch
@@ -23,7 +22,7 @@ tags:
 **Published:** 2017-11-30
 **Description:** Rocket Lab will open a ten-day launch window from Friday December 8, 2017 NZDT to carry out the company’s second test launch of the Electron rocket. During this time a four-hour launch window will open daily from 2:30 p.m NZDT.
 **Customer:** [[Planet Labs]], [[Spire Global]]
-**Mission:** [[002 'Still Testing' - Electron]]
+**Mission:** [[002 'Still Testing']]
 
 Rocket Lab will open a ten-day launch window from Friday December 8, 2017 NZDT to carry out the company’s second test launch of the Electron rocket. During this time a four-hour launch window will open daily from 2:30 p.m NZDT.
 

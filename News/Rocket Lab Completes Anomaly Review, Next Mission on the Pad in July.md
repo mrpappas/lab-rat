@@ -1,18 +1,17 @@
 ---
-
 title: "Rocket Lab Completes Anomaly Review, Next Mission on the Pad in July "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-completes-anomaly-review-next-mission-on-the-pad-in-july/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-completes-anomaly-review-next-mission-on-the-pad-in-july/
 author:
   - "[[Rocket Lab]]"
 published: 2021-07-19
 description: "*Long Beach, California. July 19, 2021* – Leading launch and space systems company Rocket Lab today announced it has concluded an extensive review into the cause of the anomaly that resulted in the loss of its “Running Out Of Toes” mission launched on May 15, 2021. With the root cause of the issue identified and corrective measures now in place, Electron will be back on the pad for the next mission from Launch Complex 1 later this month."
 customer:
- - "[[BlackSky]]"
+  - "[[BlackSky]]"
 mission:
- - "[[020 'Running Out Of Toes' - Electron]]"
+  - "[[020 'Running Out Of Toes']]"
 tags:
- - anomaly
- - electron
+  - anomaly
+  - electron
 ---
 >[!summary]
 #anomaly #electron
@@ -22,7 +21,7 @@ tags:
 **Published:** 2021-07-19
 **Description:** *Long Beach, California. July 19, 2021* – Leading launch and space systems company Rocket Lab today announced it has concluded an extensive review into the cause of the anomaly that resulted in the loss of its “Running Out Of Toes” mission launched on May 15, 2021. With the root cause of the issue identified and corrective measures now in place, Electron will be back on the pad for the next mission from Launch Complex 1 later this month.
 **Customer:** [[BlackSky]]
-**Mission:** [[020 'Running Out Of Toes' - Electron]]
+**Mission:** [[020 'Running Out Of Toes']]
 
 **Long Beach, California. July 19, 2021** – Leading launch and space systems company Rocket Lab today announced it has concluded an extensive review into the cause of the anomaly that resulted in the loss of its “Running Out Of Toes” mission launched on May 15, 2021. With the root cause of the issue identified and corrective measures now in place, Electron will be back on the pad for the next mission from Launch Complex 1 later this month.
 

@@ -1,20 +1,19 @@
 ---
-
 title: "Rocket Lab successfully launches eighth Electron mission,  takes next step in recovery and reuse for future flights "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-eighth-electron-mission-takes-next-step-in-recovery-and-reuse-for-future-flights/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-eighth-electron-mission-takes-next-step-in-recovery-and-reuse-for-future-flights/
 author:
   - "[[Rocket Lab]]"
 published: 2019-08-20
 description: "*The successful mission brings the total count of satellites deployed by Rocket Lab to 39 and continues the company’s record of 100% mission success for customers*"
-customer: 
-- "[[BlackSky]]"
-- "[[U.S. Air Force]]"
-- "[[Unseenlabs]]"
+customer:
+  - "[[BlackSky]]"
+  - "[[U.S. Air Force]]"
+  - "[[Unseenlabs]]"
 mission:
- - "[[008 'Look Ma, No Hands' - Electron]]"
+  - "[[008 'Look Ma, No Hands']]"
 tags:
- - electron
- - launch
+  - electron
+  - launch
 ---
 >[!summary]
 #electron #launch
@@ -24,7 +23,7 @@ tags:
 **Published:** 2019-08-20
 **Description:** *The successful mission brings the total count of satellites deployed by Rocket Lab to 39 and continues the company’s record of 100% mission success for customers*
 **Customer:** [[BlackSky]], [[U.S. Air Force]], [[Unseenlabs]]
-**Mission:** [[008 'Look Ma, No Hands' - Electron]]
+**Mission:** [[008 'Look Ma, No Hands']]
 
 **The successful mission brings the total count of satellites deployed by Rocket Lab to 39 and continues the company’s record of 100% mission success for customers**
 

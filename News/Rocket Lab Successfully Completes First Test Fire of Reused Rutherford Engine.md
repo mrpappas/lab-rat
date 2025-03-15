@@ -1,16 +1,15 @@
 ---
-
 title: "Rocket Lab Successfully Completes First Test Fire of Reused Rutherford Engine "
-source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-completes-first-test-fire-of-reused-rutherford-engine/"
+source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-completes-first-test-fire-of-reused-rutherford-engine/
 author:
   - "[[Rocket Lab]]"
 published: 2022-09-01
-description: "The engine was launched to space on Rocket Lab’s 26th Electron mission ‘There And Back Again’ in May 2022 before it was returned to Earth, caught by a helicopter and recovered at sea, and refurbished and successfully reused by Rocket Lab."
-mission: "[[026 'There And Back Again' - Electron]]"
+description: The engine was launched to space on Rocket Lab’s 26th Electron mission ‘There And Back Again’ in May 2022 before it was returned to Earth, caught by a helicopter and recovered at sea, and refurbished and successfully reused by Rocket Lab.
+mission: "[[026 'There And Back Again']]"
 tags:
-  - "rutherford"
-  - "electron"
-  - "reusability"
+  - rutherford
+  - electron
+  - reusability
 ---
 >[!summary]
 #rutherford #electron #reusability
@@ -19,7 +18,7 @@ tags:
 **Author:** [[Rocket Lab]]
 **Published:** 2022-09-01
 **Description:** The engine was launched to space on Rocket Lab’s 26th Electron mission ‘There And Back Again’ in May 2022 before it was returned to Earth, caught by a helicopter and recovered at sea, and refurbished and successfully reused by Rocket Lab.
-**Mission:** [[026 'There And Back Again' - Electron]]
+**Mission:** [[026 'There And Back Again']]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-completes-first-test-fire-of-reused-rutherford-engine/
 

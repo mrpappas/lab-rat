@@ -14,16 +14,17 @@ Canon Electronics is a **Japan-based technology company** that specializes in **
 
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date
+table location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
-where contains(customer, [[Canon Electronics]]) and outcome = "Success"
+where contains(customer, [[Canon Electronics]])
 sort launch_date desc
 ```
 %%
 
-| File                                                                        | launch_date      |
-| --------------------------------------------------------------------------- | ---------------- |
-| [[Launch/Launches/015 'In Focus' - Electron.md\|015 'In Focus' - Electron]] | 2020-10-28 21:21 |
+| File                                                                                  | Location                                              | Vehicle                          | Orbit & Mass             | Outcome   |
+| ------------------------------------------------------------------------------------- | ----------------------------------------------------- | -------------------------------- | ------------------------ | --------- |
+| [[Launch/Launches/015 'In Focus'.md\|015 'In Focus']]                                 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 500 km \| 97.5° \| 72 kg | ✅ Success |
+| [[Launch/Launches/013 'Pics Or It Didn't Happen'.md\|013 'Pics Or It Didn't Happen']] | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 500 km \| 97.5° \| 75 kg | ❌ Failure |
 
 %%DATAVIEW_PUBLISHER: end %%
 

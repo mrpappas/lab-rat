@@ -1,7 +1,6 @@
 ---
-
-title: "Rocket Lab reaches orbit again, deploys more satellites"
-source: "https://www.rocketlabusa.com/updates/rocket-lab-reaches-orbit-again-deploys-more-satellites/"
+title: Rocket Lab reaches orbit again, deploys more satellites
+source: https://www.rocketlabusa.com/updates/rocket-lab-reaches-orbit-again-deploys-more-satellites/
 author:
   - "[[Rocket Lab]]"
 published: 2018-11-11
@@ -11,10 +10,10 @@ customer:
   - "[[Tyvak Nano-Satellite Systems]]"
   - "[[Fleet Space]]"
 mission:
- - "[[003 'It's Business Time' - Electron]]"
+  - "[[003 'It's Business Time']]"
 tags:
- - electron
- - launch
+  - electron
+  - launch
 ---
 >[!summary]
 #electron #launch
@@ -24,7 +23,7 @@ tags:
 **Published:** 2018-11-11
 **Description:** *Rocket Lab reaches orbit again, deploys more satellites*
 **Customer:** [[Spire Global]], [[Tyvak Nano-Satellite Systems]], [[Fleet Space]]
-**Mission:** [[003 'It's Business Time' - Electron]]
+**Mission:** [[003 'It's Business Time']]
 
 **Rocket Lab reaches orbit again, deploys more satellites** 
 

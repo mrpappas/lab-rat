@@ -11,16 +11,16 @@ website: https://www.bu.edu/
 
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date
+table location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
-where contains(customer, [[Boston University]]) and outcome = "Success"
+where contains(customer, [[Boston University]])
 sort launch_date desc
 ```
 %%
 
-| File                                                                                          | launch_date      |
-| --------------------------------------------------------------------------------------------- | ---------------- |
-| [[Launch/Launches/012 'Don't Stop Me Now' - Electron.md\|012 'Don't Stop Me Now' - Electron]] | 2020-06-13 05:12 |
+| File                                                                    | Location                                              | Vehicle                          | Orbit & Mass                         | Outcome   |
+| ----------------------------------------------------------------------- | ----------------------------------------------------- | -------------------------------- | ------------------------------------ | --------- |
+| [[Launch/Launches/012 'Don't Stop Me Now'.md\|012 'Don't Stop Me Now']] | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 570 x 590 km \| 97.75° \| Classified | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end %%
 

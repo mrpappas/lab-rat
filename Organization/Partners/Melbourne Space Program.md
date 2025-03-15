@@ -14,16 +14,16 @@ The Melbourne Space Program is a non-profit organization based in Melbourne, Aus
 
 %%DATAVIEW_PUBLISHER: start
 ```
-table launch_date
+table location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
-where contains(customer, [[Melbourne Space Program]]) and outcome = "Success"
+where contains(customer, [[Melbourne Space Program]])
 sort launch_date desc
 ```
 %%
 
-| File                                                                                | launch_date      |
-| ----------------------------------------------------------------------------------- | ---------------- |
-| [[Launch/Launches/007 'Make it Rain' - Electron.md\|007 'Make it Rain' - Electron]] | 2019-06-29 04:30 |
+| File                                                          | Location                                              | Vehicle                          | Orbit & Mass           | Outcome   |
+| ------------------------------------------------------------- | ----------------------------------------------------- | -------------------------------- | ---------------------- | --------- |
+| [[Launch/Launches/007 'Make it Rain'.md\|007 'Make it Rain']] | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 450 km \| 45° \| 80 kg | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end %%
 
