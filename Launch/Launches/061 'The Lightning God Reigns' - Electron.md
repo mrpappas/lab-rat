@@ -3,34 +3,35 @@ tags:
  - electron
  - launch
 mission_name: The Lighting God Reigns
-launch_date: 
-outcome:
+launch_date: 2025-03-15
+outcome: Success
 customer: "[[iQPS]]"
 location: "[[Launch Complex 1]]"
 vehicle: "[[Electron]]"
 orbit_type: "[[🌍 Orbits#LEO]]"
 target_orbit: 575km 
-payload_mass: 
+payload_mass: 100 kg
 recovery: No attempt
-mission_link:
+mission_link: https://www.rocketlabusa.com/missions/missions-launched/the-lightning-god-reigns
 ---
 #electron #launch 
 Mission Name: The Lighting God Reigns
-Launch Date: 
-Outcome:
+Launch Date: 2025-03-15 00:00 UTC
+Outcome: Success
 Customer: "[[iQPS]]"
 Location: "[[Launch Complex 1]]"
 Vehicle: "[[Electron]]"
 Orbit Type: "[[🌍 Orbits#LEO]]"
-Target Orbit: 575km 
-Payload Mass: 
+Target Orbit: 575km 42°
+Payload Mass: 100 kg
 Recovery: No attempt
-Mission Link:
+Mission Link: https://www.rocketlabusa.com/missions/missions-launched/the-lightning-god-reigns
+Press Kit: [[F61-The-Lightning-God-Reigns-press-kit-final (1).pdf]]
 
->[!warning] Scheduled for launch 03-10-25
+>[!success] Mission Success
 
 >[!summary]
->“The Lightning God Reigns” will launch from Rocket Lab’s private orbital launch site, Rocket Lab Launch Complex 1, in New Zealand during a launch window that opens on March 10th UTC. 
+>“The Lightning God Reigns” launched from Rocket Lab’s private orbital launch site, Rocket Lab Launch Complex 1, in New Zealand during a launch window that opens on March 10th UTC. 
 >
 The mission will launch a single synthetic aperture radar (SAR) imaging satellite to a 575km circular Earth orbit for iQPS called QPS-SAR-9 (nicknamed “SUSANOO-I”). The spacecraft will join iQPS’ growing Earth-imaging constellation that delivers high-resolution monitoring from specific locations every 10 minutes. 
 >
@@ -42,7 +43,9 @@ x 1 [[iQPS#🛰️ Space Systems#QPS-SAR|QPS-SAR]]
 
 ## 📽️ Launch Video
 
->[!warning] Video coming soon
+<div class="responsive-video">
+<iframe width="1141" height="642" src="https://www.youtube.com/embed/k-cuTDrVCmQ" title="Rocket Lab - &#39;The Lightning God Reigns&#39; Launch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 
 ## 📰 News
 

@@ -11,8 +11,6 @@ subsidiary: "[[Planetary Systems Corporation (PSC)]]"
 🔗 https://www.rocketlabusa.com/space-systems/separation-systems/satellite-dispensers/
 [[2002337G-CSD-Data-Sheet-compressed2.pdf|📋 Data Sheet]]
 
-![[Pasted image 20250111151250.png|400]]
-
 ## 📐 Variants
 
 The Canisterized Satellite Dispenser comes in three standard sizes **3U**, **6U**, and **12U**
@@ -36,7 +34,7 @@ Over 30 missions on Falcon 9, [[Electron]], Atlas V, Antares, Minotaur IV, and m
 | Electron       | 08-May-2023 | Rocket Like A Hurricane    | 3U                  | NASA                                   |
 | Electron       | 08-May-2023 | Rocket Like A Hurricane    | 3U                  | NASA                                   |
 | Falcon 9       | 11-Dec-2022 | Lunar Flashlight           | 6U                  | NASA                                   |
-| Atlas V        | 1-Jul-2022  | USSF-12                    | 12U                 | Space Test Program                     |
+| Atlas 5        | 1-Jul-2022  | USSF-12                    | 12U                 | Space Test Program                     |
 | Atlas 5        | 27-Sep-2021 | Landsat-9                  | 6U                  | Boston University "CuPID"              |
 | Atlas 5        | 27-Sep-2021 | Landsat-9                  | 6U                  | NASA "CUTE"                            |
 | Atlas 5        | 27-Sep-2021 | Landsat-9                  | 6U                  | AFRL                                   |
