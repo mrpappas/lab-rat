@@ -29,7 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/a-data-wit
 **Payload Mass:** 120 kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/a-data-with-destiny/
-Press Kit: [[Flight-23-Press-Kit-v1.pdf]]
+**Press Kit**: [[Flight-23-Press-Kit-v1.pdf]]
 
 >[!success] Mission Success
 

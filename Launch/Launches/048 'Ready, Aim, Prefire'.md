@@ -29,7 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/ready-aim-
 **Payload Mass:** 15 kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/ready-aim-prefire/
-Press Kit: [[FINAL-PREFIRE-presskit-Web.pdf]]
+**Press Kit**: [[FINAL-PREFIRE-presskit-Web.pdf]]
 
 >[!Success] Mission Success
 

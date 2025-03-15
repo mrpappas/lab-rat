@@ -15,18 +15,18 @@ recovery: No attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/the-lightning-god-reigns
 ---
 #electron #launch 
-Mission Name: The Lighting God Reigns
-Launch Date: 2025-03-15 00:00 UTC
-outcome: Success
-Customer: [[iQPS]]
-Location: [[Launch Complex 1#Launch Pad B]]
-Vehicle: [[Electron]]
-Orbit Type: [[🌍 Orbits#LEO]]
-Target Orbit: 575km | 42°
-Payload Mass: 100 kg
-Recovery: No attempt
-Mission Link: https://www.rocketlabusa.com/missions/missions-launched/the-lightning-god-reigns
-Press Kit: [[F61-The-Lightning-God-Reigns-press-kit-final (1).pdf]]
+**Mission Name**: The Lighting God Reigns
+**Launch Date**: 2025-03-15 00:00 UTC
+**outcome**: Success
+**Customer**: [[iQPS]]
+**Location**: [[Launch Complex 1#Launch Pad B]]
+**Vehicle**: [[Electron]]
+**Orbit Type**: [[🌍 Orbits#LEO]]
+**Target Orbit**: 575km | 42°
+**Payload Mass**: 100 kg
+**Recovery**: No attempt
+**Mission Link**: https://www.rocketlabusa.com/missions/missions-launched/the-lightning-god-reigns
+**Press Kit**: [[F61-The-Lightning-God-Reigns-press-kit-final (1).pdf]]
 
 >[!success] Mission Success
 

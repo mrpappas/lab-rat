@@ -29,7 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/no-time-to
 **Payload Mass:** 150 kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/no-time-toulouse/
-Press Kit: [[No-Time-Toulouse-Press-Kit.pdf]]
+**Press Kit**: [[No-Time-Toulouse-Press-Kit.pdf]]
 
 >[!Success] Mission Success
 

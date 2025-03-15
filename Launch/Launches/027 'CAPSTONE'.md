@@ -31,7 +31,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/capstone/
 **Payload Mass:** 80kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/capstone/
-Press Kit: [[CAPSTONE-Press-Kit3.pdf]]
+**Press Kit**: [[CAPSTONE-Press-Kit3.pdf]]
 
 >[!success] Mission Success
 

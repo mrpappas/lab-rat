@@ -29,7 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/prefire-an
 **Payload Mass:** 15 kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/prefire-and-ice/
-Press Kit: [[RL-F49-PREFIRE-Ice.pdf]]
+**Press Kit**: [[RL-F49-PREFIRE-Ice.pdf]]
 
 >[!Success] Mission Success
  

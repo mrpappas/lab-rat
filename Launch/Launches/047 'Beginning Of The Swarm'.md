@@ -31,7 +31,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/beginning-
 **Payload Mass:** 115 kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/beginning-of-the-swarm/
-Press Kit: [[RL-F47-BeginningOfTheSwarm-PressKit-2.pdf]]
+**Press Kit**: [[RL-F47-BeginningOfTheSwarm-PressKit-2.pdf]]
 
 >[!Success] Mission Success
 

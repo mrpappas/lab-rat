@@ -29,7 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/the-moon-g
 **Payload Mass:** 100 kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/the-moon-god-awakes/
-Press Kit: [[The-Moon-God-Awakens-Press-Kit5.pdf]]
+**Press Kit**: [[The-Moon-God-Awakens-Press-Kit5.pdf]]
 
 >[!Success] Mission Success
 

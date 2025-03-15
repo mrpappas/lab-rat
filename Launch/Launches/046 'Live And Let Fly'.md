@@ -29,7 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/live-and-l
 **Payload Mass:** Classified
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/live-and-let-fly/
-Press Kit: [[Live-Let-Fly-Press-Kit.pdf]]
+**Press Kit**: [[Live-Let-Fly-Press-Kit.pdf]]
 
 >[!Success] Mission Success
 

@@ -29,7 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/antipodean
 **Payload Mass:** Classified
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/antipodean-adventure/
-Press Kit: [[Flight-29-Press-Kit-FINAL.pdf]]
+**Press Kit**: [[Flight-29-Press-Kit-FINAL.pdf]]
 
 >[!success] Mission Success
 

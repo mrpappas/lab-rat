@@ -29,7 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/catch-me-i
 **Payload Mass:** 50 kg
 **Recovery:** Partial Failure (Aerial Capture)
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/catch-me-if-you-can/
-Press Kit: [[F32-Catch-Me-Press-Kit.pdf]]
+**Press Kit**: [[F32-Catch-Me-Press-Kit.pdf]]
 
 >[!success] Mission Success
 

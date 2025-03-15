@@ -30,7 +30,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/new-missio
 **Payload Mass:** 165 kg
 **Recovery:** Success (Ocean Landing)
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/new-mission-page-3/
-Press Kit: [[We-Love-The-Nightlife-Press-Kit3...pdf]]
+**Press Kit**: [[We-Love-The-Nightlife-Press-Kit3...pdf]]
 
 >[!success] Mission Success
 

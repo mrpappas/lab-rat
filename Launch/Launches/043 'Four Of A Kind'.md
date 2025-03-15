@@ -31,7 +31,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/four-of-a-
 **Payload Mass:** 112 kg
 **Recovery:** Success (Ocean Landing)
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/four-of-a-kind/
-Press Kit: [[F43-Four-Of-A-Kind-Press-Kit-updated.pdf]]
+**Press Kit**: [[F43-Four-Of-A-Kind-Press-Kit-updated.pdf]]
 
 >[!Success] Mission Success
 

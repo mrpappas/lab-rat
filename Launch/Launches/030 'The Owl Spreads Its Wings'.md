@@ -29,7 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/the-owl-sp
 **Payload Mass:** 100 kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/the-owl-spreads-its-wings/
-Press Kit: [[FINAL-F30-The-Owl-Spreads-Its-Wings-Press-Kit.pdf]]
+**Press Kit**: [[FINAL-F30-The-Owl-Spreads-Its-Wings-Press-Kit.pdf]]
 
 >[!success] Mission Success
 

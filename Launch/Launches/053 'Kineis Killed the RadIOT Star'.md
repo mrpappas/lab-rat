@@ -29,7 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/kineis-kil
 **Payload Mass:** 150 kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/kineis-killed-the-radiot-star/
-Press Kit: [[RL-F53-Kineis-Killed-the-RadIOT-Star-Press-Kit.pdf]]
+**Press Kit**: [[RL-F53-Kineis-Killed-the-RadIOT-Star-Press-Kit.pdf]]
 
 >[!success] Mission Success
 

@@ -29,7 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/as-the-cro
 **Payload Mass:** 20 kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/as-the-crow-flies/
-Press Kit: [[MED19-003-Launch-Media-Kit-Flight-nine-complete.pdf]]
+**Press Kit**: [[MED19-003-Launch-Media-Kit-Flight-nine-complete.pdf]]
 
 >[!success] Mission Success
 

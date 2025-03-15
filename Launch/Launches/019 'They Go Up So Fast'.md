@@ -37,7 +37,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/they-go-up
 **Payload Mass:** Unknown
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/they-go-up-so-fast/
-Press Kit: [[Flight-19-They-Go-Up-So-Fast-Press-Kit-small.pdf]]
+**Press Kit**: [[Flight-19-They-Go-Up-So-Fast-Press-Kit-small.pdf]]
 
 >[!success] Mission Success
 

@@ -32,7 +32,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/its-busine
 **Payload Mass:** 45 kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/its-business-time/
-Press Kit: [[Its-Business-Time-Press-Kit7.pdf]]
+**Press Kit**: [[Its-Business-Time-Press-Kit7.pdf]]
 
 >[!success] Mission Success
 

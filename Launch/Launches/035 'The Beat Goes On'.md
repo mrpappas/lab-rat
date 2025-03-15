@@ -29,7 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/the-beat-g
 **Payload Mass:** 120 kg
 **Recovery:** Success (Ocean Landing)
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/the-beat-goes-on/
-Press Kit: [[The-Beat-Goes-On-Press-Kit.pdf]]
+**Press Kit**: [[The-Beat-Goes-On-Press-Kit.pdf]]
 
 >[!success] Mission Success
 

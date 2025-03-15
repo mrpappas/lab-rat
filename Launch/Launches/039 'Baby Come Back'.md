@@ -34,7 +34,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/baby-come-
 **Payload Mass:** 86 kg
 **Recovery:** Success (Ocean Landing)
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/baby-come-back/
-Press Kit: [[Press-Kit-Rocket-Lab-Baby-Come-Back2.pdf]]
+**Press Kit**: [[Press-Kit-Rocket-Lab-Baby-Come-Back2.pdf]]
 
 >[!success] Mission Success
 

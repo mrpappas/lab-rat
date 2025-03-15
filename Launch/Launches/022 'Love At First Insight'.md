@@ -31,7 +31,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/love-at-fi
 **Payload Mass:** 120 kg
 **Recovery:** Success (Ocean Landing)
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/love-at-first-insight/
-Press Kit: [[Rocket-Lab-F22-Love-At-First-Insight-Press-Kit.pdf]]
+**Press Kit**: [[Rocket-Lab-F22-Love-At-First-Insight-Press-Kit.pdf]]
 
 >[!success] Mission Success
 

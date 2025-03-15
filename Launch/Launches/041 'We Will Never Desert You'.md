@@ -30,7 +30,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/we-will-ne
 **Payload Mass:** 165 kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/we-will-never-desert-you/
-Press Kit: [[FINAL-Capella-We-Will-Never-Desert-You-Press-Kit.pdf]]
+**Press Kit**: [[FINAL-Capella-We-Will-Never-Desert-You-Press-Kit.pdf]]
 
 >[!Failure] Mission Failure
 

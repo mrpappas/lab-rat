@@ -32,7 +32,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/running-ou
 **Payload Mass:** 77 kg
 **Recovery:** Controlled (Atmosphere Test)
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/running-out-of-fingers/
-Press Kit: [[F10-Running-Out-of-Fingers-Presskit.pdf]]
+**Press Kit**: [[F10-Running-Out-of-Fingers-Presskit.pdf]]
 
 >[!success] Mission Success
 

@@ -31,7 +31,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/changes-in
 **Payload Mass:** Classified
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/changes-in-latitudes-changes-in-attitudes/
-Press Kit: 🚫 No Press Kit. Confidential customer.
+**Press Kit**: 🚫 No Press Kit. Confidential customer.
 
 >[!Success] Mission Success
 

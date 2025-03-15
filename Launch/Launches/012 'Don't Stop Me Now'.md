@@ -33,7 +33,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/dont-stop-
 **Payload Mass:** Classified
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/dont-stop-me-now/
-Press Kit: [[F12-DontStopMeNow-Presskit.pdf]]
+**Press Kit**: [[F12-DontStopMeNow-Presskit.pdf]]
 
 >[!success] Mission Success
 

@@ -29,7 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/without-mi
 **Payload Mass:** 120 kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/without-mission-a-beat/
-Press Kit: [[Rocket-Lab-Without-Mission-A-Beat-Press-Kit2.pdf]]
+**Press Kit**: [[Rocket-Lab-Without-Mission-A-Beat-Press-Kit2.pdf]]
 
 >[!success] Mission Success
 

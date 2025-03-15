@@ -29,7 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/a-sky-full
 **Payload Mass:** 165 kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/a-sky-full-of-sars/
-Press Kit: [[FINAL-RL-F52-Capella-Press-Kit.pdf]]
+**Press Kit**: [[FINAL-RL-F52-Capella-Press-Kit.pdf]]
 
 >[!Success] Mission Success
 

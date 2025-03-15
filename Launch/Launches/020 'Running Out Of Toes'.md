@@ -30,7 +30,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/running-ou
 **Payload Mass:** 120 kg
 **Recovery:** Success (Ocean Landing)
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/running-out-of-toes/
-Press Kit: [[Flight-20-Running-Out-Of-Toes-press-kit-web-final.pdf]]
+**Press Kit:** [[Flight-20-Running-Out-Of-Toes-press-kit-web-final.pdf]]
 
 >[!failure] Mission Failure
 

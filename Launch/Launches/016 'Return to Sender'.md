@@ -35,7 +35,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/flight-16/
 **Payload Mass:** 200 kg
 **Recovery:** Success (Ocean Landing)
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/flight-16/
-Press Kit: [[Return-to-Sender-Press-Kit-RL-Final3.pdf]]
+**Press Kit**: [[Return-to-Sender-Press-Kit-RL-Final3.pdf]]
 
 >[!success] Mission Success
 

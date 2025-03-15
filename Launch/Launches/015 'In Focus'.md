@@ -32,7 +32,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/in-focus/
 **Payload Mass:** 72 kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/in-focus/
-Press Kit: [[final-F15-Press-Kit-In-Focus.pdf]]
+**Press Kit**: [[final-F15-Press-Kit-In-Focus.pdf]]
 
 >[!success] Mission Success
 

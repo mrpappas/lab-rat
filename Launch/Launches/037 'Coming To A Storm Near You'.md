@@ -29,7 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/coming-to-
 **Payload Mass:** 10 kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/coming-to-a-storm-near-you/
-Press Kit: [[TROPICS-PRESS-KIT-F36-F37.pdf]]
+**Press Kit**: [[TROPICS-PRESS-KIT-F36-F37.pdf]]
 
 >[!success] Mission Success
 

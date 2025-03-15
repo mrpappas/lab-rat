@@ -29,7 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/wise-one-l
 **Payload Mass:** Classified
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/wise-one-looks-ahead/
-Press Kit: [[Flight-28-Press-Kit-final.pdf]]
+**Press Kit**: [[Flight-28-Press-Kit-final.pdf]]
 
 >[!success] Mission Success
 

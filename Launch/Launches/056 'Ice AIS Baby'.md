@@ -29,7 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/ice-ais-ba
 **Payload Mass:** 150 kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/ice-ais-baby/
-Press Kit: [[Ice-AIS-Baby-Press-Kit2.pdf]]
+**Press Kit**: [[Ice-AIS-Baby-Press-Kit2.pdf]]
 
 >[!Success] Mission Success
 

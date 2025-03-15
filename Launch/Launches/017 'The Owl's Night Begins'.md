@@ -29,7 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/the-owls-n
 **Payload Mass:** 150 kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/the-owls-night-begins-2/
-Press Kit: [[Flight-17-Press-Kit2.pdf]]
+**Press Kit**: [[Flight-17-Press-Kit2.pdf]]
 
 >[!success] Mission Success
 

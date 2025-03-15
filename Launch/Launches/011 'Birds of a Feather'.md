@@ -29,7 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/birds-of-a
 **Payload Mass:** Classified
 **Recovery:** Controlled (Atmosphere Test)
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/birds-of-a-feather/
-Press Kit: [[FINAL-F11-Birds-of-a-Feather-Presskit.pdf]]
+**Press Kit**: [[FINAL-F11-Birds-of-a-Feather-Presskit.pdf]]
 
 >[!success] Mission Success
 

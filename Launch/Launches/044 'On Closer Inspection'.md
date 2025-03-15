@@ -29,7 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/on-closer-
 **Payload Mass:** 150 kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/on-closer-inspection/
-Press Kit: [[F44-On-Closer-Inspection-Press-Kit-web.pdf]]
+**Press Kit**: [[F44-On-Closer-Inspection-Press-Kit-web.pdf]]
 
 >[!Success] Mission Success
 

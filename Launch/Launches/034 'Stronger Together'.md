@@ -29,7 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/stronger-t
 **Payload Mass:** 224 kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/stronger-together/
-Press Kit: [[Capella-Stronger-Together-Press-Kit.pdf]]
+**Press Kit**: [[Capella-Stronger-Together-Press-Kit.pdf]]
 
 >[!success] Mission Success
 

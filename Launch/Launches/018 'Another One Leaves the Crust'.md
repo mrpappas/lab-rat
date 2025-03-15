@@ -29,7 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/another-on
 **Payload Mass:** 50 kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/another-one-leaves-the-crust/
-Press Kit: [[Rocket-Lab-Another-One-Leaves-The-Crust-Press-Kit2.pdf]]
+**Press Kit**: [[Rocket-Lab-Another-One-Leaves-The-Crust-Press-Kit2.pdf]]
 
 >[!success] Mission Success
 

@@ -29,7 +29,7 @@ mission_link:
 **Payload Mass:** unknown
 **Recovery:** n/a
 **Mission Link:** None
-Press Kit: 🚫 No Press Kit Issued for this Mission
+**Press Kit**: 🚫 No Press Kit Issued for this Mission
 
 >[!Success] Mission Success
 

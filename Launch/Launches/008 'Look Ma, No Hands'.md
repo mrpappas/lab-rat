@@ -32,7 +32,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/to-be-anno
 **Payload Mass:** 80 kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/to-be-announced/
-Press Kit: [[Launch-Media-Kit-Flight-eight.pdf]]
+**Press Kit**: [[Launch-Media-Kit-Flight-eight.pdf]]
 
 >[!success] Mission Success
 

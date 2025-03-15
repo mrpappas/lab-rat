@@ -29,7 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/darpa-r3d2
 **Payload Mass:** 150 kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/darpa-r3d2/
-Press Kit: [[Rocket-Lab-press-kit-DARPA-R3D4.pdf]]
+**Press Kit**: [[Rocket-Lab-press-kit-DARPA-R3D4.pdf]]
 
 >[!success] Mission Success
 

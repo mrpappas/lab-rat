@@ -29,7 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/owl-night-
 **Payload Mass:** 100 kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/owl-night-long/
-Press Kit: [[RL-Synspective-Owl-Night-Long-Press-Kit-v2.pdf]]
+**Press Kit**: [[RL-Synspective-Owl-Night-Long-Press-Kit-v2.pdf]]
 
 >[!Success] Mission Success
 

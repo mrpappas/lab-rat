@@ -29,7 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/rocket-lik
 **Payload Mass:** 10 kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/rocket-like-a-hurricane/
-Press Kit: [[TROPICS-PRESS-KIT-F36-F37.pdf]]
+**Press Kit**: [[TROPICS-PRESS-KIT-F36-F37.pdf]]
 
 >[!success] Mission Success
 

@@ -35,7 +35,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/there-and-
 **Payload Mass:** Unknown
 **Recovery:** Partial Failure (Aerial Capture)
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/there-and-back-again/
-Press Kit: [[There-And-Back-Again-Press-Kit2.pdf]]
+**Press Kit**: [[There-And-Back-Again-Press-Kit2.pdf]]
 
 >[!success] Mission Success
 

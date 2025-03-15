@@ -29,7 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/i-cant-bel
 **Payload Mass:** 100 kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/i-cant-believe-its-not-optical/
-Press Kit: [[I-Cant-Believe-Its-Not-Optical-Press-kit2.pdf]]
+**Press Kit**: [[I-Cant-Believe-Its-Not-Optical-Press-kit2.pdf]]
 
 >[!success] Mission Success
 

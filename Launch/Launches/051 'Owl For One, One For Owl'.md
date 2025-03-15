@@ -29,7 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/owl-for-on
 **Payload Mass:** 100 kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/owl-for-one-one-for-owl/
-Press Kit: [[FINAL-F51-Synspective-press-kit.pdf]]
+**Press Kit**: [[FINAL-F51-Synspective-press-kit.pdf]]
 
 >[!Success] Mission Success
 

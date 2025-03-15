@@ -29,7 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/its-a-litt
 **Payload Mass:** Unknown
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/its-a-little-chile-up-here/
-Press Kit: [[Rocket-Lab-Its-A-Little-Chile-Up-Here-Press-Kit-sml.pdf]]
+**Press Kit**: [[Rocket-Lab-Its-A-Little-Chile-Up-Here-Press-Kit-sml.pdf]]
 
 >[!success] Mission Success
 

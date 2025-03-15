@@ -29,7 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/new-missio
 **Payload Mass:** 40 kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/new-mission-page-2/
-Press Kit: [[Virginia-is-for-Launch-Lovers-Press-Kit6.pdf]]
+**Press Kit**: [[Virginia-is-for-Launch-Lovers-Press-Kit6.pdf]]
 
 >[!success] Mission Success
 

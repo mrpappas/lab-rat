@@ -29,7 +29,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/it-argos-u
 **Payload Mass:** 118 kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/it-argos-up-from-here/
-Press Kit: [[F31-It-Argos-Up-From-Here-Press-Kit-v4.pdf]]
+**Press Kit**: [[F31-It-Argos-Up-From-Here-Press-Kit-v4.pdf]]
 
 >[!success] Mission Success
 
