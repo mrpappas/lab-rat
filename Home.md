@@ -21,7 +21,41 @@ This provides a great high level analysis of Rocket Lab's current business and p
 - [[🟢 Subsidiaries]]
 - [[📊 Earnings Calls]]
 
+## 📈 Most Recent Earnings Call
+
+[[2024 Q4]] - Includes Video, Transcript, SEC filings, Press Release, and Investor Presentation
+
+## 🚀 Recent Launches
+
+[[🚀 Launches| Click here to see all 🚀 Launches]]
+
+%% DATAVIEW_PUBLISHER: start
+```
+table customer as "Customer", launch_date as "Date", outcome as "Outcome"
+from "Launch/Launches"
+sort launch_date desc
+limit 10
+```
+%%
+
+| File                                                                                                                      | Customer                                                                                       | Date             | Outcome   |
+| ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------------- | --------- |
+| [[Launch/Launches/061 'The Lightning God Reigns'.md\|061 'The Lightning God Reigns']]                                     | [[Organization/Partners/iQPS.md\|iQPS]]                                                        | 2025-03-15 00:00 | ✅ Success |
+| [[Launch/Launches/060 'Fasten Your Space Belts'.md\|060 'Fasten Your Space Belts']]                                       | [[Organization/Partners/BlackSky.md\|BlackSky]]                                                | 2025-02-19 12:17 | ✅ Success |
+| [[Launch/Launches/059 'IOT 4 You and Me'.md\|059 'IOT 4 You and Me']]                                                     | [[Organization/Partners/Kinéis.md\|Kinéis]]                                                    | 2025-02-04 20:43 | ✅ Success |
+| [[Launch/Launches/058 'Owl The Way Up'.md\|058 'Owl The Way Up']]                                                         | [[Organization/Partners/Synspective.md\|Synspective]]                                          | 2024-12-21 14:16 | ✅ Success |
+| [[Launch/Launches/057 'Stonehenge'.md\|057 'Stonehenge']]                                                                 | Unknown*                                                                                       | 2024-12-13 00:00 | ✅ Success |
+| [[Launch/Launches/056 'Ice AIS Baby'.md\|056 'Ice AIS Baby']]                                                             | [[Organization/Partners/Kinéis.md\|Kinéis]]                                                    | 2024-11-25 04:55 | ✅ Success |
+| [[Launch/Launches/055 'HASTE A La Vista'.md\|055 'HASTE A La Vista']]                                                     | [[Organization/Partners/U.S. Department of Defense.md\|U.S. Department of Defense]]            | 2024-11-24 06:00 | ✅ Success |
+| [[Launch/Launches/054 'Changes In Latitudes, Changes In Attitudes'.md\|054 'Changes In Latitudes, Changes In Attitudes']] | <ul><li>[[Organization/Partners/E-Space.md\|E-Space]]</li><li>Confidential Customer</li></ul> | 2024-11-05 10:54 | ✅ Success |
+| [[Launch/Launches/053 'Kineis Killed the RadIOT Star'.md\|053 'Kineis Killed the RadIOT Star']]                           | [[Organization/Partners/Kinéis.md\|Kinéis]]                                                    | 2024-09-20 23:01 | ✅ Success |
+| [[Launch/Launches/052 'A Sky Full Of SARs'.md\|052 'A Sky Full Of SARs']]                                                 | [[Organization/Partners/Capella Space.md\|Capella Space]]                                      | 2024-08-11 13:18 | ✅ Success |
+
+%% DATAVIEW_PUBLISHER: end %%
+
 ## 📰 Recent News
+
+[[📰 News|Click here to see all 📰 News]]
 
 %% DATAVIEW_PUBLISHER: start
 ```
@@ -44,33 +78,6 @@ limit 10
 | [[News/Rocket Lab Announces Flatellite.md\|Rocket Lab Announces Flatellite]]                                                                                                                                                                                                                                                               |
 | [[News/Rocket Lab Reveals Ocean Platform for Neutron Rocket Landings at Sea.md\|Rocket Lab Reveals Ocean Platform for Neutron Rocket Landings at Sea]]                                                                                                                                                                                     |
 | [[News/Rocket Lab Signs Second Multi-Launch Deal, Secures Eight Electron Missions with iQPS.md\|Rocket Lab Signs Second Multi-Launch Deal, Secures Eight Electron Missions with iQPS]]                                                                                                                                                     |
-
-%% DATAVIEW_PUBLISHER: end %%
-
-## 🚀 Recent Launches
-
-%% DATAVIEW_PUBLISHER: start
-```
-table
-from "Launch/Launches"
-where outcome
-sort launch_date desc
-limit 10
-```
-%%
-
-| File                                                                                                                      |
-| ------------------------------------------------------------------------------------------------------------------------- |
-| [[Launch/Launches/061 'The Lightning God Reigns'.md\|061 'The Lightning God Reigns']]                                     |
-| [[Launch/Launches/060 'Fasten Your Space Belts'.md\|060 'Fasten Your Space Belts']]                                       |
-| [[Launch/Launches/059 'IOT 4 You and Me'.md\|059 'IOT 4 You and Me']]                                                     |
-| [[Launch/Launches/058 'Owl The Way Up'.md\|058 'Owl The Way Up']]                                                         |
-| [[Launch/Launches/057 'Stonehenge'.md\|057 'Stonehenge']]                                                                 |
-| [[Launch/Launches/056 'Ice AIS Baby'.md\|056 'Ice AIS Baby']]                                                             |
-| [[Launch/Launches/055 'HASTE A La Vista'.md\|055 'HASTE A La Vista']]                                                     |
-| [[Launch/Launches/054 'Changes In Latitudes, Changes In Attitudes'.md\|054 'Changes In Latitudes, Changes In Attitudes']] |
-| [[Launch/Launches/053 'Kineis Killed the RadIOT Star'.md\|053 'Kineis Killed the RadIOT Star']]                           |
-| [[Launch/Launches/052 'A Sky Full Of SARs'.md\|052 'A Sky Full Of SARs']]                                                 |
 
 %% DATAVIEW_PUBLISHER: end %%
 ## ℹ️ Resources
