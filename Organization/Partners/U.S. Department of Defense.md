@@ -14,16 +14,16 @@ website: https://www.defense.gov/
 
 %%DATAVIEW_PUBLISHER: start
 ```
-table location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
+table launch_date as "Date", location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
 where contains(customer, [[U.S. Department of Defense]])
 sort launch_date desc
 ```
 %%
 
-| File                                                                  | Location                                               | Vehicle                    | Orbit & Mass          | Outcome   |
-| --------------------------------------------------------------------- | ------------------------------------------------------ | -------------------------- | --------------------- | --------- |
-| [[Launch/Launches/055 'HASTE A La Vista'.md\|055 'HASTE A La Vista']] | [[Locations/Launch Complex 2.md#Launch Pad 0C\|LC2-0]] | [[Launch/HASTE.md\|HASTE]] | Suborbital \| unknown | ✅ Success |
+| File                                                                  | Date             | Location                                               | Vehicle                    | Orbit & Mass          | Outcome   |
+| --------------------------------------------------------------------- | ---------------- | ------------------------------------------------------ | -------------------------- | --------------------- | --------- |
+| [[Launch/Launches/055 'HASTE A La Vista'.md\|055 'HASTE A La Vista']] | 2024-11-24 06:00 | [[Locations/Launch Complex 2.md#Launch Pad 0C\|LC2-0]] | [[Launch/HASTE.md\|HASTE]] | Suborbital \| unknown | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end %%
 

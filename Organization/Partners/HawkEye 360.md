@@ -14,16 +14,16 @@ HawkEye 360 is a geospatial analytics company that operates a constellation of s
 
 %%DATAVIEW_PUBLISHER: start
 ```
-table location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
+table launch_date as "Date", location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
 where contains(customer, [[HawkEye 360]])
 sort launch_date desc
 ```
 %%
 
-| File                                                                                            | Location                                               | Vehicle                          | Orbit & Mass             | Outcome   |
-| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------ | -------------------------------- | ------------------------ | --------- |
-| [[Launch/Launches/033 'Virginia is for Launch Lovers'.md\|033 'Virginia is for Launch Lovers']] | [[Locations/Launch Complex 2.md#Launch Pad 0C\|LC2-0]] | [[Launch/Electron.md\|Electron]] | 550 km \| 40.5° \| 40 kg | ✅ Success |
+| File                                                                                            | Date             | Location                                               | Vehicle                          | Orbit & Mass             | Outcome   |
+| ----------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------------ | -------------------------------- | ------------------------ | --------- |
+| [[Launch/Launches/033 'Virginia is for Launch Lovers'.md\|033 'Virginia is for Launch Lovers']] | 2023-01-24 23:00 | [[Locations/Launch Complex 2.md#Launch Pad 0C\|LC2-0]] | [[Launch/Electron.md\|Electron]] | 550 km \| 40.5° \| 40 kg | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end %%
 

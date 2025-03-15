@@ -141,35 +141,35 @@ sort launch_date desc
 ```
 %%
 
-| File                                                                                                                      | launch_date              |
-| ------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
-| [[Launch/Launches/061 'The Lightning God Reigns'.md\|061 'The Lightning God Reigns']]                                     | 2025-03-15 00:00         |
-| [[Launch/Launches/060 'Fasten Your Space Belts'.md\|060 'Fasten Your Space Belts']]                                       | 2025-02-19 12:17 pm NZDT |
-| [[Launch/Launches/058 'Owl The Way Up'.md\|058 'Owl The Way Up']]                                                         | 2024-12-21 14:16         |
-| [[Launch/Launches/056 'Ice AIS Baby'.md\|056 'Ice AIS Baby']]                                                             | 2024-11-25 04:55         |
-| [[Launch/Launches/054 'Changes In Latitudes, Changes In Attitudes'.md\|054 'Changes In Latitudes, Changes In Attitudes']] | 2024-11-05 10:54         |
-| [[Launch/Launches/052 'A Sky Full Of SARs'.md\|052 'A Sky Full Of SARs']]                                                 | 2024-08-11 13:18         |
-| [[Launch/Launches/051 'Owl For One, One For Owl'.md\|051 'Owl For One, One For Owl']]                                     | 2024-08-02 16:39         |
-| [[Launch/Launches/050 'No Time Toulouse'.md\|050 'No Time Toulouse']]                                                     | 2024-06-18 18:13         |
-| [[Launch/Launches/049 'PREFIRE and ICE'.md\|049 'PREFIRE and ICE']]                                                       | 2024-06-05 03:15         |
-| [[Launch/Launches/048 'Ready, Aim, Prefire'.md\|048 'Ready, Aim, Prefire']]                                               | 2024-05-25 07:15         |
-| [[Launch/Launches/047 'Beginning Of The Swarm'.md\|047 'Beginning Of The Swarm']]                                         | 2024-04-23 22:00         |
-| [[Launch/Launches/045 'Owl Night Long'.md\|045 'Owl Night Long']]                                                         | 2024-03-12 14:00         |
-| [[Launch/Launches/044 'On Closer Inspection'.md\|044 'On Closer Inspection']]                                             | 2024-02-19 14:52         |
-| [[Launch/Launches/043 'Four Of A Kind'.md\|043 'Four Of A Kind']]                                                         | 2024-01-31 06:34         |
-| [[Launch/Launches/042 'The Moon God Awakens'.md\|042 'The Moon God Awakens']]                                             | 2023-12-15 04:05         |
-| [[Launch/Launches/041 'We Will Never Desert You'.md\|041 'We Will Never Desert You']]                                     | 2023-09-19 06:55         |
-| [[Launch/Launches/040 'We Love The Nightlife'.md\|040 'We Love The Nightlife']]                                           | 2023-08-24 23:45         |
-| [[Launch/Launches/039 'Baby Come Back'.md\|039 'Baby Come Back']]                                                         | 2023-07-18 01:27         |
-| [[Launch/Launches/037 'Coming To A Storm Near You'.md\|037 'Coming To A Storm Near You']]                                 | 2023-05-26 03:46         |
-| [[Launch/Launches/036 'Rocket Like A Hurricane'.md\|036 'Rocket Like A Hurricane']]                                       | 2023-05-08 01:00         |
-| [[Launch/Launches/035 'The Beat Goes On'.md\|035 'The Beat Goes On']]                                                     | 2023-03-24 09:14         |
-| [[Launch/Launches/032 'Catch Me If You Can'.md\|032 'Catch Me If You Can']]                                               | 2022-11-04 17:27         |
-| [[Launch/Launches/031 'It Argos Up From Here'.md\|031 'It Argos Up From Here']]                                           | 2022-10-07 17:09         |
-| [[Launch/Launches/030 'The Owl Spreads Its Wings'.md\|030 'The Owl Spreads Its Wings']]                                   | 2022-09-15 20:30         |
-| [[Launch/Launches/029 'Antipodean Adventure'.md\|029 'Antipodean Adventure']]                                             | 2022-08-04 05:00         |
-| [[Launch/Launches/027 'CAPSTONE'.md\|027 'CAPSTONE']]                                                                     | 2022-06-28 09:55         |
-| [[Launch/Launches/024 'The Owl's Night Continues'.md\|024 'The Owl's Night Continues']]                                   | 2022-02-28 20:37         |
+| File                                                                                                                      | launch_date      |
+| ------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[Launch/Launches/061 'The Lightning God Reigns'.md\|061 'The Lightning God Reigns']]                                     | 2025-03-15 00:00 |
+| [[Launch/Launches/060 'Fasten Your Space Belts'.md\|060 'Fasten Your Space Belts']]                                       | 2025-02-19 12:17 |
+| [[Launch/Launches/058 'Owl The Way Up'.md\|058 'Owl The Way Up']]                                                         | 2024-12-21 14:16 |
+| [[Launch/Launches/056 'Ice AIS Baby'.md\|056 'Ice AIS Baby']]                                                             | 2024-11-25 04:55 |
+| [[Launch/Launches/054 'Changes In Latitudes, Changes In Attitudes'.md\|054 'Changes In Latitudes, Changes In Attitudes']] | 2024-11-05 10:54 |
+| [[Launch/Launches/052 'A Sky Full Of SARs'.md\|052 'A Sky Full Of SARs']]                                                 | 2024-08-11 13:18 |
+| [[Launch/Launches/051 'Owl For One, One For Owl'.md\|051 'Owl For One, One For Owl']]                                     | 2024-08-02 16:39 |
+| [[Launch/Launches/050 'No Time Toulouse'.md\|050 'No Time Toulouse']]                                                     | 2024-06-18 18:13 |
+| [[Launch/Launches/049 'PREFIRE and ICE'.md\|049 'PREFIRE and ICE']]                                                       | 2024-06-05 03:15 |
+| [[Launch/Launches/048 'Ready, Aim, Prefire'.md\|048 'Ready, Aim, Prefire']]                                               | 2024-05-25 07:15 |
+| [[Launch/Launches/047 'Beginning Of The Swarm'.md\|047 'Beginning Of The Swarm']]                                         | 2024-04-23 22:00 |
+| [[Launch/Launches/045 'Owl Night Long'.md\|045 'Owl Night Long']]                                                         | 2024-03-12 14:00 |
+| [[Launch/Launches/044 'On Closer Inspection'.md\|044 'On Closer Inspection']]                                             | 2024-02-19 14:52 |
+| [[Launch/Launches/043 'Four Of A Kind'.md\|043 'Four Of A Kind']]                                                         | 2024-01-31 06:34 |
+| [[Launch/Launches/042 'The Moon God Awakens'.md\|042 'The Moon God Awakens']]                                             | 2023-12-15 04:05 |
+| [[Launch/Launches/041 'We Will Never Desert You'.md\|041 'We Will Never Desert You']]                                     | 2023-09-19 06:55 |
+| [[Launch/Launches/040 'We Love The Nightlife'.md\|040 'We Love The Nightlife']]                                           | 2023-08-24 23:45 |
+| [[Launch/Launches/039 'Baby Come Back'.md\|039 'Baby Come Back']]                                                         | 2023-07-18 01:27 |
+| [[Launch/Launches/037 'Coming To A Storm Near You'.md\|037 'Coming To A Storm Near You']]                                 | 2023-05-26 03:46 |
+| [[Launch/Launches/036 'Rocket Like A Hurricane'.md\|036 'Rocket Like A Hurricane']]                                       | 2023-05-08 01:00 |
+| [[Launch/Launches/035 'The Beat Goes On'.md\|035 'The Beat Goes On']]                                                     | 2023-03-24 09:14 |
+| [[Launch/Launches/032 'Catch Me If You Can'.md\|032 'Catch Me If You Can']]                                               | 2022-11-04 17:27 |
+| [[Launch/Launches/031 'It Argos Up From Here'.md\|031 'It Argos Up From Here']]                                           | 2022-10-07 17:09 |
+| [[Launch/Launches/030 'The Owl Spreads Its Wings'.md\|030 'The Owl Spreads Its Wings']]                                   | 2022-09-15 20:30 |
+| [[Launch/Launches/029 'Antipodean Adventure'.md\|029 'Antipodean Adventure']]                                             | 2022-08-04 05:00 |
+| [[Launch/Launches/027 'CAPSTONE'.md\|027 'CAPSTONE']]                                                                     | 2022-06-28 09:55 |
+| [[Launch/Launches/024 'The Owl's Night Continues'.md\|024 'The Owl's Night Continues']]                                   | 2022-02-28 20:37 |
 
 %%DATAVIEW_PUBLISHER: end%%
 

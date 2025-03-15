@@ -17,17 +17,17 @@ Tyvak Nano-Satellite Systems designs and builds advanced small satellites, offer
 
 %%DATAVIEW_PUBLISHER: start
 ```
-table location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
+table launch_date as "Date", location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
 where contains(customer, [[Tyvak Nano-Satellite Systems]])
 sort launch_date desc
 ```
 %%
 
-| File                                                                      | Location                                              | Vehicle                          | Orbit & Mass                        | Outcome   |
-| ------------------------------------------------------------------------- | ----------------------------------------------------- | -------------------------------- | ----------------------------------- | --------- |
-| [[Launch/Launches/019 'They Go Up So Fast'.md\|019 'They Go Up So Fast']] | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 450 km and 550 km \| 45° \| Unknown | ✅ Success |
-| [[Launch/Launches/003 'It's Business Time'.md\|003 'It's Business Time']] | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 500 km \| 85° \| 45 kg              | ✅ Success |
+| File                                                                      | Date             | Location                                              | Vehicle                          | Orbit & Mass                        | Outcome   |
+| ------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | ----------------------------------- | --------- |
+| [[Launch/Launches/019 'They Go Up So Fast'.md\|019 'They Go Up So Fast']] | 2021-03-22 22:30 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 450 km and 550 km \| 45° \| Unknown | ✅ Success |
+| [[Launch/Launches/003 'It's Business Time'.md\|003 'It's Business Time']] | 2018-11-11 03:50 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 500 km \| 85° \| 45 kg              | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end %%
 

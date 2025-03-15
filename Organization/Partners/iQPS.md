@@ -16,17 +16,17 @@ iQPS has launched several satellites to demonstrate its SAR capabilities and is 
 
 %%DATAVIEW_PUBLISHER: start
 ```
-table location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
+table launch_date as "Date", location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
 where contains(customer, [[iQPS]])
 sort launch_date desc
 ```
 %%
 
-| File                                                                                  | Location                                              | Vehicle                          | Orbit & Mass            | Outcome   |
-| ------------------------------------------------------------------------------------- | ----------------------------------------------------- | -------------------------------- | ----------------------- | --------- |
-| [[Launch/Launches/061 'The Lightning God Reigns'.md\|061 'The Lightning God Reigns']] | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 575km \| 42° \| 100 kg  | ✅ Success |
-| [[Launch/Launches/042 'The Moon God Awakens'.md\|042 'The Moon God Awakens']]         | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 575 km \| 42° \| 100 kg | ✅ Success |
+| File                                                                                  | Date             | Location                                              | Vehicle                          | Orbit & Mass            | Outcome   |
+| ------------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | ----------------------- | --------- |
+| [[Launch/Launches/061 'The Lightning God Reigns'.md\|061 'The Lightning God Reigns']] | 2025-03-15 00:00 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 575km \| 42° \| 100 kg  | ✅ Success |
+| [[Launch/Launches/042 'The Moon God Awakens'.md\|042 'The Moon God Awakens']]         | 2023-12-15 04:05 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 575 km \| 42° \| 100 kg | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end %%
 

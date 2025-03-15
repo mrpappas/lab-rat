@@ -14,16 +14,16 @@ Astro Digital is a satellite manufacturer and operator specializing in deliverin
 
 %%DATAVIEW_PUBLISHER: start
 ```
-table location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
+table launch_date as "Date", location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
 where contains(customer, [[Astro Digital]])
 sort launch_date desc
 ```
 %%
 
-| File                                                                    | Location                                              | Vehicle                          | Orbit & Mass              | Outcome   |
-| ----------------------------------------------------------------------- | ----------------------------------------------------- | -------------------------------- | ------------------------- | --------- |
-| [[Launch/Launches/009 'As The Crow Flies'.md\|009 'As The Crow Flies']] | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 1200 km \| 87.9° \| 20 kg | ✅ Success |
+| File                                                                    | Date             | Location                                              | Vehicle                          | Orbit & Mass              | Outcome   |
+| ----------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | ------------------------- | --------- |
+| [[Launch/Launches/009 'As The Crow Flies'.md\|009 'As The Crow Flies']] | 2019-10-17 01:22 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 1200 km \| 87.9° \| 20 kg | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end %%
 

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🚀 Launches.md",
+                "file": "Organization/Partners/Tyvak Nano-Satellite Systems.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "🚀 Launches"
+              "title": "Tyvak Nano-Satellite Systems"
             }
           },
           {
@@ -37,8 +37,7 @@
               "title": "001 'It's a Test'"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,34 +202,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab2a7c865c50e79c",
+  "active": "581793ba6e53cf14",
   "lastOpenFiles": [
-    "Launch/Launches/002 'Still Testing'.md",
-    "Launch/Launches/003 'It's Business Time'.md",
-    "Launch/Launches/004 'NASA ELaNa-19'.md",
-    "Launch/Launches/005 'DARPA R3D2'.md",
-    "Launch/Launches/006 'STP-27RD'.md",
-    "Launch/Launches/007 'Make it Rain'.md",
-    "Launch/Launches/008 'Look Ma, No Hands'.md",
-    "Launch/Launches/009 'As The Crow Flies'.md",
-    "Launch/Launches/010 'Running Out Of Fingers'.md",
-    "Launch/Launches/011 'Birds of a Feather'.md",
-    "Launch/Launches/012 'Don't Stop Me Now'.md",
-    "Launch/Launches/013 'Pics Or It Didn't Happen'.md",
-    "Launch/Launches/014 'I Can't Believe It's Not Optical'.md",
-    "Launch/Launches/015 'In Focus'.md",
-    "Launch/Launches/016 'Return to Sender'.md",
-    "Launch/Launches/017 'The Owl's Night Begins'.md",
-    "Launch/Launches/018 'Another One Leaves the Crust'.md",
-    "Launch/Launches/019 'They Go Up So Fast'.md",
-    "Launch/Launches/020 'Running Out Of Toes'.md",
-    "Launch/Launches/021 'It's A Little Chile Up Here'.md",
-    "Launch/Launches/022 'Love At First Insight'.md",
-    "Launch/Launches/023 'A Data With Destiny'.md",
-    "Launch/Launches/024 'The Owl's Night Continues'.md",
-    "Launch/Launches/025 'Without Mission A Beat'.md",
-    "Launch/Launches/026 'There And Back Again'.md",
-    "Launch/Launches/027 'CAPSTONE'.md",
+    "Organization/Partners/U.S. Air Force.md",
+    "Organization/Partners/U.S. Army.md",
+    "Organization/Partners/U.S. Department of Defense.md",
+    "Organization/Partners/U.S. Space Force.md",
+    "Organization/Partners/York Space Systems.md",
+    "Organization/Partners/Vector Acquisition Corporation (VACQ).md",
+    "Organization/Partners/Varda Space Industries.md",
+    "Organization/Partners/Valve.md",
+    "Organization/Partners/UTIAS Space Flight Laboratory.md",
+    "Organization/Partners/USTRANSCOM.md",
+    "Organization/Partners/UNSW Canberra Space.md",
+    "Organization/Partners/Unseenlabs.md",
+    "Organization/Partners/University of California Berkeley Space Sciences Laboratory.md",
+    "Organization/Partners/Tyvak Nano-Satellite Systems.md",
+    "Organization/Partners/Trisept.md",
+    "Organization/Partners/The University of Auckland.md",
+    "Organization/Partners/Telesat.md",
+    "Organization/Partners/Synspective.md",
+    "Organization/Partners/Swedish National Space Agency.md",
+    "Organization/Partners/Swarm.md",
+    "Organization/Partners/Spire Global.md",
+    "Organization/Partners/Spaceflight.md",
+    "Organization/Partners/Space Development Agency (SDA).md",
+    "Organization/Partners/SailGP.md",
+    "Organization/Partners/Redwire Space.md",
+    "Organization/Partners/Planet Labs.md",
     "Vault-Assets/Images/52328481908_3e649b4570_b.jpg",
     "Vault-Assets/Images/Globalstar_constellation-Globalstar.webp",
     "Vault-Assets/Images/Pasted image 20250314201500.png",

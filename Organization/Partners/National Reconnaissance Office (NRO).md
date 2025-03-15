@@ -13,20 +13,20 @@ website: https://www.nro.gov/
 
 %%DATAVIEW_PUBLISHER: start
 ```
-table location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
+table launch_date as "Date", location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
 where contains(customer, [[National Reconnaissance Office (NRO)]])
 sort launch_date desc
 ```
 %%
 
-| File                                                                          | Location                                               | Vehicle                          | Orbit & Mass                         | Outcome   |
-| ----------------------------------------------------------------------------- | ------------------------------------------------------ | -------------------------------- | ------------------------------------ | --------- |
-| [[Launch/Launches/046 'Live And Let Fly'.md\|046 'Live And Let Fly']]         | [[Locations/Launch Complex 2.md#Launch Pad 0C\|LC2-0]] | [[Launch/Electron.md\|Electron]] | Classified \| Classified             | ✅ Success |
-| [[Launch/Launches/029 'Antipodean Adventure'.md\|029 'Antipodean Adventure']] | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]]  | [[Launch/Electron.md\|Electron]] | 620 km \| 70° \| Classified          | ✅ Success |
-| [[Launch/Launches/028 'Wise One Looks Ahead'.md\|028 'Wise One Looks Ahead']] | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]]  | [[Launch/Electron.md\|Electron]] | 620 km \| 40° \| Classified          | ✅ Success |
-| [[Launch/Launches/012 'Don't Stop Me Now'.md\|012 'Don't Stop Me Now']]       | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]]  | [[Launch/Electron.md\|Electron]] | 570 x 590 km \| 97.75° \| Classified | ✅ Success |
-| [[Launch/Launches/011 'Birds of a Feather'.md\|011 'Birds of a Feather']]     | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]]  | [[Launch/Electron.md\|Electron]] | 400 km \| 37° \| Classified          | ✅ Success |
+| File                                                                          | Date             | Location                                               | Vehicle                          | Orbit & Mass                         | Outcome   |
+| ----------------------------------------------------------------------------- | ---------------- | ------------------------------------------------------ | -------------------------------- | ------------------------------------ | --------- |
+| [[Launch/Launches/046 'Live And Let Fly'.md\|046 'Live And Let Fly']]         | 2024-03-21 06:40 | [[Locations/Launch Complex 2.md#Launch Pad 0C\|LC2-0]] | [[Launch/Electron.md\|Electron]] | Classified \| Classified             | ✅ Success |
+| [[Launch/Launches/029 'Antipodean Adventure'.md\|029 'Antipodean Adventure']] | 2022-08-04 05:00 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]]  | [[Launch/Electron.md\|Electron]] | 620 km \| 70° \| Classified          | ✅ Success |
+| [[Launch/Launches/028 'Wise One Looks Ahead'.md\|028 'Wise One Looks Ahead']] | 2022-07-13 06:30 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]]  | [[Launch/Electron.md\|Electron]] | 620 km \| 40° \| Classified          | ✅ Success |
+| [[Launch/Launches/012 'Don't Stop Me Now'.md\|012 'Don't Stop Me Now']]       | 2020-06-13 05:12 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]]  | [[Launch/Electron.md\|Electron]] | 570 x 590 km \| 97.75° \| Classified | ✅ Success |
+| [[Launch/Launches/011 'Birds of a Feather'.md\|011 'Birds of a Feather']]     | 2020-01-31 02:56 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]]  | [[Launch/Electron.md\|Electron]] | 400 km \| 37° \| Classified          | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end %%
 

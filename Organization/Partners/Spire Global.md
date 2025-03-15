@@ -15,19 +15,19 @@ website: https://spire.com/
 
 %%DATAVIEW_PUBLISHER: start
 ```
-table location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
+table launch_date as "Date", location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
 where contains(customer, [[Spire Global]])
 sort launch_date desc
 ```
 %%
 
-| File                                                                      | Location                                              | Vehicle                          | Orbit & Mass               | Outcome   |
-| ------------------------------------------------------------------------- | ----------------------------------------------------- | -------------------------------- | -------------------------- | --------- |
-| [[Launch/Launches/043 'Four Of A Kind'.md\|043 'Four Of A Kind']]         | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 530 km \| 97° \| 112 kg    | ✅ Success |
-| [[Launch/Launches/039 'Baby Come Back'.md\|039 'Baby Come Back']]         | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 1000 km \| 99.45° \| 86 kg | ✅ Success |
-| [[Launch/Launches/003 'It's Business Time'.md\|003 'It's Business Time']] | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 500 km \| 85° \| 45 kg     | ✅ Success |
-| [[Launch/Launches/002 'Still Testing'.md\|002 'Still Testing']]           | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 400 km \| 82.9° \| 13 kg   | ✅ Success |
+| File                                                                      | Date             | Location                                              | Vehicle                          | Orbit & Mass               | Outcome   |
+| ------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | -------------------------- | --------- |
+| [[Launch/Launches/043 'Four Of A Kind'.md\|043 'Four Of A Kind']]         | 2024-01-31 06:34 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 530 km \| 97° \| 112 kg    | ✅ Success |
+| [[Launch/Launches/039 'Baby Come Back'.md\|039 'Baby Come Back']]         | 2023-07-18 01:27 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 1000 km \| 99.45° \| 86 kg | ✅ Success |
+| [[Launch/Launches/003 'It's Business Time'.md\|003 'It's Business Time']] | 2018-11-11 03:50 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 500 km \| 85° \| 45 kg     | ✅ Success |
+| [[Launch/Launches/002 'Still Testing'.md\|002 'Still Testing']]           | 2018-01-21 02:43 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 400 km \| 82.9° \| 13 kg   | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end %%
 

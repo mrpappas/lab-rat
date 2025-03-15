@@ -86,3 +86,16 @@ body:not(.links-int-on) {
     border: 0;
   }
   
+
+  @media (max-width: 768px) { /* Adjust width as needed */
+    table th:nth-child(3),
+    table td:nth-child(3),
+    table th:nth-child(4),
+    table td:nth-child(4),
+    table th:nth-child(5),
+    table td:nth-child(5),
+    table th:nth-child(6),
+    table td:nth-child(6) {
+        display: none;
+    }
+}

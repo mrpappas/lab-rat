@@ -14,16 +14,16 @@ Astrix Astronautics is a New Zealand-based company specializing in innovative po
 
 %%DATAVIEW_PUBLISHER: start
 ```
-table location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
+table launch_date as "Date", location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
 where contains(customer, [[Astrix Astronautics]])
 sort launch_date desc
 ```
 %%
 
-| File                                                                          | Location                                              | Vehicle                          | Orbit & Mass             | Outcome   |
-| ----------------------------------------------------------------------------- | ----------------------------------------------------- | -------------------------------- | ------------------------ | --------- |
-| [[Launch/Launches/026 'There And Back Again'.md\|026 'There And Back Again']] | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 520 km \| 94° \| Unknown | ✅ Success |
+| File                                                                          | Date             | Location                                              | Vehicle                          | Orbit & Mass             | Outcome   |
+| ----------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | ------------------------ | --------- |
+| [[Launch/Launches/026 'There And Back Again'.md\|026 'There And Back Again']] | 2022-05-02 22:49 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 520 km \| 94° \| Unknown | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end %%
 

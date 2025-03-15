@@ -15,16 +15,16 @@ The Swedish National Space Agency (SNSA) is a government agency responsible for 
 
 %%DATAVIEW_PUBLISHER: start
 ```
-table location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
+table launch_date as "Date", location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
 where contains(customer, [[Swedish National Space Agency]])
 sort launch_date desc
 ```
 %%
 
-| File                                                                        | Location                                              | Vehicle                          | Orbit & Mass              | Outcome   |
-| --------------------------------------------------------------------------- | ----------------------------------------------------- | -------------------------------- | ------------------------- | --------- |
-| [[Launch/Launches/032 'Catch Me If You Can'.md\|032 'Catch Me If You Can']] | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 585 km \| 97.66° \| 50 kg | ✅ Success |
+| File                                                                        | Date             | Location                                              | Vehicle                          | Orbit & Mass              | Outcome   |
+| --------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | ------------------------- | --------- |
+| [[Launch/Launches/032 'Catch Me If You Can'.md\|032 'Catch Me If You Can']] | 2022-11-04 17:27 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 585 km \| 97.66° \| 50 kg | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end %%
 

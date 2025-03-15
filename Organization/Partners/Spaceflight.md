@@ -15,21 +15,21 @@ Spaceflight Inc. was known as a leader in arranging launches of small satellites
 
 %%DATAVIEW_PUBLISHER: start
 ```
-table location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
+table launch_date as "Date", location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
 where contains(customer, [[Spaceflight]])
 sort launch_date desc
 ```
 %%
 
-| File                                                                                  | Location                                              | Vehicle                          | Orbit & Mass                 | Outcome   |
-| ------------------------------------------------------------------------------------- | ----------------------------------------------------- | -------------------------------- | ---------------------------- | --------- |
-| [[Launch/Launches/026 'There And Back Again'.md\|026 'There And Back Again']]         | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 520 km \| 94° \| Unknown     | ✅ Success |
-| [[Launch/Launches/022 'Love At First Insight'.md\|022 'Love At First Insight']]       | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 430 km \| 42° \| 120 kg      | ✅ Success |
-| [[Launch/Launches/015 'In Focus'.md\|015 'In Focus']]                                 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 500 km \| 97.5° \| 72 kg     | ✅ Success |
-| [[Launch/Launches/013 'Pics Or It Didn't Happen'.md\|013 'Pics Or It Didn't Happen']] | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 500 km \| 97.5° \| 75 kg     | ❌ Failure |
-| [[Launch/Launches/010 'Running Out Of Fingers'.md\|010 'Running Out Of Fingers']]     | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 385 x 400 km \| 97° \| 77 kg | ✅ Success |
-| [[Launch/Launches/007 'Make it Rain'.md\|007 'Make it Rain']]                         | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 450 km \| 45° \| 80 kg       | ✅ Success |
+| File                                                                                  | Date             | Location                                              | Vehicle                          | Orbit & Mass                 | Outcome   |
+| ------------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | ---------------------------- | --------- |
+| [[Launch/Launches/026 'There And Back Again'.md\|026 'There And Back Again']]         | 2022-05-02 22:49 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 520 km \| 94° \| Unknown     | ✅ Success |
+| [[Launch/Launches/022 'Love At First Insight'.md\|022 'Love At First Insight']]       | 2021-11-18 01:38 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 430 km \| 42° \| 120 kg      | ✅ Success |
+| [[Launch/Launches/015 'In Focus'.md\|015 'In Focus']]                                 | 2020-10-28 21:21 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 500 km \| 97.5° \| 72 kg     | ✅ Success |
+| [[Launch/Launches/013 'Pics Or It Didn't Happen'.md\|013 'Pics Or It Didn't Happen']] | 2020-07-04 21:19 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 500 km \| 97.5° \| 75 kg     | ❌ Failure |
+| [[Launch/Launches/010 'Running Out Of Fingers'.md\|010 'Running Out Of Fingers']]     | 2019-12-06 08:18 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 385 x 400 km \| 97° \| 77 kg | ✅ Success |
+| [[Launch/Launches/007 'Make it Rain'.md\|007 'Make it Rain']]                         | 2019-06-29 04:30 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 450 km \| 45° \| 80 kg       | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end %%
 

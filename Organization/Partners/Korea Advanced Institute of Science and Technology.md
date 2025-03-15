@@ -16,16 +16,16 @@ KAIST collaborates with international partners and government agencies, playing 
 
 %%DATAVIEW_PUBLISHER: start
 ```
-table location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
+table launch_date as "Date", location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
 where contains(customer, [[Korea Advanced Institute of Science and Technology]])
 sort launch_date desc
 ```
 %%
 
-| File                                                                              | Location                                              | Vehicle                          | Orbit & Mass                                       | Outcome   |
-| --------------------------------------------------------------------------------- | ----------------------------------------------------- | -------------------------------- | -------------------------------------------------- | --------- |
-| [[Launch/Launches/047 'Beginning Of The Swarm'.md\|047 'Beginning Of The Swarm']] | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 520 km (Neonsat-1), 1,000 km (ACS3), 97° \| 115 kg | ✅ Success |
+| File                                                                              | Date             | Location                                              | Vehicle                          | Orbit & Mass                                       | Outcome   |
+| --------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | -------------------------------------------------- | --------- |
+| [[Launch/Launches/047 'Beginning Of The Swarm'.md\|047 'Beginning Of The Swarm']] | 2024-04-23 22:00 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 520 km (Neonsat-1), 1,000 km (ACS3), 97° \| 115 kg | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end %%
 

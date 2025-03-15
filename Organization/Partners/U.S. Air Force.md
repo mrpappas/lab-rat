@@ -14,17 +14,17 @@ website: https://www.airforce.com/
 
 %%DATAVIEW_PUBLISHER: start
 ```
-table location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
+table launch_date as "Date", location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
 where contains(customer, [[U.S. Air Force]])
 sort launch_date desc
 ```
 %%
 
-| File                                                                    | Location                                              | Vehicle                          | Orbit & Mass             | Outcome   |
-| ----------------------------------------------------------------------- | ----------------------------------------------------- | -------------------------------- | ------------------------ | --------- |
-| [[Launch/Launches/008 'Look Ma, No Hands'.md\|008 'Look Ma, No Hands']] | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 510 km \| 94.8° \| 80 kg | ✅ Success |
-| [[Launch/Launches/006 'STP-27RD'.md\|006 'STP-27RD']]                   | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 500 km \| 40° \| 180 kg  | ✅ Success |
+| File                                                                    | Date             | Location                                              | Vehicle                          | Orbit & Mass             | Outcome   |
+| ----------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | ------------------------ | --------- |
+| [[Launch/Launches/008 'Look Ma, No Hands'.md\|008 'Look Ma, No Hands']] | 2019-08-19 12:12 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 510 km \| 94.8° \| 80 kg | ✅ Success |
+| [[Launch/Launches/006 'STP-27RD'.md\|006 'STP-27RD']]                   | 2019-05-05 06:00 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 500 km \| 40° \| 180 kg  | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end %%
 

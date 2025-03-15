@@ -16,15 +16,15 @@ Website: https://ororatech.com/
 ## 🚀 Launches
 %%DATAVIEW_PUBLISHER: start
 ```
-table location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
+table launch_date as "Date", location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
 where contains(customer, [[Orora Technlogies]])
 sort launch_date desc
 ```
 %%
 
-| File | Location | Vehicle | Orbit & Mass | Outcome |
-| ---- | -------- | ------- | ------------ | ------- |
+| File | Date | Location | Vehicle | Orbit & Mass | Outcome |
+| ---- | ---- | -------- | ------- | ------------ | ------- |
 
 %%DATAVIEW_PUBLISHER: end %%
 
