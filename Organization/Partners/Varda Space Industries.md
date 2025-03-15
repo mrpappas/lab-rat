@@ -14,6 +14,16 @@ Varda Space Industries is pioneering in-space manufacturing by leveraging microg
 
 -  [[Varda W Missions]]
 
+## 🛰️ Space Systems
+
+### W-Series
+Varda’s W-Series capsule is an autonomous free-flying microgravity formulation platform intended for in-orbit pharmaceutical manufacturing followed by terrestrial landing. The W-Series capsule reenters the Earth’s atmosphere at more than 18,000 miles per hour and reaches speeds above Mach 25.  The capsule touches down on land via a parachute. The W-Series capsules’ heatshields are made of[ C-PICA (Conformal Phenolic Impregnated Carbon Ablator)](https://ntrs.nasa.gov/api/citations/20220019340/downloads/SMDshowCase_CPICA_Poster.pdf), a thermal protection material produced by [[NASA]] Ames Research Center. The material was originally developed at Ames, and the reentry of W-1 marked the first time a NASA-manufactured C-PICA heat shield ever returned from space.
+
+The W-Series is built on Rocket Lab's [[Pioneer]] platform, but Varda has indicated their intentions to bring their manufacturing in house. 
+
+![[1741975062-w3-for-social.webp]]
+
+
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```

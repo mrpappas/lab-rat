@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Space Systems/Missions/Varda W Missions.md",
+                "file": "Organization/Partners/Varda Space Industries.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Varda W Missions"
+              "title": "Varda Space Industries"
             }
           }
         ]
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Space Systems/Missions/Varda W Missions.md",
+                "file": "Organization/Partners/Varda Space Industries.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Varda W Missions"
+              "title": "Outline of Varda Space Industries"
             }
           },
           {
@@ -196,10 +196,12 @@
   },
   "active": "46ab014e1923638a",
   "lastOpenFiles": [
-    "Space Systems/Separation Systems/Canisterized Satellite Dispenser (CSD).md",
     "Space Systems/Missions/Varda W Missions.md",
-    "Space Systems/Spacecraft/Pioneer.md",
     "Organization/Partners/Varda Space Industries.md",
+    "1741975062-w3-for-social.webp",
+    "Organization/Partners/Synspective.md",
+    "Space Systems/Separation Systems/Canisterized Satellite Dispenser (CSD).md",
+    "Space Systems/Spacecraft/Pioneer.md",
     "News/Rocket Lab’s Pioneer Spacecraft Successfully Deployed to Orbit, Powering Varda Space Industries' Third In-Space Manufacturing Mission.md",
     "News/Rocket Lab Announces “At The Market” (ATM) Equity Offering Program.md",
     "Pasted image 20250315173332.jpg",
@@ -225,15 +227,12 @@
     "Home.md",
     "🎙️ Interviews.md",
     "🏛️ Board of Directors.md",
-    "🟢 Subsidiaries.md",
-    "Financial/Quarterly Reports/2024 Q4.md",
     "Vault-Assets/Images/52328481908_3e649b4570_b.jpg",
     "Vault-Assets/Images/Globalstar_constellation-Globalstar.webp",
     "Vault-Assets/Images/Pasted image 20250314201500.png",
     "Vault-Assets/Images/Pasted image 20250313193643.png",
     "Vault-Assets/Images/DYCDyj0U0AEJT7J.png",
     "Vault-Assets/Images/Artist-view-OneWeb-satellite-Copyright-Eutelsat-OneWeb.gif",
-    "Vault-Assets/Images/ARGOS-4 (1).jpg.webp",
     "Vault-Assets/PDFs/F61-The-Lightning-God-Reigns-press-kit-final (1).pdf",
     "Vault-Assets/PDFs/2002337G-CSD-Data-Sheet-compressed2.pdf",
     "Vault-Assets/PDFs/RL-MAX-FSW-Brochure- (1).pdf",
