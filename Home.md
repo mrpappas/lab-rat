@@ -21,9 +21,9 @@ This provides a great high level analysis of Rocket Lab's current business and p
 - [[🟢 Subsidiaries]]
 - [[📊 Earnings Calls]]
 
-## 📈 Most Recent Earnings Call
+## 📈 Latest Earnings Call
 
-[[2024 Q4]] - Includes Video, Transcript, SEC filings, Press Release, and Investor Presentation
+[[2024 Q4]] - Includes Video, Transcript, SEC filings, Press Release, and Investor Presentation.
 
 ## 🚀 Recent Launches
 
@@ -40,6 +40,7 @@ limit 10
 
 | File                                                                                                                      | Customer                                                                                       | Date             | Outcome   |
 | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------------- | --------- |
+| [[Launch/Launches/062 'High Five'.md\|062 'High Five']]                                                                   | [[Organization/Partners/Kinéis.md\|Kinéis]]                                                    | 2025-03-18 00:00 | ⌛ Pending |
 | [[Launch/Launches/061 'The Lightning God Reigns'.md\|061 'The Lightning God Reigns']]                                     | [[Organization/Partners/iQPS.md\|iQPS]]                                                        | 2025-03-15 00:00 | ✅ Success |
 | [[Launch/Launches/060 'Fasten Your Space Belts'.md\|060 'Fasten Your Space Belts']]                                       | [[Organization/Partners/BlackSky.md\|BlackSky]]                                                | 2025-02-19 12:17 | ✅ Success |
 | [[Launch/Launches/059 'IOT 4 You and Me'.md\|059 'IOT 4 You and Me']]                                                     | [[Organization/Partners/Kinéis.md\|Kinéis]]                                                    | 2025-02-04 20:43 | ✅ Success |
@@ -49,7 +50,6 @@ limit 10
 | [[Launch/Launches/055 'HASTE A La Vista'.md\|055 'HASTE A La Vista']]                                                     | [[Organization/Partners/U.S. Department of Defense.md\|U.S. Department of Defense]]            | 2024-11-24 06:00 | ✅ Success |
 | [[Launch/Launches/054 'Changes In Latitudes, Changes In Attitudes'.md\|054 'Changes In Latitudes, Changes In Attitudes']] | <ul><li>[[Organization/Partners/E-Space.md\|E-Space]]</li><li>Confidential Customer</li></ul> | 2024-11-05 10:54 | ✅ Success |
 | [[Launch/Launches/053 'Kineis Killed the RadIOT Star'.md\|053 'Kineis Killed the RadIOT Star']]                           | [[Organization/Partners/Kinéis.md\|Kinéis]]                                                    | 2024-09-20 23:01 | ✅ Success |
-| [[Launch/Launches/052 'A Sky Full Of SARs'.md\|052 'A Sky Full Of SARs']]                                                 | [[Organization/Partners/Capella Space.md\|Capella Space]]                                      | 2024-08-11 13:18 | ✅ Success |
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -68,6 +68,8 @@ limit 10
 
 | File                                                                                                                                                                                                                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[News/Rocket Lab Successfully Launches 61st Electron Mission, Second Launch for iQPS.md\|Rocket Lab Successfully Launches 61st Electron Mission, Second Launch for iQPS]]                                                                                                                                                                 |
+| [[News/Rocket Lab’s Pioneer Spacecraft Successfully Deployed to Orbit, Powering Varda Space Industries' Third In-Space Manufacturing Mission.md\|Rocket Lab’s Pioneer Spacecraft Successfully Deployed to Orbit, Powering Varda Space Industries' Third In-Space Manufacturing Mission]]                                                   |
 | [[News/Airbus Awards Rocket Lab Contract to Power Next-Gen OneWeb Constellation for Eutelsat.md\|Airbus Awards Rocket Lab Contract to Power Next-Gen OneWeb Constellation for Eutelsat]]                                                                                                                                                   |
 | [[News/Rocket Lab Unveils New Satellite Software for Ground Data, Spacecraft Operations, and Constellation Management.md\|Rocket Lab Unveils New Satellite Software for Ground Data, Spacecraft Operations, and Constellation Management]]                                                                                                 |
 | [[News/Rocket Lab Announces Intention to Acquire Mynaric, Leading Laser Communications Provider, in Latest Strategic Step Toward Becoming an End-to-End Space Company.md\|Rocket Lab Announces Intention to Acquire Mynaric, Leading Laser Communications Provider, in Latest Strategic Step Toward Becoming an End-to-End Space Company]] |
@@ -76,8 +78,6 @@ limit 10
 | [[News/Rocket Lab Space Software Supports Lunar Landing for Firefly’s Blue Ghost 1 Mission.md\|Rocket Lab Space Software Supports Lunar Landing for Firefly’s Blue Ghost 1 Mission]]                                                                                                                                                       |
 | [[News/Touchdown For In-Space Manufacturing Mission Rocket Lab’s Pioneer Spacecraft Delivers Re-Entry for Varda’s In-Space Manufacturing Capsule in South Australia.md\|Touchdown For In-Space Manufacturing Mission Rocket Lab’s Pioneer Spacecraft Delivers Re-Entry for Varda’s In-Space Manufacturing Capsule in South Australia]]     |
 | [[News/Rocket Lab Announces Flatellite.md\|Rocket Lab Announces Flatellite]]                                                                                                                                                                                                                                                               |
-| [[News/Rocket Lab Reveals Ocean Platform for Neutron Rocket Landings at Sea.md\|Rocket Lab Reveals Ocean Platform for Neutron Rocket Landings at Sea]]                                                                                                                                                                                     |
-| [[News/Rocket Lab Signs Second Multi-Launch Deal, Secures Eight Electron Missions with iQPS.md\|Rocket Lab Signs Second Multi-Launch Deal, Secures Eight Electron Missions with iQPS]]                                                                                                                                                     |
 
 %% DATAVIEW_PUBLISHER: end %%
 ## ℹ️ Resources

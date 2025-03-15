@@ -97,6 +97,7 @@ sort launch_date desc
 
 | File                                                                                                  | launch_date      |
 | ----------------------------------------------------------------------------------------------------- | ---------------- |
+| [[Launch/Launches/062 'High Five'.md\|062 'High Five']]                                               | 2025-03-18 00:00 |
 | [[Launch/Launches/059 'IOT 4 You and Me'.md\|059 'IOT 4 You and Me']]                                 | 2025-02-04 20:43 |
 | [[Launch/Launches/053 'Kineis Killed the RadIOT Star'.md\|053 'Kineis Killed the RadIOT Star']]       | 2024-09-20 23:01 |
 | [[Launch/Launches/028 'Wise One Looks Ahead'.md\|028 'Wise One Looks Ahead']]                         | 2022-07-13 06:30 |

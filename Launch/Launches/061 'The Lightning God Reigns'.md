@@ -36,6 +36,8 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/the-lightn
 The mission launched a single [[📦 Payload Types#Synthetic Aperture Radar (SAR)|Synthetic Aperture Radar (SAR)]] imaging satellite to a 575km circular Earth orbit for iQPS called QPS-SAR-9 (nicknamed “SUSANOO-I”). The spacecraft joined iQPS’ growing Earth-imaging constellation that delivers high-resolution monitoring from specific locations every 10 minutes. 
 >
 ‘The Lightning God Reigns’ was the first of eight upcoming launches for iQPS across 2025 and 2026 to build out iQPS‘s constellation, and follows the Company’s [[042 'The Moon God Awakens'|earlier successful mission]] for iQPS launched in December 2023. Each upcoming mission includes a Rocket Lab Motorized Lightband, used to separate and deploy the satellite from Electron once in space.
+>
+[📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720324421002)
 
 
 ![[Pasted image 20250314201500.png|300]]
@@ -50,6 +52,7 @@ x 1 [[iQPS#🛰️ Space Systems#QPS-SAR|QPS-SAR]]
 
 ![]()
 ![](https://x.com/RocketLab/status/1900699144249110863)
+
 ## 📰 News
 
 %%DATAVIEW_PUBLISHER: start
@@ -63,6 +66,7 @@ sort published desc
 
 | File                                                                                                                                                                                                                                                         | Published         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
+| [[News/Rocket Lab Successfully Launches 61st Electron Mission, Second Launch for iQPS.md\|Rocket Lab Successfully Launches 61st Electron Mission, Second Launch for iQPS]]                                                                                   | March 15, 2025    |
 | [[News/Rocket Lab Schedules Two Launches Three Days Apart, Upcoming Mission to Deploy Final Satellites in Kinéis Constellation.md\|Rocket Lab Schedules Two Launches Three Days Apart, Upcoming Mission to Deploy Final Satellites in Kinéis Constellation]] | March 10, 2025    |
 | [[News/Rocket Lab Signs Second Multi-Launch Deal, Secures Eight Electron Missions with iQPS.md\|Rocket Lab Signs Second Multi-Launch Deal, Secures Eight Electron Missions with iQPS]]                                                                       | February 27, 2025 |
 | [[News/Rocket Lab Signs Multi-Launch Contract with iQPS for Four Electron Missions.md\|Rocket Lab Signs Multi-Launch Contract with iQPS for Four Electron Missions]]                                                                                         | February 03, 2025 |

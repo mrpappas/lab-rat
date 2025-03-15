@@ -13,28 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Home"
-            }
-          },
-          {
-            "id": "ab2a7c865c50e79c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Launch/Launches/001 'It's a Test'.md",
+                "file": "Space Systems/Missions/Varda W Missions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "001 'It's a Test'"
+              "title": "Varda W Missions"
             }
           }
         ]
@@ -142,7 +127,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -153,9 +140,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Space Systems/Missions/Varda W Missions.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Varda W Missions"
             }
           },
           {
@@ -204,32 +196,37 @@
   },
   "active": "46ab014e1923638a",
   "lastOpenFiles": [
-    "Financial/Quarterly Reports/2024 Q4.md",
+    "Space Systems/Separation Systems/Canisterized Satellite Dispenser (CSD).md",
+    "Space Systems/Missions/Varda W Missions.md",
+    "Space Systems/Spacecraft/Pioneer.md",
+    "Organization/Partners/Varda Space Industries.md",
+    "News/Rocket Lab’s Pioneer Spacecraft Successfully Deployed to Orbit, Powering Varda Space Industries' Third In-Space Manufacturing Mission.md",
+    "News/Rocket Lab Announces “At The Market” (ATM) Equity Offering Program.md",
+    "Pasted image 20250315173332.jpg",
+    "Organization/Partners/iQPS.md",
+    "Launch/Launches/061 'The Lightning God Reigns'.md",
+    "News/Rocket Lab Successfully Launches 61st Electron Mission, Second Launch for iQPS.md",
+    "Organization/Partners/Spire Global.md",
+    "News/Rocket Lab 'Its Business Time' launch window to open 20 April 2018 NZT.md",
+    "Launch/Launches/062 'High Five'.md",
+    "🚀 Launches.md",
+    "Pasted image 20250315172622.png",
+    "Pasted image 20250315172502.jpg",
+    "News/Rocket Lab Schedules Two Launches Three Days Apart, Upcoming Mission to Deploy Final Satellites in Kinéis Constellation.md",
+    "📰 News.md",
+    "Vault-Assets/PDFs/Kineis-High-Five-Press-Kit.pdf",
+    "Organization/Partners/Kinéis.md",
+    "Launch/Launches/059 'IOT 4 You and Me'.md",
+    "Locations/Launch Complex 1.md",
+    "Templates/Launch Template.md",
+    "Launch/Launches/001 'It's a Test'.md",
+    "Templates",
+    "Launch/Launches/060 'Fasten Your Space Belts'.md",
     "Home.md",
     "🎙️ Interviews.md",
-    "📊 Earnings Calls.md",
-    "Financial/Quarterly Reports/2021 Q3.md",
-    "📰 News.md",
-    "🚀 Launches.md",
-    "Organization/Partners/BlackSky.md",
-    "Organization/Partners/Tyvak Nano-Satellite Systems.md",
-    "Organization/Partners/U.S. Air Force.md",
-    "Organization/Partners/U.S. Army.md",
-    "Organization/Partners/U.S. Department of Defense.md",
-    "Organization/Partners/U.S. Space Force.md",
-    "Organization/Partners/York Space Systems.md",
-    "Organization/Partners/Vector Acquisition Corporation (VACQ).md",
-    "Organization/Partners/Varda Space Industries.md",
-    "Organization/Partners/Valve.md",
-    "Organization/Partners/UTIAS Space Flight Laboratory.md",
-    "Organization/Partners/USTRANSCOM.md",
-    "Organization/Partners/UNSW Canberra Space.md",
-    "Organization/Partners/Unseenlabs.md",
-    "Organization/Partners/University of California Berkeley Space Sciences Laboratory.md",
-    "Organization/Partners/Trisept.md",
-    "Organization/Partners/The University of Auckland.md",
-    "Organization/Partners/Telesat.md",
-    "Organization/Partners/Synspective.md",
+    "🏛️ Board of Directors.md",
+    "🟢 Subsidiaries.md",
+    "Financial/Quarterly Reports/2024 Q4.md",
     "Vault-Assets/Images/52328481908_3e649b4570_b.jpg",
     "Vault-Assets/Images/Globalstar_constellation-Globalstar.webp",
     "Vault-Assets/Images/Pasted image 20250314201500.png",
@@ -237,9 +234,6 @@
     "Vault-Assets/Images/DYCDyj0U0AEJT7J.png",
     "Vault-Assets/Images/Artist-view-OneWeb-satellite-Copyright-Eutelsat-OneWeb.gif",
     "Vault-Assets/Images/ARGOS-4 (1).jpg.webp",
-    "Vault-Assets/Images/52360875908_3635562dc5_c.jpg",
-    "Vault-Assets/Images/51898840602_05fe12a63f_c.jpg",
-    "Vault-Assets/Images/Pasted image 20241229145415.jpg",
     "Vault-Assets/PDFs/F61-The-Lightning-God-Reigns-press-kit-final (1).pdf",
     "Vault-Assets/PDFs/2002337G-CSD-Data-Sheet-compressed2.pdf",
     "Vault-Assets/PDFs/RL-MAX-FSW-Brochure- (1).pdf",
@@ -248,8 +242,6 @@
     "Filings/2025/Misc",
     "Vault-Assets/PDFs/e579ee65-2612-4aa2-87b9-880a5391a23d.pdf",
     "Vault-Assets/PDFs/c5d1fba9-6e22-42ae-8e23-a15229a11f4d.pdf",
-    "Filings/2025/10-K",
-    "Vault-Assets/PDFs/0fbb0efa-5b5a-4173-bc8a-aa3035698a66.pdf",
     "Untitled.canvas",
     "Subsidiaries/Untitled.canvas"
   ]

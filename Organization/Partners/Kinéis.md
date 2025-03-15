@@ -27,6 +27,7 @@ sort launch_date desc
 
 | File                                                                                            | Date             | Location                                              | Vehicle                          | Orbit & Mass            | Outcome   |
 | ----------------------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | ----------------------- | --------- |
+| [[Launch/Launches/062 'High Five'.md\|062 'High Five']]                                         | 2025-03-18 00:00 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 643 km \| 97° \| 150 kg | ⌛ Pending |
 | [[Launch/Launches/059 'IOT 4 You and Me'.md\|059 'IOT 4 You and Me']]                           | 2025-02-04 20:43 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 643 km \| 97° \| 150 kg | ✅ Success |
 | [[Launch/Launches/056 'Ice AIS Baby'.md\|056 'Ice AIS Baby']]                                   | 2024-11-25 04:55 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 643 km \| 97° \| 150 kg | ✅ Success |
 | [[Launch/Launches/053 'Kineis Killed the RadIOT Star'.md\|053 'Kineis Killed the RadIOT Star']] | 2024-09-20 23:01 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 643 km \| 98° \| 150 kg | ✅ Success |
