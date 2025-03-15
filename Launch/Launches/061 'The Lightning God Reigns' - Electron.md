@@ -47,7 +47,8 @@ x 1 [[iQPS#🛰️ Space Systems#QPS-SAR|QPS-SAR]]
 <div class="responsive-video">
 <iframe width="1141" height="642" src="https://www.youtube.com/embed/k-cuTDrVCmQ" title="Rocket Lab - &#39;The Lightning God Reigns&#39; Launch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
-
+![]()
+![](https://x.com/RocketLab/status/1900699144249110863)
 ## 📰 News
 
 %%DATAVIEW_PUBLISHER: start
