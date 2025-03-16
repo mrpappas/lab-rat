@@ -25,7 +25,7 @@ Filing_Date: 2025-03-14
 ## Notes
 
 - [[Adam Spice]] acquired **114,845 shares** through **restricted stock vesting** on **March 13, 2025**.
-- A portion of these shares, **62,843**, was sold o **Manrch 14, 2025**, with an **aggregate market value of $1,142,567.44**.
+- A portion of these shares, **62,843**, was sold on **March 14, 2025**, with an **aggregate market value of $1,142,567.44**.
 - The filing indicates that part of the sale was conducted to cover tax obligations associated with the vesting event.
 
 
