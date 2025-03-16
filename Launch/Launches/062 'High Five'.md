@@ -3,7 +3,7 @@ tags:
  - electron
  - launch
 mission_name: High Five
-launch_date: 2025-03-18 00:00
+launch_date: 2025-03-18 01:31
 outcome: "⌛ Pending"
 customer: "[[Kinéis]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
@@ -16,7 +16,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/high-five
 ---
 #electron #launch
 **Mission Name**: High Five
-**Launch Date**:  2025-03-18
+**Launch Date**:  2025-03-18 01:31 UTC
 **Outcome**: 'Pending'
 **Customer**: [[Kinéis]]
 **Location**: [[Launch Complex 1#Launch Pad A]]

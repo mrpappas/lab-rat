@@ -26,22 +26,21 @@ State-of-the-art launch control center, payload integration factory and vehicle 
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
-table title as "Title", published as "Published"
-from "News"
-where contains(location, [[Launch Complex 2]])
-sort published desc
+table customer as "Customer", launch_date as "Date", location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
+from "Launch/Launches"
+where location = [[Launch Complex 2#Launch Pad 0C]]
+sort launch_date desc
 ```
 %%
 
-| File                                                                                                                                                                                                                                     | Title                                                                                                          | Published          |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[News/Rocket Lab Completes Final Dress Rehearsal at Launch Complex 2 Ahead of First Electron Mission from U.S. Soil.md\|Rocket Lab Completes Final Dress Rehearsal at Launch Complex 2 Ahead of First Electron Mission from U.S. Soil]] | Rocket Lab Completes Final Dress Rehearsal at Launch Complex 2 Ahead of First Electron Mission from U.S. Soil  | September 17, 2020 |
-| [[News/Rocket Lab Granted FAA Launch Operator License for Missions from Launch Complex 2.md\|Rocket Lab Granted FAA Launch Operator License for Missions from Launch Complex 2]]                                                         | Rocket Lab Granted FAA Launch Operator License for Missions from Launch Complex 2                              | September 01, 2020 |
-| [[News/Electron Roll-Out Complete at Launch Complex 2 Ahead of Upcoming U.S. Space Force Mission.md\|Electron Roll-Out Complete at Launch Complex 2 Ahead of Upcoming U.S. Space Force Mission]]                                         | Electron Roll-Out Complete at Launch Complex 2 Ahead of Upcoming U.S. Space Force Mission                      | April 29, 2020     |
-| [[News/Rocket Lab Opens Launch Complex 2, Confirms U.S. Air Force Payload as First Electron Mission from U.S. Soil.md\|Rocket Lab Opens Launch Complex 2, Confirms U.S. Air Force Payload as First Electron Mission from U.S. Soil]]     | Rocket Lab Opens Launch Complex 2, Confirms U.S. Air Force Payload as First Electron Mission from U.S. Soil    | December 12, 2019  |
-| [[News/Rocket Lab Readies Launch Complex 2 for Electron Launches From U.S. Soil.md\|Rocket Lab Readies Launch Complex 2 for Electron Launches From U.S. Soil]]                                                                           | Rocket Lab Readies Launch Complex 2 for Electron Launches From U.S. Soil                                       | September 18, 2019 |
-| [[News/Rocket Lab selects Wallops Flight Facility for US launch site.md\|Rocket Lab selects Wallops Flight Facility for US launch site]]                                                                                                 | Rocket Lab selects Wallops Flight Facility for US launch site                                                  | October 17, 2018   |
-| [[News/Rocket Lab to expand launch capability with US launch site.md\|Rocket Lab to expand launch capability with US launch site]]                                                                                                       | Rocket Lab to expand launch capability with US launch site                                                     | July 10, 2018      |
+| File                                                                                            | Customer                                                                                                | Date             | Location                                               | Vehicle                          | Orbit & Mass             | Outcome   |
+| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------------ | -------------------------------- | ------------------------ | --------- |
+| [[Launch/Launches/057 'Stonehenge'.md\|057 'Stonehenge']]                                       | Unknown*                                                                                                | 2024-12-13 00:00 | [[Locations/Launch Complex 2.md#Launch Pad 0C\|LC2-0]] | [[Launch/HASTE.md\|HASTE]]       | Suborbital \| unknown    | ✅ Success |
+| [[Launch/Launches/055 'HASTE A La Vista'.md\|055 'HASTE A La Vista']]                           | [[Organization/Partners/U.S. Department of Defense.md\|U.S. Department of Defense]]                     | 2024-11-24 06:00 | [[Locations/Launch Complex 2.md#Launch Pad 0C\|LC2-0]] | [[Launch/HASTE.md\|HASTE]]       | Suborbital \| unknown    | ✅ Success |
+| [[Launch/Launches/046 'Live And Let Fly'.md\|046 'Live And Let Fly']]                           | [[Organization/Partners/National Reconnaissance Office (NRO).md\|National Reconnaissance Office (NRO)]] | 2024-03-21 06:40 | [[Locations/Launch Complex 2.md#Launch Pad 0C\|LC2-0]] | [[Launch/Electron.md\|Electron]] | Classified \| Classified | ✅ Success |
+| [[Launch/Launches/038 'Scout's Arrow'.md\|038 'Scout's Arrow']]                                 | [[Organization/Partners/Leidos.md\|Leidos]]                                                             | 2023-06-18 01:24 | [[Locations/Launch Complex 2.md#Launch Pad 0C\|LC2-0]] | [[Launch/HASTE.md\|HASTE]]       | Suborbital \| unknown    | ✅ Success |
+| [[Launch/Launches/034 'Stronger Together'.md\|034 'Stronger Together']]                         | [[Organization/Partners/Capella Space.md\|Capella Space]]                                               | 2023-03-16 22:38 | [[Locations/Launch Complex 2.md#Launch Pad 0C\|LC2-0]] | [[Launch/Electron.md\|Electron]] | 600 km \| 44° \| 224 kg  | ✅ Success |
+| [[Launch/Launches/033 'Virginia is for Launch Lovers'.md\|033 'Virginia is for Launch Lovers']] | [[Organization/Partners/HawkEye 360.md\|HawkEye 360]]                                                   | 2023-01-24 23:00 | [[Locations/Launch Complex 2.md#Launch Pad 0C\|LC2-0]] | [[Launch/Electron.md\|Electron]] | 550 km \| 40.5° \| 40 kg | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end %%
 

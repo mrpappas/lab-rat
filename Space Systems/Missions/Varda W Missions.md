@@ -50,6 +50,8 @@ Expected Reentry Date: April 2025
 
 >[!warning] Coming Soon
 
+Rocket Lab has confirmed they are building the W-4 capsule. [[Rocket Lab’s Pioneer Spacecraft Successfully Deployed to Orbit, Powering Varda Space Industries' Third In-Space Manufacturing Mission|🔗 Source]]
+	"The Company’s fourth contracted Pioneer spacecraft for Varda is currently undergoing final assembly at Rocket Lab’s Spacecraft Production Complex and Headquarters in Long Beach, California."
 
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
