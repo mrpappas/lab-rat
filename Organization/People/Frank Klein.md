@@ -2,7 +2,7 @@
 
 name: Frank Klein
 role: Chief Operations Officer
-shares_owned: 1,464,032
+shares_owned: 1,500,729
 joined: 2024-09-10
 linkedin: https://www.linkedin.com/in/frank-klein-950b8a194/
 ---
