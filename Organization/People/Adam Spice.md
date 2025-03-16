@@ -2,7 +2,7 @@
 
 name: Adam Spice
 role: Chief Financial Officer
-shares_owned: 1,259,522
+shares_owned: 1,311,524
 joined: 2018-04-03
 linkedin: https://www.linkedin.com/in/adam-spice-086120/
 ---
@@ -32,6 +32,7 @@ sort Filing_Date desc
 
 | File                                                                                        | Filing Type                                          | Date               |
 | ------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ------------------ |
+| [[Filings/2025/Form 144/03-14-25 Form 144 - Adam Spice.md\|03-14-25 Form 144 - Adam Spice]] | [[Filings/Filing Definitions.md#Form 144\|Form 144]] | March 14, 2025     |
 | [[Filings/2024/Form 4/11-27-24 Form 4 - Adam Spice.md\|11-27-24 Form 4 - Adam Spice]]       | [[Filings/Filing Definitions.md#Form 4\|Form 4]]     | November 27, 2024  |
 | [[Filings/2024/Form 144/11-25-24 Form 144 - Adam Spice.md\|11-25-24 Form 144 - Adam Spice]] | [[Filings/Filing Definitions.md#Form 144\|Form 144]] | November 25, 2024  |
 | [[Filings/2024/Form 4/8-26-24 Form 4 - Adam Spice.md\|8-26-24 Form 4 - Adam Spice]]         | [[Filings/Filing Definitions.md#Form 4\|Form 4]]     | August 26, 2024    |
