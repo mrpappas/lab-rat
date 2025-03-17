@@ -44,6 +44,12 @@ The mission also included the successful splashdown and recovery of Electron's f
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720314477718/)
 
+## 📽️ Launch Video
+
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/NDyxRPGWhRo" title="Rocket Lab&#39;s Electron - Four Of A Kind Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
+</div>
+
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
@@ -62,10 +68,3 @@ sort published desc
 | [[News/Rocket Lab to Launch Space Object Monitoring Mission For Spire Global & NorthStar.md\|Rocket Lab to Launch Space Object Monitoring Mission For Spire Global & NorthStar]]                                 | June 22, 2023    |
 
 %%DATAVIEW_PUBLISHER: end %%
-
-## 📽️ Launch Video
-
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/NDyxRPGWhRo" title="Rocket Lab&#39;s Electron - Four Of A Kind Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
-</div>
-

@@ -43,6 +43,12 @@ The “Owl for One, One for Owl” mission was our 5th launch for [[Synspective]
 
 x1 [[Synspective#🛰️ Space Systems#StriX|Strix]] Series Satellite for [[Synspective]]
 
+## 📽️ Launch Video
+
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/ZdikUDvKYmc" title="Rocket Lab&#39;s Electron - Owl For One, One For Owl Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
+</div>
+
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
@@ -59,9 +65,3 @@ sort published desc
 | [[News/Rocket Lab Sets Launch Date for 51st Electron Mission, Prepares to Deploy Latest Satellites in Multi-Launch Contract for Synspective.md\|Rocket Lab Sets Launch Date for 51st Electron Mission, Prepares to Deploy Latest Satellites in Multi-Launch Contract for Synspective]] | July 24, 2024   |
 
 %%DATAVIEW_PUBLISHER: end %%
-
-## 📽️ Launch Video
-
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/ZdikUDvKYmc" title="Rocket Lab&#39;s Electron - Owl For One, One For Owl Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
-</div>

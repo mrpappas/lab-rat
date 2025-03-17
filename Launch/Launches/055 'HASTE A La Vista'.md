@@ -41,6 +41,14 @@ instrumentation which was launched on this mission, but on a highly accelerated 
 >
 >🚫 No Official Mission Photo Album
 
+## 📽️ Launch Video
+
+🚫 No Official Livestream
+
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/1dBfpv9TIdw" title="Rocket Lab&#39;s Electron - HASTE A La Vista Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
+</div>
+
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
@@ -57,11 +65,3 @@ sort published desc
 | [[News/Rocket Lab Successfully Launches Two Missions in Less Than 24 Hours.md\|Rocket Lab Successfully Launches Two Missions in Less Than 24 Hours]]   | November 25, 2024 |
 
 %%DATAVIEW_PUBLISHER: end %%
-
-## 📽️ Launch Video
-
-🚫 No Official Livestream
-
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/1dBfpv9TIdw" title="Rocket Lab&#39;s Electron - HASTE A La Vista Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
-</div>

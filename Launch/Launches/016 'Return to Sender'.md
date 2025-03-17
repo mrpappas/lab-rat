@@ -48,6 +48,11 @@ This mission also included Rocket Lab's first attempt to bring Electron’s firs
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72157716860025163/)
 
+## 📽️ Launch Video
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/eZGI_lHGltA" title="Rocket Lab&#39;s Electron - Return to Sender Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
+</div>
+
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
@@ -66,8 +71,3 @@ sort published desc
 | [[News/Rocket Lab to Launch Most Diverse Mission Yet.md\|Rocket Lab to Launch Most Diverse Mission Yet]]                               | November 02, 2020 |
 
 %%DATAVIEW_PUBLISHER: end %%
-
-## 📽️ Launch Video
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/eZGI_lHGltA" title="Rocket Lab&#39;s Electron - Return to Sender Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
-</div>

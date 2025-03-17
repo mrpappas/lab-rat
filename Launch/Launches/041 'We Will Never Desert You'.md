@@ -48,25 +48,6 @@ Anomaly occurred 2 minutes 30 seconds into the flight.
 
 x1 [[Capella Space#🛰️ Space Systems#Acadia|Acadia SAR]] Satellite
 
-## 📰 News
-%%DATAVIEW_PUBLISHER: start
-```
-table published as "Published"
-from "News"
-where contains(mission, [[041 'We Will Never Desert You']])
-sort published desc
-```
-%%
-
-| File                                                                                                                                                                                   | Published          |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[News/Rocket Lab Sets Next Electron Launch Window, Provides Update on Anomaly Review.md\|Rocket Lab Sets Next Electron Launch Window, Provides Update on Anomaly Review]]             | November 08, 2023  |
-| [[News/Rocket Lab Receives Federal Aviation Administration Authorization to Resume Launches.md\|Rocket Lab Receives Federal Aviation Administration Authorization to Resume Launches]] | October 25, 2023   |
-| [[News/Rocket Lab Launch Update (2).md\|Rocket Lab Launch Update (2)]]                                                                                                                 | September 19, 2023 |
-| [[News/Rocket Lab Announces Launch Window for Next Capella Space Mission.md\|Rocket Lab Announces Launch Window for Next Capella Space Mission]]                                       | September 07, 2023 |
-
-%%DATAVIEW_PUBLISHER: end %%
-
 ## 📽️ Launch Video
 
 <div class="responsive-video">
@@ -90,3 +71,21 @@ Three rare conditions had to present simultaneously in the low-pressure space en
 Source: [[Rocket Lab Sets Next Electron Launch Window, Provides Update on Anomaly Review]]
 
 
+## 📰 News
+%%DATAVIEW_PUBLISHER: start
+```
+table published as "Published"
+from "News"
+where contains(mission, [[041 'We Will Never Desert You']])
+sort published desc
+```
+%%
+
+| File                                                                                                                                                                                   | Published          |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[News/Rocket Lab Sets Next Electron Launch Window, Provides Update on Anomaly Review.md\|Rocket Lab Sets Next Electron Launch Window, Provides Update on Anomaly Review]]             | November 08, 2023  |
+| [[News/Rocket Lab Receives Federal Aviation Administration Authorization to Resume Launches.md\|Rocket Lab Receives Federal Aviation Administration Authorization to Resume Launches]] | October 25, 2023   |
+| [[News/Rocket Lab Launch Update (2).md\|Rocket Lab Launch Update (2)]]                                                                                                                 | September 19, 2023 |
+| [[News/Rocket Lab Announces Launch Window for Next Capella Space Mission.md\|Rocket Lab Announces Launch Window for Next Capella Space Mission]]                                       | September 07, 2023 |
+
+%%DATAVIEW_PUBLISHER: end %%

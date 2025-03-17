@@ -44,6 +44,12 @@ More info on TROPICS: [Mission Overview | TROPICS](https://tropics.ll.mit.edu/CM
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720308583318/)
 
+## 📽️ Launch Video
+
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/hhuJsjQH8fU" title="Rocket Lab&#39;s Electron - Coming To A Storm Near You Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
+</div>
+
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
@@ -62,9 +68,3 @@ sort published desc
 | [[News/NASA Selects Rocket Lab to Launch TROPICS Mission.md\|NASA Selects Rocket Lab to Launch TROPICS Mission]]                                                                                       | November 23, 2022 |
 
 %%DATAVIEW_PUBLISHER: end %%
-
-## 📽️ Launch Video
-
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/hhuJsjQH8fU" title="Rocket Lab&#39;s Electron - Coming To A Storm Near You Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
-</div>

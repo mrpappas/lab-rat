@@ -52,6 +52,12 @@ Due to the controlled way the engine shut down, Rocket Lab continued to receive 
 >
 Rocket Lab has now reliably replicated the issue in test and identified that it can be mitigated through additional testing and procedures. Corrective measures are now in place for all future missions.
 
+## 📽️ Launch Video
+
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/5ZcZoDFYjXc" title="Rocket Lab&#39;s Electron - Pics Or It Didn&#39;t Happen Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
+</div>
+
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
@@ -69,9 +75,3 @@ sort published desc
 | [[News/Rocket Lab to Demonstrate Fastest Launch Turnaround to Date.md\|Rocket Lab to Demonstrate Fastest Launch Turnaround to Date]] | June 15, 2020 |
 
 %%DATAVIEW_PUBLISHER: end %%
-
-## 📽️ Launch Video
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/5ZcZoDFYjXc" title="Rocket Lab&#39;s Electron - Pics Or It Didn&#39;t Happen Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
-</div>
-

@@ -48,6 +48,12 @@ In addition to being launched by Electron, the QPS-SAR-5 satellite used Rocket L
 
 x1 [[iQPS#🛰️ Space Systems#QPS-SAR|QPS-SAR]] Satellite for [[iQPS]]
 
+## 📽️ Launch Video
+
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/iLwTLqaCnQ8" title="Rocket Lab&#39;s Electron - The Moon God Awakens Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
+</div>
+
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
@@ -66,9 +72,3 @@ sort published desc
 | [[News/Rocket Lab Inks Dedicated Launch Deal with Japanese Earth Imaging Company iQPS.md\|Rocket Lab Inks Dedicated Launch Deal with Japanese Earth Imaging Company iQPS]]     | August 17, 2023   |
 
 %%DATAVIEW_PUBLISHER: end %%
-
-## 📽️ Launch Video
-
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/iLwTLqaCnQ8" title="Rocket Lab&#39;s Electron - The Moon God Awakens Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
-</div>

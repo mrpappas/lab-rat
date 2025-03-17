@@ -45,6 +45,12 @@ The mission for Synspective marked a series of company milestones for Rocket Lab
 
 x1 [[Synspective#🛰️ Space Systems#StriX|Strix]] Series Satellite for [[Synspective]]
 
+## 📽️ Launch Video
+
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/I9aYHnHaFAk" title="Rocket Lab&#39;s Electron - The Owl Spreads Its Wings Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
+</div>
+
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
@@ -62,9 +68,3 @@ sort published desc
 | [[News/Rocket Lab to Launch Three Dedicated Electron Missions for Earth Imaging Company Synspective.md\|Rocket Lab to Launch Three Dedicated Electron Missions for Earth Imaging Company Synspective]] | December 07, 2021  |
 
 %%DATAVIEW_PUBLISHER: end %%
-
-## 📽️ Launch Video
-
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/I9aYHnHaFAk" title="Rocket Lab&#39;s Electron - The Owl Spreads Its Wings Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
-</div>

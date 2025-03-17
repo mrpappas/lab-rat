@@ -54,6 +54,13 @@ Kinéis' satellite-based AIS (S-AIS) is a high-performance system (requiring no 
 
 x5 [[Kinéis#🛰️ Space Systems#Kinéis IoT|Kinéis IoT]] Satellites
 
+## 📽️ Launch Video
+
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/7Al5hWmjoxQ" title="Rocket Lab - &#39;IoT 4 U &amp; Me&#39; Launch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+</div>
+
+
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
@@ -70,9 +77,3 @@ sort published desc
 | [[News/Rocket Lab Schedules Next Electron Launch for Constellation Operator Kinéis.md\|Rocket Lab Schedules Next Electron Launch for Constellation Operator Kinéis]] | January 21, 2025  |
 
 %%DATAVIEW_PUBLISHER: end %%
-
-## 📽️ Launch Video
-
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/7Al5hWmjoxQ" title="Rocket Lab - &#39;IoT 4 U &amp; Me&#39; Launch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
-</div>

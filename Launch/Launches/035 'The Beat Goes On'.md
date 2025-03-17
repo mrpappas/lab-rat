@@ -40,6 +40,16 @@ The pair of high-resolution, multi-spectral, Gen-2 satellites launched on [[Elec
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720306962454/)
 
+## 📽️ Launch Video
+
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/rvPcY3SrgAs" title="Rocket Lab&#39;s Electron - The Beat Goes On Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
+</div>
+
+## ✏️ Notes
+
+- This mission launched only 7 days after [[034 'Stronger Together']], marking the fastest ever turnaround
+
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
@@ -57,14 +67,3 @@ sort published desc
 | [[News/Rocket Lab Plans Two Launches Days Apart From Two Continents.md\|Rocket Lab Plans Two Launches Days Apart From Two Continents]]                                                                                                                                                     | February 28, 2023 |
 
 %%DATAVIEW_PUBLISHER: end %%
-
-## 📽️ Launch Video
-
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/rvPcY3SrgAs" title="Rocket Lab&#39;s Electron - The Beat Goes On Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
-</div>
-
-## ✏️ Notes
-
-- This mission launched only 7 days after [[034 'Stronger Together']], marking the fastest ever turnaround
-

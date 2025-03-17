@@ -42,6 +42,16 @@ The “Ice AIS Baby” mission launched successfully on November 25th NZDT, 2024
 
 x5 [[Kinéis#🛰️ Space Systems#Kinéis IoT|Kinéis IoT]] Satellites
 
+## 📽️ Launch Video
+
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/i081vyh3WO0" title="Rocket Lab&#39;s Electron - Ice AIS Baby Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
+</div>
+
+## ✏️ Notes
+
+- This Marks the first time Rocket lab launched two missions within 24 hours. This along with [[055 'HASTE A La Vista']].
+
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
@@ -58,13 +68,3 @@ sort published desc
 | [[News/Rocket Lab Schedules Next Launch for Constellation Operator Kinéis.md\|Rocket Lab Schedules Next Launch for Constellation Operator Kinéis]]   | November 12, 2024 |
 
 %%DATAVIEW_PUBLISHER: end %%
-
-## 📽️ Launch Video
-
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/i081vyh3WO0" title="Rocket Lab&#39;s Electron - Ice AIS Baby Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
-</div>
-
-## ✏️ Notes
-
-- This Marks the first time Rocket lab launched two missions within 24 hours. This along with [[055 'HASTE A La Vista']].

@@ -42,6 +42,20 @@ Rocket Lab’s rapid call-up launch capability, its standardized and rapid produ
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720321266011/)
 
+## 📽️ Launch Video
+
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/Pku19e-MHis" title="Rocket Lab&#39;s Electron - Changes In Latitudes, Changes In Attitudes Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
+</div>
+
+## ✏️ Notes
+
+- From contract to launch in less than 10 weeks [Source](https://www.rocketlabusa.com/updates/from-contract-to-space-in-less-than-ten-weeks-rocket-lab-launches-its-54th-electron-mission/)
+- It's been rumored that the confidential customer is [[E-Space]]. 
+
+[Source](https://www.mbie.govt.nz/about/open-government-and-official-information/release-of-information/lists-of-ministerial-documents-by-portfolio/space#September)
+![[Pasted image 20241224234855.png]]
+
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
@@ -58,18 +72,3 @@ sort published desc
 | [[News/Rocket Lab Adds New Mission to 2024 Launch Manifest, Schedules Launch in Coming Days.md\|Rocket Lab Adds New Mission to 2024 Launch Manifest, Schedules Launch in Coming Days]]               | October 16, 2024  |
 
 %%DATAVIEW_PUBLISHER: end %%
-## 📽️ Launch Video
-
-![](https://www.youtube.com/watch?v=Pku19e-MHis)
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/Pku19e-MHis" title="Rocket Lab&#39;s Electron - Changes In Latitudes, Changes In Attitudes Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
-</div>
-
-## ✏️ Notes
-
-- From contract to launch in less than 10 weeks [Source](https://www.rocketlabusa.com/updates/from-contract-to-space-in-less-than-ten-weeks-rocket-lab-launches-its-54th-electron-mission/)
-- It's been rumored that the confidential customer is [[E-Space]]. 
-
-[Source](https://www.mbie.govt.nz/about/open-government-and-official-information/release-of-information/lists-of-ministerial-documents-by-portfolio/space#September)
-![[Pasted image 20241224234855.png]]
-

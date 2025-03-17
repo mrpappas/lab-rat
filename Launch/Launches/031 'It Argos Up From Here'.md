@@ -40,6 +40,11 @@ This dedicated mission for General Atomics launched the GAzelle satellite carryi
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720302455707/)
 
+## 📽️ Launch Video
+
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/TffmQR1K04M" title="Rocket Lab&#39;s Electron - It Argos Up From Here Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
+</div>
 
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
@@ -58,9 +63,3 @@ sort published desc
 | [[News/Rocket Lab to Launch NOAA-Supported Argos-4 Spacecraft for General Atomics to Support Environmental Monitoring from Space.md\|Rocket Lab to Launch NOAA-Supported Argos-4 Spacecraft for General Atomics to Support Environmental Monitoring from Space]] | September 19, 2022 |
 
 %%DATAVIEW_PUBLISHER: end %%
-
-## 📽️ Launch Video
-
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/TffmQR1K04M" title="Rocket Lab&#39;s Electron - It Argos Up From Here Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
-</div>

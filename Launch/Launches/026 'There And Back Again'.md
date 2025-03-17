@@ -48,6 +48,12 @@ The “There And Back Again” mission deployed 34 satellites to a sun synchrono
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720301762910/)
 
+## 📽️ Launch Video
+
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/6nODVPGHQcc" title="Rocket Lab&#39;s Electron - There And Back Again Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
+</div>
+
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
@@ -69,9 +75,3 @@ sort published desc
 | [[News/Rocket Lab to Launch Finnish Satellite Developing Next-Generation Space Junk Removal Technologies.md\|Rocket Lab to Launch Finnish Satellite Developing Next-Generation Space Junk Removal Technologies]]                         | August 16, 2021    |
 
 %%DATAVIEW_PUBLISHER: end %%
-
-## 📽️ Launch Video
-
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/6nODVPGHQcc" title="Rocket Lab&#39;s Electron - There And Back Again Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
-</div>

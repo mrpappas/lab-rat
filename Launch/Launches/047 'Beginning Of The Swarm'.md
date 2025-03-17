@@ -44,6 +44,12 @@ The secondary payload was NASA's ACS3, a technology demonstration of new materia
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720316422225/)
 
+## 📽️ Launch Video
+
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/9izutzETw1U" title="Rocket Lab&#39;s Electron - Beginning Of The Swarm Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
+</div>
+
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
@@ -62,9 +68,3 @@ sort published desc
 | [[News/Rocket Lab Selected to Launch NASA’s Advanced Composite Solar Sail System.md\|Rocket Lab Selected to Launch NASA’s Advanced Composite Solar Sail System]]                                                                   | October 06, 2021  |
 
 %%DATAVIEW_PUBLISHER: end %%
-
-## 📽️ Launch Video
-
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/9izutzETw1U" title="Rocket Lab&#39;s Electron - Beginning Of The Swarm Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
-</div>

@@ -38,6 +38,12 @@ Rocket Lab's 11th Electron flight - Birds of a Feather - launched a dedicated mi
 >
 The NRO competitively awarded the contract under the Rapid Acquisition of a Small Rocket (RASR) contract vehicle. RASR allows the NRO to explore new launch opportunities that can provide a streamlined, commercial approach for getting small satellites into space.
 
+
+## 📽️ Launch Video
+<div class="responsive-video">
+<iframe width="736" height="414" src="https://www.youtube.com/embed/af-PplDIkbc" title="Birds Of A Feather Launch - 01/31/2020" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
@@ -54,9 +60,3 @@ sort published desc
 | [[News/Rocket Lab To Launch National Reconnaissance Office Mission.md\|Rocket Lab To Launch National Reconnaissance Office Mission]]                       | January 20, 2020 |
 
 %%DATAVIEW_PUBLISHER: end %%
-
-## 📽️ Launch Video
-<div class="responsive-video">
-<iframe width="736" height="414" src="https://www.youtube.com/embed/af-PplDIkbc" title="Birds Of A Feather Launch - 01/31/2020" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-

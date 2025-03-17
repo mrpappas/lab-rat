@@ -43,6 +43,16 @@ The mission was the first of five dedicated Electron launches for [[Kinéis]], a
 
 x5 [[Kinéis#🛰️ Space Systems#Kinéis IoT| Kinéis IoT]] Satellites
 
+## 📽️ Launch Video
+
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/MYpQkHw9s1I" title="Rocket Lab&#39;s Electron - No Time Toulouse Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
+</div>
+
+## ✏️ Notes
+
+- First of Five dedicated launches for [[Kinéis]]' IoT Constellation
+
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
@@ -59,14 +69,3 @@ sort published desc
 | [[News/Rocket Lab Sets Launch Date for 50th Electron Mission, Prepares to Deploy Five Satellites for Kinéis.md\|Rocket Lab Sets Launch Date for 50th Electron Mission, Prepares to Deploy Five Satellites for Kinéis]] | June 07, 2024 |
 
 %%DATAVIEW_PUBLISHER: end %%
-
-## 📽️ Launch Video
-
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/MYpQkHw9s1I" title="Rocket Lab&#39;s Electron - No Time Toulouse Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
-</div>
-
-## ✏️ Notes
-
-- First of Five dedicated launches for [[Kinéis]]' IoT Constellation
-

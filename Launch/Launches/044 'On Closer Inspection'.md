@@ -42,6 +42,19 @@ To enable the rendezvous with a non-cooperative space object required a dedicate
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720314661187/)
 
+## 📽️ Launch Video
+
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/dcuZMP1m_g8" title="Rocket Lab&#39;s Electron - On Closer Inspection Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
+</div>
+
+### Mission Concept Video
+
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/IavkwZi7ME8" title="ADRAS-J | Active Debris Removal by Astroscale - Japan | Concept of Operations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
@@ -59,17 +72,3 @@ sort published desc
 | [[News/Rocket Lab Wins Contract to Launch Orbital Debris Removal Demonstration Mission for Astroscale.md\|Rocket Lab Wins Contract to Launch Orbital Debris Removal Demonstration Mission for Astroscale]]   | September 21, 2021 |
 
 %%DATAVIEW_PUBLISHER: end %%
-
-## 📽️ Launch Video
-
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/dcuZMP1m_g8" title="Rocket Lab&#39;s Electron - On Closer Inspection Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
-</div>
-
-### Mission Concept Video
-
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/IavkwZi7ME8" title="ADRAS-J | Active Debris Removal by Astroscale - Japan | Concept of Operations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-
-

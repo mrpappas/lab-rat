@@ -42,6 +42,13 @@ The mission was named ‘It’s a Little Chile Up Here’ in a nod to the belove
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720301764530/)
 
+
+## 📽️ Launch Video
+
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/XEAKezzYi4Q" title="Rocket Lab&#39;s Electron - It's A Little Chile Up Here Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
+</div>
+
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
@@ -58,10 +65,3 @@ sort published desc
 | [[News/Rocket Lab to Launch U.S. Space Force Mission from Launch Complex 1 in New Zealand.md\|Rocket Lab to Launch U.S. Space Force Mission from Launch Complex 1 in New Zealand]] | July 27, 2021 |
 
 %%DATAVIEW_PUBLISHER: end %%
-
-
-## 📽️ Launch Video
-
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/XEAKezzYi4Q" title="Rocket Lab&#39;s Electron - It's A Little Chile Up Here Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
-</div>

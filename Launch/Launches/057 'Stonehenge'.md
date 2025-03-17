@@ -36,6 +36,14 @@ mission_link:
 >[!summary]
 >Put mission summary here
 
+## 📽️ Launch Video
+
+🚫 No Official Livestream  
+
+![Video](https://x.com/kyle_LTS/status/1867760256274903275)
+
+![Video](https://x.com/joshlikesrocket/status/1867745406341591451)
+
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
@@ -51,11 +59,3 @@ sort published desc
 | [[News/Rocket Lab Inks New Deal to Launch HASTE Mission from Virginia.md\|Rocket Lab Inks New Deal to Launch HASTE Mission from Virginia]] | August 08, 2023 |
 
 %%DATAVIEW_PUBLISHER: end %%
-
-## 📽️ Launch Video
-
-🚫 No Official Livestream  
-
-![Video](https://x.com/kyle_LTS/status/1867760256274903275)
-
-![Video](https://x.com/joshlikesrocket/status/1867745406341591451)

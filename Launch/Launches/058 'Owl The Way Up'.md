@@ -43,6 +43,14 @@ The “Owl The Way Up” mission launched from Rocket Lab [[Launch Complex 1]] i
 
 x1 [[Synspective#🛰️ Space Systems#StriX|Strix]] Series Satellite for [[Synspective]]
 
+## 📽️ Launch Video
+
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/-7VZB4pHJrQ" title="Rocket Lab - &#39;Owl The Way Up&#39; Launch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen tabindex="-1"></iframe>
+</div>
+
+![https://x.com/RocketLab/status/1870426311996625165](https://x.com/RocketLab/status/1870426311996625165)
+
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
@@ -59,11 +67,3 @@ sort published desc
 | [[News/Rocket Lab Sets Launch Window to Deploy Synspective Satellites.md\|Rocket Lab Sets Launch Window to Deploy Synspective Satellites]]                                                                                         | December 05, 2024 |
 
 %%DATAVIEW_PUBLISHER: end %%
-
-## 📽️ Launch Video
-
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/-7VZB4pHJrQ" title="Rocket Lab - &#39;Owl The Way Up&#39; Launch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen tabindex="-1"></iframe>
-</div>
-
-![https://x.com/RocketLab/status/1870426311996625165](https://x.com/RocketLab/status/1870426311996625165)

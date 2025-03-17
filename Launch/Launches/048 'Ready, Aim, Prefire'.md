@@ -44,6 +44,12 @@ The missions will be Rocket Lab’s 48th and 49th Electron launches overall and 
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720316727356/)
 
+## 📽️ Launch Video
+
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/m7nYAJ4dZP4" title="Rocket Lab&#39;s Electron - Ready, Aim, PREFIRE Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
+</div>
+
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
@@ -60,9 +66,3 @@ sort published desc
 | [[News/Rocket Lab to Launch Climate Change Research Mission Focused on Arctic Ice Caps for NASA.md\|Rocket Lab to Launch Climate Change Research Mission Focused on Arctic Ice Caps for NASA]] | August 14, 2023 |
 
 %%DATAVIEW_PUBLISHER: end %%
-
-## 📽️ Launch Video
-
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/m7nYAJ4dZP4" title="Rocket Lab&#39;s Electron - Ready, Aim, PREFIRE Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
-</div>

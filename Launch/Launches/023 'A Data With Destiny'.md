@@ -42,6 +42,12 @@ The two Gen-2 satellites on this mission, along with those previously launched b
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720301764145/)
 
+## 📽️ Launch Video
+
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/PmCl2Hs8enc" title="Rocket Lab&#39;s Electron - A Data With Destiny Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
+</div>
+
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
@@ -59,9 +65,3 @@ sort published desc
 | [[News/Rocket Lab to Launch Three Back-To-Back Missions for BlackSky from late August.md\|Rocket Lab to Launch Three Back-To-Back Missions for BlackSky from late August]] | August 10, 2021   |
 
 %%DATAVIEW_PUBLISHER: end %%
-
-## 📽️ Launch Video
-
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/PmCl2Hs8enc" title="Rocket Lab&#39;s Electron - A Data With Destiny Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
-</div>

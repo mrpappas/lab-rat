@@ -62,6 +62,32 @@ Once Electron reached low Earth orbit, our Lunar [[Photon]] upper stage took the
 🌙 More info on Lunar Photon: [[EXC22_017 - Photon Doc_ƒ [Web].pdf]]
 
 
+## 📽️ Mission Videos
+
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/LtvMiivrxxA" title="Rocket Lab&#39;s Electron - CAPSTONE Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
+</div>
+
+---
+
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/HptHSdDYHrU" title="Rocket Lab - CAPSTONE Launch 06/28/2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+---
+
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/w4XWnZNvazY" title="Welcome to the Moon, CAPSTONE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+
+## ✏️ Notes
+
+Links:
+- www.rocketlabusa.com/missions/lunar/ 
+- www.nasa.gov/directorates/spacetech/small_spacecraft/capstone
+- https://nasa.tumblr.com/post/683165720838864896/capstone-testing-a-path-to-the-moon
+
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
@@ -88,29 +114,3 @@ sort published desc
 | [[News/Rocket Lab Selected by NASA to Launch Pathfinder Mission to the Moon.md\|Rocket Lab Selected by NASA to Launch Pathfinder Mission to the Moon]]                                                                                                           | February 14, 2020 |
 
 %%DATAVIEW_PUBLISHER: end %%
-
-## 📽️ Mission Videos
-
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/LtvMiivrxxA" title="Rocket Lab&#39;s Electron - CAPSTONE Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
-</div>
-
----
-
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/HptHSdDYHrU" title="Rocket Lab - CAPSTONE Launch 06/28/2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-
----
-
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/w4XWnZNvazY" title="Welcome to the Moon, CAPSTONE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-
-
-## ✏️ Notes
-
-Links:
-- www.rocketlabusa.com/missions/lunar/ 
-- www.nasa.gov/directorates/spacetech/small_spacecraft/capstone
-- https://nasa.tumblr.com/post/683165720838864896/capstone-testing-a-path-to-the-moon

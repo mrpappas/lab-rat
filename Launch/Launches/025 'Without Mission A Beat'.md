@@ -42,6 +42,12 @@ Rocket Lab launched the “Without Mission A Beat” mission from Rocket Lab Lau
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720301776029/)
 
+## 📽️ Launch Video
+
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/yU2-0J5w0oE" title="Rocket Lab&#39;s Electron - Without Mission A Beat Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
+</div>
+
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
@@ -60,9 +66,3 @@ sort published desc
 | [[News/Rocket Lab to Launch Three Back-To-Back Missions for BlackSky from late August.md\|Rocket Lab to Launch Three Back-To-Back Missions for BlackSky from late August]]                                                                                                                             | August 10, 2021  |
 
 %%DATAVIEW_PUBLISHER: end %%
-
-## 📽️ Launch Video
-
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/yU2-0J5w0oE" title="Rocket Lab&#39;s Electron - Without Mission A Beat Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
-</div>

@@ -47,6 +47,11 @@ Mission management and rideshare aggregator, Spaceflight, also manifested three 
 >
 The final spacecraft manifested on the mission were two experimental satellites for the United States Air Force Space Command, designed to test new technologies including propulsion, power, communications, and drag capabilities for potential applications on future spacecraft.
 
+## 📽️ Launch Video
+
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/SNuauG1Gvr8" title="Rocket Lab&#39;s Electron - Look Ma, No Hands Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
+</div>
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
@@ -63,8 +68,3 @@ sort published desc
 | [[News/Rocket Lab’s Next Mission Focused On Building Constellations And Enabling R&D.md\|Rocket Lab’s Next Mission Focused On Building Constellations And Enabling R&D]]                                                                             | July 22, 2019   |
 
 %%DATAVIEW_PUBLISHER: end %%
-## 📽️ Launch Video
-
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/SNuauG1Gvr8" title="Rocket Lab&#39;s Electron - Look Ma, No Hands Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
-</div>

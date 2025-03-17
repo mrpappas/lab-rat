@@ -41,6 +41,12 @@ The ‘PREFIRE and Ice’ launch launched on June 5th, 2024 from [[Launch Comple
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720317633574/)
 
+## 📽️ Launch Video
+
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/qBBhzkNzcYQ" title="Rocket Lab&#39;s Electron - PREFIRE and ICE Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
+</div>
+
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
@@ -58,9 +64,3 @@ sort published desc
 | [[News/Rocket Lab to Launch Climate Change Research Mission Focused on Arctic Ice Caps for NASA.md\|Rocket Lab to Launch Climate Change Research Mission Focused on Arctic Ice Caps for NASA]] | August 14, 2023 |
 
 %%DATAVIEW_PUBLISHER: end %%
-
-## 📽️ Launch Video
-
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/qBBhzkNzcYQ" title="Rocket Lab&#39;s Electron - PREFIRE and ICE Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
-</div>

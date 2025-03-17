@@ -42,6 +42,12 @@ Like earlier Black Sky launches on [[Electron]], this mission was supported by a
 
 X1 [[BlackSky#🛰️ Space Systems#BlackSky Gen-3|BlackSky Gen-3]]
 
+## 📽️ Launch Video
+
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/pv_Zw8UK3H0" title="Rocket Lab - &#39;Fasten Your Space Belts&#39; Launch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
@@ -58,9 +64,3 @@ sort published desc
 | [[News/Rocket Lab Schedules Launch for First of Multiple Missions for BlackSky.md\|Rocket Lab Schedules Launch for First of Multiple Missions for BlackSky]]                                         | February 10, 2025 |
 
 %%DATAVIEW_PUBLISHER: end %%
-
-## 📽️ Launch Video
-
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/pv_Zw8UK3H0" title="Rocket Lab - &#39;Fasten Your Space Belts&#39; Launch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>

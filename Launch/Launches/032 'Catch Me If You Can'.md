@@ -42,6 +42,12 @@ The “Catch Me If You Can” mission also resulted in a successful ocean splash
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720303420541/)
 
+## 📽️ Launch Video
+
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/PVTwEn9GdsA" title="Rocket Lab&#39;s Electron - Catch Me If You Can Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
+</div>
+
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
@@ -58,9 +64,3 @@ sort published desc
 | [[News/Rocket Lab to Attempt Next Mid-Air Helicopter Rocket Catch During Next Mission.md\|Rocket Lab to Attempt Next Mid-Air Helicopter Rocket Catch During Next Mission]] | November 01, 2022 |
 
 %%DATAVIEW_PUBLISHER: end %%
-
-## 📽️ Launch Video
-
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/PVTwEn9GdsA" title="Rocket Lab&#39;s Electron - Catch Me If You Can Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
-</div>

@@ -41,6 +41,12 @@ It's Business Time was Rocket Lab's third Electron launch. It's Business Time wa
 >
 The payloads were launched to a 210km x 500km circular orbit at 85 degrees, before being circularized to 500 x 500 km using Rocket Lab’s Curie engine powered Kick Stage.  
 
+## 📽️ Launch Video
+
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/sPwMuUxSrcA" title="Rocket Lab&#39;s Electron - It's Business Time Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>   
+</div>
+
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
@@ -63,9 +69,3 @@ sort published desc
 | [[News/It's Business Time at Rocket Lab.md\|It's Business Time at Rocket Lab]]                                                                                                     | March 13, 2018    |
 
 %%DATAVIEW_PUBLISHER: end %%
-
-## 📽️ Launch Video
-
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/sPwMuUxSrcA" title="Rocket Lab&#39;s Electron - It's Business Time Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>   
-</div>

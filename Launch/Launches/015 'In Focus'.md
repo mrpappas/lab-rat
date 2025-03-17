@@ -45,6 +45,11 @@ The 10th and final payload, Canon Electronics Inc.’s CE-SAT-IIB, was arranged 
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72157716860029003/)
 
+## 📽️ Launch Video
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/axXm-z2NzW8" title="Rocket Lab&#39;s Electron - In Focus Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
+</div>
+
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
@@ -62,8 +67,3 @@ sort published desc
 | [[News/Rocket Lab To Launch Commercial Earth-Imaging Rideshare Mission For Planet, Canon Electronics.md\|Rocket Lab To Launch Commercial Earth-Imaging Rideshare Mission For Planet, Canon Electronics]]               | September 21, 2020 |
 
 %%DATAVIEW_PUBLISHER: end %%
-
-## 📽️ Launch Video
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/axXm-z2NzW8" title="Rocket Lab&#39;s Electron - In Focus Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
-</div>

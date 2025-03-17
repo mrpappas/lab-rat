@@ -39,6 +39,12 @@ The Still Testing mission was Rocket Lab's first orbital launch of the Electron 
 >
 Still Testing carried a Dove Pioneer Earth-imaging satellite for [[Planet Labs]], as well as two Lemur-2 satellites for weather and ship tracking company Spire.
 
+## 📽️ Launch Video
+
+<div class="responsive-video">
+<iframe  src="https://www.youtube.com/embed/eg5234BOED8" title="Rocket Lab&#39;s Electron - &#39;Still Testing&#39; Launch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
@@ -62,9 +68,3 @@ sort published desc
 | [[News/Rocket Lab to fly Planet and Spire satellites on second test flight.md\|Rocket Lab to fly Planet and Spire satellites on second test flight]]         | November 22, 2017 |
 
 %%DATAVIEW_PUBLISHER: end %%
-
-## 📽️ Launch Video
-
-<div class="responsive-video">
-<iframe  src="https://www.youtube.com/embed/eg5234BOED8" title="Rocket Lab&#39;s Electron - &#39;Still Testing&#39; Launch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>

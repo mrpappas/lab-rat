@@ -42,6 +42,11 @@ The mission name is a nod to Capella’s SAR technology that provides high quali
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72157716859999646/)
 
+## 📽️ Launch Video
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/FPIhI5mRDRI" title="Rocket Lab&#39;s Electron - I Can&#39;t Believe It&#39;s Not Optical Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
+</div>
+
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
@@ -59,8 +64,3 @@ sort published desc
 | [[News/Capella Space and Rocket Lab to Launch Mid-Inclination Satellite to Enable Improved Monitoring of Key Global Regions.md\|Capella Space and Rocket Lab to Launch Mid-Inclination Satellite to Enable Improved Monitoring of Key Global Regions]] | March 05, 2020     |
 
 %%DATAVIEW_PUBLISHER: end %%
-
-## 📽️ Launch Video
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/FPIhI5mRDRI" title="Rocket Lab&#39;s Electron - I Can&#39;t Believe It&#39;s Not Optical Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
-</div>

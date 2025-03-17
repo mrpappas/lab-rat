@@ -37,6 +37,17 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/its-a-test
 >
 Despite not reaching orbit, the mission successfully demonstrated key systems including a perfect first stage burn, stage separation, second stage ignition, and fairing separation, putting Rocket Lab in a strong position for future commercial operations.
 
+## 📽️ Launch Video
+
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/5Nyf035NKy4" title="Rocket Lab&#39;s Electron - It's a Test Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>   
+</div>
+
+## ✏️ Notes
+
+ - "Rocket Lab’s investigation team determined the launch, named ‘It’s a Test’, was terminated due to a data loss time out, which was caused by misconfiguration of telemetry equipment owned and operated by a third-party contractor who was supporting the launch from Rocket Lab’s Launch Complex 1."
+ - Being the first [[Electron]] launch, there was no customer payload.
+
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
@@ -60,13 +71,3 @@ sort published desc
 | [[News/Electron Test Launch Window Announced.md\|Electron Test Launch Window Announced]]                                                                                             | May 15, 2017    |
 
 %%DATAVIEW_PUBLISHER: end %%
-## 📽️ Launch Video
-
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/5Nyf035NKy4" title="Rocket Lab&#39;s Electron - It's a Test Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>   
-</div>
-
-## ✏️ Notes
-
- - "Rocket Lab’s investigation team determined the launch, named ‘It’s a Test’, was terminated due to a data loss time out, which was caused by misconfiguration of telemetry equipment owned and operated by a third-party contractor who was supporting the launch from Rocket Lab’s Launch Complex 1."
- - Being the first [[Electron]] launch, there was no customer payload.

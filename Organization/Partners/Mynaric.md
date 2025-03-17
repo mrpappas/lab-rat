@@ -25,7 +25,20 @@ In 2023, Rocket Lab selected Mynaric to supply optical communication terminals f
 
 https://mynaric.com/products/space/condor-mk3/
 
-CONDOR Mk3 is an Optical Communications Terminal (OCT) purpose-built to address the growing need of high-bandwidth, secure, license-free and cost-efficient satellite communications for next-generation constellations. The versatile terminal enables intra-plane and cross-plane inter-satellite connectivity in low Earth orbit (LEO) for various applications.
+CONDOR Mk3 is an [Optical Communications](https://www.nasa.gov/technology/space-comms/optical-communications-overview/) Terminal (OCT) purpose-built to address the growing need of high-bandwidth, secure, license-free and cost-efficient satellite communications for next-generation constellations. The versatile terminal enables intra-plane and cross-plane inter-satellite connectivity in low Earth orbit (LEO) for various applications.
+
+#### Cost
+
+>[!warning] This is an estimate based on publicly available information. Cost may vary depending on configuration, order size etc. Mynaric has not officially disclosed prices. 
+
+**Cost Per Unit**: ~$200,000
+**Source**: https://mynaric.com/news/mynaric-selected-by-rocket-lab-for-space-development-agencys-tranche-2-transport-layer-beta-program/
+**Explanation**:
+- "order of CONDOR Mk3 terminals is valued at approximately $15 million"
+- 4 terminal per satellite, 18 satellites
+- $15m / 72 terminals = ~$208k
+
+#### Specs
 
 | Specification          | Value                                                         |
 | ---------------------- | ------------------------------------------------------------- |
@@ -50,6 +63,10 @@ CONDOR Mk3 is an Optical Communications Terminal (OCT) purpose-built to address 
 - Additional client data interfaces such as optical
 - Full [OpenVPX](https://www.vita.com/vpx#:~:text=OpenVPX%20is%20the%20architecture%20framework,Module%20to%20Backplane%20and%20Chassis.) compatibility
 
+## ✏️ Notes
+
+- March 11 Rocket Lab announced its intentions to acquire Mynaric [[Rocket Lab Announces Intention to Acquire Mynaric, Leading Laser Communications Provider, in Latest Strategic Step Toward Becoming an End-to-End Space Company|Source]]
+- Mynaric reported a **backlog of 787 laser terminals** in their latest guidance [Source](https://mynaric.com/news/mynaric-updates-guidance-on-2024-key-performance-indicators-lowering-revenue-and-optical-communications-terminal-backlog-guidance/)
 
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start

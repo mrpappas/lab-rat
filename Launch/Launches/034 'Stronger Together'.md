@@ -42,6 +42,12 @@ The launch was a dedicated mission for Capella Space, a leading U.S. satellite m
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720306688906/)
 
+## 📽️ Launch Video
+
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/xIMaf8X0FlM" title="Rocket Lab&#39;s Electron - Stronger Together Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
+</div>
+
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
@@ -59,9 +65,3 @@ sort published desc
 | [[News/Rocket Lab Plans Two Launches Days Apart From Two Continents.md\|Rocket Lab Plans Two Launches Days Apart From Two Continents]]                                               | February 28, 2023 |
 
 %%DATAVIEW_PUBLISHER: end %%
-
-## 📽️ Launch Video
-
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/xIMaf8X0FlM" title="Rocket Lab&#39;s Electron - Stronger Together Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
-</div>

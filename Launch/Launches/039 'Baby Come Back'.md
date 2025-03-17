@@ -60,6 +60,12 @@ The ‘Baby Come Back’ mission is a rideshare mission and will carry satellite
 - x4 NASA [Starling](https://www.nasa.gov/smallspacecraft/what-is-starling/) CubeSats housing CesiumAstro [[CesiumAstro#🛰️ Space Systems#CommPack Cross-Link Communications Payload|CommPack Cross-Link Communications Payload]]s
 - x2 [[Spire Global]] 3U Satellites
 
+## 📽️ Launch Video
+
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/AA6WI05yKHM" title="Rocket Lab&#39;s Electron - Baby Come Back Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
+</div>
+
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
@@ -79,10 +85,3 @@ sort published desc
 | [[News/Rocket Lab to Launch Small Satellite Swarm for NASA.md\|Rocket Lab to Launch Small Satellite Swarm for NASA]]                                                                                                                                       | May 09, 2023  |
 
 %%DATAVIEW_PUBLISHER: end %%
-
-## 📽️ Launch Video
-
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/AA6WI05yKHM" title="Rocket Lab&#39;s Electron - Baby Come Back Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
-</div>
-

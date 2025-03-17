@@ -42,6 +42,12 @@ Launch Complex 2 supplements Rocket Lab’s existing site, Launch Complex 1 in N
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720302855243/)
 
+## 📽️ Launch Video
+
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/y8XAKyLndD8" title="Rocket Lab&#39;s Electron - Virginia is for Launch Lovers Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
+</div>
+
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
@@ -63,10 +69,3 @@ sort published desc
 | [[News/Electron Rocket Arrives at Launch Complex 2 for Rocket Lab’s Inaugural Mission from Virginia.md\|Electron Rocket Arrives at Launch Complex 2 for Rocket Lab’s Inaugural Mission from Virginia]]                             | October 12, 2022  |
 
 %%DATAVIEW_PUBLISHER: end %%
-
-## 📽️ Launch Video
-
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/y8XAKyLndD8" title="Rocket Lab&#39;s Electron - Virginia is for Launch Lovers Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
-</div>
-

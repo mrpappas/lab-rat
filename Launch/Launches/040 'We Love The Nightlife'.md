@@ -46,6 +46,16 @@ The mission was also a recovery mission, with Electron's first stage brought bac
 
 x1 [[Capella Space#🛰️ Space Systems#Acadia|Acadia SAR]] Satellite
 
+## 📽️ Launch Video
+
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/-k2RZO9ghnc" title="Rocket Lab&#39;s Electron - We Love The Nightlife Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
+</div>
+
+## ✏️ Notes
+
+- This marks the first launch of a rocket with a previously flown [[Electron#Rutherford Engine|Rutherford Engine]] 
+
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
@@ -63,14 +73,3 @@ sort published desc
 | [[News/Rocket Lab Announces Launch Window for Next Mission in Multi-Launch Contract for Capella Space.md\|Rocket Lab Announces Launch Window for Next Mission in Multi-Launch Contract for Capella Space]] | July 20, 2023   |
 
 %%DATAVIEW_PUBLISHER: end %%
-
-## 📽️ Launch Video
-
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/-k2RZO9ghnc" title="Rocket Lab&#39;s Electron - We Love The Nightlife Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
-</div>
-
-## ✏️ Notes
-
-- This marks the first launch of a rocket with a previously flown [[Electron#Rutherford Engine|Rutherford Engine]] 
-

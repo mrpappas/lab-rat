@@ -42,6 +42,13 @@ This mission flew a Palisade technology demonstration satellite, a 16U CubeSat b
 >
 The mission was named ‘As The Crow Flies’ in a nod to Astro Digital’s Corvus Platform, which provides flexible and cost-effective solutions across a wide range of applications and mission profiles on bus variants ranging from 6U and 16U CubeSats to ESPA Class. Corvus is also a widely-distributed genus of birds which includes crows.
 
+
+## 📽️ Launch Video
+
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/gI_Ng4SGyUY" title="Rocket Lab&#39;s Electron - As The Crow Flies Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
+</div>
+
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
@@ -58,9 +65,3 @@ sort published desc
 | [[News/Rocket Lab to launch dedicated mission for Astro Digital.md\|Rocket Lab to launch dedicated mission for Astro Digital]]                                                                           | September 30, 2019 |
 
 %%DATAVIEW_PUBLISHER: end %%
-
-## 📽️ Launch Video
-
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/gI_Ng4SGyUY" title="Rocket Lab&#39;s Electron - As The Crow Flies Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
-</div>

@@ -45,6 +45,16 @@ Rocket Lab launched the “Kinéis Killed the RadIOT Star” mission from Rocket
 
 x5 [[Kinéis#🛰️ Space Systems#Kinéis IoT|Kinéis IoT]] Satellites
 
+## 📽️ Launch Video
+
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/beVTGh_PrA0" title="Rocket Lab&#39;s Electron - Kinéis Killed the RadIOT Star Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
+</div>
+
+## ✏️ Notes
+
+- Second of Five dedicated launches for [[Kinéis]]' IoT Constellation
+
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
@@ -61,13 +71,3 @@ sort published desc
 | [[News/Rocket Lab Sets Launch Date for Second Dedicated Kinéis Mission to Deploy IoT Constellation.md\|Rocket Lab Sets Launch Date for Second Dedicated Kinéis Mission to Deploy IoT Constellation]]               | September 03, 2024 |
 
 %%DATAVIEW_PUBLISHER: end %%
-
-## 📽️ Launch Video
-
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/beVTGh_PrA0" title="Rocket Lab&#39;s Electron - Kinéis Killed the RadIOT Star Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
-</div>
-
-## ✏️ Notes
-
-- Second of Five dedicated launches for [[Kinéis]]' IoT Constellation

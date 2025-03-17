@@ -42,6 +42,12 @@ The R3D2 antenna, made of a tissue-thin Kapton membrane, packed tightly inside a
 >
 The 150kg R3D2 satellite lifted off on an Electron rocket from Launch Complex 1 on New Zealand’s Māhia Peninsula and was deployed to a 425kmx425km orbit at 39.5 degrees by Electron’s Kick Stage, a nimble upper stage designed to insert payloads with precise accuracy before deorbiting itself and leaving no space junk behind. 
 
+## 📽️ Launch Video
+
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/TGhlWMJtDEI" title="Rocket Lab&#39;s Electron - DARPA R3D2 Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
+</div>
+
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```
@@ -58,9 +64,3 @@ sort published desc
 | [[News/Rocket Lab to launch dedicated Electron mission for DARPA.md\|Rocket Lab to launch dedicated Electron mission for DARPA]] | January 22, 2019 |
 
 %%DATAVIEW_PUBLISHER: end %%
-
-## 📽️ Launch Video
-
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/TGhlWMJtDEI" title="Rocket Lab&#39;s Electron - DARPA R3D2 Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
-</div>
