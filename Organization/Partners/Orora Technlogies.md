@@ -23,8 +23,9 @@ sort launch_date desc
 ```
 %%
 
-| File | Date | Location | Vehicle | Orbit & Mass | Outcome |
-| ---- | ---- | -------- | ------- | ------------ | ------- |
+| File                                                                                              | Date             | Location                                              | Vehicle                          | Orbit & Mass | Outcome   |
+| ------------------------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | ------------ | --------- |
+| [[Launch/Launches/063 'Finding Hot Wildfires Near You'.md\|063 'Finding Hot Wildfires Near You']] | 2025-03-27 15:30 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 550 km \| \- | ⌛ Pending |
 
 %%DATAVIEW_PUBLISHER: end %%
 
@@ -55,8 +56,9 @@ sort published desc
 ```
 %%
 
-| File                                                                                                                                                                                 | Published        |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- |
-| [[News/Rocket Lab to Launch Global Wildfire Detection and Monitoring Mission for OroraTech.md\|Rocket Lab to Launch Global Wildfire Detection and Monitoring Mission for OroraTech]] | January 22, 2025 |
+| File                                                                                                                                                                                                                                                                                               | Published        |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[News/From Contract to Launch in Four Months Rocket Lab Schedules Electron Launch on a Rapid Turnaround for OroraTech Wildfire Detection Mission.md\|From Contract to Launch in Four Months Rocket Lab Schedules Electron Launch on a Rapid Turnaround for OroraTech Wildfire Detection Mission]] | March 18, 2025   |
+| [[News/Rocket Lab to Launch Global Wildfire Detection and Monitoring Mission for OroraTech.md\|Rocket Lab to Launch Global Wildfire Detection and Monitoring Mission for OroraTech]]                                                                                                               | January 22, 2025 |
 
 %%DATAVIEW_PUBLISHER: end %%

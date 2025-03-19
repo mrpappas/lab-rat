@@ -41,7 +41,7 @@ The “Owl The Way Up” mission launched from Rocket Lab [[Launch Complex 1]] i
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720322675410/)
 ### 📦 Payload
 
-x1 [[Synspective#🛰️ Space Systems#StriX|Strix]] Series Satellite for [[Synspective]]
+x1 [[Synspective#🛰️ Space Systems#StriX|StriX Series Satellites]] ![[Synspective#🛰️ Space Systems#StriX]]
 
 ## 📽️ Launch Video
 

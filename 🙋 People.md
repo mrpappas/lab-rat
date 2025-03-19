@@ -8,12 +8,12 @@ sort name asc
 
 | File                                                                      | Role                                                               | Shares Owned                                      |
 | ------------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------- |
-| [[Organization/People/Adam Spice.md\|Adam Spice]]                         | Chief Financial Officer                                            | 1,311,524                                         |
+| [[Organization/People/Adam Spice.md\|Adam Spice]]                         | Chief Financial Officer                                            | 1,196,679                                         |
 | [[Organization/People/Alek Derejian.md\|Alek Derejian]]                   | Vice President - New Zealand Operations                            | \-                                                |
 | [[Organization/People/Alexander R. Slusky.md\|Alexander R. Slusky]]       | Board Member (Vector Capital)                                      | 119,889                                           |
 | [[Organization/People/Amanda Rutenberg.md\|Amanda Rutenberg]]             | Deputy General Counsel                                             | \-                                                |
 | [[Organization/People/Andrew Bunker.md\|Andrew Bunker]]                   | Vice President - Government Operations and Business Strategy       | \-                                                |
-| [[Organization/People/Arjun Kampani.md\|Arjun Kampani]]                   | Senior Vice President - General Counsel and Corporate Secretary    | 632,632                                           |
+| [[Organization/People/Arjun Kampani.md\|Arjun Kampani]]                   | Senior Vice President - General Counsel and Corporate Secretary    | 574,883                                           |
 | [[Organization/People/Brad Warezak.md\|Brad Warezak]]                     | Chief Information Officer                                          | \-                                                |
 | [[Organization/People/Brian Rogers.md\|Brian Rogers]]                     | Vice President – Global Launch Services                            | \-                                                |
 | [[Organization/People/Cameron McCarter.md\|Cameron McCarter]]             | Vice President - Global Supply Chain                               | \-                                                |
@@ -26,7 +26,7 @@ sort name asc
 | [[Organization/People/Dr. Brad Clevenger.md\|Dr. Brad Clevenger]]         | Vice President - Space Systems                                     | \-                                                |
 | [[Organization/People/Edward H. Frank.md\|Edward H. Frank]]               | Independent Director                                               | 146,044                                           |
 | [[Organization/People/Ehson Mosleh.md\|Ehson Mosleh]]                     | Space Systems Chief Engineer                                       | \-                                                |
-| [[Organization/People/Frank Klein.md\|Frank Klein]]                       | Chief Operations Officer                                           | 1,500,729                                         |
+| [[Organization/People/Frank Klein.md\|Frank Klein]]                       | Chief Operations Officer                                           | 1,417,644                                         |
 | [[Organization/People/John Herr.md\|John Herr]]                           | \-                                                                 | \-                                                |
 | [[Organization/People/Jon A. Olson.md\|Jon A. Olson]]                     | Independent Director                                               | 432,275                                           |
 | [[Organization/People/Kenneth R. Possenriede.md\|Kenneth R. Possenriede]] | Independent Director                                               | 90,218                                            |

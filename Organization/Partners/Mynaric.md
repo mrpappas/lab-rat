@@ -35,7 +35,7 @@ CONDOR Mk3 is an [Optical Communications](https://www.nasa.gov/technology/space-
 **Source**: https://mynaric.com/news/mynaric-selected-by-rocket-lab-for-space-development-agencys-tranche-2-transport-layer-beta-program/
 **Explanation**:
 - "order of CONDOR Mk3 terminals is valued at approximately $15 million"
-- 4 terminal per satellite, 18 satellites
+- 4 terminals per satellite, 18 satellites
 - $15m / 72 terminals = ~$208k
 
 #### Specs

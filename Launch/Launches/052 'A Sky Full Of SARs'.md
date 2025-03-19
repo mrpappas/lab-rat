@@ -41,7 +41,7 @@ Rocket Lab launched a dedicated mission for [[Capella Space]], a provider of SAR
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720319376772/)
 ### 📦 Payload
 
-[[Capella Space#🛰️ Space Systems#Acadia|Acadia-3]] Satellite
+[[Capella Space#🛰️ Space Systems#Acadia|Acadia-3]] Satellite ![[Capella Space#🛰️ Space Systems#Acadia|Acadia-3]]
 
 ## 📽️ Launch Video
 

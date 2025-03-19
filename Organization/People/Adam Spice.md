@@ -2,21 +2,21 @@
 
 name: Adam Spice
 role: Chief Financial Officer
-shares_owned: 1,311,524
+shares_owned: 1,196,679
 joined: 2018-04-03
 linkedin: https://www.linkedin.com/in/adam-spice-086120/
 ---
 
 **Name:** Adam Spice
 **Role:** Chief Financial Officer
-**Shares Owned:** 1,259,522
+**Shares Owned:** 1,196,679
 **Joined:** 2018-04-03
 **Linkedin:** https://www.linkedin.com/in/adam-spice-086120/
 
 ![[Pasted image 20241127001617.png|300]]
 
 >[!summary]
->Mr. Spice has served as Rocket Lab’s Chief Financial Officer since May 2018. From January 2011 until May 2018, he was Vice President and Chief Financial Officer at [MaxLinear, Inc](https://www.maxlinear.com/)., a provider of radio frequency, analog and mixed-signal integrated circuits for the connected home, wired and wireless infrastructure, and industrial and multimarket applications. From October 2009 to November 2010, Mr. Spice was the Chief Financial Officer of Symwave Corporation, a venture backed fabless semiconductor company until its sale to Standard Microsystems Corporation (SMSC). From July 2000 until September 2009, Mr. Spice held a variety of financial and operational executive roles at [Broadcom Corporation](https://www.broadcom.com/), a creator of semiconductor solutions for wired and wireless communications. From June 1996 until July 2000, Mr. Spice worked as a finance manager for [Intel](https://www.intel.com/content/www/us/en/homepage.html), a microchips manufacturer. Mr. Spice has a Bachelor of Business Administration from the Brigham Young university and an MBA from The University of Texas at Austin. 
+>Mr. Spice has served as Rocket Lab’s Chief Financial Officer since May 2018. From January 2011 until May 2018, he was Vice President and Chief Financial Officer at [MaxLinear, Inc](https://www.maxlinear.com/)., a provider of radio frequency, analog and mixed-signal integrated circuits for the connected home, wired and wireless infrastructure, and industrial and multimarket applications. From October 2009 to November 2010, Mr. Spice was the Chief Financial Officer of Symwave Corporation, a venture backed fabless semiconductor company until its sale to Standard Microsystems Corporation (SMSC). From July 2000 until September 2009, Mr. Spice held a variety of financial and operational executive roles at [Broadcom Corporation](https://www.broadcom.com/), a creator of semiconductor solutions for wired and wireless communications. From June 1996 until July 2000, Mr. Spice worked as a finance manager for [Intel](https://www.intel.com/content/www/us/en/homepage.html), a microchips manufacturer. Mr. Spice has a Bachelor of Business Administration from the Brigham Young university and an MBA from The University of Texas at Austin.
 [Source](https://www.rocketlabusa.com/about/team/)
 
 ## 💼 SEC Filings
@@ -32,6 +32,7 @@ sort Filing_Date desc
 
 | File                                                                                        | Filing Type                                          | Date               |
 | ------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ------------------ |
+| [[Filings/2025/Form 4/03-18-25 Form 4 - Adam Spice.md\|03-18-25 Form 4 - Adam Spice]]       | [[Filings/Filing Definitions.md#Form 4\|Form 4]]     | March 18, 2025     |
 | [[Filings/2025/Form 144/03-14-25 Form 144 - Adam Spice.md\|03-14-25 Form 144 - Adam Spice]] | [[Filings/Filing Definitions.md#Form 144\|Form 144]] | March 14, 2025     |
 | [[Filings/2024/Form 4/11-27-24 Form 4 - Adam Spice.md\|11-27-24 Form 4 - Adam Spice]]       | [[Filings/Filing Definitions.md#Form 4\|Form 4]]     | November 27, 2024  |
 | [[Filings/2024/Form 144/11-25-24 Form 144 - Adam Spice.md\|11-25-24 Form 144 - Adam Spice]] | [[Filings/Filing Definitions.md#Form 144\|Form 144]] | November 25, 2024  |

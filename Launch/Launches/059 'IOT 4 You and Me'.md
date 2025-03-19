@@ -52,7 +52,7 @@ Kinéis' satellite-based AIS (S-AIS) is a high-performance system (requiring no 
 
 ## 📦 Payload
 
-x5 [[Kinéis#🛰️ Space Systems#Kinéis IoT|Kinéis IoT]] Satellites
+x5 [[Kinéis#🛰️ Space Systems#Kinéis IoT|Kinéis IoT]] Satellites ![[Kinéis#🛰️ Space Systems#Kinéis IoT|Kinéis IoT]]
 
 ## 📽️ Launch Video
 

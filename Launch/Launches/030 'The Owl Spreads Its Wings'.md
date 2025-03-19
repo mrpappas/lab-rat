@@ -43,7 +43,7 @@ The mission for Synspective marked a series of company milestones for Rocket Lab
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720302130207/)
 ### 📦 Payload
 
-x1 [[Synspective#🛰️ Space Systems#StriX|Strix]] Series Satellite for [[Synspective]]
+x1 [[Synspective#🛰️ Space Systems#StriX|StriX Series Satellites]] ![[Synspective#🛰️ Space Systems#StriX]]
 
 ## 📽️ Launch Video
 

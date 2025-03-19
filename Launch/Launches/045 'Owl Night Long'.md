@@ -47,7 +47,7 @@ Synspective is a satellite data solutions provider with its own constellation of
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720315392064/)
 ### 📦 Payload
 
-x1 [[Synspective#🛰️ Space Systems#StriX|Strix]] Series Satellite for [[Synspective]]
+x1 [[Synspective#🛰️ Space Systems#StriX|StriX Series Satellites]] ![[Synspective#🛰️ Space Systems#StriX]]
 ## 📽️ Launch Video
 
 <div class="responsive-video">

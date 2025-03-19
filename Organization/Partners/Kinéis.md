@@ -27,7 +27,7 @@ sort launch_date desc
 
 | File                                                                                            | Date             | Location                                              | Vehicle                          | Orbit & Mass            | Outcome   |
 | ----------------------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | ----------------------- | --------- |
-| [[Launch/Launches/062 'High Five'.md\|062 'High Five']]                                         | 2025-03-18 01:31 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 643 km \| 97° \| 150 kg | ⌛ Pending |
+| [[Launch/Launches/062 'High Five'.md\|062 'High Five']]                                         | 2025-03-18 01:31 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 643 km \| 97° \| 150 kg | ✅ Success |
 | [[Launch/Launches/059 'IOT 4 You and Me'.md\|059 'IOT 4 You and Me']]                           | 2025-02-04 20:43 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 643 km \| 97° \| 150 kg | ✅ Success |
 | [[Launch/Launches/056 'Ice AIS Baby'.md\|056 'Ice AIS Baby']]                                   | 2024-11-25 04:55 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 643 km \| 97° \| 150 kg | ✅ Success |
 | [[Launch/Launches/053 'Kineis Killed the RadIOT Star'.md\|053 'Kineis Killed the RadIOT Star']] | 2024-09-20 23:01 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 643 km \| 98° \| 150 kg | ✅ Success |
@@ -41,12 +41,13 @@ sort launch_date desc
 
 The Kinéis IoT satellites are a constellation of advanced nanosatellites designed to provide seamless global connectivity for [[📦 Payload Types#Internet of Things (IoT)|Internet of Things (IoT)]] devices. Each satellite, weighing approximately 30 kg, operates in low Earth orbit (LEO) at an altitude of around 650 km, enabling low-latency and cost-efficient communication. Leveraging UHF (401-406 MHz) and AIS frequencies, these satellites support two-way communication for IoT applications and real-time maritime tracking. With an expected operational life of 7 years, the Kinéis constellation integrates deployable antennas, high-capacity batteries, and robust onboard systems to ensure reliable data collection and transmission in diverse environments. Applications span environmental monitoring, precision agriculture, logistics, smart cities, and maritime safety, making Kinéis a cornerstone for scalable and efficient satellite-based IoT solutions.
 
-| Mass         | 30 kg         |
-| ------------ | ------------- |
-| Size         | 1.40m x 1.60m |
-| Propulsion   | No            |
-| Mission Life | 7 Years       |
-| Frequency    | UHF, AIS      |
+| Specification | Value         |
+| ------------- | ------------- |
+| Mass          | 30 kg         |
+| Size          | 1.40m x 1.60m |
+| Propulsion    | No            |
+| Mission Life  | 7 Years       |
+| Frequency     | UHF, AIS      |
 
 ![[Pasted image 20241224231429.jpg]]
 
@@ -62,6 +63,7 @@ sort published desc
 
 | File                                                                                                                                                                                                                                                         | Published          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
+| [[News/Successful Rocket Lab Launch Completes Deployment of Full Kinéis Constellation in Less Than a Year.md\|Successful Rocket Lab Launch Completes Deployment of Full Kinéis Constellation in Less Than a Year]]                                           | March 18, 2025     |
 | [[News/Rocket Lab Schedules Two Launches Three Days Apart, Upcoming Mission to Deploy Final Satellites in Kinéis Constellation.md\|Rocket Lab Schedules Two Launches Three Days Apart, Upcoming Mission to Deploy Final Satellites in Kinéis Constellation]] | March 10, 2025     |
 | [[News/Rocket Lab Launches Next Batch of Satellites for Kinéis Constellation.md\|Rocket Lab Launches Next Batch of Satellites for Kinéis Constellation]]                                                                                                     | February 08, 2025  |
 | [[News/Rocket Lab Schedules Next Electron Launch for Constellation Operator Kinéis.md\|Rocket Lab Schedules Next Electron Launch for Constellation Operator Kinéis]]                                                                                         | January 21, 2025   |

@@ -46,7 +46,7 @@ Anomaly occurred 2 minutes 30 seconds into the flight.
 
 ### 📦 Payload
 
-x1 [[Capella Space#🛰️ Space Systems#Acadia|Acadia SAR]] Satellite
+x1 [[Capella Space#🛰️ Space Systems#Acadia|Acadia SAR]] Satellite ![[Capella Space#🛰️ Space Systems#Acadia|Acadia SAR]]
 
 ## 📽️ Launch Video
 

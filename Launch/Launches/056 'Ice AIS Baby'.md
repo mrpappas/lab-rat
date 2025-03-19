@@ -40,7 +40,7 @@ The “Ice AIS Baby” mission launched successfully on November 25th NZDT, 2024
 
 ### 📦 Payload
 
-x5 [[Kinéis#🛰️ Space Systems#Kinéis IoT|Kinéis IoT]] Satellites
+x5 [[Kinéis#🛰️ Space Systems#Kinéis IoT|Kinéis IoT]] Satellites ![[Kinéis#🛰️ Space Systems#Kinéis IoT|Kinéis IoT]]
 
 ## 📽️ Launch Video
 

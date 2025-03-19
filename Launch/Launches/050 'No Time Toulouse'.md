@@ -41,7 +41,7 @@ The mission was the first of five dedicated Electron launches for [[Kinéis]], a
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720317752795/)
 ### 📦 Payload
 
-x5 [[Kinéis#🛰️ Space Systems#Kinéis IoT| Kinéis IoT]] Satellites
+x5 [[Kinéis#🛰️ Space Systems#Kinéis IoT| Kinéis IoT]] Satellites ![[Kinéis#🛰️ Space Systems#Kinéis IoT| Kinéis IoT]]
 
 ## 📽️ Launch Video
 

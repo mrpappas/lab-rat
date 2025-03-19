@@ -40,7 +40,7 @@ Like earlier Black Sky launches on [[Electron]], this mission was supported by a
 
 ## 📦 Payload
 
-X1 [[BlackSky#🛰️ Space Systems#BlackSky Gen-3|BlackSky Gen-3]]
+X1 [[BlackSky#🛰️ Space Systems#BlackSky Gen-3|BlackSky Gen-3]] ![[BlackSky#🛰️ Space Systems#BlackSky Gen-3|BlackSky Gen-3]]
 
 ## 📽️ Launch Video
 

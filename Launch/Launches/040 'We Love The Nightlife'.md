@@ -44,7 +44,7 @@ The mission was also a recovery mission, with Electron's first stage brought bac
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720309925613/)
 ### 📦 Payload
 
-x1 [[Capella Space#🛰️ Space Systems#Acadia|Acadia SAR]] Satellite
+x1 [[Capella Space#🛰️ Space Systems#Acadia|Acadia SAR]] Satellite ![[Capella Space#🛰️ Space Systems#Acadia|Acadia SAR]]
 
 ## 📽️ Launch Video
 

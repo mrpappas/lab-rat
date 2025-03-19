@@ -2,14 +2,14 @@
 
 name: Frank Klein
 role: Chief Operations Officer
-shares_owned: 1,500,729
+shares_owned: 1,417,644
 joined: 2024-09-10
 linkedin: https://www.linkedin.com/in/frank-klein-950b8a194/
 ---
 
 **Name:** Frank Klein
 **Role:** Chief Operations Officer
-**Shares Owned:** 1,464,032
+**Shares Owned:** 1,417,644
 **Joined:** 2024-09-10
 **Linkedin:** https://www.linkedin.com/in/frank-klein-950b8a194/
 
@@ -38,6 +38,7 @@ sort Filing_Date desc
 
 | File                                                                                          | Filing Type                                          | Date               |
 | --------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ------------------ |
+| [[Filings/2025/Form 4/03-18-25 Form 4 - Frank Klein.md\|03-18-25 Form 4 - Frank Klein]]       | [[Filings/Filing Definitions.md#Form 4\|Form 4]]     | March 18, 2025     |
 | [[Filings/2025/Form 144/03-14-25 Form 144 - Frank Klein.md\|03-14-25 Form 144 - Frank Klein]] | [[Filings/Filing Definitions.md#Form 144\|Form 144]] | March 14, 2025     |
 | [[Filings/2024/Form 4/11-27-24 Form 4 - Frank Klein.md\|11-27-24 Form 4 - Frank Klein]]       | [[Filings/Filing Definitions.md#Form 4\|Form 4]]     | November 27, 2024  |
 | [[Filings/2024/Form 144/11-25-24 Form 144 - Frank Klein.md\|11-25-24 Form 144 - Frank Klein]] | [[Filings/Filing Definitions.md#Form 144\|Form 144]] | November 25, 2024  |

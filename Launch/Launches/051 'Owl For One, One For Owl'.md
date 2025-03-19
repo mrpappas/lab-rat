@@ -41,7 +41,7 @@ The “Owl for One, One for Owl” mission was our 5th launch for [[Synspective]
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720319229250/)
 ### 📦 Payload
 
-x1 [[Synspective#🛰️ Space Systems#StriX|Strix]] Series Satellite for [[Synspective]]
+x1 [[Synspective#🛰️ Space Systems#StriX|StriX Series Satellites]] ![[Synspective#🛰️ Space Systems#StriX]]
 
 ## 📽️ Launch Video
 

@@ -43,7 +43,7 @@ Rocket Lab launched the “Kinéis Killed the RadIOT Star” mission from Rocket
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720320421478/)
 ### 📦 Payload
 
-x5 [[Kinéis#🛰️ Space Systems#Kinéis IoT|Kinéis IoT]] Satellites
+x5 [[Kinéis#🛰️ Space Systems#Kinéis IoT|Kinéis IoT]] Satellites ![[Kinéis#🛰️ Space Systems#Kinéis IoT|Kinéis IoT]]
 
 ## 📽️ Launch Video
 

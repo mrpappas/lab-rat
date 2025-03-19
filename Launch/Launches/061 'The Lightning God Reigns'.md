@@ -43,7 +43,7 @@ The mission launched a single [[📦 Payload Types#Synthetic Aperture Radar (SAR
 ![[Pasted image 20250314201500.png|300]]
 ## 📦 Payload
 
-x 1 [[iQPS#🛰️ Space Systems#QPS-SAR|QPS-SAR]]
+x 1 [[iQPS#🛰️ Space Systems#QPS-SAR|QPS-SAR]] ![[iQPS#🛰️ Space Systems#QPS-SAR|QPS-SAR]]
 
 ## 📽️ Launch Video
 

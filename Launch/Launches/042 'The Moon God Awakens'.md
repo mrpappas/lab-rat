@@ -46,7 +46,7 @@ In addition to being launched by Electron, the QPS-SAR-5 satellite used Rocket L
 
 ### 📦 Payload
 
-x1 [[iQPS#🛰️ Space Systems#QPS-SAR|QPS-SAR]] Satellite for [[iQPS]]
+x1 [[iQPS#🛰️ Space Systems#QPS-SAR|QPS-SAR]] Satellite for [[iQPS]] ![[iQPS#🛰️ Space Systems#QPS-SAR|QPS-SAR]]
 
 ## 📽️ Launch Video
 

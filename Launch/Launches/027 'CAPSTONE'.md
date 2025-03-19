@@ -43,7 +43,7 @@ Designed and built by [[Tyvak Nano-Satellite Systems]], a [[Terran Orbital]] Cor
 
 ### 📦 Payload
 
-**[[Advanced Space#🛰️ Space Systems#CAPSTONE|CAPSTONE]]** CubeSat for [[NASA]] and [[Advanced Space]]
+**[[Advanced Space#🛰️ Space Systems#CAPSTONE|CAPSTONE]]** CubeSat for [[NASA]] and [[Advanced Space]] ![[Advanced Space#🛰️ Space Systems#CAPSTONE|CAPSTONE]]
 
 
 ## CAPSTONE

@@ -42,7 +42,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/the-owls-n
 
 ### 📦 Payload
 
-x1 [[Synspective#🛰️ Space Systems#StriX|Strix]] Series Satellite for [[Synspective]]
+x1 [[Synspective#🛰️ Space Systems#StriX|StriX Series Satellites]] ![[Synspective#🛰️ Space Systems#StriX]]
 
 ## 📽️ Launch Video
 

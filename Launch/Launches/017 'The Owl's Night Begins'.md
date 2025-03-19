@@ -43,7 +43,7 @@ The StriX-α satellite onboard this mission was the first of a series of spacecr
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/with/72177720301776244)
 ### 📦 Payload
 
-x1 [[Synspective#🛰️ Space Systems#StriX|Strix]] Series Satellite for [[Synspective]]
+x1 [[Synspective#🛰️ Space Systems#StriX|StriX Series Satellites]] ![[Synspective#🛰️ Space Systems#StriX]]
 ## 📽️ Launch Video
 <div class="responsive-video">
 <iframe src="https://www.youtube.com/embed/AmbjFv3wa68" title="Rocket Lab&#39;s Electron - The Owl&#39;s Night Begins Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
