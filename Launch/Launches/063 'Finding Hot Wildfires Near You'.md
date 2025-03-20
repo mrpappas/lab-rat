@@ -2,32 +2,32 @@
 tags:
  - 
 mission_name: 'Finding Hot Wildfires Near You'
-launch_date: 2025-03-27 15:30
+launch_date: 2025-03-26 15:30
 outcome: "⌛ Pending"
 customer: "[[Orora Technlogies]]"
-location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
+location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"
 orbit_type: "[[🌍 Orbits#LEO]]"
-target_orbit: 550 km
-payload_mass: 
+target_orbit: 550 km | 97°
+payload_mass: Unknown
 recovery: No Attempt
-mission_link: 
+mission_link: https://www.rocketlabusa.com/missions/next-mission/
 ---
 #electron #launch
 **Mission Name**: Finding Hot Wildfires Near You
-**Launch Date**:  2025-03-27 15:30 UTC
+**Launch Date**:  2025-03-26 15:30 UTC
 **Outcome**: ⌛ Pending
 **Customer**: [[Orora Technlogies]]
-**Location**: [[Launch Complex 1#Launch Pad A|LC1-A]]
+**Location**: [[Launch Complex 1#Launch Pad B|LC1-B]]
 **Vehicle**: [[Electron]]
 **Orbit Type**: [[🌍 Orbits#LEO]]
-**Target Orbit**: 550 km
-**Payload Mass**: 
+**Target Orbit**: 550 km | 97°
+**Payload Mass**: Unknown
 **Recovery**: No Attempt
-**Mission Link**: 
-**Press Kit**: [[]]
+**Mission Link**: https://www.rocketlabusa.com/missions/next-mission/
+**Press Kit**: [[063 'Finding Hot Wildfires Near You']]
 
->[!warning] Mission scheduled for March 28th
+>[!warning] Mission scheduled for March 26th 15:30 UTC, March 27th 04:30 NZDT, March 26th 11:30 EDT
 
 >[!summary]
 “Finding Hot Wildfires Near You” is a rapid turnaround mission for OroraTech, a Germany-based global provider of wildfire detection and monitoring solutions.
@@ -36,13 +36,14 @@ Scheduled to launch NET March 27th 2025, the mission will deliver 8x OroraTech C
 >
 “Finding Hot Wildfires Near You" will be Rocket Lab's fifth mission of 2025 and 63rd Electron launch overall, and will bring the total number of satellites delivered to space Electron to 224.
 >
-[📸 Mission Photo Album]()
+[📸 Mission Photo Album (coming soon)]()
 
+![[Pasted image 20250320132549.png|300]]
 ## 📦 Payload
 
-x8 [[Orora Technlogies#🛰️ Space Systems#SAFIRE Gen 2|SAFIRE Gen 2]] Satellites
+x8 [[Orora Technlogies#🛰️ Space Systems#OroraTech Constellation Phase 1 Satellites|OroraTech Constellation Phase 1 Satellites]]
 
-![[Orora Technlogies#🛰️ Space Systems#SAFIRE Gen 2|SAFIRE Gen 2]]
+![[Orora Technlogies#🛰️ Space Systems#OroraTech Constellation Phase 1 Satellites|OroraTech Constellation Phase 1 Satellites]]
 
 ## 📽️ Launch Video
 

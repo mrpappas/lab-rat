@@ -23,18 +23,18 @@ sort launch_date desc
 ```
 %%
 
-| File                                                                                              | Date             | Location                                              | Vehicle                          | Orbit & Mass | Outcome   |
-| ------------------------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | ------------ | --------- |
-| [[Launch/Launches/063 'Finding Hot Wildfires Near You'.md\|063 'Finding Hot Wildfires Near You']] | 2025-03-27 15:30 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 550 km \| \- | ⌛ Pending |
+| File                                                                                              | Date             | Location                                              | Vehicle                          | Orbit & Mass             | Outcome   |
+| ------------------------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | ------------------------ | --------- |
+| [[Launch/Launches/063 'Finding Hot Wildfires Near You'.md\|063 'Finding Hot Wildfires Near You']] | 2025-03-26 15:30 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 550 km \| 97° \| Unknown | ⌛ Pending |
 
 %%DATAVIEW_PUBLISHER: end %%
 
 ## 🛰️ Space Systems
 
-### SAFIRE Gen 2
+### OroraTech Constellation Phase 1 Satellites
 
-SAFIRE Gen 2 satellites are based on an enlarged 6U CubeSat version of [[Spire Global]]'s [[Spire Global#Space Systems#Lemur-2|Lemur-2]] cubesat and feature customized experiments additionally to the standard Lemur payload.
-They carries OroraTech’s unique and proprietary thermal-infrared camera (developed in partnership with [Kampf Telescope Optics](https://www.ktoptics.de/))and data processing unit designed to detect fires and transmit the data using [[Spire Global]]’s satellite and ground network. The technology will help identify and monitor the areas at risk of wildfires and enable early detection of wildfire hotspots.
+OroraTech Constellation Phase 1 satellites are based on an enlarged 8U CubeSat version of[ Spire Global's Lemur platform](https://spire.com/space-services/lemur-space-platform/) and feature customized experiments additionally to the standard Lemur payload.
+They carry OroraTech’s SAFIRE GEN 2, a unique and proprietary thermal-infrared camera (developed in partnership with [Kampf Telescope Optics](https://www.ktoptics.de/)) and a data processing unit designed to detect fires and transmit the data using [[Spire Global]]’s satellite and ground network. The technology will help identify and monitor the areas at risk of wildfires and enable early detection of wildfire hotspots.
 
 | Spec            | Value             |
 | --------------- | ----------------- |
