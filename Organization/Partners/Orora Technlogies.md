@@ -31,9 +31,9 @@ sort launch_date desc
 
 ## 🛰️ Space Systems
 
-### OroraTech Constellation Phase 1 Satellites
+### OTC-P1
 
-OroraTech Constellation Phase 1 satellites are based on an enlarged 8U CubeSat version of[ Spire Global's Lemur platform](https://spire.com/space-services/lemur-space-platform/) and feature customized experiments additionally to the standard Lemur payload.
+**OTC-P1 (OroraTech Constellation Phase 1)** satellites are based on an enlarged 8U CubeSat version of[ Spire Global's Lemur platform](https://spire.com/space-services/lemur-space-platform/) and feature customized experiments additionally to the standard Lemur payload.
 They carry OroraTech’s SAFIRE GEN 2, a unique and proprietary thermal-infrared camera (developed in partnership with [Kampf Telescope Optics](https://www.ktoptics.de/)) and a data processing unit designed to detect fires and transmit the data using [[Spire Global]]’s satellite and ground network. The technology will help identify and monitor the areas at risk of wildfires and enable early detection of wildfire hotspots.
 
 | Spec            | Value             |

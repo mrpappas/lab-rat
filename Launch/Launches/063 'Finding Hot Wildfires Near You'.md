@@ -41,9 +41,9 @@ Scheduled to launch NET March 27th 2025, the mission will deliver 8x OroraTech C
 ![[Pasted image 20250320132549.png|300]]
 ## 📦 Payload
 
-x8 [[Orora Technlogies#🛰️ Space Systems#OroraTech Constellation Phase 1 Satellites|OroraTech Constellation Phase 1 Satellites]]
+x8 [[Orora Technlogies#🛰️ Space Systems#OTC-P1|OTC-P1]] satellites
 
-![[Orora Technlogies#🛰️ Space Systems#OroraTech Constellation Phase 1 Satellites|OroraTech Constellation Phase 1 Satellites]]
+![[Orora Technlogies#🛰️ Space Systems#OTC-P1|OTC-P1]]
 
 ## 📽️ Launch Video
 

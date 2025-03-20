@@ -11,15 +11,33 @@
             "id": "2f7bb1c77bc9d2f1",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Vault-Assets/Images/Pasted image 20250320183221.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250320183221"
+            }
+          }
+        ]
+      },
+      {
+        "id": "18256c207d5fac5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70d5fa7b5fde67b4",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Launch/Launches/063 'Finding Hot Wildfires Near You'.md",
-                "mode": "source",
+                "file": "News/Rocket Lab Adds New HASTE Launch from Virginia for the Department of Defense’s Defense Innovation Unit.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "063 'Finding Hot Wildfires Near You'"
+              "title": "Rocket Lab Adds New HASTE Launch from Virginia for the Department of Defense’s Defense Innovation Unit"
             }
           }
         ]
@@ -194,12 +212,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2f7bb1c77bc9d2f1",
+  "active": "581793ba6e53cf14",
   "lastOpenFiles": [
-    "Organization/Partners/Orora Technlogies.md",
-    "Organization/Partners/Spire Global.md",
+    "Organization/Partners/Hypersonix.md",
+    "News/Rocket Lab Adds New HASTE Launch from Virginia for the Department of Defense’s Defense Innovation Unit.md",
+    "Vault-Assets/Images/Pasted image 20250320183810.png",
+    "Vault-Assets/Images/Pasted image 20250320183221.png",
     "Launch/Launches/063 'Finding Hot Wildfires Near You'.md",
-    "Pasted image 20250320132549.png",
+    "Organization/Partners/Orora Technlogies.md",
+    "Vault-Assets/Images/Pasted image 20250320132549.png",
+    "Organization/Partners/Spire Global.md",
     "Launch/Launches/062 'High Five'.md",
     "Vault-Assets/PDFs/F63-OroraTech-presskit.pdf",
     "🤝 Partners.md",
@@ -227,7 +249,6 @@
     "News/It's Business Time at Rocket Lab.md",
     "Launch/Launches/061 'The Lightning God Reigns'.md",
     "News/Successful Rocket Lab Launch Completes Deployment of Full Kinéis Constellation in Less Than a Year.md",
-    "Launch/Launches/004 'NASA ELaNa-19'.md",
     "Vault-Assets/PDFs/EXC22_017 - Photon Doc_ƒ [Web].pdf",
     "Interviews",
     "Vault-Assets/PDFs/6c03627b-729d-4bf2-96b9-177d2afdfb8c.pdf",
@@ -239,8 +260,6 @@
     "Vault-Assets/Images/Pasted image 20250315173332.jpg",
     "Vault-Assets/Images/Pasted image 20250315172622.png",
     "Vault-Assets/Images/52328481908_3e649b4570_b.jpg",
-    "Vault-Assets/Images/Globalstar_constellation-Globalstar.webp",
-    "Vault-Assets/Images/Pasted image 20250314201500.png",
     "Untitled.canvas",
     "Subsidiaries/Untitled.canvas"
   ]
