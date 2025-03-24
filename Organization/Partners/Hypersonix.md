@@ -8,45 +8,45 @@ website: https://www.hypersonix.com/
 **Website:** https://www.hypersonix.com/
 
 >[!summary]
->Hypersonix Launch Systems is an Australian space startup developing scramjet and scramjet-based access-to-space technology. In particular, the company is focused on reusable "green-fuelled" launch technology. The company specializes in hypersonic vehicle and scramjet engines to provide sustainable and affordable access to space.
+>Hypersonix Engineering is an Australian aerospace company specializing in hypersonic technology. It develops reusable scramjet engines and high-speed flight systems for commercial and defense applications. Its flagship technology, the Spartan scramjet engine, is hydrogen-powered and designed for sustained hypersonic flight (Mach 5+). The company focuses on satellite launch systems, hypersonic drones, and reusable space access solutions.
 
 >[!info] Upcoming Mission
 >Hypersonix has a launch services contract with Rocket Lab through the Department of Defense's Innovation Unit for a [[HASTE]] mission out of [[Launch Complex 2]].  The launch was originally expected to be in Q1 2025 but has likely been pushed to later in the year per a company [Linkedin Post](https://www.linkedin.com/posts/hypersonixau_dart-hypersonics-scramjets-activity-7299589828147298304-shQN/):
 >>[!quote] we are excited to be supplying our hashtag#DART hypersonic aircraft to US Defense **later this year** to support America’s hypersonic flight test effort
 >
->Source: [[Rocket Lab Selected by Kratos to Deliver Hypersonic Test Launches for DoD with HASTE Rocket]]
 
 ## 🛰️ Space Systems
 
-### Dart
+### DART AE
 
-DART is a three-meter-long, single-use, high-temperature alloy, hydrogen-fueled, [scramjet](https://en.wikipedia.org/wiki/Scramjet) technology demonstrator. 
+https://www.hypersonix.com/technology/dart
 
-- Entirely 3D printed airframe made of high temperature alloys
-- Designed and manufactured in Australia
-- Leverages the Hydrogen fuel capabilities of [[#SPARTAN]] for its high thrust and environmental benefits
-- Can be launched using both unguided [sounding rockets](https://www.nasa.gov/soundingrockets/) and guided rockets like [[HASTE]]
-- Simple in design allowing rapid production, uses commercially available flight proven components to maximize scalability
+DART AE is a 3m-long, single-use, multi-mission hypersonic system that is entirely 3D-printed out of high-temperature alloys. It is meant for the development, demonstration, testing and evaluation of hypersonic technologies, in addition to other potential hypersonic applications.
+
+The 300kg hypersonic system can travel up to a range of 1,000km at a speed of Mach 7. It can be launched via an unguided [sounding rocket](https://www.nasa.gov/soundingrockets/), which will lower expenses and enhance the versatility of both the launch and mission possibilities. It can also be launched from a guided rocket, as well as air-launched.
+
+The demonstrator has been developed to enable customers to explore flight conditions, data transmission, and maneuverability at hypersonic speeds. It will have the capacity to acquire valuable information and understanding regarding hypersonic operations at a significantly more budget-friendly cost compared to currently available hypersonic systems.  Given that it is a simple design with few moving parts, uses hydrogen as fuel and is air-breathing, its operational and environmental characteristics are desirable.
+
+[Source](https://www.airforce-technology.com/projects/dart-ae-hypersonic-vehicle-australia/?cf-view)
 
 | Specification | Value   |
 | ------------- | ------- |
 | Length        | 3m      |
 | Mass          | 300 kg  |
 | Range         | 1000 km |
-| Max Speed     | Mach 7  |
+| Speed         | Mach 7  |
 
 ![[Pasted image 20250320183221.png]]
 
 ### SPARTAN
 
-SPARTAN is a 3D-printed scramjet engine, delivering performance, reliability, lead time and cost advantages over more bespoke manufacturing methods.
+https://www.hypersonix.com/technology/spartan
 
-- **Air-breathing engine** - The simple, robust and reusable air-breathing engine system is the result of 30 years’ research, more than 6,000 ground firings, and 11 sub-orbital flights through the [HIFiRE](https://www.dst.defence.gov.au/partnership/hifire-program) and [HyShot](https://en.wikipedia.org/wiki/HyShot) programs.
-- **3D printed high temperature alloys** - Hypersonix 3D printed the world’s first fixed geometry scramjet engine in 2021. The maximum speed that can be achieved is depending on materials used.
-- **Reusable and fuel-efficient** - Both reusable and self-igniting, SPARTAN has no moving parts and uses hydrogen fuel to minimize environmental impact as it has no CO2 emissions.
-- **Water vapor exhaust** - Unlike other launch systems on the market, the SPARTAN scramjet produces only H2O exhaust and can leverage the sustainable benefits of green hydrogen fuel.
-- **Ceramic Matrix Composites (CMC)** - SPARTAN is made from CMCs as they are lightweight, with a high strength-to-weight ratio (even at high temperatures), high thermal shock resistance and toughness.
-- **Powered by hydrogen** - Hypersonix’s SPARTAN scramjet uses hydrogen as fuel for its high thrust and longer flight times.
+SPARTAN stands for Scramjet Powered Accelerator for Reusable Technology Advancement. It is a fifth-generation, reusable hydrogen-powered scramjet engine developed by Hypersonix.
+
+In addition to emitting zero carbon dioxide, clean-burning hydrogen fuel enables the engine to be turned on and off multiple times during a flight. The capability allows for a non-ballistic trajectory that conventional rockets cannot achieve. Together with the control surfaces integrated into its DART AE fuselage, this gives DART AE unique maneuverability at high speeds. The use of Hydrogen fuel offers a greater range compared to other scramjets.
+
+[Source](https://www.airforce-technology.com/projects/dart-ae-hypersonic-vehicle-australia/?cf-view)
 
 ![[Pasted image 20250320183810.png]]
 
