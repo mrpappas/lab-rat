@@ -25,7 +25,7 @@ sort launch_date desc
 
 | File                                                                                              | Date             | Location                                              | Vehicle                          | Orbit & Mass             | Outcome   |
 | ------------------------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | ------------------------ | --------- |
-| [[Launch/Launches/063 'Finding Hot Wildfires Near You'.md\|063 'Finding Hot Wildfires Near You']] | 2025-03-26 15:30 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 550 km \| 97° \| Unknown | ⌛ Pending |
+| [[Launch/Launches/063 'Finding Hot Wildfires Near You'.md\|063 'Finding Hot Wildfires Near You']] | 2025-03-26 15:30 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 550 km \| 97° \| Unknown | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end %%
 
@@ -33,8 +33,7 @@ sort launch_date desc
 
 ### OTC-P1
 
-**OTC-P1 (OroraTech Constellation Phase 1)** satellites are based on an enlarged 8U CubeSat version of[ Spire Global's Lemur platform](https://spire.com/space-services/lemur-space-platform/) and feature customized experiments additionally to the standard Lemur payload.
-They carry OroraTech’s SAFIRE GEN 2, a unique and proprietary thermal-infrared camera (developed in partnership with [Kampf Telescope Optics](https://www.ktoptics.de/)) and a data processing unit designed to detect fires and transmit the data using [[Spire Global]]’s satellite and ground network. The technology will help identify and monitor the areas at risk of wildfires and enable early detection of wildfire hotspots.
+**OTC-P1 (OroraTech Constellation Phase 1)** is a wildfire detection constellation. The satellites are based on a modified version of[ Spire Global's Lemur platform](https://spire.com/space-services/lemur-space-platform/) (8U variant). Each one carrying OroraTech’s [SAFIRE GEN 2](https://earth.esa.int/eogateway/documents/20142/4139742/2.07_VH-RODA%202022%20-%20Thermal-IR%20Wildfire%20detection%20-%20DRFernandes.pdf), a unique and proprietary thermal-infrared camera (developed in partnership with [Kampf Telescope Optics](https://www.ktoptics.de/)) and a data processing unit designed to detect fires and transmit the data using [[Spire Global]]’s satellite and ground network. The technology will help identify and monitor the areas at risk of wildfires and enable early detection of wildfire hotspots.
 
 | Spec            | Value             |
 | --------------- | ----------------- |
@@ -58,6 +57,7 @@ sort published desc
 
 | File                                                                                                                                                                                                                                                                                               | Published        |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[News/Rocket Lab Successfully Launches Mission for Global Wildfire Detection Company OroraTech.md\|Rocket Lab Successfully Launches Mission for Global Wildfire Detection Company OroraTech]]                                                                                                     | March 26, 2025   |
 | [[News/From Contract to Launch in Four Months Rocket Lab Schedules Electron Launch on a Rapid Turnaround for OroraTech Wildfire Detection Mission.md\|From Contract to Launch in Four Months Rocket Lab Schedules Electron Launch on a Rapid Turnaround for OroraTech Wildfire Detection Mission]] | March 18, 2025   |
 | [[News/Rocket Lab to Launch Global Wildfire Detection and Monitoring Mission for OroraTech.md\|Rocket Lab to Launch Global Wildfire Detection and Monitoring Mission for OroraTech]]                                                                                                               | January 22, 2025 |
 

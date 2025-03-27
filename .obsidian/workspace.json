@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🎙️ Interviews.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "🎙️ Interviews"
+              "title": "Home"
             }
           },
           {
@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interviews/SmallSat 2022 Keynote.md",
+                "file": "News/Rocket Lab appoints Adam Spice as Chief Financial Officer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "SmallSat 2022 Keynote"
+              "title": "Rocket Lab appoints Adam Spice as Chief Financial Officer"
             }
           },
           {
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Safire",
+                "query": "ororatech",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -226,36 +226,38 @@
   },
   "active": "e3e32e320902b62a",
   "lastOpenFiles": [
-    "🎙️ Interviews.md",
+    "Organization/Partners/U.S. Space Force.md",
+    "News/Rocket Lab’s Neutron Rocket On-Ramped to U.S. Space Force’s $5.6b National Security Space Launch (NSSL) program.md",
+    "Vault-Assets/Images/Pasted image 20250327190514.jpg",
+    "News/Rocket Lab Successfully Launches Mission for Global Wildfire Detection Company OroraTech.md",
+    "News/Rocket Lab appoints Adam Spice as Chief Financial Officer.md",
     "Interviews/SmallSat 2022 Keynote.md",
+    "Vault-Assets/Images/Pasted image 20250327190050.jpg",
+    "News/Rocket Lab Announces Conference Call to Review Second Quarter 2021 Financial Results.md",
+    "News/Rocket Lab announces $140 million in new funding  Rocket Lab.md",
+    "News/Rocket Lab Announces “At The Market” (ATM) Equity Offering Program.md",
+    "News/Rocket Lab and York Space Systems team up to develop rapid response launch capability.md",
+    "News/Rocket Lab and Planet Sign Launch Services Agreement.md",
+    "News/Rocket Lab and Planet create commemorative patch to celebrate anniversary of first woman in space.md",
+    "🙋 People.md",
+    "Launch/Launches/055 'HASTE A La Vista'.md",
+    "🚀 Launches.md",
+    "Organization/Partners/Hypersonix.md",
+    "🤝 Partners.md",
+    "Launch/Launches/063 'Finding Hot Wildfires Near You'.md",
+    "News/Rocket Lab to Launch Global Wildfire Detection and Monitoring Mission for OroraTech.md",
+    "Vault-Assets/PDFs/F63-OroraTech-presskit.pdf",
+    "Organization/Partners/Orora Technlogies.md",
+    "[[F63-OroraTech-presskit.pdf.md",
+    "📰 News.md",
+    "Organization/Partners/Spire Global.md",
+    "🎙️ Interviews.md",
     "Interviews/NSF - Rocket Lab's Electron from Wallops.md",
     "Interviews/Space Innovation Summit - Space Talks with Z.md",
     "Interviews/U.S. Chamber of Commerce Global Aerospace Summit.md",
-    "Interviews/Rocket Lab 2022 Investor Day & Neutron Update.md",
-    "Interviews/CNBC Squawk On The Street - Peter Beck.md",
-    "Interviews/Manuel Mazzanti - Peter Beck.md",
-    "Interviews/25th Annual International Mars Society Convention.md",
-    "Interviews/Yahoo Finance - 'An End-to-End Space Company'.md",
-    "Interviews/Everyday Astronaut - Austin DeSisto Interviews Peter Beck.md",
-    "Interviews/Space Minds with Peter Beck.md",
-    "Interviews/Space Policy Edition - Planetary Radio.md",
-    "Templates/Interview Template.md",
-    "Interviews/Leading Indicator - Rocket Lab CEO.md",
-    "Interviews/Sir Peter Beck - The State of Space.md",
-    "🚀 Launches.md",
-    "🏛️ Board of Directors.md",
-    "Interviews/Sharesies - Counting down to Liftoff.md",
-    "Interviews/Bloomberg - Rocket Lab on Business Outlook.md",
-    "🤝 Partners.md",
-    "Interviews/CNBC Peter Beck on Building Hypersonic Technology.md",
-    "Interviews/Main Engine Cut Off Podcast.md",
-    "Interviews/Dave G Investing Q1 2024 Interview.md",
-    "Interviews/Wish I Knew Podcast - Peter Beck.md",
-    "Interviews/Markets with Madison.md",
     "Vault-Assets/Images/Pasted image 20250320183221.png",
     "Vault-Assets/Images/Pasted image 20250320183810.png",
     "Vault-Assets/Images/Pasted image 20250320132549.png",
-    "Vault-Assets/PDFs/F63-OroraTech-presskit.pdf",
     "Vault-Assets/Images/Pasted image 20250318211757.png",
     "Vault-Assets/Images/Pasted image 20250318212311.jpg",
     "Vault-Assets/PDFs/f16e9e02-96bb-486f-a1be-da3a6fada449.pdf",
@@ -270,8 +272,6 @@
     "Vault-Assets/Images/1741975062-w3-for-social.webp",
     "Vault-Assets/Images/Pasted image 20250315172502.jpg",
     "Vault-Assets/Images/Pasted image 20250315173332.jpg",
-    "Vault-Assets/Images/Pasted image 20250315172622.png",
-    "Vault-Assets/Images/52328481908_3e649b4570_b.jpg",
     "Untitled.canvas",
     "Subsidiaries/Untitled.canvas"
   ]

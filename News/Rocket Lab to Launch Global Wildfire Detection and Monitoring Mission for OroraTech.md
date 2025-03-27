@@ -1,15 +1,16 @@
 ---
-title: "Rocket Lab to Launch Global Wildfire Detection and Monitoring Mission for OroraTech"
-source: "https://www.rocketlabusa.com/updates/rocket-lab-to-launch-global-wildfire-detection-and-monitoring-mission-for-ororatech-2/"
+title: Rocket Lab to Launch Global Wildfire Detection and Monitoring Mission for OroraTech
+source: https://www.rocketlabusa.com/updates/rocket-lab-to-launch-global-wildfire-detection-and-monitoring-mission-for-ororatech-2/
 author:
   - "[[Rocket Lab]]"
 published: 2025-01-22
 customer:
- - "[[Orora Technlogies]]"
+  - "[[Orora Technlogies]]"
 mission:
+  - "[[063 'Finding Hot Wildfires Near You']]"
 tags:
- - launch
- - electron
+  - launch
+  - electron
 ---
 >[!summary]
 >#launch #electron
@@ -18,7 +19,7 @@ Source: "https://www.rocketlabusa.com/updates/rocket-lab-to-launch-global-wildfi
 Author: [[Rocket Lab]]
 Published: 2025-01-22
 Customer: [[Orora Technlogies]]
-Mission:
+Mission: [[063 'Finding Hot Wildfires Near You']]
 
 ## Rocket Lab to Launch Global Wildfire Detection and Monitoring Mission for OroraTech
 
