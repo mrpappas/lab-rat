@@ -85,7 +85,6 @@ body:not(.links-int-on) {
     height: 100%;
     border: 0;
   }
-  
 
   @media (max-width: 768px) { /* Adjust width as needed */
     table th:nth-child(3),
@@ -94,4 +93,6 @@ body:not(.links-int-on) {
     table td:nth-child(4) {
         display: none;
     }
+
+    
 }

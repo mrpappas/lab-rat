@@ -8,51 +8,97 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e3e32e320902b62a",
+            "id": "d865fccbb4f70151",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "News/A New Frontier in Radios Rocket Lab Announces Expanded Radio Products for Reliable Command and Control.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "A New Frontier in Radios Rocket Lab Announces Expanded Radio Products for Reliable Command and Control"
             }
           },
           {
-            "id": "e4754fb2c16515e8",
+            "id": "acfb473f4c5d6168",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "News/Rocket Lab appoints Adam Spice as Chief Financial Officer.md",
+                "file": "Space Systems/Radios/Frontier Software Defined Radio.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Rocket Lab appoints Adam Spice as Chief Financial Officer"
+              "title": "Frontier Software Defined Radio"
             }
           },
           {
-            "id": "902468a29c3d64f4",
+            "id": "f7668991461eb316",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interviews/NSF - Rocket Lab's Electron from Wallops.md",
+                "file": "Interviews/Everyday Astronaut - Peter Beck at Rocket Lab HQ.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "NSF - Rocket Lab's Electron from Wallops"
+              "title": "Everyday Astronaut - Peter Beck at Rocket Lab HQ"
+            }
+          },
+          {
+            "id": "0c2d7e8dce7cd6d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interviews/Techweek NZ - Peter Beck.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Techweek NZ - Peter Beck"
+            }
+          },
+          {
+            "id": "9dfec3168fc95626",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interviews/TMRO Space - Peter Beck.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "TMRO Space - Peter Beck"
+            }
+          },
+          {
+            "id": "5eb61ef7ff2ddcde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interviews/TMRO Space - The Electron Rocket.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "TMRO Space - The Electron Rocket"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,7 +130,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ororatech",
+                "query": "the state of space\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -224,42 +270,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e3e32e320902b62a",
+  "active": "acfb473f4c5d6168",
   "lastOpenFiles": [
-    "Organization/Partners/U.S. Space Force.md",
-    "News/Rocket Lab’s Neutron Rocket On-Ramped to U.S. Space Force’s $5.6b National Security Space Launch (NSSL) program.md",
-    "Vault-Assets/Images/Pasted image 20250327190514.jpg",
-    "News/Rocket Lab Successfully Launches Mission for Global Wildfire Detection Company OroraTech.md",
-    "News/Rocket Lab appoints Adam Spice as Chief Financial Officer.md",
-    "Interviews/SmallSat 2022 Keynote.md",
-    "Vault-Assets/Images/Pasted image 20250327190050.jpg",
-    "News/Rocket Lab Announces Conference Call to Review Second Quarter 2021 Financial Results.md",
-    "News/Rocket Lab announces $140 million in new funding  Rocket Lab.md",
-    "News/Rocket Lab Announces “At The Market” (ATM) Equity Offering Program.md",
-    "News/Rocket Lab and York Space Systems team up to develop rapid response launch capability.md",
-    "News/Rocket Lab and Planet Sign Launch Services Agreement.md",
-    "News/Rocket Lab and Planet create commemorative patch to celebrate anniversary of first woman in space.md",
-    "🙋 People.md",
-    "Launch/Launches/055 'HASTE A La Vista'.md",
-    "🚀 Launches.md",
-    "Organization/Partners/Hypersonix.md",
-    "🤝 Partners.md",
-    "Launch/Launches/063 'Finding Hot Wildfires Near You'.md",
-    "News/Rocket Lab to Launch Global Wildfire Detection and Monitoring Mission for OroraTech.md",
-    "Vault-Assets/PDFs/F63-OroraTech-presskit.pdf",
-    "Organization/Partners/Orora Technlogies.md",
-    "[[F63-OroraTech-presskit.pdf.md",
-    "📰 News.md",
-    "Organization/Partners/Spire Global.md",
+    "Pasted image 20250404013948.png",
+    "Pasted image 20250404013934.png",
+    "Space Systems/Radios/Frontier-S Software Defined Radio.md",
+    "Space Systems/Radios/Frontier Software Defined Radio.md",
+    "Vault-Assets/PDFs/RL-Radios-Datasheet-Full-Suite-v4.pdf",
+    "News/A New Frontier in Radios Rocket Lab Announces Expanded Radio Products for Reliable Command and Control.md",
+    "Interviews/TMRO Space - The Electron Rocket.md",
+    "Interviews/Techweek NZ - Peter Beck.md",
+    "Interviews/Everyday Astronaut - Peter Beck at Rocket Lab HQ.md",
+    "Pasted image 20250404013404.jpg",
     "🎙️ Interviews.md",
-    "Interviews/NSF - Rocket Lab's Electron from Wallops.md",
-    "Interviews/Space Innovation Summit - Space Talks with Z.md",
-    "Interviews/U.S. Chamber of Commerce Global Aerospace Summit.md",
+    "Organization/People/Peter Beck.md",
+    "Interviews/B of A Securities Global Industrials Conference 2025 - Stephen Ananias.md",
+    "Interviews/CNBC - Rocket Lab CEO talks competing for Space Force contracts.md",
+    "Interviews/TMRO Space - Peter Beck.md",
+    "Interviews/Your Space Journey - Peter Beck.md",
+    "Interviews/TechCrunch Launching a New Space Economy.md",
+    "Interviews/Bloomberg Originals - Rocket Lab is Giving SpaceX a Run for its Money.md",
+    "Interviews/BLAKE - Peter Beck Dream Team.md",
+    "Interviews/Spark Innovator Seminar - Peter Beck.md",
+    "Interviews/Paul Henry - Why Rocket Lab Picked New Zealand.md",
+    "Interviews/Auckland Startup & Tech Meetup 2014.md",
+    "Interviews/Spark Speaker Video - Peter Beck.md",
+    "Interviews/Spark Interview - Peter Beck.md",
+    "Interviews/Joe Scott - Peter Beck.md",
+    "Interviews/CNBC - Rocket Lab on First US Launch Site.md",
+    "Interviews/TED - Peter Beck on Small Rockets.md",
+    "Interviews/Everyday Astronaut - Recovering Electron.md",
+    "Interviews/Everyday Astronaut - Catching Electron With a Helicopter.md",
+    "Pasted image 20250403195825.jpg",
+    "Pasted image 20250403032519.png",
+    "Vault-Assets/Images/Pasted image 20250327190514.jpg",
+    "Vault-Assets/Images/Pasted image 20250327190050.jpg",
+    "Vault-Assets/PDFs/F63-OroraTech-presskit.pdf",
     "Vault-Assets/Images/Pasted image 20250320183221.png",
     "Vault-Assets/Images/Pasted image 20250320183810.png",
     "Vault-Assets/Images/Pasted image 20250320132549.png",
     "Vault-Assets/Images/Pasted image 20250318211757.png",
-    "Vault-Assets/Images/Pasted image 20250318212311.jpg",
     "Vault-Assets/PDFs/f16e9e02-96bb-486f-a1be-da3a6fada449.pdf",
     "Vault-Assets/PDFs/c575cc48-c1ee-4769-914d-cf4c1c7bf189.pdf",
     "Vault-Assets/PDFs/8337f0c1-2a95-44ae-b870-b514739860e8.pdf",
@@ -268,10 +318,6 @@
     "Vault-Assets/PDFs/6c03627b-729d-4bf2-96b9-177d2afdfb8c.pdf",
     "Vault-Assets/PDFs/0b605bc7-e35d-4dc5-ad1a-1eb4707519dc.pdf",
     "Vault-Assets/PDFs/0b3f147d-1489-4f3a-b4eb-9109cf2f0133.pdf",
-    "Filings/2025/Form 144",
-    "Vault-Assets/Images/1741975062-w3-for-social.webp",
-    "Vault-Assets/Images/Pasted image 20250315172502.jpg",
-    "Vault-Assets/Images/Pasted image 20250315173332.jpg",
     "Untitled.canvas",
     "Subsidiaries/Untitled.canvas"
   ]

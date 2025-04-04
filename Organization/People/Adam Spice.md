@@ -56,6 +56,28 @@ sort Filing_Date desc
 
 %%DATAVIEW_PUBLISHER: end %%
 
+## 🎙️ Interviews
+%%DATAVIEW_PUBLISHER: start
+```
+table date as "Date", source as "Source"
+from "Interviews"
+where contains(insider, [[Adam Spice]])
+sort published desc
+```
+%%
+
+| File                                                                                                           | Date               | Source                       |
+| -------------------------------------------------------------------------------------------------------------- | ------------------ | ---------------------------- |
+| [[Interviews/Bloomberg Technology - Rocket Lab CFO.md\|Bloomberg Technology - Rocket Lab CFO]]                 | October 11, 2024   | Bloomberg Technology         |
+| [[Interviews/Dave G Investing Q1 2024 Interview.md\|Dave G Investing Q1 2024 Interview]]                       | May 08, 2024       | Dave G Investing             |
+| [[Interviews/Dave G Investing Q2 2024 Interview.md\|Dave G Investing Q2 2024 Interview]]                       | August 13, 2024    | Dave G Investing             |
+| [[Interviews/Deutsche Bank Making Sense of Space.md\|Deutsche Bank Making Sense of Space]]                     | September 23, 2024 | Deutche Bank Research        |
+| [[Interviews/Dave G Investing Q3 2024 Interview.md\|Dave G Investing Q3 2024 Interview]]                       | November 29, 2024  | Dave G Investing             |
+| [[Interviews/Rocket Lab 2022 Investor Day & Neutron Update.md\|Rocket Lab 2022 Investor Day & Neutron Update]] | September 22, 2022 | Rocket Lab 2022 Investor Day |
+| [[Interviews/7Investing - Peter Beck and Adam Spice.md\|7Investing - Peter Beck and Adam Spice]]               | September 07, 2021 | 7Investing Youtube           |
+
+%%DATAVIEW_PUBLISHER: end %%
+
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```

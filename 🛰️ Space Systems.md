@@ -32,7 +32,7 @@ sort name asc
 | File                                                                                             |
 | ------------------------------------------------------------------------------------------------ |
 | [[Space Systems/Radios/Frontier-S Software Defined Radio.md\|Frontier-S Software Defined Radio]] |
-| [[Space Systems/Radios/Frontier-X Software Defined Radio.md\|Frontier-X Software Defined Radio]] |
+| [[Frontier Software Defined Radio\|Frontier-X Software Defined Radio]] |
 
 %% DATAVIEW_PUBLISHER: end %%
 

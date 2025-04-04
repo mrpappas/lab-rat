@@ -45,6 +45,7 @@ sort name asc
 | [[Organization/People/Scott Smith.md\|Scott Smith]]                       | Director                                                           | \-                                                |
 | [[Organization/People/Shaun D'Mello.md\|Shaun D'Mello]]                   | Vice President - Neutron                                           | \-                                                |
 | [[Organization/People/Shaun O'Donnell.md\|Shaun O'Donnell]]               | Chief Engineer - Special Projects                                  | 705,485                                           |
+| [[Organization/People/Stephen Ananias.md\|Stephen Ananias]]               | VP, Finance                                                        | 1,196,679                                         |
 | [[Organization/People/Sven Strohband.md\|Sven Strohband]]                 | Director (Khosla Ventures)                                         | 324,341                                           |
 | [[Organization/People/Vinod Khosla.md\|Vinod Khosla]]                     | Director (Khosla Ventures)                                         | 21,323,617 (Indirect)                             |
 | [[Organization/People/Walter Holemans.md\|Walter Holemans]]               | Engineering Fellow                                                 | \-                                                |

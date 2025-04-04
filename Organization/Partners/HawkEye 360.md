@@ -10,6 +10,22 @@ website: https://www.he360.com/
 >[!summary]
 HawkEye 360 is a geospatial analytics company that operates a constellation of satellites to detect, characterize, and geolocate radio frequency (RF) signals. Their services provide insights for applications such as maritime domain awareness, spectrum monitoring, and national security. By analyzing RF data, HawkEye 360 helps identify illegal activities like maritime piracy, smuggling, and unlicensed spectrum usage.
 
+## 🛰️ Space Systems
+
+## Hawk Satellite
+
+HawkEye 360 is developing a space-based civil global intelligence network that will use radio frequency (RF) technology to help monitor transportation across air, land and sea and assist with emergencies, which is essentially a civil SIGINT (Signal Intelligence) mission.
+
+
+| Specification | Value         |
+| ------------- | ------------- |
+| Mass          | 30kg          |
+| Mission Life  | 3 Years       |
+| Waveband      | 700MHz - 6GHz |
+
+
+
+![[Pasted image 20250403032519.png]]
 ## 🚀 Launches
 
 %%DATAVIEW_PUBLISHER: start

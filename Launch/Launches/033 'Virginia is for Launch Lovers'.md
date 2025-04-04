@@ -26,7 +26,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/new-missio
 **Vehicle:** [[Electron]]
 **Orbit Type:** [[🌍 Orbits#LEO]]
 **Target Orbit:** 550 km | 40.5°
-**Payload Mass:** 40 kg
+**Payload Mass:** 90 kg
 **Recovery:** No Attempt
 **Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/new-mission-page-2/
 **Press Kit**: [[Virginia-is-for-Launch-Lovers-Press-Kit6.pdf]]
@@ -42,6 +42,9 @@ Launch Complex 2 supplements Rocket Lab’s existing site, Launch Complex 1 in N
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720302855243/)
 
+## 📦 Payload
+
+[x3 Hawk Satellites](https://space.skyrocket.de/doc_sdat/hawk-2a.htm)
 ## 📽️ Launch Video
 
 <div class="responsive-video">
