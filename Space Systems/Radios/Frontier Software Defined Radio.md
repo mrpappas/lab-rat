@@ -1,5 +1,5 @@
 >[!summary]
-The Frontier-X by Rocket Lab is a high-speed software-defined telemetry, tracking, and control (TT&C) radio radio series. They are available in L-, S-, C-, X-, and Ka-band models (previously only offering an S- and X- band variant). Frontier radios are based on the [Johns Hopkins University Applied Physics Lab (APL) Frontier radio](https://en.wikipedia.org/wiki/Frontier_Radio). A highly capable radio providing Deep Space Network (DSN) and other typical waveforms (TDRSS, NEN, AFSCN, commercial) into a small compact package efficiently and reliably.
+The Frontier radio series by Rocket Lab is a high-speed telemetry, tracking, and control (TT&C)  software-defined radio series. They are available in L-, S-, C-, X-, and Ka-band models (previously only offering S- and X- band). Frontier radios are based on the [Johns Hopkins University Applied Physics Lab (APL) Frontier radio](https://en.wikipedia.org/wiki/Frontier_Radio). A highly capable radio providing Deep Space Network (DSN) and other typical waveforms (TDRSS, NEN, AFSCN, commercial) into a small compact package efficiently and reliably.
 >
 📊 Data Sheet: [[RL-Radios-Datasheet-Full-Suite-v4.pdf]]
 
@@ -7,11 +7,10 @@ The Frontier-X by Rocket Lab is a high-speed software-defined telemetry, trackin
 
 - DSN, SN, NEN, AFSCN, Unified S-band (USB) and commercial waveform compatible
 - CCSDS compatible, turbo and convolutional encoding
-- Industry leading small form factor for deep space missions
-- Superior lead time
+- Small form factor for deep space missions
 - Flight proven, in production
 - Two-way Doppler and two-way ranging for navigation in space
-- Ideal for Class B/C/D missions as well as commercial
+- Ideal for [[⚖️ NASA Mission and Instrument Risk Classification#Class B|Class B]], [[⚖️ NASA Mission and Instrument Risk Classification#Class C|C]], and [[⚖️ NASA Mission and Instrument Risk Classification#Class D|D]] missions as well as commercial
 
 ## 📡 Variants
 
