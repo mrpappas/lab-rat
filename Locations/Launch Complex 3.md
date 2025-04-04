@@ -17,7 +17,7 @@ sort published desc
 
 ## 🚀 Launches from LC-3
 
-For more info on all launches see  [[🚀 Launches]]
+For more info on all launches see  [[Launches]]
 
 %%DATAVIEW_PUBLISHER: start
 ```

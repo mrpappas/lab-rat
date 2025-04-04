@@ -2,7 +2,7 @@ https://www.dcvc.com/
 
 **DCVC**, formally known as **Data Collective**, is a venture capital firm specializing in deep tech investments. Founded in 2010 and headquartered in Palo Alto, California, DCVC focuses on backing entrepreneurs who leverage computational approaches to address significant, high-stakes challenges across various industries. The firm invests in sectors such as artificial intelligence, computational biology, cybersecurity, space, and industrial transformation.
 
-[[Matthew Ocko]] Co-Founder and Co-Managing Partner of [[DCVC]]  sits on Rocket Lab's [[🏛️ Board of Directors]]
+[[Matthew Ocko]] Co-Founder and Co-Managing Partner of [[DCVC]]  sits on Rocket Lab's [[Board of Directors]]
 
 **Other Investments**: 
 -  Agility Robotics

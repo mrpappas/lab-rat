@@ -1,5 +1,5 @@
 >[!summary]
-The world’s only private orbital launch range in [Mahia, New Zealand](https://maps.app.goo.gl/4GNB4c4spUsxLGfm6). An [FAA-licensed spaceport](https://www.faa.gov/space/spaceports), Launch Complex 1 can provide up to 120 [[🚀 Launches|launch]] opportunities every year. From the site it is possible to reach orbital inclinations from sun-synchronous ([[🌍 Orbits#SSO|SSO]]) through to 30 degrees, enabling a wide spectrum of inclinations to service the majority of the satellite industry’s missions to low Earth orbit.
+The world’s only private orbital launch range in [Mahia, New Zealand](https://maps.app.goo.gl/4GNB4c4spUsxLGfm6). An [FAA-licensed spaceport](https://www.faa.gov/space/spaceports), Launch Complex 1 can provide up to 120 [[Launches|launch]] opportunities every year. From the site it is possible to reach orbital inclinations from sun-synchronous ([[🌍 Orbits#SSO|SSO]]) through to 30 degrees, enabling a wide spectrum of inclinations to service the majority of the satellite industry’s missions to low Earth orbit.
 >
 Located within Launch Complex 1 are Rocket Lab’s private range control facilities, two 100K satellite cleanrooms, a launch vehicle assembly facility which can process multiple [[Electron]]s at once, and administrative offices. Operating a private orbital launch site alongside its own range and mission control centers allows Rocket Lab to reduce the overhead costs per mission, resulting in a cost-effective launch service for satellite operators.
 [Source](https://www.rocketlabusa.com/launch/launch-with-us/#Launch%20Complex%201)
@@ -81,7 +81,7 @@ sort published desc
 
 ## 🚀 Launches from LC-1
 
-For more info on all launches see  [[🚀 Launches]]
+For more info on all launches see  [[Launches]]
 
 %%DATAVIEW_PUBLISHER: start
 ```

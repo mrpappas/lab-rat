@@ -9,17 +9,17 @@ This provides a great high level analysis of Rocket Lab's current business and p
 
 ## 🔗 Quick Links
 
-- [[🚀 Launches]]
-- [[💼 SEC Filings (All)]]
-- [[💸 Insider Sales]]
-- [[🎙️ Interviews]]
-- [[🙋 People]]
-- [[🤝 Partners]]
-- [[🛰️ Space Systems]]
-- [[📰 News]]
-- [[🏛️ Board of Directors]]
-- [[🟢 Subsidiaries]]
-- [[📊 Earnings Calls]]
+-  🚀 [[Launches]]
+- 💼 [[SEC Filings (All)]]
+- 💸 [[Insider Sales]]
+- 🎙️ [[Interviews]]
+- 🙋 [[People]]
+- 🤝 [[Partners]]
+- 🛰️ [[Space Systems]]
+- 📰 [[News]]
+- 🏛️ [[Board of Directors]]
+- 🟢 [[Subsidiaries]]
+- 📊 [[Earnings Calls]]
 
 ## 📈 Latest Earnings Call
 
@@ -27,7 +27,7 @@ This provides a great high level analysis of Rocket Lab's current business and p
 
 ## 🚀 Recent Launches
 
-[[🚀 Launches| Click here to see all 🚀 Launches]]
+[[Launches| Click here to see all 🚀 Launches]]
 
 %% DATAVIEW_PUBLISHER: start
 ```
@@ -55,7 +55,7 @@ limit 10
 
 ## 📰 Recent News
 
-[[📰 News|Click here to see all 📰 News]]
+[[News|Click here to see all 📰 News]]
 
 %% DATAVIEW_PUBLISHER: start
 ```
@@ -94,6 +94,6 @@ Made with [Obsidian](https://obsidian.md/)
 
 ## 🛠️ Want to contribute? 
 
-**Check here**: [[📋 To Do List]]
+**Check here**: [[To Do List]]
 **Change Request Form**: [Link](https://docs.google.com/forms/d/e/1FAIpQLSc8_RGjO3WIBK9duFOTnrdnfTLYURA4qqhYs0ZCXeHtYCoLlg/viewform)
 🖥️ **GitHub**: https://github.com/mrpappas/lab-rat

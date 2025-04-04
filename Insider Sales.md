@@ -1,7 +1,7 @@
 
 >[!tip] For more info on Rocket Lab's SEC filings [check out their investor relations page](https://investors.rocketlabusa.com/financials/sec-filings/default.aspx)
 
-List of all SEC Filings: [[💼 SEC Filings (All)]]
+List of all SEC Filings: [[SEC Filings (All)]]
 
 %% DATAVIEW_PUBLISHER: start
 ```

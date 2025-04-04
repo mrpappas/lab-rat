@@ -46,7 +46,7 @@ sort launch_date desc
 
 ## 🚀 Launches from LC-2
 
-Here's a list of all launches from LC-2, for more info on all launches see  [[🚀 Launches]]
+Here's a list of all launches from LC-2, for more info on all launches see  [[Launches]]
 
 %%DATAVIEW_PUBLISHER: start
 ```

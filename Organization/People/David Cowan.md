@@ -19,7 +19,7 @@ linkedin: https://www.linkedin.com/in/davidjcowan/
 **Professional Background**:  
 David Cowan is a partner at [[Bessemer Venture Partners]], where he has led early-stage investments resulting in over 30 IPOs. His notable investments include LinkedIn, Twitch, LifeLock, and Rocket Lab.
 **Involvement with Rocket Lab**:  
-In March 2015, Cowan led Bessemer's [[2015 Series B Funding]] investment in Rocket Lab, joining the company's [[🏛️ Board of Directors]]. He played a pivotal role in guiding Rocket Lab from a startup to a NASDAQ-listed leader in the aerospace industry. Cowan completed his tenure on Rocket Lab's Board in March 2023.
+In March 2015, Cowan led Bessemer's [[2015 Series B Funding]] investment in Rocket Lab, joining the company's [[Board of Directors]]. He played a pivotal role in guiding Rocket Lab from a startup to a NASDAQ-listed leader in the aerospace industry. Cowan completed his tenure on Rocket Lab's Board in March 2023.
 **Additional Contributions**:  
 Beyond his venture capital endeavors, Cowan co-founded VeriSign, serving as its initial Chairman and CFO. He also co-founded Good Technology and Defense.net, contributing significantly to the cybersecurity sector.
 **Recognition**:  
