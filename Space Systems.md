@@ -29,9 +29,9 @@ sort name asc
 ```
 %%
 
-| File                                                                                         |
-| -------------------------------------------------------------------------------------------- |
-| [[Frontier Radio\|Frontier Software Defined Radio]] |
+| File                                                       |
+| ---------------------------------------------------------- |
+| [[Space Systems/Radios/Frontier Radio.md\|Frontier Radio]] |
 
 %% DATAVIEW_PUBLISHER: end %%
 

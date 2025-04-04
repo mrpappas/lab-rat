@@ -8,78 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d865fccbb4f70151",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "News/A New Frontier in Radios Rocket Lab Announces Expanded Radio Products for Reliable Command and Control.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "A New Frontier in Radios Rocket Lab Announces Expanded Radio Products for Reliable Command and Control"
-            }
-          },
-          {
-            "id": "acfb473f4c5d6168",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Home"
-            }
-          },
-          {
-            "id": "f7668991461eb316",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interviews/Everyday Astronaut - Peter Beck at Rocket Lab HQ.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Everyday Astronaut - Peter Beck at Rocket Lab HQ"
-            }
-          },
-          {
             "id": "0c2d7e8dce7cd6d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Interviews/Techweek NZ - Peter Beck.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "aFile": "Interviews.md",
+                "bFile": "Interviews.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Techweek NZ - Peter Beck"
-            }
-          },
-          {
-            "id": "9dfec3168fc95626",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interviews/TMRO Space - Peter Beck.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "TMRO Space - Peter Beck"
+              "icon": "diff",
+              "title": "Diff: Interviews"
             }
           },
           {
@@ -97,8 +36,7 @@
               "title": "TMRO Space - The Electron Rocket"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -270,8 +208,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "acfb473f4c5d6168",
+  "active": "0c2d7e8dce7cd6d2",
   "lastOpenFiles": [
+    "Interviews/Off-Nominal Episode 191.md",
+    "Interviews/Off-Nominal Episode 155.md",
+    "State Level Constellation Opportunities.md",
+    "Interviews.md",
+    "Interviews/CNBC Squawk On The Street - Peter Beck on US Space Force.md",
+    "Interviews/Techweek NZ - Peter Beck.md",
+    "Interviews/TMRO Space - The Electron Rocket.md",
+    "News/A New Frontier in Radios Rocket Lab Announces Expanded Radio Products for Reliable Command and Control.md",
+    "Home.md",
+    "Interviews/TMRO Space - Peter Beck.md",
+    "Interviews/Everyday Astronaut - Peter Beck at Rocket Lab HQ.md",
     "Subsidiaries.md",
     "Space Systems.md",
     "Launches.md",
@@ -285,25 +234,14 @@
     "Insider Sales.md",
     "Acquisitions.md",
     "Board of Directors.md",
-    "Interviews.md",
     "Space Systems/Radios/Frontier Radio.md",
     "Space Systems/Spacecraft/Flatellite.md",
-    "Space Systems/Spacecraft/Lightning.md",
-    "Space Systems/Spacecraft/Explorer.md",
-    "News/Rocket Lab Increases Space Systems Offerings with New Products for Small Satellites.md",
-    "Space Systems/⚖️ NASA Mission and Instrument Risk Classification.md",
-    "Launch/⚖️ NASA Rocket Risk Classification.md",
-    "Space Systems/Radios/Frontier-S Software Defined Radio.md",
     "Vault-Assets/Images/Pasted image 20250403032519.png",
     "Vault-Assets/Images/Pasted image 20250404013404.jpg",
     "Vault-Assets/Images/Pasted image 20250403195825.jpg",
     "Vault-Assets/Images/Pasted image 20250404013948.png",
     "Vault-Assets/Images/Pasted image 20250404013934.png",
     "Vault-Assets/PDFs/RL-Radios-Datasheet-Full-Suite-v4.pdf",
-    "News/A New Frontier in Radios Rocket Lab Announces Expanded Radio Products for Reliable Command and Control.md",
-    "Interviews/TMRO Space - The Electron Rocket.md",
-    "Interviews/Techweek NZ - Peter Beck.md",
-    "Interviews/Everyday Astronaut - Peter Beck at Rocket Lab HQ.md",
     "Vault-Assets/Images/Pasted image 20250327190514.jpg",
     "Vault-Assets/Images/Pasted image 20250327190050.jpg",
     "Vault-Assets/PDFs/F63-OroraTech-presskit.pdf",
