@@ -1,5 +1,5 @@
 >[!summary]
-The Frontier radio series by Rocket Lab is a high-speed telemetry, tracking, and control (TT&C)  software-defined radio series. They are available in L-, S-, C-, X-, and Ka-band models (previously only offering S- and X- band). Frontier radios are based on the [Johns Hopkins University Applied Physics Lab (APL) Frontier radio](https://en.wikipedia.org/wiki/Frontier_Radio). A highly capable radio providing Deep Space Network (DSN) and other typical waveforms (TDRSS, NEN, AFSCN, commercial) into a small compact package efficiently and reliably.
+The Frontier radio series by Rocket Lab is a high-speed telemetry, tracking, and control (TT&C)  [software-defined radio](https://en.wikipedia.org/wiki/Software-defined_radio) series. They are available in L-, S-, C-, X-, and Ka-band models (previously only offering S- and X- band). Frontier radios are based on the [Johns Hopkins University Applied Physics Lab (APL) Frontier radio](https://en.wikipedia.org/wiki/Frontier_Radio). A highly capable radio providing Deep Space Network (DSN) and other typical waveforms (TDRSS, NEN, AFSCN, commercial) into a small compact package efficiently and reliably.
 >
 📊 Data Sheet: [[RL-Radios-Datasheet-Full-Suite-v4.pdf]]
 
@@ -80,6 +80,10 @@ The Frontier radio series by Rocket Lab is a high-speed telemetry, tracking, and
 | **Tx Frequency**        | 1626.5 to 1675 MHz                                 |
 | **Tx Data Rate**        | up to 256kbps                                      |
 
+## 📰 News
+
+- [[Rocket Lab Increases Space Systems Offerings with New Products for Small Satellites]]
+- [[A New Frontier in Radios Rocket Lab Announces Expanded Radio Products for Reliable Command and Control]]
 
 ## Notes
 
@@ -89,6 +93,3 @@ The Frontier radio series by Rocket Lab is a high-speed telemetry, tracking, and
 
 ![https://x.com/RocketLab/status/1907830234805842295](https://x.com/RocketLab/status/1907830234805842295)
 
-## 📰 News
-
-[[Rocket Lab Increases Space Systems Offerings with New Products for Small Satellites]]

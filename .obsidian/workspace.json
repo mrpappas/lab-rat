@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Space Systems/Radios/Frontier Software Defined Radio.md",
+                "file": "Space Systems/Radios/Frontier Radio.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Frontier Software Defined Radio"
+              "title": "Frontier Radio"
             }
           },
           {
@@ -272,8 +272,9 @@
   },
   "active": "acfb473f4c5d6168",
   "lastOpenFiles": [
+    "News/Rocket Lab Increases Space Systems Offerings with New Products for Small Satellites.md",
+    "Space Systems/Radios/Frontier Radio.md",
     "💰 Acquisitions.md",
-    "Space Systems/Radios/Frontier Software Defined Radio.md",
     "Space Systems/⚖️ NASA Mission and Instrument Risk Classification.md",
     "Launch/⚖️ NASA Rocket Risk Classification.md",
     "🛰️ Space Systems.md",
@@ -303,7 +304,6 @@
     "Interviews/Spark Speaker Video - Peter Beck.md",
     "Interviews/Spark Interview - Peter Beck.md",
     "Interviews/Joe Scott - Peter Beck.md",
-    "Interviews/CNBC - Rocket Lab on First US Launch Site.md",
     "Vault-Assets/Images/Pasted image 20250327190514.jpg",
     "Vault-Assets/Images/Pasted image 20250327190050.jpg",
     "Vault-Assets/PDFs/F63-OroraTech-presskit.pdf",

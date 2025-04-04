@@ -23,7 +23,7 @@ Source: https://www.rocketlabusa.com/updates/rocket-lab-increases-space-systems-
 
 **Long Beach, California. February 08, 2023** – Rocket Lab USA, Inc. ([Nasdaq: RKLB](https://www.nasdaq.com/market-activity/stocks/rklb-0)) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today released two new high-performance space systems products designed to increase the availability of essential satellite components to the global small satellite market.
 
-Bolstering the Company’s existing line of proven satellite components, the new Rocket Lab products include the [[Frontier Software Defined Radio]] designed to provide high speed data for both near Earth and deep space small satellite missions, as well as a new [[12 Nms Reaction Wheel]] designed specifically for constellation class satellites.
+Bolstering the Company’s existing line of proven satellite components, the new Rocket Lab products include the [[Frontier Radio]] designed to provide high speed data for both near Earth and deep space small satellite missions, as well as a new [[12 Nms Reaction Wheel]] designed specifically for constellation class satellites.
 
 The products join Rocket Lab’s existing heritage space systems components including star trackers, reaction wheels, separation systems, radios, flight software, ground software, and solar power solutions. Combined, Rocket Lab’s space systems components have supported more than 1,700 space missions to date.
 
