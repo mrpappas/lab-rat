@@ -84,6 +84,7 @@ sort published desc
 | [[Interviews/Deutsche Bank Podzept - Making Sense of Space.md\|Deutsche Bank Podzept - Making Sense of Space]]                                                   | September 23, 2024 | Deutche Bank Research                                                  |
 | [[Interviews/UBS Global Industrials and Transportation Conference 2024.md\|UBS Global Industrials and Transportation Conference 2024]]                           | December 05, 2024  | UBS Global Industrials and Transportation Conference 2025              |
 | [[Interviews/27th Annual Needham Growth Conference.md\|27th Annual Needham Growth Conference]]                                                                   | January 14, 2025   | 27th Annual Needham Growth Conference                                  |
+| [[Interviews/Citi 2025 Global Industrial Tech and Mobility Conference.md\|Citi 2025 Global Industrial Tech and Mobility Conference]]                             | February 17, 2025  | Citi 2025 Global Industrial Tech and Mobility Conference               |
 
 %%DATAVIEW_PUBLISHER: end %%
 
