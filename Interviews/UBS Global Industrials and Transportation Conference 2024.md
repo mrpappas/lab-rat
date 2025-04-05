@@ -15,6 +15,8 @@ date: 2024-12-05
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **Interviewer:** [0:01] Great. Thanks everybody for joining us on the last day of the UBS Industrials Conference. Happy to have Adam Spice, CFO of Rocket Lab with us. Thanks Adam.
 
 **Adam Spice:** Thanks for having me.

@@ -17,6 +17,8 @@ date: 2024-01-08
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 [0:01] **Operator:** Hello and welcome to the Rocket Lab discussion of government constellation award. All lines have been placed on mute to prevent any background noise. After the speaker's remarks, there will be a question and answer session. And if you would like to ask a question during this time, simply press star one on your telephone keypad. I will now turn the conference over to Colin Canfield, head of investor relations. Please go ahead.
 
 [0:26] **Colin Canfield:** Thank you. Hello everyone. We're glad to have you join us for today's conference call. Before we begin the call, I'd like to remind you that our remarks may contain forward-looking statements that relate to the future performance of the company. And these statements are intended to qualify for the safe harbor protection from liability established by the private securities litigation reform act. Any such statements are not guarantees of future performance, and factors that can influence our results are highlighted in today's press release and others are contained in our filings with the Securities and Exchange Commission.

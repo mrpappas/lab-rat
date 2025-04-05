@@ -15,7 +15,7 @@ date: 2022-10-16
 
 ## 🎙️ Transcript
 
-## Introduction and Welcome
+>[!hint] Transcript may contain errors or inaccuracies.
 
 **Host:** All right folks, you know the drill. Super light staff here running NSF Live, but we have our special guest Peter Beck today. Me and Thomas here as well. Let me know if you can hear me too. Give me some five by fives in chat and if everything's working correctly.
 

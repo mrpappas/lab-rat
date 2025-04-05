@@ -15,6 +15,8 @@ date: 2021-09-22
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **Leighton:** Everyone, welcome to another week of Lunch Money brought to you by Sharesies. At Sharesies, our purpose is to create the most financially empowered generation. For those of you who are new to Lunch Money, we do these every Thursday at lunch time, and this is a place where you as investors can come and hear from people leading some of the companies available on the Sharesies platform and other investing experts.
 
 Lunch Money is also available as a podcast on Spotify, Apple Podcasts, and Google Podcasts. Please, if you're listening to the podcast, take a moment to leave a rating and comment on Apple Podcasts—we really appreciate it.

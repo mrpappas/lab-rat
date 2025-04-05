@@ -15,7 +15,7 @@ date: 2024-06-06
 
 ## 🎙️ Transcript
 
-### Introduction
+>[!hint] Transcript may contain errors or inaccuracies.
 
 **John Michael Godier:** Joining John today all the way from New Zealand is Sir Peter Beck. Sir Peter Beck is the founder, president, and chief executive officer of Rocket Lab. Since founding the company in 2006, Sir Peter has grown it into a global organization that develops and launches advanced rockets, satellites, and spacecraft. He has served on Rocket Lab's board of directors and as its president and chief executive officer since July 2013. He was appointed chairman of the board in May 2021. An award-winning engineer, in 2024 he was made Knight Companion of the New Zealand Order of Merit for services to the aerospace industry, business, and education. Sir Peter Beck, welcome to the program.
 

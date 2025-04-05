@@ -15,6 +15,8 @@ date: 2019-12-12
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **Reporter:** Wall Street's top space analyst Morgan Stanley's Adam Jonas telling us yesterday that markets underestimate national security interest in space technology. And just today, Rocket Lab, which competes with SpaceX and Blue Origin for a slice of the space business—although in a very different part of the space business—unveiled its first launch site in the US. I had a chance to speak exclusively with CEO Peter Beck earlier. Take a listen.
 
 ### Launch Achievements and Recovery System

@@ -15,6 +15,8 @@ date: 2021-12-19
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **John Galloway (Dos):** [Music plays] All right folks, you know the drill, it's time for another exciting episode of NSF Live, our weekly show where we talk about what's going on with space. This is one of our special shows because we've got a special guest - you can see him, no spoilers or anything, it was in the stream title. You know that today we're going to be talking with Mr. Peter Beck, the champion of carbon composites, the rocket launching wonder from pretty close to down under, the hat connoisseur of the space flight industry. Peter Beck, thank you so much for joining us today. How are you doing?
 
 **Peter Beck:** Yeah, good thanks. Thanks very much, but I have to call you out on your intro. There's every rocket except an Electron!

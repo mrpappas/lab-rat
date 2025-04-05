@@ -15,6 +15,8 @@ date: 2019-09-26
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **Moderator:** Well thank you all for joining me here today. There's quite a lineup we've got here. Right off the bat though, I feel like I should - we should clarify something. People talk about the sort of "new space" industry, then you guys are all in it, but you all do very different things. You've got satellite components, high launch cadence rockets, and orbital imagery and analysis. What do these things have in common that makes them part of this "new space" industry as opposed to what we might have had 10 years ago, 20 years ago? Feel free to anybody jump on that grenade.
 
 ### The Space Revolution

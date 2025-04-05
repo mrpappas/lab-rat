@@ -15,6 +15,8 @@ date: 2018-07-19
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **Peter Beck:** I think I'm the only non-billionaire that's doing this. I mean you've got Jeff [Bezos], [Richard] Branson, you got Elon [Musk], and then me. I mean, how is it that a guy from the bottom of New Zealand that was once coined by Mick Jagger as the "bumhole of the planet" can launch stuff into orbit? How crazy is that?
 
 **Interviewer:** Peter Beck really likes rockets.

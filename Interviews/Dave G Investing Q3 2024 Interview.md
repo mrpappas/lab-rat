@@ -17,7 +17,7 @@ date: 2024-11-29
 
 ## 🎙️ Transcript
 
-### Introduction
+>[!hint] Transcript may contain errors or inaccuracies.
 
 **Dave:** Hi everyone, this is Dave. Today I am extremely excited to bring you an interview I did with Rocket Lab's CEO Peter Beck and CFO Adam Spice, as well as three other YouTubers were participating. You probably know them: Vince, Matt Money, and Scott. So if you're not familiar with those three channels, I highly recommend that you check them out as well.
 

@@ -17,6 +17,8 @@ date: 2021-09-07
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **Interviewer (Simon Erickson):** Hello everyone and welcome to today's episode of our Seven Investing program. I'm Seven Investing founder and CEO Simon Erickson, joined by my colleague Steve Symington. We're excited to welcome several executives from Rocket Lab to our show today: CEO and Founder Peter Beck and Chief Financial Officer Adam Spice. 
 
 *Note: Rocket Lab is now a publicly traded company with the ticker RKLB.*

@@ -15,6 +15,8 @@ date: 2018-11-02
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **Tim Dodd:** Well with just three days notice I came out here to New Zealand to see a rocket factory and they got me when they said that there's someone I could talk to that would answer all my questions about rockets. Wonder who that would be?
 
 **Peter Beck:** This is the CEO and founder of Rocket Lab. Rumor has it I can ask you any question.

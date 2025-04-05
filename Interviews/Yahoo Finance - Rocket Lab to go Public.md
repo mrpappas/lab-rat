@@ -15,6 +15,8 @@ date: 2021-03-01
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **Host:** Well, SPACs once again are hitting the space industry with Rocket Lab, a rocket company, announcing a deal here and merging with Vector Acquisition, a SPAC focused on that endeavor, in a deal that values Rocket Lab at $4.1 billion dollars in terms of an enterprise valuation and gives a total cash balance now of $750 million dollars once that deal goes through. Importantly, the company has been expanding in both launches on behalf of the government as well as national security payloads.
 
 For more on where this company goes from here as the space race continually heats up, getting very intense right now, joining us is the CEO and founder of Rocket Lab, Peter Beck. Thanks again for taking the time to chat here.

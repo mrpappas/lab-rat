@@ -15,6 +15,8 @@ date: 2021-12-01
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **Interviewer:** As you heard Ed mentioned there, the stock's been doing fairly well. Rocket Lab is rivaling Elon Musk and SpaceX in the business that you're in. Is there enough demand to really be a significant competitor to SpaceX?
 
 **Peter Beck:** Yeah, look, I mean the space industry is growing, and there's no doubt that if you look at the satellites and the programs that are scheduled to occur over the next decade, space is going to become a one or a two trillion dollar industry, depending on whose numbers you wish to believe. 

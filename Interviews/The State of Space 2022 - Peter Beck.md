@@ -15,6 +15,8 @@ date: 2022-02-15
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **Steve Eisenhart:** Well hello, I'm Steve Eisenhart from the Space Foundation, and we're joined for this next segment in the State of Space 2022 by Peter Beck, the founder and CEO of Rocket Lab.
 
 Peter, if you'd like to start by telling just a little bit about the company—you've had some great runs over the last several months—and then from there, we'll roll right into from your perspective, how do you see the state of space in 2022?

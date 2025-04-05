@@ -15,6 +15,8 @@ date: 2021-08-07
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **Tasman Powers (Deputy Manager, Fusion Forum):** Hi everyone, we're just going to give it one more minute and then we'll get started. All right everyone, welcome back! I hope you enjoyed the kickoff of the breakout sessions. I know that I did.
 
 I just want to very briefly introduce myself. My name is Tasman Powers, I'm the deputy manager for the Fusion Forum this year. A couple of very brief housekeeping notes: as Kristen said at the very start, we're going to be doing a raising of hands if you have questions following the keynote presentation. Those do appear to occur in order along the side here, so I will call on each of you if you have a question, and hopefully that's the order in which you asked it. If you also have a particular question you want to put in the chat at some point, I'll get to those as well provided we have time.

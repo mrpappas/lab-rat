@@ -15,7 +15,7 @@ date: 2024-08-21
 
 ## 🎙️ Transcript
 
-### Introduction
+>[!hint] Transcript may contain errors or inaccuracies.
 
 **Leighton Roberts:** Hi there, welcome to Shares Lunch. My name is Leighton Roberts, I'm the co-founder and co-COO at Sharesies. We've got a really exciting episode for you today because I'm on site in Auckland at Rocket Lab with Sir Peter Beck. But as always, before we get started, here's some important information:
 

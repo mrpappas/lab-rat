@@ -15,6 +15,8 @@ date: 2022-08-08
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 Hi everybody. Firstly, my sincere apologies for not being there in person. I got as far as the airport lounge and it looks like I caught some kind of food poisoning. As I was standing there at the gate about to climb on an aircraft, profusely sweating and shaking and a tummy tied in knots, I decided that was going to go one of two ways—either very well or very badly—and I thought the better of climbing on the aircraft. For all people involved, I'm confident that was the right decision.
 
 So I'm incredibly sorry that I can't be there in person and we have to make do with this today, but I also want to thank all the organizers at SmallSat. It's a great honor to do the keynote, and thank you for being able to find a way that I can still do it from the other side of the planet.

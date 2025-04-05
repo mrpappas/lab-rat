@@ -15,6 +15,7 @@ date: 2020-11-17
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
 
 **Interviewer:** What sparked your interest in rockets and space?
 

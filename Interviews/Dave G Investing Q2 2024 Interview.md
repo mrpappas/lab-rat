@@ -17,7 +17,7 @@ date: 2024-08-13
 
 ## 🎙️ Transcript
 
-### Introduction
+>[!hint] Transcript may contain errors or inaccuracies.
 
 **Dave:** Hey everybody, it's Dave. If you're new here, welcome. If you're not, thank you for continuing to watch. Today I'm excited to bring you the full interview that me and three fellow YouTubers had with Rocket Lab CEO Sir Peter Beck and CFO Adam Spice. The two of them were generous enough to take 45 minutes out of their busy schedule to talk with us about Rocket Lab and the space industry. Not many companies engage on this level with their retail shareholders, so it's very much appreciated.
 

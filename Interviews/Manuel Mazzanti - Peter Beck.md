@@ -15,7 +15,7 @@ date: 2022-07-23
 
 ## 🎙️ Transcript
 
-### Capstone Mission and Lunar Photon
+>[!hint] Transcript may contain errors or inaccuracies.
 
 **Interviewer:** How are you Peter?
 

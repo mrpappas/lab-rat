@@ -15,7 +15,7 @@ date: 2024-09-22
 
 ## 🎙️ Transcript
 
-### Introduction
+>[!hint] Transcript may contain errors or inaccuracies.
 
 **Host (Matthew Williams):** Welcome to the intersection of Technology, cyber security and Society. Welcome to ITSP Magazine. You're listening to a new episode of Stories from Space podcast where your host Matthew Williams examines the history of human space flight, the breakthroughs that revolutionized our understanding of the universe and our place in it, and the brave individuals who work tirelessly to advance the frontiers of our understanding. Knowledge is power now more than ever.
 

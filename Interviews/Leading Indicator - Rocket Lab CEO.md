@@ -15,6 +15,8 @@ date: 2025-01-21
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **Interviewer:** Hey everyone, joining me today for a really exciting interview I cannot wait to talk to this guy is Sir Peter Beck. Peter is the founder and CEO of Rocket Lab. Peter, it is really great to have you. Congrats on all the success and thanks for taking the time today.
 
 **Peter Beck:** Oh, my pleasure.

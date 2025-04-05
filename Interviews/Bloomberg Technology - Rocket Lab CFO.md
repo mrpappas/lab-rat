@@ -15,7 +15,7 @@ date: 2024-10-11
 
 ## 🎙️ Transcript
 
-### Rocket Lab Overview
+>[!hint] Transcript may contain errors or inaccuracies.
 
 **Interviewer:** Let's start with the basics for the audience that might just be tuning in for the first time wondering where we are. Rocket Lab is an end-to-end space provider, space launch services systems provider. Bring us up to speed on what that means.
 

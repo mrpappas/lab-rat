@@ -15,6 +15,8 @@ date: 2021-12-21
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **Scott Manley:** Hello, Scott Manley here, and I'm with Peter Beck of Rocket Lab and we're here to talk about Neutron and everything else Rocket Lab is up to. Right, how are you Peter?
 
 **Peter Beck:** Oh very well, thanks Scott. It's great to check in.

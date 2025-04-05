@@ -15,6 +15,8 @@ date: 2022-02-23
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **Interviewer:** Okay, Peter Beck, the founder and CEO of Rocket Lab, is joining us for an interview. Big news today is the announcement that Rocket Lab will be launching its first mission from a new launch site, a new launch pad in New Zealand at the beginning of next week. So Peter, first of all, can you talk to us about why this new launch pad was necessary, why you decided to build it?
 
 **Peter Beck:** Yeah, so launch complex one down in the Mahia Peninsula is the world's first and only operational private orbital launch site. We built what we call Pad A down there quite some years ago, and it's seen over 100 satellites launched out of it. 

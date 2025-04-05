@@ -15,7 +15,7 @@ date: 2024-12-04
 
 ## 🎙️ Transcript
 
-### On Space Policy and the New Administration
+>[!hint] Transcript may contain errors or inaccuracies.
 
 **Interviewer (00:00):** Perhaps first I will start off on this news. And in a lot of ways it's unsurprising. It's sort of someone else, another individual who's close to Elon Musk is close to SpaceX. And we know that Elon has a critical role in this new administration for the president-elect. Do you think this impacts the sort of contours of space policy and investment and the landscape of competition for companies that are not SpaceX?
 

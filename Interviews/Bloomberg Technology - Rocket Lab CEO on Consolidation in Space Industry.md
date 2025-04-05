@@ -15,6 +15,8 @@ date: 2021-08-25
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **Host:** This morning, Rocket Lab is hot on the heels of SpaceX in the satellite market following the closure of its reverse merger with SPAC Vector Acquisition Corp. Joining us now is Peter Beck, Rocket Lab founder and CEO, along with Bloomberg's space expert for TV, Ed Ludlow. Hey Peter, congratulations! I know it’s wicked late where you are right now, so we really appreciate your time. What is the potential you see in the used satellite or used rocket market—which you once vowed never to enter?  
 
 **Peter Beck:** Yeah, well first off—we’re super excited to bring a really high-quality space asset to the markets. There have only been two private companies in the history of spaceflight that have delivered regular and reliable launch services: SpaceX and Rocket Lab. We're the second most frequently launched U.S. rocket today, with over 100 satellites delivered for both government and commercial customers. But we’re not stopping there. We have a new launch vehicle in development—the Neutron—which is even capable of carrying crew. People often forget we’re not just a launch company. We build satellites too. Right now, our team is flat-out building two satellites to go to Mars for NASA, one satellite to the Moon, and we already have two of our own satellites on orbit. What we’re trying to build is a generational leader in the space industry. It's exciting to finally bring this company to the public market so others can participate.

@@ -15,7 +15,7 @@ date: 2023-06-26
 
 ## 🎙️ Transcript
 
-### Introduction
+>[!hint] Transcript may contain errors or inaccuracies.
 
 **Christopher Lawson:** Welcome to Moonshot, the show exploring crazy ideas and the even crazier people who are making them happen. I'm Christopher Lawson, and previously on the show we met some startups building technology for the small satellite market. When we explored those businesses, one company kept popping up, and that was Rocket Lab, a company which has built a rocket launch facility on the east coast of New Zealand.
 

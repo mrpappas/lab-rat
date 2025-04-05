@@ -15,6 +15,8 @@ date: 2024-06-04
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **[0:00]**
 **Interviewer:** Well Adam, thanks for coming, thanks for having us. Appreciate it. Maybe we just sort of start off with the recent results Q1. I think you had very good strong year-over-year growth, steady gross margins, but maybe just sort of unpack the quarter. Obviously, you're absorbing a lot of costs for the Neutron rocket, but maybe just provide some of the highlights for the quarter if you don't mind?
 

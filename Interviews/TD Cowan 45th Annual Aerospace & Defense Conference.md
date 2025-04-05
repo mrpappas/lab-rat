@@ -15,6 +15,8 @@ date: 2024-02-14
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 [0:00] **Moderator:** Okay, we're on up on the start time and we are delighted to have with us Rocket Lab and Rocket Lab CFO to my right, Adam Spice, and Colin Kwell, the head of IR. Colin's going to read a little interesting statement to start us off.
 
 [0:15] **Colin Kwell:** That's right. So today's discussion may contain forward-looking statements. All statements are based on Rocket Lab's current expectations and beliefs and may involve risks and uncertainties which are beyond Rocket Lab's control. Actual results may differ from those expressed by today's statements. Factors could cause actual future events to differ materially from the forward-looking statements in today's presentation.

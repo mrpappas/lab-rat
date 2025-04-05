@@ -15,7 +15,7 @@ date: 2024-04-18
 
 ## 🎙️ Transcript
 
-### Introduction and What Rocket Lab Does
+>[!hint] Transcript may contain errors or inaccuracies.
 
 **Hayden Cox:** Welcome Peter, it's great to have you on the show. How are things?
 

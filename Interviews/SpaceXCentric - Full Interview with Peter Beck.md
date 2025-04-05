@@ -15,6 +15,8 @@ date: 2020-06-10
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **Interviewer:** Last year SpaceX announced that they were going to enter the small-sat rideshare program. The first thing I thought of when I heard that was "that's Rocket Lab territory." I wonder what Peter Beck thinks about this.
 
 **Peter Beck:** Competition is always a good thing. Although it's kind of a slightly adjacent market because the customers we fly are dedicated launch vehicles, not in the rideshare market. We don't really feel too much of an effect from there because the kind of customer that comes to Rocket Lab is the kind of customer that needs a dedicated launch. They need all the things that dedicated launches offer them.

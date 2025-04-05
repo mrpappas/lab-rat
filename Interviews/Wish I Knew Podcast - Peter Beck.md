@@ -17,7 +17,7 @@ date: 2023-06-15
 
 ## 🎙️ Transcript
 
-### Introduction
+>[!hint] Transcript may contain errors or inaccuracies.
 
 **David Cowan:** So at the end of the day, the thing that motivates me the most is having impact. But the thing with space is the impact doesn't come easy. You've got to push hard. So a fear of failing and the drive of the impact you can have is pretty intoxicating. 
 

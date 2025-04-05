@@ -16,6 +16,7 @@ date: 2022-05-01
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
 
 **Narrator**: When we set out to democratize access to space, we started with launch. We wanted to make it easy for small satellites to get to orbit faster and more frequently, and to do it on their terms. So we built a rocket unlike any other - one that could be built and launched in days, not months or years. A rocket that could be recovered and then launched again. A rocket that puts small satellites in control of their own mission.
 

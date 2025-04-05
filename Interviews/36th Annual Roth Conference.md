@@ -19,6 +19,8 @@ Source: [Vince is Bullish Youtube](https://www.youtube.com/watch?v=qHHv7QPe5Fg)
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 [0:00] **Host (Narrator):** Hello guys and welcome back to take two of this video. The first version, I don't know what happened, it wasn't starting. So let's try this again. In this video, Adam Spice spoke at the 36th annual Roth conference. He spoke to investors and said some very good things. He disclosed that there might be a Neutron delay - you can make your mind up about it based on what he says. He disclosed about the future of Neutron's sellability and what the demand is in the market - very interesting data that I have never heard before. He discloses data about future acquisitions, why they got in this $300 million in convertibles, and most importantly, he gives some very interesting clues about the space assets that they are building.
 
 ### Conference Q&A Session

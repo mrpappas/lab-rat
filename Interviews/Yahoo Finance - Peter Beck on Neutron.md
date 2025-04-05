@@ -15,6 +15,8 @@ date: 2021-12-02
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **Interviewer:** The next frontier is here. Rocket Lab showed us today what they are building. It is the Neutron rocket. It is a larger rocket than the one they already are using to put satellites into orbit, powered by a phenomenal new engine, the Archimedes engine. But what some of us thought would be really cool is the composite material—and not metal—that is the skin of this beast of a vehicle. 
 
 Let's talk about where this is all headed with Peter Beck, Rocket Lab CEO. I have to say, the video in which you explain to us what is being built by Rocket Lab... we tend to focus on other rocket companies, and yet here you are, very quietly building the future. And that composite material is remarkable. Tell us how that makes what you're doing more efficient and gonna put you perhaps ahead of the competition.

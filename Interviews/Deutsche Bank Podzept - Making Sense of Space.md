@@ -15,6 +15,8 @@ date: 2024-09-23
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **Edison Yu (Deutsche Bank):** [0:17] Greetings everyone, welcome to Podzept. My name is Edison Yu and I lead the space and satellite research here at Deutsche Bank. As part of our "Making Sense of Space" series, we welcome Adam Spice, CFO at Rocket Lab. Thank you for joining us, Adam.
 
 **Adam Spice (Rocket Lab):** Thanks for having me.

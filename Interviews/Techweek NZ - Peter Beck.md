@@ -15,6 +15,8 @@ date: 2018-08-15
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **Peter Beck:** It's a great privilege to be able to be speaking here today. Firstly, what I want to do is give a little bit of a description of what this rocket business is all about.
 
 The first picture you see there is a spacecraft that was built in 1990. We can tell it's 1990 because of the trendy powder blue smocks everybody's wearing. But this was a spacecraft that was built in 1990 that would be considered your medium to large-sized spacecraft.

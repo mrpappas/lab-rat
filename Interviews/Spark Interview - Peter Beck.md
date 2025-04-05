@@ -15,6 +15,8 @@ date: 2012-05-06
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **Interviewer:** Could you just tell us a little bit about your background and how you became interested in rockets?
 
 **Peter Beck:** I've always been an engineer, right from a very early age, and grew up in an engineering environment with the rest of my family. So engineering was always just part of the backdrop. I guess that's where it all started.

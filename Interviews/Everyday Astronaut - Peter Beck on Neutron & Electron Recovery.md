@@ -15,6 +15,8 @@ date: 2021-04-15
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **Tim Dodd:** Hi, it's me, Tim Dodd, the Everyday Astronaut. I just finished up a conversation with Rocket Lab's founder, CEO, and CTO, Peter Beck. It's an awesome conversation, so here you go. Peter, how's it going?
 
 **Peter Beck:** Good thanks, Tim.

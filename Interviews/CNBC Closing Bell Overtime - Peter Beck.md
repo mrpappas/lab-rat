@@ -15,7 +15,7 @@ date: 2024-11-14
 
 ## 🎙️ Transcript
 
-### Company Performance and Growth
+>[!hint] Transcript may contain errors or inaccuracies.
 
 **Morgan:** Joining me now, Peter Beck, CEO and founder of Rocket Lab. Peter, it's great to speak with you today. You just put out quarterly earnings, better than expectations. You also raised fourth quarter guidance. You continue to do more Electron launches, and Space Systems continues to grow strongly. Walk me through what you're seeing across your businesses right now and what's propelling the momentum.
 

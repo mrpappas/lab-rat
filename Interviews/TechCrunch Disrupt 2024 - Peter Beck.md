@@ -16,7 +16,7 @@ date: 2024-10-28
 
 ## 🎙️ Transcript
 
-### First Trip Up and Down
+>[!hint] Transcript may contain errors or inaccuracies.
 
 **Devin Coldewey:** Thank you. No need now, my microphone is on. All right, thank you for joining us, Peter. As usual, we've talked so many times over the years, it's always a pleasure. Can I just, before we really get started though—I think for anybody who is worried about this—what's the over/under on a Neutron launch this year?
 

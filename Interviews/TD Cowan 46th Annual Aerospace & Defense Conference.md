@@ -15,6 +15,8 @@ date: 2025-02-12
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **Moderator:** Good morning, thanks everyone for attending here. This is the morning session at the TD Cowan conference, and we're very excited to welcome Rocket Lab CFO Adam Spice.
 
 **Adam Spice:** Thanks for having me.

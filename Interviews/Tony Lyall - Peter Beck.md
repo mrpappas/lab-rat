@@ -15,6 +15,8 @@ date: 2021-07-05
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **Narrator:** Kiwi ingenuity is shooting for the moon—literally. The project was granted exclusive, never-before-granted access to Rocket Lab's top secret rocket testing site. It was such a journalistic moment; naturally, we sent a comedian.
 
 **Comedian:** This is why I'm here. In a moment, they're going to light this up over 3000 degrees. It's a rare opportunity. There are only two private companies in the world shooting for the heavens, one of them is here. Rocket Lab has aspirations to go to the moon, so we're here to meet the head honcho before it all takes off. That's a pun.

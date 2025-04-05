@@ -17,7 +17,7 @@ date: 2024-05-08
 
 ## 🎙️ Transcript
 
-### Introduction
+>[!hint] Transcript may contain errors or inaccuracies.
 
 **Dave:** Hello everybody, thank you so much for tuning in today. I am incredibly excited to share with you an interview I had with Rocket Lab's CEO Peter Beck and CFO Adam Spice. Before I dive into that, I just wanted to thank all you guys for watching over the past couple years because without you there's definitely no way this conversation would have happened.
 

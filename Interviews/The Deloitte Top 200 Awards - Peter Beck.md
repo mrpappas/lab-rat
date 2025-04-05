@@ -15,7 +15,8 @@ date: 2022-03-06
 
 ## 🎙️ Transcript
 
->[!tip] Interview starts ~3:54
+>[!hint] Transcript may contain errors or inaccuracies.
+
 
 **Interviewer:** So congratulations to our visionary leader. We're very fortunate to have Peter with us right now joining us. So Peter, tēnā koe, thank you, congratulations, and can you tell us about your passion and how you made it into this incredible business?
 

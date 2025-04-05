@@ -20,6 +20,8 @@ date: 2025-02-07
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 ### Casey Dreier
 Hello and welcome to the Space Policy Edition of Planetary Radio. I'm Casey Dreier, Chief of Space Policy here at The Planetary Society, welcoming you to yet another month to talk about the, at this time, uninteresting and sedate area of space policy and politics, particularly that affecting NASA. 
 

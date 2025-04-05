@@ -15,7 +15,7 @@ date: 2023-11-12
 
 ## 🎙️ Transcript
 
-### Introduction
+>[!hint] Transcript may contain errors or inaccuracies.
 
 **Jack Beyer (NSF):** Welcome to another NASA Space Flight live. This is a special edition because we have a special guest. I'm Jack Beyer for NSF, and we are joined today by CEO of Rocket Lab, Mr. Peter Beck. Peter, thank you so much for joining us for a very special episode of NSF live.
 

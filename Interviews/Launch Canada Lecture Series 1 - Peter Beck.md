@@ -15,6 +15,7 @@ date: 2020-05-19
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
 
 **Adam Trumper:** For anyone who doesn't know me, my name's Adam Trumper and I'd like to welcome everybody to this kickoff for our Launch Canada lecture series. With the pretty massive surge of interest in rocketry here in Canada, Launch Canada is all about helping students harness that enthusiasm and really run with it as far as they can go.
 

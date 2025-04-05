@@ -15,6 +15,8 @@ date: 2025-03-28
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **News Anchor:** TikTok headlines as we do approach that deadline next week. Meantime shares of Rocket Lab bucking the downtrend today finishing up 1% up 350% over the past 12 months. Now this after the US Space Force tapped the company to join the National Security Space Launch Program, part of NSSL phase three Lane one category. 
 
 What this means? Well, Rocket Lab, as well as startup Stokes Space, are allowed to compete for launch contracts worth billions of dollars over the next four years. Launch one Programs as a whole are appropriated $5.6 billion, and Rocket Lab's CEO and founder, Sir Peter Beck, tells me that this award is, quote, "actually really significant."

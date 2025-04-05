@@ -15,7 +15,7 @@ date: 2022-07-24
 
 ## 🎙️ Transcript
 
-### Introduction
+>[!hint] Transcript may contain errors or inaccuracies.
 
 **Host (Z):** Welcome everyone to a special edition of Space Talks with Z hosted by the America's Feature Series. We're recording this discussion with Peter Beck, CEO of Rocket Lab - rocket enthusiast turned CEO of an international rocket launch company. This is a special recording for the second day of the Space Innovation Summit. Thanks very much to Viasat and Millennium Space Systems for helping make these discussions possible. Without further ado, I would like to welcome and thank Mr. Peter Beck, CEO of Rocket Lab International, who's come up from working on machines all the way through being the CEO of a rocket startup. Welcome sir, and thank you for taking the time to speak with us.
 

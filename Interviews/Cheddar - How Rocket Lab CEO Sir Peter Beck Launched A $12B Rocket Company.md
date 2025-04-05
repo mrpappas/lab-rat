@@ -15,7 +15,7 @@ date: 2024-12-16
 
 ## 🎙️ Transcript
 
-### Introduction and Background
+>[!hint] Transcript may contain errors or inaccuracies.
 
 **Interviewer:** World's richest man, SpaceX founder Elon Musk has sucked up all the oxygen in this private space race, helping get Donald Trump reelected and now becoming Trump's de facto VP and BFF. But while the SpaceX owner has loudly commanded the headlines, a competitor is - as quietly as one possibly can - blasting off, successfully launching a suborbital mission in November to test hypersonic technology for the Department of Defense. Sir Peter Beck is the founder and CEO of aerospace company Rocket Lab, and he joins us now from Auckland, New Zealand. 
 

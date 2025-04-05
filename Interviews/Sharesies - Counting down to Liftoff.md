@@ -15,9 +15,7 @@ date: 2023-05-17
 
 ## 🎙️ Transcript
 
-# Shared Lunch Interview with Rocket Lab CEO Peter Beck
-
-### Introduction
+>[!hint] Transcript may contain errors or inaccuracies.
 
 **Leighton Roberts:** Welcome to Shared Lunch brought to you by Sharesies with BusinessDesk. My name is Leighton Roberts and I'm one of the co-founders and co-CEOs at Sharesies. Before we get started, here's some important information: investing involves risk, you might lose the money you start with. We recommend talking to a licensed financial advisor. We also recommend reading product disclosure documents before deciding to invest. Everything you're about to see and hear is current at the time of recording.
 

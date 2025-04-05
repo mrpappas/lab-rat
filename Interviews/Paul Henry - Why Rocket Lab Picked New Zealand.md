@@ -15,6 +15,8 @@ date: 2015-07-01
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **Interviewer:** The company Rocket Lab is looking to build the country's first launch facility in Canterbury. This is brilliant! It has identified a remote paddock near Birdling's Flat as its preferred launch site for a rocket that can carry a satellite into orbit. With me now is Rocket Lab founder and CEO Peter Beck. Peter, good morning to you.
 
 **Peter Beck:** Morning Paul.

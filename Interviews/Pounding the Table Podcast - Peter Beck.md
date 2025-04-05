@@ -15,7 +15,7 @@ date: 2023-12-28
 
 ## 🎙️ Transcript
 
-### Introduction and Background
+>[!hint] Transcript may contain errors or inaccuracies.
 
 **Host:** Ladies and gentlemen, welcome back to Pounding the Table. We have the special opportunity today. We have Peter Beck from Rocket Lab, so we are very excited to dive in. You guys obviously have a lot going on, but for those who don't know, could you just give a very high level of your background and what Rocket Lab does for the retail investors of the world?
 

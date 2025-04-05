@@ -15,6 +15,8 @@ date: 2019-11-25
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **Chuck Field (Host):** Hello, thanks for joining us today for Your Space Journey. We have an exciting episode today. We'll be speaking with Peter Beck, the founder and chief executive of Rocket Lab. But before we speak with Peter, we want to do our special segment about Your Space Journey. This is where we share segments from our audience where they describe what drew them to the passion for space and what they're most excited about for the future of space exploration. It's my privilege to introduce my friend Philip Shane from "What The If." I was fortunate to meet Philip earlier this year at a NASA social. Here's him telling his story for what drew him into space.
 
 ### Audience Space Journey Segment

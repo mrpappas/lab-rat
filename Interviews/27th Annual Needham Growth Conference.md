@@ -15,6 +15,8 @@ date: 2025-01-14
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **Ryan Coun (Needham):** [0:01] Great, welcome to the 27th annual Needham Growth Conference. I'm Ryan Coun. My team covers the space and communication sectors here at Needham. Really excited to have Rocket Lab here presenting to us today. Our CFO is Adam Spice. Welcome Adam, how are you?
 
 **Adam Spice (Rocket Lab):** [0:36] Thanks, yeah it's working. Thanks for having me. Feel like a little bit of a Willy Wonka making my way up here with the cane and stuff, but I apologize - had some Achilles surgery a few weeks ago, so still trying to bounce back from that. But excited to have a chance to speak with everybody today about Rocket Lab and what we're doing.

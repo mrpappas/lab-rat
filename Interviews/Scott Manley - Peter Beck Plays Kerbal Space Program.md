@@ -15,6 +15,8 @@ date: 2020-12-18
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **Scott Manley:** Hello, it's Scott Manley here. Yesterday the developers of Kerbal Space Program released another free update which included the ability to do repairs and maintenance on your spacecraft in flight, but I actually want to focus on a couple of small new additions - new flags. And I want to talk to one of the people that made this possible.
 
 So today we have Peter Beck with us from Rocket Lab, and the reason is - obviously I've always wanted to talk to you because you're a very cool rocket person, but I asked you during a Q&A a few weeks ago, months ago, when can we have Rocket Lab logos in Kerbal Space Program? And you delivered!

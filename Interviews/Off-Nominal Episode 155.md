@@ -15,7 +15,7 @@ date: 2024-06-13
 
 ## 🎙️ Transcript
 
-### Introduction
+>[!hint] Transcript may contain errors or inaccuracies.
 
 **Anthony:** Hey Jake! Happy, uh, I was going to say happy Thursday, but we're splitting the date line today. I think it's Friday morning down there, right?
 

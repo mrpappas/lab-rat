@@ -15,6 +15,8 @@ date: 2018-06-18
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **Mike McRoberts:** Kia ora everyone and welcome to today's Dream Team session brought to you by the Sir Peter Blake Trust. My name is Mike McRoberts and these Dream Team sessions feature inspiring Kiwis who want to encourage Kiwi kids to follow their dreams. Thanks so much for joining us.
 
 These inspiring people follow in the footsteps of one of our greatest leaders, Sir Peter Blake, who led Team New Zealand to victory in the America's Cup for the first time in 1995. Sir Peter was also a leader for the environmental work he did, in particular encouraging people to care for our oceans.

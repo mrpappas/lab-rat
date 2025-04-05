@@ -28,9 +28,7 @@ date: 2025-02-10
 
 ## 🎙️ Transcript
 
-### Peter Beck
-
-[Music]
+>[!hint] Transcript may contain errors or inaccuracies.
 
 As I was thinking about this presentation and what I should put forward here, instead of the typical shameless company plug that I might normally do, I figured I’d do something a little bit different. This Christmas, I was reminded by my teenage children that, in fact, Dad is no longer cool—he’s just old. I don’t do TikToks, and I don’t even have Snapchat. But it did remind me that I’ve been in this business for over 20 years now, and maybe I should take a look back at some of the things that have happened.
 

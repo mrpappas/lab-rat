@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "38a53c95c667a17a",
+        "id": "613abef3febb0e7a",
         "type": "tabs",
         "children": [
           {
-            "id": "e2f1ef845dc0ab88",
+            "id": "a5e9b8d0e8a71983",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interviews/Citi 2025 Global Industrial Tech and Mobility Conference.md",
+                "file": "Interviews/Wish I Knew Podcast - Peter Beck.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Citi 2025 Global Industrial Tech and Mobility Conference"
+              "title": "Wish I Knew Podcast - Peter Beck"
             }
           }
         ]
@@ -194,34 +194,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e2f1ef845dc0ab88",
+  "active": "a5e9b8d0e8a71983",
   "lastOpenFiles": [
-    "Interviews.md",
-    "Interviews/Citi 2025 Global Industrial Tech and Mobility Conference.md",
-    "Interviews/Off-Nominal Episode 191.md",
-    "Interviews/B of A Securities Global Industrials Conference 2025 - Stephen Ananias.md",
-    "Interviews/TD Cowan 46th Annual Aerospace & Defense Conference.md",
-    "Interviews/27th Annual Needham Growth Conference.md",
+    "Interviews/Your Space Journey - Peter Beck.md",
+    "Interviews/Yahoo Finance - Rocket Lab to go Public.md",
+    "Interviews/Yahoo Finance - Peter Beck on Neutron.md",
+    "Interviews/Yahoo Finance - Multi Launch Deal with Kineis.md",
+    "Interviews/Yahoo Finance - 'An End-to-End Space Company'.md",
+    "Interviews/Wish I Knew Podcast - Peter Beck.md",
+    "Interviews/Visionweek NZ - Peter Beck.md",
+    "Interviews/Vince is Bullish Q1 Interview.md",
     "Interviews/UBS Global Industrials and Transportation Conference 2024.md",
-    "Interviews/Deutsche Bank Podzept - Making Sense of Space.md",
-    "Interviews/TD Cowan 45th Annual Aerospace & Defense Conference.md",
-    "Interviews/Morgan Stanley 12th Annual Laguna Conference.md",
-    "Interviews/Stifel 2024 Cross Sector Insight Conference.md",
-    "Interviews/B of A 31st Annual Transportation, Airlines and Industrials Conference.md",
-    "Interviews/36th Annual Roth Conference.md",
-    "Interviews/Rocket Lab - SDA Beta Award Update.md",
+    "Interviews/U.S. Chamber of Commerce Global Aerospace Summit.md",
+    "Interviews/Tony Lyall - Peter Beck.md",
     "Interviews/TMRO Space - The Electron Rocket.md",
-    "Interviews/Off-Nominal Episode 155.md",
-    "State Level Constellation Opportunities.md",
-    "Interviews/CNBC Squawk On The Street - Peter Beck on US Space Force.md",
-    "Interviews/Techweek NZ - Peter Beck.md",
-    "News/A New Frontier in Radios Rocket Lab Announces Expanded Radio Products for Reliable Command and Control.md",
-    "Home.md",
     "Interviews/TMRO Space - Peter Beck.md",
-    "Interviews/Everyday Astronaut - Peter Beck at Rocket Lab HQ.md",
-    "Subsidiaries.md",
-    "Space Systems.md",
-    "Launches.md",
+    "Interviews/The State of Space 2025 - Sir Peter Beck.md",
+    "Interviews/The State of Space 2022 - Peter Beck.md",
+    "Interviews/The Dom Harvey Podcast - Sir Peter Beck.md",
+    "Interviews/The Deloitte Top 200 Awards - Peter Beck.md",
+    "Interviews/TED - Peter Beck on Small Rockets.md",
+    "Interviews/Techweek NZ - Peter Beck.md",
+    "Interviews/TechCrunch Launching a New Space Economy.md",
+    "Interviews/TechCrunch Disrupt 2024 - Peter Beck.md",
+    "Interviews/TD Cowan 46th Annual Aerospace & Defense Conference.md",
+    "Interviews/TD Cowan 45th Annual Aerospace & Defense Conference.md",
+    "Interviews/Stories from Space Podcast.md",
+    "Interviews/Stifel 2024 Cross Sector Insight Conference.md",
+    "Interviews/Spark Speaker Video - Peter Beck.md",
     "Vault-Assets/Images/Pasted image 20250403032519.png",
     "Vault-Assets/Images/Pasted image 20250404013404.jpg",
     "Vault-Assets/Images/Pasted image 20250403195825.jpg",

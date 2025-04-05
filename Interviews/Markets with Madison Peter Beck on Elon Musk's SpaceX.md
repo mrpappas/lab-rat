@@ -15,7 +15,7 @@ date: 2023-05-18
 
 ## 🎙️ Transcript
 
-### Introduction
+>[!hint] Transcript may contain errors or inaccuracies.
 
 **Madison:** The Kiwi founder of Rocket Lab, Peter Beck, on going up against Elon Musk, including what he makes of the SpaceX rocket blowing up:
 

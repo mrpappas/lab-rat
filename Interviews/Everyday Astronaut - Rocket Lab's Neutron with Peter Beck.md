@@ -16,11 +16,7 @@ date: 2021-12-19
 
 ## 🎙️ Transcript
 
-# Rocket Lab Neutron Design: Interview with Peter Beck by Tim Dodd
-
-*A detailed conversation between Tim Dodd (Everyday Astronaut) and Rocket Lab CEO Peter Beck discussing the innovative design choices, engineering philosophy, and technical details of the upcoming Neutron rocket.*
-
-### Introduction
+>[!hint] Transcript may contain errors or inaccuracies.
 
 **Tim Dodd:** Hi, it's me, Tim Dodd, the Everyday Astronaut. Rocket Lab recently showed off plans for their next rocket Neutron. Neutron is a medium lift methalox-powered carbon composite rocket with a propulsively landing reusable first stage that features a super cool integrated payload fairing. Now their announcement video is amazing, but I still had a lot of nerdy questions that I couldn't wait to get the answers to. So join me as I chat with their founder, CEO and CTO, Peter Beck.
 

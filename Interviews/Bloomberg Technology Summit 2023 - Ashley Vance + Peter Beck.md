@@ -16,7 +16,7 @@ date: 2023-06-22
 
 ## 🎙️ Transcript
 
-### Introduction
+>[!hint] Transcript may contain errors or inaccuracies.
 
 **Moderator:** PLEASE WELCOME TO THE STAGE, ROCKET LAB CEO PETER BECK, WITH BLOOMBERG'S ASHLEE VANCE.
 

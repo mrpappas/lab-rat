@@ -15,6 +15,8 @@ date: 2012-05-06
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **CEO:** Firstly, thanks very much for the opportunity to talk to everybody here today. How many people know what Rocket Lab does? Anybody? A few? Okay.
 
 So basically, we're a company that builds rockets, unsurprisingly enough. But more focused, we're an ideas house, and we back it with in-house capability, credibility, and partnerships.

@@ -15,7 +15,7 @@ date: 2022-09-22
 
 ## 🎙️ Transcript
 
-### Introduction
+>[!hint] Transcript may contain errors or inaccuracies.
 
 **Interviewer:** Well, small launch leader Rocket Lab is set to begin construction on its engine test facility for its reusable Neutron rocket. That will take place at the Stennis Space Center in Mississippi. Local officials are hoping the facility will bolster the US's aerospace competitiveness. Here in studio, we've got Rocket Lab founder and CEO Peter Beck. Peter, great to talk to you on the back of what was a very eventful investor day.
 

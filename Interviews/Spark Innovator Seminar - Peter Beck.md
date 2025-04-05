@@ -15,6 +15,8 @@ date: 2015-09-15
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **Peter Beck:** I guess what's really important to me is that New Zealanders were instrumental in putting the first satellite into orbit. Not many people know that, but this guy here is Wernher von Braun, the famous rocket scientist. So he basically built the Saturn V and went to the moon. And this guy here is William Pickering, a guy from Nelson. That rocket they're holding is the Explorer One, the first US satellite to go into orbit. So Kiwis have their place in space and in innovation.
 
 ### Rocket Lab's Origins

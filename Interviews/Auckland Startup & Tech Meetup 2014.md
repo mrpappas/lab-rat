@@ -15,9 +15,7 @@ date: 2015-01-13
 
 ## 🎙️ Transcript
 
-# Peter Beck: Building a Billion-Dollar Space Company from New Zealand
-
-### Introduction
+>[!hint] Transcript may contain errors or inaccuracies.
 
 **Michelle:** Now I'd like to introduce our next speaker who I'm very excited about. You can all know that I'm like a space nut. Our next speaker is Peter Beck from Rocket Lab. He's CEO and technical director of Rocket Lab, which is New Zealand's rocket technology company which he founded back in 2006.
 

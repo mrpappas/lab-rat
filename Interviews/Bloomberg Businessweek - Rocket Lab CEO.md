@@ -13,7 +13,7 @@ date: 2024-08-02
 
 ## 🎙️ Transcript
 
-### Introduction
+>[!hint] Transcript may contain errors or inaccuracies.
 
 **Carol Massar:** Speaking of rockets, Peter Beck—you may remember just a couple of weeks ago, we spoke with our colleague Ashley Vance about the new HBO documentary "Wild Wild Space." The film based on Ashley's book "When the Heavens Went on Sale: The Misfits and Geniuses Racing to Put Space Within Reach." That film follows three space entrepreneurs, including Peter Beck, the founder, president, and CEO of Rocket Lab, a publicly traded company that manufactures and launches rockets, including one scheduled to launch tomorrow carrying a satellite for a Japanese Earth observation company.
 

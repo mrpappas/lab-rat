@@ -15,6 +15,8 @@ date: 2021-01-23
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **Host:** Folks, you know the drill here. Let me know if you can hear me and let me know if you can see us. You're part of our remote production team here for NSF Live. We've got a very special show for you today. For the first time, a very special guest on the show, so I want to see some five by fives and welcomes in chat. We are going to be talking today with somebody you've probably seen before, Peter Beck of Rocket Lab. Peter, thank you so much for joining us here at NSF Live.
 
 **Peter Beck:** Oh, my pleasure.

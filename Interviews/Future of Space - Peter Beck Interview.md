@@ -15,6 +15,8 @@ date: 2022-07-19
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **Daniel Fox:** Hello everyone and welcome to The Future Space. I'm your host Daniel Fox. Our guest today is Peter Beck. Peter is the founder and CEO of Rocket Lab. Peter, it is a pleasure to have you on The Future Space.
 
 **Peter Beck:** My pleasure to be here.

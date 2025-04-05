@@ -15,7 +15,7 @@ date: 2024-03-21
 
 ## 🎙️ Transcript
 
-### Introduction
+>[!hint] Transcript may contain errors or inaccuracies.
 
 **Simon Pound:** You're listening to Business is Boring, a podcast that reckons it's anything but. Business is Boring is made by The Spin-Off with help from Callaghan Innovation. Here's your host, Simon Pound.
 

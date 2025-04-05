@@ -15,6 +15,8 @@ date: 2021-05-12
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **Interviewer:** I'm really pleased today to have Peter Beck on the show. He is the CEO and founder of Rocket Lab. Thank you so much for joining us.
 
 **Peter Beck:** Oh my pleasure, Becky. Great to be here.

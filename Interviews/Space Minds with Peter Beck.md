@@ -20,6 +20,8 @@ date: 2025-01-23
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 David Ariosto – Sir Peter Beck, it’s good to see you again. Want to just sort of jump right into this you. You grew up in one of the southern most towns in the world, right on the southern tip of New Zealand, and I remember the last time that we spoke, you were telling me that one of your sort of earliest childhood memories was walking outside under the stars with your dad and wondering if someone else might be looking back at all of us. And I would just maybe that might be a good place for us to start. And how that, how all of that really played into the creation Rocket Lab, and your really your own personal journey.
 
 Peter Beck – You know, I think that’s, that’s like my overview effect moment, you know, as astronauts go up into orbit and they look back at Earth to have this overview effect where, you know, all of a sudden they become very passionate about space and, and I think that was, that was a moment for me, you know, that’s the earliest recollection I have of, of, well, actually, one of my earliest recollections, childhood Memories, actually, but, but certainly that was the point in time where I knew that I was going to have a career in space, no matter what

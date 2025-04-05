@@ -20,7 +20,7 @@ Date: February 2 2025
 
 ## 🎙️ Transcript
 
-### Introduction and Background
+>[!hint] Transcript may contain errors or inaccuracies.
 
 **Dom Harvey:** Today Sir Peter Beck, welcome to my podcast.
 

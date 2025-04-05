@@ -15,7 +15,7 @@ date: 2023-11-11
 
 ## 🎙️ Transcript
 
-### Introduction
+>[!hint] Transcript may contain errors or inaccuracies.
 
 **Rick Tumlinson:** Hey there spacers, welcome to another episode of the Space Revolution. My name is Rick Tumlinson, you're listening to iro space radio, we're part of the iHeart Radio network, and I am really excited today. I talk a lot about pioneering and opening up the frontier and the space revolution, and we have somebody here today who is like truly one of the heroes of the revolution. He would probably blush and shrug and say no I'm not, but he is.
 

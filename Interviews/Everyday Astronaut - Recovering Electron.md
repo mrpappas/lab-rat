@@ -15,6 +15,8 @@ date: 2019-12-19
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **Tim Dodd (The Everyday Astronaut):** Hi, it's me, Tim Dodd, The Everyday Astronaut. I am here at Rocket Lab's brand new launch facility in Wallops, Virginia. This is Mars Pad 0C, and this will allow Rocket Lab to launch their awesome little Electron rocket from the United States. You know, right now they only have Launch Complex One in New Zealand, this is Launch Complex Two, and I still have a lot of questions, especially, Rocket Lab is working on reusability for their awesome Electron rocket, so I wonder if there's anyone that could, you know, answer a few more questions about that whole thing. You mind if we talk up here... on your launchpad?
 
 **Peter Beck:** No!

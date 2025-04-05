@@ -15,7 +15,7 @@ date: 2024-06-23
 
 ## 🎙️ Transcript
 
-### 50 Launches Milestone
+>[!hint] Transcript may contain errors or inaccuracies.
 
 **Madison:** Sir Peter, thank you for having us in today. Always amazing to be here.
 

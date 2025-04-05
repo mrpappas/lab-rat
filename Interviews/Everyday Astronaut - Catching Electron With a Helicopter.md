@@ -15,6 +15,8 @@ date: 2020-04-11
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **Tim Dodd:** Hi, it's me Tim Dodd, the Everyday Astronaut. Rocket Lab, of course, that's one of my all-time favorite small rocket companies, is working on a lot of really exciting things right now. I just recently caught up with the CEO and founder Peter Beck. He's just back in December when they were opening up the new launch pad in Wallops, Virginia, but they're still working on a lot of really cool and exciting things between then and now, and they have a lot of cool things coming the rest of this year even though the world is kind of currently on pause.
 
 So I got a chance to catch up again with Peter Beck and ask him more about their crazy plans to catch a rocket with a helicopter. Now if you need to know more about this, how it's physically possible, or why it's never been done, I've already done a pretty in-depth video that you could watch before or after this interview. It's really fascinating stuff. Okay, on to the interview.

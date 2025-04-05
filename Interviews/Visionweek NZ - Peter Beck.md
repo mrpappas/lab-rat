@@ -15,6 +15,8 @@ date: 2020-06-11
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **Interviewer:** Peter, what is your vision for a post-COVID New Zealand?
 
 **Peter Beck:** Well, I think it's probably shared along with most New Zealanders - you know, a prosperous, high productivity, high wage, smart economy. I think if you can solve that, then everything else gets solved from top to bottom.

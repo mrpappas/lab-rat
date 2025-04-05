@@ -15,6 +15,8 @@ date: 2024-05-15
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 [1:23] **Moderator:** Thank you all for coming. We've got Rocket Lab here—Adam Spice, Chief Financial Officer, and Pete Camp, Financial Analyst. Thank you guys for coming. As far as I'm concerned, no offense to any other company, these guys do some of the coolest stuff that's going to happen and be spoken about at this conference. So anyway, without further ado, why don't we just—for the folks that aren't as familiar with Rocket Lab, Adam, if you could just kind of on a high level tell everybody what Rocket Lab is and does, that'd be great.
 
 **Adam Spice:** Sure. As you can tell by the name, Rocket Lab's got something to do with rockets, and that's how we started. Rocket Lab started off focused on a new class of vehicle called small dedicated launch vehicles. So we have a vehicle called Electron, and Electron has flown 47 times. We've got our 48th flight coming up in the next week or so, with a pretty busy manifest for 2024.

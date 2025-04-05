@@ -15,7 +15,7 @@ date: 2022-09-22
 
 ## 🎙️ Transcript
 
-### Space Systems and Apple-Globalstar Partnership
+>[!hint] Transcript may contain errors or inaccuracies.
 
 **Interviewer:** So great to have you here, thank you for having me. So you had your investor day yesterday, you offered quite a number of updates on everything that is afoot at Rocket Lab, but I do actually want to start with the Space Systems piece of the puzzle. Because even though Rocket Lab is not directly linked to the partnership between Apple and Globalstar for space-based connectivity, you are a key supplier. So how does that, I guess, move the needle in terms of the conversation around space-based internet service?
 

@@ -15,6 +15,8 @@ date: 2023-04-18
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 Interviewer 1: In the Space Race this week, the SpaceX Starship, the most powerful rocket ever built scrubbed its test launch yesterday but planning another attempt this week, meanwhile Rocket Lab adding Hypersonic Suborbital launches to its services, Morgan Brennan is in Colorado Springs for the Space Symposium where she is joined by Rocket Lab's CEO, Morgan.
 
 **Morgan**: John thank you, that's right I am joined by Peter Beck, founder and CEO of Rocket Lab here at one of the biggest space conferences of the year which really spans the gamut, everything from military space, to civil space, to commercial space, a lot of commercial space. 

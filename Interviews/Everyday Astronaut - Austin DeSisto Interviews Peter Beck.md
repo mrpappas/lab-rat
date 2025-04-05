@@ -15,7 +15,7 @@ date: 2022-12-17
 
 ## 🎙️ Transcript
 
-### Introduction
+>[!hint] Transcript may contain errors or inaccuracies.
 
 **Interviewer:** First of all, thank you very much for taking the time and having me here. It's been a great day, even though we've had some delays.
 

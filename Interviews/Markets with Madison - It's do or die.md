@@ -15,7 +15,7 @@ date: 2023-10-23
 
 ## 🎙️ Transcript
 
-### Introduction
+>[!hint] Transcript may contain errors or inaccuracies.
 
 **Madison:** Rocket Lab is chasing more mass to orbit with its biggest mission yet. Peter Beck tells me what opportunities and challenges are still to come in the space economy.
 

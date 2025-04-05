@@ -15,6 +15,8 @@ date: 2024-08-25
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 ### What Made You Pick Space?
 
 **Sir Peter Beck:** The reason I like space is that you can have maximum impact on this planet for minimum resources and effort. Think about this: you can put a spacecraft in orbit—take an example of a weather spacecraft we put in orbit a few years ago—and that weather spacecraft can provide data, services, and knowledge to literally hundreds of millions of people every day, times the duration of the spacecraft's lifetime, which could be 10 years. So this crazy little box of electronics can have just a huge amount of impact to so many people.

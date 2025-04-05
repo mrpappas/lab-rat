@@ -15,6 +15,8 @@ date: 2021-09-11
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **Interviewer:** You heard Shauna talking about Rocket Lab not too long ago—those shares are up about 37% today. This is a company that you and I have only recently been able to start buying into, because they went public via SPAC not too long ago.  
 
 Let’s talk about some of the big things coming for Rocket Lab with Peter Beck. He is the CEO, and we welcome him back into the stream.  

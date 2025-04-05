@@ -21,6 +21,8 @@ date: 2022-09-22
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 Video Presentation
 Space is hard, or so you've been told. You see, doing things in space requires three things. It requires
 spacecraft, the hardware on orbit, and the software that powers it, delivering services from space,

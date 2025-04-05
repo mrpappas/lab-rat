@@ -15,6 +15,8 @@ date: 2020-05-14
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **Ashley Vance:** Hello, I'm Ashley Vance, a writer at Bloomberg Businessweek, and you are here to see a chat with Peter Beck, the CEO of Rocket Lab, who's kind enough to join us from New Zealand and obviously from the rocket factory that I've been to before. Thanks for joining us, Pete.
 
 **Peter Beck:** Thanks Ashley.

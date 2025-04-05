@@ -15,6 +15,8 @@ date: 2024-09-12
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **Christine Leog (Morgan Stanley):** [1:12] Good afternoon everyone and thank you for joining our 3:45 PM session with Rocket Lab. I'm Christine Leog, Morgan Stanley's Aerospace Defense analyst, and I'm excited to have Adam Spice, CFO of Rocket Lab with us today. Welcome Adam.
 
 **Adam Spice (Rocket Lab):** Thanks for having me.

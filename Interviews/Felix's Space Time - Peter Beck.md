@@ -15,6 +15,8 @@ date: 2022-02-04
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **Host:** Hello world fixes space time. In today's video, we have an interview with Peter Beck, the CEO of Rocket Lab. If you enjoyed today's video, don't forget to like and subscribe. I hope you enjoy.
 
 Thank you so, so much for coming on here for an interview. It's an honor to be able to talk to you. And for those who do not know you, could you tell everyone a bit about yourself?

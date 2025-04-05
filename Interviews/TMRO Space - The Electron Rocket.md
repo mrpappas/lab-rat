@@ -15,6 +15,8 @@ date: 2014-08-10
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **Benjamin:** Welcome back to Tomorrow. I'd like to thank all of the patrons of Tomorrow who have helped to make this specific episode of Tomorrow happen. These are the people who have contributed at least five dollars to this specific episode. Without you, we wouldn't be able to continue to do this week after week. A huge thank you to all of our patrons. You can learn more information on how to become a patron of Tomorrow at patreon.com/TMRO.
 
 We are a crowd-funded show, and every single dollar helps. All right, let's go ahead and get started with the second segment here. We actually have a live guest on this week. We're joined by Peter Beck, who is the CEO and founder of Rocket Labs USA. Peter, welcome to the show.

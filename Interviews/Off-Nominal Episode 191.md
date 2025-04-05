@@ -15,6 +15,8 @@ date: 2025-04-03
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **Jake:** Hello Jake. How's it going buddy?
 
 **Anthony:** Good man. Long time no talk. Yeah, I know. We did a secret one before this so we're tuned up.

@@ -15,7 +15,7 @@ date: 2022-09-14
 
 ## 🎙️ Transcript
 
-### Introduction
+>[!hint] Transcript may contain errors or inaccuracies.
 
 **Charlie Bolden:** Thanks very much. It's good to be here and good to be joining the U.S. Chamber for the first Global Aerospace Summit. My name is Charlie Bolden, for those of you who may not know me, and I'm here with Peter Beck, the CEO and Founder of Rocket Lab.
 

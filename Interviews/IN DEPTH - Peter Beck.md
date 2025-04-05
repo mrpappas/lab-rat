@@ -15,6 +15,8 @@ date: 2020-04-23
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **Felix:** My name is Felix and I am your host for today's episode of What About It, and today I have something really, really special. I have Peter back for an interview, and we're going to ask him some really interesting questions. So without further ado, here we go.
 
 Welcome to the What About It studio! Why don't you tell the audience who you are and what you do?

@@ -15,6 +15,8 @@ date: 2020-07-09
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **Annie Honma:** Good evening, welcome to this special live Q&A with Peter Beck, the CEO of Rocket Lab. My name is Annie Honma, and this evening I will be asking all of your questions to Peter, assisted by Megan and Reilly who are crewing our Mission Control. If you've got a question, type it in the chat and we will do our very best to get to it.
 
 This is the second live event put on as part of Aerospace Futures Online by the Australian Youth Aerospace Association. To learn more about the AYAA and Aerospace Features, head to ayaa.com.au, and while you're at it, subscribe to this YouTube channel to get access to all future online content.

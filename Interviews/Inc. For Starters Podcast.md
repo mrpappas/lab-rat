@@ -15,7 +15,7 @@ date: 2024-08-21
 
 ## 🎙️ Transcript
 
-### Introduction
+>[!hint] Transcript may contain errors or inaccuracies.
 
 **Alexa von Tobel:** Welcome to Inc's For Starters with Alexa von Tobel. I'm Alexa, a serial entrepreneur myself and founder and managing partner of Inspired Capital, a venture firm that backs fearless founders who are solving some of the biggest challenges facing humanity. Now in our sixth season, we sit down each week with one of the best founders on the planet to hear their story of guts, inspiration, and drive.
 

@@ -15,7 +15,7 @@ date: 2023-04-19
 
 ## 🎙️ Transcript
 
-### Introduction
+>[!hint] Transcript may contain errors or inaccuracies.
 
 **Moderator:** Hello everybody, welcome back to the last episode of Managing Cutoff. I'm doing live here at Space Museum. We got Off Nominal coming up next. I'm in the middle of a four-hour rock block, so I appreciate all of you hanging out.
 

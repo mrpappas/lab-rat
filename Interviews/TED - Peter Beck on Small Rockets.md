@@ -15,6 +15,7 @@ date: 2019-12-09
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
 
 **Speaker:** So what I'm going to talk about here is, this is a power station. So if you've ever wondered what a couple of million horsepower looked like, that's pretty much what it looks like. And for me, it's always been about the rocket. In fact so much so that when I was growing up, the school called in my parents to have a bit of a discussion, because they believed that my aspirations were unrealistic for what I wanted to do.
 

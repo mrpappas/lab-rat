@@ -18,6 +18,8 @@ date: 2022-11-03
 
 ### Introduction
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **Interviewer:** I guess this is the first time we've heard from your company at our conference. Heard from Musk a number of times and from some other people over the years, but this is the first we've heard from you. Now your company, though, of all the so-called "new space" companies, is really only two that have created an operational launch capability: SpaceX and Rocket Lab.
 
 So far, let's understand that you only have a small launcher, but you have a medium lift launcher that is getting ready to go on its first flight. But anyway, let's start at the beginning. You, unlike Musk or Bezos, were a working engineer and you managed to get investment to create your company. That is, you didn't use a few of your 100 billion dollars.

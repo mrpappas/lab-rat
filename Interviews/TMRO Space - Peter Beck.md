@@ -15,6 +15,8 @@ date: 2018-08-04
 
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **Host 1:** Mike, what are you excited about talking about today?
 
 **Mike:** I'm really excited that the Commercial Crew program is one step closer to opening up spaceflight for the rest of us.

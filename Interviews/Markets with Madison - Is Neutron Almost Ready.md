@@ -15,7 +15,7 @@ date: 2024-10-24
 
 ## 🎙️ Transcript
 
-### Introduction
+>[!hint] Transcript may contain errors or inaccuracies.
 
 **Madison:** Hi Madison, hi Aaron, welcome to Rocket Lab. I'm not going to touch any button, I promise. I'm too terrified to touch anything. This is insane, I want to hug it. I'm speechless. I don't know what to say. I'm standing on a rocket launching platform.
 

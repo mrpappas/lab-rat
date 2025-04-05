@@ -15,7 +15,7 @@ date: 2024-11-19
 
 ## 🎙️ Transcript
 
-### Introduction
+>[!hint] Transcript may contain errors or inaccuracies.
 
 **Mo Islam:** Hey everyone and welcome to another episode of Pathfinder by payload, leading digital media company in the space industry. I'm your host Mo Islam, and today we're joined by a very special guest, Peter Beck, the founder, CEO and CTO of Rocket Lab, a global leader in launch and Space Systems. Peter is joining us from a Rocket Lab test site in New Zealand, so we're hosting the interview on the field. Peter and I talk of the election, Neutron development, the future of Electron, human spaceflight, and much, much more—a very special one for you guys, so let's jump in.
 

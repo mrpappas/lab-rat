@@ -15,7 +15,7 @@ date: 2024-05-08
 
 ## 🎙️ Transcript
 
-### Introduction
+>[!hint] Transcript may contain errors or inaccuracies.
 
 **Vince:** Hello everybody, welcome to the channel on a very special episode. On this channel, we believe in investing and knowing what one invests into. This is done by continuously studying a company and by crowdsourcing research. We believe that if we do this, we can get an edge on Wall Street and have exceptional results. Whereas Wall Street only looks at Excel sheets and numbers only showing the past, we try to understand what the future can bring.
 

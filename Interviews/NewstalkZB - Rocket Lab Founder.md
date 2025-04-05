@@ -12,6 +12,8 @@ date: 2025-01-17
 <iframe title=""  src="https://www.iheart.com/podcast/75437914/episode/258470192/?embed=true&pname=newstalkzb_web&sc=podcast_episode_embed" allow="autoplay" frameborder="0"></iframe>
 ## 🎙️ Transcript
 
+>[!hint] Transcript may contain errors or inaccuracies.
+
 **Speaker 1 (00:09):** You're listening to a podcast from Newstalk ZEDB. Follow this and our wide range of podcasts now on iHeartRadio.
 
 **Speaker 2 (00:16):** Well, it's about time we heard from Rocket Lab, isn't it? The Auckland aerospace company that has had a big year last year. Only recently, the company broke through a glass ceiling by launching two rockets into space in a twenty four hour period from different hemispheres. It helped put us in the world stage, meaning the United States States now has another launch company that's capable of conducting launches in twenty four hours. And Rocket Labs CEO Peter Beck joins me, Now, good morning morning. So well, let's start off with the big stuff. I mean, it seems all big stuff. The launch of two rockets from different hemispheres in twenty four hours. How big was that for you you guys at rocket Lab.
