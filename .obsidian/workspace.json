@@ -4,36 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b4eadd42bc2c24d1",
+        "id": "38a53c95c667a17a",
         "type": "tabs",
         "children": [
           {
-            "id": "0c2d7e8dce7cd6d2",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Interviews.md",
-                "bFile": "Interviews.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Interviews"
-            }
-          },
-          {
-            "id": "5eb61ef7ff2ddcde",
+            "id": "e2f1ef845dc0ab88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interviews/TMRO Space - The Electron Rocket.md",
+                "file": "Interviews/Citi 2025 Global Industrial Tech and Mobility Conference.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "TMRO Space - The Electron Rocket"
+              "title": "Citi 2025 Global Industrial Tech and Mobility Conference"
             }
           }
         ]
@@ -93,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 329.5
   },
   "right": {
     "id": "d6554af7f7699467",
@@ -208,15 +194,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c2d7e8dce7cd6d2",
+  "active": "e2f1ef845dc0ab88",
   "lastOpenFiles": [
+    "Interviews.md",
+    "Interviews/Citi 2025 Global Industrial Tech and Mobility Conference.md",
     "Interviews/Off-Nominal Episode 191.md",
+    "Interviews/B of A Securities Global Industrials Conference 2025 - Stephen Ananias.md",
+    "Interviews/TD Cowan 46th Annual Aerospace & Defense Conference.md",
+    "Interviews/27th Annual Needham Growth Conference.md",
+    "Interviews/UBS Global Industrials and Transportation Conference 2024.md",
+    "Interviews/Deutsche Bank Podzept - Making Sense of Space.md",
+    "Interviews/TD Cowan 45th Annual Aerospace & Defense Conference.md",
+    "Interviews/Morgan Stanley 12th Annual Laguna Conference.md",
+    "Interviews/Stifel 2024 Cross Sector Insight Conference.md",
+    "Interviews/B of A 31st Annual Transportation, Airlines and Industrials Conference.md",
+    "Interviews/36th Annual Roth Conference.md",
+    "Interviews/Rocket Lab - SDA Beta Award Update.md",
+    "Interviews/TMRO Space - The Electron Rocket.md",
     "Interviews/Off-Nominal Episode 155.md",
     "State Level Constellation Opportunities.md",
-    "Interviews.md",
     "Interviews/CNBC Squawk On The Street - Peter Beck on US Space Force.md",
     "Interviews/Techweek NZ - Peter Beck.md",
-    "Interviews/TMRO Space - The Electron Rocket.md",
     "News/A New Frontier in Radios Rocket Lab Announces Expanded Radio Products for Reliable Command and Control.md",
     "Home.md",
     "Interviews/TMRO Space - Peter Beck.md",
@@ -224,18 +222,6 @@
     "Subsidiaries.md",
     "Space Systems.md",
     "Launches.md",
-    "People.md",
-    "Partners.md",
-    "News.md",
-    "To Do List.md",
-    "Earnings Calls.md",
-    "SEC Filings (All).md",
-    "SEC Filings (2025).md",
-    "Insider Sales.md",
-    "Acquisitions.md",
-    "Board of Directors.md",
-    "Space Systems/Radios/Frontier Radio.md",
-    "Space Systems/Spacecraft/Flatellite.md",
     "Vault-Assets/Images/Pasted image 20250403032519.png",
     "Vault-Assets/Images/Pasted image 20250404013404.jpg",
     "Vault-Assets/Images/Pasted image 20250403195825.jpg",

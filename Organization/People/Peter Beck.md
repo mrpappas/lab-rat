@@ -158,6 +158,7 @@ sort published desc
 | [[Interviews/TMRO Space - The Electron Rocket.md\|TMRO Space - The Electron Rocket]]                                                                                     | August 10, 2014    | TMRO Space                                        |
 | [[Interviews/Spark Speaker Video - Peter Beck.md\|Spark Speaker Video - Peter Beck]]                                                                                     | May 06, 2012       | Spark Speaker Video                               |
 | [[Interviews/Spark Interview - Peter Beck.md\|Spark Interview - Peter Beck]]                                                                                             | May 06, 2012       | Spark Interview                                   |
+| [[Interviews/Rocket Lab - SDA Beta Award Update.md\|Rocket Lab - SDA Beta Award Update]]                                                                                 | January 08, 2024   | Rocket Lab - SDA Beta Award Update                |
 
 %%DATAVIEW_PUBLISHER: end %%
 
