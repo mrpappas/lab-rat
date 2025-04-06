@@ -23,19 +23,21 @@ Richard holds a Masters degree in Space Systems Engineering and a Bachelors degr
 [Source](https://www.rocketlabusa.com/about/team/)
 
 
-## 💼 SEC Filings
+## 🎙️ Interviews
 %%DATAVIEW_PUBLISHER: start
 ```
-table Filing_Type as "Filing Type", Filing_Date as "Date"
-from "Filings"
-where Insider = [[Richard French]]
-sort Filing_Date desc
-
+table date as "Date", source as "Source"
+from "Interviews"
+where contains(insider, [[Richard French]])
+sort date desc
 ```
 %%
 
-| File | Filing Type | Date |
-| ---- | ----------- | ---- |
+| File                                                                                                           | Date               | Source                       |
+| -------------------------------------------------------------------------------------------------------------- | ------------------ | ---------------------------- |
+| [[Interviews/Off-Nominal Episode 191.md\|Off-Nominal Episode 191]]                                             | April 03, 2025     | Off-Nominal                  |
+| [[Interviews/Space Policy Edition - Planetary Radio.md\|Space Policy Edition - Planetary Radio]]               | February 07, 2025  | The Planetary Society        |
+| [[Interviews/Rocket Lab 2022 Investor Day & Neutron Update.md\|Rocket Lab 2022 Investor Day & Neutron Update]] | September 22, 2022 | Rocket Lab 2022 Investor Day |
 
 %%DATAVIEW_PUBLISHER: end %%
 

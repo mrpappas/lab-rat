@@ -14,9 +14,6 @@ tags:
 **Author:** [[Rocket Lab]]
 **Published:** 2025-03-11
 **Partner:** [[Mynaric]] 
-### Rocket Lab Announces Intention to Acquire Mynaric, Leading Laser Communications Provider, in Latest Strategic Step Toward Becoming an End-to-End Space Company
-
-03/11/2025
 
 
 *Rocket Lab recently executed a non-binding term sheet to acquire a controlling ownership stake in Mynaric subject to completing a previously announced restructuring plan and regulatory review process*

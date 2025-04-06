@@ -44,7 +44,11 @@ Launch Complex 2 supplements Rocket Lab’s existing site, Launch Complex 1 in N
 
 ## 📦 Payload
 
-[x3 Hawk Satellites](https://space.skyrocket.de/doc_sdat/hawk-2a.htm)
+x3 [[HawkEye 360#🛰️ Space Systems#Hawk Satellite|Hawk Satellites]]
+
+![[HawkEye 360#🛰️ Space Systems#Hawk Satellite|Hawk Satellites]]
+
+
 ## 📽️ Launch Video
 
 <div class="responsive-video">

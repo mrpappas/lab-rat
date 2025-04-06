@@ -62,29 +62,29 @@ sort Filing_Date desc
 table date as "Date", source as "Source"
 from "Interviews"
 where contains(insider, [[Adam Spice]])
-sort published desc
+sort date desc
 ```
 %%
 
 | File                                                                                                                                                             | Date               | Source                                                                 |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ---------------------------------------------------------------------- |
-| [[Interviews/Bloomberg Technology - Rocket Lab CFO.md\|Bloomberg Technology - Rocket Lab CFO]]                                                                   | October 11, 2024   | Bloomberg Technology                                                   |
-| [[Interviews/Dave G Investing Q1 2024 Interview.md\|Dave G Investing Q1 2024 Interview]]                                                                         | May 08, 2024       | Dave G Investing                                                       |
-| [[Interviews/Dave G Investing Q2 2024 Interview.md\|Dave G Investing Q2 2024 Interview]]                                                                         | August 13, 2024    | Dave G Investing                                                       |
+| [[Interviews/Citi 2025 Global Industrial Tech and Mobility Conference.md\|Citi 2025 Global Industrial Tech and Mobility Conference]]                             | February 17, 2025  | Citi 2025 Global Industrial Tech and Mobility Conference               |
+| [[Interviews/TD Cowan 46th Annual Aerospace & Defense Conference.md\|TD Cowan 46th Annual Aerospace & Defense Conference]]                                       | February 12, 2025  | TD Cowan 46th Annual Aerospace & Defense Conference                    |
+| [[Interviews/27th Annual Needham Growth Conference.md\|27th Annual Needham Growth Conference]]                                                                   | January 14, 2025   | 27th Annual Needham Growth Conference                                  |
+| [[Interviews/UBS Global Industrials and Transportation Conference 2024.md\|UBS Global Industrials and Transportation Conference 2024]]                           | December 05, 2024  | UBS Global Industrials and Transportation Conference 2025              |
 | [[Interviews/Dave G Investing Q3 2024 Interview.md\|Dave G Investing Q3 2024 Interview]]                                                                         | November 29, 2024  | Dave G Investing                                                       |
-| [[Interviews/Rocket Lab 2022 Investor Day & Neutron Update.md\|Rocket Lab 2022 Investor Day & Neutron Update]]                                                   | September 22, 2022 | Rocket Lab 2022 Investor Day                                           |
-| [[Interviews/7Investing - Peter Beck and Adam Spice.md\|7Investing - Peter Beck and Adam Spice]]                                                                 | September 07, 2021 | 7Investing Youtube                                                     |
-| [[Interviews/Rocket Lab - SDA Beta Award Update.md\|Rocket Lab - SDA Beta Award Update]]                                                                         | January 08, 2024   | Rocket Lab - SDA Beta Award Update                                     |
+| [[Interviews/Bloomberg Technology - Rocket Lab CFO.md\|Bloomberg Technology - Rocket Lab CFO]]                                                                   | October 11, 2024   | Bloomberg Technology                                                   |
+| [[Interviews/Deutsche Bank Podzept - Making Sense of Space.md\|Deutsche Bank Podzept - Making Sense of Space]]                                                   | September 23, 2024 | Deutche Bank Research                                                  |
+| [[Interviews/Morgan Stanley 12th Annual Laguna Conference.md\|Morgan Stanley 12th Annual Laguna Conference]]                                                     | September 12, 2024 | Morgan Stanley 12th Annual Laguna Conference                           |
+| [[Interviews/Dave G Investing Q2 2024 Interview.md\|Dave G Investing Q2 2024 Interview]]                                                                         | August 13, 2024    | Dave G Investing                                                       |
+| [[Interviews/Stifel 2024 Cross Sector Insight Conference.md\|Stifel 2024 Cross Sector Insight Conference]]                                                       | June 04, 2024      | Stifel 2024 Cross Sector Insight Conference                            |
+| [[Interviews/B of A 31st Annual Transportation, Airlines and Industrials Conference.md\|B of A 31st Annual Transportation, Airlines and Industrials Conference]] | May 15, 2024       | B of A 31st Annual Transportation, Airlines and Industrials Conference |
+| [[Interviews/Dave G Investing Q1 2024 Interview.md\|Dave G Investing Q1 2024 Interview]]                                                                         | May 08, 2024       | Dave G Investing                                                       |
 | [[Interviews/36th Annual Roth Conference.md\|36th Annual Roth Conference]]                                                                                       | March 19, 2024     | 36th Annual Roth Conference                                            |
 | [[Interviews/TD Cowan 45th Annual Aerospace & Defense Conference.md\|TD Cowan 45th Annual Aerospace & Defense Conference]]                                       | February 14, 2024  | TD Cowan 45th Annual Aerospace & Defense Conference                    |
-| [[Interviews/B of A 31st Annual Transportation, Airlines and Industrials Conference.md\|B of A 31st Annual Transportation, Airlines and Industrials Conference]] | May 15, 2024       | B of A 31st Annual Transportation, Airlines and Industrials Conference |
-| [[Interviews/Stifel 2024 Cross Sector Insight Conference.md\|Stifel 2024 Cross Sector Insight Conference]]                                                       | June 04, 2024      | Stifel 2024 Cross Sector Insight Conference                            |
-| [[Interviews/Morgan Stanley 12th Annual Laguna Conference.md\|Morgan Stanley 12th Annual Laguna Conference]]                                                     | September 12, 2024 | Morgan Stanley 12th Annual Laguna Conference                           |
-| [[Interviews/TD Cowan 46th Annual Aerospace & Defense Conference.md\|TD Cowan 46th Annual Aerospace & Defense Conference]]                                       | February 12, 2025  | TD Cowan 46th Annual Aerospace & Defense Conference                    |
-| [[Interviews/Deutsche Bank Podzept - Making Sense of Space.md\|Deutsche Bank Podzept - Making Sense of Space]]                                                   | September 23, 2024 | Deutche Bank Research                                                  |
-| [[Interviews/UBS Global Industrials and Transportation Conference 2024.md\|UBS Global Industrials and Transportation Conference 2024]]                           | December 05, 2024  | UBS Global Industrials and Transportation Conference 2025              |
-| [[Interviews/27th Annual Needham Growth Conference.md\|27th Annual Needham Growth Conference]]                                                                   | January 14, 2025   | 27th Annual Needham Growth Conference                                  |
-| [[Interviews/Citi 2025 Global Industrial Tech and Mobility Conference.md\|Citi 2025 Global Industrial Tech and Mobility Conference]]                             | February 17, 2025  | Citi 2025 Global Industrial Tech and Mobility Conference               |
+| [[Interviews/Rocket Lab - SDA Beta Award Update.md\|Rocket Lab - SDA Beta Award Update]]                                                                         | January 08, 2024   | Rocket Lab - SDA Beta Award Update                                     |
+| [[Interviews/Rocket Lab 2022 Investor Day & Neutron Update.md\|Rocket Lab 2022 Investor Day & Neutron Update]]                                                   | September 22, 2022 | Rocket Lab 2022 Investor Day                                           |
+| [[Interviews/7Investing - Peter Beck and Adam Spice.md\|7Investing - Peter Beck and Adam Spice]]                                                                 | September 07, 2021 | 7Investing Youtube                                                     |
 
 %%DATAVIEW_PUBLISHER: end %%
 

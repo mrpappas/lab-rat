@@ -12,16 +12,19 @@ HawkEye 360 is a geospatial analytics company that operates a constellation of s
 
 ## 🛰️ Space Systems
 
-## Hawk Satellite
+### Hawk Satellite
 
-HawkEye 360 is developing a space-based civil global intelligence network that will use radio frequency (RF) technology to help monitor transportation across air, land and sea and assist with emergencies, which is essentially a civil SIGINT (Signal Intelligence) mission.
+Each HawkEye microsatellite carries two instruments, a software defined radio (SDR) and an RF front-end module. SDR consists of two components, an embedded processor, and three baseband signal processors. The onboard instruments process radio signals from various sources, enabling HawkEye 360 to detect and analyze RF signals across different frequencies. These instruments capture, filter, and convert the signals into usable data. The system allows for monitoring multiple frequencies at once, covering a wide range of applications.
 
+Customers are primarily paying for the ability to track and analyze RF signals, which can be used for applications such as monitoring maritime activity, managing spectrum usage, and detecting illegal transmissions. This data provides valuable insights for government agencies, telecommunications, and defense sectors.
 
-| Specification | Value         |
-| ------------- | ------------- |
-| Mass          | 30kg          |
-| Mission Life  | 3 Years       |
-| Waveband      | 700MHz - 6GHz |
+Source: https://www.eoportal.org/satellite-missions/hawkeye-360#eop-quick-facts-section
+
+| Specification     | Value            |
+| ----------------- | ---------------- |
+| Mass              | 30kg             |
+| Mission Life      | 3 Years          |
+| Waveband          | 70 MHz - 6GHz    |
 
 
 
