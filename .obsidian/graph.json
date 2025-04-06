@@ -2,36 +2,21 @@
   "collapse-filter": false,
   "search": "",
   "showTags": true,
-  "showAttachments": false,
-  "hideUnresolved": false,
+  "showAttachments": true,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path: Organization/Partners",
-      "color": {
-        "a": 1,
-        "rgb": 14601495
-      }
-    },
-    {
-      "query": "path:Organization/People  ",
-      "color": {
-        "a": 1,
-        "rgb": 14426335
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.04427083333333,
-  "lineSizeMultiplier": 0.40625,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1.01875,
   "collapse-forces": false,
-  "centerStrength": 0.354166666666667,
-  "repelStrength": 11.5625,
-  "linkStrength": 0.484375,
-  "linkDistance": 500,
-  "scale": 0.08317427835927663,
-  "close": true
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 12.5,
+  "linkStrength": 1,
+  "linkDistance": 236,
+  "scale": 0.08317427835927639,
+  "close": false
 }

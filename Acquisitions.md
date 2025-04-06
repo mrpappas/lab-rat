@@ -1,6 +1,6 @@
 
 >[!info] Mynaric
->Rocket Lab recently announced their intentions to acquired Mynaric, a laser satcom payload company for $75 million. More information will be added as it's available.
+>Rocket Lab recently announced their intentions to acquire [Mynaric](https://mynaric.com/), a laser satcom payload company for $75 million. More information will be added as it's available.
 >
 >🔗 [[Rocket Lab Announces Intention to Acquire Mynaric, Leading Laser Communications Provider, in Latest Strategic Step Toward Becoming an End-to-End Space Company]]
 
