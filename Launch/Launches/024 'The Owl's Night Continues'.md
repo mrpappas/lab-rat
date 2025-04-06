@@ -17,20 +17,6 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/the-owls-night-continues/
 ---
 
-#electron #launch #success
-**Mission Name:** The Owl's Night Continues
-**Launch Date:** 2022-02-28 20:37
-**Outcome:** Success
-**Customer:** [[Synspective]]
-**Location:** [[Launch Complex 1#Launch Pad B]]
-**Vehicle:** [[Electron]]
-**Orbit Type:** [[🌍 Orbits#SSO]]
-**Target Orbit:** 561 km | 97°
-**Payload Mass:** 150 kg
-**Recovery:** No Attempt
-**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/the-owls-night-continues/
-**Press Kit**: [[Rocket-Lab-The-Owls-Night-Continues-Press-Kit.pdf]]
-
 >[!success] Mission Success
 
 >[!summary]
@@ -39,6 +25,25 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/the-owls-n
 ‘The Owl’s Night Continues’ mission follows on from Rocket Lab’s first launch for Synspective in December 2020. That mission, named ‘The Owl’s Night Begins’, saw Rocket Lab’s Electron launch vehicle deploy the StriX-α satellite – the first spacecraft in Synspective’s planned constellation of more than 30 SAR satellites designed to collate data of metropolitan centers on a daily basis to support urban development planning, construction and infrastructure monitoring, and disaster response.
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720301776244/)
+
+#electron #launch #success
+
+| **Mission Name** | The Owl's Night Continues                                                                                      |
+| ---------------- | -------------------------------------------------------------------------------------------------------------- |
+| **Launch Date**  | 2022-02-28 20:37                                                                                               |
+| **Outcome**      | ✅ Success                                                                                                      |
+| **Customer**     | [[Synspective]]                                                                                                |
+| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                              |
+| **Vehicle**      | [[Electron]]                                                                                                   |
+| **Orbit Type**   | [[🌍 Orbits#SSO]]                                                                                              |
+| **Target Orbit** | 561 km &#124; 97°                                                                                              |
+| **Payload Mass** | 150 kg                                                                                                         |
+| **Recovery**     | No Attempt                                                                                                     |
+| **Mission Link** | [The Owl's Night Continues](https://www.rocketlabusa.com/missions/missions-launched/the-owls-night-continues/) |
+| **Press Kit**    | [[Rocket-Lab-The-Owls-Night-Continues-Press-Kit.pdf]]                                                          |
+
+
+![[Pasted image 20250406135656.png|300]]
 
 ### 📦 Payload
 

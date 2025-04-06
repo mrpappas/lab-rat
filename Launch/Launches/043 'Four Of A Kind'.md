@@ -19,20 +19,6 @@ recovery: Success (Ocean Landing)
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/four-of-a-kind/
 ---
 
-#electron #launch #success
-**Mission Name:** Four Of A Kind
-**Launch Date:** 2024-01-31 06:34
-**Outcome:** Success
-**Customer:** [[Spire Global]], [[NorthStar Earth & Space]]
-**Location:** [[Launch Complex 1#Launch Pad B]]
-**Vehicle:** [[Electron]]
-**Orbit Type:** [[🌍 Orbits#LEO]]
-**Target Orbit:** 530 km | 97°
-**Payload Mass:** 112 kg
-**Recovery:** Success (Ocean Landing)
-**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/four-of-a-kind/
-**Press Kit**: [[F43-Four-Of-A-Kind-Press-Kit-updated.pdf]]
-
 >[!Success] Mission Success
 
 >[!summary]
@@ -43,6 +29,25 @@ The mission launched on January 31st, 2024 at 19:34 NZDT (January 31st, 2024 06:
 The mission also included the successful splashdown and recovery of Electron's first stage after the rocket stage returned to Earth from space.
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720314477718/)
+
+#electron #launch #success
+
+| **Mission Name** | Four Of A Kind                                                                            |
+| ---------------- | ----------------------------------------------------------------------------------------- |
+| **Launch Date**  | 2024-01-31 06:34                                                                          |
+| **Outcome**      | ✅ Success                                                                                 |
+| **Customer**     | [[Spire Global]], [[NorthStar Earth & Space]]                                             |
+| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                         |
+| **Vehicle**      | [[Electron]]                                                                              |
+| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                         |
+| **Target Orbit** | 530 km &#124; 97°                                                                         |
+| **Payload Mass** | 112 kg                                                                                    |
+| **Recovery**     | Success (Ocean Landing)                                                                   |
+| **Mission Link** | [Four Of A Kind](https://www.rocketlabusa.com/missions/missions-launched/four-of-a-kind/) |
+| **Press Kit**    | [[F43-Four-Of-A-Kind-Press-Kit-updated.pdf]]                                              |
+
+
+![[Pasted image 20250406141919.png|300]]
 
 ## 📽️ Launch Video
 

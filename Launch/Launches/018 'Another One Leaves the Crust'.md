@@ -17,26 +17,30 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/another-one-leaves-the-crust/
 ---
 
-#electron #launch #success
-**Mission Name:** Another One Leaves The Crust
-**Launch Date:** 2021-01-20 07:26
-**Outcome:** Success
-**Customer:** [[OHB Group]]
-**Location:** [[Launch Complex 1#Launch Pad A]]
-**Vehicle:** [[Electron]]
-**Orbit Type:** [[🌍 Orbits#LEO]]
-**Target Orbit:** 1200 km | 90°
-**Payload Mass:** 50 kg
-**Recovery:** No Attempt
-**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/another-one-leaves-the-crust/
-**Press Kit**: [[Rocket-Lab-Another-One-Leaves-The-Crust-Press-Kit2.pdf]]
-
 >[!success] Mission Success
 
 >[!summary]
 This mission launched a single communication microsatellite for OHB Group that will enable specific frequencies to support future services from orbit. The launch was Rocket Lab’s 18th Electron mission and was procured for OHB Group through OHB Cosmos International Launch Service GmbH, the launch service division of OHB Group. OHB Cosmos is responsible for launching the spacecraft built by the Group's satellite manufacturers based in Germany, Sweden, and Czech Republic.
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720302069738/)
+
+#electron #launch #success
+
+| **Mission Name** | Another One Leaves The Crust                                                                                          |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------- |
+| **Launch Date**  | 2021-01-20 07:26                                                                                                      |
+| **Outcome**      | ✅ Success                                                                                                             |
+| **Customer**     | [[OHB Group]]                                                                                                         |
+| **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                                     |
+| **Vehicle**      | [[Electron]]                                                                                                          |
+| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                                     |
+| **Target Orbit** | 1200 km &#124; 90°                                                                                                    |
+| **Payload Mass** | 50 kg                                                                                                                 |
+| **Recovery**     | No Attempt                                                                                                            |
+| **Mission Link** | [Another One Leaves The Crust](https://www.rocketlabusa.com/missions/missions-launched/another-one-leaves-the-crust/) |
+| **Press Kit**    | [[Rocket-Lab-Another-One-Leaves-The-Crust-Press-Kit2.pdf]]                                                            |
+
+![[Pasted image 20250406133042.png|300]]
 
 ## 📽️ Launch Video
 

@@ -17,20 +17,6 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/elana-19/
 ---
 
-#electron #launch #success
-**Mission Name:** NASA ELaNa-19
-**Launch Date:** 2018-12-16 06:33
-**Outcome:** Success
-**Customer:** [[NASA]]
-**Location:** [[Launch Complex 1#Launch Pad A]]
-**Vehicle:** [[Electron]]
-**Orbit Type:** [[🌍 Orbits#LEO]]
-**Target Orbit:** 500 km | 85°
-**Payload Mass:** 78 kg
-**Recovery:** No Attempt
-**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/elana-19/
-**Press Kit**: [[NASA-ELANA19-Presskit-December2019 (1).pdf]]
-
 >[!success] Mission Success
 
 >[!summary] 
@@ -38,6 +24,24 @@ The ELaNa-19 mission for NASA (Educational Launch of Nanosatellites 19) was Rock
 >
 The launch was significant for the small satellite industry as it was the first time NASA CubeSats will enjoyed a dedicated ride to orbit on a commercial launch vehicle, thanks to NASA’s forward-leaning Venture Class Launch Services (VCLS) initiative. 
 
+
+#electron #launch #success
+
+| **Mission Name** | NASA ELaNa-19                                                                      |
+| ---------------- | ---------------------------------------------------------------------------------- |
+| **Launch Date**  | 2018-12-16 06:33                                                                   |
+| **Outcome**      | ✅ Success                                                                          |
+| **Customer**     | [[NASA]]                                                                           |
+| **Location**     | [[Launch Complex 1#Launch Pad A]]                                                  |
+| **Vehicle**      | [[Electron]]                                                                       |
+| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                  |
+| **Target Orbit** | 500 km &#124; 85°                                                                  |
+| **Payload Mass** | 78 kg                                                                              |
+| **Recovery**     | No Attempt                                                                         |
+| **Mission Link** | [NASA ELaNa-19](https://www.rocketlabusa.com/missions/missions-launched/elana-19/) |
+| **Press Kit**    | [[NASA-ELANA19-Presskit-December2019 (1).pdf]]                                     |
+
+![[Pasted image 20250406130112.png|300]]
 
 ## 📽️ Launch Video
 

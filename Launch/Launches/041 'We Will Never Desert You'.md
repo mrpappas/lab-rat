@@ -18,20 +18,6 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/we-will-never-desert-you/
 ---
 
-#electron #launch #failure #anomaly
-**Mission Name:** We Will Never Desert You
-**Launch Date:** 2023-09-19 06:55
-**Outcome:** Failure
-**Customer:** [[Capella Space]]
-**Location:** [[Launch Complex 1#Launch Pad B]]
-**Vehicle:** [[Electron]]
-**Orbit Type:** [[🌍 Orbits#LEO]]
-**Target Orbit:** 640 km | 53°
-**Payload Mass:** 165 kg
-**Recovery:** No Attempt
-**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/we-will-never-desert-you/
-**Press Kit**: [[FINAL-Capella-We-Will-Never-Desert-You-Press-Kit.pdf]]
-
 >[!Failure] Mission Failure
 
 >[!summary]
@@ -43,6 +29,24 @@ Anomaly occurred 2 minutes 30 seconds into the flight.
 [Source](https://www.businesswire.com/news/home/20231108450544/en/Rocket-Lab-Announces-Third-Quarter-2023-Financial-Results-Issues-Guidance-For-Fourth-Quarter-2023-and-Revenue-Guidance-for-First-Quarter-2024)
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720311276483/)
+
+#electron #launch #failure #anomaly
+
+| **Mission Name** | We Will Never Desert You                                                                                      |
+| ---------------- | ------------------------------------------------------------------------------------------------------------- |
+| **Launch Date**  | 2023-09-19 06:55                                                                                              |
+| **Outcome**      | ❌ Failure                                                                                                     |
+| **Customer**     | [[Capella Space]]                                                                                             |
+| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                             |
+| **Vehicle**      | [[Electron]]                                                                                                  |
+| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                             |
+| **Target Orbit** | 640 km &#124; 53°                                                                                             |
+| **Payload Mass** | 165 kg                                                                                                        |
+| **Recovery**     | No Attempt                                                                                                    |
+| **Mission Link** | [We Will Never Desert You](https://www.rocketlabusa.com/missions/missions-launched/we-will-never-desert-you/) |
+| **Press Kit**    | [[FINAL-Capella-We-Will-Never-Desert-You-Press-Kit.pdf]]                                                      |
+
+![[Pasted image 20250406141712.png|300]]
 
 ### 📦 Payload
 

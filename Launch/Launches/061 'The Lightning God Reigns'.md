@@ -14,19 +14,7 @@ payload_mass: 100 kg
 recovery: No attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/the-lightning-god-reigns
 ---
-#electron #launch 
-**Mission Name**: The Lighting God Reigns
-**Launch Date**: 2025-03-15 00:00 UTC
-**outcome**: Success
-**Customer**: [[iQPS]]
-**Location**: [[Launch Complex 1#Launch Pad B]]
-**Vehicle**: [[Electron]]
-**Orbit Type**: [[🌍 Orbits#LEO]]
-**Target Orbit**: 575km | 42°
-**Payload Mass**: 100 kg
-**Recovery**: No attempt
-**Mission Link**: https://www.rocketlabusa.com/missions/missions-launched/the-lightning-god-reigns
-**Press Kit**: [[F61-The-Lightning-God-Reigns-press-kit-final (1).pdf]]
+
 
 >[!success] Mission Success
 
@@ -38,6 +26,23 @@ The mission launched a single [[📦 Payload Types#Synthetic Aperture Radar (SAR
 ‘The Lightning God Reigns’ was the first of eight upcoming launches for iQPS across 2025 and 2026 to build out iQPS‘s constellation, and follows the Company’s [[042 'The Moon God Awakens'|earlier successful mission]] for iQPS launched in December 2023. Each upcoming mission includes a Rocket Lab Motorized Lightband, used to separate and deploy the satellite from Electron once in space.
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720324421002)
+
+
+#electron #launch 
+
+| **Mission Name** | The Lighting God Reigns                                                                                     |
+| ---------------- | ----------------------------------------------------------------------------------------------------------- |
+| **Launch Date**  | 2025-03-15 00:00 UTC                                                                                        |
+| **Outcome**      | ✅ Success                                                                                                   |
+| **Customer**     | [[iQPS]]                                                                                                    |
+| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                           |
+| **Vehicle**      | [[Electron]]                                                                                                |
+| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                           |
+| **Target Orbit** | 575 km &#124; 42°                                                                                           |
+| **Payload Mass** | 100 kg                                                                                                      |
+| **Recovery**     | No Attempt                                                                                                  |
+| **Mission Link** | [The Lighting God Reigns](https://www.rocketlabusa.com/missions/missions-launched/the-lightning-god-reigns) |
+| **Press Kit**    | [[F61-The-Lightning-God-Reigns-press-kit-final (1).pdf]]                                                    |
 
 
 ![[Pasted image 20250314201500.png|300]]

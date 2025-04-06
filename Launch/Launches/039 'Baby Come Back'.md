@@ -22,20 +22,6 @@ recovery: Success (Ocean Landing)
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/baby-come-back/
 ---
 
-#electron #launch #success
-**Mission Name:** Baby Come Back
-**Launch Date:** 2023-07-18 01:27
-**Outcome:** Success
-**Customer:** [[NASA]], [[CesiumAstro]], [[UTIAS Space Flight Laboratory]], [[Telesat]], [[Spire Global]]
-**Location:** [[Launch Complex 1#Launch Pad B]]
-**Vehicle:** [[Electron]]
-**Orbit Type:** [[🌍 Orbits#SSO]]
-**Target Orbit:** 1000 km | 99.45°
-**Payload Mass:** 86 kg
-**Recovery:** Success (Ocean Landing)
-**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/baby-come-back/
-**Press Kit**: [[Press-Kit-Rocket-Lab-Baby-Come-Back2.pdf]]
-
 >[!success] Mission Success
 
 >[!summary]
@@ -54,6 +40,24 @@ The ‘Baby Come Back’ mission is a rideshare mission and will carry satellite
 [[Spire Global]] Global:  Spire will launch two 3U satellites carrying Global Navigation Satellite System Radio Occultation (GNSS-RO) payloads to replenish its fully deployed constellation of more than 100 multipurpose satellites. Spire’s satellites observe the Earth in real time using radio frequency technology. The data acquired by Spire’s GNSS-RO payloads provide global weather intelligence that can be assimilated into weather models to improve the accuracy of forecasts. Spire is the largest producer of GNSS-RO weather data, collecting over 20,000 RO profiles a day.
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720309411224/)
+
+#electron #launch #success
+
+| **Mission Name** | Baby Come Back                                                                              |
+| ---------------- | ------------------------------------------------------------------------------------------- |
+| **Launch Date**  | 2023-07-18 01:27                                                                            |
+| **Outcome**      | ✅ Success                                                                                   |
+| **Customer**     | [[NASA]], [[CesiumAstro]], [[UTIAS Space Flight Laboratory]], [[Telesat]], [[Spire Global]] |
+| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                           |
+| **Vehicle**      | [[Electron]]                                                                                |
+| **Orbit Type**   | [[🌍 Orbits#SSO]]                                                                           |
+| **Target Orbit** | 1000 km &#124; 99.45°                                                                       |
+| **Payload Mass** | 86 kg                                                                                       |
+| **Recovery**     | Success (Ocean Landing)                                                                     |
+| **Mission Link** | [Baby Come Back](https://www.rocketlabusa.com/missions/missions-launched/baby-come-back/)   |
+| **Press Kit**    | [[Press-Kit-Rocket-Lab-Baby-Come-Back2.pdf]]                                                |
+
+![[Pasted image 20250406141230.png|300]]
 
 ### 📦 Payload
 

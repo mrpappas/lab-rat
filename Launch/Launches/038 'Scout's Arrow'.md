@@ -17,20 +17,6 @@ recovery: n/a
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/scouts-arrow/
 ---
 
-#haste #launch #success
-**Mission Name:** Scout's Arrow
-**Launch Date:** 2023-06-18 01:24
-**Outcome:** Success
-**Customer:** [[Leidos]]
-**Location:** [[Launch Complex 2#Launch Pad 0C]]
-**Vehicle:** [[HASTE]]
-**Orbit Type:** n/a
-**Target Orbit:** Suborbital
-**Payload Mass:** unknown
-**Recovery:** n/a
-**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/scouts-arrow/
-**Press Kit**: 🚫 No Press Kit Issued for this Mission
-
 >[!success] Mission Success
 
 >[!summary]
@@ -44,6 +30,24 @@ The HASTE suborbital launch vehicle is derived from the Company’s Electron roc
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720309200406/)
 
+#haste #launch #success
+
+| **Mission Name** | Scout's Arrow                                                                          |
+| ---------------- | -------------------------------------------------------------------------------------- |
+| **Launch Date**  | 2023-06-18 01:24                                                                       |
+| **Outcome**      | ✅ Success                                                                              |
+| **Customer**     | [[Leidos]]                                                                             |
+| **Location**     | [[Launch Complex 2#Launch Pad 0C]]                                                     |
+| **Vehicle**      | [[HASTE]]                                                                              |
+| **Orbit Type**   | n/a                                                                                    |
+| **Target Orbit** | Suborbital                                                                             |
+| **Payload Mass** | unknown                                                                                |
+| **Recovery**     | n/a                                                                                    |
+| **Mission Link** | [Scout's Arrow](https://www.rocketlabusa.com/missions/missions-launched/scouts-arrow/) |
+| **Press Kit**    | 🚫 No Press Kit Issued for this Mission                                                |
+
+
+![[Pasted image 20250406141123.png|300]]
 
 ## 📽️ Launch Video
 

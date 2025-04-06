@@ -17,24 +17,26 @@ recovery: n/a
 mission_link: 
 ---
 
-#haste #launch #success
-**Mission Name:** Stonehendge
-**Launch Date:** 2024-12-13 00:00
-**Outcome:** Success
-**Customer:** Unknown*
-**Location:** [[Launch Complex 2#Launch Pad 0C]]
-**Vehicle:** [[HASTE]]
-**Orbit Type:** n/a
-**Target Orbit:** Suborbital
-**Payload Mass:** unknown
-**Recovery:** n/a
-**Mission Link:** None
-**Press Kit**: 🚫 No Press Kit Issued for this Mission
-
 >[!Success] Mission Success
 
 >[!summary]
->Put mission summary here
+>Rocket Lab launched the "Stonehenge" (HASTE) mission, a suborbital test of the Electron rocket, on December 14, 2024, at 1:00 AM (UTC) from Launch Complex 2 at NASA's Wallops Flight Facility in Virginia. Due to the nature of the mission, very little official information is available.
+
+#haste #launch #success
+
+| **Mission Name** | Stonehendge                             |
+| ---------------- | --------------------------------------- |
+| **Launch Date**  | 2024-12-13 00:00                        |
+| **Outcome**      | ✅ Success                               |
+| **Customer**     | Unknown*                                |
+| **Location**     | [[Launch Complex 2#Launch Pad 0C]]      |
+| **Vehicle**      | [[HASTE]]                               |
+| **Orbit Type**   | n/a                                     |
+| **Target Orbit** | Suborbital                              |
+| **Payload Mass** | unknown                                 |
+| **Recovery**     | n/a                                     |
+| **Mission Link** | None                                    |
+| **Press Kit**    | 🚫 No Press Kit Issued for this Mission |
 
 ## 📽️ Launch Video
 

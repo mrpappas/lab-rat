@@ -17,20 +17,6 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/the-moon-god-awakes/
 ---
 
-#electron #launch #success
-**Mission Name:** The Moon God Awakens
-**Launch Date:** 2023-12-15 04:05
-**Outcome:** Success
-**Customer:** [[iQPS]]
-**Location:** [[Launch Complex 1#Launch Pad B]]
-**Vehicle:** [[Electron]]
-**Orbit Type:** [[🌍 Orbits#LEO]]
-**Target Orbit:** 575 km | 42°
-**Payload Mass:** 100 kg
-**Recovery:** No Attempt
-**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/the-moon-god-awakes/
-**Press Kit**: [[The-Moon-God-Awakens-Press-Kit5.pdf]]
-
 >[!Success] Mission Success
 
 >[!summary]
@@ -43,6 +29,25 @@ QPS-SAR-5 is a [[📦 Payload Types#Synthetic Aperture Radar (SAR)|Synthetic Ape
 In addition to being launched by Electron, the QPS-SAR-5 satellite used Rocket Lab’s Mark II Motorized Lightband (MLB) as its separation system demonstrating the Company’s vertically integrated space systems strategy.
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720311276533/)
+
+#electron #launch #success
+
+| **Mission Name** | The Moon God Awakens                                                                                 |
+| ---------------- | ---------------------------------------------------------------------------------------------------- |
+| **Launch Date**  | 2023-12-15 04:05                                                                                     |
+| **Outcome**      | ✅ Success                                                                                            |
+| **Customer**     | [[iQPS]]                                                                                             |
+| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                    |
+| **Vehicle**      | [[Electron]]                                                                                         |
+| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                    |
+| **Target Orbit** | 575 km &#124; 42°                                                                                    |
+| **Payload Mass** | 100 kg                                                                                               |
+| **Recovery**     | No Attempt                                                                                           |
+| **Mission Link** | [The Moon God Awakens](https://www.rocketlabusa.com/missions/missions-launched/the-moon-god-awakes/) |
+| **Press Kit**    | [[The-Moon-God-Awakens-Press-Kit5.pdf]]                                                              |
+
+
+![[Pasted image 20250406141811.png|300]]
 
 ### 📦 Payload
 

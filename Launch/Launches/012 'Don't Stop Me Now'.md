@@ -21,19 +21,6 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/dont-stop-me-now/
 ---
 
-#electron #launch #success
-**Mission Name:** Don't Stop Me Now
-**Launch Date:** 2020-06-13 05:12
-**Outcome:** Success
-**Customer:** [[Boston University]], [[NASA]], [[National Reconnaissance Office (NRO)]], [[UNSW Canberra Space]]
-**Location:** [[Launch Complex 1#Launch Pad A]]
-**Vehicle:** [[Electron]]
-**Orbit Type:** [[🌍 Orbits#LEO]]
-**Target Orbit:** 570 x 590 km | 97.75°
-**Payload Mass:** Classified
-**Recovery:** No Attempt
-**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/dont-stop-me-now/
-**Press Kit**: [[F12-DontStopMeNow-Presskit.pdf]]
 
 >[!success] Mission Success
 
@@ -44,9 +31,26 @@ The mission also carried three payloads designed, built and operated by the [[Na
 >
 The ANDESITE and NRO payloads were joined on the mission by the M2 Pathfinder satellite, a collaboration between the University of New South Wales (UNSW) Canberra Space and the Australian Government. The M2 Pathfinder will test communications architecture and other technologies that will assist in informing the future space capabilities of Australia. The satellite will demonstrate the ability of an onboard software-based radio to operate and reconfigure while in orbit.
 >
-The mission was been named ‘Don’t Stop Me Now’ in recognition of Rocket Lab board member and avid Queen fan [[Scott Smith]], who recently passed away.
+The mission has been named ‘Don’t Stop Me Now’ in recognition of Rocket Lab board member and avid Queen fan [[Scott Smith]], who recently passed away.
+
+#electron #launch #success
 
 
+| **Mission Name** | Don't Stop Me Now                                                                                  |
+| ---------------- | -------------------------------------------------------------------------------------------------- |
+| **Launch Date**  | 2020-06-13 05:12                                                                                   |
+| **Outcome**      | ✅ Success                                                                                          |
+| **Customer**     | [[Boston University]], [[NASA]], [[National Reconnaissance Office (NRO)]], [[UNSW Canberra Space]] |
+| **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                  |
+| **Vehicle**      | [[Electron]]                                                                                       |
+| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                  |
+| **Target Orbit** | 570 x 590 km &#124; 97.75°                                                                         |
+| **Payload Mass** | Classified                                                                                         |
+| **Recovery**     | No Attempt                                                                                         |
+| **Mission Link** | [Don't Stop Me Now](https://www.rocketlabusa.com/missions/missions-launched/dont-stop-me-now/)     |
+| **Press Kit**    | [[F12-DontStopMeNow-Presskit.pdf]]                                                                 |
+
+![[Pasted image 20250406132325.png|300]]
 
 
 ## 📽️ Launch Video

@@ -17,20 +17,6 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/antipodean-adventure/
 ---
 
-#electron #launch #success
-**Mission Name:** Antipodean Adventure
-**Launch Date:** 2022-08-04 05:00
-**Outcome:** Success
-**Customer:** [[National Reconnaissance Office (NRO)]]
-**Location:** [[Launch Complex 1#Launch Pad B]]
-**Vehicle:** [[Electron]]
-**Orbit Type:** [[🌍 Orbits#LEO]]
-**Target Orbit:** 620 km | 70°
-**Payload Mass:** Classified
-**Recovery:** No Attempt
-**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/antipodean-adventure/
-**Press Kit**: [[Flight-29-Press-Kit-FINAL.pdf]]
-
 >[!success] Mission Success
 
 >[!summary]
@@ -41,6 +27,26 @@ The NROL-199 mission carried a national security payload designed, built, and op
 Both NROL-199 and NROL-162 missions were a demonstration of responsive launch under NRO’s Rapid Acquisition of a Small Rocket (RASR) contract for launching small satellite through a streamlined, commercial approach, and are the third and fourth missions contracted to Rocket Lab by the NRO under the contract. NROL-151 (RASR-1) was successfully deployed to space on a dedicated Electron launch in early 2020, followed by RASR-2 on another Electron launch in June 2020.
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720301773707/)
+
+#electron #launch #success
+
+
+| **Mission Name** | Antipodean Adventure                                                                                  |
+| ---------------- | ----------------------------------------------------------------------------------------------------- |
+| **Launch Date**  | 2022-08-04 05:00                                                                                      |
+| **Outcome**      | ✅ Success                                                                                             |
+| **Customer**     | [[National Reconnaissance Office (NRO)]]                                                              |
+| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                     |
+| **Vehicle**      | [[Electron]]                                                                                          |
+| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                     |
+| **Target Orbit** | 620 km &#124; 70°                                                                                     |
+| **Payload Mass** | Classified                                                                                            |
+| **Recovery**     | No Attempt                                                                                            |
+| **Mission Link** | [Antipodean Adventure](https://www.rocketlabusa.com/missions/missions-launched/antipodean-adventure/) |
+| **Press Kit**    | [[Flight-29-Press-Kit-FINAL.pdf]]                                                                     |
+
+
+![[Pasted image 20250406140200.png|300]]
 
 ## 📽️ Launch Video
 

@@ -17,20 +17,6 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/wise-one-looks-ahead/
 ---
 
-#electron #launch #success
-**Mission Name:** Wise One Looks Ahead
-**Launch Date:** 2022-07-13 06:30
-**Outcome:** Success
-**Customer:** [[National Reconnaissance Office (NRO)]]
-**Location:** [[Launch Complex 1#Launch Pad A]]
-**Vehicle:** [[Electron]]
-**Orbit Type:** [[🌍 Orbits#LEO]]
-**Target Orbit:** 620 km | 40°
-**Payload Mass:** Classified
-**Recovery:** No Attempt
-**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/wise-one-looks-ahead/
-**Press Kit**: [[Flight-28-Press-Kit-final.pdf]]
-
 >[!success] Mission Success
 
 >[!summary]
@@ -43,6 +29,26 @@ The NROL-162 and NROL-199 missions carry national security payloads designed, bu
 These twin missions are a demonstration of responsive launch under NRO’s Rapid Acquisition of a Small Rocket (RASR) contract for launching small satellite through a streamlined, commercial approach, and are the third and fourth missions contracted to Rocket Lab by the NRO under the contract. NROL-151 (RASR-1) was successfully deployed to space on a dedicated Electron launch in early 2020, followed by RASR-2 on another Electron launch in June 2020.
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720301774032/)
+
+#electron #launch #success
+
+| **Mission Name** | Wise One Looks Ahead                                                                                  |
+| ---------------- | ----------------------------------------------------------------------------------------------------- |
+| **Launch Date**  | 2022-07-13 06:30                                                                                      |
+| **Outcome**      | ✅ Success                                                                                             |
+| **Customer**     | [[National Reconnaissance Office (NRO)]]                                                              |
+| **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                     |
+| **Vehicle**      | [[Electron]]                                                                                          |
+| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                     |
+| **Target Orbit** | 620 km &#124; 40°                                                                                     |
+| **Payload Mass** | Classified                                                                                            |
+| **Recovery**     | No Attempt                                                                                            |
+| **Mission Link** | [Wise One Looks Ahead](https://www.rocketlabusa.com/missions/missions-launched/wise-one-looks-ahead/) |
+| **Press Kit**    | [[Flight-28-Press-Kit-final.pdf]]                                                                     |
+
+
+![[Pasted image 20250406140104.png|300]]
+
 
 ## 📽️ Launch Video
 

@@ -20,26 +20,30 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/its-business-time/
 ---
 
-#electron #launch #success
-**Mission Name:** It's Business Time
-**Launch Date:** 2018-11-11 03:50
-**Outcome:** Success
-**Customer:** [[Spire Global]], [[Tyvak Nano-Satellite Systems]], [[Fleet Space]]
-**Location:** [[Launch Complex 1#Launch Pad A]]
-**Vehicle:** [[Electron]]
-**Orbit Type:** [[🌍 Orbits#LEO]]
-**Target Orbit:** 500 km | 85°
-**Payload Mass:** 45 kg
-**Recovery:** No Attempt
-**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/its-business-time/
-**Press Kit**: [[Its-Business-Time-Press-Kit7.pdf]]
-
 >[!success] Mission Success
 
 >[!summary] 
 It's Business Time was Rocket Lab's third Electron launch. It's Business Time was manifested with commercial satellites from Spire Global, Tyvak Nano-Satellite Systems, Fleet Space Technologies, as well as an educational payload from the Irvine CubeSat STEM Program (ICSP) and a drag sail technology demonstrator designed and built by High Performance Space Structure Systems GmBH (HPS GmbH).
 >
 The payloads were launched to a 210km x 500km circular orbit at 85 degrees, before being circularized to 500 x 500 km using Rocket Lab’s Curie engine powered Kick Stage.  
+
+#electron #launch #success
+
+| **Mission Name** | It's Business Time                                                                               |
+| ---------------- | ------------------------------------------------------------------------------------------------ |
+| **Launch Date**  | 2018-11-11 03:50                                                                                 |
+| **Outcome**      | ✅ Success                                                                                        |
+| **Customer**     | [[Spire Global]], [[Tyvak Nano-Satellite Systems]], [[Fleet Space]]                              |
+| **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                |
+| **Vehicle**      | [[Electron]]                                                                                     |
+| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                |
+| **Target Orbit** | 500 km &#124; 85°                                                                                |
+| **Payload Mass** | 45 kg                                                                                            |
+| **Recovery**     | No Attempt                                                                                       |
+| **Mission Link** | [It's Business Time](https://www.rocketlabusa.com/missions/missions-launched/its-business-time/) |
+| **Press Kit**    | [[Its-Business-Time-Press-Kit7.pdf]]                                                             |
+
+![[Pasted image 20250406130017.png|300]]
 
 ## 📽️ Launch Video
 

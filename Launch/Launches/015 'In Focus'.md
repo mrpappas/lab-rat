@@ -20,20 +20,6 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/in-focus/
 ---
 
-#electron #launch #success
-**Mission Name:** In Focus
-**Launch Date:** 2020-10-28 21:21
-**Outcome:** Success
-**Customer:** [[Planet Labs]], [[Spaceflight]], [[Canon Electronics]]
-**Location:** [[Launch Complex 1#Launch Pad A]]
-**Vehicle:** [[Electron]]
-**Orbit Type:** [[🌍 Orbits#SSO]]
-**Target Orbit:** 500 km | 97.5°
-**Payload Mass:** 72 kg
-**Recovery:** No Attempt
-**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/in-focus/
-**Press Kit**: [[final-F15-Press-Kit-In-Focus.pdf]]
-
 >[!success] Mission Success
 
 >[!summary]
@@ -44,6 +30,26 @@ Planet had nine of their latest generation SuperDove satellites deployed to a 50
 The 10th and final payload, Canon Electronics Inc.’s CE-SAT-IIB, was arranged by satellite rideshare and mission management provider Spaceflight Inc. CE-SAT-IIB is a technical demonstration microsatellite developed by Canon Electronics Inc. It has a middle-size telescope equipped with an ultra-high sensitivity camera to take night images of the Earth and small size telescopes which are suitable for CubeSat use.
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72157716860029003/)
+
+#electron #launch #success
+
+| **Mission Name** | In Focus                                                                      |
+| ---------------- | ----------------------------------------------------------------------------- |
+| **Launch Date**  | 2020-10-28 21:21                                                              |
+| **Outcome**      | ✅ Success                                                                     |
+| **Customer**     | [[Planet Labs]], [[Spaceflight]], [[Canon Electronics]]                       |
+| **Location**     | [[Launch Complex 1#Launch Pad A]]                                             |
+| **Vehicle**      | [[Electron]]                                                                  |
+| **Orbit Type**   | [[🌍 Orbits#SSO]]                                                             |
+| **Target Orbit** | 500 km &#124; 97.5°                                                           |
+| **Payload Mass** | 72 kg                                                                         |
+| **Recovery**     | No Attempt                                                                    |
+| **Mission Link** | [In Focus](https://www.rocketlabusa.com/missions/missions-launched/in-focus/) |
+| **Press Kit**    | [[final-F15-Press-Kit-In-Focus.pdf]]                                          |
+
+
+![[Pasted image 20250406132716.png|300]]
+
 
 ## 📽️ Launch Video
 <div class="responsive-video">

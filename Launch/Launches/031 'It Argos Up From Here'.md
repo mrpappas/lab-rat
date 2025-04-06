@@ -17,20 +17,6 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/it-argos-up-from-here/
 ---
 
-#electron #launch #success
-**Mission Name:** It Argos Up From Here
-**Launch Date:** 2022-10-07 17:09
-**Outcome:** Success
-**Customer:** [[General Atomics Electromagnetic Systems]]
-**Location:** [[Launch Complex 1#Launch Pad B]]
-**Vehicle:** [[Electron]]
-**Orbit Type:** [[🌍 Orbits#SSO]]
-**Target Orbit:** 750 km | 98°
-**Payload Mass:** 118 kg
-**Recovery:** No Attempt
-**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/it-argos-up-from-here/
-**Press Kit**: [[F31-It-Argos-Up-From-Here-Press-Kit-v4.pdf]]
-
 >[!success] Mission Success
 
 >[!summary]
@@ -39,6 +25,26 @@ The “It Argos Up From Here” mission launched the [[General Atomics Electroma
 This dedicated mission for General Atomics launched the GAzelle satellite carrying Argos-4 from Pad B at Launch Complex 1.
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720302455707/)
+
+#electron #launch #success
+
+| **Mission Name** | It Argos Up From Here                                                                                   |
+| ---------------- | ------------------------------------------------------------------------------------------------------- |
+| **Launch Date**  | 2022-10-07 17:09                                                                                        |
+| **Outcome**      | ✅ Success                                                                                               |
+| **Customer**     | [[General Atomics Electromagnetic Systems]]                                                             |
+| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                       |
+| **Vehicle**      | [[Electron]]                                                                                            |
+| **Orbit Type**   | [[🌍 Orbits#SSO]]                                                                                       |
+| **Target Orbit** | 750 km &#124; 98°                                                                                       |
+| **Payload Mass** | 118 kg                                                                                                  |
+| **Recovery**     | No Attempt                                                                                              |
+| **Mission Link** | [It Argos Up From Here](https://www.rocketlabusa.com/missions/missions-launched/it-argos-up-from-here/) |
+| **Press Kit**    | [[F31-It-Argos-Up-From-Here-Press-Kit-v4.pdf]]                                                          |
+
+
+![[Pasted image 20250406140441.png|300]]
+
 
 ## 📽️ Launch Video
 

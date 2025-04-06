@@ -17,20 +17,6 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/the-owl-spreads-its-wings/
 ---
 
-#electron #launch #success
-**Mission Name:** The Owl Spreads Its Wings
-**Launch Date:** 2022-09-15 20:30
-**Outcome:** Success
-**Customer:** [[Synspective]]
-**Location:** [[Launch Complex 1#Launch Pad B]]
-**Vehicle:** [[Electron]]
-**Orbit Type:** [[🌍 Orbits#SSO]]
-**Target Orbit:** 563 km | 97°
-**Payload Mass:** 100 kg
-**Recovery:** No Attempt
-**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/the-owl-spreads-its-wings/
-**Press Kit**: [[FINAL-F30-The-Owl-Spreads-Its-Wings-Press-Kit.pdf]]
-
 >[!success] Mission Success
 
 >[!summary]
@@ -41,6 +27,27 @@ The mission was the second of a bulk buy of three Electron launches by [[Synspec
 The mission for Synspective marked a series of company milestones for Rocket Lab: its 30th Electron launch, its 300th Rutherford engine, and the single StriX-1 satellite manifested on this Electron launch brought Rocket Lab’s tally of satellites delivered to orbit to 150.
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720302130207/)
+
+
+#electron #launch #success
+
+| **Mission Name** | The Owl Spreads Its Wings                                                                                       |
+| ---------------- | --------------------------------------------------------------------------------------------------------------- |
+| **Launch Date**  | 2022-09-15 20:30                                                                                                |
+| **Outcome**      | ✅ Success                                                                                                       |
+| **Customer**     | [[Synspective]]                                                                                                 |
+| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                               |
+| **Vehicle**      | [[Electron]]                                                                                                    |
+| **Orbit Type**   | [[🌍 Orbits#SSO]]                                                                                               |
+| **Target Orbit** | 563 km &#124; 97°                                                                                               |
+| **Payload Mass** | 100 kg                                                                                                          |
+| **Recovery**     | No Attempt                                                                                                      |
+| **Mission Link** | [The Owl Spreads Its Wings](https://www.rocketlabusa.com/missions/missions-launched/the-owl-spreads-its-wings/) |
+| **Press Kit**    | [[FINAL-F30-The-Owl-Spreads-Its-Wings-Press-Kit.pdf]]                                                           |
+
+
+![[Pasted image 20250406140256.png|300]]
+
 ### 📦 Payload
 
 x1 [[Synspective#🛰️ Space Systems#StriX|StriX Series Satellites]] ![[Synspective#🛰️ Space Systems#StriX]]

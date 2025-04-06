@@ -20,20 +20,6 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/make-it-rain
 ---
 
-#electron #launch #success
-**Mission Name:** Make It Rain
-**Launch Date:** 2019-06-29 04:30
-**Outcome:** Success
-**Customer:** [[Spaceflight]], [[BlackSky]], [[Melbourne Space Program]]
-**Location:** [[Launch Complex 1#Launch Pad A]]
-**Vehicle:** [[Electron]]
-**Orbit Type:** [[🌍 Orbits#LEO]]
-**Target Orbit:** 450 km | 45°
-**Payload Mass:** 80 kg
-**Recovery:** No Attempt
-**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/make-it-rain
-**Press Kit**: [[Rocket-Lab-MAKE-IT-RAIN-press-kit.pdf]]
-
 >[!success] Mission Success
 
 >[!summary]
@@ -41,6 +27,24 @@ The Make It Rain mission launched multiple spacecraft as part of a rideshare fli
 >
 The mission was named ‘Make it Rain’ in a nod to the high volume of rainfall in Seattle, where [[Spaceflight]] is headquartered, as well in New Zealand where Launch Complex 1 is located. Among the payloads on the mission for Spaceflight were [[BlackSky]]’s Global-3 satellite and [[Melbourne Space Program]]’s ACRUX-1 CubeSat.
 
+
+#electron #launch #success
+
+| **Mission Name** | Make It Rain                                                                         |
+| ---------------- | ------------------------------------------------------------------------------------ |
+| **Launch Date**  | 2019-06-29 04:30                                                                     |
+| **Outcome**      | ✅ Success                                                                            |
+| **Customer**     | [[Spaceflight]], [[BlackSky]], [[Melbourne Space Program]]                           |
+| **Location**     | [[Launch Complex 1#Launch Pad A]]                                                    |
+| **Vehicle**      | [[Electron]]                                                                         |
+| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                    |
+| **Target Orbit** | 450 km &#124; 45°                                                                    |
+| **Payload Mass** | 80 kg                                                                                |
+| **Recovery**     | No Attempt                                                                           |
+| **Mission Link** | [Make It Rain](https://www.rocketlabusa.com/missions/missions-launched/make-it-rain) |
+| **Press Kit**    | [[Rocket-Lab-MAKE-IT-RAIN-press-kit.pdf]]                                            |
+
+![[Pasted image 20250406131737.png|300]]
 
 ## 📽️ Launch Video
 

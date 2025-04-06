@@ -17,20 +17,6 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/kineis-killed-the-radiot-star/
 ---
 
-#electron #launch #success
-**Mission Name:** Kinéis Killed the RadIOT Star
-**Launch Date:** 2024-09-20 23:01
-**Outcome:** Success
-**Customer:** [[Kinéis]]
-**Location:** [[Launch Complex 1#Launch Pad A]]
-**Vehicle:** [[Electron]]
-**Orbit Type:** [[🌍 Orbits#LEO]]
-**Target Orbit:** 643 km | 98°
-**Payload Mass:** 150 kg
-**Recovery:** No Attempt
-**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/kineis-killed-the-radiot-star/
-**Press Kit**: [[RL-F53-Kineis-Killed-the-RadIOT-Star-Press-Kit.pdf]]
-
 >[!success] Mission Success
 
 >[!summary]
@@ -41,6 +27,28 @@ Rocket Lab launched the “Kinéis Killed the RadIOT Star” mission from Rocket
 [[Kinéis]]’ constellation will connect any object anywhere in the world and guarantee the transmission of targeted and useful data to users, in near-real time, with low energy consumption with more powerful 30kg-class nanosats that integrate IoT technology.
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720320421478/)
+
+
+#electron #launch #success
+
+
+| **Mission Name** | Kinéis Killed the RadIOT Star                                                                                           |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| **Launch Date**  | 2024-09-20 23:01                                                                                                        |
+| **Outcome**      | ✅ Success                                                                                                               |
+| **Customer**     | [[Kinéis]]                                                                                                              |
+| **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                                       |
+| **Vehicle**      | [[Electron]]                                                                                                            |
+| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                                       |
+| **Target Orbit** | 643 km &#124; 98°                                                                                                       |
+| **Payload Mass** | 150 kg                                                                                                                  |
+| **Recovery**     | No Attempt                                                                                                              |
+| **Mission Link** | [Kinéis Killed the RadIOT Star](https://www.rocketlabusa.com/missions/missions-launched/kineis-killed-the-radiot-star/) |
+| **Press Kit**    | [[RL-F53-Kineis-Killed-the-RadIOT-Star-Press-Kit.pdf]]                                                                  |
+
+![[Pasted image 20250406150823.png|300]]
+
+
 ### 📦 Payload
 
 x5 [[Kinéis#🛰️ Space Systems#Kinéis IoT|Kinéis IoT]] Satellites ![[Kinéis#🛰️ Space Systems#Kinéis IoT|Kinéis IoT]]

@@ -19,20 +19,6 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/beginning-of-the-swarm/
 ---
 
-#electron #launch #success
-**Mission Name:** Beginning Of The Swarm
-**Launch Date:** 2024-04-23 22:00
-**Outcome:** Success
-**Customer:** [[NASA]], [[Korea Advanced Institute of Science and Technology]]
-**Location:** [[Launch Complex 1#Launch Pad B]]
-**Vehicle:** [[Electron]]
-**Orbit Type:** [[🌍 Orbits#SSO]]
-**Target Orbit:** 520 km (Neonsat-1), 1,000 km (ACS3), 97°
-**Payload Mass:** 115 kg
-**Recovery:** No Attempt
-**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/beginning-of-the-swarm/
-**Press Kit**: [[RL-F47-BeginningOfTheSwarm-PressKit-2.pdf]]
-
 >[!Success] Mission Success
 
 >[!summary]
@@ -43,6 +29,26 @@ The primary payload for this mission, NEONSAT-1, was an Earth observation satell
 The secondary payload was NASA's ACS3, a technology demonstration of new materials and deployable structures for solar sail propulsion systems that use sunlight to propel the spacecraft. Much like a sailboat is powered by wind pushing against a sail, solar sails employ the pressure of sunlight for propulsion, eliminating the need for conventional rocket propellant. The mission plans to test the deployment of new composite booms that will unfurl the solar sail to measure approximately 30 feet per side, or about the size of a small apartment in total. Flight data obtained during the demonstration will be used for designing future larger-scale composite solar sail systems for space weather early warning satellites, asteroid and other small body reconnaissance missions, and missions to observe the polar regions of the sun.
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720316422225/)
+
+#electron #launch #success
+
+| **Mission Name** | Beginning Of The Swarm                                                                                    |
+| ---------------- | --------------------------------------------------------------------------------------------------------- |
+| **Launch Date**  | 2024-04-23 22:00                                                                                          |
+| **Outcome**      | ✅ Success                                                                                                 |
+| **Customer**     | [[NASA]], [[Korea Advanced Institute of Science and Technology]]                                          |
+| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                         |
+| **Vehicle**      | [[Electron]]                                                                                              |
+| **Orbit Type**   | [[🌍 Orbits#SSO]]                                                                                         |
+| **Target Orbit** | 520 km (Neonsat-1), 1,000 km (ACS3) &#124; 97°                                                            |
+| **Payload Mass** | 115 kg                                                                                                    |
+| **Recovery**     | No Attempt                                                                                                |
+| **Mission Link** | [Beginning Of The Swarm](https://www.rocketlabusa.com/missions/missions-launched/beginning-of-the-swarm/) |
+| **Press Kit**    | [[RL-F47-BeginningOfTheSwarm-PressKit-2.pdf]]                                                             |
+
+
+![[Pasted image 20250406142222.png|300]]
+
 
 ## 📽️ Launch Video
 

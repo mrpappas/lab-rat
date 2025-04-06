@@ -17,20 +17,6 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/on-closer-inspection/
 ---
 
-#electron #launch #success
-**Mission Name:** On Closer Inspection
-**Launch Date:** 2024-02-19 14:52
-**Outcome:** Success
-**Customer:** [[Astroscale-Japan]]
-**Location:** [[Launch Complex 1#Launch Pad B]]
-**Vehicle:** [[Electron]]
-**Orbit Type:** [[🌍 Orbits#SSO]]
-**Target Orbit:** 600 km | 98°
-**Payload Mass:** 150 kg
-**Recovery:** No Attempt
-**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/on-closer-inspection/
-**Press Kit**: [[F44-On-Closer-Inspection-Press-Kit-web.pdf]]
-
 >[!Success] Mission Success
 
 >[!summary]
@@ -41,6 +27,26 @@ The 150-kilogram ADRAS-J satellite will approach an aged, derelict rocket stage 
 To enable the rendezvous with a non-cooperative space object required a dedicated launch, highly responsive mission planning and extremely tight margins on orbital parameters. Rocket Lab only received the final perigee, apogee, and inclination from Astroscale 20 days before launch. Only then could argument of perigee targets for different days within the 14-day window be selected, essentially determining the timing of Electron Kick Stage burns to facilitate the unique elliptical orbit required depending on the launch date. The mission also demanded highly accurate orbital insertion with tighter margins than required on most standard missions. In addition, the exact T-0 was only defined the day prior to launch and the required LTAN accuracy only allowed for +/- 15 seconds.
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720314661187/)
+
+#electron #launch #success
+
+| **Mission Name** | On Closer Inspection                                                                                  |
+| ---------------- | ----------------------------------------------------------------------------------------------------- |
+| **Launch Date**  | 2024-02-19 14:52                                                                                      |
+| **Outcome**      | ✅ Success                                                                                             |
+| **Customer**     | [[Astroscale-Japan]]                                                                                  |
+| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                     |
+| **Vehicle**      | [[Electron]]                                                                                          |
+| **Orbit Type**   | [[🌍 Orbits#SSO]]                                                                                     |
+| **Target Orbit** | 600 km &#124; 98°                                                                                     |
+| **Payload Mass** | 150 kg                                                                                                |
+| **Recovery**     | No Attempt                                                                                            |
+| **Mission Link** | [On Closer Inspection](https://www.rocketlabusa.com/missions/missions-launched/on-closer-inspection/) |
+| **Press Kit**    | [[F44-On-Closer-Inspection-Press-Kit-web.pdf]]                                                        |
+
+
+![[Pasted image 20250406141959.png|300]]
+
 
 ## 📽️ Launch Video
 

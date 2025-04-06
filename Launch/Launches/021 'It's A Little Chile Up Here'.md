@@ -17,20 +17,6 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/its-a-little-chile-up-here/
 ---
 
-#electron #launch #success
-**Mission Name:** It's A Little Chile Up Here
-**Launch Date:** 2021-07-29 06:00
-**Outcome:** Success
-**Customer:** [[U.S. Space Force]]
-**Location:** [[Launch Complex 1#Launch Pad A]]
-**Vehicle:** [[Electron]]
-**Orbit Type:** [[🌍 Orbits#LEO]]
-**Target Orbit:** 600 km | 37°
-**Payload Mass:** Unknown
-**Recovery:** No Attempt
-**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/its-a-little-chile-up-here/
-**Press Kit**: [[Rocket-Lab-Its-A-Little-Chile-Up-Here-Press-Kit-sml.pdf]]
-
 >[!success] Mission Success
 
 >[!summary]
@@ -42,6 +28,24 @@ The mission was named ‘It’s a Little Chile Up Here’ in a nod to the belove
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720301764530/)
 
+
+#electron #launch #success
+
+| **Mission Name** | It's A Little Chile Up Here                                                                                        |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------ |
+| **Launch Date**  | 2021-07-29 06:00                                                                                                   |
+| **Outcome**      | ✅ Success                                                                                                          |
+| **Customer**     | [[U.S. Space Force]]                                                                                               |
+| **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                                  |
+| **Vehicle**      | [[Electron]]                                                                                                       |
+| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                                  |
+| **Target Orbit** | 600 km &#124; 37°                                                                                                  |
+| **Payload Mass** | Unknown                                                                                                            |
+| **Recovery**     | No Attempt                                                                                                         |
+| **Mission Link** | [It's A Little Chile Up Here](https://www.rocketlabusa.com/missions/missions-launched/its-a-little-chile-up-here/) |
+| **Press Kit**    | [[Rocket-Lab-Its-A-Little-Chile-Up-Here-Press-Kit-sml.pdf]]                                                        |
+
+![[Pasted image 20250406135406.png|300]]
 
 ## 📽️ Launch Video
 

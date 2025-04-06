@@ -15,7 +15,7 @@ body:not(.links-int-on) {
       background-color: #1e1e1e; /* Obsidian dark theme base background */
       color: #c0c0c0; /* Subtle light text */
   }
-  
+
   table tr:nth-child(odd) {
       background-color: #262626; /* Slightly lighter dark for odd rows */
   }

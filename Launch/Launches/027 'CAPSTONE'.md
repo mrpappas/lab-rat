@@ -19,20 +19,6 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/capstone/
 ---
 
-#electron #launch #success
-**Mission Name:** CAPSTONE
-**Launch Date:** 2022-06-28 09:55
-**Outcome:** Success
-**Customer:** [[NASA]], [[Advanced Space]]
-**Location:** [[Launch Complex 1#Launch Pad B]]
-**Vehicle:** [[Electron]]
-**Orbit Type:** [[🌍 Orbits#TLI]]
-**Target Orbit:** Translunar Injection (TLI)
-**Payload Mass:** 80kg
-**Recovery:** No Attempt
-**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/capstone/
-**Press Kit**: [[CAPSTONE-Press-Kit3.pdf]]
-
 >[!success] Mission Success
 
 >[!summary]
@@ -40,6 +26,26 @@ On June 28, 2022 Rocket Lab launched the Cislunar Autonomous Positioning System 
 >
 Designed and built by [[Tyvak Nano-Satellite Systems]], a [[Terran Orbital]] Corporation, and owned and operated by Advanced Space on behalf of NASA, CAPSTONE will be the first spacecraft to test the Near Rectilinear Halo Orbit (NRHO) around the Moon. This is the same orbit intended for NASA’s Gateway, a multipurpose Moon-orbiting station that will provide essential support for long-term astronaut lunar missions as part of the Artemis program.
 >[📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720298851362/)
+
+#electron #launch #success
+
+| **Mission Name** | CAPSTONE                                                                      |
+| ---------------- | ----------------------------------------------------------------------------- |
+| **Launch Date**  | 2022-06-28 09:55                                                              |
+| **Outcome**      | ✅ Success                                                                     |
+| **Customer**     | [[NASA]], [[Advanced Space]]                                                  |
+| **Location**     | [[Launch Complex 1#Launch Pad B]]                                             |
+| **Vehicle**      | [[Electron]]                                                                  |
+| **Orbit Type**   | [[🌍 Orbits#TLI]]                                                             |
+| **Target Orbit** | Translunar Injection (TLI)                                                    |
+| **Payload Mass** | 80kg                                                                          |
+| **Recovery**     | No Attempt                                                                    |
+| **Mission Link** | [CAPSTONE](https://www.rocketlabusa.com/missions/missions-launched/capstone/) |
+| **Press Kit**    | [[CAPSTONE-Press-Kit3.pdf]]                                                   |
+
+
+![[Pasted image 20250406135953.png|300]]
+
 
 ### 📦 Payload
 

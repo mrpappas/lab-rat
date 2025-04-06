@@ -17,20 +17,6 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/i-cant-believe-its-not-optical/
 ---
 
-#electron #launch #success
-**Mission Name:** I Can't Believe It's Not Optical
-**Launch Date:** 2020-08-31 03:05
-**Outcome:** Success
-**Customer:** [[Capella Space]]
-**Location:** [[Launch Complex 1#Launch Pad A]]
-**Vehicle:** [[Electron]]
-**Orbit Type:** [[🌍 Orbits#LEO]]
-**Target Orbit:** 500 km | 45°
-**Payload Mass:** 100 kg
-**Recovery:** No Attempt
-**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/i-cant-believe-its-not-optical/
-**Press Kit**: [[I-Cant-Believe-Its-Not-Optical-Press-kit2.pdf]]
-
 >[!success] Mission Success
 
 >[!summary] 
@@ -41,6 +27,26 @@ Capella’s payload, ‘Sequoia’, is a single 100 kg class microsatellite whic
 The mission name is a nod to Capella’s SAR technology that provides high quality images of the Earth day or night, and in any weather conditions. Capella’s space-based radar can detect sub-0.5 meter changes on the surface of the Earth, providing insights and data that can be used for security, agricultural and infrastructure monitoring, as well as disaster response and recovery.
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72157716859999646/)
+
+#electron #launch #success
+
+
+| **Mission Name** | I Can't Believe It's Not Optical                                                                                            |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| **Launch Date**  | 2020-08-31 03:05                                                                                                            |
+| **Outcome**      | ✅ Success                                                                                                                   |
+| **Customer**     | [[Capella Space]]                                                                                                           |
+| **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                                           |
+| **Vehicle**      | [[Electron]]                                                                                                                |
+| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                                           |
+| **Target Orbit** | 500 km &#124; 45°                                                                                                           |
+| **Payload Mass** | 100 kg                                                                                                                      |
+| **Recovery**     | No Attempt                                                                                                                  |
+| **Mission Link** | [I Can't Believe It's Not Optical](https://www.rocketlabusa.com/missions/missions-launched/i-cant-believe-its-not-optical/) |
+| **Press Kit**    | [[I-Cant-Believe-Its-Not-Optical-Press-kit2.pdf]]                                                                           |
+
+
+![[Pasted image 20250406132608.png|300]]
 
 ## 📽️ Launch Video
 <div class="responsive-video">

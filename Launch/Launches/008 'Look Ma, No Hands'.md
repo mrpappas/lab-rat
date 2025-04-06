@@ -20,19 +20,6 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/to-be-announced/
 ---
 
-#electron #launch #success
-**Mission Name:** Look Ma, No Hands
-**Launch Date:** 2019-08-19 12:12
-**Outcome:** Success
-**Customer:** [[BlackSky]], [[U.S. Air Force]], [[Unseenlabs]]
-**Location:** [[Launch Complex 1#Launch Pad A]]
-**Vehicle:** [[Electron]]
-**Orbit Type:** [[🌍 Orbits#LEO]]
-**Target Orbit:** 510 km | 94.8°
-**Payload Mass:** 80 kg
-**Recovery:** No Attempt
-**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/to-be-announced/
-**Press Kit**: [[Launch-Media-Kit-Flight-eight.pdf]]
 
 >[!success] Mission Success
 
@@ -46,6 +33,26 @@ The mission launched a CubeSat that formed the cornerstone of a new maritime sur
 Mission management and rideshare aggregator, Spaceflight, also manifested three satellites on its second rideshare mission with Rocket Lab. Among the rideshare payloads was BlackSky’s Global-4 Earth-imaging satellite. The satellite joined BlackSky Global-3, which was launched to low Earth orbit on an Electron vehicle in June 2019. BlackSky’s constellation delivers rapid-revisit satellite imagery to assist with monitoring economic activity such as crop development and herd migration, or surveying damage following natural disasters.
 >
 The final spacecraft manifested on the mission were two experimental satellites for the United States Air Force Space Command, designed to test new technologies including propulsion, power, communications, and drag capabilities for potential applications on future spacecraft.
+
+
+#electron #launch #success
+
+
+| **Mission Name** | Look Ma, No Hands                                                                             |
+| ---------------- | --------------------------------------------------------------------------------------------- |
+| **Launch Date**  | 2019-08-19 12:12                                                                              |
+| **Outcome**      | ✅ Success                                                                                     |
+| **Customer**     | [[BlackSky]], [[U.S. Air Force]], [[Unseenlabs]]                                              |
+| **Location**     | [[Launch Complex 1#Launch Pad A]]                                                             |
+| **Vehicle**      | [[Electron]]                                                                                  |
+| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                             |
+| **Target Orbit** | 510 km &#124; 94.8°                                                                           |
+| **Payload Mass** | 80 kg                                                                                         |
+| **Recovery**     | No Attempt                                                                                    |
+| **Mission Link** | [Look Ma, No Hands](https://www.rocketlabusa.com/missions/missions-launched/to-be-announced/) |
+| **Press Kit**    | [[Launch-Media-Kit-Flight-eight.pdf]]                                                         |
+
+![[Pasted image 20250406131836.png|300]]
 
 ## 📽️ Launch Video
 

@@ -16,20 +16,6 @@ recovery: no attempt likely
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/iot-4-you-and-me/
 ---
 
-#electron #launch #success
-**Mission Name:** IOT 4 You and Me
-**Launch Date:** 2025-02-09 09:43 am NZDT / 2025-02-03 20:43 UTC
-**Outcome:** Success
-**Customer:** [[Kinéis]]
-**Location:** [[Launch Complex 1#Launch Pad A]]
-**Vehicle:** [[Electron]]
-**Orbit Type:** [[🌍 Orbits#SSO]]
-**Target Orbit**: 643 km | 97°
-**Payload Mass**: 150 kg 
-**Recovery**: no attempt
-**Mission Link**: https://www.rocketlabusa.com/missions/missions-launched/iot-4-you-and-me/
-**Press Kit**: [[IOT-4-You-and-Me-Press-Kit.pdf]]
-
 >[!Success] Mission Success
 
 >[!summary]
@@ -50,6 +36,25 @@ The Kinéis constellation also integrates the AIS (Automatic Identification Syst
 >
 Kinéis' satellite-based AIS (S-AIS) is a high-performance system (requiring no ground infrastructure) that complements terrestrial AIS, enabling ships to be monitored worldwide, even in international waters not accessible by terrestrial AIS.
 
+
+#electron #launch #success
+
+| **Mission Name** | IOT 4 You and Me                                                                              |
+| ---------------- | --------------------------------------------------------------------------------------------- |
+| **Launch Date**  | 2025-02-09 09:43 NZDT / 2025-02-03 20:43 UTC                                                  |
+| **Outcome**      | ✅ Success                                                                                     |
+| **Customer**     | [[Kinéis]]                                                                                    |
+| **Location**     | [[Launch Complex 1#Launch Pad A]]                                                             |
+| **Vehicle**      | [[Electron]]                                                                                  |
+| **Orbit Type**   | [[🌍 Orbits#SSO]]                                                                             |
+| **Target Orbit** | 643 km &#124; 97°                                                                             |
+| **Payload Mass** | 150 kg                                                                                        |
+| **Recovery**     | No Attempt                                                                                    |
+| **Mission Link** | [IOT 4 You and Me](https://www.rocketlabusa.com/missions/missions-launched/iot-4-you-and-me/) |
+| **Press Kit**    | [[IOT-4-You-and-Me-Press-Kit.pdf]]                                                            |
+
+
+![[Pasted image 20250406151910.png|300]]
 ## 📦 Payload
 
 x5 [[Kinéis#🛰️ Space Systems#Kinéis IoT|Kinéis IoT]] Satellites ![[Kinéis#🛰️ Space Systems#Kinéis IoT|Kinéis IoT]]

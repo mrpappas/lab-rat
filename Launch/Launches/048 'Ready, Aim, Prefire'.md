@@ -17,20 +17,6 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/ready-aim-prefire/
 ---
 
-#electron #launch #success
-**Mission Name:** Ready, Aim, PREFIRE
-**Launch Date:** 2024-05-25 07:15
-**Outcome:** Success
-**Customer:** [[NASA]]
-**Location:** [[Launch Complex 1#Launch Pad B]]
-**Vehicle:** [[Electron]]
-**Orbit Type:** [[🌍 Orbits#SSO]]
-**Target Orbit:** 525 km | 97.5°
-**Payload Mass:** 15 kg
-**Recovery:** No Attempt
-**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/ready-aim-prefire/
-**Press Kit**: [[FINAL-PREFIRE-presskit-Web.pdf]]
-
 >[!Success] Mission Success
 
 >[!summary]
@@ -43,6 +29,24 @@ NASA’s PREFIRE mission is a climate change-focused mission that that will syst
 The missions will be Rocket Lab’s 48th and 49th Electron launches overall and its sixth and seventh launches of 2024.
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720316727356/)
+
+#electron #launch #success
+
+| **Mission Name** | Ready, Aim, PREFIRE                                                                               |
+| ---------------- | ------------------------------------------------------------------------------------------------- |
+| **Launch Date**  | 2024-05-25 07:15                                                                                  |
+| **Outcome**      | ✅ Success                                                                                         |
+| **Customer**     | [[NASA]]                                                                                          |
+| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                 |
+| **Vehicle**      | [[Electron]]                                                                                      |
+| **Orbit Type**   | [[🌍 Orbits#SSO]]                                                                                 |
+| **Target Orbit** | 525 km &#124; 97.5°                                                                               |
+| **Payload Mass** | 15 kg                                                                                             |
+| **Recovery**     | No Attempt                                                                                        |
+| **Mission Link** | [Ready, Aim, PREFIRE](https://www.rocketlabusa.com/missions/missions-launched/ready-aim-prefire/) |
+| **Press Kit**    | [[FINAL-PREFIRE-presskit-Web.pdf]]                                                                |
+
+![[Pasted image 20250406142303.png|300]]
 
 ## 📽️ Launch Video
 

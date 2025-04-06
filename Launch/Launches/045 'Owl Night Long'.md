@@ -17,20 +17,6 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/owl-night-long/
 ---
 
-#electron #launch #success
-**Mission Name:** Owl Night Long
-**Launch Date:** 2024-03-12 14:00
-**Outcome:** Success
-**Customer:** [[Synspective]]
-**Location:** [[Launch Complex 1#Launch Pad B]]
-**Vehicle:** [[Electron]]
-**Orbit Type:** [[🌍 Orbits#SSO]]
-**Target Orbit:** 561 km | 97°
-**Payload Mass:** 100 kg
-**Recovery:** No Attempt
-**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/owl-night-long/
-**Press Kit**: [[RL-Synspective-Owl-Night-Long-Press-Kit-v2.pdf]]
-
 >[!Success] Mission Success
 
 >[!summary]
@@ -45,6 +31,27 @@ Rocket Lab has been the exclusive launch provider for [[Synspective]] to date an
 Synspective is a satellite data solutions provider with its own constellation of SAR satellites. [[📦 Payload Types#Synthetic Aperture Radar (SAR)|Synthetic Aperture Rader (SAR)]] is an active system that transmits microwave pulses toward the Earth's surface and receives the reflected signals to create an image of the target area. Unlike other imaging technologies, SAR can penetrate clouds and other atmospheric conditions, enabling it to collect data day or night with frequent revisit rates.
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720315392064/)
+
+
+#electron #launch #success
+
+| **Mission Name** | Owl Night Long                                                                            |
+| ---------------- | ----------------------------------------------------------------------------------------- |
+| **Launch Date**  | 2024-03-12 14:00                                                                          |
+| **Outcome**      | ✅ Success                                                                                 |
+| **Customer**     | [[Synspective]]                                                                           |
+| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                         |
+| **Vehicle**      | [[Electron]]                                                                              |
+| **Orbit Type**   | [[🌍 Orbits#SSO]]                                                                         |
+| **Target Orbit** | 561 km &#124; 97°                                                                         |
+| **Payload Mass** | 100 kg                                                                                    |
+| **Recovery**     | No Attempt                                                                                |
+| **Mission Link** | [Owl Night Long](https://www.rocketlabusa.com/missions/missions-launched/owl-night-long/) |
+| **Press Kit**    | [[RL-Synspective-Owl-Night-Long-Press-Kit-v2.pdf]]                                        |
+
+
+![[Pasted image 20250406142049.png|300]]
+
 ### 📦 Payload
 
 x1 [[Synspective#🛰️ Space Systems#StriX|StriX Series Satellites]] ![[Synspective#🛰️ Space Systems#StriX]]

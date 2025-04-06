@@ -17,20 +17,6 @@ recovery: n/a
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/haste-a-la-vista/
 ---
 
-#haste #launch #success
-**Mission Name:** HASTE A La Vista
-**Launch Date:** 2024-11-24 06:00
-**Outcome:** Success
-**Customer:** [[U.S. Department of Defense]]
-**Location:** [[Launch Complex 2#Launch Pad 0C]]
-**Vehicle:** [[HASTE]]
-**Orbit Type:** n/a
-**Target Orbit:** Suborbital
-**Payload Mass:** unknown
-**Recovery:** n/a
-**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/haste-a-la-vista/
-
-
 >[!Success] Mission Success
 
 >[!summary]
@@ -39,6 +25,25 @@ This mission provided hypersonic test launch capabilities under the Multi-Servic
 Rocket Lab’s launch vehicle showcased a new suite of cutting-edge technologies optimized for hypersonic technology tests with vastly increased payloads. Rocket Lab also designed, manufactured, assembled, and integrated the experimental hypersonic instrumentation which was launched on this mission, but on a highly accelerated timeline.
 >
 >🚫 No Official Mission Photo Album
+
+#haste #launch #success
+
+| **Mission Name** | HASTE A La Vista                                                                              |
+| ---------------- | --------------------------------------------------------------------------------------------- |
+| **Launch Date**  | 2024-11-24 06:00                                                                              |
+| **Outcome**      | ✅ Success                                                                                     |
+| **Customer**     | [[U.S. Department of Defense]]                                                                |
+| **Location**     | [[Launch Complex 2#Launch Pad 0C]]                                                            |
+| **Vehicle**      | [[HASTE]]                                                                                     |
+| **Orbit Type**   | n/a                                                                                           |
+| **Target Orbit** | Suborbital                                                                                    |
+| **Payload Mass** | unknown                                                                                       |
+| **Recovery**     | n/a                                                                                           |
+| **Mission Link** | [HASTE A La Vista](https://www.rocketlabusa.com/missions/missions-launched/haste-a-la-vista/) |
+| **Press Kit**    | 🚫 No Press Kit Issued for this Mission                                                       |
+
+
+![[Pasted image 20250406151012.png|300]]
 
 ## 📽️ Launch Video
 

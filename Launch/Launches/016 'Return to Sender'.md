@@ -23,20 +23,6 @@ recovery: Success (Ocean Landing)
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/flight-16/
 ---
 
-#electron #launch #rideshare #success
-**Mission Name:** Return to Sender
-**Launch Date:** 2020-11-20 02:20
-**Outcome:** Success
-**Customer:** [[Trisept]], [[Unseenlabs]], [[Swarm]], [[The University of Auckland]], [[Valve]]
-**Location:** [[Launch Complex 1#Launch Pad A]]
-**Vehicle:** [[Electron]]
-**Orbit Type:** [[🌍 Orbits#SSO]]
-**Target Orbit:** 500 km | 97.3°
-**Payload Mass:** 200 kg
-**Recovery:** Success (Ocean Landing)
-**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/flight-16/
-**Press Kit**: [[Return-to-Sender-Press-Kit-RL-Final3.pdf]]
-
 >[!success] Mission Success
 
 >[!summary]
@@ -47,6 +33,26 @@ The Electron launch vehicle lofted 30 satellites to a sun-synchronous orbit at 5
 This mission also included Rocket Lab's first attempt to bring Electron’s first stage back to Earth under a parachute system for a controlled water landing before collection by a recovery vessel - a major milestone in Rocket Lab’s pursuit to make Electron a reusable rocket to support an increased launch cadence for small satellites.
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72157716860025163/)
+
+
+#electron #launch #rideshare #success
+
+| **Mission Name** | Return to Sender                                                                       |
+| ---------------- | -------------------------------------------------------------------------------------- |
+| **Launch Date**  | 2020-11-20 02:20                                                                       |
+| **Outcome**      | ✅ Success                                                                              |
+| **Customer**     | [[Trisept]], [[Unseenlabs]], [[Swarm]], [[The University of Auckland]], [[Valve]]      |
+| **Location**     | [[Launch Complex 1#Launch Pad A]]                                                      |
+| **Vehicle**      | [[Electron]]                                                                           |
+| **Orbit Type**   | [[🌍 Orbits#SSO]]                                                                      |
+| **Target Orbit** | 500 km &#124; 97.3°                                                                    |
+| **Payload Mass** | 200 kg                                                                                 |
+| **Recovery**     | Success (Ocean Landing)                                                                |
+| **Mission Link** | [Return to Sender](https://www.rocketlabusa.com/missions/missions-launched/flight-16/) |
+| **Press Kit**    | [[Return-to-Sender-Press-Kit-RL-Final3.pdf]]                                           |
+
+![[Pasted image 20250406132803.png|300]]
+
 
 ## 📽️ Launch Video
 <div class="responsive-video">

@@ -13,19 +13,6 @@ payload_mass: Unknown
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/finding-hot-wildfires-near-you/
 ---
-#electron #launch
-**Mission Name**: Finding Hot Wildfires Near You
-**Launch Date**:  2025-03-26 15:30 UTC
-**Outcome**:  Success
-**Customer**: [[Orora Technlogies]]
-**Location**: [[Launch Complex 1#Launch Pad B|LC1-B]]
-**Vehicle**: [[Electron]]
-**Orbit Type**: [[🌍 Orbits#LEO]]
-**Target Orbit**: 550 km | 97°
-**Payload Mass**: Unknown
-**Recovery**: No Attempt
-**Mission Link**: https://www.rocketlabusa.com/missions/missions-launched/finding-hot-wildfires-near-you/
-**Press Kit**: [[F63-OroraTech-presskit.pdf]]
 
 >[!success] Mission Success
 
@@ -37,6 +24,24 @@ Launched on March 27th 2025, the mission delivered 8x OroraTech Constellation Ph
 “Finding Hot Wildfires Near You" was Rocket Lab's fifth mission of 2025 and 63rd Electron launch overall, and brought the total number of satellites delivered to space Electron to 224.
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720324521285/)
+
+
+#electron #launch
+
+| **Mission Name** | Finding Hot Wildfires Near You                                                                                            |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| **Launch Date**  | 2025-03-26 15:30 UTC                                                                                                      |
+| **Outcome**      | ✅ Success                                                                                                                 |
+| **Customer**     | [[Orora Technlogies]]                                                                                                     |
+| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                                         |
+| **Vehicle**      | [[Electron]]                                                                                                              |
+| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                                         |
+| **Target Orbit** | 550 km &#124; 97°                                                                                                         |
+| **Payload Mass** | Unknown                                                                                                                   |
+| **Recovery**     | No Attempt                                                                                                                |
+| **Mission Link** | [Finding Hot Wildfires Near You](https://www.rocketlabusa.com/missions/missions-launched/finding-hot-wildfires-near-you/) |
+| **Press Kit**    | [[F63-OroraTech-presskit.pdf]]                                                                                            |
+
 
 ![[Pasted image 20250320132549.png|300]]
 ## 📦 Payload

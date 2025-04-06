@@ -19,20 +19,6 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/changes-in-latitudes-changes-in-attitudes/
 ---
 
-#electron #launch #success
-**Mission Name:** Changes In Latitudes, Changes In Attitudes
-**Launch Date:** 2024-11-05 10:54
-**Outcome:** Success
-**Customer:** [[E-Space]], Confidential Customer
-**Location:** [[Launch Complex 1#Launch Pad B]]
-**Vehicle:** [[Electron]]
-**Orbit Type:** [[🌍 Orbits#SSO]]
-**Target Orbit:** Classified
-**Payload Mass:** Classified
-**Recovery:** No Attempt
-**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/changes-in-latitudes-changes-in-attitudes/
-**Press Kit**: 🚫 No Press Kit. Confidential customer.
-
 >[!Success] Mission Success
 
 >[!summary]
@@ -41,6 +27,26 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/changes-in
 Rocket Lab’s rapid call-up launch capability, its standardized and rapid production of [[Electron]] launch vehicles that ensures a rocket can be assigned a payload for on-demand launch within days, responsive launch sites, and its experienced team behind the second most frequently launched U.S. orbital rocket, were key enablers for this mission.
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720321266011/)
+
+#electron #launch #success
+
+| **Mission Name** | Changes In Latitudes, Changes In Attitudes                                                                                                       |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Launch Date**  | 2024-11-05 10:54                                                                                                                                 |
+| **Outcome**      | ✅ Success                                                                                                                                        |
+| **Customer**     | [[E-Space]], Confidential Customer                                                                                                               |
+| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                                                                |
+| **Vehicle**      | [[Electron]]                                                                                                                                     |
+| **Orbit Type**   | [[🌍 Orbits#SSO]]                                                                                                                                |
+| **Target Orbit** | Classified                                                                                                                                       |
+| **Payload Mass** | Classified                                                                                                                                       |
+| **Recovery**     | No Attempt                                                                                                                                       |
+| **Mission Link** | [Changes In Latitudes, Changes In Attitudes](https://www.rocketlabusa.com/missions/missions-launched/changes-in-latitudes-changes-in-attitudes/) |
+| **Press Kit**    | 🚫 No Press Kit. Confidential customer.                                                                                                          |
+
+
+![[Pasted image 20250406150915.png|300]]
+
 
 ## 📽️ Launch Video
 

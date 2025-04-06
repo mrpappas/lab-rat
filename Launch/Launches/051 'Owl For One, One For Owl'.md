@@ -17,20 +17,6 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/owl-for-one-one-for-owl/
 ---
 
-#electron #launch #success
-**Mission Name:** Owl For One, One For Owl
-**Launch Date:** 2024-08-02 16:39
-**Outcome:** Success
-**Customer:** [[Synspective]]
-**Location:** [[Launch Complex 1#Launch Pad B]]
-**Vehicle:** [[Electron]]
-**Orbit Type:** [[🌍 Orbits#LEO]]
-**Target Orbit:** 543 km | 43°
-**Payload Mass:** 100 kg
-**Recovery:** No Attempt
-**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/owl-for-one-one-for-owl/
-**Press Kit**: [[FINAL-F51-Synspective-press-kit.pdf]]
-
 >[!Success] Mission Success
 
 >[!summary]
@@ -39,6 +25,28 @@ Rocket Lab launched a dedicated mission for [[Synspective]], a Japanese Earth ob
 The “Owl for One, One for Owl” mission was our 5th launch for [[Synspective]] and our 51st launch overall.
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720319229250/)
+
+
+#electron #launch #success
+
+| **Mission Name** | Owl For One, One For Owl                                                                                     |
+| ---------------- | ------------------------------------------------------------------------------------------------------------ |
+| **Launch Date**  | 2024-08-02 16:39                                                                                             |
+| **Outcome**      | ✅ Success                                                                                                    |
+| **Customer**     | [[Synspective]]                                                                                              |
+| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                            |
+| **Vehicle**      | [[Electron]]                                                                                                 |
+| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                            |
+| **Target Orbit** | 543 km &#124; 43°                                                                                            |
+| **Payload Mass** | 100 kg                                                                                                       |
+| **Recovery**     | No Attempt                                                                                                   |
+| **Mission Link** | [Owl For One, One For Owl](https://www.rocketlabusa.com/missions/missions-launched/owl-for-one-one-for-owl/) |
+| **Press Kit**    | [[FINAL-F51-Synspective-press-kit.pdf]]                                                                      |
+
+
+![[Pasted image 20250406144144.png|300]]
+
+
 ### 📦 Payload
 
 x1 [[Synspective#🛰️ Space Systems#StriX|StriX Series Satellites]] ![[Synspective#🛰️ Space Systems#StriX]]

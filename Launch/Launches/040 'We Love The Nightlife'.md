@@ -18,20 +18,6 @@ recovery: Success (Ocean Landing)
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/new-mission-page-3/
 ---
 
-#electron #launch #success #rutherford
-**Mission Name:** We Love The Nightlife
-**Launch Date:** 2023-08-24 23:45
-**Outcome:** Success
-**Customer:** [[Capella Space]]
-**Location:** [[Launch Complex 1#Launch Pad B]]
-**Vehicle:** [[Electron]]
-**Orbit Type:** [[🌍 Orbits#LEO]]
-**Target Orbit:** 640 km | 53°
-**Payload Mass:** 165 kg
-**Recovery:** Success (Ocean Landing)
-**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/new-mission-page-3/
-**Press Kit**: [[We-Love-The-Nightlife-Press-Kit3...pdf]]
-
 >[!success] Mission Success
 
 >[!summary]
@@ -42,6 +28,26 @@ The ‘We Love the Nightlife’ mission launched from Rocket Lab [[Launch Comple
 The mission was also a recovery mission, with Electron's first stage brought back to Earth under a parachute for a splashdown in the Pacific Ocean for retrieval. **For the first time, Rocket Lab also launched with a pre-flown Rutherford engine** - a significant milestone in the program to evolve Electron into a reusable rocket.
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720309925613/)
+
+
+#electron #launch #success #rutherford
+
+| **Mission Name** | We Love The Nightlife                                                                                |
+| ---------------- | ---------------------------------------------------------------------------------------------------- |
+| **Launch Date**  | 2023-08-24 23:45                                                                                     |
+| **Outcome**      | ✅ Success                                                                                            |
+| **Customer**     | [[Capella Space]]                                                                                    |
+| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                    |
+| **Vehicle**      | [[Electron]]                                                                                         |
+| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                    |
+| **Target Orbit** | 640 km &#124; 53°                                                                                    |
+| **Payload Mass** | 165 kg                                                                                               |
+| **Recovery**     | Success (Ocean Landing)                                                                              |
+| **Mission Link** | [We Love The Nightlife](https://www.rocketlabusa.com/missions/missions-launched/new-mission-page-3/) |
+| **Press Kit**    | [[We-Love-The-Nightlife-Press-Kit3...pdf]]                                                           |
+
+![[Pasted image 20250406141611.png|300]]
+
 ### 📦 Payload
 
 x1 [[Capella Space#🛰️ Space Systems#Acadia|Acadia SAR]] Satellite ![[Capella Space#🛰️ Space Systems#Acadia|Acadia SAR]]

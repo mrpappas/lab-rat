@@ -17,20 +17,6 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/coming-to-a-storm-near-you/
 ---
 
-#electron #launch #success
-**Mission Name:** Coming To A Storm Near You
-**Launch Date:** 2023-05-26 03:46
-**Outcome:** Success
-**Customer:** [[NASA]]
-**Location:** [[Launch Complex 1#Launch Pad B]]
-**Vehicle:** [[Electron]]
-**Orbit Type:** [[🌍 Orbits#LEO]]
-**Target Orbit:** 550 km | 32°
-**Payload Mass:** 10 kg
-**Recovery:** No Attempt
-**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/coming-to-a-storm-near-you/
-**Press Kit**: [[TROPICS-PRESS-KIT-F36-F37.pdf]]
-
 >[!success] Mission Success
 
 >[!summary]
@@ -43,6 +29,24 @@ The constellation, which is part of NASA’s Earth System Science Pathfinder Pro
 More info on TROPICS: [Mission Overview | TROPICS](https://tropics.ll.mit.edu/CMS/tropics/Mission-Overview)
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720308583318/)
+
+#electron #launch #success
+
+| **Mission Name** | Coming To A Storm Near You                                                                                        |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------- |
+| **Launch Date**  | 2023-05-26 03:46                                                                                                  |
+| **Outcome**      | ✅ Success                                                                                                         |
+| **Customer**     | [[NASA]]                                                                                                          |
+| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                                 |
+| **Vehicle**      | [[Electron]]                                                                                                      |
+| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                                 |
+| **Target Orbit** | 550 km &#124; 32°                                                                                                 |
+| **Payload Mass** | 10 kg                                                                                                             |
+| **Recovery**     | No Attempt                                                                                                        |
+| **Mission Link** | [Coming To A Storm Near You](https://www.rocketlabusa.com/missions/missions-launched/coming-to-a-storm-near-you/) |
+| **Press Kit**    | [[TROPICS-PRESS-KIT-F36-F37.pdf]]                                                                                 |
+
+![[Pasted image 20250406141023.png|300]]
 
 ## 📽️ Launch Video
 

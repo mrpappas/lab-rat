@@ -17,20 +17,6 @@ recovery: Controlled (Atmosphere Test)
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/birds-of-a-feather/
 ---
 
-#electron #launch #success
-**Mission Name:** Birds of a Feather
-**Launch Date:** 2020-01-31 02:56
-**Outcome:** Success
-**Customer:** [[National Reconnaissance Office (NRO)]]
-**Location:** [[Launch Complex 1#Launch Pad A]]
-**Vehicle:** [[Electron]]
-**Orbit Type:** [[🌍 Orbits#LEO]]
-**Target Orbit:** 400 km | 37°
-**Payload Mass:** Classified
-**Recovery:** Controlled (Atmosphere Test)
-**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/birds-of-a-feather/
-**Press Kit**: [[FINAL-F11-Birds-of-a-Feather-Presskit.pdf]]
-
 >[!success] Mission Success
 
 >[!summary] 
@@ -38,6 +24,22 @@ Rocket Lab's 11th Electron flight - Birds of a Feather - launched a dedicated mi
 >
 The NRO competitively awarded the contract under the Rapid Acquisition of a Small Rocket (RASR) contract vehicle. RASR allows the NRO to explore new launch opportunities that can provide a streamlined, commercial approach for getting small satellites into space.
 
+
+#electron #launch #success
+
+| **Mission Name** | Birds of a Feather                                                                                |
+| ---------------- | ------------------------------------------------------------------------------------------------- |
+| **Launch Date**  | 2020-01-31 02:56                                                                                  |
+| **Outcome**      | ✅ Success                                                                                         |
+| **Customer**     | [[National Reconnaissance Office (NRO)]]                                                          |
+| **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                 |
+| **Vehicle**      | [[Electron]]                                                                                      |
+| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                 |
+| **Target Orbit** | 400 km &#124; 37°                                                                                 |
+| **Payload Mass** | Classified                                                                                        |
+| **Recovery**     | Controlled (Atmosphere Test)                                                                      |
+| **Mission Link** | [Birds of a Feather](https://www.rocketlabusa.com/missions/missions-launched/birds-of-a-feather/) |
+| **Press Kit**    | [[FINAL-F11-Birds-of-a-Feather-Presskit.pdf]]                                                     |
 
 ## 📽️ Launch Video
 <div class="responsive-video">

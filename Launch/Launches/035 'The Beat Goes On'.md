@@ -17,20 +17,6 @@ recovery: Success (Ocean Landing)
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/the-beat-goes-on/
 ---
 
-#electron #launch #success
-**Mission Name:** The Beat Goes On
-**Launch Date:** 2023-03-24 09:14
-**Outcome:** Success
-**Customer:** [[BlackSky]]
-**Location:** [[Launch Complex 1#Launch Pad B]]
-**Vehicle:** [[Electron]]
-**Orbit Type:** [[🌍 Orbits#LEO]]
-**Target Orbit:** 450 km | 42°
-**Payload Mass:** 120 kg
-**Recovery:** Success (Ocean Landing)
-**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/the-beat-goes-on/
-**Press Kit**: [[The-Beat-Goes-On-Press-Kit.pdf]]
-
 >[!success] Mission Success
 
 >[!summary]
@@ -39,6 +25,26 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/the-beat-g
 The pair of high-resolution, multi-spectral, Gen-2 satellites launched on [[Electron]] expanded BlackSky’s network in space and its offering of real-time geospatial intelligence and monitoring services. BlackSky combines high-resolution images captured by its constellation of microsatellites with its proprietary artificial intelligence software to deliver analytics and insights to industries including transportation, infrastructure, land use, defense, supply chain management, and humanitarian aid.
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720306962454/)
+
+#electron #launch #success
+
+| **Mission Name** | The Beat Goes On                                                                              |
+| ---------------- | --------------------------------------------------------------------------------------------- |
+| **Launch Date**  | 2023-03-24 09:14                                                                              |
+| **Outcome**      | ✅ Success                                                                                     |
+| **Customer**     | [[BlackSky]]                                                                                  |
+| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                             |
+| **Vehicle**      | [[Electron]]                                                                                  |
+| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                             |
+| **Target Orbit** | 450 km &#124; 42°                                                                             |
+| **Payload Mass** | 120 kg                                                                                        |
+| **Recovery**     | Success (Ocean Landing)                                                                       |
+| **Mission Link** | [The Beat Goes On](https://www.rocketlabusa.com/missions/missions-launched/the-beat-goes-on/) |
+| **Press Kit**    | [[The-Beat-Goes-On-Press-Kit.pdf]]                                                            |
+
+
+![[Pasted image 20250406140754.png|300]]
+
 
 ## 📽️ Launch Video
 

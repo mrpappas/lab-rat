@@ -14,19 +14,6 @@ payload_mass: 150 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/high-five
 ---
-#electron #launch
-**Mission Name**: High Five
-**Launch Date**:  2025-03-18 01:31 UTC
-**Outcome**: Success
-**Customer**: [[Kinéis]]
-**Location**: [[Launch Complex 1#Launch Pad A]]
-**Vehicle**: [[Electron]]
-**Orbit Type**: [[🌍 Orbits#SSO]]
-**Target Orbit**: 643 km | 97°
-**Payload Mass**: 150 kg
-**Recovery**: No Attempt
-**Mission Link**: https://www.rocketlabusa.com/missions/missions-launched/high-five
-**Press Kit**: [[Kineis-High-Five-Press-Kit.pdf]]
 
 >[!success] Mission Success
 
@@ -38,6 +25,24 @@ The mission was the fifth of five dedicated Electron launches for Kinéis. The p
 Across these five launches in total, Rocket Lab deployed Kinéis’ complete constellation of 25 satellites. The launch has been tailored specifically to meet Kinéis’ mission requirements, giving them greater control over launch schedule, orbit, and deployment parameters than would be possible on a larger rideshare mission.
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720324480162) 
+
+
+#electron #launch
+
+| **Mission Name** | High Five                                                                      |
+| ---------------- | ------------------------------------------------------------------------------ |
+| **Launch Date**  | 2025-03-18 01:31 UTC                                                           |
+| **Outcome**      | ✅ Success                                                                      |
+| **Customer**     | [[Kinéis]]                                                                     |
+| **Location**     | [[Launch Complex 1#Launch Pad A]]                                              |
+| **Vehicle**      | [[Electron]]                                                                   |
+| **Orbit Type**   | [[🌍 Orbits#SSO]]                                                              |
+| **Target Orbit** | 643 km &#124; 97°                                                              |
+| **Payload Mass** | 150 kg                                                                         |
+| **Recovery**     | No Attempt                                                                     |
+| **Mission Link** | [High Five](https://www.rocketlabusa.com/missions/missions-launched/high-five) |
+| **Press Kit**    | [[Kineis-High-Five-Press-Kit.pdf]]                                             |
+
 
 ![[Pasted image 20250315172622.png|300]]
 

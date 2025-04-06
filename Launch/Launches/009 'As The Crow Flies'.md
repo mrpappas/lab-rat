@@ -17,20 +17,6 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/as-the-crow-flies/
 ---
 
-#electron #launch #success
-**Mission Name:** As The Crow Flies
-**Launch Date:** 2019-10-17 01:22
-**Outcome:** Success
-**Customer:** [[Astro Digital]]
-**Location:** [[Launch Complex 1#Launch Pad A]]
-**Vehicle:** [[Electron]]
-**Orbit Type:** [[🌍 Orbits#LEO]]
-**Target Orbit:** 1200 km | 87.9°
-**Payload Mass:** 20 kg
-**Recovery:** No Attempt
-**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/as-the-crow-flies/
-**Press Kit**: [[MED19-003-Launch-Media-Kit-Flight-nine-complete.pdf]]
-
 >[!success] Mission Success
 
 >[!summary] 
@@ -42,6 +28,24 @@ This mission flew a Palisade technology demonstration satellite, a 16U CubeSat b
 >
 The mission was named ‘As The Crow Flies’ in a nod to Astro Digital’s Corvus Platform, which provides flexible and cost-effective solutions across a wide range of applications and mission profiles on bus variants ranging from 6U and 16U CubeSats to ESPA Class. Corvus is also a widely-distributed genus of birds which includes crows.
 
+
+#electron #launch #success
+
+| **Mission Name** | As The Crow Flies                                                                               |
+| ---------------- | ----------------------------------------------------------------------------------------------- |
+| **Launch Date**  | 2019-10-17 01:22                                                                                |
+| **Outcome**      | ✅ Success                                                                                       |
+| **Customer**     | [[Astro Digital]]                                                                               |
+| **Location**     | [[Launch Complex 1#Launch Pad A]]                                                               |
+| **Vehicle**      | [[Electron]]                                                                                    |
+| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                               |
+| **Target Orbit** | 1200 km &#124; 87.9°                                                                            |
+| **Payload Mass** | 20 kg                                                                                           |
+| **Recovery**     | No Attempt                                                                                      |
+| **Mission Link** | [As The Crow Flies](https://www.rocketlabusa.com/missions/missions-launched/as-the-crow-flies/) |
+| **Press Kit**    | [[MED19-003-Launch-Media-Kit-Flight-nine-complete.pdf]]                                         |
+
+![[Pasted image 20250406131951.png|300]]
 
 ## 📽️ Launch Video
 

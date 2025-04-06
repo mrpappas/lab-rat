@@ -17,26 +17,30 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/ice-ais-baby/
 ---
 
-#electron #launch #success
-**Mission Name:** Ice AIS Baby
-**Launch Date:** 2024-11-25 04:55
-**Outcome:** Success
-**Customer:** [[Kinéis]]
-**Location:** [[Launch Complex 1#Launch Pad B]]
-**Vehicle:** [[Electron]]
-**Orbit Type:** [[🌍 Orbits#LEO]]
-**Target Orbit:** 643 km 97
-**Payload Mass:** 150 kg
-**Recovery:** No Attempt
-**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/ice-ais-baby/
-**Press Kit**: [[Ice-AIS-Baby-Press-Kit2.pdf]]
-
 >[!Success] Mission Success
 
 >[!summary]
 The “Ice AIS Baby” mission launched successfully on November 25th NZDT, 2024. Lift-off took place from Rocket Lab’s private orbital launch site, [[Launch Complex 1]], in New Zealand. The mission was the third of five dedicated [[Electron]] launches booked by [[Kinéis]] in a multi-launch contract that will see Rocket Lab deploy an entire constellation of 25 IoT satellites.  The first two missions were successfully launched by Electron in June and September 2024. 
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720322166233/)
+
+#electron #launch #success
+
+| **Mission Name** | Ice AIS Baby                                                                          |
+| ---------------- | ------------------------------------------------------------------------------------- |
+| **Launch Date**  | 2024-11-25 04:55                                                                      |
+| **Outcome**      | ✅ Success                                                                             |
+| **Customer**     | [[Kinéis]]                                                                            |
+| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                     |
+| **Vehicle**      | [[Electron]]                                                                          |
+| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                     |
+| **Target Orbit** | 643 km &#124; 97°                                                                     |
+| **Payload Mass** | 150 kg                                                                                |
+| **Recovery**     | No Attempt                                                                            |
+| **Mission Link** | [Ice AIS Baby](https://www.rocketlabusa.com/missions/missions-launched/ice-ais-baby/) |
+| **Press Kit**    | [[Ice-AIS-Baby-Press-Kit2.pdf]]                                                       |
+
+![[Pasted image 20250406151244.png|300]]
 
 ### 📦 Payload
 

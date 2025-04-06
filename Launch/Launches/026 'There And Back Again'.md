@@ -23,20 +23,6 @@ recovery: Partial Failure (Aerial Capture)
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/there-and-back-again/
 ---
 
-#electron #launch #success
-**Mission Name:** There And Back Again
-**Launch Date:** 2022-05-02 22:49
-**Outcome:** Success
-**Customer:** [[Alba Orbital]], [[Astrix Astronautics]], [[Aurora Propulsion Technologies]], [[E-Space]], [[Spaceflight]], [[Unseenlabs]]
-**Location:** [[Launch Complex 1#Launch Pad A]]
-**Vehicle:** [[Electron]]
-**Orbit Type:** [[🌍 Orbits#SSO]]
-**Target Orbit:** 520 km | 94°
-**Payload Mass:** Unknown
-**Recovery:** Partial Failure (Aerial Capture)
-**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/there-and-back-again/
-**Press Kit**: [[There-And-Back-Again-Press-Kit2.pdf]]
-
 >[!success] Mission Success
 
 >[!summary]
@@ -47,6 +33,25 @@ The “There And Back Again” mission deployed 34 satellites to a sun synchrono
 “There And Back Again” was also a recovery mission where, for the first time, Rocket Lab caught Electron’s first stage as it returned from space under parachutes using a helicopter. The successful catch brings Electron one step closer to being the first reusable orbital small sat launcher.
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720301762910/)
+
+#electron #launch #success
+
+| **Mission Name** | There And Back Again                                                                                                        |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| **Launch Date**  | 2022-05-02 22:49                                                                                                            |
+| **Outcome**      | ✅ Success                                                                                                                   |
+| **Customer**     | [[Alba Orbital]], [[Astrix Astronautics]], [[Aurora Propulsion Technologies]], [[E-Space]], [[Spaceflight]], [[Unseenlabs]] |
+| **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                                           |
+| **Vehicle**      | [[Electron]]                                                                                                                |
+| **Orbit Type**   | [[🌍 Orbits#SSO]]                                                                                                           |
+| **Target Orbit** | 520 km &#124; 94°                                                                                                           |
+| **Payload Mass** | Unknown                                                                                                                     |
+| **Recovery**     | Partial Failure (Aerial Capture)                                                                                            |
+| **Mission Link** | [There And Back Again](https://www.rocketlabusa.com/missions/missions-launched/there-and-back-again/)                       |
+| **Press Kit**    | [[There-And-Back-Again-Press-Kit2.pdf]]                                                                                     |
+
+![[Pasted image 20250406135854.png|300]]
+
 
 ## 📽️ Launch Video
 

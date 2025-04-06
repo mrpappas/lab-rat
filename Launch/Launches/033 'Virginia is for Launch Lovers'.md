@@ -17,20 +17,6 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/new-mission-page-2/
 ---
 
-#electron #launch #success
-**Mission Name:** Virginia is for Launch Lovers
-**Launch Date:** 2023-01-24 23:00
-**Outcome:** Success
-**Customer:** [[HawkEye 360]]
-**Location:** [[Launch Complex 2#Launch Pad 0C]]
-**Vehicle:** [[Electron]]
-**Orbit Type:** [[🌍 Orbits#LEO]]
-**Target Orbit:** 550 km | 40.5°
-**Payload Mass:** 90 kg
-**Recovery:** No Attempt
-**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/new-mission-page-2/
-**Press Kit**: [[Virginia-is-for-Launch-Lovers-Press-Kit6.pdf]]
-
 >[!success] Mission Success
 
 >[!summary]
@@ -41,6 +27,24 @@ The mission deployed three satellites for [[HawkEye 360]], a radio frequency geo
 Launch Complex 2 supplements Rocket Lab’s existing site, Launch Complex 1 in New Zealand, from which 32 Electron missions have already launched. This extensive launch heritage already makes Electron the most frequently launched small orbital rocket globally, and now with two launch complexes combined, Rocket Lab can support more than 130 launch opportunities every year, delivering unmatched flexibility for rapid, responsive launch for government and commercial satellite operators. The launch pad and production complex for Rocket Lab’s large reusable Neutron launch vehicle will also be located at the Mid-Atlantic Regional Spaceport, streamlining operations across small and large launch.
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720302855243/)
+
+#electron #launch #success
+
+| **Mission Name** | Virginia is for Launch Lovers                                                                                |
+| ---------------- | ------------------------------------------------------------------------------------------------------------ |
+| **Launch Date**  | 2023-01-24 23:00                                                                                             |
+| **Outcome**      | ✅ Success                                                                                                    |
+| **Customer**     | [[HawkEye 360]]                                                                                              |
+| **Location**     | [[Launch Complex 2#Launch Pad 0C]]                                                                           |
+| **Vehicle**      | [[Electron]]                                                                                                 |
+| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                            |
+| **Target Orbit** | 550 km &#124; 40.5°                                                                                          |
+| **Payload Mass** | 90 kg                                                                                                        |
+| **Recovery**     | No Attempt                                                                                                   |
+| **Mission Link** | [Virginia is for Launch Lovers](https://www.rocketlabusa.com/missions/missions-launched/new-mission-page-2/) |
+| **Press Kit**    | [[Virginia-is-for-Launch-Lovers-Press-Kit6.pdf]]                                                             |
+
+![[Pasted image 20250406140613.png|300]]
 
 ## 📦 Payload
 

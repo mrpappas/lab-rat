@@ -15,19 +15,6 @@ payload_mass: 138 kg
 recovery: No attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/fasten-your-space-belts/
 ---
-#electron #launch #success
-**Mission Name**: Fasten Your Space Belts
-**Launch Date**: 2025-02-19 12:17 pm NZDT
-**Outcome**: Success
-**Customer**: [[BlackSky]]
-**Location**: [[Launch Complex 1#Launch Pad B]]
-**Vehicle**: [[Electron]]
-**Orbit Type**: [[🌍 Orbits#LEO|LEO]]
-**Target Orbit**: 470km | 59°
-**Payload Mass**: 138 kg
-**Recovery**: No attempt
-**Mission Link**: https://www.rocketlabusa.com/missions/missions-launched/fasten-your-space-belts/
-**Press Kit**: [[RL-F60-BlackSky-Fasten-Your-Space-Belts.pdf]]
 
 >[!success] Mission Success
 
@@ -37,6 +24,27 @@ Like earlier Black Sky launches on [[Electron]], this mission was supported by a
 'Fasten Your Space Belts' was the ninth launch for BlackSky since 2019, making Rocket Lab the most prolific launch provider for BlackSky’s constellation to date.
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720323914590/)
+
+
+#electron #launch #success
+
+| **Mission Name** | Fasten Your Space Belts                                                                                     |
+| ---------------- | ----------------------------------------------------------------------------------------------------------- |
+| **Launch Date**  | 2025-02-19 12:17 NZDT                                                                                       |
+| **Outcome**      | ✅ Success                                                                                                   |
+| **Customer**     | [[BlackSky]]                                                                                                |
+| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                           |
+| **Vehicle**      | [[Electron]]                                                                                                |
+| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                           |
+| **Target Orbit** | 470 km &#124; 59°                                                                                           |
+| **Payload Mass** | 138 kg                                                                                                      |
+| **Recovery**     | No Attempt                                                                                                  |
+| **Mission Link** | [Fasten Your Space Belts](https://www.rocketlabusa.com/missions/missions-launched/fasten-your-space-belts/) |
+| **Press Kit**    | [[RL-F60-BlackSky-Fasten-Your-Space-Belts.pdf]]                                                             |
+
+
+![[Pasted image 20250406152034.png|300]]
+
 
 ## 📦 Payload
 

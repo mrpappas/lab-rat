@@ -17,20 +17,6 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/rocket-like-a-hurricane/
 ---
 
-#electron #launch #success
-**Mission Name:** Rocket Like A Hurricane
-**Launch Date:** 2023-05-08 01:00
-**Outcome:** Success
-**Customer:** [[NASA]]
-**Location:** [[Launch Complex 1#Launch Pad B]]
-**Vehicle:** [[Electron]]
-**Orbit Type:** [[🌍 Orbits#LEO]]
-**Target Orbit:** 550 km | 32°
-**Payload Mass:** 10 kg
-**Recovery:** No Attempt
-**Mission Link:** https://www.rocketlabusa.com/missions/missions-launched/rocket-like-a-hurricane/
-**Press Kit**: [[TROPICS-PRESS-KIT-F36-F37.pdf]]
-
 >[!success] Mission Success
 
 >[!summary]
@@ -46,6 +32,23 @@ More info on TROPICS: [Mission Overview | TROPICS](https://tropics.ll.mit.edu/CM
 >
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720307779446/)
 
+#electron #launch #success
+
+| **Mission Name** | Rocket Like A Hurricane                                                                                     |
+| ---------------- | ----------------------------------------------------------------------------------------------------------- |
+| **Launch Date**  | 2023-05-08 01:00                                                                                            |
+| **Outcome**      | ✅ Success                                                                                                   |
+| **Customer**     | [[NASA]]                                                                                                    |
+| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                           |
+| **Vehicle**      | [[Electron]]                                                                                                |
+| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                           |
+| **Target Orbit** | 550 km &#124; 32°                                                                                           |
+| **Payload Mass** | 10 kg                                                                                                       |
+| **Recovery**     | No Attempt                                                                                                  |
+| **Mission Link** | [Rocket Like A Hurricane](https://www.rocketlabusa.com/missions/missions-launched/rocket-like-a-hurricane/) |
+| **Press Kit**    | [[TROPICS-PRESS-KIT-F36-F37.pdf]]                                                                           |
+
+![[Pasted image 20250406140838.png|300]]
 ## 📽️ Launch Video
 
 <div class="responsive-video">
