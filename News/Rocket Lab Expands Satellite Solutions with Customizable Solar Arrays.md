@@ -2,7 +2,7 @@
 title: "Rocket Lab Expands Satellite Solutions with Customizable Solar Arrays"
 source: "https://www.rocketlabusa.com/updates/rocket-lab-expands-satellite-solutions-with-customizable-solar-arrays/"
 author: "[[Rocket Lab]]"
-published: 2020-08-12
+published: 2025-04-08
 tags: 
  - solar
  - space-systems
