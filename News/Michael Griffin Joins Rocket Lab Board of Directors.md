@@ -2,12 +2,10 @@
 
 title: "Michael Griffin Joins Rocket Lab Board of Directors "
 source: "https://www.rocketlabusa.com/updates/michael-griffin-joins-rocket-lab-board-of-directors/"
-author:
-  - "[[Rocket Lab]]"
+author: "[[Rocket Lab]]"
 published: 2020-08-12
-description: "*Michael Griffin Joins Rocket Lab Board of Directors*"
-insider:
- - "[[Michael D. Griffin]]"
+description: "Michael Griffin Joins Rocket Lab Board of Directors*"
+insider: "[[Michael D. Griffin]]"
 ---
 >[!summary]
 **Title:** Michael Griffin Joins Rocket Lab Board of Directors 

@@ -2,8 +2,7 @@
 
 title: "Link to Rocket Lab Imagery and Video "
 source: "https://www.rocketlabusa.com/updates/link-to-rocket-lab-imagery-and-video/"
-author:
-  - "[[Rocket Lab]]"
+author: "[[Rocket Lab]]"
 published: 2013-11-04
 description: "Click here to access Rocket Lab imagery and video"
 ---

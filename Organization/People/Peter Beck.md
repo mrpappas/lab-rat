@@ -38,8 +38,8 @@ sort Filing_Date desc
 | [[Filings/2025/Form 4/01-10-25 Form 4 - Peter Beck.md\|01-10-25 Form 4 - Peter Beck]]                                                                            | [[Filings/Filing Definitions.md#Form 4\|Form 4]]             | January 10, 2025   |
 | [[Filings/2025/13G + 13D/01-07-2025 13D - Preferred Stock Exchange and Ownership Details.md\|01-07-2025 13D - Preferred Stock Exchange and Ownership Details]]   | [[Filings/Filing Definitions.md#Schedule 13D\|Schedule 13D]] | January 07, 2025   |
 | [[Filings/2025/8-K/01-07-2025 8-K - Preferred Stock Exchange with The Equatorial Trust.md\|01-07-2025 8-K - Preferred Stock Exchange with The Equatorial Trust]] | [[Filings/Filing Definitions.md#8-K\|8-K]]                   | January 07, 2025   |
-| [[Filings/2024/8-K/12-05-24 8-K - Preferred Stock Agreement – Sir Peter Beck.md\|12-05-24 8-K - Preferred Stock Agreement – Sir Peter Beck]]                     | [[Filings/Filing Definitions.md#8-K\|Form 8-K]]              | December 05, 2024  |
 | [[Filings/2024/13G+13D/12-05-24 SC 13DA - Peter Beck.md\|12-05-24 SC 13DA - Peter Beck]]                                                                         | [[Filings/Filing Definitions.md#Schedule 13D\|Schedule 13D]] | December 05, 2024  |
+| [[Filings/2024/8-K/12-05-24 8-K - Preferred Stock Agreement – Sir Peter Beck.md\|12-05-24 8-K - Preferred Stock Agreement – Sir Peter Beck]]                     | [[Filings/Filing Definitions.md#8-K\|Form 8-K]]              | December 05, 2024  |
 | [[Filings/2024/Form 4/12-05-24 Form 4 - Peter Beck.md\|12-05-24 Form 4 - Peter Beck]]                                                                            | [[Filings/Filing Definitions.md#Form 4\|Form 4]]             | December 05, 2024  |
 | [[Filings/2023/13G+13D/9-18-23 SC 13DA - Peter Beck.md\|9-18-23 SC 13DA - Peter Beck]]                                                                           | [[Filings/Filing Definitions.md#Schedule 13D\|Schedule 13D]] | September 18, 2023 |
 | [[Filings/2023/Form 4/9-13-23 Form 4 - Peter Beck.md\|9-13-23 Form 4 - Peter Beck]]                                                                              | [[Filings/Filing Definitions.md#Form 4\|Form 4]]             | September 13, 2023 |
@@ -157,8 +157,8 @@ sort date desc
 | [[Interviews/Paul Henry - Why Rocket Lab Picked New Zealand.md\|Paul Henry - Why Rocket Lab Picked New Zealand]]                                                         | July 01, 2015      | Paul Henry Show                                   |
 | [[Interviews/Auckland Startup & Tech Meetup 2014.md\|Auckland Startup & Tech Meetup 2014]]                                                                               | January 13, 2015   | Auckland Startup & Tech Meetup 2014               |
 | [[Interviews/TMRO Space - The Electron Rocket.md\|TMRO Space - The Electron Rocket]]                                                                                     | August 10, 2014    | TMRO Space                                        |
-| [[Interviews/Spark Speaker Video - Peter Beck.md\|Spark Speaker Video - Peter Beck]]                                                                                     | May 06, 2012       | Spark Speaker Video                               |
 | [[Interviews/Spark Interview - Peter Beck.md\|Spark Interview - Peter Beck]]                                                                                             | May 06, 2012       | Spark Interview                                   |
+| [[Interviews/Spark Speaker Video - Peter Beck.md\|Spark Speaker Video - Peter Beck]]                                                                                     | May 06, 2012       | Spark Speaker Video                               |
 
 %%DATAVIEW_PUBLISHER: end %%
 
