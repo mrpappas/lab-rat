@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Space Systems.md",
+                "file": "Space Systems/Solar Solutions/STARRAY.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Space Systems"
+              "title": "STARRAY"
             }
           }
         ]
@@ -196,12 +196,13 @@
   },
   "active": "cad46fee08db83d5",
   "lastOpenFiles": [
+    "Board of Directors.md",
+    "Space Systems/Solar Solutions/STARRAY.md",
+    "Space Systems.md",
     "Home.md",
     "Interviews.md",
     "News/Rocket Lab Expands Satellite Solutions with Customizable Solar Arrays.md",
     "News.md",
-    "Space Systems.md",
-    "Space Systems/Solar Solutions/STARRAY.md",
     "Space Systems/Solar Solutions/Z4J+ Solar Cell.md",
     "Space Systems/Solar Solutions/ZTJ-Ω Solar Cell.md",
     "Space Systems/Solar Solutions/ZTJ+ Solar Cell.md",
@@ -227,7 +228,6 @@
     "Organization/People/Adam Spice.md",
     "Organization/Subsidiaries/Mynaric News Archive/Mynaric opens Washington D.C. office as U.S. government market spearheads adoption of laser communication capabilities.md",
     "Organization/Subsidiaries/Mynaric News Archive/Mynaric hires veteran laser communications executive Mustafa Veziroglu as President of Mynaric.md",
-    "Organization/Subsidiaries/Mynaric News Archive/Mynaric opens Washington D.C. office as U.S. government market spearheads adoption of laser communication capabilities - appoints global senior sales team to strengthen market access.md",
     "Organization/Subsidiaries/Mynaric News Archive",
     "Vault-Assets/Images/Pasted image 20250406125917.png",
     "Vault-Assets/Images/Pasted image 20250406125944.png",
