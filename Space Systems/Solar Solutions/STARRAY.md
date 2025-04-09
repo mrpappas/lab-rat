@@ -16,13 +16,14 @@
 ![[Pasted image 20250409020755.png|400]]
 ### For low mass satellites ranging from ~130W to ~390W BOL per wing (1 to 3 deployable panels per wing)
 
-• Up to three panels per wing
-• Single substrate size option of 750mm (along wing deployment direction) x 840mm
-• Single hinge per panel
+• Up to three panels per wing  
+• Single substrate size option of 750mm (along wing deployment direction) x 840mm  
+• Single hinge per panel  
 • Panel thickness of 12mm with 12mm spacing, results in maximum distance between spacecraft sidewall and most extruded point of:
-	 • 99mm for single panel
-	 • 123mm for two panels
-	 • 146mm for three panels
+- 99mm for single panel
+- 123mm for two panels
+- 146mm for three panels
+
 • Approximate mass of 3.3 kg/m2 (without deployment mechanisms) or 4.3 kg/m2 to 4.5 kg/m2 (including deployment mechanisms) dependent on specific option size option and number of panels per wing.
 • Electrical interface to spacecraft via rectangular GlenAir series 790 connector (pin count of 13, 33 and 43 for single, two and three panels per wing respectively).
 
@@ -43,10 +44,11 @@
 • 7 panel size options
 • Length (along wing deployment direction) 541mm, 667mm, and 800mm; Width: 1198mm, 1479mm, 1619mm, 1760mm, 1900mm
 • Panel thickness of 18mm with 18mm spacing, resulting in maximum distance between spacecraft sidewall and most extruded point of:
-	 • 95mm for single panel
-	 • 131mm for two panels
-	 • 167mm for three panels
-	 • 203mm for four panels
+- 95mm for single panel
+- 131mm for two panels
+- 167mm for three panels
+- 203mm for four panels
+
 • A yoke adds 36mm to the total stowed wing thickness
 • Yokes can be added depending on the specific configurations required.
 • Approximate mass of 4.3 kg/m2 to 5.8 kg/m2 (without deployment mechanisms) or 5.4 kg/m2 to 10.4 kg/m2 (including deployment mechanisms) dependent on specific option size option and number of panels per wing. A yoke will add between 1.9kg and 2.3kg depending on the specific configuration.
