@@ -121,6 +121,5 @@ Made with [Obsidian](https://obsidian.md/)
 
 ## 🛠️ Want to contribute? 
 
-**Check here**: [[To Do List]]
 **Change Request Form**: [Link](https://docs.google.com/forms/d/e/1FAIpQLSc8_RGjO3WIBK9duFOTnrdnfTLYURA4qqhYs0ZCXeHtYCoLlg/viewform)
 🖥️ **GitHub**: https://github.com/mrpappas/lab-rat
