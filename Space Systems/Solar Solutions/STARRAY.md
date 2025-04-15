@@ -1,7 +1,8 @@
 >[!summary]
 >Rocket Lab’s Standardized Array (STARRAY) is a pre-engineered solution, providing customizable solar array solutions to meet the diverse power needs of satellites operating in any orbital condition. STARRAY can be configured into one, two, three or four panels per wing depending on requirements. STARRAY offers two voltage options of 45V and 62V at beginning of life (BOL), targeting end of life (EOL) options of approximately 36V and 50V for a typical missions lifecycle (end of life performance analysis can be provided upon request).
 >
-📊 Data Sheet: [[RL-SolAero-Data-Sheet-StarRay.pdf]]
+>🔗 Official Page: https://www.rocketlabusa.com/space-systems/solar/substrates-and-panels/
+>📊 Data Sheet: [[RL-SolAero-Data-Sheet-StarRay.pdf]]
 
 ![[Pasted image 20250409020737.png]]
 ## Features

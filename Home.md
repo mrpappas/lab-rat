@@ -95,6 +95,7 @@ limit 10
 
 | File                                                                                                                                                                                                                                                                                               |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[News/Rocket Lab Onramped To Multi-Billion Dollar U.S. and U.K. Defense Contracts To Expand Hypersonic Technology Development with HASTE.md\|Rocket Lab Onramped To Multi-Billion Dollar U.S. and U.K. Defense Contracts To Expand Hypersonic Technology Development with HASTE]]                 |
 | [[News/Rocket Lab Expands Satellite Solutions with Customizable Solar Arrays.md\|Rocket Lab Expands Satellite Solutions with Customizable Solar Arrays]]                                                                                                                                           |
 | [[News/A New Frontier in Radios Rocket Lab Announces Expanded Radio Products for Reliable Command and Control.md\|A New Frontier in Radios Rocket Lab Announces Expanded Radio Products for Reliable Command and Control]]                                                                         |
 | [[News/Rocket Lab’s Neutron Rocket On-Ramped to U.S. Space Force’s $5.6b National Security Space Launch (NSSL) program.md\|Rocket Lab’s Neutron Rocket On-Ramped to U.S. Space Force’s $5.6b National Security Space Launch (NSSL) program]]                                                       |
@@ -104,7 +105,6 @@ limit 10
 | [[News/Rocket Lab Successfully Launches 61st Electron Mission, Second Launch for iQPS.md\|Rocket Lab Successfully Launches 61st Electron Mission, Second Launch for iQPS]]                                                                                                                         |
 | [[News/Rocket Lab’s Pioneer Spacecraft Successfully Deployed to Orbit, Powering Varda Space Industries' Third In-Space Manufacturing Mission.md\|Rocket Lab’s Pioneer Spacecraft Successfully Deployed to Orbit, Powering Varda Space Industries' Third In-Space Manufacturing Mission]]           |
 | [[News/Airbus Awards Rocket Lab Contract to Power Next-Gen OneWeb Constellation for Eutelsat.md\|Airbus Awards Rocket Lab Contract to Power Next-Gen OneWeb Constellation for Eutelsat]]                                                                                                           |
-| [[News/Rocket Lab Unveils New Satellite Software for Ground Data, Spacecraft Operations, and Constellation Management.md\|Rocket Lab Unveils New Satellite Software for Ground Data, Spacecraft Operations, and Constellation Management]]                                                         |
 
 %% DATAVIEW_PUBLISHER: end %%
 ## ℹ️ Resources
