@@ -22,8 +22,18 @@ tags:
 
 One of the primary goals of EWAAC is fast Award Times using [FAR 16.5](https://www.acquisition.gov/far/part-16#FAR_Subpart_16_5).  RFPs are 'released frequently with awards within three months post release'.
 
-FOPR - **Average is 81 days** for competitive proposals: **fastest is 31 days**
-FOE -  **Average is 39 days** for sole source proposals: **fastest is 8 days**
+[[#Fair Opportunity Proposal Request (FOPR)|FOPR]] **Average is 81 days** for competitive proposals: **fastest is 31 days**
+[[#Fair Opportunity Exception (FOE)|FOE]] -  **Average is 39 days** for sole source proposals: **fastest is 8 days**
+
+### Types of Opportunities
+
+#### Fair Opportunity Proposal Request (FOPR)
+A FOPR is the contracting officer’s formal order‑level solicitation under a multiple‑award IDIQ. It communicates the Government’s requirement, proposal‑preparation instructions, applicable evaluation factors (and their relative importance), and any order‑specific terms, conditions, or clauses. Issuance of a FOPR is the mechanism by which the ordering activity satisfies the “fair‑opportunity” mandate of FAR 16.505(b)(1), **ensuring every eligible contract holder can compete for the task or delivery order.**
+
+#### Fair Opportunity Exception (FOE)
+An FOE refers to one of the statutory circumstances enumerated at FAR 16.505(b)(2)(i)(A)–(G) (e.g., urgent need, only‑one‑capable‑source, logical follow‑on, minimum‑guarantee orders, etc.) that **authorizes the contracting officer to restrict or bypass the fair‑opportunity competition among IDIQ holders**. Invoking an FOE requires a written justification that cites the specific paragraph relied upon, obtains the applicable approvals, and is posted in accordance with FAR 16.505(b)(2)(ii).
+
+🔗 https://www.netcents.af.mil/Portals/30/afmc_guiding_principles_for_fair_opportunity.pdf
 
 ### Comparison vs Traditional Methods
 
