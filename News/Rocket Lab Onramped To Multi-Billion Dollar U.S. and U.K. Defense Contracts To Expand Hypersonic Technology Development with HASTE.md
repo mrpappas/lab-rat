@@ -22,3 +22,7 @@ Across both programs, Rocket Lab intends to bid for contracts and task orders se
 Rocket Lab founder and CEO, Sir Peter Beck, says: “The ability to contribute toward the collective security of the United States and the United Kingdom across both of these important programs is a proud moment for the HASTE team, and a demonstration of Rocket Lab’s commitment to lead from the front when it comes to innovative and unique solutions for hypersonic technology development. Keeping pace with global developments means more affordable tests at a higher rate that expands the boundaries of hypersonic technology - and that’s a capability we’re already providing all in one platform with HASTE, at a commercial price and cadence that serves the mission of both nations.”
 
 **ENDS**
+
+---
+
+![[Pasted image 20250415161210.jpg]]

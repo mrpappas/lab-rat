@@ -3,23 +3,27 @@ Rocket Lab is sending the first private mission to Venus in search of supporting
 >
  While more than 30 Venus missions have been undertaken, Rocket Lab’s will be the first private exploration of the planet.
 >
->https://www.rocketlabusa.com/missions/upcoming-missions/first-private-mission-to-venus/
+>🔗 https://www.rocketlabusa.com/missions/upcoming-missions/first-private-mission-to-venus/
+>
+**Estimated Cost**: $10 Million 
 
 
-## 📰 News
-%% DATAVIEW_PUBLISHER: start
-```
-table published as "Published"
-from "News"
-where contains(mission, [[SDA Proliferated Warfighter Space Architecture (PWSA)]])
-or contains(mission, [[Venus Life Finder]])
-sort published desc
+![[Pasted image 20250417193308.png]]
 
-```
-%%
+## Probe
 
-| File | Published |
-| ---- | --------- |
+**Heat Shield**: HEET is a textured material covering the bottom of the capsule, a woven heat shield designed to protect spacecraft from temperatures up to 4,500 degrees Fahrenheit (2482 degrees Celsius).
 
-%% DATAVIEW_PUBLISHER: end %%
-## ✏️ Notes
+**Instrumentation**: [AutoFluorescence Nephelometer (AFN)](https://www.morningstarmissions.space/rocketlabmissiontovenus#comp-m40b759n)
+
+**Mission Life**: ~5 Minutes
+
+**Scientific Output**: Detect and derive particle size and number density, derive complex reflective index, quantify asphericity of particles, and detect fluorescence from particles. 
+
+## Links
+
+https://supercluster.com/editorial/rocket-labs-daring-mission-to-venus-will-search-for-signs-of-life
+
+https://www.planetary.org/space-missions/rocket-lab-venus-mission
+
+https://www.morningstarmissions.space/rocketlabmissiontovenus
