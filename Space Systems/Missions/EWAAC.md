@@ -22,8 +22,8 @@ tags:
 
 One of the primary goals of EWAAC is fast Award Times using [FAR 16.5](https://www.acquisition.gov/far/part-16#FAR_Subpart_16_5).  RFPs are 'released frequently with awards within three months post release'.
 
-Average is 81 days for competitive proposals - **fastest is 31 days**
-Average is 39 days for sole source proposals - **fastest is 8 days**
+Fair Opportunity Proposal Requests (FOPR): Average is 81 days for competitive proposals - **fastest is 31 days**
+Fair Opportunity Exceptions (FOE): Average is 39 days for sole source proposals - **fastest is 8 days**
 
 ### Comparison vs Traditional Methods
 
