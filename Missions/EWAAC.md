@@ -11,10 +11,11 @@ tags:
 **Type**: IDIQ
 **Period**: Through 2031
 >
->The AFLCMC Armament Directorate has rolled out the Enterprise-Wide Agile Acquisition Contract (EWAAC) IDIQ, capped at $46B through 2031. This initiative is designed to rapidly cater to the [AFPEO](https://ww3.safaq.hq.af.mil/About-Us/Fact-Sheets/Display/Article/430542/about-peocm/)'s weapons requirements, primarily emphasizing Armament and the Digital Trinity. Leveraging the provisions of [FAR part 16.5](https://www.acquisition.gov/far/part-16#FAR_Subpart_16_5), our goal is to expedite the acquisition process. It's important to note that this contract doesn't have predetermined funding. Instead, it will draw upon funds from both interagency collaborations and external agency allocations, as channeled via the AFPEO Weapons portfolio and supplementary program funds provided.
+>The [AFLCMC Armament Directorate](https://www.aflcmc.af.mil/WELCOME/Organizations/Armament-Directorate/) has rolled out the Enterprise-Wide Agile Acquisition Contract (EWAAC) IDIQ, capped at $46B through 2031. This initiative is designed to rapidly cater to the [AFPEO](https://ww3.safaq.hq.af.mil/About-Us/Fact-Sheets/Display/Article/430542/about-peocm/)'s weapons requirements, primarily emphasizing Armament and the Digital Trinity. Leveraging the provisions of [FAR part 16.5](https://www.acquisition.gov/far/part-16#FAR_Subpart_16_5), the goal is to expedite the acquisition process. It's important to note that this contract doesn't have predetermined funding. Instead, it will draw upon funds from both interagency collaborations and external agency allocations, as channeled via the AFPEO Weapons portfolio and supplementary program funds provided.
 >
 >🔗 https://www.ewaacportal.com/
 >📋 https://www.ewaacportal.com/assets/EWAAC%20Execution%20Toolkit-Ver-10-11%20Sep%202024.pdf
+
 
 ![[Pasted image 20250415161523.png|300]]
 
@@ -24,7 +25,6 @@ One of the primary goals of EWAAC is fast Award Times using [FAR 16.5](https://w
 
 [[#Fair Opportunity Proposal Request (FOPR)|FOPR]] **Average is 81 days** for competitive proposals: **fastest is 31 days**
 [[#Fair Opportunity Exception (FOE)|FOE]] -  **Average is 39 days** for sole source proposals: **fastest is 8 days**
-
 ### Types of Opportunities
 
 #### Fair Opportunity Proposal Request (FOPR)
@@ -49,9 +49,9 @@ An FOE refers to one of the statutory circumstances enumerated at FAR 16.505(b)
 ![[Pasted image 20250418003234.png]]
 ## Competition
 
-As of April 14 2025 (date of award) there are [298 other eligible Vendors](https://www.ewaacportal.com/awardees) and approximately [$4.5B of the capped $46B awarded](https://www.ewaacportal.com/awards).  
+As of April 14 2025 (date of selection) there are [298 eligible Vendors](https://www.ewaacportal.com/awardees) and approximately [$4.5B of the capped $46B awarded](https://www.ewaacportal.com/awards).  
 
-The largest single award being for $1,414,668,201.96 to Raytheon to deliver HACM, a program to operationalize the [SCIFiRE](https://en.wikipedia.org/wiki/SCIFiRE) prototype design for fighter aircraft.
+The largest single award being for [$1,414,668,201.96 to Raytheon](https://www.highergov.com/contract/FA865621DA004-FA865622FA071/)  to deliver [HACM](https://en.wikipedia.org/wiki/Hypersonic_Attack_Cruise_Missile), a program to operationalize the [SCIFiRE](https://en.wikipedia.org/wiki/SCIFiRE) prototype design for fighter aircraft.
 
 >[!hint] Hypersonic
 >Note that although many of the awards are for hypersonic tech, EWAAC is a general Armaments / Digital Trinity contract and the program is not limited to just Hypersonic tech. 
