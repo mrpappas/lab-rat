@@ -16,6 +16,11 @@ tags:
 >🔗 https://www.ewaacportal.com/
 >📋 https://www.ewaacportal.com/assets/EWAAC%20Execution%20Toolkit-Ver-10-11%20Sep%202024.pdf
 
+## Rocket Lab's Involvement
+
+April 14 2025 Rocket Lab was onramped to the contract "to bid for contracts and task orders served by its Hypersonic Accelerator Suborbital Test Electron (HASTE) launch vehicle, as well as other engineering, design, and launch services."
+[[Rocket Lab Onramped To Multi-Billion Dollar U.S. and U.K. Defense Contracts To Expand Hypersonic Technology Development with HASTE|🔗 Source]]
+
 
 ![[Pasted image 20250415161523.png|300]]
 
@@ -56,7 +61,7 @@ The largest single award being for [$1,414,668,201.96 to Raytheon](https://www.h
 >[!hint] Hypersonic
 >Note that although many of the awards are for hypersonic tech, EWAAC is a general Armaments / Digital Trinity contract and the program is not limited to just Hypersonic tech. 
 
-## 📰 News
+## News
 %% DATAVIEW_PUBLISHER: start
 ```
 table published as "Published"

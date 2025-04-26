@@ -11,6 +11,8 @@ tags:
 ---
 #HASTE
 
+🔗 https://www.rocketlabusa.com/updates/rocket-lab-onramped-to-multi-billion-dollar-u-s-and-u-k-defense-contracts-to-expand-hypersonic-technology-development-with-haste/
+
 **Long Beach, California.****14 April, 2025.** Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced it has been selected to provide hypersonic test launch capability with its HASTE launch vehicle, engineering expertise, and other services through its participation in two multi-billion dollar government development programs for the United States and the United Kingdom.
 
 Rocket Lab has been selected by the U.S. Air Force to participate within its Enterprise-Wide Agile Acquisition Contract (EWAAC), a $46 billion indefinite delivery-indefinite quantity (IDIQ) contract designed for the rapid acquisition of innovative technologies, engineering services, and technical solutions that develops the Air Force’s new capabilities. The program has a contracting period through to 2031 and is designed to be broad in scope, flexible in funding, and agile for maximum use to enable the Air Force to quickly procure services and technologies across various domains.
