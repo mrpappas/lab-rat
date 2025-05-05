@@ -6,7 +6,7 @@
     "Customer": "multitext",
     "mission": "multitext",
     "partner": "multitext",
-    "location": "multitext",
+    "location": "text",
     "insider": "multitext",
     "author": "multitext"
   }

@@ -23,11 +23,11 @@ sort launch_date desc
 ```
 %%
 
-| File                                                                                  | Date             | Location                                                                                           | Vehicle                          | Orbit & Mass            | Outcome   |
-| ------------------------------------------------------------------------------------- | ---------------- | -------------------------------------------------------------------------------------------------- | -------------------------------- | ----------------------- | --------- |
-| [[Launch/Launches/061 'The Lightning God Reigns'.md\|061 'The Lightning God Reigns']] | 2025-03-15 00:00 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]]                                              | [[Launch/Electron.md\|Electron]] | 575km \| 42° \| 100 kg  | ✅ Success |
-| [[Launch/Launches/042 'The Moon God Awakens'.md\|042 'The Moon God Awakens']]         | 2023-12-15 04:05 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]]                                              | [[Launch/Electron.md\|Electron]] | 575 km \| 42° \| 100 kg | ✅ Success |
-| [[Launch/Launches/064 'The Sea God Sees'.md\|064 'The Sea God Sees']]                 | May 17, 2025     | <ul><li>[[Locations/Launch Complex 1.md#Launch Pad B\|Launch Complex 1 > Launch Pad B]]</li></ul> | [[Launch/Electron.md\|Electron]] | 575km \| 42° \| 100 kg  | Pending   |
+| File                                                                                  | Date                | Location                                              | Vehicle                          | Orbit & Mass            | Outcome   |
+| ------------------------------------------------------------------------------------- | ------------------- | ----------------------------------------------------- | -------------------------------- | ----------------------- | --------- |
+| [[Launch/Launches/064 'The Sea God Sees'.md\|064 'The Sea God Sees']]                 | 2025-05-17 00:00:00 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 575km \| 42° \| 100 kg  | ⌛ Pending |
+| [[Launch/Launches/061 'The Lightning God Reigns'.md\|061 'The Lightning God Reigns']] | 2025-03-15 00:00    | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 575km \| 42° \| 100 kg  | ✅ Success |
+| [[Launch/Launches/042 'The Moon God Awakens'.md\|042 'The Moon God Awakens']]         | 2023-12-15 04:05    | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 575 km \| 42° \| 100 kg | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end %%
 

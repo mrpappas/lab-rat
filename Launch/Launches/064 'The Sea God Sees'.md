@@ -2,12 +2,10 @@
 tags:
   - electron
 mission_name: The Sea God Sees
-launch_date: 2025-05-17
-outcome: Pending
-customer:
-  - "[[iQPS]]"
-location:
-  - "[[Launch Complex 1#Launch Pad B]]"
+launch_date: 2025-05-17 00:00:00
+outcome: ⌛ Pending
+customer: "[[iQPS]]"
+location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"
 orbit_type: "[[🌍 Orbits#LEO]]"
 target_orbit: 575km | 42°
@@ -41,6 +39,9 @@ The mission will be the third overall Electron launch for [[iQPS]] and the secon
 | **Recovery**     | No Attempt                        |
 | **Mission Link** |                                   |
 | **Press Kit**    |                                   |
+
+![[Pasted image 20250505170132.png|300]]
+
 ## Payload
 
 x1 QPS-SAR Satellite

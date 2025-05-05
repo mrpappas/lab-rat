@@ -38,18 +38,18 @@ limit 10
 ```
 %%
 
-| File                                                                                                                      | Customer                                                                                       | Date             | Outcome   |
-| ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------------- | --------- |
-| [[Launch/Launches/063 'Finding Hot Wildfires Near You'.md\|063 'Finding Hot Wildfires Near You']]                         | [[Organization/Partners/Orora Technlogies.md\|Orora Technlogies]]                              | 2025-03-26 15:30 | ✅ Success |
-| [[Launch/Launches/062 'High Five'.md\|062 'High Five']]                                                                   | [[Organization/Partners/Kinéis.md\|Kinéis]]                                                    | 2025-03-18 01:31 | ✅ Success |
-| [[Launch/Launches/061 'The Lightning God Reigns'.md\|061 'The Lightning God Reigns']]                                     | [[Organization/Partners/iQPS.md\|iQPS]]                                                        | 2025-03-15 00:00 | ✅ Success |
-| [[Launch/Launches/060 'Fasten Your Space Belts'.md\|060 'Fasten Your Space Belts']]                                       | [[Organization/Partners/BlackSky.md\|BlackSky]]                                                | 2025-02-19 12:17 | ✅ Success |
-| [[Launch/Launches/059 'IOT 4 You and Me'.md\|059 'IOT 4 You and Me']]                                                     | [[Organization/Partners/Kinéis.md\|Kinéis]]                                                    | 2025-02-04 20:43 | ✅ Success |
-| [[Launch/Launches/058 'Owl The Way Up'.md\|058 'Owl The Way Up']]                                                         | [[Organization/Partners/Synspective.md\|Synspective]]                                          | 2024-12-21 14:16 | ✅ Success |
-| [[Launch/Launches/057 'Stonehenge'.md\|057 'Stonehenge']]                                                                 | Unknown*                                                                                       | 2024-12-13 00:00 | ✅ Success |
-| [[Launch/Launches/056 'Ice AIS Baby'.md\|056 'Ice AIS Baby']]                                                             | [[Organization/Partners/Kinéis.md\|Kinéis]]                                                    | 2024-11-25 04:55 | ✅ Success |
-| [[Launch/Launches/055 'HASTE A La Vista'.md\|055 'HASTE A La Vista']]                                                     | [[Organization/Partners/U.S. Department of Defense.md\|U.S. Department of Defense]]            | 2024-11-24 06:00 | ✅ Success |
-| [[Launch/Launches/054 'Changes In Latitudes, Changes In Attitudes'.md\|054 'Changes In Latitudes, Changes In Attitudes']] | <ul><li>[[Organization/Partners/E-Space.md\|E-Space]]</li><li>Confidential Customer</li></ul> | 2024-11-05 10:54 | ✅ Success |
+| File                                                                                              | Customer                                                                            | Date                | Outcome   |
+| ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------- | --------- |
+| [[Launch/Launches/064 'The Sea God Sees'.md\|064 'The Sea God Sees']]                             | [[Organization/Partners/iQPS.md\|iQPS]]                                             | 2025-05-17 00:00:00 | ⌛ Pending |
+| [[Launch/Launches/063 'Finding Hot Wildfires Near You'.md\|063 'Finding Hot Wildfires Near You']] | [[Organization/Partners/Orora Technlogies.md\|Orora Technlogies]]                   | 2025-03-26 15:30    | ✅ Success |
+| [[Launch/Launches/062 'High Five'.md\|062 'High Five']]                                           | [[Organization/Partners/Kinéis.md\|Kinéis]]                                         | 2025-03-18 01:31    | ✅ Success |
+| [[Launch/Launches/061 'The Lightning God Reigns'.md\|061 'The Lightning God Reigns']]             | [[Organization/Partners/iQPS.md\|iQPS]]                                             | 2025-03-15 00:00    | ✅ Success |
+| [[Launch/Launches/060 'Fasten Your Space Belts'.md\|060 'Fasten Your Space Belts']]               | [[Organization/Partners/BlackSky.md\|BlackSky]]                                     | 2025-02-19 12:17    | ✅ Success |
+| [[Launch/Launches/059 'IOT 4 You and Me'.md\|059 'IOT 4 You and Me']]                             | [[Organization/Partners/Kinéis.md\|Kinéis]]                                         | 2025-02-04 20:43    | ✅ Success |
+| [[Launch/Launches/058 'Owl The Way Up'.md\|058 'Owl The Way Up']]                                 | [[Organization/Partners/Synspective.md\|Synspective]]                               | 2024-12-21 14:16    | ✅ Success |
+| [[Launch/Launches/057 'Stonehenge'.md\|057 'Stonehenge']]                                         | Unknown*                                                                            | 2024-12-13 00:00    | ✅ Success |
+| [[Launch/Launches/056 'Ice AIS Baby'.md\|056 'Ice AIS Baby']]                                     | [[Organization/Partners/Kinéis.md\|Kinéis]]                                         | 2024-11-25 04:55    | ✅ Success |
+| [[Launch/Launches/055 'HASTE A La Vista'.md\|055 'HASTE A La Vista']]                             | [[Organization/Partners/U.S. Department of Defense.md\|U.S. Department of Defense]] | 2024-11-24 06:00    | ✅ Success |
 
 %% DATAVIEW_PUBLISHER: end %%
 
