@@ -22,6 +22,7 @@ sort published desc
 
 | File                                                                                                                                                                                                 | Published        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[News/Rocket Lab Awarded New HASTE Launch Contract for the DOD by Kratos.md\|Rocket Lab Awarded New HASTE Launch Contract for the DOD by Kratos]]                                                   | April 23, 2025   |
 | [[News/Rocket Lab Selected by Kratos to Deliver Hypersonic Test Launches for DoD with HASTE Rocket.md\|Rocket Lab Selected by Kratos to Deliver Hypersonic Test Launches for DoD with HASTE Rocket]] | January 07, 2025 |
 
 %%DATAVIEW_PUBLISHER: end %%

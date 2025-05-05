@@ -42,8 +42,8 @@ sort Filing_Date desc
 | [[Filings/2025/Form 144/03-14-25 Form 144 - Frank Klein.md\|03-14-25 Form 144 - Frank Klein]] | [[Filings/Filing Definitions.md#Form 144\|Form 144]] | March 14, 2025     |
 | [[Filings/2024/Form 4/11-27-24 Form 4 - Frank Klein.md\|11-27-24 Form 4 - Frank Klein]]       | [[Filings/Filing Definitions.md#Form 4\|Form 4]]     | November 27, 2024  |
 | [[Filings/2024/Form 144/11-25-24 Form 144 - Frank Klein.md\|11-25-24 Form 144 - Frank Klein]] | [[Filings/Filing Definitions.md#Form 144\|Form 144]] | November 25, 2024  |
-| [[Filings/2024/Form 3/9-20-24 Form 3 - Frank Klein.md\|9-20-24 Form 3 - Frank Klein]]         | [[Filings/Filing Definitions.md#Form 3\|Form 3]]     | September 20, 2024 |
 | [[Filings/2024/Form 4/9-20-24 Form 4 - Frank Klein.md\|9-20-24 Form 4 - Frank Klein]]         | [[Filings/Filing Definitions.md#Form 4\|Form 4]]     | September 20, 2024 |
+| [[Filings/2024/Form 3/9-20-24 Form 3 - Frank Klein.md\|9-20-24 Form 3 - Frank Klein]]         | [[Filings/Filing Definitions.md#Form 3\|Form 3]]     | September 20, 2024 |
 | [[Filings/2024/8-K/9-10-24 8-K - Frank Klein Hired.md\|9-10-24 8-K - Frank Klein Hired]]      | [[Filings/Filing Definitions.md#8-K\|8-K]]           | September 10, 2024 |
 
 %%DATAVIEW_PUBLISHER: end %%

@@ -23,10 +23,11 @@ sort launch_date desc
 ```
 %%
 
-| File                                                                                  | Date             | Location                                              | Vehicle                          | Orbit & Mass            | Outcome   |
-| ------------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | ----------------------- | --------- |
-| [[Launch/Launches/061 'The Lightning God Reigns'.md\|061 'The Lightning God Reigns']] | 2025-03-15 00:00 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 575km \| 42° \| 100 kg  | ✅ Success |
-| [[Launch/Launches/042 'The Moon God Awakens'.md\|042 'The Moon God Awakens']]         | 2023-12-15 04:05 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 575 km \| 42° \| 100 kg | ✅ Success |
+| File                                                                                  | Date             | Location                                                                                           | Vehicle                          | Orbit & Mass            | Outcome   |
+| ------------------------------------------------------------------------------------- | ---------------- | -------------------------------------------------------------------------------------------------- | -------------------------------- | ----------------------- | --------- |
+| [[Launch/Launches/061 'The Lightning God Reigns'.md\|061 'The Lightning God Reigns']] | 2025-03-15 00:00 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]]                                              | [[Launch/Electron.md\|Electron]] | 575km \| 42° \| 100 kg  | ✅ Success |
+| [[Launch/Launches/042 'The Moon God Awakens'.md\|042 'The Moon God Awakens']]         | 2023-12-15 04:05 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]]                                              | [[Launch/Electron.md\|Electron]] | 575 km \| 42° \| 100 kg | ✅ Success |
+| [[Launch/Launches/064 'The Sea God Sees'.md\|064 'The Sea God Sees']]                 | May 17, 2025     | <ul><li>[[Locations/Launch Complex 1.md#Launch Pad B\|Launch Complex 1 > Launch Pad B]]</li></ul> | [[Launch/Electron.md\|Electron]] | 575km \| 42° \| 100 kg  | Pending   |
 
 %%DATAVIEW_PUBLISHER: end %%
 
@@ -68,6 +69,7 @@ sort published desc
 
 | File                                                                                                                                                                                                                                                         | Published         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
+| [[News/Rocket Lab Schedules Next Mission for  Multi-Launch Customer iQPS.md\|Rocket Lab Schedules Next Mission for  Multi-Launch Customer iQPS]]                                                                                                             | May 05, 2025      |
 | [[News/Rocket Lab Successfully Launches 61st Electron Mission, Second Launch for iQPS.md\|Rocket Lab Successfully Launches 61st Electron Mission, Second Launch for iQPS]]                                                                                   | March 15, 2025    |
 | [[News/Rocket Lab Schedules Two Launches Three Days Apart, Upcoming Mission to Deploy Final Satellites in Kinéis Constellation.md\|Rocket Lab Schedules Two Launches Three Days Apart, Upcoming Mission to Deploy Final Satellites in Kinéis Constellation]] | March 10, 2025    |
 | [[News/Rocket Lab Signs Second Multi-Launch Deal, Secures Eight Electron Missions with iQPS.md\|Rocket Lab Signs Second Multi-Launch Deal, Secures Eight Electron Missions with iQPS]]                                                                       | February 27, 2025 |

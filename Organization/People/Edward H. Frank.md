@@ -39,8 +39,8 @@ sort Filing_Date desc
 | [[Filings/2024/Form 4/6-14-24 Form 4 - Edward Frank.md\|6-14-24 Form 4 - Edward Frank]]                                    | [[Filings/Filing Definitions.md#Form 4\|Form 4]] | June 14, 2024      |
 | [[Filings/2023/Form 4/9-14-23 Form 4 - Edward Frank.md\|9-14-23 Form 4 - Edward Frank]]                                    | [[Filings/Filing Definitions.md#Form 4\|Form 4]] | September 14, 2023 |
 | [[Filings/2023/Form 4/6-16-23 Form 4 - Edward Frank.md\|6-16-23 Form 4 - Edward Frank]]                                    | [[Filings/Filing Definitions.md#Form 4\|Form 4]] | June 16, 2023      |
-| [[Filings/2022/Form 4/9-07-22 Form 4 - Edward Frank.md\|9-07-22 Form 4 - Edward Frank]]                                    | [[Filings/Filing Definitions.md#Form 4\|Form 4]] | September 07, 2022 |
 | [[Filings/2022/Form 3/9-07-22 Form 3 - Edward Frank.md\|9-07-22 Form 3 - Edward Frank]]                                    | [[Filings/Filing Definitions.md#Form 3\|Form 3]] | September 07, 2022 |
+| [[Filings/2022/Form 4/9-07-22 Form 4 - Edward Frank.md\|9-07-22 Form 4 - Edward Frank]]                                    | [[Filings/Filing Definitions.md#Form 4\|Form 4]] | September 07, 2022 |
 | [[Filings/2022/8-K/9-06-22 8-K - Edward H. Frank Appointed to Board.md\|9-06-22 8-K - Edward H. Frank Appointed to Board]] | [[Filings/Filing Definitions.md#8-K\|8-K]]       | September 02, 2022 |
 
 %%DATAVIEW_PUBLISHER: end %%
