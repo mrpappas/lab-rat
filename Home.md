@@ -23,7 +23,7 @@ This provides a great high level analysis of Rocket Lab's current business and p
 
 ## 📈 Latest Earnings Call
 
-[[2024 Q4]] - Includes Video, Transcript, SEC filings, Press Release, and Investor Presentation.
+[[2025 Q1]] - Includes Video, Transcript, SEC filings, Press Release, and Investor Presentation.
 
 ## 🚀 Recent Launches
 
@@ -38,18 +38,18 @@ limit 10
 ```
 %%
 
-| File                                                                                              | Customer                                                                            | Date                | Outcome   |
-| ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------- | --------- |
-| [[Launch/Launches/064 'The Sea God Sees'.md\|064 'The Sea God Sees']]                             | [[Organization/Partners/iQPS.md\|iQPS]]                                             | 2025-05-17 00:00:00 | ⌛ Pending |
-| [[Launch/Launches/063 'Finding Hot Wildfires Near You'.md\|063 'Finding Hot Wildfires Near You']] | [[Organization/Partners/Orora Technlogies.md\|Orora Technlogies]]                   | 2025-03-26 15:30    | ✅ Success |
-| [[Launch/Launches/062 'High Five'.md\|062 'High Five']]                                           | [[Organization/Partners/Kinéis.md\|Kinéis]]                                         | 2025-03-18 01:31    | ✅ Success |
-| [[Launch/Launches/061 'The Lightning God Reigns'.md\|061 'The Lightning God Reigns']]             | [[Organization/Partners/iQPS.md\|iQPS]]                                             | 2025-03-15 00:00    | ✅ Success |
-| [[Launch/Launches/060 'Fasten Your Space Belts'.md\|060 'Fasten Your Space Belts']]               | [[Organization/Partners/BlackSky.md\|BlackSky]]                                     | 2025-02-19 12:17    | ✅ Success |
-| [[Launch/Launches/059 'IOT 4 You and Me'.md\|059 'IOT 4 You and Me']]                             | [[Organization/Partners/Kinéis.md\|Kinéis]]                                         | 2025-02-04 20:43    | ✅ Success |
-| [[Launch/Launches/058 'Owl The Way Up'.md\|058 'Owl The Way Up']]                                 | [[Organization/Partners/Synspective.md\|Synspective]]                               | 2024-12-21 14:16    | ✅ Success |
-| [[Launch/Launches/057 'Stonehenge'.md\|057 'Stonehenge']]                                         | Unknown*                                                                            | 2024-12-13 00:00    | ✅ Success |
-| [[Launch/Launches/056 'Ice AIS Baby'.md\|056 'Ice AIS Baby']]                                     | [[Organization/Partners/Kinéis.md\|Kinéis]]                                         | 2024-11-25 04:55    | ✅ Success |
-| [[Launch/Launches/055 'HASTE A La Vista'.md\|055 'HASTE A La Vista']]                             | [[Organization/Partners/U.S. Department of Defense.md\|U.S. Department of Defense]] | 2024-11-24 06:00    | ✅ Success |
+| File                                                                                              | Customer                                                                            | Date             | Outcome   |
+| ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ---------------- | --------- |
+| [[Launch/Launches/064 'The Sea God Sees'.md\|064 'The Sea God Sees']]                             | [[Organization/Partners/iQPS.md\|iQPS]]                                             | 2025-05-17 08:15 | ⌛ Pending |
+| [[Launch/Launches/063 'Finding Hot Wildfires Near You'.md\|063 'Finding Hot Wildfires Near You']] | [[Organization/Partners/Orora Technlogies.md\|Orora Technlogies]]                   | 2025-03-26 15:30 | ✅ Success |
+| [[Launch/Launches/062 'High Five'.md\|062 'High Five']]                                           | [[Organization/Partners/Kinéis.md\|Kinéis]]                                         | 2025-03-18 01:31 | ✅ Success |
+| [[Launch/Launches/061 'The Lightning God Reigns'.md\|061 'The Lightning God Reigns']]             | [[Organization/Partners/iQPS.md\|iQPS]]                                             | 2025-03-15 00:00 | ✅ Success |
+| [[Launch/Launches/060 'Fasten Your Space Belts'.md\|060 'Fasten Your Space Belts']]               | [[Organization/Partners/BlackSky.md\|BlackSky]]                                     | 2025-02-19 12:17 | ✅ Success |
+| [[Launch/Launches/059 'IOT 4 You and Me'.md\|059 'IOT 4 You and Me']]                             | [[Organization/Partners/Kinéis.md\|Kinéis]]                                         | 2025-02-04 20:43 | ✅ Success |
+| [[Launch/Launches/058 'Owl The Way Up'.md\|058 'Owl The Way Up']]                                 | [[Organization/Partners/Synspective.md\|Synspective]]                               | 2024-12-21 14:16 | ✅ Success |
+| [[Launch/Launches/057 'Stonehenge'.md\|057 'Stonehenge']]                                         | Unknown*                                                                            | 2024-12-13 00:00 | ✅ Success |
+| [[Launch/Launches/056 'Ice AIS Baby'.md\|056 'Ice AIS Baby']]                                     | [[Organization/Partners/Kinéis.md\|Kinéis]]                                         | 2024-11-25 04:55 | ✅ Success |
+| [[Launch/Launches/055 'HASTE A La Vista'.md\|055 'HASTE A La Vista']]                             | [[Organization/Partners/U.S. Department of Defense.md\|U.S. Department of Defense]] | 2024-11-24 06:00 | ✅ Success |
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -95,6 +95,7 @@ limit 10
 
 | File                                                                                                                                                                                                                                                                                               |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[News/Rocket Lab Partners With U.S. Air Force for Neutron Launch for Re-Entry Mission.md\|Rocket Lab Partners With U.S. Air Force for Neutron Launch for Re-Entry Mission]]                                                                                                                       |
 | [[News/Rocket Lab Schedules Next Mission for  Multi-Launch Customer iQPS.md\|Rocket Lab Schedules Next Mission for  Multi-Launch Customer iQPS]]                                                                                                                                                   |
 | [[News/Rocket Lab Awarded New HASTE Launch Contract for the DOD by Kratos.md\|Rocket Lab Awarded New HASTE Launch Contract for the DOD by Kratos]]                                                                                                                                                 |
 | [[News/Rocket Lab Onramped To Multi-Billion Dollar U.S. and U.K. Defense Contracts To Expand Hypersonic Technology Development with HASTE.md\|Rocket Lab Onramped To Multi-Billion Dollar U.S. and U.K. Defense Contracts To Expand Hypersonic Technology Development with HASTE]]                 |
@@ -104,7 +105,6 @@ limit 10
 | [[News/Rocket Lab Successfully Launches Mission for Global Wildfire Detection Company OroraTech.md\|Rocket Lab Successfully Launches Mission for Global Wildfire Detection Company OroraTech]]                                                                                                     |
 | [[News/From Contract to Launch in Four Months Rocket Lab Schedules Electron Launch on a Rapid Turnaround for OroraTech Wildfire Detection Mission.md\|From Contract to Launch in Four Months Rocket Lab Schedules Electron Launch on a Rapid Turnaround for OroraTech Wildfire Detection Mission]] |
 | [[News/Successful Rocket Lab Launch Completes Deployment of Full Kinéis Constellation in Less Than a Year.md\|Successful Rocket Lab Launch Completes Deployment of Full Kinéis Constellation in Less Than a Year]]                                                                                 |
-| [[News/Rocket Lab Successfully Launches 61st Electron Mission, Second Launch for iQPS.md\|Rocket Lab Successfully Launches 61st Electron Mission, Second Launch for iQPS]]                                                                                                                         |
 
 %% DATAVIEW_PUBLISHER: end %%
 ## ℹ️ Resources

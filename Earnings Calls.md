@@ -28,6 +28,7 @@ WHERE name != null
 | [[Financial/Quarterly Reports/2024 Q4.md\|2024 Q4]] |
 | [[Financial/Quarterly Reports/2024 Q2.md\|2024 Q2]] |
 | [[Financial/Quarterly Reports/2024 Q3.md\|2024 Q3]] |
+| [[Financial/Quarterly Reports/2025 Q1.md\|2025 Q1]] |
 
 %% DATAVIEW_PUBLISHER: end %%
 

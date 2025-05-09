@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Launches.md",
+                "file": "Financial/Quarterly Reports/2025 Q1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Launches"
+              "title": "2025 Q1"
             }
           }
         ]
@@ -196,10 +196,17 @@
   },
   "active": "c79dcb7e4f622b7c",
   "lastOpenFiles": [
-    "Launch/Launches/064 'The Sea God Sees'.md",
+    "Earnings Calls.md",
+    "Home.md",
+    "Financial/Quarterly Reports/2024 Q4.md",
+    "Financial/Quarterly Reports/Investor Presentations.md",
+    "Financial/Quarterly Reports/2025 Q1.md",
+    "News/Rocket Lab Partners With U.S. Air Force for Neutron Launch for Re-Entry Mission.md",
+    "Pasted image 20250508184812.jpg",
     "Launches.md",
-    "News.md",
+    "Launch/Launches/064 'The Sea God Sees'.md",
     "Launch/Launches/063 'Finding Hot Wildfires Near You'.md",
+    "News.md",
     "News/Rocket Lab Schedules Next Mission for  Multi-Launch Customer iQPS.md",
     "Vault-Assets/Images/Pasted image 20250505165943.png",
     "Vault-Assets/Images/Pasted image 20250505170132.png",
@@ -214,7 +221,6 @@
     "Missions/NSSL Phase 3 Lane 1.md",
     "News/Rocket Lab Onramped To Multi-Billion Dollar U.S. and U.K. Defense Contracts To Expand Hypersonic Technology Development with HASTE.md",
     "Missions/Mission Operations Control Center for MethaneSAT.md",
-    "Earnings Calls.md",
     "Missions/Venus Life Finder.md",
     "Vault-Assets/Images/Pasted image 20250415161523.png",
     "Vault-Assets/Images/Pasted image 20250415162908.png",
@@ -223,12 +229,7 @@
     "Interviews.md",
     "News/Rocket Lab completes fit check for NASA VCLS ELaNa XIX mission.md",
     "Missions/Globalstar (MDA) Satellite Buses.md",
-    "Missions/LOXSAT.md",
     "Vault-Assets/Images/Pasted image 20250415161210.jpg",
-    "Launch/HASTE.md",
-    "Organization/Partners/BlackSky.md",
-    "Organization/Partners/Astro Digital.md",
-    "Organization/Partners/Astrix Astronautics.md",
     "Vault-Assets/Images/Pasted image 20250411034100.png",
     "Vault-Assets/PDFs/RW4-0.4-Datasheet-v3.0.pdf",
     "Vault-Assets/PDFs/RW-0.06-Datasheet-v3.0.pdf",
@@ -241,7 +242,6 @@
     "Vault-Assets/PDFs/RW4-1.0-Datasheet-v3.1.pdf",
     "Vault-Assets/PDFs/RL-RW4-2.0-ICD-v1.5.pdf",
     "Vault-Assets/Images/Pasted image 20250409020807.png",
-    "Vault-Assets/Images/Pasted image 20250409020755.png",
     "Untitled.canvas",
     "Subsidiaries/Untitled.canvas"
   ]
