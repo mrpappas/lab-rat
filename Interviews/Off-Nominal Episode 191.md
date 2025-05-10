@@ -229,11 +229,11 @@ The drip campaign of actually flying missions in an industry where there's a lot
 ### Space Systems Business and Platforms
 **[33:18]**
 
-**Anthony:** The space system side - you just recently announced the FlataSat platform, which is always talked about with your own constellation or constellations. Rocket Lab's involved with Space Moment Agency. You're hooked into the whole Apple/MDA/Global Star stack of companies working on that constellation.
+**Anthony:** The space system side - you just recently announced the Flatellite platform, which is always talked about with your own constellation or constellations. Rocket Lab's involved with Space Moment Agency. You're hooked into the whole Apple/MDA/Global Star stack of companies working on that constellation.
 
 We are a couple years now into being a spacecraft bus provider, and I'm curious what differences there are now. It feels like it wasn't that long ago that they all got named and made official.
 
-**Richard:** I'm glad you noticed that. Yes, the naming was a thing. There was a point at which we were calling all of our spacecraft photons, but they looked very different. I was sort of fine with that, but at some point our comms team was like, "No, we really need to communicate a little better with the world about what we're doing." So we named them, and FlataSat is the fifth of the family.
+**Richard:** I'm glad you noticed that. Yes, the naming was a thing. There was a point at which we were calling all of our spacecraft photons, but they looked very different. I was sort of fine with that, but at some point our comms team was like, "No, we really need to communicate a little better with the world about what we're doing." So we named them, and Flatellite is the fifth of the family.
 
 It's obviously a flat pack concept that's particularly well aligned with a lot of the comms applications that we see coming, as well as some key national security applications. It's all just about constellation economics. The best way to maximize the amount of satellites you can launch is to stack them up and get rid of that dispenser and use every bit of volume. We've been working on it for a while. We've had a number of customers that we're working directly with and felt like it was time to tell everybody about it.
 
@@ -305,7 +305,7 @@ But we're going to take our time in getting to the application layer. I think we
 ### Neutron Development and Integration
 **[47:04]**
 
-**Jake:** I know you're on the space system side of things, but there were some cool pictures the other day of Neutron stage 2 qualification. I'm curious, maybe from your perspective specifically - FlataSat is obviously designed roughly like the diameter of Neutron so it fits in the fairing nicely. Can you give us any Neutron intel from the space systems perspective on how things change when this is flying, not just FlataSat but other things in the line that you might see tweaks to?
+**Jake:** I know you're on the space system side of things, but there were some cool pictures the other day of Neutron stage 2 qualification. I'm curious, maybe from your perspective specifically - Flatellite is obviously designed roughly like the diameter of Neutron so it fits in the fairing nicely. Can you give us any Neutron intel from the space systems perspective on how things change when this is flying, not just Flatellite but other things in the line that you might see tweaks to?
 
 **Richard:** I'm not going to give you any Neutron updates, but I can certainly talk about how excited I am about Neutron. This is a super important rocket not just to the company and our broader strategy but also what we're doing in space systems.
 
