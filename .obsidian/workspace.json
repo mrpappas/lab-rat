@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "davinci",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -75,7 +75,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -194,10 +195,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94a5c7956a4de7d7",
+  "active": "aa22d1710833c6c9",
   "lastOpenFiles": [
     "Financial/Quarterly Reports/2024 Q4.md",
     "Financial/Quarterly Reports/2025 Q1.md",
+    "Financial/Quarterly Reports/2024 Q3.md",
+    "Financial/Quarterly Reports/2024 Q2.md",
     "Missions/EWAAC.md",
     "Launch/HASTE.md",
     "Interviews/Off-Nominal Episode 191.md",
@@ -223,8 +226,6 @@
     "Launch/Launches/061 'The Lightning God Reigns'.md",
     "News/Rocket Lab Awarded New HASTE Launch Contract for the DOD by Kratos.md",
     "News/Capella Space and Rocket Lab to Launch Mid-Inclination Satellite to Enable Improved Monitoring of Key Global Regions.md",
-    "Space Systems/Spacecraft/Flatellite.md",
-    "Launch/Launches/057 'Stonehenge'.md",
     "Vault-Assets/Images/Pasted image 20250415161523.png",
     "Vault-Assets/Images/Pasted image 20250415162908.png",
     "Vault-Assets/Images/Pasted image 20250417193308.png",
