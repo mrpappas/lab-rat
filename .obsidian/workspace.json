@@ -4,22 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "765c579528b75914",
+        "id": "265344277d38ce95",
         "type": "tabs",
         "children": [
           {
-            "id": "94a5c7956a4de7d7",
+            "id": "cb232b502ecb8259",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Financial/Quarterly Reports/2025 Q1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "aFile": "Organization/People/Peter Beck.md",
+                "bFile": "Organization/People/Peter Beck.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "2025 Q1"
+              "icon": "diff",
+              "title": "Diff: Peter Beck"
             }
           }
         ]
@@ -75,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,10 +193,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aa22d1710833c6c9",
+  "active": "cb232b502ecb8259",
   "lastOpenFiles": [
-    "Financial/Quarterly Reports/2024 Q4.md",
+    "Filings/2025/10-Q/05-08-25 10-Q Q1 2025.md",
+    "Filings/2025/13G + 13D/01-07-25 13D - Preferred Stock Exchange and Ownership Details.md",
+    "Vault-Assets/PDFs/77f92c97-9a88-4758-b21f-16608472f7bd.pdf",
+    "Filings/2025/8-K/05-08-25 8-K Q1 2025 Financial Results.md",
+    "Filings/2025/10-Q",
+    "Filings/Filing Definitions.md",
+    "Vault-Assets/PDFs/cfb4cc57-bcb1-485b-adcf-7dd9e96f4746.pdf",
+    "Filings/2025/10-K/4-30-25 10-K Amendment.md",
+    "Vault-Assets/PDFs/aa46afaa-26ab-472f-b246-a40006aa7fa7.pdf",
+    "Filings/2025/13G + 13D/04-30-25 13D - The Vanguard Group.md",
+    "Vault-Assets/PDFs/b2780d56-17f8-4e3f-a5d8-7a3b58714552.pdf",
+    "Launch/Launches/064 'The Sea God Sees'.md",
+    "Launches.md",
+    "News.md",
+    "Launch/Launches/063 'Finding Hot Wildfires Near You'.md",
+    "Launch/Launches/062 'High Five'.md",
+    "Vault-Assets/PDFs/F64-iQPS-Presskit-The-Sea-God-Sees.pdf",
+    "Partners.md",
     "Financial/Quarterly Reports/2025 Q1.md",
+    "Financial/Quarterly Reports/2024 Q4.md",
     "Financial/Quarterly Reports/2024 Q3.md",
     "Financial/Quarterly Reports/2024 Q2.md",
     "Missions/EWAAC.md",
@@ -210,22 +226,9 @@
     "Organization/Partners/Kinéis.md",
     "Organization/Partners/Capella Space.md",
     "Organization/Partners/Canon Electronics.md",
-    "Earnings Calls.md",
-    "Home.md",
-    "Financial/Quarterly Reports/Investor Presentations.md",
-    "News/Rocket Lab Partners With U.S. Air Force for Neutron Launch for Re-Entry Mission.md",
     "Vault-Assets/Images/Pasted image 20250508184812.jpg",
-    "Launches.md",
-    "Launch/Launches/064 'The Sea God Sees'.md",
-    "Launch/Launches/063 'Finding Hot Wildfires Near You'.md",
-    "News.md",
-    "News/Rocket Lab Schedules Next Mission for  Multi-Launch Customer iQPS.md",
     "Vault-Assets/Images/Pasted image 20250505165943.png",
     "Vault-Assets/Images/Pasted image 20250505170132.png",
-    "Launch/Launches/062 'High Five'.md",
-    "Launch/Launches/061 'The Lightning God Reigns'.md",
-    "News/Rocket Lab Awarded New HASTE Launch Contract for the DOD by Kratos.md",
-    "News/Capella Space and Rocket Lab to Launch Mid-Inclination Satellite to Enable Improved Monitoring of Key Global Regions.md",
     "Vault-Assets/Images/Pasted image 20250415161523.png",
     "Vault-Assets/Images/Pasted image 20250415162908.png",
     "Vault-Assets/Images/Pasted image 20250417193308.png",
@@ -236,12 +239,6 @@
     "Vault-Assets/PDFs/RW-0.06-Datasheet-v3.0.pdf",
     "Vault-Assets/PDFs/RW-0.03-Datasheet-v3.0.pdf",
     "Vault-Assets/PDFs/RW4-12-Datasheet-v3.0.pdf",
-    "Vault-Assets/PDFs/RW-0.01-Datasheet-v3.0.pdf",
-    "Vault-Assets/PDFs/RW4-5.0-Datasheet-v1.1.pdf",
-    "Vault-Assets/PDFs/RW4-5.0-Datasheet-v2.pdf",
-    "Untitled",
-    "Vault-Assets/PDFs/RW4-1.0-Datasheet-v3.1.pdf",
-    "Vault-Assets/PDFs/RL-RW4-2.0-ICD-v1.5.pdf",
     "Vault-Assets/Images/Pasted image 20250409020807.png",
     "Untitled.canvas",
     "Subsidiaries/Untitled.canvas"

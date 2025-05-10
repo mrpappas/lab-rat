@@ -26,19 +26,19 @@ The mission will be the third overall Electron launch for [[iQPS]] and the secon
 
 #electron #launch
 
-| **Mission Name** | The Sea God Sees                  |
-| ---------------- | --------------------------------- |
-| **Launch Date**  | NET 2025-05-17 08:15 UTC          |
-| **Outcome**      | Pending                           |
-| **Customer**     | [[iQPS]]                          |
-| **Location**     | [[Launch Complex 1#Launch Pad B]] |
-| **Vehicle**      | [[Electron]]                      |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                 |
-| **Target Orbit** | 575 km &#124; 97°                 |
-| **Payload Mass** | ~100kg                            |
-| **Recovery**     | No Attempt Likely                 |
-| **Mission Link** |                                   |
-| **Press Kit**    |                                   |
+| **Mission Name** | The Sea God Sees                                                                              |
+| ---------------- | --------------------------------------------------------------------------------------------- |
+| **Launch Date**  | NET 2025-05-17 08:15 UTC                                                                      |
+| **Outcome**      | Pending                                                                                       |
+| **Customer**     | [[iQPS]]                                                                                      |
+| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                             |
+| **Vehicle**      | [[Electron]]                                                                                  |
+| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                             |
+| **Target Orbit** | 575 km &#124; 42°                                                                             |
+| **Payload Mass** | ~100kg                                                                                        |
+| **Recovery**     | No Attempt Likely                                                                             |
+| **Mission Link** | [The Sea God Sees](https://www.rocketlabusa.com/missions/missions-launched/the-sea-god-sees/) |
+| **Press Kit**    | [[F64-iQPS-Presskit-The-Sea-God-Sees.pdf]]                                                    |
 
 ![[Pasted image 20250505170132.png|300]]
 
