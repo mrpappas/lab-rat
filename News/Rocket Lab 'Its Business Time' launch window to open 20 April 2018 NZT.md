@@ -10,7 +10,7 @@ customer:
   - "[[Tyvak Nano-Satellite Systems]]"
   - "[[Fleet Space]]"
 mission:
-  - "[[003 'It's Business Time']]"
+  - "[[003 - It's Business Time]]"
 tags:
   - electron
   - launch
@@ -23,7 +23,7 @@ tags:
 **Published:** 2018-04-03
 **Description:** *Huntington Beach, California, 3 April 2018:*
 **Customer:** [[Spire Global]], [[Tyvak Nano-Satellite Systems]], [[Fleet Space]]
-**Mission:** [[003 'It's Business Time']]
+**Mission:** [[003 - It's Business Time]]
 
 **Huntington Beach, California, 3 April 2018:**
 

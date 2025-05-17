@@ -7,7 +7,7 @@ published: 2017-05-15
 description: Here we go! We are about to open a 10 day launch attempt window from May 22, 2017, for the first launch attempt of our Electron rocket.
 customer: n/a
 mission:
-  - "[[001 'It's a Test']]"
+  - "[[001 - It's a Test]]"
 tags:
   - electron
   - launch
@@ -20,7 +20,7 @@ tags:
 **Published:** 2017-05-15
 **Description:** Here we go! We are about to open a 10 day launch attempt window from May 22, 2017, for the first launch attempt of our Electron rocket.
 **Customer:** n/a
-**Mission:** [[001 'It's a Test']]
+**Mission:** [[001 - It's a Test]]
 
 Here we go! We are about to open a 10 day launch attempt window from May 22, 2017, for the first launch attempt of our Electron rocket.
 

@@ -8,7 +8,7 @@ description: "*Rocket Lab Selected to Launch NASA’s Advanced Composite Solar S
 customer:
   - "[[NASA]]"
 mission:
-  - "[[047 'Beginning Of The Swarm']]"
+  - "[[047 - Beginning Of The Swarm]]"
 tags:
   - contract
   - electron
@@ -21,7 +21,7 @@ tags:
 **Published:** 2021-10-06
 **Description:** *Rocket Lab Selected to Launch NASA’s Advanced Composite Solar Sail System*
 **Customer:** [[NASA]]
-**Mission:** [[047 'Beginning Of The Swarm']]
+**Mission:** [[047 - Beginning Of The Swarm]]
 
 **Rocket Lab Selected to Launch NASA’s Advanced Composite Solar Sail System**
 

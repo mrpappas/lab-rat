@@ -7,7 +7,7 @@ published: 2017-05-19
 description: The window for the first test launch of Rocket Lab's Electron vehicle, named 'It's a Test', is planned for May 22 - June 2.
 customer: n/a
 mission:
-  - "[[001 'It's a Test']]"
+  - "[[001 - It's a Test]]"
 tags:
   - electron
   - launch
@@ -20,7 +20,7 @@ tags:
 **Published:** 2017-05-19
 **Description:** The window for the first test launch of Rocket Lab's Electron vehicle, named 'It's a Test', is planned for May 22 - June 2.
 **Customer:** n/a
-**Mission:** [[001 'It's a Test']]
+**Mission:** [[001 - It's a Test]]
 
 The window for the first test launch of Rocket Lab's Electron vehicle, named 'It's a Test', is planned for May 22 - June 2.
 

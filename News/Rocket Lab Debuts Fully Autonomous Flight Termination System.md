@@ -10,7 +10,7 @@ customer:
   - "[[Spaceflight]]"
   - "[[ALE]]"
 mission:
-  - "[[010 'Running Out Of Fingers']]"
+  - "[[010 - Running Out Of Fingers]]"
 tags:
   - electron
 ---
@@ -22,7 +22,7 @@ tags:
 **Published:** 2019-12-09
 **Description:** *Rocket Lab demonstrated the system on the company’s recent 10th Electron launch in a move that will enable a higher launch cadence and deliver responsive launch capability*
 **Customer:** [[Alba Orbital]], [[Spaceflight]], [[ALE]]
-**Mission:** [[010 'Running Out Of Fingers']]
+**Mission:** [[010 - Running Out Of Fingers]]
 
 ***Rocket Lab demonstrated the system on the company’s recent 10th Electron launch in a move that will enable a higher launch cadence and deliver responsive launch capability*** 
 

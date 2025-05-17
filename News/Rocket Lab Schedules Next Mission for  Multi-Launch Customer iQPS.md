@@ -1,14 +1,14 @@
 ---
-title: "Rocket Lab Schedules Next Mission for  Multi-Launch Customer iQPS"
-source: "https://www.rocketlabusa.com/updates/rocket-lab-schedules-next-mission-for-multi-launch-customer-iqps/"
+title: Rocket Lab Schedules Next Mission for  Multi-Launch Customer iQPS
+source: https://www.rocketlabusa.com/updates/rocket-lab-schedules-next-mission-for-multi-launch-customer-iqps/
 author:
   - "[[Rocket Lab]]"
 published: 2025-05-05
 customer: "[[iQPS]]"
-mission: "[[064 'The Sea God Sees']]"
+mission: "[[064 - The Sea God Sees]]"
 tags:
- - electron
- - launch
+  - electron
+  - launch
 ---
 
 **Long Beach, Calif. May 05, 2025:** Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced the launch window for its next mission for multi-launch customer, Institute for Q-shu Pioneers of Space, Inc. (iQPS).

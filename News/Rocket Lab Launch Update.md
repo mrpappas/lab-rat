@@ -6,7 +6,7 @@ author:
 published: 2024-07-18
 description: "*Long Beach, Calif. July 18, 2024.* Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced that Rocket Lab’s next Electron launch will move to a later date at the request of mission partner Capella Space so that they can complete additional testing for their mission."
 customer: "[[Capella Space]]"
-mission: "[[052 'A Sky Full Of SARs']]"
+mission: "[[052 - A Sky Full Of SARs]]"
 tags:
   - launch
   - electron
@@ -19,7 +19,7 @@ tags:
 **Published:** 2024-07-18
 **Description:** *Long Beach, Calif. July 18, 2024.* Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced that Rocket Lab’s next Electron launch will move to a later date at the request of mission partner Capella Space so that they can complete additional testing for their mission.
 **Customer:** [[Capella Space]]
-**Mission:** [[052 'A Sky Full Of SARs']]
+**Mission:** [[052 - A Sky Full Of SARs]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-launch-update-2/
 

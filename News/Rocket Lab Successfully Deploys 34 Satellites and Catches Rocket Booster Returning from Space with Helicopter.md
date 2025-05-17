@@ -13,7 +13,7 @@ Customer:
   - "[[Spaceflight]]"
   - "[[Unseenlabs]]"
 mission:
-  - "[[026 'There And Back Again']]"
+  - "[[026 - There And Back Again]]"
 tags:
   - electron
   - launch
@@ -27,7 +27,7 @@ tags:
 **Published:** 2022-05-02
 **Description:** *Long Beach, Calif. May 2, 2022:* Rocket Lab (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, has successfully launched its 26th Electron mission, deploying 34 satellites to orbit. Rocket Lab has now deployed a total of 146 satellites to orbit with the Electron launch vehicle.
 **Customer:** [[Alba Orbital]], [[Astrix Astronautics]], [[Aurora Propulsion Technologies]], [[E-Space]], [[Spaceflight]], [[Unseenlabs]]
-**Mission:** [[026 'There And Back Again']]
+**Mission:** [[026 - There And Back Again]]
 
 **Long Beach, Calif. May 2, 2022:** Rocket Lab (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, has successfully launched its 26th Electron mission, deploying 34 satellites to orbit. Rocket Lab has now deployed a total of 146 satellites to orbit with the Electron launch vehicle.
 

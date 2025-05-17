@@ -8,7 +8,7 @@ description: "*Rocket Lab To Launch National Reconnaissance Office Mission *"
 customer:
   - "[[National Reconnaissance Office (NRO)]]"
 mission:
-  - "[[011 'Birds of a Feather']]"
+  - "[[011 - Birds of a Feather]]"
 tags:
   - electron
   - launch
@@ -21,7 +21,7 @@ tags:
 **Published:** 2020-01-20
 **Description:** *Rocket Lab To Launch National Reconnaissance Office Mission *
 **Customer:** [[National Reconnaissance Office (NRO)]]
-**Mission:** [[011 'Birds of a Feather']]
+**Mission:** [[011 - Birds of a Feather]]
 
 **Rocket Lab To Launch National Reconnaissance Office Mission** 
 

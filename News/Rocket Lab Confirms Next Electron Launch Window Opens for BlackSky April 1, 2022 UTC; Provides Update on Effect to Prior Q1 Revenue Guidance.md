@@ -8,7 +8,7 @@ description: "*Rocket Lab Confirms Next Electron Launch Window Opens for BlackSk
 customer:
   - "[[BlackSky]]"
 mission:
-  - "[[025 'Without Mission A Beat']]"
+  - "[[025 - Without Mission A Beat]]"
 tags:
   - electron
   - launch
@@ -21,7 +21,7 @@ tags:
 **Published:** 2022-03-24
 **Description:** *Rocket Lab Confirms Next Electron Launch Window Opens for BlackSky April 1, 2022 UTC; Provides Update on Effect to Prior Q1 Revenue Guidance*
 **Customer:** [[BlackSky]]
-**Mission:** [[025 'Without Mission A Beat']]
+**Mission:** [[025 - Without Mission A Beat]]
 
 **Rocket Lab Confirms Next Electron Launch Window Opens for BlackSky April 1, 2022 UTC; Provides Update on Effect to Prior Q1 Revenue Guidance**
 

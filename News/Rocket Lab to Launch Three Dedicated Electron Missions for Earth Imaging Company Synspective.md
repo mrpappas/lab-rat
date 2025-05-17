@@ -8,9 +8,9 @@ description: "*Rocket Lab to Launch Three Dedicated Electron Missions for Earth 
 customer:
   - "[[Synspective]]"
 mission:
-  - "[[024 'The Owl's Night Continues']]"
-  - "[[030 'The Owl Spreads Its Wings']]"
-  - "[[045 'Owl Night Long']]"
+  - "[[024 - The Owl's Night Continues]]"
+  - "[[030 - The Owl Spreads Its Wings]]"
+  - "[[045 - Owl Night Long]]"
 tags:
   - electron
   - contract
@@ -23,7 +23,7 @@ tags:
 **Published:** 2021-12-07
 **Description:** *Rocket Lab to Launch Three Dedicated Electron Missions for Earth Imaging Company Synspective *
 **Customer:** [[Synspective]]
-**Mission:** [[024 'The Owl's Night Continues']], [[030 'The Owl Spreads Its Wings']], [[045 'Owl Night Long']]
+**Mission:** [[024 - The Owl's Night Continues]], [[030 - The Owl Spreads Its Wings]], [[045 - Owl Night Long]]
 
 Rocket Lab to Launch Three Dedicated Electron Missions for Earth Imaging Company [[Synspective]]  
 

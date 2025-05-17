@@ -6,7 +6,7 @@ author:
 published: 2023-05-08
 description: The ‘Rocket Like a Hurricane’ launch was the first of two dedicated Electron launches to deploy a constellation of hurricane monitoring satellites for NASA
 customer: "[[NASA]]"
-mission: "[[036 'Rocket Like A Hurricane']]"
+mission: "[[036 - Rocket Like A Hurricane]]"
 tags:
   - launch
   - electron
@@ -19,7 +19,7 @@ tags:
 **Published:** 2023-05-08
 **Description:** The ‘Rocket Like a Hurricane’ launch was the first of two dedicated Electron launches to deploy a constellation of hurricane monitoring satellites for NASA
 **Customer:** [[NASA]]
-**Mission:** [[036 'Rocket Like A Hurricane']]
+**Mission:** [[036 - Rocket Like A Hurricane]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-first-batch-of-tropics-satellites-for-nasa/
 

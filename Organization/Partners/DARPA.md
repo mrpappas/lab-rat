@@ -22,7 +22,7 @@ sort launch_date desc
 
 | File                                                      | Date             | Location                                              | Vehicle                          | Orbit & Mass              | Outcome   |
 | --------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | ------------------------- | --------- |
-| [[Launch/Launches/005 'DARPA R3D2'.md\|005 'DARPA R3D2']] | 2019-03-28 23:27 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 425 km \| 39.5° \| 150 kg | ✅ Success |
+| [[Launch/Launches/005 - DARPA R3D2.md\|005 - DARPA R3D2]] | 2019-03-28 23:27 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 425 km \| 39.5° \| 150 kg | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end %%
 

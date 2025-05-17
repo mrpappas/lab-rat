@@ -10,7 +10,7 @@ customer:
   - "[[Tyvak Nano-Satellite Systems]]"
   - "[[Fleet Space]]"
 mission:
-  - "[[003 'It's Business Time']]"
+  - "[[003 - It's Business Time]]"
 tags:
   - electron
   - launch
@@ -23,7 +23,7 @@ tags:
 **Published:** 2018-03-13
 **Description:** *Huntington Beach, California. March 13, 2018:* US orbital launch provider Rocket Lab has today confirmed its next launch will be the company’s first fully commercial flight. Two Lemur-2 cubesats for launch customer Spire Global will be on board the upcoming launch, with the full manifest to be confirmed in coming weeks.
 **Customer:** [[Spire Global]], [[Tyvak Nano-Satellite Systems]], [[Fleet Space]]
-**Mission:** [[003 'It's Business Time']]
+**Mission:** [[003 - It's Business Time]]
 
 **Huntington Beach, California. March 13, 2018:** US orbital launch provider Rocket Lab has today confirmed its next launch will be the company’s first fully commercial flight. Two Lemur-2 cubesats for launch customer Spire Global will be on board the upcoming launch, with the full manifest to be confirmed in coming weeks.
 

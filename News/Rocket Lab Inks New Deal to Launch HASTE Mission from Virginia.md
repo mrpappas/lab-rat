@@ -6,7 +6,7 @@ author:
 published: 2023-08-08
 description: "*The new contract signed just days after Rocket Lab successfully launched the inaugural HASTE suborbital mission, marking a new era of rapid hypersonic technology development opportunities*"
 customer: 
-mission: "[[057 'Stonehenge']]"
+mission: "[[057 - Stonehenge]]"
 tags:
   - HASTE
   - contract
@@ -19,7 +19,7 @@ tags:
 **Published:** 2023-08-08
 **Description:** *The new contract signed just days after Rocket Lab successfully launched the inaugural HASTE suborbital mission, marking a new era of rapid hypersonic technology development opportunities*
 **Customer:** None
-**Mission:** [[057 'Stonehenge']]
+**Mission:** [[057 - Stonehenge]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-inks-new-deal-to-launch-haste-mission-from-virginia/
 

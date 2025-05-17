@@ -6,7 +6,7 @@ author:
 published: 2023-08-17
 description: "*Rocket Lab has stepped in to provide iQPS with an expedited dedicated launch on Electron*"
 customer: "[[iQPS]]"
-mission: "[[042 'The Moon God Awakens']]"
+mission: "[[042 - The Moon God Awakens]]"
 tags:
   - contract
   - electron
@@ -19,7 +19,7 @@ tags:
 **Published:** 2023-08-17
 **Description:** *Rocket Lab has stepped in to provide iQPS with an expedited dedicated launch on Electron*
 **Customer:** [[iQPS]]
-**Mission:** [[042 'The Moon God Awakens']]
+**Mission:** [[042 - The Moon God Awakens]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-inks-dedicated-launch-deal-with-japanese-earth-imaging-company-iqps/
 

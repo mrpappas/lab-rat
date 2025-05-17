@@ -8,7 +8,7 @@ description: "*Rocket Lab Successfully Deploys Satellite for Capella Space on 14
 customer:
   - "[[Capella Space]]"
 mission:
-  - "[[014 'I Can't Believe It's Not Optical']]"
+  - "[[014 - I Can't Believe It's Not Optical]]"
 tags:
   - electron
   - launch
@@ -21,7 +21,7 @@ tags:
 **Published:** 2020-08-31
 **Description:** *Rocket Lab Successfully Deploys Satellite for Capella Space on 14th Mission*
 **Customer:** [[Capella Space]]
-**Mission:** [[014 'I Can't Believe It's Not Optical']]
+**Mission:** [[014 - I Can't Believe It's Not Optical]]
 
 **Rocket Lab Successfully Deploys Satellite for Capella Space on 14<sup>th</sup> Mission** 
 

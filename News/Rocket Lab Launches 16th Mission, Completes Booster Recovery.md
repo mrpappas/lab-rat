@@ -12,7 +12,7 @@ Customer:
   - "[[The University of Auckland]]"
   - "[[Valve]]"
 mission:
-  - "[[016 'Return to Sender']]"
+  - "[[016 - Return to Sender]]"
 tags:
   - electron
   - launch
@@ -25,7 +25,7 @@ tags:
 **Published:** 2020-11-22
 **Description:** Rocket Lab Launches 16th Mission, Completes Booster Recovery
 **Customer:** [[Trisept]], [[Unseenlabs]], [[Swarm]], [[The University of Auckland]], [[Valve]]
-**Mission:** [[016 'Return to Sender']]
+**Mission:** [[016 - Return to Sender]]
 
 Rocket Lab Launches 16<sup>th</sup> Mission, Completes Booster Recovery 
 

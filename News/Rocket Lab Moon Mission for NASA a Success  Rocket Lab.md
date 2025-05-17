@@ -9,7 +9,7 @@ customer:
   - "[[NASA]]"
   - "[[Advanced Space]]"
 mission:
-  - "[[027 'CAPSTONE']]"
+  - "[[027 - CAPSTONE]]"
 insider: 
 tags:
   - space-systems
@@ -23,7 +23,7 @@ tags:
 **Published:** 2022-07-04
 **Description:** Rocket Lab successfully deploys CAPSTONE satellite to lunar transfer orbit for NASA, charting a new path to the Moon. CAPSTONE is testing a never-before-flown orbit of the Moon and is the first mission of NASA’s Artemis program
 **Customer:** [[NASA]], [[Advanced Space]]
-**Mission:** [[027 'CAPSTONE']]
+**Mission:** [[027 - CAPSTONE]]
 **Insider:** None
 
 *Rocket Lab successfully deploys CAPSTONE satellite to lunar transfer orbit for NASA, charting a new path to the Moon. CAPSTONE is testing a never-before-flown orbit of the Moon and is the first mission of NASA’s Artemis program*

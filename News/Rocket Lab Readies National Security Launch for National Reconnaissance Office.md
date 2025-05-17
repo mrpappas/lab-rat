@@ -6,7 +6,7 @@ author:
 published: 2022-07-28
 description: "LONG BEACH, Calif.--28 July, 2022-- Rocket Lab USA, Inc. (Nasdaq: RKLB) has today confirmed that the second of two back-to-back national security launches for the National Reconnaissance Office (NRO) has been scheduled for August 2 UTC."
 customer: "[[National Reconnaissance Office (NRO)]]"
-mission: "[[029 'Antipodean Adventure']]"
+mission: "[[029 - Antipodean Adventure]]"
 tags:
   - launch
   - electron
@@ -19,7 +19,7 @@ tags:
 **Published:** 2022-07-28
 **Description:** LONG BEACH, Calif.--28 July, 2022-- Rocket Lab USA, Inc. (Nasdaq: RKLB) has today confirmed that the second of two back-to-back national security launches for the National Reconnaissance Office (NRO) has been scheduled for August 2 UTC.
 **Customer:** [[National Reconnaissance Office (NRO)]]
-**Mission:** [[029 'Antipodean Adventure']]
+**Mission:** [[029 - Antipodean Adventure]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-readies-national-security-launch-for-national-reconnaissance-office/
 

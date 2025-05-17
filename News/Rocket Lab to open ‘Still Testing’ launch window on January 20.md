@@ -9,7 +9,7 @@ customer:
   - "[[Planet Labs]]"
   - "[[Spire Global]]"
 mission:
-  - "[[002 'Still Testing']]"
+  - "[[002 - Still Testing]]"
 tags:
   - electron
   - launch
@@ -22,7 +22,7 @@ tags:
 **Published:** 2018-01-12
 **Description:** *Friday January 12, 2018:* Rocket Lab, a US aerospace company with operations in New Zealand, will open a nine-day launch window from Saturday January 20, 2018 (NZDT) to carry out the company’s second test launch of the Electron rocket. During this time a four-hour launch window will open daily from 2:30 p.m. NZDT.
 **Customer:** [[Planet Labs]], [[Spire Global]]
-**Mission:** [[002 'Still Testing']]
+**Mission:** [[002 - Still Testing]]
 
 **Friday January 12, 2018:** Rocket Lab, a US aerospace company with operations in New Zealand, will open a nine-day launch window from Saturday January 20, 2018 (NZDT) to carry out the company’s second test launch of the Electron rocket. During this time a four-hour launch window will open daily from 2:30 p.m. NZDT.
 

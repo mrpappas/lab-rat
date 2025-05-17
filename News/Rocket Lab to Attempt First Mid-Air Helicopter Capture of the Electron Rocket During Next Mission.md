@@ -12,7 +12,7 @@ Customer:
   - "[[E-Space]]"
   - "[[Spaceflight]]"
   - "[[Unseenlabs]]"
-mission: "[[026 'There And Back Again']]"
+mission: "[[026 - There And Back Again]]"
 tags:
   - electron
   - launch
@@ -26,7 +26,7 @@ tags:
 **Published:** 2022-04-06
 **Description:** For the first time, Rocket Lab will attempt a mid-air helicopter capture of an Electron rocket as it returns to Earth from space, furthering the company’s program to make Electron the first reusable orbital small launch vehicle
 **Customer:** [[Alba Orbital]], [[Astrix Astronautics]], [[Aurora Propulsion Technologies]], [[E-Space]], [[Spaceflight]], [[Unseenlabs]]
-**Mission:** [[026 'There And Back Again']]
+**Mission:** [[026 - There And Back Again]]
 
 *For the first time, Rocket Lab will attempt a mid-air helicopter capture of an Electron rocket as it returns to Earth from space, furthering the company’s program to make Electron the first reusable orbital small launch vehicle*
 

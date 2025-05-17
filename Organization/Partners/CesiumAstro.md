@@ -17,7 +17,7 @@ CesiumAstro was selected as a subcontractor for Rocket Lab's [[SDA Tranche 2 - E
 🔗 [[Rocket Lab Selects Subcontractors to Support SDA Satellite Constellation Development]]
 
 ### NASA Starling
-Part of of [NASA's Starling](https://www.nasa.gov/smallspacecraft/what-is-starling/) mission, CesiumAstro was selected to provide crosslink radios and antennas for the MANET (Mobile Ad-hoc Network) experiment. The CommPacks were installed on each of the four cubesats launched on [[039 'Baby Come Back']] 
+Part of of [NASA's Starling](https://www.nasa.gov/smallspacecraft/what-is-starling/) mission, CesiumAstro was selected to provide crosslink radios and antennas for the MANET (Mobile Ad-hoc Network) experiment. The CommPacks were installed on each of the four cubesats launched on [[039 - Baby Come Back]] 
 
 
 ## 🚀 Launches
@@ -33,7 +33,7 @@ sort launch_date desc
 
 | File                                                              | Date             | Location                                              | Vehicle                          | Orbit & Mass               | Outcome   |
 | ----------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | -------------------------- | --------- |
-| [[Launch/Launches/039 'Baby Come Back'.md\|039 'Baby Come Back']] | 2023-07-18 01:27 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 1000 km \| 99.45° \| 86 kg | ✅ Success |
+| [[Launch/Launches/039 - Baby Come Back.md\|039 - Baby Come Back]] | 2023-07-18 01:27 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 1000 km \| 99.45° \| 86 kg | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end %%
 

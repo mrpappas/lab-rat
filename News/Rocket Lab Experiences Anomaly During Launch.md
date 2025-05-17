@@ -8,7 +8,7 @@ description: "*Auckland, New Zealand. May 16, 2021*: Following a successful lift
 customer:
   - "[[BlackSky]]"
 mission:
-  - "[[020 'Running Out Of Toes']]"
+  - "[[020 - Running Out Of Toes]]"
 tags:
   - electron
   - launch
@@ -22,7 +22,7 @@ tags:
 **Published:** 2021-05-17
 **Description:** *Auckland, New Zealand. May 16, 2021*: Following a successful lift-off, first stage burn, and stage separation, Rocket Lab experienced an anomaly during its 20th Electron mission ‘Running Out Of Toes.’
 **Customer:** [[BlackSky]]
-**Mission:** [[020 'Running Out Of Toes']]
+**Mission:** [[020 - Running Out Of Toes]]
 
 Auckland, New Zealand. May 16, 2021: Following a successful lift-off, first stage burn, and stage separation, Rocket Lab experienced an anomaly during its 20th Electron mission ‘Running Out Of Toes.’
 

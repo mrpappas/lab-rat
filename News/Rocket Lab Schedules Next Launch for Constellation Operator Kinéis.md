@@ -6,7 +6,7 @@ author:
 published: 2024-11-12
 description: "*The mission will be the third of five dedicated Electron launches booked by the French Internet-of-Things constellation operator*"
 customer: "[[Kinéis]]"
-mission: "[[056 'Ice AIS Baby']]"
+mission: "[[056 - Ice AIS Baby]]"
 tags:
   - launch
   - electron
@@ -19,7 +19,7 @@ tags:
 **Published:** 2024-11-12
 **Description:** *The mission will be the third of five dedicated Electron launches booked by the French Internet-of-Things constellation operator*
 **Customer:** [[Kinéis]]
-**Mission:** [[056 'Ice AIS Baby']]
+**Mission:** [[056 - Ice AIS Baby]]
 
 **Source**: https://www.rocketlabusa.com/updates/rocket-lab-schedules-next-launch-for-constellation-operator-kineis/
 

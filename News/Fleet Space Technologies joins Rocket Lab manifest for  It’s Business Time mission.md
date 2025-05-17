@@ -8,7 +8,7 @@ description: "*Fleet’s two ‘Proxima’ satellites are the first scheduled la
 customer:
   - "[[Fleet Space]]"
 mission:
-  - "[[003 'It's Business Time']]"
+  - "[[003 - It's Business Time]]"
 tags:
   - electron
 ---
@@ -20,7 +20,7 @@ tags:
 **Published:** 2018-10-29
 **Description:** *Fleet’s two ‘Proxima’ satellites are the first scheduled launch of commercial CubeSats from an Australian company*
 **Customer:** [[Fleet Space]]
-**Mission:** [[003 'It's Business Time']]
+**Mission:** [[003 - It's Business Time]]
 
 **Fleet’s two ‘Proxima’ satellites are the first scheduled launch of commercial CubeSats from an Australian company**
 

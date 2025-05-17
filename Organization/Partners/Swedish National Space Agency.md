@@ -24,7 +24,7 @@ sort launch_date desc
 
 | File                                                                        | Date             | Location                                              | Vehicle                          | Orbit & Mass              | Outcome   |
 | --------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | ------------------------- | --------- |
-| [[Launch/Launches/032 'Catch Me If You Can'.md\|032 'Catch Me If You Can']] | 2022-11-04 17:27 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 585 km \| 97.66° \| 50 kg | ✅ Success |
+| [[Launch/Launches/032 - Catch Me If You Can.md\|032 - Catch Me If You Can]] | 2022-11-04 17:27 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 585 km \| 97.66° \| 50 kg | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end %%
 

@@ -8,7 +8,7 @@ description: The mission was the first of multiple new launches on Electron for 
 customer:
   - "[[BlackSky]]"
 mission:
-  - "[[060 'Fasten Your Space Belts']]"
+  - "[[060 - Fasten Your Space Belts]]"
 tags:
   - launch
   - electron

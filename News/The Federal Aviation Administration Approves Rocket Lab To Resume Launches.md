@@ -8,7 +8,7 @@ description: "*Long Beach, California. 02 June, 2021* – Rocket Lab, the leadin
 customer:
   - "[[BlackSky]]"
 mission:
-  - "[[020 'Running Out Of Toes']]"
+  - "[[020 - Running Out Of Toes]]"
 tags:
   - anomaly
   - electron
@@ -21,7 +21,7 @@ tags:
 **Published:** 2021-06-02
 **Description:** *Long Beach, California. 02 June, 2021* – Rocket Lab, the leading launch and space systems company, announced today it has received authorization from the Federal Aviation Administration (FAA) to resume launches. The approval comes fewer than three weeks after Rocket Lab experienced an anomaly during its 20th launch, resulting in the loss of the mission.
 **Customer:** [[BlackSky]]
-**Mission:** [[020 'Running Out Of Toes']]
+**Mission:** [[020 - Running Out Of Toes]]
 
 **Long Beach, California. 02 June, 2021** – Rocket Lab, the leading launch and space systems company, announced today it has received authorization from the Federal Aviation Administration (FAA) to resume launches. The approval comes fewer than three weeks after Rocket Lab experienced an anomaly during its 20<sup>th</sup> launch, resulting in the loss of the mission.
 

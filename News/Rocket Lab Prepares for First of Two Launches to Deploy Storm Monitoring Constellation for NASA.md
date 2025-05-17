@@ -6,7 +6,7 @@ author:
 published: 2023-05-07
 description: "*The ‘Rocket Like a Hurricane’ launch is scheduled to lift off from Rocket Lab Launch Complex 1 in New Zealand as early as May 8 to deploy the first set of TROPICS satellites for NASA’s hurricane monitoring constellation*"
 customer: "[[NASA]]"
-mission: "[[036 'Rocket Like A Hurricane']]"
+mission: "[[036 - Rocket Like A Hurricane]]"
 tags:
   - launch
   - electron
@@ -19,7 +19,7 @@ tags:
 **Published:** 2023-05-07
 **Description:** *The ‘Rocket Like a Hurricane’ launch is scheduled to lift off from Rocket Lab Launch Complex 1 in New Zealand as early as May 8 to deploy the first set of TROPICS satellites for NASA’s hurricane monitoring constellation*
 **Customer:** [[NASA]]
-**Mission:** [[036 'Rocket Like A Hurricane']]
+**Mission:** [[036 - Rocket Like A Hurricane]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-prepares-for-first-of-two-launches-to-deploy-storm-monitoring-constellation-for-nasa/
 

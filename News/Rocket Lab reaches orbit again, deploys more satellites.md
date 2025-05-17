@@ -10,7 +10,7 @@ customer:
   - "[[Tyvak Nano-Satellite Systems]]"
   - "[[Fleet Space]]"
 mission:
-  - "[[003 'It's Business Time']]"
+  - "[[003 - It's Business Time]]"
 tags:
   - electron
   - launch
@@ -23,7 +23,7 @@ tags:
 **Published:** 2018-11-11
 **Description:** *Rocket Lab reaches orbit again, deploys more satellites*
 **Customer:** [[Spire Global]], [[Tyvak Nano-Satellite Systems]], [[Fleet Space]]
-**Mission:** [[003 'It's Business Time']]
+**Mission:** [[003 - It's Business Time]]
 
 **Rocket Lab reaches orbit again, deploys more satellites** 
 

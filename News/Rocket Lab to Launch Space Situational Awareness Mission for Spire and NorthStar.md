@@ -8,7 +8,7 @@ description: Rocket Lab will also attempt to recover Electron’s first stage fr
 customer:
   - "[[Spire Global]]"
   - "[[NorthStar Earth & Space]]"
-mission: "[[043 'Four Of A Kind']]"
+mission: "[[043 - Four Of A Kind]]"
 tags:
   - launch
   - electron
@@ -21,7 +21,7 @@ tags:
 **Published:** 2024-01-08
 **Description:** Rocket Lab will also attempt to recover Electron’s first stage from the mission in next step for reusability.
 **Customer:** [[Spire Global]], [[NorthStar Earth & Space]]
-**Mission:** [[043 'Four Of A Kind']]
+**Mission:** [[043 - Four Of A Kind]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-to-launch-space-situational-awareness-mission-for-spire-and-northstar/
 

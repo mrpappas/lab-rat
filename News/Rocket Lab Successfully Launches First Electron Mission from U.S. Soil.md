@@ -6,7 +6,7 @@ author:
 published: 2023-01-24
 description: "*Rocket Lab Successfully Launches First U.S. Electron Mission*"
 customer: "[[HawkEye 360]]"
-mission: "[[033 'Virginia is for Launch Lovers']]"
+mission: "[[033 - Virginia is for Launch Lovers]]"
 tags:
   - launch
   - electron
@@ -19,7 +19,7 @@ tags:
 **Published:** 2023-01-24
 **Description:** *Rocket Lab Successfully Launches First U.S. Electron Mission*
 **Customer:** [[HawkEye 360]]
-**Mission:** [[033 'Virginia is for Launch Lovers']]
+**Mission:** [[033 - Virginia is for Launch Lovers]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-first-electron-mission-from-u-s-soil/
 

@@ -6,7 +6,7 @@ author:
 published: 2024-03-13
 description: "*Mahia, New Zealand. March 13, 2024* – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today launched its 45th Electron rocket, successfully deploying a fourth synthetic aperture radar satellite to Synspective’s Earth-observation constellation."
 customer: "[[Synspective]]"
-mission: "[[045 'Owl Night Long']]"
+mission: "[[045 - Owl Night Long]]"
 tags:
   - launch
   - electron
@@ -19,7 +19,7 @@ tags:
 **Published:** 2024-03-13
 **Description:** *Mahia, New Zealand. March 13, 2024* – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today launched its 45th Electron rocket, successfully deploying a fourth synthetic aperture radar satellite to Synspective’s Earth-observation constellation.
 **Customer:** [[Synspective]]
-**Mission:** [[045 'Owl Night Long']]
+**Mission:** [[045 - Owl Night Long]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-45th-electron-mission-4th-for-longtime-partner-synspective/
 

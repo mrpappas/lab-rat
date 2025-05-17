@@ -8,7 +8,7 @@ description: The launch is the first step in validating the technology behind E-
 customer:
   - "[[E-Space]]"
 mission:
-  - "[[026 'There And Back Again']]"
+  - "[[026 - There And Back Again]]"
 tags:
   - electron
   - launch
@@ -21,7 +21,7 @@ tags:
 **Published:** 2022-03-21
 **Description:** The launch is the first step in validating the technology behind E-Space’s mesh network of secure communication satellites designed to make space affordable and accessible.
 **Customer:** [[E-Space]]
-**Mission:** [[026 'There And Back Again']]
+**Mission:** [[026 - There And Back Again]]
 
 The launch is the first step in validating the technology behind E-Space’s mesh network of secure communication satellites designed to make space affordable and accessible.
 

@@ -6,7 +6,7 @@ author:
 published: 2024-09-21
 description: "Mahia, New Zealand. September 21, 2024. – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today successfully launched its 53rd Electron mission and deployed five satellites to Low Earth Orbit for French Internet-of-Things (IoT) company Kinéis."
 customer: "[[Kinéis]]"
-mission: "[[053 'Kineis Killed the RadIOT Star']]"
+mission: "[[053 - Kinéis Killed the RadIOT Star]]"
 tags:
   - launch
   - electron
@@ -19,7 +19,7 @@ tags:
 **Published:** 2024-09-21
 **Description:** Mahia, New Zealand. September 21, 2024. – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today successfully launched its 53rd Electron mission and deployed five satellites to Low Earth Orbit for French Internet-of-Things (IoT) company Kinéis.
 **Customer:** [[Kinéis]]
-**Mission:** [[053 'Kineis Killed the RadIOT Star']]
+**Mission:** [[053 - Kinéis Killed the RadIOT Star]]
 
 **Source**: https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-53rd-electron-mission-deploys-another-five-satellites-for-kineis/
 

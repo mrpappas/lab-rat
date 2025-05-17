@@ -9,7 +9,7 @@ customer:
   - "[[NASA]]"
   - "[[Advanced Space]]"
 mission:
-  - "[[027 'CAPSTONE']]"
+  - "[[027 - CAPSTONE]]"
 insider: 
 tags:
   - electron
@@ -23,7 +23,7 @@ tags:
 **Published:** 2022-06-23
 **Description:** *Rocket Lab Prepares to Launch CAPSTONE Mission to the Moon for NASA*
 **Customer:** [[NASA]], [[Advanced Space]]
-**Mission:** [[027 'CAPSTONE']]
+**Mission:** [[027 - CAPSTONE]]
 **Insider:** None
 
 **Rocket Lab Prepares to Launch CAPSTONE Mission to the Moon for NASA**

@@ -9,7 +9,7 @@ customer:
   - "[[NASA]]"
   - "[[Advanced Space]]"
 mission:
-  - "[[027 'CAPSTONE']]"
+  - "[[027 - CAPSTONE]]"
 tags:
   - electron
 ---
@@ -21,7 +21,7 @@ tags:
 **Published:** 2021-08-06
 **Description:** *Rocket Lab to Launch NASA Funded Commercial Moon Mission from New Zealand*
 **Customer:** [[NASA]], [[Advanced Space]]
-**Mission:** [[027 'CAPSTONE']]
+**Mission:** [[027 - CAPSTONE]]
 
 **Rocket Lab to Launch NASA Funded Commercial Moon Mission from New Zealand**
 

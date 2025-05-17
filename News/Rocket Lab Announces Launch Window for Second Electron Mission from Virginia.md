@@ -6,7 +6,7 @@ author:
 published: 2023-03-07
 description: The Stronger Together mission, Rocket Lab’s 34th Electron launch, will deliver two Earth observation satellites to low Earth orbit for Capella Space
 customer: "[[Capella Space]]"
-mission: "[[034 'Stronger Together']]"
+mission: "[[034 - Stronger Together]]"
 ---
 >[!summary]
 **Title:** Rocket Lab Announces Launch Window for Second Electron Mission from Virginia 
@@ -15,7 +15,7 @@ mission: "[[034 'Stronger Together']]"
 **Published:** 2023-03-07
 **Description:** The Stronger Together mission, Rocket Lab’s 34th Electron launch, will deliver two Earth observation satellites to low Earth orbit for Capella Space
 **Customer:** [[Capella Space]]
-**Mission:** [[034 'Stronger Together']]
+**Mission:** [[034 - Stronger Together]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-announces-launch-window-for-second-electron-mission-from-virginia/
 

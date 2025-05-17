@@ -7,7 +7,7 @@ published: 2017-05-23
 description: "*Rocket Lab Testing Update - 23 May 2017 (NZST)*"
 customer: n/a
 mission:
-  - "[[001 'It's a Test']]"
+  - "[[001 - It's a Test]]"
 tags:
   - electron
   - launch
@@ -20,7 +20,7 @@ tags:
 **Published:** 2017-05-23
 **Description:** *Rocket Lab Testing Update - 23 May 2017 (NZST)*
 **Customer:** n/a
-**Mission:** [[001 'It's a Test']]
+**Mission:** [[001 - It's a Test]]
 
 **Rocket Lab Testing Update - 23 May 2017 (NZST)**
 

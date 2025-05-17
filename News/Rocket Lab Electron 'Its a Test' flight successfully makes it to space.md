@@ -7,7 +7,7 @@ published: 2017-05-25
 description: "*Rocket Lab broke new ground today when its Electron rocket reached space at 16:23 NZST.*"
 customer: n/a
 mission:
-  - "[[001 'It's a Test']]"
+  - "[[001 - It's a Test]]"
 tags:
   - electron
   - launch
@@ -20,7 +20,7 @@ tags:
 **Published:** 2017-05-25
 **Description:** *Rocket Lab broke new ground today when its Electron rocket reached space at 16:23 NZST.*
 **Customer:** n/a
-**Mission:** [[001 'It's a Test']]
+**Mission:** [[001 - It's a Test]]
 
 **Rocket Lab broke new ground today when its Electron rocket reached space at 16:23 NZST.**
 

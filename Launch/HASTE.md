@@ -37,9 +37,9 @@ sort launch_date desc
 
 | File                                                                  | launch_date      | outcome   |
 | --------------------------------------------------------------------- | ---------------- | --------- |
-| [[Launch/Launches/057 'Stonehenge'.md\|057 'Stonehenge']]             | 2024-12-13 00:00 | ✅ Success |
-| [[Launch/Launches/055 'HASTE A La Vista'.md\|055 'HASTE A La Vista']] | 2024-11-24 06:00 | ✅ Success |
-| [[Launch/Launches/038 'Scout's Arrow'.md\|038 'Scout's Arrow']]       | 2023-06-18 01:24 | ✅ Success |
+| [[Launch/Launches/057 - Stonehenge.md\|057 - Stonehenge]]             | 2024-12-13 00:00 | ✅ Success |
+| [[Launch/Launches/055 - HASTE A La Vista.md\|055 - HASTE A La Vista]] | 2024-11-24 06:00 | ✅ Success |
+| [[Launch/Launches/038 - Scout's Arrow.md\|038 - Scout's Arrow]]       | 2023-06-18 01:24 | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end%%
 

@@ -10,7 +10,7 @@ customer:
   - "[[U.S. Air Force]]"
   - "[[Unseenlabs]]"
 mission:
-  - "[[008 'Look Ma, No Hands']]"
+  - "[[008 - Look Ma, No Hands]]"
 tags:
   - electron
   - launch
@@ -23,7 +23,7 @@ tags:
 **Published:** 2019-08-20
 **Description:** *The successful mission brings the total count of satellites deployed by Rocket Lab to 39 and continues the company’s record of 100% mission success for customers*
 **Customer:** [[BlackSky]], [[U.S. Air Force]], [[Unseenlabs]]
-**Mission:** [[008 'Look Ma, No Hands']]
+**Mission:** [[008 - Look Ma, No Hands]]
 
 **The successful mission brings the total count of satellites deployed by Rocket Lab to 39 and continues the company’s record of 100% mission success for customers**
 

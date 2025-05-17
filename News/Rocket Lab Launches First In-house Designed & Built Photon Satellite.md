@@ -8,7 +8,7 @@ description: "*Rocket Lab Launches First In-house Designed &amp; Built Photon Sa
 customer:
   - "[[Capella Space]]"
 mission:
-  - "[[014 'I Can't Believe It's Not Optical']]"
+  - "[[014 - I Can't Believe It's Not Optical]]"
 tags:
   - electron
   - launch
@@ -22,7 +22,7 @@ tags:
 **Published:** 2020-09-03
 **Description:** *Rocket Lab Launches First In-house Designed &amp; Built Photon Satellite*
 **Customer:** [[Capella Space]]
-**Mission:** [[014 'I Can't Believe It's Not Optical']]
+**Mission:** [[014 - I Can't Believe It's Not Optical]]
 
 **Rocket Lab Launches First In-house Designed & Built Photon Satellite**
 

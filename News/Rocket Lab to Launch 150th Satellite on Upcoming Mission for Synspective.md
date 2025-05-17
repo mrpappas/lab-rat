@@ -6,7 +6,7 @@ author:
 published: 2022-08-15
 description: "*Long Beach, California. 15 August, 2022* – Rocket Lab USA, Inc (Nasdaq: RKLB) today announced its upcoming 30th Electron launch will deliver its 150th payload and 300th Rutherford engine to space. The mission is a dedicated launch for Japanese Earth-imaging satellite constellation operator Synspective."
 customer: "[[Synspective]]"
-mission: "[[030 'The Owl Spreads Its Wings']]"
+mission: "[[030 - The Owl Spreads Its Wings]]"
 tags:
   - launch
   - electron
@@ -19,7 +19,7 @@ tags:
 **Published:** 2022-08-15
 **Description:** *Long Beach, California. 15 August, 2022* – Rocket Lab USA, Inc (Nasdaq: RKLB) today announced its upcoming 30th Electron launch will deliver its 150th payload and 300th Rutherford engine to space. The mission is a dedicated launch for Japanese Earth-imaging satellite constellation operator Synspective.
 **Customer:** [[Synspective]]
-**Mission:** [[030 'The Owl Spreads Its Wings']]
+**Mission:** [[030 - The Owl Spreads Its Wings]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-to-launch-150th-satellite-on-upcoming-mission-for-synspective/
 

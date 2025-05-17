@@ -8,7 +8,7 @@ description: This latest mission will see Rocket Lab perform multiple in-space e
 customer:
   - "[[NASA]]"
   - "[[Korea Advanced Institute of Science and Technology]]"
-mission: "[[047 'Beginning Of The Swarm']]"
+mission: "[[047 - Beginning Of The Swarm]]"
 tags:
   - launch
   - electron
@@ -21,7 +21,7 @@ tags:
 **Published:** 2024-04-01
 **Description:** This latest mission will see Rocket Lab perform multiple in-space engine burns to deploy two payloads to separate orbits several hundred kilometres apart.
 **Customer:** [[NASA]], [[Korea Advanced Institute of Science and Technology]]
-**Mission:** [[047 'Beginning Of The Swarm']]
+**Mission:** [[047 - Beginning Of The Swarm]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-prepares-to-launch-mission-for-kaist-and-nasa-to-deploy-satellites-to-two-separate-orbits/
 

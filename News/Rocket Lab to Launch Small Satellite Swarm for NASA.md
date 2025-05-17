@@ -6,7 +6,7 @@ author:
 published: 2023-05-09
 description: "*Four Starling satellites have been added to Electron’s 2023 manifest. *"
 customer: "[[NASA]]"
-mission: "[[039 'Baby Come Back']]"
+mission: "[[039 - Baby Come Back]]"
 tags:
   - contract
   - electron
@@ -19,7 +19,7 @@ tags:
 **Published:** 2023-05-09
 **Description:** *Four Starling satellites have been added to Electron’s 2023 manifest. *
 **Customer:** [[NASA]]
-**Mission:** [[039 'Baby Come Back']]
+**Mission:** [[039 - Baby Come Back]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-to-launch-small-satellite-swarm-for-nasa/
 

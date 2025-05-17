@@ -25,7 +25,7 @@ sort launch_date desc
 
 | File                                                                              | Date             | Location                                              | Vehicle                          | Orbit & Mass                                       | Outcome   |
 | --------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | -------------------------------------------------- | --------- |
-| [[Launch/Launches/047 'Beginning Of The Swarm'.md\|047 'Beginning Of The Swarm']] | 2024-04-23 22:00 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 520 km (Neonsat-1), 1,000 km (ACS3), 97° \| 115 kg | ✅ Success |
+| [[Launch/Launches/047 - Beginning Of The Swarm.md\|047 - Beginning Of The Swarm]] | 2024-04-23 22:00 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 520 km (Neonsat-1), 1,000 km (ACS3), 97° \| 115 kg | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end %%
 

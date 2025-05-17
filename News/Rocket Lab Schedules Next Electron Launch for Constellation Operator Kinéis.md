@@ -7,7 +7,7 @@ published: 2025-01-21
 description: Keep up with the latest from Rocket Lab.
 customer:
   - "[[Kinéis]]"
-mission: "[[059 'IOT 4 You and Me']]"
+mission: "[[059 - IOT 4 You and Me]]"
 insider: 
 tags:
   - launch
@@ -20,7 +20,7 @@ tags:
 **Published:** 2025-01-21
 **Description:** Rocket Lab Schedules Next Electron Launch for Constellation Operator Kinéis
 **Partner**: [[Kinéis]]
-**Mission**: [[059 'IOT 4 You and Me']]
+**Mission**: [[059 - IOT 4 You and Me]]
 
 
 ***The mission will be Rocket Lab’s fourth in a series of five dedicated Electron launches for the French Internet-of-Things constellation operator***

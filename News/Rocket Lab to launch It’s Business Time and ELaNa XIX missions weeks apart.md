@@ -11,8 +11,8 @@ customer:
   - "[[Fleet Space]]"
   - "[[NASA]]"
 mission:
-  - "[[003 'It's Business Time']]"
-  - "[[004 'NASA ELaNa-19']]"
+  - "[[003 - It's Business Time]]"
+  - "[[004 - NASA ELaNa-19]]"
 tags:
   - electron
   - launch
@@ -25,7 +25,7 @@ tags:
 **Published:** 2018-08-06
 **Description:** Rocket Lab back to the pad with rapid, consecutive launches
 **Customer:** [[Spire Global]], [[Tyvak Nano-Satellite Systems]], [[Fleet Space]], [[NASA]]
-**Mission:** [[003 'It's Business Time']], [[004 'NASA ELaNa-19']]
+**Mission:** [[003 - It's Business Time]], [[004 - NASA ELaNa-19]]
 
 Rocket Lab back to the pad with rapid, consecutive launches
 

@@ -28,7 +28,7 @@ sort launch_date desc
 
 | File                                                              | Date             | Location                                              | Vehicle                          | Orbit & Mass            | Outcome   |
 | ----------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | ----------------------- | --------- |
-| [[Launch/Launches/043 'Four Of A Kind'.md\|043 'Four Of A Kind']] | 2024-01-31 06:34 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 530 km \| 97° \| 112 kg | ✅ Success |
+| [[Launch/Launches/043 - Four Of A Kind.md\|043 - Four Of A Kind]] | 2024-01-31 06:34 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 530 km \| 97° \| 112 kg | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end %%
 

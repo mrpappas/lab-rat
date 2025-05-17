@@ -8,8 +8,8 @@ description: "*Long Beach, California. July 5, 2022* – Rocket Lab USA, Inc (Na
 customer:
   - "[[National Reconnaissance Office (NRO)]]"
 mission:
-  - "[[028 'Wise One Looks Ahead']]"
-  - "[[029 'Antipodean Adventure']]"
+  - "[[028 - Wise One Looks Ahead]]"
+  - "[[029 - Antipodean Adventure]]"
 insider: 
 tags:
   - electron
@@ -22,7 +22,7 @@ tags:
 **Published:** 2022-07-05
 **Description:** *Long Beach, California. July 5, 2022* – Rocket Lab USA, Inc (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, today announced its next two launches will be responsive space missions for the United States Government’s National Reconnaissance Office.
 **Customer:** [[National Reconnaissance Office (NRO)]]
-**Mission:** [[028 'Wise One Looks Ahead']], [[029 'Antipodean Adventure']]
+**Mission:** [[028 - Wise One Looks Ahead]], [[029 - Antipodean Adventure]]
 **Insider:** None
 
 **Long Beach, California. July 5, 2022** – Rocket Lab USA, Inc (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, today announced its next two launches will be responsive space missions for the United States Government’s National Reconnaissance Office.

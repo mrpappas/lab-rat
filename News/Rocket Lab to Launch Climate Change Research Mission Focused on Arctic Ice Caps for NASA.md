@@ -7,8 +7,8 @@ published: 2023-08-14
 description: Across two Electron launches in 2024, Rocket Lab will deploy NASA’s PREFIRE mission to study naturally occurring radiation at the Arctic to better understand its impact on melting glaciers, sea ice, clouds and water, and climate modelling and forecasting.
 customer: "[[NASA]]"
 mission:
-  - "[[048 'Ready, Aim, Prefire']]"
-  - "[[049 'PREFIRE and ICE']]"
+  - "[[048 - Ready, Aim, Prefire]]"
+  - "[[049 - PREFIRE and ICE]]"
 tags:
   - contract
   - electron
@@ -21,7 +21,7 @@ tags:
 **Published:** 2023-08-14
 **Description:** Across two Electron launches in 2024, Rocket Lab will deploy NASA’s PREFIRE mission to study naturally occurring radiation at the Arctic to better understand its impact on melting glaciers, sea ice, clouds and water, and climate modelling and forecasting.
 **Customer:** [[NASA]]
-**Mission:** [[048 'Ready, Aim, Prefire']], [[049 'PREFIRE and ICE']]
+**Mission:** [[048 - Ready, Aim, Prefire]], [[049 - PREFIRE and ICE]]
 
 *Across two Electron launches in 2024, Rocket Lab will deploy NASA’s PREFIRE mission to study naturally occurring radiation at the Arctic to better understand its impact on melting glaciers, sea ice, clouds and water, and climate modelling and forecasting.*
 

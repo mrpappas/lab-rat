@@ -10,7 +10,7 @@ customer:
   - "[[Spaceflight]]"
   - "[[ALE]]"
 mission:
-  - "[[010 'Running Out Of Fingers']]"
+  - "[[010 - Running Out Of Fingers]]"
 tags:
   - electron
   - launch
@@ -24,7 +24,7 @@ tags:
 **Published:** 2019-12-06
 **Description:** *Rocket Lab successfully completes a guided re-entry of the Electron launch vehicle first stage all the way to splashdown and continues track record of 100% mission success for customers with 47 satellites delivered to orbit to date.*
 **Customer:** [[Alba Orbital]], [[Spaceflight]], [[ALE]]
-**Mission:** [[010 'Running Out Of Fingers']]
+**Mission:** [[010 - Running Out Of Fingers]]
 
 **Rocket Lab successfully completes a guided re-entry of the Electron launch vehicle first stage all the way to splashdown and continues track record of 100% mission success for customers with 47 satellites delivered to orbit to date.**
 

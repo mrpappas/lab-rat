@@ -9,7 +9,7 @@ customer:
   - "[[Planet Labs]]"
   - "[[Spire Global]]"
 mission:
-  - "[[002 'Still Testing']]"
+  - "[[002 - Still Testing]]"
 tags:
   - electron
   - launch
@@ -22,7 +22,7 @@ tags:
 **Published:** 2017-12-16
 **Description:** *Saturday 16 December NZDT*: Rocket Lab has delayed its second test flight of the Electron rocket until early 2018.
 **Customer:** [[Planet Labs]], [[Spire Global]]
-**Mission:** [[002 'Still Testing']]
+**Mission:** [[002 - Still Testing]]
 
 **Saturday 16 December NZDT**: Rocket Lab has delayed its second test flight of the Electron rocket until early 2018. 
 

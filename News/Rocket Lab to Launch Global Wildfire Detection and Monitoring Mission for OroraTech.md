@@ -7,7 +7,7 @@ published: 2025-01-22
 customer:
   - "[[Orora Technlogies]]"
 mission:
-  - "[[063 'Finding Hot Wildfires Near You']]"
+  - "[[063 - Finding Hot Wildfires Near You]]"
 tags:
   - launch
   - electron
@@ -19,7 +19,7 @@ Source: "https://www.rocketlabusa.com/updates/rocket-lab-to-launch-global-wildfi
 Author: [[Rocket Lab]]
 Published: 2025-01-22
 Customer: [[Orora Technlogies]]
-Mission: [[063 'Finding Hot Wildfires Near You']]
+Mission: [[063 - Finding Hot Wildfires Near You]]
 
 ## Rocket Lab to Launch Global Wildfire Detection and Monitoring Mission for OroraTech
 

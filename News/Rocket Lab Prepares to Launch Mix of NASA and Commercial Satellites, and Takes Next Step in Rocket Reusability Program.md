@@ -9,7 +9,7 @@ customer:
   - "[[NASA]]"
   - "[[UTIAS Space Flight Laboratory]]"
   - "[[Spire Global]]"
-mission: "[[039 'Baby Come Back']]"
+mission: "[[039 - Baby Come Back]]"
 tags:
   - launch
   - electron
@@ -22,7 +22,7 @@ tags:
 **Published:** 2023-07-17
 **Description:** *Rocket Lab Prepares to Launch Mix of NASA and Commercial Satellites, and Takes Next Step in Rocket Reusability Program*
 **Customer:** [[NASA]], [[UTIAS Space Flight Laboratory]], [[Spire Global]]
-**Mission:** [[039 'Baby Come Back']]
+**Mission:** [[039 - Baby Come Back]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-prepares-mix-of-nasa-and-commercial-satellites-and-takes-next-step-in-rocket-reusability-program-new-blog-post/
 

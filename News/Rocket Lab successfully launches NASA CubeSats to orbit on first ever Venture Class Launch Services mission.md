@@ -8,7 +8,7 @@ description: "*Rocket Lab successfully launches NASA CubeSats to orbit on first 
 customer:
   - "[[NASA]]"
 mission:
-  - "[[004 'NASA ELaNa-19']]"
+  - "[[004 - NASA ELaNa-19]]"
 tags:
   - electron
   - launch
@@ -21,7 +21,7 @@ tags:
 **Published:** 2018-12-16
 **Description:** *Rocket Lab successfully launches NASA CubeSats to orbit on first ever Venture Class Launch Services mission*
 **Customer:** [[NASA]]
-**Mission:** [[004 'NASA ELaNa-19']]
+**Mission:** [[004 - NASA ELaNa-19]]
 
 **Rocket Lab successfully launches NASA CubeSats to orbit on first ever Venture Class Launch Services mission**
 

@@ -8,7 +8,7 @@ description: The mission is the first of three upcoming dedicated Electron launc
 customer:
   - "[[Synspective]]"
 mission:
-  - "[[024 'The Owl's Night Continues']]"
+  - "[[024 - The Owl's Night Continues]]"
 tags:
   - electron
   - launch
@@ -21,7 +21,7 @@ tags:
 **Published:** 2022-02-09
 **Description:** The mission is the first of three upcoming dedicated Electron launches for Synspective and demonstrates Rocket Lab’s flexible and responsive launch capability.
 **Customer:** [[Synspective]]
-**Mission:** [[024 'The Owl's Night Continues']]
+**Mission:** [[024 - The Owl's Night Continues]]
 
 *The mission is the first of three upcoming dedicated Electron launches for [[Synspective]] and demonstrates Rocket Lab’s flexible and responsive launch capability.*
 

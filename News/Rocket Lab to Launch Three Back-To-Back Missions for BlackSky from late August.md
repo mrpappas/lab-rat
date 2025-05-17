@@ -8,9 +8,9 @@ description: The next Electron rocket on the pad is the first of three dedicated
 customer:
   - "[[BlackSky]]"
 mission:
-  - "[[022 'Love At First Insight']]"
-  - "[[023 'A Data With Destiny']]"
-  - "[[025 'Without Mission A Beat']]"
+  - "[[022 - Love At First Insight]]"
+  - "[[023 - A Data With Destiny]]"
+  - "[[025 - Without Mission A Beat]]"
 tags:
   - contract
   - electron
@@ -23,7 +23,7 @@ tags:
 **Published:** 2021-08-10
 **Description:** The next Electron rocket on the pad is the first of three dedicated missions for BlackSky scheduled for lift-off from late August through September.
 **Customer:** [[BlackSky]]
-**Mission:** [[022 'Love At First Insight']], [[023 'A Data With Destiny']], [[025 'Without Mission A Beat']]
+**Mission:** [[022 - Love At First Insight]], [[023 - A Data With Destiny]], [[025 - Without Mission A Beat]]
 
 *The next Electron rocket on the pad is the first of three dedicated missions for BlackSky scheduled for lift-off from late August through September.*
 

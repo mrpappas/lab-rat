@@ -6,7 +6,7 @@ author:
 published: 2022-11-01
 description: "*Long Beach, California. November 01, 2022* – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, today confirmed that it will attempt to catch an Electron rocket with a helicopter as it returns to Earth from space during the Company’s next launch."
 customer: "[[Swedish National Space Agency]]"
-mission: "[[032 'Catch Me If You Can']]"
+mission: "[[032 - Catch Me If You Can]]"
 tags:
   - launch
   - electron
@@ -20,7 +20,7 @@ tags:
 **Published:** 2022-11-01
 **Description:** *Long Beach, California. November 01, 2022* – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, today confirmed that it will attempt to catch an Electron rocket with a helicopter as it returns to Earth from space during the Company’s next launch.
 **Customer:** [[Swedish National Space Agency]]
-**Mission:** [[032 'Catch Me If You Can']]
+**Mission:** [[032 - Catch Me If You Can]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-to-attempt-next-mid-air-helicopter-rocket-catch-during-next-mission/
 

@@ -24,7 +24,7 @@ sort launch_date desc
 
 | File                                                  | Date             | Location                                              | Vehicle                          | Orbit & Mass            | Outcome   |
 | ----------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | ----------------------- | --------- |
-| [[Launch/Launches/006 'STP-27RD'.md\|006 'STP-27RD']] | 2019-05-05 06:00 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 500 km \| 40° \| 180 kg | ✅ Success |
+| [[Launch/Launches/006 - STP-27RD.md\|006 - STP-27RD]] | 2019-05-05 06:00 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 500 km \| 40° \| 180 kg | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end %%
 

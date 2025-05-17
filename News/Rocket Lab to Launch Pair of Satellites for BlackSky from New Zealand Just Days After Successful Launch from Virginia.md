@@ -6,7 +6,7 @@ author:
 published: 2023-03-17
 description: The mission, Rocket Lab’s 8th mission for BlackSky Global, is scheduled to lift-off from Launch Complex 1 in New Zealand just six days after a successful mission from Launch Complex 2 in Virginia.
 customer: "[[BlackSky]]"
-mission: "[[035 'The Beat Goes On']]"
+mission: "[[035 - The Beat Goes On]]"
 tags:
   - launch
   - electron
@@ -19,7 +19,7 @@ tags:
 **Published:** 2023-03-17
 **Description:** The mission, Rocket Lab’s 8th mission for BlackSky Global, is scheduled to lift-off from Launch Complex 1 in New Zealand just six days after a successful mission from Launch Complex 2 in Virginia.
 **Customer:** [[BlackSky]]
-**Mission:** [[035 'The Beat Goes On']]
+**Mission:** [[035 - The Beat Goes On]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-to-launch-pair-of-satellites-for-blacksky-from-new-zealand-just-days-after-successful-launch-from-virginia/
 

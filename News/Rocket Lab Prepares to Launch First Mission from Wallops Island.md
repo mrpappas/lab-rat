@@ -6,7 +6,7 @@ author:
 published: 2022-12-17
 description: The mission will lift off from Rocket Lab Launch Complex 2 at Virginia Space’s Mid-Atlantic Regional Spaceport within the NASA Wallops Flight Facility
 customer: "[[HawkEye 360]]"
-mission: "[[033 'Virginia is for Launch Lovers']]"
+mission: "[[033 - Virginia is for Launch Lovers]]"
 tags:
   - launch
   - electron
@@ -19,7 +19,7 @@ tags:
 **Published:** 2022-12-17
 **Description:** The mission will lift off from Rocket Lab Launch Complex 2 at Virginia Space’s Mid-Atlantic Regional Spaceport within the NASA Wallops Flight Facility
 **Customer:** [[HawkEye 360]]
-**Mission:** [[033 'Virginia is for Launch Lovers']]
+**Mission:** [[033 - Virginia is for Launch Lovers]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-prepares-to-launch-first-mission-from-wallops-island/
 

@@ -6,7 +6,7 @@ author:
 published: 2022-10-12
 description: "*Electron Rocket Arrives at Launch Complex 2 for Rocket Lab’s Inaugural Mission from Virginia*"
 customer: "[[HawkEye 360]]"
-mission: "[[033 'Virginia is for Launch Lovers']]"
+mission: "[[033 - Virginia is for Launch Lovers]]"
 tags:
   - launch
   - electron
@@ -19,7 +19,7 @@ tags:
 **Published:** 2022-10-12
 **Description:** *Electron Rocket Arrives at Launch Complex 2 for Rocket Lab’s Inaugural Mission from Virginia*
 **Customer:** [[HawkEye 360]]
-**Mission:** [[033 'Virginia is for Launch Lovers']]
+**Mission:** [[033 - Virginia is for Launch Lovers]]
 
 Source: https://www.rocketlabusa.com/updates/electron-rocket-arrives-at-launch-complex-2-for-rocket-labs-inaugural-mission-from-virginia/
 

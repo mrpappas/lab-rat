@@ -9,7 +9,7 @@ customer:
   - "[[NASA]]"
   - "[[UTIAS Space Flight Laboratory]]"
   - "[[Spire Global]]"
-mission: "[[039 'Baby Come Back']]"
+mission: "[[039 - Baby Come Back]]"
 tags:
   - electron
   - launch
@@ -23,7 +23,7 @@ tags:
 **Published:** 2023-07-17
 **Description:** *Rocket Lab Deploys Satellites for NASA and Commercial Constellation Operators, Successfully Recovers Booster *
 **Customer:** [[NASA]], [[UTIAS Space Flight Laboratory]], [[Spire Global]]
-**Mission:** [[039 'Baby Come Back']]
+**Mission:** [[039 - Baby Come Back]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-deploys-satellites-for-nasa-and-commercial-constellation-operators-successfully-recovers-booster/
 

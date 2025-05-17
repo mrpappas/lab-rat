@@ -6,7 +6,7 @@ author:
 published: 2024-02-07
 description: "*The highly responsive mission aims to demonstrate new orbital debris inspection technologies for space sustainability*"
 customer: "[[Astroscale-Japan]]"
-mission: "[[044 'On Closer Inspection']]"
+mission: "[[044 - On Closer Inspection]]"
 tags:
   - launch
   - electron
@@ -19,7 +19,7 @@ tags:
 **Published:** 2024-02-07
 **Description:** *The highly responsive mission aims to demonstrate new orbital debris inspection technologies for space sustainability*
 **Customer:** [[Astroscale-Japan]]
-**Mission:** [[044 'On Closer Inspection']]
+**Mission:** [[044 - On Closer Inspection]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-sets-launch-window-for-astroscale-orbital-debris-inspection-demonstration-mission/
 

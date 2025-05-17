@@ -6,7 +6,7 @@ author:
 published: 2022-11-09
 description: "*After more than 30 missions from Launch Complex 1, Electron is set to lift off from U.S. soil for the first time creating a new responsive launch capability for the nation*"
 customer: "[[HawkEye 360]]"
-mission: "[[033 'Virginia is for Launch Lovers']]"
+mission: "[[033 - Virginia is for Launch Lovers]]"
 tags:
   - launch
   - electron
@@ -19,7 +19,7 @@ tags:
 **Published:** 2022-11-09
 **Description:** *After more than 30 missions from Launch Complex 1, Electron is set to lift off from U.S. soil for the first time creating a new responsive launch capability for the nation*
 **Customer:** [[HawkEye 360]]
-**Mission:** [[033 'Virginia is for Launch Lovers']]
+**Mission:** [[033 - Virginia is for Launch Lovers]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-announces-launch-window-for-inaugural-electron-mission-from-launch-complex-2-in-virginia/
 

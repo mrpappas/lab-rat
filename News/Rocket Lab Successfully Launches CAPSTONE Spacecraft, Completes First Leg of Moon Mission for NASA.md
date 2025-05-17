@@ -9,7 +9,7 @@ customer:
   - "[[NASA]]"
   - "[[Advanced Space]]"
 mission:
-  - "[[027 'CAPSTONE']]"
+  - "[[027 - CAPSTONE]]"
 insider: 
 tags:
   - space-systems
@@ -23,7 +23,7 @@ tags:
 **Published:** 2022-06-28
 **Description:** *Long Beach, California. June 28, 2022* – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, has successfully launched CAPSTONE, a microwave-oven-sized satellite designed to test a new orbit around the Moon for NASA.
 **Customer:** [[NASA]], [[Advanced Space]]
-**Mission:** [[027 'CAPSTONE']]
+**Mission:** [[027 - CAPSTONE]]
 **Insider:** None
 
 **Long Beach, California. June 28, 2022** – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, has successfully launched CAPSTONE, a microwave-oven-sized satellite designed to test a new orbit around the Moon for NASA.

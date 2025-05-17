@@ -9,7 +9,7 @@ customer:
   - "[[NASA]]"
   - "[[Advanced Space]]"
 mission:
-  - "[[027 'CAPSTONE']]"
+  - "[[027 - CAPSTONE]]"
 insider: 
 tags:
   - space-systems
@@ -23,7 +23,7 @@ tags:
 **Published:** 2022-06-30
 **Description:** *Long Beach, California. June 30, 2022* – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, today confirmed its Photon Lunar spacecraft has successfully brought the CAPSTONE s7atellite for NASA closer to the Moon with the completion of its fourth orbit raising maneuver.
 **Customer:** [[NASA]], [[Advanced Space]]
-**Mission:** [[027 'CAPSTONE']]
+**Mission:** [[027 - CAPSTONE]]
 **Insider:** None
 
 **Long Beach, California. June 30, 2022** – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, today confirmed its Photon Lunar spacecraft has successfully brought the CAPSTONE satellite for NASA closer to the Moon with the completion of its fourth orbit raising maneuver.

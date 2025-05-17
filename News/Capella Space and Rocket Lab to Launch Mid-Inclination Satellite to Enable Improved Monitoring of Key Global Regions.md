@@ -8,7 +8,7 @@ description: Capella Space and Rocket Lab to Launch Mid-Inclination Satellite to
 customer:
   - "[[Capella Space]]"
 mission:
-  - "[[014 'I Can't Believe It's Not Optical']]"
+  - "[[014 - I Can't Believe It's Not Optical]]"
 tags:
   - electron
   - contract
@@ -21,7 +21,7 @@ tags:
 **Published:** 2020-03-05
 **Description:** Capella Space and Rocket Lab to Launch Mid-Inclination Satellite to Enable Improved Monitoring of Key Global Regions
 **Customer:** [[Capella Space]]
-**Mission:** [[014 'I Can't Believe It's Not Optical']]
+**Mission:** [[014 - I Can't Believe It's Not Optical]]
 
 Capella Space and Rocket Lab to Launch Mid-Inclination Satellite to Enable Improved Monitoring of Key Global Regions 
 

@@ -23,7 +23,7 @@ sort launch_date desc
 
 | File                                                          | Date             | Location                                              | Vehicle                          | Orbit & Mass           | Outcome   |
 | ------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | ---------------------- | --------- |
-| [[Launch/Launches/007 'Make it Rain'.md\|007 'Make it Rain']] | 2019-06-29 04:30 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 450 km \| 45° \| 80 kg | ✅ Success |
+| [[Launch/Launches/007 - Make it Rain.md\|007 - Make it Rain]] | 2019-06-29 04:30 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 450 km \| 45° \| 80 kg | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end %%
 

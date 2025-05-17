@@ -8,7 +8,7 @@ description: Launching no earlier than September 2023, the mission will deliver 
 customer:
   - "[[Spire Global]]"
   - "[[NorthStar Earth & Space]]"
-mission: "[[043 'Four Of A Kind']]"
+mission: "[[043 - Four Of A Kind]]"
 tags:
   - electron
   - contract
@@ -21,7 +21,7 @@ tags:
 **Published:** 2023-06-22
 **Description:** Launching no earlier than September 2023, the mission will deliver the first of NorthStar’s commercial Space Situational Awareness (SSA) satellites built by Spire Global.
 **Customer:** [[Spire Global]], [[NorthStar Earth & Space]]
-**Mission:** [[043 'Four Of A Kind']]
+**Mission:** [[043 - Four Of A Kind]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-to-launch-space-object-monitoring-mission-for-spire-global-and-northstar/
 

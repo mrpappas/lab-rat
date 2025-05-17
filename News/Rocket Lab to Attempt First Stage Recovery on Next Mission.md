@@ -12,7 +12,7 @@ Customer:
   - "[[The University of Auckland]]"
   - "[[Valve]]"
 mission:
-  - "[[016 'Return to Sender']]"
+  - "[[016 - Return to Sender]]"
 tags:
   - electron
   - launch
@@ -25,7 +25,7 @@ tags:
 **Published:** 2020-11-05
 **Description:** For the first time, Rocket Lab will attempt to bring the first stage of an Electron launch vehicle back to Earth under a parachute after launch
 **Customer:** [[Trisept]], [[Unseenlabs]], [[Swarm]], [[The University of Auckland]], [[Valve]]
-**Mission:** [[016 'Return to Sender']]
+**Mission:** [[016 - Return to Sender]]
 
 *For the first time, Rocket Lab will attempt to bring the first stage of an Electron launch vehicle back to Earth under a parachute after launch*
 

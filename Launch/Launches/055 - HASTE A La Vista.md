@@ -1,0 +1,69 @@
+---
+
+tags:
+  - haste
+  - launch
+  - success
+mission_name: HASTE A La Vista
+launch_date: 2024-11-24 06:00
+outcome: ✅ Success
+customer: "[[U.S. Department of Defense]]"
+location: "[[Launch Complex 2#Launch Pad 0C|LC2-0]]"
+vehicle: "[[HASTE]]"
+orbit_type: "n/a"
+target_orbit: Suborbital
+payload_mass: unknown
+recovery: n/a
+mission_link: https://www.rocketlabusa.com/missions/missions-launched/haste-a-la-vista/
+---
+
+>[!Success] Mission Success
+
+>[!summary]
+This mission provided hypersonic test launch capabilities under the Multi-Service Advanced Capability Hypersonics Test Bed (MACH-TB) project, which aims to increase hypersonic flight testing for the United States in support of technology maturation. The project was awarded by Naval Surface Warfare Center (NSWC) Crane through the Strategic and Spectrum Missions Advanced Resilient Trusted Systems (S2MARTS) Other Transaction Authority (OTA) vehicle on behalf of the U.S. Department of Defense Test Resource Management Center (TRMC).
+>
+Rocket Lab’s launch vehicle showcased a new suite of cutting-edge technologies optimized for hypersonic technology tests with vastly increased payloads. Rocket Lab also designed, manufactured, assembled, and integrated the experimental hypersonic instrumentation which was launched on this mission, but on a highly accelerated timeline.
+>
+>🚫 No Official Mission Photo Album
+
+#haste #launch #success
+
+| **Mission Name** | HASTE A La Vista                                                                              |
+| ---------------- | --------------------------------------------------------------------------------------------- |
+| **Launch Date**  | 2024-11-24 06:00                                                                              |
+| **Outcome**      | ✅ Success                                                                                     |
+| **Customer**     | [[U.S. Department of Defense]]                                                                |
+| **Location**     | [[Launch Complex 2#Launch Pad 0C]]                                                            |
+| **Vehicle**      | [[HASTE]]                                                                                     |
+| **Orbit Type**   | n/a                                                                                           |
+| **Target Orbit** | Suborbital                                                                                    |
+| **Payload Mass** | unknown                                                                                       |
+| **Recovery**     | n/a                                                                                           |
+| **Mission Link** | [HASTE A La Vista](https://www.rocketlabusa.com/missions/missions-launched/haste-a-la-vista/) |
+| **Press Kit**    | 🚫 No Press Kit Issued for this Mission                                                       |
+
+
+![[Pasted image 20250406151012.png|300]]
+
+## 📽️ Launch Video
+
+🚫 No Official Livestream
+
+<div class="responsive-video">
+<iframe src="https://www.youtube.com/embed/1dBfpv9TIdw" title="Rocket Lab&#39;s Electron - HASTE A La Vista Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
+</div>
+
+## 📰 News
+%%DATAVIEW_PUBLISHER: start
+```
+table published as "Published"
+from "News"
+where contains(mission, [[055 'HASTE A La Vista']])
+sort published desc
+```
+%%
+
+| File | Published |
+| ---- | --------- |
+
+%%DATAVIEW_PUBLISHER: end %%

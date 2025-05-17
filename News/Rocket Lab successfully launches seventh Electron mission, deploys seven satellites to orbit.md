@@ -10,7 +10,7 @@ customer:
   - "[[BlackSky]]"
   - "[[Melbourne Space Program]]"
 mission:
-  - "[[007 'Make it Rain']]"
+  - "[[007 - Make it Rain]]"
 tags:
   - electron
   - launch
@@ -23,7 +23,7 @@ tags:
 **Published:** 2019-06-29
 **Description:** Rocket Lab successfully launches seventh Electron mission, deploys seven satellites to orbit
 **Customer:** [[Spaceflight]], [[BlackSky]], [[Melbourne Space Program]]
-**Mission:** [[007 'Make it Rain']]
+**Mission:** [[007 - Make it Rain]]
 
 Rocket Lab successfully launches seventh Electron mission, deploys seven satellites to orbit
 

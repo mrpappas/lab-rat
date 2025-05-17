@@ -12,7 +12,7 @@ Customer:
   - "[[The University of Auckland]]"
   - "[[Valve]]"
 mission:
-  - "[[016 'Return to Sender']]"
+  - "[[016 - Return to Sender]]"
 tags:
   - electron
 ---
@@ -24,7 +24,7 @@ tags:
 **Published:** 2020-11-30
 **Description:** *Return to Sender Recovery Update*
 **Customer:** [[Trisept]], [[Unseenlabs]], [[Swarm]], [[The University of Auckland]], [[Valve]]
-**Mission:** [[016 'Return to Sender']]
+**Mission:** [[016 - Return to Sender]]
 
 ## **Return to Sender Recovery Update**
 

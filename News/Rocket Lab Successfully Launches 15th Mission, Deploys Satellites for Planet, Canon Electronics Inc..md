@@ -10,7 +10,7 @@ Customer:
   - "[[Spaceflight]]"
   - "[[Canon Electronics]]"
 mission:
-  - "[[015 'In Focus']]"
+  - "[[015 - In Focus]]"
 tags:
   - electron
   - launch
@@ -23,7 +23,7 @@ tags:
 **Published:** 2020-10-29
 **Description:** *Mahia, New Zealand. 29 October 2020* – Rocket Lab, a space systems company and the global leader in dedicated small satellite launch, has successfully launched its 15th Electron mission and deployed Earth-imaging satellites for Planet and Spaceflight Inc. customer Canon Electronics. The mission was Rocket Lab’s fifth for this year, making Electron the second-most frequently flown U.S. launch vehicle in 2020.
 **Customer:** [[Planet Labs]], [[Spaceflight]], [[Canon Electronics]]
-**Mission:** [[015 'In Focus']]
+**Mission:** [[015 - In Focus]]
 
 **Mahia, New Zealand. 29 October 2020** – Rocket Lab, a space systems company and the global leader in dedicated small satellite launch, has successfully launched its 15<sup>th</sup> Electron mission and deployed Earth-imaging satellites for Planet and Spaceflight Inc. customer Canon Electronics. The mission was Rocket Lab’s fifth for this year, making Electron the second-most frequently flown U.S. launch vehicle in 2020.
 

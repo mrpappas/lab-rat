@@ -1,14 +1,14 @@
 ---
-title: "Successful Rocket Lab Launch Completes Deployment of Full Kinéis Constellation in Less Than a Year | Rocket Lab"
-source: "https://www.rocketlabusa.com/updates/successful-rocket-lab-launch-completes-deployment-of-full-kineis-constellation-in-less-than-a-year/"
+title: Successful Rocket Lab Launch Completes Deployment of Full Kinéis Constellation in Less Than a Year | Rocket Lab
+source: https://www.rocketlabusa.com/updates/successful-rocket-lab-launch-completes-deployment-of-full-kineis-constellation-in-less-than-a-year/
 author:
   - "[[Rocket Lab]]"
 published: 2025-03-18
 customer: "[[Kinéis]]"
-mission: "[[062 'High Five']]"
+mission: "[[062 - High Five]]"
 tags:
- - electron
- - launch
+  - electron
+  - launch
 ---
 
 >[!summary]
@@ -18,7 +18,7 @@ tags:
 **Author:** [[Rocket Lab]]
 **Published:** 2025-03-18
 **Customer:** [[Kinéis]]
-**Mission:** [[062 'High Five']]
+**Mission:** [[062 - High Five]]
 
 *The launch was the fifth in a series of five dedicated Electron launches for the French Internet-of-Things constellation provider, completing deployment of a complete constellation in less than a year*
 

@@ -6,7 +6,7 @@ author:
 published: 2022-12-19
 description: "WALLOPS ISLAND, Virginia - Rocket Lab USA, Inc (Nasdaq: RKLB) (“Rocket Lab”), a leading launch and space systems company, has today announced the launch window for its first Electron mission from U.S. soil has been rescheduled to January 2023."
 customer: "[[HawkEye 360]]"
-mission: "[[033 'Virginia is for Launch Lovers']]"
+mission: "[[033 - Virginia is for Launch Lovers]]"
 tags:
   - launch
   - electron
@@ -19,7 +19,7 @@ tags:
 **Published:** 2022-12-19
 **Description:** WALLOPS ISLAND, Virginia - Rocket Lab USA, Inc (Nasdaq: RKLB) (“Rocket Lab”), a leading launch and space systems company, has today announced the launch window for its first Electron mission from U.S. soil has been rescheduled to January 2023.
 **Customer:** [[HawkEye 360]]
-**Mission:** [[033 'Virginia is for Launch Lovers']]
+**Mission:** [[033 - Virginia is for Launch Lovers]]
 
 Rocket Lab USA, Inc (Nasdaq: RKLB) (“Rocket Lab”), a leading launch and space systems company, has today announced the launch window for its first Electron mission from U.S. soil has been rescheduled to January 2023.
 

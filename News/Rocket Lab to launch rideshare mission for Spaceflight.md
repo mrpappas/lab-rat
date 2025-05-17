@@ -10,7 +10,7 @@ customer:
   - "[[BlackSky]]"
   - "[[Melbourne Space Program]]"
 mission:
-  - "[[007 'Make it Rain']]"
+  - "[[007 - Make it Rain]]"
 tags:
   - electron
   - contract
@@ -23,7 +23,7 @@ tags:
 **Published:** 2019-05-10
 **Description:** *Rocket Lab to launch rideshare mission for Spaceflight*
 **Customer:** [[Spaceflight]], [[BlackSky]], [[Melbourne Space Program]]
-**Mission:** [[007 'Make it Rain']]
+**Mission:** [[007 - Make it Rain]]
 
 Rocket Lab to launch rideshare mission for Spaceflight
 

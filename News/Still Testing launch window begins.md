@@ -9,7 +9,7 @@ customer:
   - "[[Planet Labs]]"
   - "[[Spire Global]]"
 mission:
-  - "[[002 'Still Testing']]"
+  - "[[002 - Still Testing]]"
 tags:
   - electron
   - launch
@@ -22,7 +22,7 @@ tags:
 **Published:** 2017-12-11
 **Description:** In the coming days we will attempt to launch the second Rocket Lab Electron rocket, Still Testing. As the name suggests, we are still very much in a test phase, but this flight is a significant milestone for our team and the next step in our mission to democratize space.
 **Customer:** [[Planet Labs]], [[Spire Global]]
-**Mission:** [[002 'Still Testing']]
+**Mission:** [[002 - Still Testing]]
 
 In the coming days we will attempt to launch the second Rocket Lab Electron rocket, Still Testing. As the name suggests, we are still very much in a test phase, but this flight is a significant milestone for our team and the next step in our mission to democratize space.  
 

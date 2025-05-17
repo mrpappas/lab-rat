@@ -5,7 +5,7 @@ author:
   - "[[Rocket Lab]]"
 published: 2023-04-19
 description: "*Rocket Lab to Take Next Major Step Toward Electron Reusability by Launching Pre-Flown Engine *"
-mission: "[[026 'There And Back Again']]"
+mission: "[[026 - There And Back Again]]"
 tags:
   - electron
   - rutherford
@@ -17,7 +17,7 @@ tags:
 **Author:** [[Rocket Lab]]
 **Published:** 2023-04-19
 **Description:** *Rocket Lab to Take Next Major Step Toward Electron Reusability by Launching Pre-Flown Engine *
-**Mission:** [[026 'There And Back Again']]
+**Mission:** [[026 - There And Back Again]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-to-take-next-major-step-toward-electron-reusability-by-launching-pre-flown-engine/
 

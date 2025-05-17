@@ -8,8 +8,8 @@ description: The launches, Rocket Lab’s 22nd and 23rd Electron missions, are p
 customer:
   - "[[BlackSky]]"
 mission:
-  - "[[022 'Love At First Insight']]"
-  - "[[023 'A Data With Destiny']]"
+  - "[[022 - Love At First Insight]]"
+  - "[[023 - A Data With Destiny]]"
 tags:
   - electron
   - launch
@@ -22,7 +22,7 @@ tags:
 **Published:** 2021-10-11
 **Description:** The launches, Rocket Lab’s 22nd and 23rd Electron missions, are part of a multi-launch deal that represents the largest number of satellites BlackSky has committed to a single launch provider.
 **Customer:** [[BlackSky]]
-**Mission:** [[022 'Love At First Insight']], [[023 'A Data With Destiny']]
+**Mission:** [[022 - Love At First Insight]], [[023 - A Data With Destiny]]
 
 *The launches, Rocket Lab’s 22<sup>nd</sup> and 23<sup>rd</sup> Electron missions, are part of a multi-launch deal that represents the largest number of satellites BlackSky has committed to a single launch provider.*
 

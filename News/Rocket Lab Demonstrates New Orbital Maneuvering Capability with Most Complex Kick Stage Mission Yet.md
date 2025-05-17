@@ -8,7 +8,7 @@ description: "*Rocket Lab Demonstrates New Orbital Maneuvering Capability with M
 customer:
   - "[[OHB Group]]"
 mission:
-  - "[[018 'Another One Leaves the Crust']]"
+  - "[[018 - Another One Leaves the Crust]]"
 tags:
   - electron
   - launch
@@ -21,7 +21,7 @@ tags:
 **Published:** 2021-01-26
 **Description:** *Rocket Lab Demonstrates New Orbital Maneuvering Capability with Most Complex Kick Stage Mission Yet*
 **Customer:** [[OHB Group]]
-**Mission:** [[018 'Another One Leaves the Crust']]
+**Mission:** [[018 - Another One Leaves the Crust]]
 
 **Rocket Lab Demonstrates New Orbital Maneuvering Capability with Most Complex Kick Stage Mission Yet**
 

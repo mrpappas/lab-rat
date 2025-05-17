@@ -23,7 +23,7 @@ sort launch_date desc
 
 | File                                                                                        | Date             | Location                                              | Vehicle                          | Orbit & Mass             | Outcome   |
 | ------------------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | ------------------------ | --------- |
-| [[Launch/Launches/021 'It's A Little Chile Up Here'.md\|021 'It's A Little Chile Up Here']] | 2021-07-29 06:00 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 600 km \| 37° \| Unknown | ✅ Success |
+| [[Launch/Launches/021 - It's A Little Chile Up Here.md\|021 - It's A Little Chile Up Here]] | 2021-07-29 06:00 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 600 km \| 37° \| Unknown | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end %%
 

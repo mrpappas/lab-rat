@@ -8,7 +8,7 @@ description: "*Long Beach, California. 24 November 2020* – Rocket Lab, a space
 customer:
   - "[[Synspective]]"
 mission:
-  - "[[017 'The Owl's Night Begins']]"
+  - "[[017 - The Owl's Night Begins]]"
 tags:
   - electron
   - contract
@@ -21,7 +21,7 @@ tags:
 **Published:** 2020-11-24
 **Description:** *Long Beach, California. 24 November 2020* – Rocket Lab, a space technology company and global leader in dedicated small satellite launch, has today announced Japanese Earth-imaging company Synspective as the customer for Rocket Lab’s 17th Electron launch, and its seventh mission of the year.
 **Customer:** [[Synspective]]
-**Mission:** [[017 'The Owl's Night Begins']]
+**Mission:** [[017 - The Owl's Night Begins]]
 
 **Long Beach, California. 24 November 2020** – Rocket Lab, a space technology company and global leader in dedicated small satellite launch, has today announced Japanese Earth-imaging company Synspective as the customer for Rocket Lab’s 17<sup>th</sup> Electron launch, and its seventh mission of the year.
 

@@ -8,7 +8,7 @@ description: Almost five months after a successful launch by Rocket Lab, the CAP
 customer:
   - "[[NASA]]"
   - "[[Advanced Space]]"
-mission: "[[027 'CAPSTONE']]"
+mission: "[[027 - CAPSTONE]]"
 ---
 >[!summary]
 **Title:** Rocket Lab-launched CAPSTONE Spacecraft Enters Lunar Orbit 
@@ -17,7 +17,7 @@ mission: "[[027 'CAPSTONE']]"
 **Published:** 2022-11-15
 **Description:** Almost five months after a successful launch by Rocket Lab, the CAPSTONE spacecraft has reached its lunar destination - a unique orbit around the Moon where the future Gateway space station will support NASA's Artemis missions.
 **Customer:** [[NASA]], [[Advanced Space]]
-**Mission:** [[027 'CAPSTONE']]
+**Mission:** [[027 - CAPSTONE]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-launched-capstone-spacecraft-enters-lunar-orbit/
 

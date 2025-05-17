@@ -10,7 +10,7 @@ customer:
   - "[[Tyvak Nano-Satellite Systems]]"
   - "[[Fleet Space]]"
 mission:
-  - "[[003 'It's Business Time']]"
+  - "[[003 - It's Business Time]]"
 tags:
   - electron
   - launch
@@ -23,7 +23,7 @@ tags:
 **Published:** 2018-05-25
 **Description:** *Huntington Beach, California. Friday 25 May 2018:* <br />US orbital launch provider Rocket Lab has today confirmed the new launch window for the upcoming ‘It’s Business Time’ mission. The 14-day launch window will open from 23 June to 6 July (NZST), with launch opportunities between 12:30 – 16:30 NZST daily (00:30 – 04:30 UTC).
 **Customer:** [[Spire Global]], [[Tyvak Nano-Satellite Systems]], [[Fleet Space]]
-**Mission:** [[003 'It's Business Time']]
+**Mission:** [[003 - It's Business Time]]
 
 **Huntington Beach, California. Friday 25 May 2018:**  
 US orbital launch provider Rocket Lab has today confirmed the new launch window for the upcoming ‘It’s Business Time’ mission. The 14-day launch window will open from 23 June to 6 July (NZST), with launch opportunities between 12:30 – 16:30 NZST daily (00:30 – 04:30 UTC).

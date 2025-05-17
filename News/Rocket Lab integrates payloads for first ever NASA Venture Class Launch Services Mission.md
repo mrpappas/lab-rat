@@ -8,7 +8,7 @@ description: "Huntington Beach, California and Auckland, New Zealand April 25, 2
 customer:
   - "[[NASA]]"
 mission:
-  - "[[004 'NASA ELaNa-19']]"
+  - "[[004 - NASA ELaNa-19]]"
 tags:
   - electron
   - launch
@@ -21,7 +21,7 @@ tags:
 **Published:** 2018-04-25
 **Description:** Huntington Beach, California and Auckland, New Zealand April 25, 2018:
 **Customer:** [[NASA]]
-**Mission:** [[004 'NASA ELaNa-19']]
+**Mission:** [[004 - NASA ELaNa-19]]
 
 Huntington Beach, California and Auckland, New Zealand April 25, 2018:
 

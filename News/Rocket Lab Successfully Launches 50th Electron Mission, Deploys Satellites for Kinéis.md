@@ -6,7 +6,7 @@ author:
 published: 2024-06-21
 description: "*Electron reaches 50 launches faster than any other commercially developed rocket in history*"
 customer: "[[Kinéis]]"
-mission: "[[050 'No Time Toulouse']]"
+mission: "[[050 - No Time Toulouse]]"
 tags:
   - launch
   - electron
@@ -19,7 +19,7 @@ tags:
 **Published:** 2024-06-21
 **Description:** *Electron reaches 50 launches faster than any other commercially developed rocket in history*
 **Customer:** [[Kinéis]]
-**Mission:** [[050 'No Time Toulouse']]
+**Mission:** [[050 - No Time Toulouse]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-50th-electron-mission-deploys-satellites-for-kineis/
 

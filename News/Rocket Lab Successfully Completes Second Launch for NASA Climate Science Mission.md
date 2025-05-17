@@ -6,7 +6,7 @@ author:
 published: 2024-06-05
 description: The second of two Electron launches for NASA’s PREFIRE mission successfully lifted-off and deployed a climate monitoring satellite just eleven days after the first launch
 customer: "[[NASA]]"
-mission: "[[049 'PREFIRE and ICE']]"
+mission: "[[049 - PREFIRE and ICE]]"
 tags:
   - launch
   - electron
@@ -19,7 +19,7 @@ tags:
 **Published:** 2024-06-05
 **Description:** The second of two Electron launches for NASA’s PREFIRE mission successfully lifted-off and deployed a climate monitoring satellite just eleven days after the first launch
 **Customer:** [[NASA]]
-**Mission:** [[049 'PREFIRE and ICE']]
+**Mission:** [[049 - PREFIRE and ICE]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-completes-second-launch-for-nasa-climate-science-mission/
 

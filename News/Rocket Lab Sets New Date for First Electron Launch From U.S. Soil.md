@@ -6,7 +6,7 @@ author:
 published: 2023-01-11
 description: "*Rocket Lab Sets New Date for First Electron Launch From U.S. Soil*"
 customer: "[[HawkEye 360]]"
-mission: "[[033 'Virginia is for Launch Lovers']]"
+mission: "[[033 - Virginia is for Launch Lovers]]"
 tags:
   - launch
   - electron
@@ -19,7 +19,7 @@ tags:
 **Published:** 2023-01-11
 **Description:** *Rocket Lab Sets New Date for First Electron Launch From U.S. Soil*
 **Customer:** [[HawkEye 360]]
-**Mission:** [[033 'Virginia is for Launch Lovers']]
+**Mission:** [[033 - Virginia is for Launch Lovers]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-sets-new-date-for-first-electron-launch-from-u-s-soil/
 

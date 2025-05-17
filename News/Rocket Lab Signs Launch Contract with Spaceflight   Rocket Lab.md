@@ -8,7 +8,7 @@ description: Rocket Lab today announces a new customer contract with Spaceflight
 customer:
   - "[[Spaceflight]]"
 mission:
-  - "[[007 'Make it Rain']]"
+  - "[[007 - Make it Rain]]"
 tags:
   - electron
   - contract
@@ -21,7 +21,7 @@ tags:
 **Published:** 2017-05-18
 **Description:** Rocket Lab today announces a new customer contract with Spaceflight, the launch services and mission management provider. Spaceflight has purchased an Electron rocket to increase the frequency of its dedicated rideshare missions.
 **Customer:** [[Spaceflight]]
-**Mission:** [[007 'Make it Rain']]
+**Mission:** [[007 - Make it Rain]]
 
 Rocket Lab today announces a new customer contract with Spaceflight, the launch services and mission management provider. Spaceflight has purchased an Electron rocket to increase the frequency of its dedicated rideshare missions.
 

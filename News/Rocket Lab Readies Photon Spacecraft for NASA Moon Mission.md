@@ -9,7 +9,7 @@ customer:
   - "[[NASA]]"
   - "[[Advanced Space]]"
 mission:
-  - "[[027 'CAPSTONE']]"
+  - "[[027 - CAPSTONE]]"
 tags:
   - space-systems
   - photon
@@ -23,7 +23,7 @@ tags:
 **Published:** 2020-12-11
 **Description:** *Rocket Lab Readies Photon Spacecraft for NASA Moon Mission*
 **Customer:** [[NASA]], [[Advanced Space]]
-**Mission:** [[027 'CAPSTONE']]
+**Mission:** [[027 - CAPSTONE]]
 
 **Rocket Lab Readies Photon Spacecraft for NASA Moon Mission**
 

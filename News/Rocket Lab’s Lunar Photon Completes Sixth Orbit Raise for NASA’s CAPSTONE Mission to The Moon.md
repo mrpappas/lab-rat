@@ -9,7 +9,7 @@ customer:
   - "[[NASA]]"
   - "[[Advanced Space]]"
 mission:
-  - "[[027 'CAPSTONE']]"
+  - "[[027 - CAPSTONE]]"
 insider: 
 tags:
   - space-systems
@@ -23,7 +23,7 @@ tags:
 **Published:** 2022-07-01
 **Description:** LONG BEACH, Calif.--July 1, 2022--Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, today confirmed its Photon Lunar spacecraft successfully completed a sixth on-orbit burn of the HyperCurie engine, bringing the CAPSTONE satellite closer to the Moon. Lunar Photon’s apogee – the point at which the spacecraft is farthest from Earth during its orbit – is now 43,297 miles (69,680 km).
 **Customer:** [[NASA]], [[Advanced Space]]
-**Mission:** [[027 'CAPSTONE']]
+**Mission:** [[027 - CAPSTONE]]
 **Insider:** None
 
 LONG BEACH, Calif.--July 1, 2022--Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, today confirmed its Photon Lunar spacecraft successfully completed a sixth on-orbit burn of the HyperCurie engine, bringing the CAPSTONE satellite closer to the Moon. Lunar Photon’s apogee – the point at which the spacecraft is farthest from Earth during its orbit – is now 43,297 miles (69,680 km).

@@ -1,14 +1,14 @@
 ---
-title: "Rocket Lab Successfully Launches 61st Electron Mission, Second Launch for iQPS  | Rocket Lab"
-source: "https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-61st-electron-mission-second-launch-for-iqps/"
+title: Rocket Lab Successfully Launches 61st Electron Mission, Second Launch for iQPS  | Rocket Lab
+source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-61st-electron-mission-second-launch-for-iqps/
 author:
   - "[[Rocket Lab]]"
 published: 2025-03-15
 customer: "[[iQPS]]"
-mission: "[[061 'The Lightning God Reigns']]"
+mission: "[[061 - The Lightning God Reigns]]"
 tags:
- - electron
- - launch
+  - electron
+  - launch
 ---
 
 >[!summary]
@@ -18,7 +18,7 @@ tags:
 **Author:** [[Rocket Lab]]
 **Published:** 2025-03-15
 **Customer:** [[iQPS]]
-**Mission:** [[061 'The Lightning God Reigns']]
+**Mission:** [[061 - The Lightning God Reigns]]
 
 **Mahia, New Zealand. March 15, 2025** – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today successfully launched its second mission for Japanese customer, the Institute for Q-shu Pioneers of Space, Inc. ([[iQPS]]).
 

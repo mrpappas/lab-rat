@@ -6,7 +6,7 @@ author:
 published: 2024-08-07
 description: "Long Beach, California. August 07, 2024 – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced it has scheduled the launch for its 52nd Electron mission which will deploy a single satellite for American space tech company Capella Space (“Capella”)."
 customer: "[[Capella Space]]"
-mission: "[[052 'A Sky Full Of SARs']]"
+mission: "[[052 - A Sky Full Of SARs]]"
 tags:
   - launch
   - electron
@@ -19,7 +19,7 @@ tags:
 **Published:** 2024-08-07
 **Description:** Long Beach, California. August 07, 2024 – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced it has scheduled the launch for its 52nd Electron mission which will deploy a single satellite for American space tech company Capella Space (“Capella”).
 **Customer:** [[Capella Space]]
-**Mission:** [[052 'A Sky Full Of SARs']]
+**Mission:** [[052 - A Sky Full Of SARs]]
 
 **Source**: https://www.rocketlabusa.com/updates/rocket-lab-schedules-next-electron-launch-just-eight-days-after-previous-mission/
 

@@ -8,7 +8,7 @@ description: "*Rocket Lab to Launch U.S. Space Force Mission from Launch Complex
 customer:
   - "[[U.S. Space Force]]"
 mission:
-  - "[[021 'It's A Little Chile Up Here']]"
+  - "[[021 - It's A Little Chile Up Here]]"
 tags:
   - electron
   - launch
@@ -21,7 +21,7 @@ tags:
 **Published:** 2021-07-27
 **Description:** *Rocket Lab to Launch U.S. Space Force Mission from Launch Complex 1 in New Zealand*
 **Customer:** [[U.S. Space Force]]
-**Mission:** [[021 'It's A Little Chile Up Here']]
+**Mission:** [[021 - It's A Little Chile Up Here]]
 
 **Rocket Lab to Launch U.S. Space Force Mission from Launch Complex 1 in New Zealand**
 

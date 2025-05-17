@@ -42,7 +42,7 @@ sort launch_date desc
 
 | File                                                                                            | Date             | Location                                               | Vehicle                          | Orbit & Mass             | Outcome   |
 | ----------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------------ | -------------------------------- | ------------------------ | --------- |
-| [[Launch/Launches/033 'Virginia is for Launch Lovers'.md\|033 'Virginia is for Launch Lovers']] | 2023-01-24 23:00 | [[Locations/Launch Complex 2.md#Launch Pad 0C\|LC2-0]] | [[Launch/Electron.md\|Electron]] | 550 km \| 40.5° \| 40 kg | ✅ Success |
+| [[Launch/Launches/033 - Virginia is for Launch Lovers.md\|033 - Virginia is for Launch Lovers]] | 2023-01-24 23:00 | [[Locations/Launch Complex 2.md#Launch Pad 0C\|LC2-0]] | [[Launch/Electron.md\|Electron]] | 550 km \| 40.5° \| 40 kg | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end %%
 

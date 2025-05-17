@@ -9,7 +9,7 @@ customer:
   - "[[Planet Labs]]"
   - "[[Spire Global]]"
 mission:
-  - "[[002 'Still Testing']]"
+  - "[[002 - Still Testing]]"
 tags:
   - electron
   - launch
@@ -22,7 +22,7 @@ tags:
 **Published:** 2017-11-22
 **Description:** *Huntington Beach, California and Auckland, New Zealand September 25, 2017:*
 **Customer:** [[Planet Labs]], [[Spire Global]]
-**Mission:** [[002 'Still Testing']]
+**Mission:** [[002 - Still Testing]]
 
 **Huntington Beach, California and Auckland, New Zealand September 25, 2017:**
 

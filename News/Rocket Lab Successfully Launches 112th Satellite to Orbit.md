@@ -8,7 +8,7 @@ description: "*Mahia, New Zealand. April 3, 2022* – Rocket Lab USA, Inc (Nasda
 customer:
   - "[[BlackSky]]"
 mission:
-  - "[[025 'Without Mission A Beat']]"
+  - "[[025 - Without Mission A Beat]]"
 tags:
   - electron
   - launch
@@ -21,7 +21,7 @@ tags:
 **Published:** 2022-04-03
 **Description:** *Mahia, New Zealand. April 3, 2022* – Rocket Lab USA, Inc (Nasdaq: RKLB[https://investors.rocketlabusa.com/]), a leading launch and space systems company, has successfully deployed two satellites to orbit for real-time geospatial intelligence company BlackSky (NYSE: BKSY[https://ir.blacksky.com/]), bringing the total number of satellites deployed by Rocket Lab to 112.
 **Customer:** [[BlackSky]]
-**Mission:** [[025 'Without Mission A Beat']]
+**Mission:** [[025 - Without Mission A Beat]]
 
 Mahia, New Zealand. April 3,  2022 – Rocket Lab USA, Inc (Nasdaq: RKLB), a leading launch and space systems company, has successfully deployed two satellites to orbit for real-time geospatial intelligence company [[BlackSky]] (NYSE: BKSY), bringing the total number of satellites deployed by Rocket Lab to 112.
 

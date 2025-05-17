@@ -8,7 +8,7 @@ description: The end-to-end space company delivering reliable launch services, s
 customer:
   - "[[Kinéis]]"
 mission:
-  - "[[059 'IOT 4 You and Me']]"
+  - "[[059 - IOT 4 You and Me]]"
 tags:
   - launch
   - electron

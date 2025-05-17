@@ -9,7 +9,7 @@ customer:
   - "[[NASA]]"
   - "[[Advanced Space]]"
 mission:
-  - "[[027 'CAPSTONE']]"
+  - "[[027 - CAPSTONE]]"
 insider: 
 tags:
   - space-systems
@@ -23,7 +23,7 @@ tags:
 **Published:** 2022-06-30
 **Description:** *Long Beach, California. June 30, 2022 –* Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, today confirmed its Photon Lunar spacecraft successfully ignited its HyperCurie engine for a fifth time, further carrying NASA’s CAPSTONE satellite toward the Moon.
 **Customer:** [[NASA]], [[Advanced Space]]
-**Mission:** [[027 'CAPSTONE']]
+**Mission:** [[027 - CAPSTONE]]
 **Insider:** None
 
 **Long Beach, California. June 30, 2022 –** Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, today confirmed its Photon Lunar spacecraft successfully ignited its HyperCurie engine for a fifth time, further carrying NASA’s CAPSTONE satellite toward the Moon.

@@ -8,7 +8,7 @@ description: "*Rocket Lab Progresses Flight Review, Recovers First Stage Followi
 customer:
   - "[[BlackSky]]"
 mission:
-  - "[[020 'Running Out Of Toes']]"
+  - "[[020 - Running Out Of Toes]]"
 tags:
   - electron
   - launch
@@ -22,7 +22,7 @@ tags:
 **Published:** 2021-05-17
 **Description:** *Rocket Lab Progresses Flight Review, Recovers First Stage Following Successful Ocean Splashdown*
 **Customer:** [[BlackSky]]
-**Mission:** [[020 'Running Out Of Toes']]
+**Mission:** [[020 - Running Out Of Toes]]
 
 **Rocket Lab Progresses Flight Review, Recovers First Stage Following Successful Ocean Splashdown**
 

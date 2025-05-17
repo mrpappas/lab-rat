@@ -8,7 +8,7 @@ description: "*Long Beach, California. May 31, 2023* – Rocket Lab USA, Inc. (N
 customer:
   - "[[UTIAS Space Flight Laboratory]]"
   - "[[Telesat]]"
-mission: "[[039 'Baby Come Back']]"
+mission: "[[039 - Baby Come Back]]"
 tags:
   - contract
   - electron
@@ -21,7 +21,7 @@ tags:
 **Published:** 2023-05-31
 **Description:** *Long Beach, California. May 31, 2023* – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced it has signed a deal to launch the LEO 3 satellite for global satellite operator Telesat[https://www.telesat.com/] (Nasdaq and TSX: TSAT) on an Electron mission scheduled for Q3, 2023. The satellite has been built and manifested to Electron by mission management provider and satellite developer Space Flight Laboratory (SFL) of Toronto.
 **Customer:** [[UTIAS Space Flight Laboratory]], [[Telesat]]
-**Mission:** [[039 'Baby Come Back']]
+**Mission:** [[039 - Baby Come Back]]
 
 Source: https://www.rocketlabusa.com/updates/space-flight-laboratory-selects-rocket-lab-to-launch-telesat-broadband-satellite/
 

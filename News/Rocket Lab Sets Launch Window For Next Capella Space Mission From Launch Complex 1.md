@@ -6,7 +6,7 @@ author:
 published: 2024-07-09
 description: The upcoming mission will deliver another Synthetic Aperture Radar satellite for Capella Space to low Earth orbit as part of a multi-launch agreement to deploy the Acadia constellation.
 customer: "[[Capella Space]]"
-mission: "[[052 'A Sky Full Of SARs']]"
+mission: "[[052 - A Sky Full Of SARs]]"
 tags:
   - launch
   - electron
@@ -19,7 +19,7 @@ tags:
 **Published:** 2024-07-09
 **Description:** The upcoming mission will deliver another Synthetic Aperture Radar satellite for Capella Space to low Earth orbit as part of a multi-launch agreement to deploy the Acadia constellation.
 **Customer:** [[Capella Space]]
-**Mission:** [[052 'A Sky Full Of SARs']]
+**Mission:** [[052 - A Sky Full Of SARs]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-sets-launch-window-for-next-capella-space-mission-from-launch-complex-1/
 

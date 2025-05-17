@@ -8,7 +8,7 @@ description: This 24th Electron launch is the latest in a multi-launch deal with
 customer:
   - "[[BlackSky]]"
 mission:
-  - "[[025 'Without Mission A Beat']]"
+  - "[[025 - Without Mission A Beat]]"
 tags:
   - electron
   - launch
@@ -21,7 +21,7 @@ tags:
 **Published:** 2022-01-18
 **Description:** This 24th Electron launch is the latest in a multi-launch deal with Spaceflight Inc. for BlackSky, which has secured an additional dedicated mission on Rocket Lab’s 2022 launch manifest following multiple successful missions last year.
 **Customer:** [[BlackSky]]
-**Mission:** [[025 'Without Mission A Beat']]
+**Mission:** [[025 - Without Mission A Beat]]
 
 *This 24<sup>th</sup> Electron launch is the latest in a multi-launch deal with Spaceflight Inc. for BlackSky, which has secured an additional dedicated mission on Rocket Lab’s 2022 launch manifest following multiple successful missions last year.*
 

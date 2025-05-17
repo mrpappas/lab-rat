@@ -15,7 +15,7 @@ Customer:
   - "[[U.S. Army]]"
   - "[[Trisept]]"
 mission:
-  - "[[019 'They Go Up So Fast']]"
+  - "[[019 - They Go Up So Fast]]"
 tags:
   - electron
   - launch
@@ -29,7 +29,7 @@ tags:
 **Published:** 2021-02-09
 **Description:** The mission will deploy a range of satellites for commercial and government customers, as well as place a next-generation Photon spacecraft in orbit to build heritage for Rocket Lab’s upcoming mission to the Moon for NASA
 **Customer:** [[BlackSky]], [[Tyvak Nano-Satellite Systems]], [[Fleet Space]], [[Myriota]], [[UNSW Canberra Space]], [[Care Weather]], [[U.S. Army]], [[Trisept]]
-**Mission:** [[019 'They Go Up So Fast']]
+**Mission:** [[019 - They Go Up So Fast]]
 
 *The mission will deploy a range of satellites for commercial and government customers, as well as place a next-generation Photon spacecraft in orbit to build heritage for Rocket Lab’s upcoming mission to the Moon for NASA*
 

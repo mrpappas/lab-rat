@@ -24,9 +24,9 @@ sort launch_date desc
 
 | File                                                                                  | Date             | Location                                              | Vehicle                          | Orbit & Mass             | Outcome   |
 | ------------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | ------------------------ | --------- |
-| [[Launch/Launches/015 'In Focus'.md\|015 'In Focus']]                                 | 2020-10-28 21:21 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 500 km \| 97.5° \| 72 kg | ✅ Success |
-| [[Launch/Launches/013 'Pics Or It Didn't Happen'.md\|013 'Pics Or It Didn't Happen']] | 2020-07-04 21:19 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 500 km \| 97.5° \| 75 kg | ❌ Failure |
-| [[Launch/Launches/002 'Still Testing'.md\|002 'Still Testing']]                       | 2018-01-21 02:43 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 400 km \| 82.9° \| 13 kg | ✅ Success |
+| [[Launch/Launches/015 - In Focus.md\|015 - In Focus]]                                 | 2020-10-28 21:21 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 500 km \| 97.5° \| 72 kg | ✅ Success |
+| [[Launch/Launches/013 - Pics Or It Didn't Happen.md\|013 - Pics Or It Didn't Happen]] | 2020-07-04 21:19 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 500 km \| 97.5° \| 75 kg | ❌ Failure |
+| [[Launch/Launches/002 - Still Testing.md\|002 - Still Testing]]                       | 2018-01-21 02:43 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 400 km \| 82.9° \| 13 kg | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end %%
 

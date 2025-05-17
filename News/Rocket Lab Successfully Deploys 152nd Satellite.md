@@ -6,7 +6,7 @@ author:
 published: 2022-11-04
 description: "*Long Beach, California. November 04, 2022* – Rocket Lab USA Inc, (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, has successfully launched its 32nd Electron mission to deploy its 152nd satellite to orbit, a science payload for the Swedish National Space Agency. The MATS satellite was deployed to its 585km circular orbit by Electron following lift-off at 17:27 UTC."
 customer: "[[Swedish National Space Agency]]"
-mission: "[[032 'Catch Me If You Can']]"
+mission: "[[032 - Catch Me If You Can]]"
 tags:
   - electron
   - launch
@@ -19,7 +19,7 @@ tags:
 **Published:** 2022-11-04
 **Description:** *Long Beach, California. November 04, 2022* – Rocket Lab USA Inc, (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, has successfully launched its 32nd Electron mission to deploy its 152nd satellite to orbit, a science payload for the Swedish National Space Agency. The MATS satellite was deployed to its 585km circular orbit by Electron following lift-off at 17:27 UTC.
 **Customer:** [[Swedish National Space Agency]]
-**Mission:** [[032 'Catch Me If You Can']]
+**Mission:** [[032 - Catch Me If You Can]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-deploys-152nd-satellite/
 

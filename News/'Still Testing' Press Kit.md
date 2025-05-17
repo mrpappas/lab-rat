@@ -9,7 +9,7 @@ customer:
   - "[[Planet Labs]]"
   - "[[Spire Global]]"
 mission:
-  - "[[002 'Still Testing']]"
+  - "[[002 - Still Testing]]"
 tags:
   - electron
   - launch
@@ -22,7 +22,7 @@ tags:
 **Published:** 2017-11-30
 **Description:** The window for the second test launch of Rocket Lab's Electron vehicle, named 'Still Testing', is planned for 8 - 17 December.
 **Customer:** [[Planet Labs]], [[Spire Global]]
-**Mission:** [[002 'Still Testing']]
+**Mission:** [[002 - Still Testing]]
 
 The window for the second test launch of Rocket Lab's Electron vehicle, named 'Still Testing', is planned for 8 - 17 December.   [Please click here](https://www.rocketlabusa.com/assets/Uploads/MED17-003-Launch-Media-Kit-Flight-two-StillTesting-2.pdf) to download a copy of the press kit containing detailed information about Rocket Lab, the Electron and its components, the launch complex, the timeline of events and our executive team.
 

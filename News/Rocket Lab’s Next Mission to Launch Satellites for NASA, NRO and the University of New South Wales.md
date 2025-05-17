@@ -11,7 +11,7 @@ customer:
   - "[[National Reconnaissance Office (NRO)]]"
   - "[[UNSW Canberra Space]]"
 mission:
-  - "[[012 'Don't Stop Me Now']]"
+  - "[[012 - Don't Stop Me Now]]"
 tags:
   - electron
   - launch
@@ -24,7 +24,7 @@ tags:
 **Published:** 2020-03-09
 **Description:** *Rocket Lab’s Next Mission to Launch Satellites for NASA, NRO and the University of New South Wales*
 **Customer:** [[Boston University]], [[NASA]], [[National Reconnaissance Office (NRO)]], [[UNSW Canberra Space]]
-**Mission:** [[012 'Don't Stop Me Now']]
+**Mission:** [[012 - Don't Stop Me Now]]
 
 **Rocket Lab’s Next Mission to Launch Satellites for NASA, NRO and the University of New South Wales**
 

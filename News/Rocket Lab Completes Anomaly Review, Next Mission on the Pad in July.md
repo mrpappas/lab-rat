@@ -8,7 +8,7 @@ description: "*Long Beach, California. July 19, 2021* – Leading launch and spa
 customer:
   - "[[BlackSky]]"
 mission:
-  - "[[020 'Running Out Of Toes']]"
+  - "[[020 - Running Out Of Toes]]"
 tags:
   - anomaly
   - electron
@@ -21,7 +21,7 @@ tags:
 **Published:** 2021-07-19
 **Description:** *Long Beach, California. July 19, 2021* – Leading launch and space systems company Rocket Lab today announced it has concluded an extensive review into the cause of the anomaly that resulted in the loss of its “Running Out Of Toes” mission launched on May 15, 2021. With the root cause of the issue identified and corrective measures now in place, Electron will be back on the pad for the next mission from Launch Complex 1 later this month.
 **Customer:** [[BlackSky]]
-**Mission:** [[020 'Running Out Of Toes']]
+**Mission:** [[020 - Running Out Of Toes]]
 
 **Long Beach, California. July 19, 2021** – Leading launch and space systems company Rocket Lab today announced it has concluded an extensive review into the cause of the anomaly that resulted in the loss of its “Running Out Of Toes” mission launched on May 15, 2021. With the root cause of the issue identified and corrective measures now in place, Electron will be back on the pad for the next mission from Launch Complex 1 later this month.
 

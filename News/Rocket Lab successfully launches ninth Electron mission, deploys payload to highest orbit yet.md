@@ -8,7 +8,7 @@ description: The successful mission brings the total count of satellites deploye
 customer:
   - "[[Astro Digital]]"
 mission:
-  - "[[009 'As The Crow Flies']]"
+  - "[[009 - As The Crow Flies]]"
 tags:
   - electron
   - launch
@@ -21,7 +21,7 @@ tags:
 **Published:** 2019-10-17
 **Description:** The successful mission brings the total count of satellites deployed by Rocket Lab to 40 and continues the company’s record of 100% mission success for customers
 **Customer:** [[Astro Digital]]
-**Mission:** [[009 'As The Crow Flies']]
+**Mission:** [[009 - As The Crow Flies]]
 
 *The successful mission brings the total count of satellites deployed by Rocket Lab to 40 and continues the company’s record of 100% mission success for customers*
 

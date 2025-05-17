@@ -8,7 +8,7 @@ description: AuroraSat-1 will test spacecraft hardware developed for sustainable
 customer:
   - "[[Aurora Propulsion Technologies]]"
 mission:
-  - "[[026 'There And Back Again']]"
+  - "[[026 - There And Back Again]]"
 tags:
   - electron
   - contract
@@ -21,7 +21,7 @@ tags:
 **Published:** 2021-08-16
 **Description:** AuroraSat-1 will test spacecraft hardware developed for sustainable space use including water-based propulsion jets and plasma brakes
 **Customer:** [[Aurora Propulsion Technologies]]
-**Mission:** [[026 'There And Back Again']]
+**Mission:** [[026 - There And Back Again]]
 
 AuroraSat-1 will test spacecraft hardware developed for sustainable space use including water-based propulsion jets and plasma brakes
 

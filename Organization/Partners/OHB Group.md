@@ -24,7 +24,7 @@ sort launch_date desc
 
 | File                                                                                          | Date             | Location                                              | Vehicle                          | Orbit & Mass            | Outcome   |
 | --------------------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | ----------------------- | --------- |
-| [[Launch/Launches/018 'Another One Leaves the Crust'.md\|018 'Another One Leaves the Crust']] | 2021-01-20 07:26 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 1200 km \| 90° \| 50 kg | ✅ Success |
+| [[Launch/Launches/018 - Another One Leaves the Crust.md\|018 - Another One Leaves the Crust]] | 2021-01-20 07:26 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 1200 km \| 90° \| 50 kg | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end %%
 

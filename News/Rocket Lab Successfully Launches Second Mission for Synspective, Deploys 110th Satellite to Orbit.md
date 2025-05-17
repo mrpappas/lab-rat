@@ -8,7 +8,7 @@ description: "*Rocket Lab Successfully Launches Second Mission for Synspective, 
 customer:
   - "[[Synspective]]"
 mission:
-  - "[[024 'The Owl's Night Continues']]"
+  - "[[024 - The Owl's Night Continues]]"
 tags:
   - electron
   - launch
@@ -21,7 +21,7 @@ tags:
 **Published:** 2022-03-01
 **Description:** *Rocket Lab Successfully Launches Second Mission for Synspective, Deploys 110th Satellite to Orbit*
 **Customer:** [[Synspective]]
-**Mission:** [[024 'The Owl's Night Continues']]
+**Mission:** [[024 - The Owl's Night Continues]]
 
 **Rocket Lab Successfully Launches Second Mission for Synspective, Deploys 110th Satellite to Orbit**
 

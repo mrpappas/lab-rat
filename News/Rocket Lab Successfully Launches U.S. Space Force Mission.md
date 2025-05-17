@@ -8,7 +8,7 @@ description: "*Rocket Lab Successfully Launches U.S. Space Force Mission*"
 customer:
   - "[[U.S. Space Force]]"
 mission:
-  - "[[021 'It's A Little Chile Up Here']]"
+  - "[[021 - It's A Little Chile Up Here]]"
 tags:
   - electron
   - launch
@@ -21,7 +21,7 @@ tags:
 **Published:** 2021-07-29
 **Description:** *Rocket Lab Successfully Launches U.S. Space Force Mission*
 **Customer:** [[U.S. Space Force]]
-**Mission:** [[021 'It's A Little Chile Up Here']]
+**Mission:** [[021 - It's A Little Chile Up Here]]
 
 **Rocket Lab Successfully Launches U.S. Space Force Mission**
 

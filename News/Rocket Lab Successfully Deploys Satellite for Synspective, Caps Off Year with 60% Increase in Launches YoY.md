@@ -6,7 +6,7 @@ author:
 published: 2024-12-22
 description: The end-to-end space company delivering reliable launch services, spacecraft, satellite components.
 customer: "[[Synspective]]"
-mission: "[[058 'Owl The Way Up']]"
+mission: "[[058 - Owl The Way Up]]"
 tags:
   - launch
   - electron
@@ -20,7 +20,7 @@ tags:
 **Published:** 2024-12-22
 **Description:** The end-to-end space company delivering reliable launch services, spacecraft, satellite components.
 **Customer:** [[Synspective]]
-**Mission:** [[058 'Owl The Way Up']]
+**Mission:** [[058 - Owl The Way Up]]
 
 **Source**: https://www.rocketlabusa.com/updates/rocket-lab-successfully-deploys-satellite-for-synspective-caps-off-year-with-60-increase-in-launches-yoy/
 

@@ -8,7 +8,7 @@ description:
 customer:
   - "[[BlackSky]]"
 mission:
-  - "[[060 'Fasten Your Space Belts']]"
+  - "[[060 - Fasten Your Space Belts]]"
 tags:
   - launch
   - electron

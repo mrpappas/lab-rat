@@ -6,7 +6,7 @@ author:
 published: 2023-12-07
 description: "*KAIST’s NeonSat-1 will launch as the primary payload on an Electron rideshare mission with NASA in the first half of 2024.*"
 customer: "[[Korea Advanced Institute of Science and Technology]]"
-mission: "[[047 'Beginning Of The Swarm']]"
+mission: "[[047 - Beginning Of The Swarm]]"
 tags:
   - contract
   - electron
@@ -19,7 +19,7 @@ tags:
 **Published:** 2023-12-07
 **Description:** *KAIST’s NeonSat-1 will launch as the primary payload on an Electron rideshare mission with NASA in the first half of 2024.*
 **Customer:** [[Korea Advanced Institute of Science and Technology]]
-**Mission:** [[047 'Beginning Of The Swarm']]
+**Mission:** [[047 - Beginning Of The Swarm]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-signs-deal-to-launch-south-korean-satellite/
 

@@ -8,7 +8,7 @@ description: "*Electron's Kick Stage will enable an Astroscale satellite to rend
 customer:
   - "[[Astroscale-Japan]]"
 mission:
-  - "[[044 'On Closer Inspection']]"
+  - "[[044 - On Closer Inspection]]"
 tags:
   - electron
   - contract
@@ -21,7 +21,7 @@ tags:
 **Published:** 2021-09-21
 **Description:** *Electron's Kick Stage will enable an Astroscale satellite to rendezvous with a spent Japanese upper stage rocket body in low Earth orbit, demonstrating new debris removal technology for space sustainability *
 **Customer:** [[Astroscale-Japan]]
-**Mission:** [[044 'On Closer Inspection']]
+**Mission:** [[044 - On Closer Inspection]]
 
 ***Electron's Kick Stage will enable an Astroscale satellite to rendezvous with a spent Japanese upper stage rocket body in low Earth orbit, demonstrating new debris removal technology for space sustainability*** 
 

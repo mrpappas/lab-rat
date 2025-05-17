@@ -11,7 +11,7 @@ customer:
   - "[[Canon Electronics]]"
   - "[[In-Space Missions]]"
 mission:
-  - "[[013 'Pics Or It Didn't Happen']]"
+  - "[[013 - Pics Or It Didn't Happen]]"
 tags:
   - electron
   - launch
@@ -25,7 +25,7 @@ tags:
 **Published:** 2020-07-04
 **Description:** *Rocket Lab Mission Fails to Reach Orbit*
 **Customer:** [[Planet Labs]], [[Spaceflight]], [[Canon Electronics]], [[In-Space Missions]]
-**Mission:** [[013 'Pics Or It Didn't Happen']]
+**Mission:** [[013 - Pics Or It Didn't Happen]]
 
 **Rocket Lab Mission Fails to Reach Orbit**
 

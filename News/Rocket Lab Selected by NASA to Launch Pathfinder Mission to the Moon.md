@@ -9,7 +9,7 @@ customer:
   - "[[NASA]]"
   - "[[Advanced Space]]"
 mission:
-  - "[[027 'CAPSTONE']]"
+  - "[[027 - CAPSTONE]]"
 tags:
   - electron
   - contract
@@ -22,7 +22,7 @@ tags:
 **Published:** 2020-02-14
 **Description:** *Rocket Lab Selected by NASA to Launch Pathfinder Mission to the Moon*
 **Customer:** [[NASA]], [[Advanced Space]]
-**Mission:** [[027 'CAPSTONE']]
+**Mission:** [[027 - CAPSTONE]]
 
 **Rocket Lab Selected by NASA to Launch Pathfinder Mission to the Moon**
 

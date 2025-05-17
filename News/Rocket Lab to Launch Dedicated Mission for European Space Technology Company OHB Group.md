@@ -8,7 +8,7 @@ description: "*Rocket Lab to Launch Dedicated Mission for European Space Technol
 customer:
   - "[[OHB Group]]"
 mission:
-  - "[[018 'Another One Leaves the Crust']]"
+  - "[[018 - Another One Leaves the Crust]]"
 tags:
   - electron
   - contract
@@ -21,7 +21,7 @@ tags:
 **Published:** 2020-08-25
 **Description:** *Rocket Lab to Launch Dedicated Mission for European Space Technology Company OHB Group*
 **Customer:** [[OHB Group]]
-**Mission:** [[018 'Another One Leaves the Crust']]
+**Mission:** [[018 - Another One Leaves the Crust]]
 
 **Rocket Lab to Launch Dedicated Mission for European Space Technology Company OHB Group**
 

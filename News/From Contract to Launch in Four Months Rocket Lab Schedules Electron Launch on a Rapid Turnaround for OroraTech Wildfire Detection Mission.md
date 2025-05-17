@@ -1,13 +1,13 @@
 ---
 title: "From Contract to Launch in Four Months: Rocket Lab Schedules Electron Launch on a Rapid Turnaround for OroraTech Wildfire Detection Mission    | Rocket Lab"
-source: "https://www.rocketlabusa.com/updates/from-contract-to-launch-in-four-months-rocket-lab-schedules-electron-launch-on-a-rapid-turnaround-for-ororatech-wildfire-detection-mission/"
+source: https://www.rocketlabusa.com/updates/from-contract-to-launch-in-four-months-rocket-lab-schedules-electron-launch-on-a-rapid-turnaround-for-ororatech-wildfire-detection-mission/
 author: "[[Rocket Lab]]"
 published: 2025-03-18
 customer: "[[Orora Technlogies]]"
-mission: "[[063 'Finding Hot Wildfires Near You']]"
+mission: "[[063 - Finding Hot Wildfires Near You]]"
 tags:
- - electron
- - launch
+  - electron
+  - launch
 ---
 
 >[!summary]
@@ -17,7 +17,7 @@ tags:
 **Author:** [[Rocket Lab]]
 **Published:** 2025-03-18
 **Customer:** [[Orora Technlogies]]
-**Mission:** [[063 'Finding Hot Wildfires Near You']]
+**Mission:** [[063 - Finding Hot Wildfires Near You]]
 
 **Long Beach, Calif. March 18, 2025**: Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced it has scheduled a rapid turnaround mission on Electron for OroraTech, a Germany-based global provider of wildfire detection and monitoring solutions.                   
 The mission, named “Finding Hot Wildfires Near You”, is set to launch during a window that opens on March 27<sup>th</sup> UTC and will lift off from Rocket Lab’s private orbital launch site Launch Complex 1 in New Zealand. The mission is being deployed only four months after the launch contract was signed to support OroraTech’s season-sensitive requirements for its wildfire detection mission.

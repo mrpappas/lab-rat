@@ -34,12 +34,12 @@ The W-1 capsule carried an experiment to crystallize Ritonavir, an antiviral dru
 ## W-3
 
 >[!summary] Mission Details
-The W-3 capsule was launched March 14th 2025 on SpaceX rideshare [Transporter 13](https://www.spacex.com/launches/mission/?missionId=transporter13). It will spend six weeks in orbit before reentering at the Utah Test and Training Range, operated by the [[U.S. Air Force]].
+The W-3 capsule was launched March 14th 2025 on SpaceX rideshare [Transporter 13](https://www.spacex.com/launches/mission/?missionId=transporter13). It spent six weeks in orbit before reentering at the Utah Test and Training Range, operated by the [[U.S. Air Force]].
 >
-The W-3 capsule is carrying payloads from Varda partners, including advanced materials experiments for commercial customers and a reentry sensor suite for [[NASA]]. It also features upgrades to Varda’s pharmaceutical manufacturing system, refining production processes tested on previous missions.
+The W-3 capsule carried payloads from Varda partners, including advanced materials experiments for commercial customers and a reentry sensor suite for [[NASA]]. It also features upgrades to Varda’s pharmaceutical manufacturing system, refining production processes tested on previous missions.
 >
-Launch Date: March 13 2025
-Expected Reentry Date: April 2025
+**Launch Date**: March 13 2025
+**Reentry Date**: May 14 2025
 >🔗 https://www.varda.com/missions/w-3
 
 ![](https://x.com/VardaSpace/status/1900314588132036993)
@@ -65,6 +65,7 @@ sort published desc
 
 | File                                                                                                                                                                                                                                                                                                                                   | Title                                                                                                                                                                       | Published          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[News/Two Earth Return Missions in Two Months Rocket Lab Demonstrates Rapid Re-entry Capability with Third Pioneer Spacecraft for Varda Space Industries.md\|Two Earth Return Missions in Two Months Rocket Lab Demonstrates Rapid Re-entry Capability with Third Pioneer Spacecraft for Varda Space Industries]]                     | Two Earth Return Missions in Two Months: Rocket Lab Demonstrates Rapid Re-entry Capability with Third Pioneer Spacecraft for Varda Space Industries                         | May 14, 2025       |
 | [[News/Rocket Lab’s Pioneer Spacecraft Successfully Deployed to Orbit, Powering Varda Space Industries' Third In-Space Manufacturing Mission.md\|Rocket Lab’s Pioneer Spacecraft Successfully Deployed to Orbit, Powering Varda Space Industries' Third In-Space Manufacturing Mission]]                                               | Rocket Lab’s Pioneer Spacecraft Successfully Deployed to Orbit, Powering Varda Space Industries' Third In-Space Manufacturing Mission  \| Rocket Lab                        | March 15, 2025     |
 | [[News/Touchdown For In-Space Manufacturing Mission Rocket Lab’s Pioneer Spacecraft Delivers Re-Entry for Varda’s In-Space Manufacturing Capsule in South Australia.md\|Touchdown For In-Space Manufacturing Mission Rocket Lab’s Pioneer Spacecraft Delivers Re-Entry for Varda’s In-Space Manufacturing Capsule in South Australia]] | Touchdown For In-Space Manufacturing Mission: Rocket Lab’s Pioneer Spacecraft Delivers Re-Entry for Varda’s In-Space Manufacturing Capsule in South Australia \| Rocket Lab | February 28, 2025  |
 | [[News/Rocket Lab Delivers Third In-Orbit Manufacturing Spacecraft for Varda Space Industries.md\|Rocket Lab Delivers Third In-Orbit Manufacturing Spacecraft for Varda Space Industries]]                                                                                                                                             | Rocket Lab Delivers Third In-Orbit Manufacturing Spacecraft for Varda Space Industries \| Rocket Lab                                                                        | February 12, 2025  |

@@ -6,7 +6,7 @@ author:
 published: 2024-07-24
 description: "*Long Beach, California. 24 July, 2024* – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced the launch window for its 51st Electron launch, a mission that will launch the latest satellite in a constellation being built by its long-standing customer Synspective."
 customer: "[[Synspective]]"
-mission: "[[051 'Owl For One, One For Owl']]"
+mission: "[[051 - Owl For One, One For Owl]]"
 tags:
   - launch
   - electron
@@ -19,7 +19,7 @@ tags:
 **Published:** 2024-07-24
 **Description:** *Long Beach, California. 24 July, 2024* – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced the launch window for its 51st Electron launch, a mission that will launch the latest satellite in a constellation being built by its long-standing customer Synspective.
 **Customer:** [[Synspective]]
-**Mission:** [[051 'Owl For One, One For Owl']]
+**Mission:** [[051 - Owl For One, One For Owl]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-sets-launch-date-for-51st-electron-mission-prepares-to-deploy-latest-satellites-in-multi-launch-contract-for-synspective/
 

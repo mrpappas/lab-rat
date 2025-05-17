@@ -6,7 +6,7 @@ author:
 published: 2022-09-15
 description: "*Long Beach, California. September 15, 2022* – Rocket Lab USA, Inc (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, has delivered its 30th mission and 150th satellite to orbit following its latest successful Electron launch earlier today."
 customer: "[[Synspective]]"
-mission: "[[030 'The Owl Spreads Its Wings']]"
+mission: "[[030 - The Owl Spreads Its Wings]]"
 tags:
   - launch
   - electron
@@ -19,7 +19,7 @@ tags:
 **Published:** 2022-09-15
 **Description:** *Long Beach, California. September 15, 2022* – Rocket Lab USA, Inc (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, has delivered its 30th mission and 150th satellite to orbit following its latest successful Electron launch earlier today.
 **Customer:** [[Synspective]]
-**Mission:** [[030 'The Owl Spreads Its Wings']]
+**Mission:** [[030 - The Owl Spreads Its Wings]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-30th-electron-rocket-and-150th-satellite-to-space/
 

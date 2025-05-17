@@ -8,7 +8,7 @@ description: Early this month, Rocket Lab performed a successful fit check of th
 customer:
   - "[[NASA]]"
 mission:
-  - "[[004 'NASA ELaNa-19']]"
+  - "[[004 - NASA ELaNa-19]]"
 tags:
   - electron
   - launch
@@ -21,7 +21,7 @@ tags:
 **Published:** 2018-02-09
 **Description:** Early this month, Rocket Lab performed a successful fit check of the CubeSat dispensers for the NASA Venture Class Launch Service flight of the CubeSat Launch Initiative Educational Launch of Nanosatellites (ELaNa) XIX mission. The fit check was carried out at Rocket Lab’s Huntington Beach payload integration cleanroom.
 **Customer:** [[NASA]]
-**Mission:** [[004 'NASA ELaNa-19']]
+**Mission:** [[004 - NASA ELaNa-19]]
 
 Early this month, Rocket Lab performed a successful fit check of the CubeSat dispensers for the NASA Venture Class Launch Service flight of the CubeSat Launch Initiative Educational Launch of Nanosatellites (ELaNa) XIX mission. The fit check was carried out at Rocket Lab’s Huntington Beach payload integration cleanroom.
 

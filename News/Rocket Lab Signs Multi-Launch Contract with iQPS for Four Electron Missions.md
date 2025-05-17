@@ -4,7 +4,7 @@ source: https://www.rocketlabusa.com/updates/rocket-lab-signs-multi-launch-contr
 author:
   - "[[Rocket Lab]]"
 published: 2025-02-03
-mission: "[[061 'The Lightning God Reigns']]"
+mission: "[[061 - The Lightning God Reigns]]"
 customer:
   - "[[iQPS]]"
 tags:

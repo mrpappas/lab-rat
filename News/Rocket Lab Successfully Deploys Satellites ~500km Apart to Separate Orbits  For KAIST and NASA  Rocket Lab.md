@@ -8,7 +8,7 @@ description: Following payload deployment to two separate orbits, Electron’s K
 customer:
   - "[[NASA]]"
   - "[[Korea Advanced Institute of Science and Technology]]"
-mission: "[[047 'Beginning Of The Swarm']]"
+mission: "[[047 - Beginning Of The Swarm]]"
 tags:
   - launch
   - electron
@@ -21,7 +21,7 @@ tags:
 **Published:** 2024-04-24
 **Description:** Following payload deployment to two separate orbits, Electron’s Kick Stage completed a final engine burn to lower its altitude and speed up its reentry to help reduce space junk.
 **Customer:** [[NASA]], [[Korea Advanced Institute of Science and Technology]]
-**Mission:** [[047 'Beginning Of The Swarm']]
+**Mission:** [[047 - Beginning Of The Swarm]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-successfully-deploys-satellites-500km-apart-to-separate-orbits-for-kaist-and-nasa/
 

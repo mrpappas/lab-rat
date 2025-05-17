@@ -10,7 +10,7 @@ customer:
   - "[[Spaceflight]]"
   - "[[ALE]]"
 mission:
-  - "[[010 'Running Out Of Fingers']]"
+  - "[[010 - Running Out Of Fingers]]"
 tags:
   - electron
   - launch
@@ -23,7 +23,7 @@ tags:
 **Published:** 2019-11-05
 **Description:** *Next Generation Electron Booster on the Pad for Rocket Lab’s 10th Mission*
 **Customer:** [[Alba Orbital]], [[Spaceflight]], [[ALE]]
-**Mission:** [[010 'Running Out Of Fingers']]
+**Mission:** [[010 - Running Out Of Fingers]]
 
 **Next Generation Electron Booster on the Pad for Rocket Lab’s 10<sup>th</sup> Mission**
 

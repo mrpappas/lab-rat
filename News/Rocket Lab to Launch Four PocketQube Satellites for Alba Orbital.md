@@ -8,7 +8,7 @@ description: "*Rocket Lab to Launch Four PocketQube Satellites for Alba Orbital*
 customer:
   - "[[Alba Orbital]]"
 mission:
-  - "[[026 'There And Back Again']]"
+  - "[[026 - There And Back Again]]"
 tags:
   - electron
   - contract
@@ -21,7 +21,7 @@ tags:
 **Published:** 2021-08-18
 **Description:** *Rocket Lab to Launch Four PocketQube Satellites for Alba Orbital*
 **Customer:** [[Alba Orbital]]
-**Mission:** [[026 'There And Back Again']]
+**Mission:** [[026 - There And Back Again]]
 
 **Rocket Lab to Launch Four PocketQube Satellites for Alba Orbital**
 

@@ -8,7 +8,7 @@ description: "*Rocket Lab to Launch Dedicated Mission for Japanese Space Industr
 customer:
   - "[[Synspective]]"
 mission:
-  - "[[017 'The Owl's Night Begins']]"
+  - "[[017 - The Owl's Night Begins]]"
 tags:
   - electron
   - contract
@@ -21,7 +21,7 @@ tags:
 **Published:** 2020-04-14
 **Description:** *Rocket Lab to Launch Dedicated Mission for Japanese Space Industry Start-up Company Synspective*
 **Customer:** [[Synspective]]
-**Mission:** [[017 'The Owl's Night Begins']]
+**Mission:** [[017 - The Owl's Night Begins]]
 
 **Rocket Lab to Launch Dedicated Mission for Japanese Space Industry Start-up Company Synspective**
 

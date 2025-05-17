@@ -8,7 +8,7 @@ description: "*Mahia, New Zealand. December 09, 2021* – Rocket Lab USA, Inc (N
 customer:
   - "[[BlackSky]]"
 mission:
-  - "[[023 'A Data With Destiny']]"
+  - "[[023 - A Data With Destiny]]"
 tags:
   - electron
   - launch
@@ -21,7 +21,7 @@ tags:
 **Published:** 2021-12-09
 **Description:** *Mahia, New Zealand. December 09, 2021* – Rocket Lab USA, Inc (Nasdaq: RKLB[https://investors.rocketlabusa.com/]), a leading launch and space systems company, has successfully deployed two satellites to orbit for real-time geospatial intelligence company BlackSky (NYSE: BKSY[https://ir.blacksky.com/]), bringing the total number of satellites deployed by Rocket Lab to 109.
 **Customer:** [[BlackSky]]
-**Mission:** [[023 'A Data With Destiny']]
+**Mission:** [[023 - A Data With Destiny]]
 
 **Mahia, New Zealand. December 09,  2021** – Rocket Lab USA, Inc (Nasdaq: [RKLB](https://investors.rocketlabusa.com/)), a leading launch and space systems company, has successfully deployed two satellites to orbit for real-time geospatial intelligence company BlackSky (NYSE: [BKSY](https://ir.blacksky.com/)), bringing the total number of satellites deployed by Rocket Lab to 109.
 

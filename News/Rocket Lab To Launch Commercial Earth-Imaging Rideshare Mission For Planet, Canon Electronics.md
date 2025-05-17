@@ -10,7 +10,7 @@ Customer:
   - "[[Spaceflight]]"
   - "[[Canon Electronics]]"
 mission:
-  - "[[015 'In Focus']]"
+  - "[[015 - In Focus]]"
 tags:
   - electron
   - launch
@@ -23,7 +23,7 @@ tags:
 **Published:** 2020-09-21
 **Description:** *Rocket Lab To Launch Commercial Earth-Imaging Rideshare Mission For Planet, Canon Electronics*
 **Customer:** [[Planet Labs]], [[Spaceflight]], [[Canon Electronics]]
-**Mission:** [[015 'In Focus']]
+**Mission:** [[015 - In Focus]]
 
 **Rocket Lab To Launch Commercial Earth-Imaging Rideshare Mission For Planet, Canon Electronics**
 

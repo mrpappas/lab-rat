@@ -6,7 +6,7 @@ author:
 published: 2024-09-03
 description: The upcoming mission will be the second in a series of five dedicated Electron launches for Kinéis, designed to provide global Internet of Things (IoT) accessibility worldwide.
 customer: "[[Kinéis]]"
-mission: "[[053 'Kineis Killed the RadIOT Star']]"
+mission: "[[053 - Kinéis Killed the RadIOT Star]]"
 tags:
   - launch
   - electron
@@ -19,7 +19,7 @@ tags:
 **Published:** 2024-09-03
 **Description:** The upcoming mission will be the second in a series of five dedicated Electron launches for Kinéis, designed to provide global Internet of Things (IoT) accessibility worldwide.
 **Customer:** [[Kinéis]]
-**Mission:** [[053 'Kineis Killed the RadIOT Star']]
+**Mission:** [[053 - Kinéis Killed the RadIOT Star]]
 
 **Source**: https://www.rocketlabusa.com/updates/rocket-lab-sets-launch-date-for-second-dedicated-kineis-mission-to-deploy-iot-constellation/
 

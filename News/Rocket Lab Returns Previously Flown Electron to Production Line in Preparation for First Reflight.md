@@ -5,7 +5,7 @@ author:
   - "[[Rocket Lab]]"
 published: 2024-04-11
 description: The carbon composite first stage tank from the Electron rocket, successfully launched and recovered in January this year, has entered back into the standard Electron production line to undergo final acceptance testing and qualification ahead of reflight.
-mission: "[[043 'Four Of A Kind']]"
+mission: "[[043 - Four Of A Kind]]"
 tags:
   - electron
 ---
@@ -16,7 +16,7 @@ tags:
 **Author:** [[Rocket Lab]]
 **Published:** 2024-04-11
 **Description:** The carbon composite first stage tank from the Electron rocket, successfully launched and recovered in January this year, has entered back into the standard Electron production line to undergo final acceptance testing and qualification ahead of reflight.
-**Mission:** [[043 'Four Of A Kind']]
+**Mission:** [[043 - Four Of A Kind]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-returns-previously-flown-electron-to-production-line-in-preparation-for-first-reflight/
 

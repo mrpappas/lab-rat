@@ -7,7 +7,7 @@ published: 2017-05-24
 description: "*Rocket Lab Testing Update ― 24 May 2017*"
 customer: n/a
 mission:
-  - "[[001 'It's a Test']]"
+  - "[[001 - It's a Test]]"
 tags:
   - electron
   - launch
@@ -20,7 +20,7 @@ tags:
 **Published:** 2017-05-24
 **Description:** *Rocket Lab Testing Update ― 24 May 2017*
 **Customer:** n/a
-**Mission:** [[001 'It's a Test']]
+**Mission:** [[001 - It's a Test]]
 
 **Rocket Lab Testing Update ― 24 May 2017**
 

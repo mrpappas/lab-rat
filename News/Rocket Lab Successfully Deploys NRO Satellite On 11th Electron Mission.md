@@ -8,7 +8,7 @@ description: Mahia Peninsula, 31 January 2020 -* *Rocket Lab, a space technology
 customer:
   - "[[National Reconnaissance Office (NRO)]]"
 mission:
-  - "[[011 'Birds of a Feather']]"
+  - "[[011 - Birds of a Feather]]"
 tags:
   - electron
   - launch
@@ -21,7 +21,7 @@ tags:
 **Published:** 2020-01-31
 **Description:** Mahia Peninsula, 31 January 2020 -* *Rocket Lab, a space technology company and global leader in dedicated small satellite launch, has successfully deployed a payload to orbit for the National Reconnaissance Office (NRO) in the company’s 11th Electron mission.
 **Customer:** [[National Reconnaissance Office (NRO)]]
-**Mission:** [[011 'Birds of a Feather']]
+**Mission:** [[011 - Birds of a Feather]]
 
 Mahia Peninsula, 31 January 2020 - Rocket Lab, a space technology company and global leader in dedicated small satellite launch, has successfully deployed a payload to orbit for the [[National Reconnaissance Office (NRO)]] in the company’s 11<sup>th</sup> Electron mission.
 

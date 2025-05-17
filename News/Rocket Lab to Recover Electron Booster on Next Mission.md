@@ -8,7 +8,7 @@ description: "*Bringing a Rocket Back from Space: Rocket Lab to Recover Electron
 customer:
   - "[[BlackSky]]"
 mission:
-  - "[[020 'Running Out Of Toes']]"
+  - "[[020 - Running Out Of Toes]]"
 tags:
   - electron
   - launch
@@ -21,7 +21,7 @@ tags:
 **Published:** 2021-04-08
 **Description:** *Bringing a Rocket Back from Space: Rocket Lab to Recover Electron Booster on Next Mission *
 **Customer:** [[BlackSky]]
-**Mission:** [[020 'Running Out Of Toes']]
+**Mission:** [[020 - Running Out Of Toes]]
 
 **Bringing a Rocket Back from Space: Rocket Lab to Recover Electron Booster on Next Mission** 
 

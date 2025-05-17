@@ -9,7 +9,7 @@ customer:
   - "[[Planet Labs]]"
   - "[[Spire Global]]"
 mission:
-  - "[[002 'Still Testing']]"
+  - "[[002 - Still Testing]]"
 tags:
   - electron
   - launch
@@ -23,7 +23,7 @@ tags:
 **Published:** 2017-12-13
 **Description:** *Wednesday 13 December, 2017:* Rocket Lab has completed analysis of the Electron test flight abort that occurred during the company’s ‘Still Testing’ launch attempt yesterday.
 **Customer:** [[Planet Labs]], [[Spire Global]]
-**Mission:** [[002 'Still Testing']]
+**Mission:** [[002 - Still Testing]]
 
 **Wednesday 13 December, 2017:** Rocket Lab has completed analysis of the Electron test flight abort that occurred during the company’s ‘Still Testing’ launch attempt yesterday. 
 

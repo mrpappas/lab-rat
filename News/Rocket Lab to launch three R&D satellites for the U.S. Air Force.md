@@ -9,7 +9,7 @@ customer:
   - "[[U.S. Air Force]]"
   - "[[York Space Systems]]"
 mission:
-  - "[[006 'STP-27RD']]"
+  - "[[006 - STP-27RD]]"
 tags:
   - electron
   - contract
@@ -22,7 +22,7 @@ tags:
 **Published:** 2019-04-04
 **Description:** *Rocket Lab to launch three R&amp;D satellites for the U.S. Air Force*
 **Customer:** [[U.S. Air Force]], [[York Space Systems]]
-**Mission:** [[006 'STP-27RD']]
+**Mission:** [[006 - STP-27RD]]
 
 **Rocket Lab to launch three R&D satellites for the U.S. Air Force**
 

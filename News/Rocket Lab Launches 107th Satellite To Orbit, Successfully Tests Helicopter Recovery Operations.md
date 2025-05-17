@@ -9,7 +9,7 @@ customer:
   - "[[BlackSky]]"
   - "[[Spaceflight]]"
 mission:
-  - "[[022 'Love At First Insight']]"
+  - "[[022 - Love At First Insight]]"
 tags:
   - electron
   - launch
@@ -23,7 +23,7 @@ tags:
 **Published:** 2021-11-18
 **Description:** Mahia, New Zealand. 18 November 2021 – Rocket Lab (Nasdaq: RKLB[https://investors.rocketlabusa.com/]), a leading launch and space systems company, has successfully deployed two satellites to orbit for real-time geospatial monitoring company BlackSky (NYSE: BKSY[https://ir.blacksky.com/]). Rocket Lab also successfully introduced helicopter operations to a recovery mission for the first time, using a helicopter to observe and track the Electron rocket’s first stage as it descended to Earth under parachute as part of the company’s program to make Electron the world’s first reusable...
 **Customer:** [[BlackSky]], [[Spaceflight]]
-**Mission:** [[022 'Love At First Insight']]
+**Mission:** [[022 - Love At First Insight]]
 
 Mahia, New Zealand. 18 November 2021 – Rocket Lab (Nasdaq: [RKLB](https://investors.rocketlabusa.com/)), a leading launch and space systems company, has successfully deployed two satellites to orbit for real-time geospatial monitoring company [[BlackSky]] (NYSE: [BKSY](https://ir.blacksky.com/)). Rocket Lab also successfully introduced helicopter operations to a recovery mission for the first time, using a helicopter to observe and track the Electron rocket’s first stage as it descended to Earth under parachute as part of the company’s program to make Electron the world’s first reusable, orbital-class commercial small rocket.
 

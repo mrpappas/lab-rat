@@ -9,8 +9,8 @@ customer:
   - "[[iQPS]]"
   - "[[Capella Space]]"
 mission:
-  - "[[041 'We Will Never Desert You']]"
-  - "[[042 'The Moon God Awakens']]"
+  - "[[041 - We Will Never Desert You]]"
+  - "[[042 - The Moon God Awakens]]"
 tags:
   - launch
   - electron
@@ -24,7 +24,7 @@ tags:
 **Published:** 2023-11-08
 **Description:** *Long Beach, California. November 8, 2023 - *Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced it has set a return to launch window for its Electron launch vehicle.
 **Customer:** [[iQPS]], [[Capella Space]]
-**Mission:** [[041 'We Will Never Desert You']], [[042 'The Moon God Awakens']]
+**Mission:** [[041 - We Will Never Desert You]], [[042 - The Moon God Awakens]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-sets-next-electron-launch-window-provides-update-on-anomaly-review/
 

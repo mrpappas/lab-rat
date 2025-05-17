@@ -8,7 +8,7 @@ description: "*Rocket Lab successfully launches R3D2 satellite for DARPA *"
 customer:
   - "[[DARPA]]"
 mission:
-  - "[[005 'DARPA R3D2']]"
+  - "[[005 - DARPA R3D2]]"
 tags:
   - electron
   - launch
@@ -21,7 +21,7 @@ tags:
 **Published:** 2019-03-28
 **Description:** *Rocket Lab successfully launches R3D2 satellite for DARPA *
 **Customer:** [[DARPA]]
-**Mission:** [[005 'DARPA R3D2']]
+**Mission:** [[005 - DARPA R3D2]]
 
 **Rocket Lab successfully launches R3D2 satellite for DARPA** 
 

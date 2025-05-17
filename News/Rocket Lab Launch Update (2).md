@@ -6,7 +6,7 @@ author:
 published: 2023-09-19
 description: "*Mahia, New Zealand. Sept. 19, 2023* – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), today experienced an issue during the launch of the Company’s 41st mission. Following lift-off from Launch Complex 1, the rocket successfully completed a first stage burn and stage separation as planned, before an issue was experienced at around T+ 2 minutes and 30 seconds into flight, resulting in the end of the mission."
 customer: "[[Capella Space]]"
-mission: "[[041 'We Will Never Desert You']]"
+mission: "[[041 - We Will Never Desert You]]"
 tags:
   - launch
   - electron
@@ -20,7 +20,7 @@ tags:
 **Published:** 2023-09-19
 **Description:** *Mahia, New Zealand. Sept. 19, 2023* – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), today experienced an issue during the launch of the Company’s 41st mission. Following lift-off from Launch Complex 1, the rocket successfully completed a first stage burn and stage separation as planned, before an issue was experienced at around T+ 2 minutes and 30 seconds into flight, resulting in the end of the mission.
 **Customer:** [[Capella Space]]
-**Mission:** [[041 'We Will Never Desert You']]
+**Mission:** [[041 - We Will Never Desert You]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-launch-update/
 

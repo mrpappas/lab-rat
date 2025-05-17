@@ -8,7 +8,7 @@ description: The confirmation follows the successful simulation of helicopter re
 customer:
   - "[[BlackSky]]"
 mission:
-  - "[[022 'Love At First Insight']]"
+  - "[[022 - Love At First Insight]]"
 tags:
   - electron
   - launch
@@ -22,7 +22,7 @@ tags:
 **Published:** 2021-11-23
 **Description:** The confirmation follows the successful simulation of helicopter recovery operations at sea during the company’s 22nd Electron launch and third recovery mission last week.
 **Customer:** [[BlackSky]]
-**Mission:** [[022 'Love At First Insight']]
+**Mission:** [[022 - Love At First Insight]]
 
 The confirmation follows the successful simulation of helicopter recovery operations at sea during the company’s 22nd Electron launch and third recovery mission last week.
 

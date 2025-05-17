@@ -11,7 +11,7 @@ customer:
   - "[[Canon Electronics]]"
   - "[[In-Space Missions]]"
 mission:
-  - "[[013 'Pics Or It Didn't Happen']]"
+  - "[[013 - Pics Or It Didn't Happen]]"
 tags:
   - electron
   - launch
@@ -24,7 +24,7 @@ tags:
 **Published:** 2020-06-15
 **Description:** *Rocket Lab to Demonstrate Fastest Launch Turnaround to Date *
 **Customer:** [[Planet Labs]], [[Spaceflight]], [[Canon Electronics]], [[In-Space Missions]]
-**Mission:** [[013 'Pics Or It Didn't Happen']]
+**Mission:** [[013 - Pics Or It Didn't Happen]]
 
 **Rocket Lab to Demonstrate Fastest Launch Turnaround to Date** 
 

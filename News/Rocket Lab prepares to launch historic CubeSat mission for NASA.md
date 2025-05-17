@@ -8,7 +8,7 @@ description: "*Rocket Lab prepares to launch historic CubeSat mission for NASA *
 customer:
   - "[[NASA]]"
 mission:
-  - "[[004 'NASA ELaNa-19']]"
+  - "[[004 - NASA ELaNa-19]]"
 tags:
   - electron
   - launch
@@ -21,7 +21,7 @@ tags:
 **Published:** 2018-12-04
 **Description:** *Rocket Lab prepares to launch historic CubeSat mission for NASA *
 **Customer:** [[NASA]]
-**Mission:** [[004 'NASA ELaNa-19']]
+**Mission:** [[004 - NASA ELaNa-19]]
 
 **Rocket Lab prepares to launch historic CubeSat mission for NASA**
 

@@ -15,7 +15,7 @@ Customer:
   - "[[U.S. Army]]"
   - "[[Trisept]]"
 mission:
-  - "[[019 'They Go Up So Fast']]"
+  - "[[019 - They Go Up So Fast]]"
 tags:
   - electron
   - launch
@@ -28,7 +28,7 @@ tags:
 **Published:** 2021-03-23
 **Description:** The successful rideshare mission brings the total count of satellites deployed by Rocket Lab to 104
 **Customer:** [[BlackSky]], [[Tyvak Nano-Satellite Systems]], [[Fleet Space]], [[Myriota]], [[UNSW Canberra Space]], [[Care Weather]], [[U.S. Army]], [[Trisept]]
-**Mission:** [[019 'They Go Up So Fast']]
+**Mission:** [[019 - They Go Up So Fast]]
 
 *The successful rideshare mission brings the total count of satellites deployed by Rocket Lab to 104*
 
