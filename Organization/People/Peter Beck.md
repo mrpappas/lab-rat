@@ -61,6 +61,7 @@ sort date desc
 
 | File                                                                                                                                                                     | Date               | Source                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ | ------------------------------------------------- |
+| [[Interviews/Scott O Q1 2025 Interview.md\|Scott O Q1 2025 Interview]]                                                                                                   | May 14, 2025       | Scott O Youtube                                   |
 | [[Interviews/CNBC - Rocket Lab CEO talks competing for Space Force contracts.md\|CNBC - Rocket Lab CEO talks competing for Space Force contracts]]                       | March 28, 2025     | CNBC                                              |
 | [[Interviews/MAXIM - Peter Beck.md\|MAXIM - Peter Beck]]                                                                                                                 | March 12, 2025     | MAXIM                                             |
 | [[Interviews/The State of Space 2025 - Sir Peter Beck.md\|The State of Space 2025 - Sir Peter Beck]]                                                                     | February 10, 2025  | Rocket Lab                                        |

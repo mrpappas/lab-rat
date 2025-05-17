@@ -4,21 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "265344277d38ce95",
+        "id": "36b2f3de815ffac8",
         "type": "tabs",
         "children": [
           {
-            "id": "cb232b502ecb8259",
+            "id": "10117153262d8fd3",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Organization/People/Peter Beck.md",
-                "bFile": "Organization/People/Peter Beck.md",
-                "aRef": ""
+                "file": "Launches.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "diff",
-              "title": "Diff: Peter Beck"
+              "icon": "lucide-file",
+              "title": "Launches"
             }
           }
         ]
@@ -53,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "boring",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -193,8 +194,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb232b502ecb8259",
+  "active": "10117153262d8fd3",
   "lastOpenFiles": [
+    "Launch/Launches/064 'The Sea God Sees'.md",
+    "Launch/⚖️ NASA Rocket Risk Classification.md",
+    "Launches.md",
+    "Launch/Launches/063 'Finding Hot Wildfires Near You'.md",
+    "Interviews/Scott O Q1 2025 Interview.md",
+    "Interviews.md",
+    "Space Systems/⚖️ NASA Mission and Instrument Risk Classification.md",
+    "Space Systems/📦 Payload Types.md",
+    "Launch/🌍 Orbits.md",
+    "Launch/Electron.md",
+    "Launch/HASTE.md",
+    "Earnings Calls.md",
+    "Insider Sales.md",
+    "Organization/Partners/iQPS.md",
     "Filings/2025/10-Q/05-08-25 10-Q Q1 2025.md",
     "Filings/2025/13G + 13D/01-07-25 13D - Preferred Stock Exchange and Ownership Details.md",
     "Vault-Assets/PDFs/77f92c97-9a88-4758-b21f-16608472f7bd.pdf",
@@ -206,26 +221,13 @@
     "Vault-Assets/PDFs/aa46afaa-26ab-472f-b246-a40006aa7fa7.pdf",
     "Filings/2025/13G + 13D/04-30-25 13D - The Vanguard Group.md",
     "Vault-Assets/PDFs/b2780d56-17f8-4e3f-a5d8-7a3b58714552.pdf",
-    "Launch/Launches/064 'The Sea God Sees'.md",
-    "Launches.md",
     "News.md",
-    "Launch/Launches/063 'Finding Hot Wildfires Near You'.md",
     "Launch/Launches/062 'High Five'.md",
     "Vault-Assets/PDFs/F64-iQPS-Presskit-The-Sea-God-Sees.pdf",
     "Partners.md",
     "Financial/Quarterly Reports/2025 Q1.md",
     "Financial/Quarterly Reports/2024 Q4.md",
     "Financial/Quarterly Reports/2024 Q3.md",
-    "Financial/Quarterly Reports/2024 Q2.md",
-    "Missions/EWAAC.md",
-    "Launch/HASTE.md",
-    "Interviews/Off-Nominal Episode 191.md",
-    "Interviews.md",
-    "State Level Constellation Opportunities.md",
-    "Organization/Partners/Maxar Technologies.md",
-    "Organization/Partners/Kinéis.md",
-    "Organization/Partners/Capella Space.md",
-    "Organization/Partners/Canon Electronics.md",
     "Vault-Assets/Images/Pasted image 20250508184812.jpg",
     "Vault-Assets/Images/Pasted image 20250505165943.png",
     "Vault-Assets/Images/Pasted image 20250505170132.png",
