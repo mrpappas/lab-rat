@@ -55,20 +55,70 @@ But obviously a big rollover tower integration building is a fairly expensive ca
 In some areas we're right at the nitty-gritty, the end test. Like take stage one module for example - every element, every piece of software is in that and we're in this all up testing phase. It's very tempting to say "I'll call that done because it's like 98% done." But until it's 100% done, it's not 100% done in our world.
 
 *[5:41]*  
-As those components get integrated, providing that we don't find any issues, then you move pretty quickly into a wet dress. And if you do a wet dress and you find no issues, then you move very quickly into a launch. Now I think we should all be realistic about that - you're building an integrated complex machine for the first time. We all hope that there's going to be no issues, but there could easily be things that crop along the way.
+As those components get integrated, providing that we don't find any issues, then you move pretty quickly into a wet dress. And if you do a wet dress and you find no issues, then you move very quickly into a launch. Now I think we should all be realistic about that - you're building an integrated complex machine for the first time. We all hope that there's going to be no issues, but there could easily be things that crop along the way. You've heard me say many times, "everything's great until it's not." But at the moment, we haven't had any major project setbacks or things that have just gone super pear-shaped, and we continue to track.
 
-### Engine Testing and Development
+If you look at an Electron wet dress, for example, we'll wet dress the day before and then go fly. But if you look at the very first Electron, we wet dressed and it was quite some time before we actually flew because we were trying to understand the rocket and all the new systems that you stand up. I think we're certainly better than we were when we did the Electron, but you can measure how good we are when we actually get to that point.
 
-*[16:04]*  
-**Vince**: When you're doing the qualifications of stage one, stage two, like what goes into these qualifications? In my mind it's like you flip on the switch, okay the lights come on, okay the canards are moving, okay it's good to go. That's how I would do it and that's why I probably don't work at Rocket Lab.
+### Neutron Production Strategy
+
+*[6:57]*  
+**Matt**: That's good feedback, and I'm sure we'll see milestones quickly. You guys have been doing a phenomenal job. A follow-up to that - I know when you guys were building the Archimedes, that first one that got onto the test stand at Stennis, I was very surprised to see that number two and number three came out very quickly to join it. And obviously now you guys are doubling capacity. I'm curious - before I hand it over to somebody else - are you guys already working to create another stage two/stage one with the Neutron? Are you waiting to get a kind of a fully integrated dynamic test before you roll out the model number two or serial number two rather for Neutron?
+
+**Peter Beck**: No, I mean, we intend to try and fly three times next year. That's our ramp rate. So we're building multiple flights worth of hardware now, and that's part of the scaling efforts that we've talked about. We've kind of moved past slightly past the minimum viable product to investing in like the barge 'Return on Investment' and in multiple serial numbers. In the components and areas we have super confidence in, we're plowing straight forward.
+
+**Adam Spice**: And by the way, part of what's consuming cash right now is exactly what Pete is saying. It's one thing to get to minimum viable product and infrastructure, but now we're actually investing in subsequent tails. We're investing like Pete said in the barge and so forth. So that's all about scaling the business, but it's starting to show up now in kind of the working capital needs of the business. 
+
+It's all good stuff, it's just a matter of that's why we're so focused on making sure that we've done all the right things and put everything in place so that we can just deliver on the expectations. And flying a new rocket three times next year when the first launch is in the second half of this year - that's not an easy task. So we got to make sure that we're doing all the preparatory stuff, and I think we've made a lot of investments in the team and other parts of the business to really enable that that really wasn't in place seven years ago when Electron was just beginning to ramp up.
+
+### Electron and HASTE Launch Updates
+
+*[9:10]*  
+**Scott**: Since Electron was brought up, if you guys don't mind me pivoting - during Q1 we saw the eight new Electron signings, four of which were the second batch of iQPS. And then if we look at the other four that were signed during the quarter, it looks like the ASP lines up nicely with what could be assumed to be four HASTE launches. Is a 50/50 split between Electron and HASTE a fair assumption? And if so, is the Kratos mission that was announced in April one of these presumed HASTE signings?
+
+**Peter Beck**: I'd have to go back and have a look at that information. It's true that the HASTE ASPs are generally higher because the mission requirements are a lot more complex, ironically, than going to orbit.
+
+*[10:06]*  
+**Peter Beck**: I think only one of those is the HASTE.
+
+**Adam Spice**: That's what I was going to say, yeah. It's one. The good news is we're seeing a firming of ASP across all of the different variants of Electron. Certainly as Pete mentioned, the HASTE variant really helps bring up the ASP. Partially it's a bit of a unique vehicle, but also there's the different mission assurance requirements that those HASTE customers require versus a traditional commercial launch. You don't get the same kind of rinse and repeat benefits you get when you sign up a 10-launch commercial deal. But all in all, the HASTE missions are helpful because they're growing quickly, they're margin accretive, and their ASP is accretive as well.
+
+### International HASTE Capabilities
+
+*[10:53]*  
+**Scott**: As a follow up on the topic of HASTE as well, Rocket Lab was recently selected by the UK's Ministry of Defense to help develop hypersonic capabilities. What are the limitations of HASTE at an international level given the defense nature? For example, if the UK were to require a HASTE launch from you guys, could that go off on American soil or is that going to be particular for each government - it has to be from their own soil?
+
+**Peter Beck**: It's a good question. Typically those launches are from US soil. In order to launch off foreign soil, you have to have technology safeguard agreements in place and a whole bunch of those regulatory or cross-government and cross-regulatory approvals. Not saying that's not possible, but that is required. And of course, we have to establish a launch site, whether it be mobile or fixed, in that nation, which is no trivial kind of thing. But typically they are joint research programs as well.
+
+### HASTE Market Potential
+
+*[11:57]*  
+**Dave**: Pretty excited about the growth prospects there with HASTE. Just kind of curious, can you give us an idea just how big that TAM is? Could we ever see a day maybe long in the future where there's more suborbital launches than orbital launches for Electron?
+
+**Peter Beck**: Yeah, potentially. The head of the hypersonic suborbital program was publicly stated as he wants to fly every day. Now I'm sure not a HASTE mission every day, but that gives you a sense of where that program's going. We maintain in a pretty unstable environment and the US really needs to get its stuff sorted with a whole bunch of these hypersonic systems. We certainly see strong growth in that area and we provide a really important service. We expect HASTE to be a pretty significant part of Electron going forward.
+
+### UK Defense Contract and Hypersonic Expansion
+
+*[13:06]*  
+**Matt**: There was the AUKUS Pillar 2 announcement in November 2024 and how it pertains specifically to expansion of the United Kingdom, Australia. I think part of what we saw with the UK deal was it was like one of five potential launch providers to be able to win a contract. As we've seen that UK contract come through, how competitive do we think Rocket Lab is? And what can you say with that with respect to the rest of hypersonic expansion opportunities in the rest of the EU? And the reason why I ask is because I know the United Kingdom and several four or five other countries have kind of a consortium for hypersonic with like High Flight and things like that. Where do we see the potential for that UK to eventually maybe spill over?
+
+**Peter Beck**: I think you teed it up nicely - the five eye allies or the AUKUS pillars group of countries are very deeply sharing in some of this defense technology. That's where the core focus of this will lie. One of which, New Zealand is a partner in the five eyes group, so that enables us to engage very deeply there as well from a New Zealand side.
+
+*[14:41]*  
+With respect to your question of how competitive we think we're going to be - as far as I know, there's not too many vehicles that can provide anything up to sort of Mach 25 with a high frequency and high cadence ability. We think we're very uniquely placed. Just the ability to produce vehicles at rate and fly them at rate and fly them out of different launch sites - I don't know anybody else in the world who has that capability right now.
+
+### Engine Testing and Qualification Process
+
+*[15:16]*  
+**Vince**: I just want to circle back to Neutron for two last questions. One of them I feel like you kind of answered it, but I still just want to ask it. I'm the guy who's like "Okay, you did a hot fire test on the engine, you see it run once, why can't it be just strapped onto a rocket and then you fly?" So for non-rocket engineers, when you're doing the qualifications of stage one, stage two - what does that involve? In my mind it's like you flip on the switch, okay the lights come on, okay the canards are moving, it's good to go. That's how I would do it, and that's why I probably don't work at Rocket Lab. But what is it that goes into these qualifications?
 
 **Peter Beck**: Well to be fair Vince, that's how some others do it and we all know where that ends, right? The way we roll here is we'll test and probe every operation - nominal and off-nominal. We don't put anything on the pad or any spacecraft in orbit unless we've thoroughly tested. I think that's part of the magic of Rocket Lab - we have very good simulation tools, very good hardware in the loop tools, and then when we actually build the hardware there is no shortcut taken.
 
 *[16:31]*  
 With respect to propulsion, we are exploring every part of the runbox. The challenge with the runbox in the Archimedes engine is it's not just a simple ascent burn where you've got very well conditioned propellants and 200 seconds later they're extinguished. You have the added complexity of coasting the first stage for a while, mixing the propellants with the ullage and all the gases, so the propellants get warm. And then when you go to relight for your landing burns, you've got totally different conditioned propellants, totally different pressures and temperatures, which all really matter.
 
-*[17:37]*  
-Right now we've just been doing I would say pretty abusive things to the engine, really trying to understand those startup and shutdown transients. And then of course on stage two we have a couple of relights depending on the mission. So once again it can be 45 minutes before you do the relight. So what is the condition of propellants after that period of time and how do you define what the runbox looks like? The crude thing to do would be just do a first stage profile, run a few tests, call it good. But that's just not the way we roll.
+We've gone to pains to make sure the Archimedes is the simplest engine you can build but at the end of the day it's still a stage combustion cycle engine and it's still you know really complex piece of machinery that when you change the inlet temperatures and pressures of propellants, things move around.
+
+Right now we've just been doing I would say pretty abusive things to the engine, really trying to understand those startup and shutdown transients and all of the things we need to do. And then of course on stage two we have a couple of relights depending on the mission. So once again it can be 45 minutes before you do the relight. So what is the condition of propellants after that period of time and how do you define what the runbox looks like? The crude thing to do would be just do a first stage profile, run a few tests, call it good. But that's just not the way we roll.
 
 ### Retail Investor Interest
 
@@ -108,15 +158,27 @@ If we're doing a high volume large constellation, then every gram of the satelli
 *[25:27]*  
 We don't do stuff of dreams. Obviously customers approach us and a number of them have requirements for large constellations. So this is a response to those inquiries.
 
+### Mynaric LaserComms
+
+[25:55]
+Matt: I noticed that obviously Mynaric and the laser obviously has a big component on Flatellite. I was just kind of curious - I know there's pros and cons of using radio, there's pros and cons of using laser for communications. Will Flatallite have both? And what do you see the pros and cons of utilizing lasers for Flatellite rather than potentially radio if radio isn't available on Flatellite?
+
+Peter Beck: You make a good point Matt. Radio links have been done in the past. Laser links are actually pretty new. It just comes down to bandwidth - you can just move so much more data at such less scale of antenna and boxes. It basically just comes down to that.
+If you're not meshing your satellites up and you're not needing to hand off data between them, then you can have a pretty low bandwidth radio link and that's super easy. But if you're looking to be providing a mesh network and handing off lots and lots of data, then you really need the laser links. Even government programs have gone to laser as we know with SDA. It's kind of the next evolution for inter-satellite communication. And then you have to worry about RF spectrum and all of that kind of stuff.
+
+[27:37]
+Matt: It was always kind of my thought that it's easier to - I don't want to say hack but I'll use the word hack - but it's less security, in my opinion, from what I've read. And then also it just seems like the interference with so many different people already utilizing it seems like it'd be pretty big issue.
+
+Peter Beck: Well, it's true. You have focused laser and you've got to be in pretty close proximity. I mean there's not really any scatter of information, you have to directly couple the laser up. So certainly you can't just sit on the ground with a big antenna and listen in, that's for sure.
 ### Component Development and Manufacturing
 
 *[28:18]*  
-**Dave**: There were a few components announced during Q1, one of which was the 5NMS reaction wheel that was largely built on the heritage of Rocket Lab's reaction wheel family. Is it safe to assume that this new wheel was designed to serve Flatellite or is it more geared towards external customers?
+**Scott**: There were a few components announced during Q1, one of which was the 5NMS reaction wheel that was largely built on the heritage of Rocket Lab's reaction wheel family. Is it safe to assume that this new wheel was designed to serve Flatellite or is it more geared towards external customers?
 
 **Peter Beck**: External customers. It was kind of a hole in the offering. All of our products are responses to customers' inquiries or our own needs internally, but that one is definitely customer-driven. You expect to see this from us - we don't really talk about it a lot but there's a lot of products in development for the commercial market because we're looking to grow. As you become more prevalent in each industry, the only way to grow those is to develop and bring new products to market.
 
 *[29:35]*  
-**Dave**: Since being acquired in 2022, SolAero has seen several large investments geared towards expansions and upgrades. With STARRAY being announced, are you able to shed some light in terms of the production capacity?
+**Scott**: Since being acquired in 2022, SolAero has seen several large investments geared towards expansions and upgrades. With STARRAY being announced, are you able to shed some light in terms of the production capacity?
 
 **Peter Beck**: We continue to expand that. We would have seen that we won a lot of CHIPS money to put in new reactors and increase the capacity. We're continuing to invest and increase the capacity of that whole facility. We continue to see a really high utilization of all of the reactors and fabs.
 
@@ -126,7 +188,7 @@ The STARRAY is quite a cool product because we have a lot of customers coming to
 ### Defense Market and SDA Program
 
 *[31:57]*  
-**Matt**: SDA obviously a very important customer. I was a little surprised to see they just announced they were pausing procurement of the Tranche 3 transport layer satellites. Do you think this could signal a bigger shift or are there any concerns about that constellation?
+**Dave**: SDA obviously a very important customer. I was a little surprised to see they just announced they were pausing procurement of the Tranche 3 transport layer satellites. Do you think this could signal a bigger shift or are there any concerns about that constellation?
 
 **Peter Beck**: We weren't certainly that surprised with that. If you look at the transport layer, there's a lot of commercial coms stuff in play. So I think it's understandable for the government, especially when they're looking to save money, to go "let's pause this and let's see if we can achieve what we need to do with the commercial communications and transport layers that are out there."
 
