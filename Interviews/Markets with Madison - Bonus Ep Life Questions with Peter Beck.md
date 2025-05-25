@@ -14,13 +14,13 @@ date: 2025-05-19
 
 ## 🎙️ Transcript
 
-### Quick-Fire Questions
+### Quick-Fire Questions (00:00)
 
 **Madison:** I'm just keen to start rolling these quick-fire questions with execs. Starting with you - there's going to be a little bit rough and ready and raw. What do you think is the biggest problem in the world right now, and then perhaps in the next 5 years?
 
 **Peter Beck:** I mean, I'm 100% focused and dedicated to this business. I don't think about much of the world, to my own fault. I think if you talk to my wife or anybody around me, I'm largely completely ignorant to the rest of the world events unless it has to do with Rocket Lab. It really doesn't get much attention. So I'm not sure that's really the answer you wanted, but...
 
-### Artificial Intelligence and AGI
+### Artificial Intelligence and AGI (00:40)
 
 **Madison:** Well, this kind of forfeits my next question, but I was going to ask you about artificial general intelligence. Do you think about it? Do you care? And when do you think it could perhaps be achieved, by who, and what impact on the world could it have?
 
@@ -34,7 +34,7 @@ So I think it's super good. There'll be some challenges and there'll be some thi
 
 **Peter Beck:** Well, I mean, nobody's going to stop it anyway. So it's kind of an academic question. Nobody's just going to magically stop. So embrace it.
 
-### Daily Routine and Work-Life Balance
+### Daily Routine and Work-Life Balance (01:56)
 
 **Madison:** We were joking about your routine before we rolled the cameras. Do you have one? What's like the morning method for Peter Beck, or like a wind-down routine?
 
@@ -50,7 +50,7 @@ But I'm traveling all the time and blasting around the world. To be honest with 
 
 **Peter Beck:** Yeah.
 
-### Reading Habits
+### Reading Habits (03:20)
 
 Madison:** Do you read books, and if so, what's a favorite?
 
@@ -60,11 +60,16 @@ Madison:** Do you read books, and if so, what's a favorite?
 
 **Peter Beck:** If I'm at Mahia, then I'm most likely in mission control. You've got a headset on.
 
-### Starting Out in Today's Space Industry
+### Starting Out in Today's Space Industry (03:58)
 
-**Madison:** If you were starting out again today, what would you do and how would you do it? For Rocket Lab or just general in life - would it be rockets, would it be space? Where do you think that market is now? So far gone if somebody was starting out now in 2025?
+**Madison:** If you were starting out again today, what would you do and how would you do it? 
+
+Peter Beck: For Rocket Lab or just general in life? 
+
+Madison: Would it be rockets, would it be space? Where do you think that market is now? So far gone if somebody was starting out now in 2025?
 
 **Peter Beck:** No, no. I think there's a huge opportunity if someone was starting in the space industry right now. I think it's way easier to start in the space industry now than when I started the space industry. Tremendous pools of capital available, tremendous proof points that businesses can be commercial. We've got public companies now that have graduated from VC all the way through to public. So no, I think now is a super good time.
 
 **Madison:** Awesome. Thank you so much.
 
+Peter Beck: Easy

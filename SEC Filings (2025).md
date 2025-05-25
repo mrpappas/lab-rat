@@ -15,6 +15,8 @@ sort Filing_Date desc
 
 | File                                                                                                                                                             | Filing Type                                                  | Date              |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ----------------- |
+| [[Filings/2025/8-K/05-23-25 8-K Corporate Restructure.md\|05-23-25 8-K Corporate Restructure]]                                                                   | [[Filings/Filing Definitions.md#8-K\|8-K]]                   | May 23, 2025      |
+| [[Filings/2025/Misc/05-20-25 SD Conflict Minerals Disclosure.md\|05-20-25 SD Conflict Minerals Disclosure]]                                                      | [[Filings/Filing Definitions.md#Form SD\|Form SD]]           | May 20, 2025      |
 | [[Filings/2025/8-K/05-08-25 8-K Q1 2025 Financial Results.md\|05-08-25 8-K Q1 2025 Financial Results]]                                                           | [[Filings/Filing Definitions.md#8-K\|8-K]]                   | May 08, 2025      |
 | [[Filings/2025/10-Q/05-08-25 10-Q Q1 2025.md\|05-08-25 10-Q Q1 2025]]                                                                                            | [[Filings/Filing Definitions.md#10-Q\|10-Q]]                 | May 08, 2025      |
 | [[Filings/2025/10-K/4-30-25 10-K Amendment.md\|4-30-25 10-K Amendment]]                                                                                          | [[Filings/Filing Definitions.md#10-K\|10-K]]                 | April 30, 2025    |
