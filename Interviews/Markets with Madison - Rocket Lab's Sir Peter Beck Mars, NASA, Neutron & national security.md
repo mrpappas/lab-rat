@@ -12,6 +12,8 @@ date: 2025-05-15
 
 ![](https://www.youtube.com/watch?v=W9Q3cuJUQ4Q)
 
+🔗Backup Link: https://www.youtube.com/watch?v=W9Q3cuJUQ4Q
+
 ## 🎙️ Transcript
 
 ### Corporate Restructuring and Global Strategy (3:28)

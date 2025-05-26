@@ -14,7 +14,7 @@ location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"
 orbit_type: "[[🌍 Orbits#TLI]]"
 target_orbit: Translunar Injection (TLI)
-payload_mass: 80kg
+payload_mass: 320kg LEO / 80kg TLI
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/capstone/
 ---
@@ -38,7 +38,7 @@ Designed and built by [[Tyvak Nano-Satellite Systems]], a [[Terran Orbital]] Cor
 | **Vehicle**      | [[Electron]]                                                                  |
 | **Orbit Type**   | [[🌍 Orbits#TLI]]                                                             |
 | **Target Orbit** | Translunar Injection (TLI)                                                    |
-| **Payload Mass** | 80kg                                                                          |
+| **Payload Mass** | 320kg LEO / 80kg TLI                                                          |
 | **Recovery**     | No Attempt                                                                    |
 | **Mission Link** | [CAPSTONE](https://www.rocketlabusa.com/missions/missions-launched/capstone/) |
 | **Press Kit**    | [[CAPSTONE-Press-Kit3.pdf]]                                                   |

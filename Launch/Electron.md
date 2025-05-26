@@ -15,7 +15,7 @@ Electron is a two-stage, partially reusable orbital launch vehicle developed by 
 | **Diameter**       | 1.2m / 3.9ft              |
 | **Stages**         | 2+ Kick Stage             |
 | **Wet** **Mass**   | 13,000 kg / 28,660 lb     |
-| **Payload to LEO** | 300 kg / 661 lb           |
+| **Payload to LEO** | 320 kg / 705.479 lb       |
 | **Structure**      | Carbon Composite          |
 | **Propellant**     | LOX / Kerosene            |
 | ASP                | ~$8.4 Million (~28k / kg) |
