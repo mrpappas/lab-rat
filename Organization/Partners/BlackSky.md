@@ -23,7 +23,7 @@ sort launch_date desc
 
 | File                                                                                | Date             | Location                                              | Vehicle                          | Orbit & Mass                        | Outcome   |
 | ----------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | ----------------------------------- | --------- |
-| [[Launch/Launches/065 - Full Stream Ahead.md\|065 - Full Stream Ahead]]             | 2025-05-28 01:30 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 470km \| 59° \| 138 kg              | ⌛ Pending |
+| [[Launch/Launches/065 - Full Stream Ahead.md\|065 - Full Stream Ahead]]             | 2025-06-03 23:57 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 470km \| 59° \| 138 kg              | ✅ Success |
 | [[Launch/Launches/060 - Fasten Your Space Belts.md\|060 - Fasten Your Space Belts]] | 2025-02-19 12:17 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 470km \| 59° \| 138 kg              | ✅ Success |
 | [[Launch/Launches/035 - The Beat Goes On.md\|035 - The Beat Goes On]]               | 2023-03-24 09:14 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 450 km \| 42° \| 120 kg             | ✅ Success |
 | [[Launch/Launches/025 - Without Mission A Beat.md\|025 - Without Mission A Beat]]   | 2022-04-02 12:41 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 430 km \| 53° \| 120 kg             | ✅ Success |
@@ -53,7 +53,7 @@ The satellites feature the SpaceView-24 imaging system built by Harris Corp.'s E
 
 BlackSky's latest generation Earth Observation satellite featuring 35 cm resolution, multispectral capabilities, AI-enabled analytics, low-latency communications, and a highly agile attitude control system. 
 
-![[Pasted image 20250303195116.png]]
+![[Pasted image 20250303195116.png|400]]
 
 
 | Specification                     | Value                                                                                                                                                                                     |
@@ -84,6 +84,7 @@ sort published desc
 
 | File                                                                                                                                                                                                                                                                                                   | Published         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
+| [[News/Rocket Lab Successfully Launches 10th Electron Mission for Multi-Launch Customer BlackSky.md\|Rocket Lab Successfully Launches 10th Electron Mission for Multi-Launch Customer BlackSky]]                                                                                                       | June 03, 2025     |
 | [[News/Rocket Lab Schedules Next Launch in Series of Multiple Missions for BlackSky.md\|Rocket Lab Schedules Next Launch in Series of Multiple Missions for BlackSky]]                                                                                                                                 | May 22, 2025      |
 | [[News/Rocket Lab Successfully Launches 60th Electron, First of Multiple New Missions for BlackSky.md\|Rocket Lab Successfully Launches 60th Electron, First of Multiple New Missions for BlackSky]]                                                                                                   | February 18, 2025 |
 | [[News/Rocket Lab Schedules Launch for First of Multiple Missions for BlackSky.md\|Rocket Lab Schedules Launch for First of Multiple Missions for BlackSky]]                                                                                                                                           | February 10, 2025 |

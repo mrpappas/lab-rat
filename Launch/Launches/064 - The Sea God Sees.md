@@ -47,7 +47,9 @@ The mission was the third overall Electron launch for iQPS and the second in a l
 
 ## Payload
 
-x1 QPS-SAR Satellite
+x 1 [[iQPS#🛰️ Space Systems#QPS-SAR|QPS-SAR]] ![[iQPS#🛰️ Space Systems#QPS-SAR|QPS-SAR]]
+
+
 
 ![[iQPS#🛰️ Space Systems#QPS-SAR]]
 
