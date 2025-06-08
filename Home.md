@@ -3,9 +3,8 @@
 >This is an [open source central repository](https://github.com/mrpappas/lab-rat) for all things [Rocket Lab](https://www.rocketlabusa.com/), built with [Obsidian](https://obsidian.md/). Designed for retail investors, it aims to collect and organize all relevant Rocket Lab information. It contains all SEC filings, news releases, insiders, partners, launch data, space systems & components, interviews, and more. 
 ## New To Rocket Lab?
 
-**Start Here**: [[Payload Space's Rocket Lab Report]] 
+**Start Here**: [Payload Space's Rocket Lab Report](https://arkaea-static-assets.s3.us-east-1.amazonaws.com/Rocket_Lab_Report_Final.pdf) 
 This provides a great high level analysis of Rocket Lab's current business and potential future opportunities. 
-**Backup Link**: https://payloadspace.com/the-rocket-lab-report/
 
 ## 🔗 Quick Links
 
