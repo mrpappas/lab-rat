@@ -44,7 +44,7 @@ These twin missions are a demonstration of responsive launch under NRO’s Rapid
 | **Payload Mass** | Classified                                                                                            |
 | **Recovery**     | No Attempt                                                                                            |
 | **Mission Link** | [Wise One Looks Ahead](https://www.rocketlabusa.com/missions/missions-launched/wise-one-looks-ahead/) |
-| **Press Kit**    | [[Flight-28-Press-Kit-final.pdf]]                                                                     |
+| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Flight-28-Press-Kit-final.pdf)               |
 
 
 ![[Pasted image 20250406140104.png|300]]

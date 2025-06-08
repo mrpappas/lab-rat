@@ -43,7 +43,7 @@ The StriX-α satellite onboard this mission was the first of a series of spacecr
 | **Payload Mass** | 150 kg                                                                                                     |
 | **Recovery**     | No Attempt                                                                                                 |
 | **Mission Link** | [The Owl's Night Begins](https://www.rocketlabusa.com/missions/missions-launched/the-owls-night-begins-2/) |
-| **Press Kit**    | [[Flight-17-Press-Kit2.pdf]]                                                                               |
+| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Flight-17-Press-Kit2.pdf)                         |
 
 ![[Pasted image 20250406132917.png|300]]
 

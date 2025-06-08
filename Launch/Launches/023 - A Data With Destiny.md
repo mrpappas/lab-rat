@@ -42,7 +42,7 @@ The two Gen-2 satellites on this mission, along with those previously launched b
 | **Payload Mass** | 120 kg                                                                                              |
 | **Recovery**     | No Attempt                                                                                          |
 | **Mission Link** | [A Data With Destiny](https://www.rocketlabusa.com/missions/missions-launched/a-data-with-destiny/) |
-| **Press Kit**    | [[Flight-23-Press-Kit-v1.pdf]]                                                                      |
+| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Flight-23-Press-Kit-v1.pdf)                |
 
 ![[Pasted image 20250406135608.png|300]]
 

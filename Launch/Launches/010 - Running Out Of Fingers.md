@@ -41,7 +41,7 @@ Onboard this rideshare mission were six spacecraft comprised of 5cm PocketQube m
 | **Payload Mass** | 77 kg                                                                                                     |
 | **Recovery**     | Controlled (Atmosphere Test)                                                                              |
 | **Mission Link** | [Running Out Of Fingers](https://www.rocketlabusa.com/missions/missions-launched/running-out-of-fingers/) |
-| **Press Kit**    | [[F10-Running-Out-of-Fingers-Presskit.pdf]]                                                               |
+| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/F10-Running-Out-of-Fingers-Presskit.pdf)         |
 
 ![[Pasted image 20250406132111.png|300]]
 

@@ -42,7 +42,7 @@ Launch Complex 2 supplements Rocket Lab’s existing site, Launch Complex 1 in N
 | **Payload Mass** | 90 kg                                                                                                        |
 | **Recovery**     | No Attempt                                                                                                   |
 | **Mission Link** | [Virginia is for Launch Lovers](https://www.rocketlabusa.com/missions/missions-launched/new-mission-page-2/) |
-| **Press Kit**    | [[Virginia-is-for-Launch-Lovers-Press-Kit6.pdf]]                                                             |
+| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Virginia-is-for-Launch-Lovers-Press-Kit6.pdf)       |
 
 ![[Pasted image 20250406140613.png|300]]
 

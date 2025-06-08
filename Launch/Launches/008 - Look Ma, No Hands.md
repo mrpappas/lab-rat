@@ -50,7 +50,7 @@ The final spacecraft manifested on the mission were two experimental satellites 
 | **Payload Mass** | 80 kg                                                                                         |
 | **Recovery**     | No Attempt                                                                                    |
 | **Mission Link** | [Look Ma, No Hands](https://www.rocketlabusa.com/missions/missions-launched/to-be-announced/) |
-| **Press Kit**    | [[Launch-Media-Kit-Flight-eight.pdf]]                                                         |
+| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Launch-Media-Kit-Flight-eight.pdf)   |
 
 ![[Pasted image 20250406131836.png|300]]
 

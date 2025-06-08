@@ -29,19 +29,19 @@ Designed and built by [[Tyvak Nano-Satellite Systems]], a [[Terran Orbital]] Cor
 
 #electron #launch #success
 
-| **Mission Name** | CAPSTONE                                                                      |
-| ---------------- | ----------------------------------------------------------------------------- |
-| **Launch Date**  | 2022-06-28 09:55                                                              |
-| **Outcome**      | ✅ Success                                                                     |
-| **Customer**     | [[NASA]], [[Advanced Space]]                                                  |
-| **Location**     | [[Launch Complex 1#Launch Pad B]]                                             |
-| **Vehicle**      | [[Electron]]                                                                  |
-| **Orbit Type**   | [[🌍 Orbits#TLI]]                                                             |
-| **Target Orbit** | Translunar Injection (TLI)                                                    |
-| **Payload Mass** | 320kg LEO / 80kg TLI                                                          |
-| **Recovery**     | No Attempt                                                                    |
-| **Mission Link** | [CAPSTONE](https://www.rocketlabusa.com/missions/missions-launched/capstone/) |
-| **Press Kit**    | [[CAPSTONE-Press-Kit3.pdf]]                                                   |
+| **Mission Name** | CAPSTONE                                                                          |
+| ---------------- | --------------------------------------------------------------------------------- |
+| **Launch Date**  | 2022-06-28 09:55                                                                  |
+| **Outcome**      | ✅ Success                                                                         |
+| **Customer**     | [[NASA]], [[Advanced Space]]                                                      |
+| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                 |
+| **Vehicle**      | [[Electron]]                                                                      |
+| **Orbit Type**   | [[🌍 Orbits#TLI]]                                                                 |
+| **Target Orbit** | Translunar Injection (TLI)                                                        |
+| **Payload Mass** | 320kg LEO / 80kg TLI                                                              |
+| **Recovery**     | No Attempt                                                                        |
+| **Mission Link** | [CAPSTONE](https://www.rocketlabusa.com/missions/missions-launched/capstone/)     |
+| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/CAPSTONE-Press-Kit3.pdf) |
 
 
 ![[Pasted image 20250406135953.png|300]]

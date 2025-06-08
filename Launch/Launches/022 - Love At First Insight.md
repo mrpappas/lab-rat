@@ -30,19 +30,19 @@ The mission also included a controlled ocean splashdown and recovery of Electron
 
 #electron #launch #success
 
-| **Mission Name** | Love At First Insight                                                                                   |
-| ---------------- | ------------------------------------------------------------------------------------------------------- |
-| **Launch Date**  | 2021-11-18 01:38                                                                                        |
-| **Outcome**      | ✅ Success                                                                                               |
-| **Customer**     | [[BlackSky]], [[Spaceflight]]                                                                           |
-| **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                       |
-| **Vehicle**      | [[Electron]]                                                                                            |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                       |
-| **Target Orbit** | 430 km &#124; 42°                                                                                       |
-| **Payload Mass** | 120 kg                                                                                                  |
-| **Recovery**     | Success (Ocean Landing)                                                                                 |
-| **Mission Link** | [Love At First Insight](https://www.rocketlabusa.com/missions/missions-launched/love-at-first-insight/) |
-| **Press Kit**    | [[Rocket-Lab-F22-Love-At-First-Insight-Press-Kit.pdf]]                                                  |
+| **Mission Name** | Love At First Insight                                                                                        |
+| ---------------- | ------------------------------------------------------------------------------------------------------------ |
+| **Launch Date**  | 2021-11-18 01:38                                                                                             |
+| **Outcome**      | ✅ Success                                                                                                    |
+| **Customer**     | [[BlackSky]], [[Spaceflight]]                                                                                |
+| **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                            |
+| **Vehicle**      | [[Electron]]                                                                                                 |
+| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                            |
+| **Target Orbit** | 430 km &#124; 42°                                                                                            |
+| **Payload Mass** | 120 kg                                                                                                       |
+| **Recovery**     | Success (Ocean Landing)                                                                                      |
+| **Mission Link** | [Love At First Insight](https://www.rocketlabusa.com/missions/missions-launched/love-at-first-insight/)      |
+| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Rocket-Lab-F22-Love-At-First-Insight-Press-Kit.pdf) |
 
 
 ![[Pasted image 20250406135504.png|300]]

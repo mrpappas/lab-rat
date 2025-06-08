@@ -27,19 +27,19 @@ Launched in May 2021 from Launch Complex 1 in New Zealand, the ‘Running Out Of
 
 #electron #launch #failure #anomaly
 
-| **Mission Name** | Running Out Of Toes                                                                                 |
-| ---------------- | --------------------------------------------------------------------------------------------------- |
-| **Launch Date**  | 2021-05-15 11:11                                                                                    |
-| **Outcome**      | ❌ Failure                                                                                           |
-| **Customer**     | [[BlackSky]]                                                                                        |
-| **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                   |
-| **Vehicle**      | [[Electron]]                                                                                        |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                   |
-| **Target Orbit** | 430 km &#124; 50°                                                                                   |
-| **Payload Mass** | 120 kg                                                                                              |
-| **Recovery**     | Success (Ocean Landing)                                                                             |
-| **Mission Link** | [Running Out Of Toes](https://www.rocketlabusa.com/missions/missions-launched/running-out-of-toes/) |
-| **Press Kit**    | [[Flight-20-Running-Out-Of-Toes-press-kit-web-final.pdf]]                                           |
+| **Mission Name** | Running Out Of Toes                                                                                             |
+| ---------------- | --------------------------------------------------------------------------------------------------------------- |
+| **Launch Date**  | 2021-05-15 11:11                                                                                                |
+| **Outcome**      | ❌ Failure                                                                                                       |
+| **Customer**     | [[BlackSky]]                                                                                                    |
+| **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                               |
+| **Vehicle**      | [[Electron]]                                                                                                    |
+| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                               |
+| **Target Orbit** | 430 km &#124; 50°                                                                                               |
+| **Payload Mass** | 120 kg                                                                                                          |
+| **Recovery**     | Success (Ocean Landing)                                                                                         |
+| **Mission Link** | [Running Out Of Toes](https://www.rocketlabusa.com/missions/missions-launched/running-out-of-toes/)             |
+| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Flight-20-Running-Out-Of-Toes-press-kit-web-final.pdf) |
 
 ![[Pasted image 20250406133214.png|300]]
 

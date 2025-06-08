@@ -38,7 +38,7 @@ This mission launched a single communication microsatellite for OHB Group that w
 | **Payload Mass** | 50 kg                                                                                                                 |
 | **Recovery**     | No Attempt                                                                                                            |
 | **Mission Link** | [Another One Leaves The Crust](https://www.rocketlabusa.com/missions/missions-launched/another-one-leaves-the-crust/) |
-| **Press Kit**    | [[Rocket-Lab-Another-One-Leaves-The-Crust-Press-Kit2.pdf]]                                                            |
+| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Rocket-Lab-Another-One-Leaves-The-Crust-Press-Kit2.pdf)      |
 
 ![[Pasted image 20250406133042.png|300]]
 

@@ -30,19 +30,19 @@ The mission was named ‘Make it Rain’ in a nod to the high volume of rainfall
 
 #electron #launch #success
 
-| **Mission Name** | Make It Rain                                                                         |
-| ---------------- | ------------------------------------------------------------------------------------ |
-| **Launch Date**  | 2019-06-29 04:30                                                                     |
-| **Outcome**      | ✅ Success                                                                            |
-| **Customer**     | [[Spaceflight]], [[BlackSky]], [[Melbourne Space Program]]                           |
-| **Location**     | [[Launch Complex 1#Launch Pad A]]                                                    |
-| **Vehicle**      | [[Electron]]                                                                         |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                    |
-| **Target Orbit** | 450 km &#124; 45°                                                                    |
-| **Payload Mass** | 80 kg                                                                                |
-| **Recovery**     | No Attempt                                                                           |
-| **Mission Link** | [Make It Rain](https://www.rocketlabusa.com/missions/missions-launched/make-it-rain) |
-| **Press Kit**    | [[Rocket-Lab-MAKE-IT-RAIN-press-kit.pdf]]                                            |
+| **Mission Name** | Make It Rain                                                                                    |
+| ---------------- | ----------------------------------------------------------------------------------------------- |
+| **Launch Date**  | 2019-06-29 04:30                                                                                |
+| **Outcome**      | ✅ Success                                                                                       |
+| **Customer**     | [[Spaceflight]], [[BlackSky]], [[Melbourne Space Program]]                                      |
+| **Location**     | [[Launch Complex 1#Launch Pad A]]                                                               |
+| **Vehicle**      | [[Electron]]                                                                                    |
+| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                               |
+| **Target Orbit** | 450 km &#124; 45°                                                                               |
+| **Payload Mass** | 80 kg                                                                                           |
+| **Recovery**     | No Attempt                                                                                      |
+| **Mission Link** | [Make It Rain](https://www.rocketlabusa.com/missions/missions-launched/make-it-rain)            |
+| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Rocket-Lab-MAKE-IT-RAIN-press-kit.pdf) |
 
 ![[Pasted image 20250406131737.png|300]]
 

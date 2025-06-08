@@ -43,7 +43,7 @@ The mission was named ‘It’s a Little Chile Up Here’ in a nod to the belove
 | **Payload Mass** | Unknown                                                                                                            |
 | **Recovery**     | No Attempt                                                                                                         |
 | **Mission Link** | [It's A Little Chile Up Here](https://www.rocketlabusa.com/missions/missions-launched/its-a-little-chile-up-here/) |
-| **Press Kit**    | [[Rocket-Lab-Its-A-Little-Chile-Up-Here-Press-Kit-sml.pdf]]                                                        |
+| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Rocket-Lab-Its-A-Little-Chile-Up-Here-Press-Kit-sml.pdf)  |
 
 ![[Pasted image 20250406135406.png|300]]
 

@@ -33,19 +33,19 @@ The 10th and final payload, Canon Electronics Inc.’s CE-SAT-IIB, was arranged 
 
 #electron #launch #success
 
-| **Mission Name** | In Focus                                                                      |
-| ---------------- | ----------------------------------------------------------------------------- |
-| **Launch Date**  | 2020-10-28 21:21                                                              |
-| **Outcome**      | ✅ Success                                                                     |
-| **Customer**     | [[Planet Labs]], [[Spaceflight]], [[Canon Electronics]]                       |
-| **Location**     | [[Launch Complex 1#Launch Pad A]]                                             |
-| **Vehicle**      | [[Electron]]                                                                  |
-| **Orbit Type**   | [[🌍 Orbits#SSO]]                                                             |
-| **Target Orbit** | 500 km &#124; 97.5°                                                           |
-| **Payload Mass** | 72 kg                                                                         |
-| **Recovery**     | No Attempt                                                                    |
-| **Mission Link** | [In Focus](https://www.rocketlabusa.com/missions/missions-launched/in-focus/) |
-| **Press Kit**    | [[final-F15-Press-Kit-In-Focus.pdf]]                                          |
+| **Mission Name** | In Focus                                                                                   |
+| ---------------- | ------------------------------------------------------------------------------------------ |
+| **Launch Date**  | 2020-10-28 21:21                                                                           |
+| **Outcome**      | ✅ Success                                                                                  |
+| **Customer**     | [[Planet Labs]], [[Spaceflight]], [[Canon Electronics]]                                    |
+| **Location**     | [[Launch Complex 1#Launch Pad A]]                                                          |
+| **Vehicle**      | [[Electron]]                                                                               |
+| **Orbit Type**   | [[🌍 Orbits#SSO]]                                                                          |
+| **Target Orbit** | 500 km &#124; 97.5°                                                                        |
+| **Payload Mass** | 72 kg                                                                                      |
+| **Recovery**     | No Attempt                                                                                 |
+| **Mission Link** | [In Focus](https://www.rocketlabusa.com/missions/missions-launched/in-focus/)              |
+| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/final-F15-Press-Kit-In-Focus.pdf) |
 
 
 ![[Pasted image 20250406132716.png|300]]

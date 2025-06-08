@@ -41,7 +41,7 @@ The payloads were launched to a 210km x 500km circular orbit at 85 degrees, befo
 | **Payload Mass** | 45 kg                                                                                            |
 | **Recovery**     | No Attempt                                                                                       |
 | **Mission Link** | [It's Business Time](https://www.rocketlabusa.com/missions/missions-launched/its-business-time/) |
-| **Press Kit**    | [[Its-Business-Time-Press-Kit7.pdf]]                                                             |
+| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Its-Business-Time-Press-Kit7.pdf)       |
 
 ![[Pasted image 20250406130017.png|300]]
 

@@ -43,7 +43,7 @@ Both NROL-199 and NROL-162 missions were a demonstration of responsive launch un
 | **Payload Mass** | Classified                                                                                            |
 | **Recovery**     | No Attempt                                                                                            |
 | **Mission Link** | [Antipodean Adventure](https://www.rocketlabusa.com/missions/missions-launched/antipodean-adventure/) |
-| **Press Kit**    | [[Flight-29-Press-Kit-FINAL.pdf]]                                                                     |
+| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Flight-29-Press-Kit-FINAL.pdf)               |
 
 
 ![[Pasted image 20250406140200.png|300]]

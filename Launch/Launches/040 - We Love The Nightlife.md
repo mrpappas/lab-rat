@@ -44,7 +44,7 @@ The mission was also a recovery mission, with Electron's first stage brought bac
 | **Payload Mass** | 165 kg                                                                                               |
 | **Recovery**     | Success (Ocean Landing)                                                                              |
 | **Mission Link** | [We Love The Nightlife](https://www.rocketlabusa.com/missions/missions-launched/new-mission-page-3/) |
-| **Press Kit**    | [[We-Love-The-Nightlife-Press-Kit3...pdf]]                                                           |
+| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/We-Love-The-Nightlife-Press-Kit3...pdf)     |
 
 ![[Pasted image 20250406141611.png|300]]
 

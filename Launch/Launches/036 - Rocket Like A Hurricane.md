@@ -46,7 +46,7 @@ More info on TROPICS: [Mission Overview | TROPICS](https://tropics.ll.mit.edu/CM
 | **Payload Mass** | 10 kg                                                                                                       |
 | **Recovery**     | No Attempt                                                                                                  |
 | **Mission Link** | [Rocket Like A Hurricane](https://www.rocketlabusa.com/missions/missions-launched/rocket-like-a-hurricane/) |
-| **Press Kit**    | [[TROPICS-PRESS-KIT-F36-F37.pdf]]                                                                           |
+| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/TROPICS-PRESS-KIT-F36-F37.pdf)                     |
 
 ![[Pasted image 20250406140838.png|300]]
 ## 📽️ Launch Video

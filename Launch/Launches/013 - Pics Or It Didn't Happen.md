@@ -54,7 +54,7 @@ Rocket Lab has now reliably replicated the issue in test and identified that it 
 | **Payload Mass** | 75 kg                                                                                                        |
 | **Recovery**     | No Attempt                                                                                                   |
 | **Mission Link** | [Pics Or It Didn't Happen](https://www.rocketlabusa.com/missions/missions-launched/pics-or-it-didnt-happen/) |
-| **Press Kit**    | [[FINAL-F13-PicOrItDidntHappen-Presskit.pdf]]                                                                |
+| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/FINAL-F13-PicOrItDidntHappen-Presskit.pdf)          |
 
 ![[Pasted image 20250406132507.jpg|300]]
 

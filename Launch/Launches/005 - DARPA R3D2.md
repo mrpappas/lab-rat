@@ -31,19 +31,19 @@ The 150kg R3D2 satellite lifted off on an Electron rocket from Launch Complex 1 
 
 #electron #launch #success
 
-| **Mission Name** | DARPA R3D2                                                                        |
-| ---------------- | --------------------------------------------------------------------------------- |
-| **Launch Date**  | 2019-03-28 23:27                                                                  |
-| **Outcome**      | ✅ Success                                                                         |
-| **Customer**     | [[DARPA]]                                                                         |
-| **Location**     | [[Launch Complex 1#Launch Pad A]]                                                 |
-| **Vehicle**      | [[Electron]]                                                                      |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                 |
-| **Target Orbit** | 425 km &#124; 39.5°                                                               |
-| **Payload Mass** | 150 kg                                                                            |
-| **Recovery**     | No Attempt                                                                        |
-| **Mission Link** | [DARPA R3D2](https://www.rocketlabusa.com/missions/missions-launched/darpa-r3d2/) |
-| **Press Kit**    | [[Rocket-Lab-press-kit-DARPA-R3D4.pdf]]                                           |
+| **Mission Name** | DARPA R3D2                                                                                    |
+| ---------------- | --------------------------------------------------------------------------------------------- |
+| **Launch Date**  | 2019-03-28 23:27                                                                              |
+| **Outcome**      | ✅ Success                                                                                     |
+| **Customer**     | [[DARPA]]                                                                                     |
+| **Location**     | [[Launch Complex 1#Launch Pad A]]                                                             |
+| **Vehicle**      | [[Electron]]                                                                                  |
+| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                             |
+| **Target Orbit** | 425 km &#124; 39.5°                                                                           |
+| **Payload Mass** | 150 kg                                                                                        |
+| **Recovery**     | No Attempt                                                                                    |
+| **Mission Link** | [DARPA R3D2](https://www.rocketlabusa.com/missions/missions-launched/darpa-r3d2/)             |
+| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Rocket-Lab-press-kit-DARPA-R3D4.pdf) |
 
 
 ## 📽️ Launch Video

@@ -40,7 +40,7 @@ This dedicated mission for General Atomics launched the GAzelle satellite carryi
 | **Payload Mass** | 118 kg                                                                                                  |
 | **Recovery**     | No Attempt                                                                                              |
 | **Mission Link** | [It Argos Up From Here](https://www.rocketlabusa.com/missions/missions-launched/it-argos-up-from-here/) |
-| **Press Kit**    | [[F31-It-Argos-Up-From-Here-Press-Kit-v4.pdf]]                                                          |
+| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/F31-It-Argos-Up-From-Here-Press-Kit-v4.pdf)    |
 
 
 ![[Pasted image 20250406140441.png|300]]

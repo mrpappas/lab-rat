@@ -42,7 +42,7 @@ The “Catch Me If You Can” mission also resulted in a successful ocean splash
 | **Payload Mass** | 50 kg                                                                                               |
 | **Recovery**     | Partial Failure (Aerial Capture)                                                                    |
 | **Mission Link** | [Catch Me If You Can](https://www.rocketlabusa.com/missions/missions-launched/catch-me-if-you-can/) |
-| **Press Kit**    | [[F32-Catch-Me-Press-Kit.pdf]]                                                                      |
+| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/F32-Catch-Me-Press-Kit.pdf)                |
 
 ![[Pasted image 20250406140526.png|300]]
 

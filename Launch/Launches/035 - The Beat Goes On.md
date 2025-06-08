@@ -40,7 +40,7 @@ The pair of high-resolution, multi-spectral, Gen-2 satellites launched on [[Elec
 | **Payload Mass** | 120 kg                                                                                        |
 | **Recovery**     | Success (Ocean Landing)                                                                       |
 | **Mission Link** | [The Beat Goes On](https://www.rocketlabusa.com/missions/missions-launched/the-beat-goes-on/) |
-| **Press Kit**    | [[The-Beat-Goes-On-Press-Kit.pdf]]                                                            |
+| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/The-Beat-Goes-On-Press-Kit.pdf)      |
 
 
 ![[Pasted image 20250406140754.png|300]]

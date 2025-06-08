@@ -43,7 +43,7 @@ The mission for Synspective marked a series of company milestones for Rocket Lab
 | **Payload Mass** | 100 kg                                                                                                          |
 | **Recovery**     | No Attempt                                                                                                      |
 | **Mission Link** | [The Owl Spreads Its Wings](https://www.rocketlabusa.com/missions/missions-launched/the-owl-spreads-its-wings/) |
-| **Press Kit**    | [[FINAL-F30-The-Owl-Spreads-Its-Wings-Press-Kit.pdf]]                                                           |
+| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/FINAL-F30-The-Owl-Spreads-Its-Wings-Press-Kit.pdf)     |
 
 
 ![[Pasted image 20250406140256.png|300]]

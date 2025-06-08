@@ -30,19 +30,19 @@ The launch was a dedicated mission for Capella Space, a leading U.S. satellite m
 
 #electron #launch #success
 
-| **Mission Name** | Stronger Together                                                                               |
-| ---------------- | ----------------------------------------------------------------------------------------------- |
-| **Launch Date**  | 2023-03-16 22:38                                                                                |
-| **Outcome**      | ✅ Success                                                                                       |
-| **Customer**     | [[Capella Space]]                                                                               |
-| **Location**     | [[Launch Complex 2#Launch Pad 0C]]                                                              |
-| **Vehicle**      | [[Electron]]                                                                                    |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                               |
-| **Target Orbit** | 600 km &#124; 44°                                                                               |
-| **Payload Mass** | 224 kg                                                                                          |
-| **Recovery**     | No Attempt                                                                                      |
-| **Mission Link** | [Stronger Together](https://www.rocketlabusa.com/missions/missions-launched/stronger-together/) |
-| **Press Kit**    | [[Capella-Stronger-Together-Press-Kit.pdf]]                                                     |
+| **Mission Name** | Stronger Together                                                                                 |
+| ---------------- | ------------------------------------------------------------------------------------------------- |
+| **Launch Date**  | 2023-03-16 22:38                                                                                  |
+| **Outcome**      | ✅ Success                                                                                         |
+| **Customer**     | [[Capella Space]]                                                                                 |
+| **Location**     | [[Launch Complex 2#Launch Pad 0C]]                                                                |
+| **Vehicle**      | [[Electron]]                                                                                      |
+| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                 |
+| **Target Orbit** | 600 km &#124; 44°                                                                                 |
+| **Payload Mass** | 224 kg                                                                                            |
+| **Recovery**     | No Attempt                                                                                        |
+| **Mission Link** | [Stronger Together](https://www.rocketlabusa.com/missions/missions-launched/stronger-together/)   |
+| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Capella-Stronger-Together-Press-Kit.pdf) |
 
 
 ![[Pasted image 20250406140658.png|300]]

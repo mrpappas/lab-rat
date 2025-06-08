@@ -43,7 +43,7 @@ The mission name is a nod to Capella’s SAR technology that provides high quali
 | **Payload Mass** | 100 kg                                                                                                                      |
 | **Recovery**     | No Attempt                                                                                                                  |
 | **Mission Link** | [I Can't Believe It's Not Optical](https://www.rocketlabusa.com/missions/missions-launched/i-cant-believe-its-not-optical/) |
-| **Press Kit**    | [[I-Cant-Believe-Its-Not-Optical-Press-kit2.pdf]]                                                                           |
+| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/I-Cant-Believe-Its-Not-Optical-Press-kit2.pdf)                     |
 
 
 ![[Pasted image 20250406132608.png|300]]

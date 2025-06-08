@@ -44,7 +44,7 @@ In addition to being launched by Electron, the QPS-SAR-5 satellite used Rocket L
 | **Payload Mass** | 100 kg                                                                                               |
 | **Recovery**     | No Attempt                                                                                           |
 | **Mission Link** | [The Moon God Awakens](https://www.rocketlabusa.com/missions/missions-launched/the-moon-god-awakes/) |
-| **Press Kit**    | [[The-Moon-God-Awakens-Press-Kit5.pdf]]                                                              |
+| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/The-Moon-God-Awakens-Press-Kit5.pdf)        |
 
 
 ![[Pasted image 20250406141811.png|300]]

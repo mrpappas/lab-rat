@@ -44,7 +44,7 @@ More info on TROPICS: [Mission Overview | TROPICS](https://tropics.ll.mit.edu/CM
 | **Payload Mass** | 10 kg                                                                                                             |
 | **Recovery**     | No Attempt                                                                                                        |
 | **Mission Link** | [Coming To A Storm Near You](https://www.rocketlabusa.com/missions/missions-launched/coming-to-a-storm-near-you/) |
-| **Press Kit**    | [[TROPICS-PRESS-KIT-F36-F37.pdf]]                                                                                 |
+| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/TROPICS-PRESS-KIT-F36-F37.pdf)                           |
 
 ![[Pasted image 20250406141023.png|300]]
 

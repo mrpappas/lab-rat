@@ -57,7 +57,7 @@ The final payload on this mission was Rocket Lab’s in-house designed and built
 | **Payload Mass** | Unknown                                                                                                                                             |
 | **Recovery**     | No Attempt                                                                                                                                          |
 | **Mission Link** | [They Go Up So Fast](https://www.rocketlabusa.com/missions/missions-launched/they-go-up-so-fast/)                                                   |
-| **Press Kit**    | [[Flight-19-They-Go-Up-So-Fast-Press-Kit-small.pdf]]                                                                                                |
+| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Flight-19-They-Go-Up-So-Fast-Press-Kit-small.pdf)                                          |
 
 ![[Pasted image 20250406133130.png|300]]
 

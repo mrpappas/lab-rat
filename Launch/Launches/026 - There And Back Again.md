@@ -48,7 +48,7 @@ The “There And Back Again” mission deployed 34 satellites to a sun synchrono
 | **Payload Mass** | Unknown                                                                                                                     |
 | **Recovery**     | Partial Failure (Aerial Capture)                                                                                            |
 | **Mission Link** | [There And Back Again](https://www.rocketlabusa.com/missions/missions-launched/there-and-back-again/)                       |
-| **Press Kit**    | [[There-And-Back-Again-Press-Kit2.pdf]]                                                                                     |
+| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/There-And-Back-Again-Press-Kit2.pdf)                               |
 
 ![[Pasted image 20250406135854.png|300]]
 

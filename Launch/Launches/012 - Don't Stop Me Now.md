@@ -48,7 +48,7 @@ The mission has been named ‘Don’t Stop Me Now’ in recognition of Rocket La
 | **Payload Mass** | Classified                                                                                         |
 | **Recovery**     | No Attempt                                                                                         |
 | **Mission Link** | [Don't Stop Me Now](https://www.rocketlabusa.com/missions/missions-launched/dont-stop-me-now/)     |
-| **Press Kit**    | [[F12-DontStopMeNow-Presskit.pdf]]                                                                 |
+| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/F12-DontStopMeNow-Presskit.pdf)           |
 
 ![[Pasted image 20250406132325.png|300]]
 
