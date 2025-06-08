@@ -41,7 +41,7 @@ Rocket Lab launched a dedicated mission for [[Capella Space]], a provider of SAR
 | **Payload Mass** | 165 kg                                                                                            |
 | **Recovery**     | No Attempt                                                                                        |
 | **Mission Link** | [A Sky Full Of SARs](https://www.rocketlabusa.com/missions/missions-launched/a-sky-full-of-sars/) |
-| **Press Kit**    | [[FINAL-RL-F52-Capella-Press-Kit.pdf]]                                                            |
+| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/FINAL-RL-F52-Capella-Press-Kit.pdf)      |
 
 ![[Pasted image 20250406144233.png|300]]
 
@@ -61,12 +61,15 @@ Rocket Lab launched a dedicated mission for [[Capella Space]], a provider of SAR
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[052 'A Sky Full Of SARs']])
+where contains(mission, [[052 - A Sky Full Of SARs]])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                                                               | Published       |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
+| [[News/Rocket Lab Schedules Next Electron Launch Just Eight Days After Previous Mission.md\|Rocket Lab Schedules Next Electron Launch Just Eight Days After Previous Mission]]     | August 07, 2024 |
+| [[News/Rocket Lab Launch Update.md\|Rocket Lab Launch Update]]                                                                                                                     | July 18, 2024   |
+| [[News/Rocket Lab Sets Launch Window For Next Capella Space Mission From Launch Complex 1.md\|Rocket Lab Sets Launch Window For Next Capella Space Mission From Launch Complex 1]] | July 09, 2024   |
 
 %%DATAVIEW_PUBLISHER: end %%

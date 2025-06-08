@@ -38,7 +38,7 @@ The “Ice AIS Baby” mission launched successfully on November 25th NZDT, 2024
 | **Payload Mass** | 150 kg                                                                                |
 | **Recovery**     | No Attempt                                                                            |
 | **Mission Link** | [Ice AIS Baby](https://www.rocketlabusa.com/missions/missions-launched/ice-ais-baby/) |
-| **Press Kit**    | [[Ice-AIS-Baby-Press-Kit2.pdf]]                                                       |
+| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Ice-AIS-Baby-Press-Kit2.pdf) |
 
 ![[Pasted image 20250406151244.png|300]]
 
@@ -61,12 +61,14 @@ x5 [[Kinéis#🛰️ Space Systems#Kinéis IoT|Kinéis IoT]] Satellites ![[Kiné
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[056 'Ice AIS Baby']])
+where contains(mission, [[056 - Ice AIS Baby]])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                                 | Published         |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[News/Rocket Lab Successfully Launches Two Missions in Less Than 24 Hours.md\|Rocket Lab Successfully Launches Two Missions in Less Than 24 Hours]] | November 25, 2024 |
+| [[News/Rocket Lab Schedules Next Launch for Constellation Operator Kinéis.md\|Rocket Lab Schedules Next Launch for Constellation Operator Kinéis]]   | November 12, 2024 |
 
 %%DATAVIEW_PUBLISHER: end %%

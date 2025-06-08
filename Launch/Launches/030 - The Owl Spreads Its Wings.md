@@ -63,12 +63,15 @@ x1 [[Synspective#🛰️ Space Systems#StriX|StriX Series Satellites]] ![[Synspe
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[030 'The Owl Spreads Its Wings']])
+where contains(mission, [[030 - The Owl Spreads Its Wings]])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                                                                                   | Published          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
+| [[News/Rocket Lab Successfully Launches 30th Electron Rocket & 150th Satellite to Space.md\|Rocket Lab Successfully Launches 30th Electron Rocket & 150th Satellite to Space]]                         | September 15, 2022 |
+| [[News/Rocket Lab to Launch 150th Satellite on Upcoming Mission for Synspective.md\|Rocket Lab to Launch 150th Satellite on Upcoming Mission for Synspective]]                                         | August 15, 2022    |
+| [[News/Rocket Lab to Launch Three Dedicated Electron Missions for Earth Imaging Company Synspective.md\|Rocket Lab to Launch Three Dedicated Electron Missions for Earth Imaging Company Synspective]] | December 07, 2021  |
 
 %%DATAVIEW_PUBLISHER: end %%

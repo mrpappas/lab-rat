@@ -59,12 +59,16 @@ More info on TROPICS: [Mission Overview | TROPICS](https://tropics.ll.mit.edu/CM
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[037 'Coming To A Storm Near You']])
+where contains(mission, [[037 - Coming To A Storm Near You]])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                                                                                   | Published         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
+| [[News/Rocket Lab Successfully Launches Second Batch of TROPICS Satellites for NASA.md\|Rocket Lab Successfully Launches Second Batch of TROPICS Satellites for NASA]]                                 | May 26, 2023      |
+| [[News/Rocket Lab Sets Date for Second NASA TROPICS Launch to Deploy Storm Monitoring Constellation.md\|Rocket Lab Sets Date for Second NASA TROPICS Launch to Deploy Storm Monitoring Constellation]] | May 15, 2023      |
+| [[News/Rocket Lab to Launch NASA’s Cyclone-Tracking Satellite Constellation from New Zealand.md\|Rocket Lab to Launch NASA’s Cyclone-Tracking Satellite Constellation from New Zealand]]               | April 10, 2023    |
+| [[News/NASA Selects Rocket Lab to Launch TROPICS Mission.md\|NASA Selects Rocket Lab to Launch TROPICS Mission]]                                                                                       | November 23, 2022 |
 
 %%DATAVIEW_PUBLISHER: end %%

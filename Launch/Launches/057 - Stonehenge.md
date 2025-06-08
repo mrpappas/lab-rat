@@ -21,6 +21,8 @@ mission_link:
 
 >[!summary]
 >Rocket Lab launched the "Stonehenge" (HASTE) mission, a suborbital test of the Electron rocket, on December 14, 2024, at 1:00 AM (UTC) from Launch Complex 2 at NASA's Wallops Flight Facility in Virginia. Due to the nature of the mission, very little official information is available.
+>
+>This mission provided hypersonic test launch capabilities under the Multi-Service Advanced Capability Hypersonics Test Bed (MACH-TB) project, which aims to increase hypersonic flight testing for the United States in support of technology maturation. The project was awarded by Naval Surface Warfare Center (NSWC) Crane through the Strategic and Spectrum Missions Advanced Resilient Trusted Systems (S2MARTS) Other Transaction Authority (OTA) vehicle on behalf of the U.S. Department of Defense Test Resource Management Center (TRMC).
 
 #haste #launch #success
 
@@ -51,12 +53,13 @@ mission_link:
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[057 'Stonehenge']])
+where contains(mission, [[057 - Stonehenge]])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                       | Published       |
+| ------------------------------------------------------------------------------------------------------------------------------------------ | --------------- |
+| [[News/Rocket Lab Inks New Deal to Launch HASTE Mission from Virginia.md\|Rocket Lab Inks New Deal to Launch HASTE Mission from Virginia]] | August 08, 2023 |
 
 %%DATAVIEW_PUBLISHER: end %%

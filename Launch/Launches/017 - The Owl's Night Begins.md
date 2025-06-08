@@ -60,12 +60,15 @@ x1 [[Synspective#🛰️ Space Systems#StriX|StriX Series Satellites]] ![[Synspe
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[017 'The Owl's Night Begins']])
+where contains(mission, [[017 - The Owl's Night Begins]])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                                                                                         | Published         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
+| [[News/Rocket Lab Successfully Launches 17th Electron Mission, Deploys SAR Satellite for Synspective.md\|Rocket Lab Successfully Launches 17th Electron Mission, Deploys SAR Satellite for Synspective]]     | December 15, 2020 |
+| [[News/Rocket Lab to Launch Dedicated Mission for  Japanese Earth Imaging Company Synspective.md\|Rocket Lab to Launch Dedicated Mission for  Japanese Earth Imaging Company Synspective]]                   | November 24, 2020 |
+| [[News/Rocket Lab to Launch Dedicated Mission for Japanese Space Industry Start-up Company Synspective.md\|Rocket Lab to Launch Dedicated Mission for Japanese Space Industry Start-up Company Synspective]] | April 14, 2020    |
 
 %%DATAVIEW_PUBLISHER: end %%

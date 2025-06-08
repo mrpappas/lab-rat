@@ -54,12 +54,17 @@ Launched in May 2021 from Launch Complex 1 in New Zealand, the ‘Running Out Of
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[022 'Love At First Insight']])
+where contains(mission, [[020 - Running Out Of Toes]])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                                                                                         | Published      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------- |
+| [[News/Rocket Lab Completes Anomaly Review, Next Mission on the Pad in July.md\|Rocket Lab Completes Anomaly Review, Next Mission on the Pad in July]]                                                       | July 19, 2021  |
+| [[News/The Federal Aviation Administration Approves Rocket Lab To Resume Launches.md\|The Federal Aviation Administration Approves Rocket Lab To Resume Launches]]                                           | June 02, 2021  |
+| [[News/Rocket Lab Experiences Anomaly During Launch.md\|Rocket Lab Experiences Anomaly During Launch]]                                                                                                       | May 17, 2021   |
+| [[News/Rocket Lab Progresses Flight Review, Recovers First Stage Following Successful Ocean Splashdown.md\|Rocket Lab Progresses Flight Review, Recovers First Stage Following Successful Ocean Splashdown]] | May 17, 2021   |
+| [[News/Rocket Lab to Recover Electron Booster on Next Mission.md\|Rocket Lab to Recover Electron Booster on Next Mission]]                                                                                   | April 08, 2021 |
 
 %%DATAVIEW_PUBLISHER: end %%

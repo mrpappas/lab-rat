@@ -41,7 +41,7 @@ Launched on March 27th 2025, the mission delivered 8x OroraTech Constellation Ph
 | **Payload Mass** | Unknown                                                                                                                   |
 | **Recovery**     | No Attempt                                                                                                                |
 | **Mission Link** | [Finding Hot Wildfires Near You](https://www.rocketlabusa.com/missions/missions-launched/finding-hot-wildfires-near-you/) |
-| **Press Kit**    | [[F63-OroraTech-presskit.pdf]]                                                                                            |
+| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/F63-OroraTech-presskit.pdf)                                      |
 
 
 ![[Pasted image 20250320132549.png|300]]
@@ -65,12 +65,15 @@ x8 [[Orora Technlogies#🛰️ Space Systems#OTC-P1|OTC-P1]] satellites
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[063 'Finding Hot Wildfires Near You']])
+where contains(mission, [[063 - Finding Hot Wildfires Near You]])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                                                                                                                                                                               | Published        |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[News/Rocket Lab Successfully Launches Mission for Global Wildfire Detection Company OroraTech.md\|Rocket Lab Successfully Launches Mission for Global Wildfire Detection Company OroraTech]]                                                                                                     | March 26, 2025   |
+| [[News/From Contract to Launch in Four Months Rocket Lab Schedules Electron Launch on a Rapid Turnaround for OroraTech Wildfire Detection Mission.md\|From Contract to Launch in Four Months Rocket Lab Schedules Electron Launch on a Rapid Turnaround for OroraTech Wildfire Detection Mission]] | March 18, 2025   |
+| [[News/Rocket Lab to Launch Global Wildfire Detection and Monitoring Mission for OroraTech.md\|Rocket Lab to Launch Global Wildfire Detection and Monitoring Mission for OroraTech]]                                                                                                               | January 22, 2025 |
 
 %%DATAVIEW_PUBLISHER: end %%

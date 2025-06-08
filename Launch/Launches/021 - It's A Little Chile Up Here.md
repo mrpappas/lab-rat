@@ -58,12 +58,14 @@ The mission was named ‘It’s a Little Chile Up Here’ in a nod to the belove
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[021 'It's A Little Chile Up Here']])
+where contains(mission, [[021 - It's A Little Chile Up Here]])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                                                               | Published     |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| [[News/Rocket Lab Successfully Launches U.S. Space Force Mission.md\|Rocket Lab Successfully Launches U.S. Space Force Mission]]                                                   | July 29, 2021 |
+| [[News/Rocket Lab to Launch U.S. Space Force Mission from Launch Complex 1 in New Zealand.md\|Rocket Lab to Launch U.S. Space Force Mission from Launch Complex 1 in New Zealand]] | July 27, 2021 |
 
 %%DATAVIEW_PUBLISHER: end %%

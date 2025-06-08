@@ -32,19 +32,19 @@ The mission also included the successful splashdown and recovery of Electron's f
 
 #electron #launch #success
 
-| **Mission Name** | Four Of A Kind                                                                            |
-| ---------------- | ----------------------------------------------------------------------------------------- |
-| **Launch Date**  | 2024-01-31 06:34                                                                          |
-| **Outcome**      | ✅ Success                                                                                 |
-| **Customer**     | [[Spire Global]], [[NorthStar Earth & Space]]                                             |
-| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                         |
-| **Vehicle**      | [[Electron]]                                                                              |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                         |
-| **Target Orbit** | 530 km &#124; 97°                                                                         |
-| **Payload Mass** | 112 kg                                                                                    |
-| **Recovery**     | Success (Ocean Landing)                                                                   |
-| **Mission Link** | [Four Of A Kind](https://www.rocketlabusa.com/missions/missions-launched/four-of-a-kind/) |
-| **Press Kit**    | [[F43-Four-Of-A-Kind-Press-Kit-updated.pdf]]                                              |
+| **Mission Name** | Four Of A Kind                                                                                     |
+| ---------------- | -------------------------------------------------------------------------------------------------- |
+| **Launch Date**  | 2024-01-31 06:34                                                                                   |
+| **Outcome**      | ✅ Success                                                                                          |
+| **Customer**     | [[Spire Global]], [[NorthStar Earth & Space]]                                                      |
+| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                  |
+| **Vehicle**      | [[Electron]]                                                                                       |
+| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                  |
+| **Target Orbit** | 530 km &#124; 97°                                                                                  |
+| **Payload Mass** | 112 kg                                                                                             |
+| **Recovery**     | Success (Ocean Landing)                                                                            |
+| **Mission Link** | [Four Of A Kind](https://www.rocketlabusa.com/missions/missions-launched/four-of-a-kind/)          |
+| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/F43-Four-Of-A-Kind-Press-Kit-updated.pdf) |
 
 
 ![[Pasted image 20250406141919.png|300]]
@@ -60,12 +60,16 @@ The mission also included the successful splashdown and recovery of Electron's f
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[043 'Four Of A Kind']])
+where contains(mission, [[043 - Four Of A Kind]])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                                                                                             | Published        |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[News/Rocket Lab Returns Previously Flown Electron to Production Line in Preparation for First Reflight.md\|Rocket Lab Returns Previously Flown Electron to Production Line in Preparation for First Reflight]] | April 11, 2024   |
+| [[News/Rocket Lab Successfully Launches First Electron Mission of Busy 2024 Launch Schedule.md\|Rocket Lab Successfully Launches First Electron Mission of Busy 2024 Launch Schedule]]                           | January 31, 2024 |
+| [[News/Rocket Lab to Launch Space Situational Awareness Mission for Spire and NorthStar.md\|Rocket Lab to Launch Space Situational Awareness Mission for Spire and NorthStar]]                                   | January 08, 2024 |
+| [[News/Rocket Lab to Launch Space Object Monitoring Mission For Spire Global & NorthStar.md\|Rocket Lab to Launch Space Object Monitoring Mission For Spire Global & NorthStar]]                                 | June 22, 2023    |
 
 %%DATAVIEW_PUBLISHER: end %%

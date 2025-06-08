@@ -64,12 +64,16 @@ x1 [[iQPS#🛰️ Space Systems#QPS-SAR|QPS-SAR]] Satellite for [[iQPS]] ![[iQPS
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[042 'The Moon God Awakens']])
+where contains(mission, [[042 - The Moon God Awakens]])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                                                           | Published         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
+| [[News/Rocket Lab Reaches New Annual Launch Record with 10th Electron Mission This Year.md\|Rocket Lab Reaches New Annual Launch Record with 10th Electron Mission This Year]] | December 15, 2023 |
+| [[News/Rocket Lab Prepares to Launch iQPS Mission.md\|Rocket Lab Prepares to Launch iQPS Mission]]                                                                             | December 14, 2023 |
+| [[News/Rocket Lab Sets Next Electron Launch Window, Provides Update on Anomaly Review.md\|Rocket Lab Sets Next Electron Launch Window, Provides Update on Anomaly Review]]     | November 08, 2023 |
+| [[News/Rocket Lab Inks Dedicated Launch Deal with Japanese Earth Imaging Company iQPS.md\|Rocket Lab Inks Dedicated Launch Deal with Japanese Earth Imaging Company iQPS]]     | August 17, 2023   |
 
 %%DATAVIEW_PUBLISHER: end %%

@@ -29,19 +29,19 @@ Across these five launches in total, Rocket Lab deployed Kinéis’ complete con
 
 #electron #launch
 
-| **Mission Name** | High Five                                                                      |
-| ---------------- | ------------------------------------------------------------------------------ |
-| **Launch Date**  | 2025-03-18 01:31 UTC                                                           |
-| **Outcome**      | ✅ Success                                                                      |
-| **Customer**     | [[Kinéis]]                                                                     |
-| **Location**     | [[Launch Complex 1#Launch Pad A]]                                              |
-| **Vehicle**      | [[Electron]]                                                                   |
-| **Orbit Type**   | [[🌍 Orbits#SSO]]                                                              |
-| **Target Orbit** | 643 km &#124; 97°                                                              |
-| **Payload Mass** | 150 kg                                                                         |
-| **Recovery**     | No Attempt                                                                     |
-| **Mission Link** | [High Five](https://www.rocketlabusa.com/missions/missions-launched/high-five) |
-| **Press Kit**    | [[Kineis-High-Five-Press-Kit.pdf]]                                             |
+| **Mission Name** | High Five                                                                                |
+| ---------------- | ---------------------------------------------------------------------------------------- |
+| **Launch Date**  | 2025-03-18 01:31 UTC                                                                     |
+| **Outcome**      | ✅ Success                                                                                |
+| **Customer**     | [[Kinéis]]                                                                               |
+| **Location**     | [[Launch Complex 1#Launch Pad A]]                                                        |
+| **Vehicle**      | [[Electron]]                                                                             |
+| **Orbit Type**   | [[🌍 Orbits#SSO]]                                                                        |
+| **Target Orbit** | 643 km &#124; 97°                                                                        |
+| **Payload Mass** | 150 kg                                                                                   |
+| **Recovery**     | No Attempt                                                                               |
+| **Mission Link** | [High Five](https://www.rocketlabusa.com/missions/missions-launched/high-five)           |
+| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Kineis-High-Five-Press-Kit.pdf) |
 
 
 ![[Pasted image 20250315172622.png|300]]
@@ -64,12 +64,14 @@ x5 [[Kinéis#🛰️ Space Systems#Kinéis IoT|Kinéis IoT Satellites]]  ![[Kin�
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[062 'High Five']])
+where contains(mission, [[062 - High Five]])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                                                                                                                                         | Published      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------- |
+| [[News/Successful Rocket Lab Launch Completes Deployment of Full Kinéis Constellation in Less Than a Year.md\|Successful Rocket Lab Launch Completes Deployment of Full Kinéis Constellation in Less Than a Year]]                                           | March 18, 2025 |
+| [[News/Rocket Lab Schedules Two Launches Three Days Apart, Upcoming Mission to Deploy Final Satellites in Kinéis Constellation.md\|Rocket Lab Schedules Two Launches Three Days Apart, Upcoming Mission to Deploy Final Satellites in Kinéis Constellation]] | March 10, 2025 |
 
 %%DATAVIEW_PUBLISHER: end %%

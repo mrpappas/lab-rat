@@ -40,7 +40,7 @@ The mission was the first of five dedicated Electron launches for [[Kinéis]], a
 | **Payload Mass** | 150 kg                                                                                        |
 | **Recovery**     | No Attempt                                                                                    |
 | **Mission Link** | [No Time Toulouse](https://www.rocketlabusa.com/missions/missions-launched/no-time-toulouse/) |
-| **Press Kit**    | [[No-Time-Toulouse-Press-Kit.pdf]]                                                            |
+| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/No-Time-Toulouse-Press-Kit.pdf)      |
 
 
 ![[Pasted image 20250406142505.png|300]]
@@ -64,12 +64,14 @@ x5 [[Kinéis#🛰️ Space Systems#Kinéis IoT| Kinéis IoT]] Satellites ![[Kin�
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[050 'No Time Toulouse']])
+where contains(mission, [[050 - No Time Toulouse]])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                                                                                                   | Published     |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| [[News/Rocket Lab Successfully Launches 50th Electron Mission, Deploys Satellites for Kinéis.md\|Rocket Lab Successfully Launches 50th Electron Mission, Deploys Satellites for Kinéis]]                               | June 21, 2024 |
+| [[News/Rocket Lab Sets Launch Date for 50th Electron Mission, Prepares to Deploy Five Satellites for Kinéis.md\|Rocket Lab Sets Launch Date for 50th Electron Mission, Prepares to Deploy Five Satellites for Kinéis]] | June 07, 2024 |
 
 %%DATAVIEW_PUBLISHER: end %%

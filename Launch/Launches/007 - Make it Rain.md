@@ -57,12 +57,15 @@ The mission was named ‘Make it Rain’ in a nod to the high volume of rainfall
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[007 'Make it Rain']])
+where contains(mission, [[007 - Make it Rain]])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                                                                                   | Published     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------- |
+| [[News/Rocket Lab successfully launches seventh Electron mission, deploys seven satellites to orbit.md\|Rocket Lab successfully launches seventh Electron mission, deploys seven satellites to orbit]] | June 29, 2019 |
+| [[News/Rocket Lab to launch rideshare mission for Spaceflight.md\|Rocket Lab to launch rideshare mission for Spaceflight]]                                                                             | May 10, 2019  |
+| [[News/Rocket Lab Signs Launch Contract with Spaceflight   Rocket Lab.md\|Rocket Lab Signs Launch Contract with Spaceflight   Rocket Lab]]                                                             | May 18, 2017  |
 
 %%DATAVIEW_PUBLISHER: end %%

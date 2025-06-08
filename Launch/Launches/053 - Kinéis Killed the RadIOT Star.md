@@ -44,7 +44,7 @@ Rocket Lab launched the “Kinéis Killed the RadIOT Star” mission from Rocket
 | **Payload Mass** | 150 kg                                                                                                                  |
 | **Recovery**     | No Attempt                                                                                                              |
 | **Mission Link** | [Kinéis Killed the RadIOT Star](https://www.rocketlabusa.com/missions/missions-launched/kineis-killed-the-radiot-star/) |
-| **Press Kit**    | [[RL-F53-Kineis-Killed-the-RadIOT-Star-Press-Kit.pdf]]                                                                  |
+| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/RL-F53-Kineis-Killed-the-RadIOT-Star-Press-Kit.pdf)            |
 
 ![[Pasted image 20250406150823.png|300]]
 
@@ -68,12 +68,14 @@ x5 [[Kinéis#🛰️ Space Systems#Kinéis IoT|Kinéis IoT]] Satellites ![[Kiné
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[053 'Kineis Killed the RadIOT Star']])
+where contains(mission, [[053 - Kinéis Killed the RadIOT Star]])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                                                                                               | Published          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
+| [[News/Rocket Lab Successfully Launches 53rd Electron Mission, Deploys Another Five Satellites for Kinéis.md\|Rocket Lab Successfully Launches 53rd Electron Mission, Deploys Another Five Satellites for Kinéis]] | September 21, 2024 |
+| [[News/Rocket Lab Sets Launch Date for Second Dedicated Kinéis Mission to Deploy IoT Constellation.md\|Rocket Lab Sets Launch Date for Second Dedicated Kinéis Mission to Deploy IoT Constellation]]               | September 03, 2024 |
 
 %%DATAVIEW_PUBLISHER: end %%

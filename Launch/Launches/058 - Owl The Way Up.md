@@ -40,7 +40,7 @@ The “Owl The Way Up” mission launched from Rocket Lab [[Launch Complex 1]] i
 | **Payload Mass** | 100 kg                                                                                    |
 | **Recovery**     | No Attempt                                                                                |
 | **Mission Link** | [Owl The Way Up](https://www.rocketlabusa.com/missions/missions-launched/owl-the-way-up/) |
-| **Press Kit**    | [[Owl-The-Way-Up-Press-Kit (1).pdf]]                                                      |
+| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Owl-The-Way-Up-Press-Kit.pdf)    |
 
 
 ![[Pasted image 20250406151827.png|300]]
@@ -63,12 +63,14 @@ x1 [[Synspective#🛰️ Space Systems#StriX|StriX Series Satellites]] ![[Synspe
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[058 'Owl The Way Up']])
+where contains(mission, [[058 - Owl The Way Up]])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                                                                                                               | Published         |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[News/Rocket Lab Successfully Deploys Satellite for Synspective, Caps Off Year with 60% Increase in Launches YoY.md\|Rocket Lab Successfully Deploys Satellite for Synspective, Caps Off Year with 60% Increase in Launches YoY]] | December 22, 2024 |
+| [[News/Rocket Lab Sets Launch Window to Deploy Synspective Satellites.md\|Rocket Lab Sets Launch Window to Deploy Synspective Satellites]]                                                                                         | December 05, 2024 |
 
 %%DATAVIEW_PUBLISHER: end %%

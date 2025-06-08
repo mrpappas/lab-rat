@@ -35,19 +35,19 @@ Synspective is a satellite data solutions provider with its own constellation of
 
 #electron #launch #success
 
-| **Mission Name** | Owl Night Long                                                                            |
-| ---------------- | ----------------------------------------------------------------------------------------- |
-| **Launch Date**  | 2024-03-12 14:00                                                                          |
-| **Outcome**      | ✅ Success                                                                                 |
-| **Customer**     | [[Synspective]]                                                                           |
-| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                         |
-| **Vehicle**      | [[Electron]]                                                                              |
-| **Orbit Type**   | [[🌍 Orbits#SSO]]                                                                         |
-| **Target Orbit** | 561 km &#124; 97°                                                                         |
-| **Payload Mass** | 100 kg                                                                                    |
-| **Recovery**     | No Attempt                                                                                |
-| **Mission Link** | [Owl Night Long](https://www.rocketlabusa.com/missions/missions-launched/owl-night-long/) |
-| **Press Kit**    | [[RL-Synspective-Owl-Night-Long-Press-Kit-v2.pdf]]                                        |
+| **Mission Name** | Owl Night Long                                                                                           |
+| ---------------- | -------------------------------------------------------------------------------------------------------- |
+| **Launch Date**  | 2024-03-12 14:00                                                                                         |
+| **Outcome**      | ✅ Success                                                                                                |
+| **Customer**     | [[Synspective]]                                                                                          |
+| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                        |
+| **Vehicle**      | [[Electron]]                                                                                             |
+| **Orbit Type**   | [[🌍 Orbits#SSO]]                                                                                        |
+| **Target Orbit** | 561 km &#124; 97°                                                                                        |
+| **Payload Mass** | 100 kg                                                                                                   |
+| **Recovery**     | No Attempt                                                                                               |
+| **Mission Link** | [Owl Night Long](https://www.rocketlabusa.com/missions/missions-launched/owl-night-long/)                |
+| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/RL-Synspective-Owl-Night-Long-Press-Kit-v2.pdf) |
 
 
 ![[Pasted image 20250406142049.png|300]]
@@ -66,12 +66,15 @@ x1 [[Synspective#🛰️ Space Systems#StriX|StriX Series Satellites]] ![[Synspe
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[045 'Owl Night Long']])
+where contains(mission, [[045 - Owl Night Long]])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                                                                                                                   | Published         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[News/Rocket Lab Successfully Launches 45th Electron Mission, 4th for Longtime Partner Synspective.md\|Rocket Lab Successfully Launches 45th Electron Mission, 4th for Longtime Partner Synspective]]                                 | March 13, 2024    |
+| [[News/Rocket Lab Schedules Launch Date for 45th Electron Mission to Deploy Earth-Imaging Satellite for Synspective.md\|Rocket Lab Schedules Launch Date for 45th Electron Mission to Deploy Earth-Imaging Satellite for Synspective]] | February 20, 2024 |
+| [[News/Rocket Lab to Launch Three Dedicated Electron Missions for Earth Imaging Company Synspective.md\|Rocket Lab to Launch Three Dedicated Electron Missions for Earth Imaging Company Synspective]]                                 | December 07, 2021 |
 
 %%DATAVIEW_PUBLISHER: end %%

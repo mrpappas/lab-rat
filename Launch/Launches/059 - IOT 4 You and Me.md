@@ -51,7 +51,7 @@ Kinéis' satellite-based AIS (S-AIS) is a high-performance system (requiring no 
 | **Payload Mass** | 150 kg                                                                                        |
 | **Recovery**     | No Attempt                                                                                    |
 | **Mission Link** | [IOT 4 You and Me](https://www.rocketlabusa.com/missions/missions-launched/iot-4-you-and-me/) |
-| **Press Kit**    | [[IOT-4-You-and-Me-Press-Kit.pdf]]                                                            |
+| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/IOT-4-You-and-Me-Press-Kit.pdf)      |
 
 
 ![[Pasted image 20250406151910.png|300]]
@@ -71,12 +71,14 @@ x5 [[Kinéis#🛰️ Space Systems#Kinéis IoT|Kinéis IoT]] Satellites ![[Kiné
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[059 'IOT 4 You and Me']])
+where contains(mission, [[059 - IOT 4 You and Me]])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                                                 | Published         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[News/Rocket Lab Launches Next Batch of Satellites for Kinéis Constellation.md\|Rocket Lab Launches Next Batch of Satellites for Kinéis Constellation]]             | February 08, 2025 |
+| [[News/Rocket Lab Schedules Next Electron Launch for Constellation Operator Kinéis.md\|Rocket Lab Schedules Next Electron Launch for Constellation Operator Kinéis]] | January 21, 2025  |
 
 %%DATAVIEW_PUBLISHER: end %%

@@ -58,12 +58,21 @@ Still Testing carried a Dove Pioneer Earth-imaging satellite for [[Planet Labs]]
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[002 'Still Testing']])
+where contains(mission, [[002 - Still Testing]])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                                         | Published         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
+| [[News/Rocket Lab successfully circularizes orbit with new Electron kick stage.md\|Rocket Lab successfully circularizes orbit with new Electron kick stage]] | January 23, 2018  |
+| [[News/Rocket Lab successfully reaches orbit and deploys payloads.md\|Rocket Lab successfully reaches orbit and deploys payloads]]                           | January 21, 2018  |
+| [[News/Rocket Lab to open ‘Still Testing’ launch window on January 20.md\|Rocket Lab to open ‘Still Testing’ launch window on January 20]]                   | January 12, 2018  |
+| [[News/Rocket Lab delays ‘Still Testing’ launch attempt.md\|Rocket Lab delays ‘Still Testing’ launch attempt]]                                               | December 16, 2017 |
+| [[News/Rocket Lab completes analysis of Still Testing launch abort.md\|Rocket Lab completes analysis of Still Testing launch abort]]                         | December 13, 2017 |
+| [[News/Still Testing launch window begins.md\|Still Testing launch window begins]]                                                                           | December 11, 2017 |
+| [[News/'Still Testing' Press Kit.md\|'Still Testing' Press Kit]]                                                                                             | November 30, 2017 |
+| [[News/Rocket Lab Still Testing launch window announced.md\|Rocket Lab Still Testing launch window announced]]                                               | November 30, 2017 |
+| [[News/Rocket Lab to fly Planet and Spire satellites on second test flight.md\|Rocket Lab to fly Planet and Spire satellites on second test flight]]         | November 22, 2017 |
 
 %%DATAVIEW_PUBLISHER: end %%

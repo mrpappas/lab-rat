@@ -57,12 +57,15 @@ This dedicated mission for General Atomics launched the GAzelle satellite carryi
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[031 'It Argos Up From Here']])
+where contains(mission, [[031 - It Argos Up From Here]])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                                                                                                                                             | Published          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[News/Rocket Lab Successfully Launches 31st Electron Rocket, Breaks Annual Launch Record.md\|Rocket Lab Successfully Launches 31st Electron Rocket, Breaks Annual Launch Record]]                                                                               | October 07, 2022   |
+| [[News/Rocket Lab to Launch 31st Mission, Deploying Environmental Monitoring Satellite for General Atomics.md\|Rocket Lab to Launch 31st Mission, Deploying Environmental Monitoring Satellite for General Atomics]]                                             | October 04, 2022   |
+| [[News/Rocket Lab to Launch NOAA-Supported Argos-4 Spacecraft for General Atomics to Support Environmental Monitoring from Space.md\|Rocket Lab to Launch NOAA-Supported Argos-4 Spacecraft for General Atomics to Support Environmental Monitoring from Space]] | September 19, 2022 |
 
 %%DATAVIEW_PUBLISHER: end %%

@@ -41,7 +41,7 @@ The “Owl for One, One for Owl” mission was our 5th launch for [[Synspective]
 | **Payload Mass** | 100 kg                                                                                                       |
 | **Recovery**     | No Attempt                                                                                                   |
 | **Mission Link** | [Owl For One, One For Owl](https://www.rocketlabusa.com/missions/missions-launched/owl-for-one-one-for-owl/) |
-| **Press Kit**    | [[FINAL-F51-Synspective-press-kit.pdf]]                                                                      |
+| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/FINAL-F51-Synspective-press-kit.pdf)                |
 
 
 ![[Pasted image 20250406144144.png|300]]
@@ -62,12 +62,14 @@ x1 [[Synspective#🛰️ Space Systems#StriX|StriX Series Satellites]] ![[Synspe
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[051 'Owl For One, One For Owl']])
+where contains(mission, [[051 - Owl For One, One For Owl]])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                                                                                                                                                                   | Published       |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
+| [[News/Rocket Lab Successfully Completes Latest Launch for Synspective.md\|Rocket Lab Successfully Completes Latest Launch for Synspective]]                                                                                                                                           | August 03, 2024 |
+| [[News/Rocket Lab Sets Launch Date for 51st Electron Mission, Prepares to Deploy Latest Satellites in Multi-Launch Contract for Synspective.md\|Rocket Lab Sets Launch Date for 51st Electron Mission, Prepares to Deploy Latest Satellites in Multi-Launch Contract for Synspective]] | July 24, 2024   |
 
 %%DATAVIEW_PUBLISHER: end %%

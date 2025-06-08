@@ -40,7 +40,7 @@ The ‘Live And Let Fly’ launch service was acquired using NRO’s Rapid Acqui
 | **Payload Mass** | Classified                                                                                    |
 | **Recovery**     | No Attempt                                                                                    |
 | **Mission Link** | [Live And Let Fly](https://www.rocketlabusa.com/missions/missions-launched/live-and-let-fly/) |
-| **Press Kit**    | [[Live-Let-Fly-Press-Kit.pdf]]                                                                |
+| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Live-Let-Fly-Press-Kit.pdf)          |
 
 ![[Pasted image 20250406142138.png|300]]
 
@@ -56,12 +56,14 @@ The ‘Live And Let Fly’ launch service was acquired using NRO’s Rapid Acqui
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[046 'Live And Let Fly']])
+where contains(mission, [[046 - Live And Let Fly]])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                                           | Published         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[News/Rocket Lab Successfully Launches Fifth National Security Mission for NRO.md\|Rocket Lab Successfully Launches Fifth National Security Mission for NRO]] | March 21, 2024    |
+| [[News/Rocket Lab to Launch NRO Mission from Wallops, Virginia   Rocket Lab.md\|Rocket Lab to Launch NRO Mission from Wallops, Virginia   Rocket Lab]]         | February 21, 2024 |
 
 %%DATAVIEW_PUBLISHER: end %%

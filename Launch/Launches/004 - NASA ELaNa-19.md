@@ -92,12 +92,18 @@ Cubesats Deployed:
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[004 'NASA ELaNa-19']])
+where contains(mission, [[004 - NASA ELaNa-19]])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                                                                                                                 | Published         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
+| [[News/Rocket Lab successfully launches NASA CubeSats to orbit on first ever Venture Class Launch Services mission.md\|Rocket Lab successfully launches NASA CubeSats to orbit on first ever Venture Class Launch Services mission]] | December 16, 2018 |
+| [[News/Rocket Lab prepares to launch historic CubeSat mission for NASA.md\|Rocket Lab prepares to launch historic CubeSat mission for NASA]]                                                                                         | December 04, 2018 |
+| [[News/Rocket Lab enters high frequency launch operations.md\|Rocket Lab enters high frequency launch operations]]                                                                                                                   | October 30, 2018  |
+| [[News/Rocket Lab to launch It’s Business Time and ELaNa XIX missions weeks apart.md\|Rocket Lab to launch It’s Business Time and ELaNa XIX missions weeks apart]]                                                                   | August 06, 2018   |
+| [[News/Rocket Lab integrates payloads for first ever NASA Venture Class Launch Services Mission.md\|Rocket Lab integrates payloads for first ever NASA Venture Class Launch Services Mission]]                                       | April 25, 2018    |
+| [[News/Rocket Lab completes fit check for NASA VCLS ELaNa XIX mission.md\|Rocket Lab completes fit check for NASA VCLS ELaNa XIX mission]]                                                                                           | February 09, 2018 |
 
 %%DATAVIEW_PUBLISHER: end %%

@@ -57,12 +57,14 @@ The 150kg R3D2 satellite lifted off on an Electron rocket from Launch Complex 1 
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[005 'DARPA R3D2']])
+where contains(mission, [[005 - DARPA R3D2]])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                             | Published        |
+| -------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[News/Rocket Lab successfully launches R3D2 satellite for DARPA.md\|Rocket Lab successfully launches R3D2 satellite for DARPA]] | March 28, 2019   |
+| [[News/Rocket Lab to launch dedicated Electron mission for DARPA.md\|Rocket Lab to launch dedicated Electron mission for DARPA]] | January 22, 2019 |
 
 %%DATAVIEW_PUBLISHER: end %%

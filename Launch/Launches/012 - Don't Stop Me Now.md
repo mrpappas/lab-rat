@@ -64,12 +64,13 @@ The mission has been named ‘Don’t Stop Me Now’ in recognition of Rocket La
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[012 'Don't Stop Me Now']])
+where contains(mission, [[012 - Don't Stop Me Now]])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                                                                                               | Published      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------- |
+| [[News/Rocket Lab’s Next Mission to Launch Satellites for NASA, NRO and the University of New South Wales.md\|Rocket Lab’s Next Mission to Launch Satellites for NASA, NRO and the University of New South Wales]] | March 09, 2020 |
 
 %%DATAVIEW_PUBLISHER: end %%

@@ -41,7 +41,7 @@ The ‘PREFIRE and Ice’ launch launched on June 5th, 2024 from [[Launch Comple
 | **Payload Mass** | 15 kg                                                                                       |
 | **Recovery**     | No Attempt                                                                                  |
 | **Mission Link** | [PREFIRE and ICE](https://www.rocketlabusa.com/missions/missions-launched/prefire-and-ice/) |
-| **Press Kit**    | [[RL-F49-PREFIRE-Ice.pdf]]                                                                  |
+| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/RL-F49-PREFIRE-Ice.pdf)            |
 
 ![[Pasted image 20250406142403.png|300]]
 
@@ -57,12 +57,15 @@ The ‘PREFIRE and Ice’ launch launched on June 5th, 2024 from [[Launch Comple
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[049 'PREFIRE and ICE']])
+where contains(mission, [[049 - PREFIRE and ICE]])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                                                                           | Published       |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
+| [[News/Rocket Lab Successfully Completes Second Launch for NASA Climate Science Mission.md\|Rocket Lab Successfully Completes Second Launch for NASA Climate Science Mission]]                 | June 05, 2024   |
+| [[News/Rocket Lab Prepares Back-To-Back Launches For Climate Change Research Mission For NASA.md\|Rocket Lab Prepares Back-To-Back Launches For Climate Change Research Mission For NASA]]     | April 29, 2024  |
+| [[News/Rocket Lab to Launch Climate Change Research Mission Focused on Arctic Ice Caps for NASA.md\|Rocket Lab to Launch Climate Change Research Mission Focused on Arctic Ice Caps for NASA]] | August 14, 2023 |
 
 %%DATAVIEW_PUBLISHER: end %%

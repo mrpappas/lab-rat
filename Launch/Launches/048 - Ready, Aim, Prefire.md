@@ -20,7 +20,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/ready-aim-
 >[!Success] Mission Success
 
 >[!summary]
-Ready, Aim, PREFIRE was the first of two back-to-back Electron launches to deploy NASA’s PREFIRE (Polar Radiant Energy in the Far-InfraRed Experiment) mission.
+Ready, Aim, PREFIRE was the first of two back-to-back Electron launches to deploy NASA’s [PREFIRE](https://prefire.ssec.wisc.edu/) (Polar Radiant Energy in the Far-InfraRed Experiment) mission.
 >
 The two dedicated missions will each deploy one satellite to a 525km circular orbit from Rocket Lab Launch Complex 1 in Mahia, New Zealand. The first mission – named ‘Ready, Aim, PREFIRE’ – successfully launches on May 25, 2024. The launch date of the second mission – named ‘PREFIRE And Ice’ – will be scheduled to take place within three weeks of the successful deployment of the first PREFIRE mission.
 >
@@ -44,7 +44,7 @@ The missions will be Rocket Lab’s 48th and 49th Electron launches overall and 
 | **Payload Mass** | 15 kg                                                                                             |
 | **Recovery**     | No Attempt                                                                                        |
 | **Mission Link** | [Ready, Aim, PREFIRE](https://www.rocketlabusa.com/missions/missions-launched/ready-aim-prefire/) |
-| **Press Kit**    | [[FINAL-PREFIRE-presskit-Web.pdf]]                                                                |
+| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/FINAL-PREFIRE-presskit-Web.pdf)          |
 
 ![[Pasted image 20250406142303.png|300]]
 
@@ -59,12 +59,14 @@ The missions will be Rocket Lab’s 48th and 49th Electron launches overall and 
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[048 'Ready, Aim, Prefire']])
+where contains(mission, [[048 - Ready, Aim, Prefire]])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                                                                           | Published       |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
+| [[News/Rocket Lab Prepares Back-To-Back Launches For Climate Change Research Mission For NASA.md\|Rocket Lab Prepares Back-To-Back Launches For Climate Change Research Mission For NASA]]     | April 29, 2024  |
+| [[News/Rocket Lab to Launch Climate Change Research Mission Focused on Arctic Ice Caps for NASA.md\|Rocket Lab to Launch Climate Change Research Mission Focused on Arctic Ice Caps for NASA]] | August 14, 2023 |
 
 %%DATAVIEW_PUBLISHER: end %%

@@ -56,12 +56,20 @@ The payloads were launched to a 210km x 500km circular orbit at 85 degrees, befo
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[003 'It's Business Time']])
+where contains(mission, [[003 - It's Business Time]])
 sort published desc
 ```
 %%
 
-| File | Published |
-| ---- | --------- |
+| File                                                                                                                                                                               | Published         |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[News/Rocket Lab reaches orbit again, deploys more satellites.md\|Rocket Lab reaches orbit again, deploys more satellites]]                                                       | November 11, 2018 |
+| [[News/Rocket Lab enters high frequency launch operations.md\|Rocket Lab enters high frequency launch operations]]                                                                 | October 30, 2018  |
+| [[News/Fleet Space Technologies joins Rocket Lab manifest for  It’s Business Time mission.md\|Fleet Space Technologies joins Rocket Lab manifest for  It’s Business Time mission]] | October 29, 2018  |
+| [[News/Rocket Lab to launch It’s Business Time and ELaNa XIX missions weeks apart.md\|Rocket Lab to launch It’s Business Time and ELaNa XIX missions weeks apart]]                 | August 06, 2018   |
+| [[News/Rocket Lab confirms new ‘It’s Business Time’ launch window and bolsters manifest.md\|Rocket Lab confirms new ‘It’s Business Time’ launch window and bolsters manifest]]     | May 25, 2018      |
+| [[News/Rocket Lab moves ‘It’s Business Time’ launch window.md\|Rocket Lab moves ‘It’s Business Time’ launch window]]                                                               | April 17, 2018    |
+| [[News/Rocket Lab 'Its Business Time' launch window to open 20 April 2018 NZT.md\|Rocket Lab 'Its Business Time' launch window to open 20 April 2018 NZT]]                         | April 03, 2018    |
+| [[News/It's Business Time at Rocket Lab.md\|It's Business Time at Rocket Lab]]                                                                                                     | March 13, 2018    |
 
 %%DATAVIEW_PUBLISHER: end %%

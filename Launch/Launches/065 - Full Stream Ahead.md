@@ -14,7 +14,7 @@ recovery: No Attempt
 mission_link: https://rocketlabcorp.com/missions/missions-launched/full-stream-ahead-2/
 ---
 
->[!success]  Mission Successful
+>[!success]  Mission Success
 
 >[!summary]
 “Full Stream Ahead”, will launch from Rocket Lab Launch Complex 1 in New Zealand during a launch window that opens on May 28th, 2025 UTC.
@@ -27,19 +27,19 @@ The mission will launch the next of BlackSky’s Gen-3 satellites to a mid-incli
 >
 
 
-| **Mission Name** | The Sea God Sees                                                             |
-| ---------------- | ---------------------------------------------------------------------------- |
-| **Launch Date**  | 2025-06-03 23:57 UTC                                                         |
-| **Outcome**      | ✅ Success                                                                    |
-| **Customer**     | [[BlackSky]]                                                                 |
-| **Location**     | [[Launch Complex 1#Launch Pad B]]                                            |
-| **Vehicle**      | [[Electron]]                                                                 |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                            |
-| **Target Orbit** | 470km \| 59°                                                                 |
-| **Payload Mass** | 138 kg                                                                       |
-| **Recovery**     | No Attempt                                                                   |
-| **Mission Link** | https://rocketlabcorp.com/missions/missions-launched/full-stream-ahead-2/    |
-| **Press Kit**    | [[RL-F65-BlackSky-Full-Stream-Ahead-Presskit-compressed.pdf\|Press Kit PDF]] |
+| **Mission Name** | The Sea God Sees                                                                                                    |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------- |
+| **Launch Date**  | 2025-06-03 23:57 UTC                                                                                                |
+| **Outcome**      | ✅ Success                                                                                                           |
+| **Customer**     | [[BlackSky]]                                                                                                        |
+| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                                   |
+| **Vehicle**      | [[Electron]]                                                                                                        |
+| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                                   |
+| **Target Orbit** | 470km \| 59°                                                                                                        |
+| **Payload Mass** | 138 kg                                                                                                              |
+| **Recovery**     | No Attempt                                                                                                          |
+| **Mission Link** | https://rocketlabcorp.com/missions/missions-launched/full-stream-ahead-2/                                           |
+| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/RL-F65-BlackSky-Full-Stream-Ahead-Presskit-compressed.pdf) |
 
 
 ![[Pasted image 20250522210921.png|300]]
