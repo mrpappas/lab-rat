@@ -39,7 +39,7 @@ limit 10
 
 | File                                                                                              | Customer                                                          | Date             | Outcome   |
 | ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ---------------- | --------- |
-| [[Launch/Launches/066 - The Mountain God Guards.md\|066 - The Mountain God Guards]]               | [[Organization/Partners/iQPS.md\|iQPS]]                           | 2025-06-10 15:45 | ⌛ Pending |
+| [[Launch/Launches/066 - The Mountain God Guards.md\|066 - The Mountain God Guards]]               | [[Organization/Partners/iQPS.md\|iQPS]]                           | 2025-06-11 15:15 | ✅ Success |
 | [[Launch/Launches/065 - Full Stream Ahead.md\|065 - Full Stream Ahead]]                           | [[Organization/Partners/BlackSky.md\|BlackSky]]                   | 2025-06-03 23:57 | ✅ Success |
 | [[Launch/Launches/064 - The Sea God Sees.md\|064 - The Sea God Sees]]                             | [[Organization/Partners/iQPS.md\|iQPS]]                           | 2025-05-17 08:17 | ✅ Success |
 | [[Launch/Launches/063 - Finding Hot Wildfires Near You.md\|063 - Finding Hot Wildfires Near You]] | [[Organization/Partners/Orora Technlogies.md\|Orora Technlogies]] | 2025-03-26 15:30 | ✅ Success |

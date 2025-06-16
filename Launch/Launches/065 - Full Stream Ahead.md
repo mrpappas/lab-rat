@@ -38,7 +38,7 @@ The mission will launch the next of BlackSky’s Gen-3 satellites to a mid-incli
 | **Target Orbit** | 470km \| 59°                                                                                                        |
 | **Payload Mass** | 138 kg                                                                                                              |
 | **Recovery**     | No Attempt                                                                                                          |
-| **Mission Link** | https://rocketlabcorp.com/missions/missions-launched/full-stream-ahead-2/                                           |
+| **Mission Link** | [Full Stream Ahead](https://rocketlabcorp.com/missions/missions-launched/full-stream-ahead-2/)                      |
 | **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/RL-F65-BlackSky-Full-Stream-Ahead-Presskit-compressed.pdf) |
 
 
