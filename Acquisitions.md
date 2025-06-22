@@ -1,10 +1,14 @@
+## Pending Acquisitions
 
->[!info] Mynaric
->Rocket Lab recently announced their intentions to acquire [Mynaric](https://mynaric.com/), a laser satcom payload company for $75 million. More information will be added as it's available.
->
->🔗 [[Rocket Lab Announces Intention to Acquire Mynaric, Leading Laser Communications Provider, in Latest Strategic Step Toward Becoming an End-to-End Space Company]]
+| Company     | Date          | Cost                                         |
+| ----------- | ------------- | -------------------------------------------- |
+| [[Mynaric]] | March 11 2025 | $75 million + $75 million performance based  |
+| Geost       | May 27 2025   | $275 million + $50 million performance based |
+🔗 [[Rocket Lab Announces Intention to Acquire Mynaric, Leading Laser Communications Provider, in Latest Strategic Step Toward Becoming an End-to-End Space Company]]
+🔗 [[Rocket Lab Enters Payload Market with Agreement to Acquire Geost, Positioning Itself as Disruptive Prime to U.S. National Security]]
 
-Rocket Lab has made 6 strategic acquisitions, 4 companies and 2 asset purchases:
+## Complete Acquisitions
+Rocket Lab has completed  6 strategic acquisitions, 4 companies and 2 asset purchases:
 
 | **Company**                             | Date            | Cost        |
 | --------------------------------------- | --------------- | ----------- |
@@ -13,6 +17,7 @@ Rocket Lab has made 6 strategic acquisitions, 4 companies and 2 asset purchases:
 | [[SolAero Technologies]]                | December 2021   | $80,000,000 |
 | [[Planetary Systems Corporation (PSC)]] | December 2021   | $42,000,000 |
 
+## Asset Purchases
 ### Virgin Orbit
 
 Rocket Lab purchased many of [[Virgin Orbit]]'s assets after their bankruptcy:

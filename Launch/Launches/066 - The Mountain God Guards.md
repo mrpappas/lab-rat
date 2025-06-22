@@ -1,6 +1,7 @@
 ---
 tags:
- - 
+ - electron
+ - launch
 mission_name: The Mountain God Guards
 launch_date: 2025-06-11 15:15
 outcome: "✅ Success"
@@ -67,6 +68,13 @@ sort published desc
 
 | File                                                                                                                                                                                     | Published     |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| [[News/Rocket Lab Schedules Third Electron Launch In 24 Days To Deploy Next Mission For iQPS.md\|Rocket Lab Schedules Third Electron Launch In 24 Days To Deploy Next Mission For iQPS]] | June 10, 2025 |
+| [[News/Rocket Lab Successfully Launches Second Mission for iQPS in Rapid 25 Day Turnaround.md\|Rocket Lab Successfully Launches Second Mission for iQPS in Rapid 25 Day Turnaround]]     | June 11, 2025 |
+| [[News/Rocket Lab Schedules Third Electron Launch In 24 Days To Deploy Next Mission For iQPS.md\|Rocket Lab Schedules Third Electron Launch In 24 Days To Deploy Next Mission For iQPS]] | June 03, 2025 |
 
 %%DATAVIEW_PUBLISHER: end %%
+
+![](https://x.com/Peter_J_Beck/status/1932831265994256507)
+
+![](https://x.com/RocketLab/status/1931922293334425788)
+
+![](https://x.com/RocketLab/status/1929999165804949521)

@@ -2,7 +2,7 @@
 title: "Rocket Lab Schedules Third Electron Launch In 24 Days To Deploy Next Mission For iQPS"
 source: "https://rocketlabcorp.com/updates/rocket-lab-schedules-third-electron-launch-in-24-days-to-deploy-next-mission-for-iqps/"
 author: "[[Rocket Lab]]"
-published: 2025-06-10
+published: 2025-06-03
 customer: "[[iQPS]]"
 mission: "[[066 - The Mountain God Guards]]"
 tags:

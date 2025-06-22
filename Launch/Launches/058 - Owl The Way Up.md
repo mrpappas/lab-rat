@@ -52,11 +52,9 @@ x1 [[Synspective#🛰️ Space Systems#StriX|StriX Series Satellites]] ![[Synspe
 
 ## 📽️ Launch Video
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/-7VZB4pHJrQ" title="Rocket Lab - &#39;Owl The Way Up&#39; Launch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen tabindex="-1"></iframe>
-</div>
+![](https://www.youtube.com/watch?v=-7VZB4pHJrQ)
 
-![https://x.com/RocketLab/status/1870426311996625165](https://x.com/RocketLab/status/1870426311996625165)
+🔗 Backup Link: https://www.youtube.com/watch?v=-7VZB4pHJrQ
 
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
@@ -74,3 +72,10 @@ sort published desc
 | [[News/Rocket Lab Sets Launch Window to Deploy Synspective Satellites.md\|Rocket Lab Sets Launch Window to Deploy Synspective Satellites]]                                                                                         | December 05, 2024 |
 
 %%DATAVIEW_PUBLISHER: end %%
+
+![](https://x.com/RocketLab/status/1870488181436829698)
+
+![https://x.com/RocketLab/status/1870426311996625165](https://x.com/RocketLab/status/1870426311996625165)
+
+![](https://x.com/RocketLab/status/1864798781751070985)
+

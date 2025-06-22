@@ -37,18 +37,18 @@ limit 10
 ```
 %%
 
-| File                                                                                              | Customer                                                          | Date             | Outcome   |
-| ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ---------------- | --------- |
-| [[Launch/Launches/066 - The Mountain God Guards.md\|066 - The Mountain God Guards]]               | [[Organization/Partners/iQPS.md\|iQPS]]                           | 2025-06-11 15:15 | ✅ Success |
-| [[Launch/Launches/065 - Full Stream Ahead.md\|065 - Full Stream Ahead]]                           | [[Organization/Partners/BlackSky.md\|BlackSky]]                   | 2025-06-03 23:57 | ✅ Success |
-| [[Launch/Launches/064 - The Sea God Sees.md\|064 - The Sea God Sees]]                             | [[Organization/Partners/iQPS.md\|iQPS]]                           | 2025-05-17 08:17 | ✅ Success |
-| [[Launch/Launches/063 - Finding Hot Wildfires Near You.md\|063 - Finding Hot Wildfires Near You]] | [[Organization/Partners/Orora Technlogies.md\|Orora Technlogies]] | 2025-03-26 15:30 | ✅ Success |
-| [[Launch/Launches/062 - High Five.md\|062 - High Five]]                                           | [[Organization/Partners/Kinéis.md\|Kinéis]]                       | 2025-03-18 01:31 | ✅ Success |
-| [[Launch/Launches/061 - The Lightning God Reigns.md\|061 - The Lightning God Reigns]]             | [[Organization/Partners/iQPS.md\|iQPS]]                           | 2025-03-15 00:00 | ✅ Success |
-| [[Launch/Launches/060 - Fasten Your Space Belts.md\|060 - Fasten Your Space Belts]]               | [[Organization/Partners/BlackSky.md\|BlackSky]]                   | 2025-02-19 12:17 | ✅ Success |
-| [[Launch/Launches/059 - IOT 4 You and Me.md\|059 - IOT 4 You and Me]]                             | [[Organization/Partners/Kinéis.md\|Kinéis]]                       | 2025-02-04 20:43 | ✅ Success |
-| [[Launch/Launches/058 - Owl The Way Up.md\|058 - Owl The Way Up]]                                 | [[Organization/Partners/Synspective.md\|Synspective]]             | 2024-12-21 14:16 | ✅ Success |
-| [[Launch/Launches/057 - Stonehenge.md\|057 - Stonehenge]]                                         | Unknown*                                                          | 2024-12-13 00:00 | ✅ Success |
+| File                                                                                              | Customer                                                                                         | Date             | Outcome   |
+| ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ---------------- | --------- |
+| [[Launch/Launches/067 - Symphony In The Stars.md\|067 - Symphony In The Stars]]                   | <ul><li>[[Organization/Partners/EchoStar.md\|EchoStar]]</li><li>Confidential Customer</li></ul> | 2025-06-20 07:15 | ⌛ Pending |
+| [[Launch/Launches/066 - The Mountain God Guards.md\|066 - The Mountain God Guards]]               | [[Organization/Partners/iQPS.md\|iQPS]]                                                          | 2025-06-11 15:15 | ✅ Success |
+| [[Launch/Launches/065 - Full Stream Ahead.md\|065 - Full Stream Ahead]]                           | [[Organization/Partners/BlackSky.md\|BlackSky]]                                                  | 2025-06-03 23:57 | ✅ Success |
+| [[Launch/Launches/064 - The Sea God Sees.md\|064 - The Sea God Sees]]                             | [[Organization/Partners/iQPS.md\|iQPS]]                                                          | 2025-05-17 08:17 | ✅ Success |
+| [[Launch/Launches/063 - Finding Hot Wildfires Near You.md\|063 - Finding Hot Wildfires Near You]] | [[Organization/Partners/Orora Technlogies.md\|Orora Technlogies]]                                | 2025-03-26 15:30 | ✅ Success |
+| [[Launch/Launches/062 - High Five.md\|062 - High Five]]                                           | [[Organization/Partners/Kinéis.md\|Kinéis]]                                                      | 2025-03-18 01:31 | ✅ Success |
+| [[Launch/Launches/061 - The Lightning God Reigns.md\|061 - The Lightning God Reigns]]             | [[Organization/Partners/iQPS.md\|iQPS]]                                                          | 2025-03-15 00:00 | ✅ Success |
+| [[Launch/Launches/060 - Fasten Your Space Belts.md\|060 - Fasten Your Space Belts]]               | [[Organization/Partners/BlackSky.md\|BlackSky]]                                                  | 2025-02-19 12:17 | ✅ Success |
+| [[Launch/Launches/059 - IOT 4 You and Me.md\|059 - IOT 4 You and Me]]                             | [[Organization/Partners/Kinéis.md\|Kinéis]]                                                      | 2025-02-04 20:43 | ✅ Success |
+| [[Launch/Launches/058 - Owl The Way Up.md\|058 - Owl The Way Up]]                                 | [[Organization/Partners/Synspective.md\|Synspective]]                                            | 2024-12-21 14:16 | ✅ Success |
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -94,6 +94,8 @@ limit 10
 
 | File                                                                                                                                                                                                                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[News/Rocket Lab Adds Two New Missions to 2025 Electron Launch Manifest, Schedules First Launch in Four Days’ Time.md\|Rocket Lab Adds Two New Missions to 2025 Electron Launch Manifest, Schedules First Launch in Four Days’ Time]]                                                                             |
+| [[News/Rocket Lab Successfully Launches Second Mission for iQPS in Rapid 25 Day Turnaround.md\|Rocket Lab Successfully Launches Second Mission for iQPS in Rapid 25 Day Turnaround]]                                                                                                                               |
 | [[News/Rocket Lab Schedules Third Electron Launch In 24 Days To Deploy Next Mission For iQPS.md\|Rocket Lab Schedules Third Electron Launch In 24 Days To Deploy Next Mission For iQPS]]                                                                                                                           |
 | [[News/Rocket Lab Successfully Launches 10th Electron Mission for Multi-Launch Customer BlackSky.md\|Rocket Lab Successfully Launches 10th Electron Mission for Multi-Launch Customer BlackSky]]                                                                                                                   |
 | [[News/Rocket Lab Enters Payload Market with Agreement to Acquire Geost, Positioning Itself as Disruptive Prime to U.S. National Security.md\|Rocket Lab Enters Payload Market with Agreement to Acquire Geost, Positioning Itself as Disruptive Prime to U.S. National Security]]                                 |
@@ -102,8 +104,6 @@ limit 10
 | [[News/Rocket Lab to Launch NASA Astrophysics Science Mission on Electron to Study Galaxy Evolution.md\|Rocket Lab to Launch NASA Astrophysics Science Mission on Electron to Study Galaxy Evolution]]                                                                                                             |
 | [[News/Two Earth Return Missions in Two Months Rocket Lab Demonstrates Rapid Re-entry Capability with Third Pioneer Spacecraft for Varda Space Industries.md\|Two Earth Return Missions in Two Months Rocket Lab Demonstrates Rapid Re-entry Capability with Third Pioneer Spacecraft for Varda Space Industries]] |
 | [[News/Rocket Lab Partners With U.S. Air Force for Neutron Launch for Re-Entry Mission.md\|Rocket Lab Partners With U.S. Air Force for Neutron Launch for Re-Entry Mission]]                                                                                                                                       |
-| [[News/Rocket Lab Schedules Next Mission for  Multi-Launch Customer iQPS.md\|Rocket Lab Schedules Next Mission for  Multi-Launch Customer iQPS]]                                                                                                                                                                   |
-| [[News/Rocket Lab Awarded New HASTE Launch Contract for the DOD by Kratos.md\|Rocket Lab Awarded New HASTE Launch Contract for the DOD by Kratos]]                                                                                                                                                                 |
 
 %% DATAVIEW_PUBLISHER: end %%
 

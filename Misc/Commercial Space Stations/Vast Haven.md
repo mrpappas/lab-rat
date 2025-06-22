@@ -1,10 +1,9 @@
->[!summary] Company Profile
+>[!summary] Prime Company Profile
 **Website**: https://www.vastspace.com/
-**Founded**: 2021
 >
-Vast is a privately-held American aerospace company headquartered in Long Beach, California. It was founded in 2021 by entrepreneur [Jed McCaleb](https://www.linkedin.com/in/jed-mccaleb-4052a4/) with the goal of developing artificial gravity space stations to "expand humanity beyond the solar system". Vast plans on launching their [[#Haven-1]] single-module station in 2026 and using the heritage and learnings from that to build out their multi-module [[#Haven-2]] starting in 2028.
+**Vast** is a privately-held American aerospace company founded in 2021 by entrepreneur [Jed McCaleb](https://www.linkedin.com/in/jed-mccaleb-4052a4/) with the goal of developing artificial gravity space stations to "expand humanity beyond the solar system". Vast plans on launching their [[#Haven-1]] single-module station in 2026 and using the heritage and learnings from that to build out their multi-module [[#Haven-2]] starting in 2028. Vast has an unfunded Space Act Agreement with NASA for technical support. [Source](https://spacenews.com/vast-signs-agreement-to-test-haven-1-at-nasa-facility/)
 >
->Vast does not have a funded contract for the Phase 1 portion of the [CLD program](https://www.nasa.gov/humans-in-space/commercial-space/low-earth-orbit-economy/commercial-destinations-in-low-earth-orbit/), where NASA is supporting Axiom Space, Blue Origin and Starlab Space on their space station concepts, but does have an unfunded Space Act Agreement with the agency for technical support. NASA expects to release a draft solicitation for Phase 2 of CLD in the summer 2025 and final version in the fall 2025. Phase 2 will fund certification of commercial space stations for use by NASA and purchases of services from them. [Source](https://spacenews.com/vast-signs-agreement-to-test-haven-1-at-nasa-facility/)
+>[🗺️ Company Road Map]( https://www.vastspace.com/roadmap)
 
 ## Contents
 
@@ -18,9 +17,8 @@ Vast is a privately-held American aerospace company headquartered in Long Beach,
 8. [[#Notes]]
 
 ## Haven Demo
-🔗 https://www.vastspace.com/roadmap
 
-Haven Demo is an in-orbit test bed for critical space station technologies. Haven Demo will test in orbit critical systems such as compute, power, software, guidance and control, propulsion, radios, ground stations, mission control, and more, for Haven-1. Launch is planned for "later in the summer" 2025 on a Falcon 9 rideshare. 
+Haven Demo is an in-orbit testbed for critical space station technologies. Haven Demo will test in orbit critical systems such as compute, power, software, guidance and control, propulsion, radios, ground stations, mission control, and more, for Haven-1. Launch is planned for "later in the summer" 2025 on a Falcon 9 rideshare. 
 ### Specs
 
 **Mass**: 515 kg
@@ -30,12 +28,13 @@ Haven Demo is an in-orbit test bed for critical space station technologies. Have
 
 ![[67db43b3cc67c2ac79aac7d4_Haven-Demo_Concept.avif]]
 ## Haven-1
+
 🔗 https://www.vastspace.com/haven-1
 📽️ [[#Haven-1 Promo]]
 
-Targeted to launch in **May 2026**, Haven-1 is a single-module space station planned for [[🌍 Orbits#LEO|LEO]]. Haven-1 is planned to act as an independent crewed space station serving four two-week long missions, with planned ~9 month uncrewed periods in between each mission. The station will be launched with on-board consumables to last 160 crew days. 
+Targeted to launch in **May 2026**, Haven-1 is a single-module space station planned for [[🌍 Orbits#LEO|LEO]]. Haven-1 is planned to act as an independent crewed space station serving four two-week long missions, with planned 6-9 month uncrewed periods in between each mission. The station will be launched with on-board consumables to last 160 crew days. Haven-1 will be [equipped with Starlink Optical Laser terminals](https://www.vastspace.com/updates/vasts-haven-1-to-be-worlds-first-commercial-space-station-connected-by-spacex-starlink) which will provide high-speed, low latency connectivity to the station. 
 
-The station plans to have logistics on board to facilitate docking with the [SpaceX Dragon](https://www.spacex.com/vehicles/dragon/) spacecraft, with it being able to extend the on-orbit duration of spaceflight missions to up to 30 days. With the addition of the Dragon spacecraft, Haven-1 would be able to sustain 4-crew missions with 24/7 communication facilities, up to 1,000 watts of power, up to 150 kg of preloaded cargo mass, and science, research, and in-space manufacturing opportunities for up to 30 days.
+The station plans to have logistics on board to facilitate docking with the [SpaceX Dragon](https://www.spacex.com/vehicles/dragon/) spacecraft. With the addition of the Dragon spacecraft, Haven-1 would be able to sustain 4-crew missions with 24/7 communication facilities, up to 1,000 watts of power, up to 150 kg of preloaded cargo mass, and science, research, and in-space manufacturing opportunities for up to 30 days.
 
 Haven-1 is set to house a microgravity research facility, called the Haven-1 Lab, serving as the station's microgravity research, development and manufacturing platform. It will have 10 slots, each capable of accommodating payloads weighing up to 30 kilograms and consuming up to 100 watts of power. The first companies to agree to place payloads on Haven-1 have been announced as [Redwire](https://redwirespace.com/) and [Yuri Gravity](https://yurigravity.com/).
 
@@ -74,6 +73,7 @@ Haven-1 has a 3 year planned mission life:
 
 
 ## Haven-2
+
 🔗 https://www.vastspace.com/haven-2
 📽️ [[#Haven-2 Promo]]
 

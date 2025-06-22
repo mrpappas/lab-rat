@@ -49,10 +49,9 @@ Rocket Lab’s launch vehicle showcased a new suite of cutting-edge technologies
 
 🚫 No Official Livestream
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/1dBfpv9TIdw" title="Rocket Lab&#39;s Electron - HASTE A La Vista Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
-</div>
+![](https://www.youtube.com/watch?v=1dBfpv9TIdw)
 
+🔗 Backup Link
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```

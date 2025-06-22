@@ -52,11 +52,9 @@ x5 [[Kinéis#🛰️ Space Systems#Kinéis IoT|Kinéis IoT Satellites]]  ![[Kin�
 
 ## 📽️ Launch Video
 
+![](https://www.youtube.com/watch?v=d-31hJeW1ec)
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/d-31hJeW1ec" title="Rocket Lab - &#39;High Five&#39; Launch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-
+🔗 Backup Link: https://www.youtube.com/watch?v=d-31hJeW1ec
 
 ## 📰 News
 
@@ -75,3 +73,8 @@ sort published desc
 | [[News/Rocket Lab Schedules Two Launches Three Days Apart, Upcoming Mission to Deploy Final Satellites in Kinéis Constellation.md\|Rocket Lab Schedules Two Launches Three Days Apart, Upcoming Mission to Deploy Final Satellites in Kinéis Constellation]] | March 10, 2025 |
 
 %%DATAVIEW_PUBLISHER: end %%
+
+![](https://x.com/RocketLab/status/1901808845485457494)
+
+![](https://x.com/RocketLab/status/1901713067467272463)
+

@@ -53,11 +53,9 @@ x8 [[Orora Technlogies#🛰️ Space Systems#OTC-P1|OTC-P1]] satellites
 
 ## 📽️ Launch Video
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/M-ozUCTeDFE" title="Rocket Lab - &#39;Finding Hot Wildfires Near You&#39; Launch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=M-ozUCTeDFE)
 
-![](https://x.com/RocketLab/status/1904934883723796492)
+🔗 Backup Link: https://www.youtube.com/watch?v=M-ozUCTeDFE
 
 ## 📰 News
 
@@ -77,3 +75,8 @@ sort published desc
 | [[News/Rocket Lab to Launch Global Wildfire Detection and Monitoring Mission for OroraTech.md\|Rocket Lab to Launch Global Wildfire Detection and Monitoring Mission for OroraTech]]                                                                                                               | January 22, 2025 |
 
 %%DATAVIEW_PUBLISHER: end %%
+
+
+![](https://x.com/RocketLab/status/1904934883723796492)
+
+![](https://x.com/RocketLab/status/1902093950393217216)

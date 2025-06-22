@@ -61,10 +61,9 @@ x5 [[Kinéis#🛰️ Space Systems#Kinéis IoT|Kinéis IoT]] Satellites ![[Kiné
 
 ## 📽️ Launch Video
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/7Al5hWmjoxQ" title="Rocket Lab - &#39;IoT 4 U &amp; Me&#39; Launch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=7Al5hWmjoxQ)
 
+🔗 Backup Link: https://www.youtube.com/watch?v=7Al5hWmjoxQ
 
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
@@ -82,3 +81,8 @@ sort published desc
 | [[News/Rocket Lab Schedules Next Electron Launch for Constellation Operator Kinéis.md\|Rocket Lab Schedules Next Electron Launch for Constellation Operator Kinéis]] | January 21, 2025  |
 
 %%DATAVIEW_PUBLISHER: end %%
+
+![](https://x.com/RocketLab/status/1888345890831888713)
+
+![](https://x.com/RocketLab/status/1888328406426935315)
+

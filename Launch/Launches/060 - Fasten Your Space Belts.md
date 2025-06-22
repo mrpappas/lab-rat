@@ -52,9 +52,9 @@ X1 [[BlackSky#🛰️ Space Systems#BlackSky Gen-3|BlackSky Gen-3]] ![[BlackSky#
 
 ## 📽️ Launch Video
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/pv_Zw8UK3H0" title="Rocket Lab - &#39;Fasten Your Space Belts&#39; Launch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=pv_Zw8UK3H0)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=pv_Zw8UK3H0
 
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
@@ -72,3 +72,9 @@ sort published desc
 | [[News/Rocket Lab Schedules Launch for First of Multiple Missions for BlackSky.md\|Rocket Lab Schedules Launch for First of Multiple Missions for BlackSky]]                                         | February 10, 2025 |
 
 %%DATAVIEW_PUBLISHER: end %%
+
+![](https://x.com/RocketLab/status/1891990705662459986)
+
+
+![](https://x.com/RocketLab/status/1891914447582789699)
+

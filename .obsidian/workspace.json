@@ -8,18 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c98bdf138cefa1f1",
+            "id": "cbd33cf0696e5d36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Commercial Space Stations/Voyager Technologies.md",
+                "file": "Organization/Partners/Astro Digital.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Voyager Technologies"
+              "title": "Astro Digital"
+            }
+          },
+          {
+            "id": "76002ef5cec2f8ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organization/Partners/BlackSky.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "BlackSky"
             }
           }
         ]
@@ -54,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "transport layer",
+                "query": "virginia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -79,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 390.5
   },
   "right": {
     "id": "d6554af7f7699467",
@@ -194,49 +209,49 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c98bdf138cefa1f1",
+  "active": "6449ebb6b9cf2b96",
   "lastOpenFiles": [
-    "Misc/Commercial Space Stations/Vast Space.md",
-    "Misc/Commercial Space Stations/Voyager Technologies.md",
-    "Launch/🌍 Orbits.md",
-    "starlab.webp",
-    "Vault-Assets/Images/67db43b3cc67c2ac79aac7d4_Haven-Demo_Concept.avif",
-    "Vault-Assets/Images/Pasted image 20250615192337.png",
-    "Vault-Assets/Images/Pasted image 20250615193711.png",
-    "Vault-Assets/Images/Pasted image 20250614130757.jpg",
-    "Financial/Quarterly Reports/2024 Q3.md",
-    "Financial/Quarterly Reports/2025 Q1.md",
-    "Misc/Mynaric News Archive/Bulent Altan, renowned SpaceX veteran, joins Mynaric’s Management Board.md",
-    "Organization/Partners/NASA.md",
-    "Vault-Assets/Images/Pasted image 20250614134558.png",
-    "Vault-Assets/Images/Pasted image 20250614134322.png",
-    "Vault-Assets/Images/Pasted image 20250614133109.png",
-    "Commercial Space Stations.md",
-    "Misc/Commercial Space Stations",
-    "Launch/Launches/066 - The Mountain God Guards.md",
+    "Vault-Assets/Images/Pasted image 20250621153815.jpg",
+    "Organization/Partners/EchoStar.md",
+    "Organization/Partners/Astro Digital.md",
+    "Organization/Partners/BlackSky.md",
     "News.md",
-    "Launch/Launches/065 - Full Stream Ahead.md",
-    "Organization/Partners/iQPS.md",
+    "News/Rocket Lab Adds Two New Missions to 2025 Electron Launch Manifest, Schedules First Launch in Four Days’ Time.md",
+    "Launch/Launches/067 - Symphony In The Stars.md",
+    "Vault-Assets/Images/Pasted image 20250621182238.png",
+    "Vault-Assets/Images/Pasted image 20250621181747.png",
+    "Vault-Assets/Images/Pasted image 20250621181604.png",
+    "Vault-Assets/Images/Pasted image 20250621181407.png",
+    "Vault-Assets/Images/Pasted image 20250621181301.png",
+    "Vault-Assets/Images/Pasted image 20250621181143.png",
+    "Vault-Assets/Images/Pasted image 20250621181023.png",
+    "Vault-Assets/Images/Pasted image 20250621175609.png",
+    "Vault-Assets/Images/Pasted image 20250621175256.png",
+    "Vault-Assets/Images/Pasted image 20250621164838.png",
+    "Organization/Partners/Synspective.md",
+    "Organization/Partners/E-Space.md",
+    "Organization/Partners/ESA.md",
+    "Launch/Launches/025 - Without Mission A Beat.md",
+    "Launch/Launches/024 - The Owl's Night Continues.md",
+    "Launch/Launches/018 - Another One Leaves the Crust.md",
+    "Launch/Launches/011 - Birds of a Feather.md",
+    "Launch/Launches/007 - Make it Rain.md",
+    "Organization/Partners/DARPA.md",
+    "Organization/Partners/Deer VIII.md",
+    "Launch/Launches/054 - Changes In Latitudes, Changes In Attitudes.md",
+    "Launch/Launches/066 - The Mountain God Guards.md",
     "Launches.md",
-    "Interviews.md",
-    "Insider Sales.md",
+    "Launch/Launches/038 - Scout's Arrow.md",
     "Home.md",
     "Earnings Calls.md",
-    "Subsidiaries.md",
-    "Misc/Mynaric News Archive.md",
-    "To Do List.md",
-    "State Level Constellation Opportunities.md",
-    "GEOST.md",
-    "Board of Directors.md",
-    "Acquisitions.md",
-    "Space Systems/Spacecraft/Flatellite.md",
-    "Space Systems.md",
+    "Financial/Quarterly Reports/2025 Q1.md",
+    "Financial/Quarterly Reports/2022 Q2.md",
+    "Financial/Quarterly Reports/2021 Q2.md",
+    "Misc/Commercial Space Stations",
     "Vault-Assets/PDFs/F66-The-Mountain-God-Guards-Presskit-final-compressed.pdf",
-    "Vault-Assets/Images/Pasted image 20250603181608.png",
     "Vault-Assets/PDFs/RL-F65-BlackSky-Full-Stream-Ahead-Presskit-compressed.pdf",
     "Vault-Assets/PDFs/9d0f89b9-b354-4675-904a-d7c5cef7d79b.pdf",
     "Vault-Assets/PDFs/29661373-7549-4d34-90d1-5f9eac8acb81.pdf",
-    "Vault-Assets/Images/Pasted image 20250522210921.png",
     "Vault-Assets/PDFs/77f92c97-9a88-4758-b21f-16608472f7bd.pdf",
     "Filings/2025/10-Q",
     "Vault-Assets/PDFs/cfb4cc57-bcb1-485b-adcf-7dd9e96f4746.pdf",
