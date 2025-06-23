@@ -25,7 +25,7 @@ sort launch_date desc
 
 | File                                                                            | Date             | Location                                              | Vehicle                          | Orbit & Mass        | Outcome   |
 | ------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | ------------------- | --------- |
-| [[Launch/Launches/067 - Symphony In The Stars.md\|067 - Symphony In The Stars]] | 2025-06-20 07:15 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC-1B]] | [[Launch/Electron.md\|Electron]] | 650 \| 96° \| 74 kg | ⌛ Pending |
+| [[Launch/Launches/067 - Symphony In The Stars.md\|067 - Symphony In The Stars]] | 2025-06-24 07:00 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC-1B]] | [[Launch/Electron.md\|Electron]] | 650 \| 96° \| 74 kg | ⌛ Pending |
 
 %%DATAVIEW_PUBLISHER: end %%
 
@@ -43,7 +43,7 @@ Gunter's Space: https://space.skyrocket.de/doc_sdat/lyra-block1.htm
 | ------------------ | ---------------------------------------------------------------------------------- |
 | Mass               | 74 kg                                                                              |
 | Operational Orbit  | 650 km \| 96°                                                                      |
-| Manufacturer       | [Astro Digital](https://astrodigital.com/)                                         |
+| Manufacturer       | [[Astro Digital]]                                                                  |
 | Satellite Bus      | [[Astro Digital#Corvus-XL\| Corvus-XL]]                                            |
 | Propulsion         | [Spaceware Micro](https://www.exotrail.com/product/spaceware) Hall effect thruster |
 | Constellation Size | 28 (4 Block-1, 24 Block-2)                                                         |
@@ -78,6 +78,31 @@ https://echostarsatelliteservices.com/satellites
 | [EUTELSAT 10A](https://space.skyrocket.de/doc_sdat/eutelsat-w2a.htm) | 10.25° E | Backup MSS S-band payload              | **Leased**   | Eutelsat W2A carries S-band payload for MSS trials |
 | [Lyra Block-1](https://space.skyrocket.de/doc_sdat/lyra-block1.htm)  | 96° W    | S-band IoT, NTN                        | Owned        |                                                    |
 
+## Spectrum Holdings
+
+### 1. Low‑Band (600 MHz, 700 MHz)
+
+* **600 MHz**: Recently acquired \~100 licenses from Omega Wireless, boosting its average nationwide holdings from \~17.7 MHz to \~19.4 MHz ([lightreading.com][1]).
+* **700 MHz**: EchoStar (via Dish) secured the E‑block in 2008 and still holds significant spectrum in this band ([wikipedia.com][2]).
+
+### 2. Mid‑Band (AWS‑3, AWS‑4, 3.45 GHz, C‑band/CBRS)
+
+* **AWS‑4, PCS‑H, AWS‑3**: Large holdings transferred to EchoStar Wireless Holding subsidiary during the Dish/EchoStar merger ([rcrwireless.com][3]).
+* **3.45 GHz**: Bid \$7.3 billion in 2022 FCC auction; currently unused but part of portfolio ([lightreading.com][1]).
+* **C‑band/CBRS (3.4–3.7 GHz)**: Claimed via AWS‑4 and CBRS holdings; part of Boost Mobile build‑out ([en.wikipedia.org][4]).
+
+### 3. Satellite Bands (2 GHz MSS, S‑band, others)
+
+* **2 GHz AWS‑4/MSS**: Under FCC scrutiny; SpaceX challenges under-utilization ([arstechnica.com][5]).
+* **Various mmWave/Ka‑bands** (12 GHz, 24 GHz, 28 GHz, 37 GHz, 47 GHz): Held via EchoStar Wireless Holding ([rcrwireless.com][3]).
+
+
+[1]: https://www.lightreading.com/open-ran/echostar-s-spectrum-strategy-may-pivot-to-lowband-and-leasing 
+[2]: https://en.wikipedia.org/wiki/2008_United_States_wireless_spectrum_auction
+[3]: https://www.rcrwireless.com/20240111/featured/echostar-shuffles-spectrum-licenses-hires-firm-to-look-at-strategic-alternatives
+[4]: https://en.wikipedia.org/wiki/Boost_Mobile
+[5]: https://arstechnica.com/tech-policy/2025/05/fcc-threatens-echostar-licenses-for-spectrum-that-spacex-wants-to-use/
+
 
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
@@ -94,3 +119,4 @@ sort published desc
 | [[News/Rocket Lab Adds Two New Missions to 2025 Electron Launch Manifest, Schedules First Launch in Four Days’ Time.md\|Rocket Lab Adds Two New Missions to 2025 Electron Launch Manifest, Schedules First Launch in Four Days’ Time]] | June 16, 2025 |
 
 %%DATAVIEW_PUBLISHER: end %%
+
