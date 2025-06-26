@@ -10,7 +10,7 @@ customer: "[[BlackSky]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"
 orbit_type: "[[🌍 Orbits#LEO]]"
-target_orbit: 470km | 59°
+target_orbit: 470 km | 59°
 payload_mass: 138 kg
 recovery: No attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/fasten-your-space-belts/

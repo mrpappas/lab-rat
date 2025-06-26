@@ -20,15 +20,16 @@ Customers are primarily paying for the ability to track and analyze RF signals, 
 
 Source: https://www.eoportal.org/satellite-missions/hawkeye-360#eop-quick-facts-section
 
-| Specification     | Value            |
-| ----------------- | ---------------- |
-| Mass              | 30kg             |
-| Mission Life      | 3 Years          |
-| Waveband          | 70 MHz - 6GHz    |
-
+| Specification | Value         |
+| ------------- | ------------- |
+| Mass          | 30kg          |
+| Mission Life  | 3 Years       |
+| Waveband      | 70 MHz - 6GHz |
 
 
 ![[Pasted image 20250403032519.png]]
+
+
 ## 🚀 Launches
 
 %%DATAVIEW_PUBLISHER: start
@@ -40,9 +41,10 @@ sort launch_date desc
 ```
 %%
 
-| File                                                                                            | Date             | Location                                               | Vehicle                          | Orbit & Mass             | Outcome   |
-| ----------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------------ | -------------------------------- | ------------------------ | --------- |
-| [[Launch/Launches/033 - Virginia is for Launch Lovers.md\|033 - Virginia is for Launch Lovers]] | 2023-01-24 23:00 | [[Locations/Launch Complex 2.md#Launch Pad 0C\|LC2-0]] | [[Launch/Electron.md\|Electron]] | 550 km \| 40.5° \| 40 kg | ✅ Success |
+| File                                                                                            | Date             | Location                                               | Vehicle                          | Orbit & Mass                | Outcome   |
+| ----------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------------ | -------------------------------- | --------------------------- | --------- |
+| [[Launch/Launches/067 - Get The Hawk Outta Here.md\|067 - Get The Hawk Outta Here]]             | 2025-06-26 17:00 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC-1A]]  | [[Launch/Electron.md\|Electron]] | 520 km \| 97.45° \| Unknown | ✅ Success |
+| [[Launch/Launches/033 - Virginia is for Launch Lovers.md\|033 - Virginia is for Launch Lovers]] | 2023-01-24 23:00 | [[Locations/Launch Complex 2.md#Launch Pad 0C\|LC2-0]] | [[Launch/Electron.md\|Electron]] | 550 km \| 40.5° \| 40 kg    | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end %%
 
@@ -58,6 +60,8 @@ sort published desc
 
 | File                                                                                                                                                                                                                               | Published         |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[News/Rocket Lab Successfully Launches 67th Electron Mission, Schedules Next Launch in Less Than 48 Hours.md\|Rocket Lab Successfully Launches 67th Electron Mission, Schedules Next Launch in Less Than 48 Hours]]               | June 26, 2025     |
+| [[News/Rocket Lab Executes Responsive Reschedule of Electron Manifest to Launch Next Mission in Two Days’ Time.md\|Rocket Lab Executes Responsive Reschedule of Electron Manifest to Launch Next Mission in Two Days’ Time]]       | June 24, 2025     |
 | [[News/Rocket Lab Successfully Launches First Electron Mission from U.S. Soil.md\|Rocket Lab Successfully Launches First Electron Mission from U.S. Soil]]                                                                         | January 24, 2023  |
 | [[News/Rocket Lab Sets New Date for First Electron Launch From U.S. Soil.md\|Rocket Lab Sets New Date for First Electron Launch From U.S. Soil]]                                                                                   | January 11, 2023  |
 | [[News/Rocket Lab Reschedules First U.S. Launch for January 2023, Provides Updates on Effect to Prior Q4 Guidance.md\|Rocket Lab Reschedules First U.S. Launch for January 2023, Provides Updates on Effect to Prior Q4 Guidance]] | December 19, 2022 |

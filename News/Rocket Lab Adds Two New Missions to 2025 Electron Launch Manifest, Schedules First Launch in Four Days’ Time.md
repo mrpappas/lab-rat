@@ -1,14 +1,14 @@
 ---
-title: "Rocket Lab Adds Two New Missions to 2025 Electron Launch Manifest, Schedules First Launch in Four Days’ Time"
-source: "https://rocketlabcorp.com/updates/rocket-lab-adds-two-new-missions-to-2025-electron-launch-manifest-schedules-first-launch-in-four-days-time/"
+title: Rocket Lab Adds Two New Missions to 2025 Electron Launch Manifest, Schedules First Launch in Four Days’ Time
+source: https://rocketlabcorp.com/updates/rocket-lab-adds-two-new-missions-to-2025-electron-launch-manifest-schedules-first-launch-in-four-days-time/
 author:
   - "[[Rocket Lab]]"
 published: 2025-06-16
 customer: "[[EchoStar]]"
-mission: "[[067 - Symphony In The Stars]]"
+mission: "[[068 - Symphony In The Stars]]"
 tags:
- - electron
- - launch
+  - electron
+  - launch
 ---
 
 **Long Beach, California.** Rocket Lab Corporation (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced it has been selected to launch two dedicated missions on Electron for a confidential commercial customer, the first of which will launch in just four days’ time - a demonstration of Rocket Lab’s ability to execute against a rapid contract-to-launch timeline for responsive, dedicated access to space for satellite operators.

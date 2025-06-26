@@ -2,7 +2,7 @@
 tags:
  - electron
  - launch
-mission_name: 'Finding Hot Wildfires Near You'
+mission_name: Finding Hot Wildfires Near You
 launch_date: 2025-03-26 15:30
 outcome: "✅ Success"
 customer: "[[Orora Technlogies]]"

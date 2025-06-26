@@ -9,7 +9,7 @@ customer: "[[iQPS]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"
 orbit_type: "[[🌍 Orbits#LEO]]"
-target_orbit: 575km | 42°
+target_orbit: 575 km | 42°
 payload_mass: 100 kg
 recovery: n/a
 mission_link:

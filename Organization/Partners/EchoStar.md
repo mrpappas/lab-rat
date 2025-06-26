@@ -23,9 +23,9 @@ sort launch_date desc
 ```
 %%
 
-| File                                                                            | Date             | Location                                              | Vehicle                          | Orbit & Mass        | Outcome   |
-| ------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | ------------------- | --------- |
-| [[Launch/Launches/067 - Symphony In The Stars.md\|067 - Symphony In The Stars]] | 2025-06-24 07:00 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC-1B]] | [[Launch/Electron.md\|Electron]] | 650 \| 96° \| 74 kg | ⌛ Pending |
+| File                                                                            | Date    | Location                                              | Vehicle                          | Orbit & Mass           | Outcome   |
+| ------------------------------------------------------------------------------- | ------- | ----------------------------------------------------- | -------------------------------- | ---------------------- | --------- |
+| [[Launch/Launches/068 - Symphony In The Stars.md\|068 - Symphony In The Stars]] | Unknown | [[Locations/Launch Complex 1.md#Launch Pad B\|LC-1B]] | [[Launch/Electron.md\|Electron]] | 650 km \| 96° \| 74 kg | ⌛ Pending |
 
 %%DATAVIEW_PUBLISHER: end %%
 

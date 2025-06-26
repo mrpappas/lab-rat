@@ -28,6 +28,66 @@ sort launch_date desc
 
 %%DATAVIEW_PUBLISHER: end %%
 
+
+## 🛰️ Satellite Platforms
+
+ UTIAS-SFL offers a flexible, flight-proven progression of bus platforms—from low-mass CubeSats (THUNDER, SPARTAN, JAEGER) to mid-range nanosats/microsats (NEMO, DEFIANT, NAUTILUS) up to powerful smallsat busses (DAUNTLESS) capable of supporting hundreds of kilograms of payloads. All are supported by standardized deployers (XPOD) and full mission services—ideal for science, communications, tech demos, & constellation builds.
+ 
+ 🔗 https://www.utias-sfl.net/satellite-platforms/overview/
+
+### THUNDER 3U
+Standardized 3U CubeSat platform.
+
+![[Pasted image 20250626015608.png]]
+
+| Specification    | Value                                                                                                                                                                     |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Mass             | 3-6 kg                                                                                                                                                                    |
+| Volume           | 10x10x34 cm                                                                                                                                                               |
+| Payload Mass     | Up to 3 kg                                                                                                                                                                |
+| Payload Volume   | Up to 2 dm3<br>2U                                                                                                                                                         |
+| Payload Power    | Up to 31 Wh/orbit(5)<br>62 W peak                                                                                                                                         |
+| ACS Stability    | 2° 10 arcsec                                                                                                                                                              |
+| ACS Modes        | 3-axis inertial, nadir, target tracking                                                                                                                                   |
+| Downlink         | Up to 2 Mbps                                                                                                                                                              |
+| Propulsion       | Optional                                                                                                                                                                  |
+| Navigation       | GPS, 5-10m                                                                                                                                                                |
+| Launch Interface | COTS Deployers                                                                                                                                                            |
+| Quality Approach | Newspace or Microspace                                                                                                                                                    |
+| Mission Heritage | [CanX-2](https://space.skyrocket.de/doc_sdat/canx-2.htm), [NTS](https://space.skyrocket.de/doc_sdat/canx-6.htm), [CanX-7](https://space.skyrocket.de/doc_sdat/canx-7.htm) |
+
+### SPARTAN 6U
+
+Standardized 6U CubeSat platform.
+
+![[Pasted image 20250626020109.png]]
+
+| Specification    | Value                                                                                                                                                                                                                                                                                                                                                                |
+| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Mass             | 6-12 kg                                                                                                                                                                                                                                                                                                                                                              |
+| Volume           | 10x20x36 cm                                                                                                                                                                                                                                                                                                                                                          |
+| Payload Mass     | Up to 6 kg                                                                                                                                                                                                                                                                                                                                                           |
+| Payload Volume   | Up to 4 dm3<br>4U                                                                                                                                                                                                                                                                                                                                                    |
+| Payload Power    | Up to 46 Wh/orbit<br>160 W peak                                                                                                                                                                                                                                                                                                                                      |
+| ACS Stability    | 2° 10 arcsec                                                                                                                                                                                                                                                                                                                                                         |
+| ACS Modes        | 3-axis inertial, nadir, target tracking                                                                                                                                                                                                                                                                                                                              |
+| Downlink         | Up to 50 Mbps                                                                                                                                                                                                                                                                                                                                                        |
+| Propulsion       | Optional                                                                                                                                                                                                                                                                                                                                                             |
+| Navigation       | GPS, 5-10m                                                                                                                                                                                                                                                                                                                                                           |
+| Launch Interface | COTS Deployers                                                                                                                                                                                                                                                                                                                                                       |
+| Quality Approach | Newspace or Microspace                                                                                                                                                                                                                                                                                                                                               |
+| Mission Heritage | [Kepler](https://space.skyrocket.de/doc_sdat/kepler-4.htm), [AISSat Constellation](https://www.utias-sfl.net/aissat-1-2-and-3/), [BRITE Constellation](https://www.utias-sfl.net/canx-3-brite-constellation/), [EV9](https://www.utias-sfl.net/ev9/), [CanX-4](https://www.utias-sfl.net/canx-4-and-canx-5/), [CanX-5](https://www.utias-sfl.net/canx-4-and-canx-5/) |
+
+### JAEGER 12U/6U
+
+### NEMO
+
+### DEFIANT
+
+### NAUTILUS
+
+### DAUNTLESS
+
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```

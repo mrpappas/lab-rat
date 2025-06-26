@@ -9,7 +9,7 @@ customer: "[[BlackSky]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-B]]"
 vehicle: "[[Electron]]"
 orbit_type: "[[🌍 Orbits#LEO]]"
-target_orbit: 470km | 59°
+target_orbit: 470 km | 59°
 payload_mass: 138 kg
 recovery: No Attempt
 mission_link: https://rocketlabcorp.com/missions/missions-launched/full-stream-ahead-2/

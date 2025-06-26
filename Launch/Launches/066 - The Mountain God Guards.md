@@ -26,6 +26,8 @@ Rocket Lab has now deployed four Electron missions for iQPS with 100% mission su
 >
 'The Mountain God Guards' will be Rocket Lab’s eighth mission of 2025, its 66th Electron launch overall, and will bring the total number of satellites delivered to space by Electron to 227.
 >
+>[📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720326782701/)
+
 
 | **Mission Name** | The Mountain God Guards                                                                                             |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------- |
@@ -61,7 +63,7 @@ x 1 [[iQPS#🛰️ Space Systems#QPS-SAR|QPS-SAR]]
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[066 - The Mountain God Guards]])
+where contains(mission, [[]])
 sort published desc
 ```
 %%

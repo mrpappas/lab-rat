@@ -18,7 +18,7 @@ tags:
 
 ## Rocket Lab's Involvement
 
-April 14 2025 Rocket Lab was onramped to the contract "to bid for contracts and task orders served by its Hypersonic Accelerator Suborbital Test Electron (HASTE) launch vehicle, as well as other engineering, design, and launch services."
+April 14 2025 Rocket Lab was on-ramped to the contract "to bid for contracts and task orders served by its Hypersonic Accelerator Suborbital Test Electron (HASTE) launch vehicle, as well as other engineering, design, and launch services."
 [[Rocket Lab Onramped To Multi-Billion Dollar U.S. and U.K. Defense Contracts To Expand Hypersonic Technology Development with HASTE|🔗 Source]]
 
 
