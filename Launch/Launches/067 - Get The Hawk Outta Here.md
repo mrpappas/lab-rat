@@ -5,8 +5,7 @@ tags:
 mission_name: Get The Hawk Outta Here
 launch_date: 2025-06-26 17:00
 outcome: "✅ Success"
-customer: 
-- "[[HawkEye 360]]"
+customer: "[[HawkEye 360]]"
 location: "[[Launch Complex 1#Launch Pad B|LC-1A]]"
 vehicle: "[[Electron]]"
 orbit_type: "[[🌍 Orbits#SSO]]"

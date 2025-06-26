@@ -39,8 +39,8 @@ limit 10
 
 | File                                                                                              | Customer                                                                                         | Date             | Outcome   |
 | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ---------------- | --------- |
-| [[Launch/Launches/068 - Symphony In The Stars.md\|068 - Symphony In The Stars]]                   | <ul><li>[[Organization/Partners/EchoStar.md\|EchoStar]]</li><li>Confidential Customer</li></ul> | Unknown          | ⌛ Pending |
-| [[Launch/Launches/067 - Get The Hawk Outta Here.md\|067 - Get The Hawk Outta Here]]               | <ul><li>[[Organization/Partners/HawkEye 360.md\|HawkEye 360]]</li></ul>                         | 2025-06-26 17:00 | ✅ Success |
+| [[Launch/Launches/068 - Symphony In The Stars.md\|068 - Symphony In The Stars]]                   | <ul><li>[[Organization/Partners/EchoStar.md\|EchoStar]]</li><li>Confidential Customer</li></ul> | 2025-06-28 06:45 | ⌛ Pending |
+| [[Launch/Launches/067 - Get The Hawk Outta Here.md\|067 - Get The Hawk Outta Here]]               | [[Organization/Partners/HawkEye 360.md\|HawkEye 360]]                                            | 2025-06-26 17:00 | ✅ Success |
 | [[Launch/Launches/066 - The Mountain God Guards.md\|066 - The Mountain God Guards]]               | [[Organization/Partners/iQPS.md\|iQPS]]                                                          | 2025-06-11 15:15 | ✅ Success |
 | [[Launch/Launches/065 - Full Stream Ahead.md\|065 - Full Stream Ahead]]                           | [[Organization/Partners/BlackSky.md\|BlackSky]]                                                  | 2025-06-03 23:57 | ✅ Success |
 | [[Launch/Launches/064 - The Sea God Sees.md\|064 - The Sea God Sees]]                             | [[Organization/Partners/iQPS.md\|iQPS]]                                                          | 2025-05-17 08:17 | ✅ Success |
@@ -95,6 +95,7 @@ limit 10
 | File                                                                                                                                                                                                                                                                               |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[News/Rocket Lab Successfully Launches 67th Electron Mission, Schedules Next Launch in Less Than 48 Hours.md\|Rocket Lab Successfully Launches 67th Electron Mission, Schedules Next Launch in Less Than 48 Hours]]                                                               |
+| [[News/Rocket Lab to Launch Electron Mission for European Space Agency’s Next-Generation Navigation System.md\|Rocket Lab to Launch Electron Mission for European Space Agency’s Next-Generation Navigation System]]                                                               |
 | [[News/Rocket Lab Executes Responsive Reschedule of Electron Manifest to Launch Next Mission in Two Days’ Time.md\|Rocket Lab Executes Responsive Reschedule of Electron Manifest to Launch Next Mission in Two Days’ Time]]                                                       |
 | [[News/Rocket Lab Adds Two New Missions to 2025 Electron Launch Manifest, Schedules First Launch in Four Days’ Time.md\|Rocket Lab Adds Two New Missions to 2025 Electron Launch Manifest, Schedules First Launch in Four Days’ Time]]                                             |
 | [[News/Rocket Lab Successfully Launches Second Mission for iQPS in Rapid 25 Day Turnaround.md\|Rocket Lab Successfully Launches Second Mission for iQPS in Rapid 25 Day Turnaround]]                                                                                               |
@@ -103,7 +104,6 @@ limit 10
 | [[News/Rocket Lab Enters Payload Market with Agreement to Acquire Geost, Positioning Itself as Disruptive Prime to U.S. National Security.md\|Rocket Lab Enters Payload Market with Agreement to Acquire Geost, Positioning Itself as Disruptive Prime to U.S. National Security]] |
 | [[News/Rocket Lab Schedules Next Launch in Series of Multiple Missions for BlackSky.md\|Rocket Lab Schedules Next Launch in Series of Multiple Missions for BlackSky]]                                                                                                             |
 | [[News/Rocket Lab Successfully Launches Third Mission for iQPS in Multi-Launch Contract, Sets Schedule For the Next iQPS Mission.md\|Rocket Lab Successfully Launches Third Mission for iQPS in Multi-Launch Contract, Sets Schedule For the Next iQPS Mission]]                   |
-| [[News/Rocket Lab to Launch NASA Astrophysics Science Mission on Electron to Study Galaxy Evolution.md\|Rocket Lab to Launch NASA Astrophysics Science Mission on Electron to Study Galaxy Evolution]]                                                                             |
 
 %% DATAVIEW_PUBLISHER: end %%
 

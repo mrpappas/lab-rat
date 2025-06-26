@@ -11,6 +11,20 @@
             "id": "cbd33cf0696e5d36",
             "type": "leaf",
             "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "News/Rocket Lab to Launch Electron Mission for European Space Agency’s Next-Generation Navigation System.md",
+                "bFile": "News/Rocket Lab to Launch Electron Mission for European Space Agency’s Next-Generation Navigation System.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Rocket Lab to Launch Electron Mission for European Space Agency’s Next-Generation Navigation System"
+            }
+          },
+          {
+            "id": "1c219a03077cb3ce",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Launch/Launches/067 - Get The Hawk Outta Here.md",
@@ -22,7 +36,8 @@
               "title": "067 - Get The Hawk Outta Here"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,26 +209,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cbd33cf0696e5d36",
+  "active": "1c219a03077cb3ce",
   "lastOpenFiles": [
     "News/Rocket Lab Successfully Launches 67th Electron Mission, Schedules Next Launch in Less Than 48 Hours.md",
-    "Launch/Launches/067 - Get The Hawk Outta Here.md",
+    "News.md",
+    "News/Rocket Lab to Launch Electron Mission for European Space Agency’s Next-Generation Navigation System.md",
+    "News/Rocket Lab Executes Responsive Reschedule of Electron Manifest to Launch Next Mission in Two Days’ Time.md",
+    "Launch/Launches/068 - Symphony In The Stars.md",
+    "Launches.md",
+    "Partners.md",
     "Launch/Launches/066 - The Mountain God Guards.md",
+    "Launch/Launches/067 - Get The Hawk Outta Here.md",
     "Launch/Launches/065 - Full Stream Ahead.md",
     "Launch/Launches/064 - The Sea God Sees.md",
     "Launch/Launches/060 - Fasten Your Space Belts.md",
     "Launch/Launches/062 - High Five.md",
     "Launch/Launches/063 - Finding Hot Wildfires Near You.md",
-    "Launches.md",
     "Vault-Assets/Images/Pasted image 20250626015608.png",
     "Organization/Partners/UTIAS Space Flight Laboratory.md",
     "Vault-Assets/Images/Pasted image 20250626020109.png",
     "Organization/Partners/Astro Digital.md",
     "Launch/HASTE.md",
-    "Launch/Launches/068 - Symphony In The Stars.md",
-    "News.md",
     "Missions/EWAAC.md",
-    "News/Rocket Lab Executes Responsive Reschedule of Electron Manifest to Launch Next Mission in Two Days’ Time.md",
     "Organization/Partners/HawkEye 360.md",
     "Launch/Launches/033 - Virginia is for Launch Lovers.md",
     "News/Rocket Lab Adds Two New Missions to 2025 Electron Launch Manifest, Schedules First Launch in Four Days’ Time.md",
@@ -224,14 +241,12 @@
     "Launch/🌍 Orbits.md",
     "Organization/Partners/EchoStar.md",
     "Vault-Assets/Images/Pasted image 20250621153815.jpg",
-    "Organization/Partners/BlackSky.md",
     "Vault-Assets/Images/Pasted image 20250621182238.png",
     "Vault-Assets/Images/Pasted image 20250621181747.png",
     "Vault-Assets/Images/Pasted image 20250621181604.png",
     "Vault-Assets/Images/Pasted image 20250621181407.png",
     "Vault-Assets/Images/Pasted image 20250621181301.png",
     "Vault-Assets/Images/Pasted image 20250621181143.png",
-    "Organization/Partners/Synspective.md",
     "Misc/Commercial Space Stations",
     "Vault-Assets/PDFs/F66-The-Mountain-God-Guards-Presskit-final-compressed.pdf",
     "Vault-Assets/PDFs/RL-F65-BlackSky-Full-Stream-Ahead-Presskit-compressed.pdf",

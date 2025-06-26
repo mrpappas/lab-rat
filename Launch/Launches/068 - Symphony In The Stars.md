@@ -3,7 +3,7 @@ tags:
  - electron
  - launch
 mission_name: Symphony In The Stars
-launch_date: Unknown
+launch_date: 2025-06-28 06:45
 outcome: "⌛ Pending"
 customer: 
 - "[[EchoStar]]"
@@ -30,7 +30,7 @@ These dedicated Electron launches demonstrate both the strength of Rocket Lab’
 
 | **Mission Name** | Symphony In The Stars                                                                                |
 | ---------------- | ---------------------------------------------------------------------------------------------------- |
-| **Launch Date**  | Unknown                                                                                              |
+| **Launch Date**  | 2025-06-28 06:45 UTC                                                                                 |
 | **Outcome**      | ⌛ Pending                                                                                            |
 | **Customer**     | Confidential Customer (Likely [[EchoStar]])                                                          |
 | **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                    |
@@ -71,8 +71,9 @@ sort published desc
 
 %%DATAVIEW_PUBLISHER: end %%
 
+![](https://x.com/RocketLab/status/1938319443266097525)
 
-![](https://x.com/trypto_tran/status/1936052601558385078)
+![](https://x.com/RocketLab/status/1937345750767395229)
 
 ![](https://x.com/RocketLab/status/1935167969656791118)
 
