@@ -16,7 +16,7 @@ payload_mass: 150 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/the-owls-night-begins-2/
 ---
-[[Launches]]  <span style="color: LightSlateGray">></span>  017 - The Owl's Night Begins
+[[Home|🏠]]  <span style="color: LightSlateGray">></span>  [[Launches]]  <span style="color: LightSlateGray">></span>  017 - The Owl's Night Begins
 
 >[!success] Mission Success
 

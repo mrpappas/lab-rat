@@ -18,7 +18,7 @@ payload_mass: 320kg LEO / 80kg TLI
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/capstone/
 ---
-[[Launches]]  <span style="color: LightSlateGray">></span>  027 - CAPSTONE
+[[Home|🏠]]  <span style="color: LightSlateGray">></span>  [[Launches]]  <span style="color: LightSlateGray">></span>  027 - CAPSTONE
 
 >[!success] Mission Success
 

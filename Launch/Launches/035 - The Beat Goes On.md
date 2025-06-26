@@ -16,7 +16,7 @@ payload_mass: 120 kg
 recovery: Success (Ocean Landing)
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/the-beat-goes-on/
 ---
-[[Launches]]  <span style="color: LightSlateGray">></span>  035 - The Beat Goes On
+[[Home|🏠]]  <span style="color: LightSlateGray">></span>  [[Launches]]  <span style="color: LightSlateGray">></span>  035 - The Beat Goes On
 
 >[!success] Mission Success
 

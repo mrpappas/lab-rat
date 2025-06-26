@@ -15,7 +15,7 @@ payload_mass: 138 kg
 recovery: No attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/fasten-your-space-belts/
 ---
-[[Launches]]  <span style="color: LightSlateGray">></span>  060 - Fasten Your Space Belts
+[[Home|🏠]]  <span style="color: LightSlateGray">></span>  [[Launches]]  <span style="color: LightSlateGray">></span>  060 - Fasten Your Space Belts
 
 >[!success] Mission Success
 

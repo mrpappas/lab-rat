@@ -16,7 +16,7 @@ payload_mass: 50 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/another-one-leaves-the-crust/
 ---
-[[Launches]]  <span style="color: LightSlateGray">></span>  018 - Another One Leaves the Crust
+[[Home|🏠]]  <span style="color: LightSlateGray">></span>  [[Launches]]  <span style="color: LightSlateGray">></span>  018 - Another One Leaves the Crust
 
 >[!success] Mission Success
 

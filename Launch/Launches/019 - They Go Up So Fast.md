@@ -24,7 +24,7 @@ payload_mass: Unknown
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/they-go-up-so-fast/
 ---
-[[Launches]]  <span style="color: LightSlateGray">></span>  019 - They Go Up So Fast
+[[Home|🏠]]  <span style="color: LightSlateGray">></span>  [[Launches]]  <span style="color: LightSlateGray">></span>  019 - They Go Up So Fast
 
 >[!success] Mission Success
 

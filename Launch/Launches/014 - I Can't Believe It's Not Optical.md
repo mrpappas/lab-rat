@@ -16,7 +16,7 @@ payload_mass: 100 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/i-cant-believe-its-not-optical/
 ---
-[[Launches]]  <span style="color: LightSlateGray">></span>  014 - I Can't Believe It's Not Optical
+[[Home|🏠]]  <span style="color: LightSlateGray">></span>  [[Launches]]  <span style="color: LightSlateGray">></span>  014 - I Can't Believe It's Not Optical
 
 >[!success] Mission Success
 

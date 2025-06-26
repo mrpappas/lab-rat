@@ -16,7 +16,7 @@ payload_mass: 20 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/as-the-crow-flies/
 ---
-[[Launches]]  <span style="color: LightSlateGray">></span>  009 - As The Crow Flies
+[[Home|🏠]]  <span style="color: LightSlateGray">></span>  [[Launches]]  <span style="color: LightSlateGray">></span>  009 - As The Crow Flies
 
 >[!success] Mission Success
 

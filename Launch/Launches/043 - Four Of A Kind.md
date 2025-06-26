@@ -18,7 +18,7 @@ payload_mass: 112 kg
 recovery: Success (Ocean Landing)
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/four-of-a-kind/
 ---
-[[Launches]]  <span style="color: LightSlateGray">></span>  043 - Four Of A Kind
+[[Home|🏠]]  <span style="color: LightSlateGray">></span>  [[Launches]]  <span style="color: LightSlateGray">></span>  043 - Four Of A Kind
 
 >[!Success] Mission Success
 

@@ -16,7 +16,7 @@ payload_mass: 100 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/the-moon-god-awakes/
 ---
-[[Launches]]  <span style="color: LightSlateGray">></span>  042 - The Moon God Awakens
+[[Home|🏠]]  <span style="color: LightSlateGray">></span>  [[Launches]]  <span style="color: LightSlateGray">></span>  042 - The Moon God Awakens
 
 >[!Success] Mission Success
 

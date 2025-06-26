@@ -16,7 +16,7 @@ payload_mass: 10 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/coming-to-a-storm-near-you/
 ---
-[[Launches]]  <span style="color: LightSlateGray">></span>  037 - Coming To A Storm Near You
+[[Home|🏠]]  <span style="color: LightSlateGray">></span>  [[Launches]]  <span style="color: LightSlateGray">></span>  037 - Coming To A Storm Near You
 
 >[!success] Mission Success
 

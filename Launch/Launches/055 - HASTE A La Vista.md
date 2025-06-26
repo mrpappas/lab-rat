@@ -16,7 +16,7 @@ payload_mass: unknown
 recovery: n/a
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/haste-a-la-vista/
 ---
-[[Launches]]  <span style="color: LightSlateGray">></span>  055 - HASTE A La Vista
+[[Home|🏠]]  <span style="color: LightSlateGray">></span>  [[Launches]]  <span style="color: LightSlateGray">></span>  055 - HASTE A La Vista
 
 >[!Success] Mission Success
 

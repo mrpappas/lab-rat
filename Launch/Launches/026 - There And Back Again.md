@@ -22,7 +22,7 @@ payload_mass: Unknown
 recovery: Partial Failure (Aerial Capture)
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/there-and-back-again/
 ---
-[[Launches]]  <span style="color: LightSlateGray">></span>  026 - There And Back Again
+[[Home|🏠]]  <span style="color: LightSlateGray">></span>  [[Launches]]  <span style="color: LightSlateGray">></span>  026 - There And Back Again
 
 >[!success] Mission Success
 

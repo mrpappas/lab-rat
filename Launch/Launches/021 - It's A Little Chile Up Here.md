@@ -16,7 +16,7 @@ payload_mass: Unknown
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/its-a-little-chile-up-here/
 ---
-[[Launches]]  <span style="color: LightSlateGray">></span>  021 - It's A Little Chile Up Here
+[[Home|🏠]]  <span style="color: LightSlateGray">></span>  [[Launches]]  <span style="color: LightSlateGray">></span>  021 - It's A Little Chile Up Here
 
 >[!success] Mission Success
 

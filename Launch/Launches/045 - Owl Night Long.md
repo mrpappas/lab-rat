@@ -16,7 +16,7 @@ payload_mass: 100 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/owl-night-long/
 ---
-[[Launches]]  <span style="color: LightSlateGray">></span>  045 - Owl Night Long
+[[Home|🏠]]  <span style="color: LightSlateGray">></span>  [[Launches]]  <span style="color: LightSlateGray">></span>  045 - Owl Night Long
 
 >[!Success] Mission Success
 

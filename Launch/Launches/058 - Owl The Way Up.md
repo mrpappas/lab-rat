@@ -16,7 +16,7 @@ payload_mass: 100 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/owl-the-way-up/
 ---
-[[Launches]]  <span style="color: LightSlateGray">></span>  058 - Owl The Way Up
+[[Home|🏠]]  <span style="color: LightSlateGray">></span>  [[Launches]]  <span style="color: LightSlateGray">></span>  058 - Owl The Way Up
 
 >[!Success] Mission Success
 

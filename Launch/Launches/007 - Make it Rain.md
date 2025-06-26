@@ -19,7 +19,7 @@ payload_mass: 80 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/make-it-rain
 ---
-[[Launches]]  <span style="color: LightSlateGray">></span>  007 - Make it Rain
+[[Home|🏠]]  <span style="color: LightSlateGray">></span>  [[Launches]]  <span style="color: LightSlateGray">></span>  007 - Make it Rain
 
 >[!success] Mission Success
 

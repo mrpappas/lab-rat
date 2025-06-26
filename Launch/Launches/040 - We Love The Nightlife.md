@@ -17,7 +17,7 @@ payload_mass: 165 kg
 recovery: Success (Ocean Landing)
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/new-mission-page-3/
 ---
-[[Launches]]  <span style="color: LightSlateGray">></span>  040 - We Love The Nightlife
+[[Home|🏠]]  <span style="color: LightSlateGray">></span>  [[Launches]]  <span style="color: LightSlateGray">></span>  040 - We Love The Nightlife
 
 >[!success] Mission Success
 

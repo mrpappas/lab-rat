@@ -20,7 +20,7 @@ payload_mass: 75 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/pics-or-it-didnt-happen/
 ---
-[[Launches]]  <span style="color: LightSlateGray">></span>  013 - Pics Or It Didn't Happen
+[[Home|🏠]]  <span style="color: LightSlateGray">></span>  [[Launches]]  <span style="color: LightSlateGray">></span>  013 - Pics Or It Didn't Happen
 
 >[!failure] Mission Failure
 

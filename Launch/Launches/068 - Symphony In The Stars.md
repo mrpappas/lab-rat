@@ -14,7 +14,7 @@ payload_mass: 74 kg
 recovery: Not Attempt Likely
 mission_link: https://rocketlabcorp.com/missions/missions-launched/symphony-in-the-stars/
 ---
-[[Launches]]  <span style="color: LightSlateGray">></span>  068 - Symphony In The Stars
+[[Home|🏠]]  <span style="color: LightSlateGray">></span>   [[Launches]]  <span style="color: LightSlateGray">></span>  068 - Symphony In The Stars
 
 >[!warning] Mission Pending
 
