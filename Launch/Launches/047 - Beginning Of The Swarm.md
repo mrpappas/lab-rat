@@ -1,15 +1,14 @@
 ---
-
 tags:
   - electron
   - launch
   - success
-mission_name: "Beginning Of The Swarm"
+mission_name: Beginning Of The Swarm
 launch_date: 2024-04-23 22:00
 outcome: ✅ Success
-customer: 
-- "[[NASA]]"
-- "[[Korea Advanced Institute of Science and Technology]]"
+customer:
+  - "[[NASA]]"
+  - "[[KAIST]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"
 orbit_type: "[[🌍 Orbits#SSO]]"
@@ -18,11 +17,12 @@ payload_mass: 115 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/beginning-of-the-swarm/
 ---
+[[Launches]]  <span style="color: LightSlateGray">></span>  047 - Beginning Of The Swarm
 
 >[!Success] Mission Success
 
 >[!summary]
-The ‘Beginning Of The Swarm’ mission launched from Rocket Lab [[Launch Complex 1]] in Mahia, New Zealand at 10:32 am NZT on April 24th, 2024. [[Electron]] carried two satellites for two separate customers: NEONSAT-1, an Earth observation satellite for the Satellite Technology Research Center (SaTReC) at the [[Korea Advanced Institute of Science and Technology]] (KAIST), and [[NASA]]’s Advanced Composite Solar Sail System (ACS3).
+The ‘Beginning Of The Swarm’ mission launched from Rocket Lab [[Launch Complex 1]] in Mahia, New Zealand at 10:32 am NZT on April 24th, 2024. [[Electron]] carried two satellites for two separate customers: NEONSAT-1, an Earth observation satellite for the Satellite Technology Research Center (SaTReC) at the [[KAIST]] (KAIST), and [[NASA]]’s Advanced Composite Solar Sail System (ACS3).
 >
 The primary payload for this mission, NEONSAT-1, was an Earth observation satellite with a high-resolution optical camera designed to monitor for natural disasters along the Korean Peninsula by pairing its images with artificial intelligence. NEONSAT-1 is the first satellite developed under the NEONSAT program by SaTReC and KAIST, Korea’s leading university in science and technology, which developed and operated Korea’s very first satellite KITSAT-1 more than 30 years ago. Other NEONSAT satellites are planned to be launched in 2026 and 2027 to build out the NEONSAT constellation. 
 >
@@ -36,7 +36,7 @@ The secondary payload was NASA's ACS3, a technology demonstration of new materia
 | ---------------- | --------------------------------------------------------------------------------------------------------- |
 | **Launch Date**  | 2024-04-23 22:00                                                                                          |
 | **Outcome**      | ✅ Success                                                                                                 |
-| **Customer**     | [[NASA]], [[Korea Advanced Institute of Science and Technology]]                                          |
+| **Customer**     | [[NASA]], [[KAIST]]                                          |
 | **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                         |
 | **Vehicle**      | [[Electron]]                                                                                              |
 | **Orbit Type**   | [[🌍 Orbits#SSO]]                                                                                         |

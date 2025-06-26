@@ -16,6 +16,7 @@ payload_mass: 150 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/darpa-r3d2/
 ---
+[[Launches]]  <span style="color: LightSlateGray">></span>  005 - DARPA R3D2
 
 >[!success] Mission Success
 

@@ -16,6 +16,7 @@ payload_mass: 150 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/on-closer-inspection/
 ---
+[[Launches]]  <span style="color: LightSlateGray">></span>  044 - On Closer Inspection
 
 >[!Success] Mission Success
 

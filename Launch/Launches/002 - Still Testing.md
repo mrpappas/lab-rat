@@ -18,7 +18,7 @@ payload_mass: 13 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/still-testing/
 ---
-
+[[Launches]]  <span style="color: LightSlateGray">></span>  002 - Still Testing
 
 >[!success] Mission Success
 

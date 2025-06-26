@@ -16,6 +16,7 @@ payload_mass: 165 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/a-sky-full-of-sars/
 ---
+[[Launches]]  <span style="color: LightSlateGray">></span>  052 - A Sky Full Of SARs
 
 >[!Success] Mission Success
 

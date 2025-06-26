@@ -14,7 +14,7 @@ payload_mass: 100 kg
 recovery: No attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/the-lightning-god-reigns
 ---
-
+[[Launches]]  <span style="color: LightSlateGray">></span>  061 - The Lightning God Reigns
 
 >[!success] Mission Success
 

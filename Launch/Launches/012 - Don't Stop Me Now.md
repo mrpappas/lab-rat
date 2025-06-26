@@ -20,7 +20,7 @@ payload_mass: Classified
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/dont-stop-me-now/
 ---
-
+[[Launches]]  <span style="color: LightSlateGray">></span>  012 - Don't Stop Me Now
 
 >[!success] Mission Success
 

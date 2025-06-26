@@ -16,6 +16,7 @@ payload_mass: Classified
 recovery: Controlled (Atmosphere Test)
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/birds-of-a-feather/
 ---
+[[Launches]]  <span style="color: LightSlateGray">></span>  011 - Birds of a Feather
 
 >[!success] Mission Success
 

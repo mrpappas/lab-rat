@@ -16,6 +16,7 @@ payload_mass: 78 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/elana-19/
 ---
+[[Launches]]  <span style="color: LightSlateGray">></span>  004 - NASA ELaNa-19
 
 >[!success] Mission Success
 

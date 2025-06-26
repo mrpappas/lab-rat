@@ -18,6 +18,7 @@ payload_mass: Classified
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/changes-in-latitudes-changes-in-attitudes/
 ---
+[[Launches]]  <span style="color: LightSlateGray">></span>  054 - Changes In Latitudes, Changes In Attitudes
 
 >[!Success] Mission Success
 

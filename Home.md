@@ -37,18 +37,18 @@ limit 10
 ```
 %%
 
-| File                                                                                              | Customer                                                                                         | Date             | Outcome   |
-| ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ---------------- | --------- |
-| [[Launch/Launches/068 - Symphony In The Stars.md\|068 - Symphony In The Stars]]                   | <ul><li>[[Organization/Partners/EchoStar.md\|EchoStar]]</li><li>Confidential Customer</li></ul> | 2025-06-28 06:45 | ⌛ Pending |
-| [[Launch/Launches/067 - Get The Hawk Outta Here.md\|067 - Get The Hawk Outta Here]]               | [[Organization/Partners/HawkEye 360.md\|HawkEye 360]]                                            | 2025-06-26 17:00 | ✅ Success |
-| [[Launch/Launches/066 - The Mountain God Guards.md\|066 - The Mountain God Guards]]               | [[Organization/Partners/iQPS.md\|iQPS]]                                                          | 2025-06-11 15:15 | ✅ Success |
-| [[Launch/Launches/065 - Full Stream Ahead.md\|065 - Full Stream Ahead]]                           | [[Organization/Partners/BlackSky.md\|BlackSky]]                                                  | 2025-06-03 23:57 | ✅ Success |
-| [[Launch/Launches/064 - The Sea God Sees.md\|064 - The Sea God Sees]]                             | [[Organization/Partners/iQPS.md\|iQPS]]                                                          | 2025-05-17 08:17 | ✅ Success |
-| [[Launch/Launches/063 - Finding Hot Wildfires Near You.md\|063 - Finding Hot Wildfires Near You]] | [[Organization/Partners/Orora Technlogies.md\|Orora Technlogies]]                                | 2025-03-26 15:30 | ✅ Success |
-| [[Launch/Launches/062 - High Five.md\|062 - High Five]]                                           | [[Organization/Partners/Kinéis.md\|Kinéis]]                                                      | 2025-03-18 01:31 | ✅ Success |
-| [[Launch/Launches/061 - The Lightning God Reigns.md\|061 - The Lightning God Reigns]]             | [[Organization/Partners/iQPS.md\|iQPS]]                                                          | 2025-03-15 00:00 | ✅ Success |
-| [[Launch/Launches/060 - Fasten Your Space Belts.md\|060 - Fasten Your Space Belts]]               | [[Organization/Partners/BlackSky.md\|BlackSky]]                                                  | 2025-02-19 12:17 | ✅ Success |
-| [[Launch/Launches/059 - IOT 4 You and Me.md\|059 - IOT 4 You and Me]]                             | [[Organization/Partners/Kinéis.md\|Kinéis]]                                                      | 2025-02-04 20:43 | ✅ Success |
+| File                                                                                              | Customer                                                          | Date             | Outcome   |
+| ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ---------------- | --------- |
+| [[Launch/Launches/068 - Symphony In The Stars.md\|068 - Symphony In The Stars]]                   | [[Organization/Partners/EchoStar.md\|EchoStar (Confidential)]]    | 2025-06-28 06:45 | ⌛ Pending |
+| [[Launch/Launches/067 - Get The Hawk Outta Here.md\|067 - Get The Hawk Outta Here]]               | [[Organization/Partners/HawkEye 360.md\|HawkEye 360]]             | 2025-06-26 17:00 | ✅ Success |
+| [[Launch/Launches/066 - The Mountain God Guards.md\|066 - The Mountain God Guards]]               | [[Organization/Partners/iQPS.md\|iQPS]]                           | 2025-06-11 15:15 | ✅ Success |
+| [[Launch/Launches/065 - Full Stream Ahead.md\|065 - Full Stream Ahead]]                           | [[Organization/Partners/BlackSky.md\|BlackSky]]                   | 2025-06-03 23:57 | ✅ Success |
+| [[Launch/Launches/064 - The Sea God Sees.md\|064 - The Sea God Sees]]                             | [[Organization/Partners/iQPS.md\|iQPS]]                           | 2025-05-17 08:17 | ✅ Success |
+| [[Launch/Launches/063 - Finding Hot Wildfires Near You.md\|063 - Finding Hot Wildfires Near You]] | [[Organization/Partners/Orora Technlogies.md\|Orora Technlogies]] | 2025-03-26 15:30 | ✅ Success |
+| [[Launch/Launches/062 - High Five.md\|062 - High Five]]                                           | [[Organization/Partners/Kinéis.md\|Kinéis]]                       | 2025-03-18 01:31 | ✅ Success |
+| [[Launch/Launches/061 - The Lightning God Reigns.md\|061 - The Lightning God Reigns]]             | [[Organization/Partners/iQPS.md\|iQPS]]                           | 2025-03-15 00:00 | ✅ Success |
+| [[Launch/Launches/060 - Fasten Your Space Belts.md\|060 - Fasten Your Space Belts]]               | [[Organization/Partners/BlackSky.md\|BlackSky]]                   | 2025-02-19 12:17 | ✅ Success |
+| [[Launch/Launches/059 - IOT 4 You and Me.md\|059 - IOT 4 You and Me]]                             | [[Organization/Partners/Kinéis.md\|Kinéis]]                       | 2025-02-04 20:43 | ✅ Success |
 
 %% DATAVIEW_PUBLISHER: end %%
 

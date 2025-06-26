@@ -17,6 +17,7 @@ payload_mass: 165 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/we-will-never-desert-you/
 ---
+[[Launches]]  <span style="color: LightSlateGray">></span>  041 - We Will Never Desert You
 
 >[!Failure] Mission Failure
 

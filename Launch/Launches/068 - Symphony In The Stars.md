@@ -5,9 +5,7 @@ tags:
 mission_name: Symphony In The Stars
 launch_date: 2025-06-28 06:45
 outcome: "⌛ Pending"
-customer: 
-- "[[EchoStar]]"
-- "Confidential Customer"
+customer: "[[EchoStar|EchoStar (Confidential)]]"
 location: "[[Launch Complex 1#Launch Pad B|LC-1B]]"
 vehicle: "[[Electron]]"
 orbit_type: "[[🌍 Orbits#SSO]]"
@@ -16,6 +14,7 @@ payload_mass: 74 kg
 recovery: Not Attempt Likely
 mission_link: https://rocketlabcorp.com/missions/missions-launched/symphony-in-the-stars/
 ---
+[[Launches]]  <span style="color: LightSlateGray">></span>  068 - Symphony In The Stars
 
 >[!warning] Mission Pending
 

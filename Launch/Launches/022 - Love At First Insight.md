@@ -18,6 +18,7 @@ payload_mass: 120 kg
 recovery: Success (Ocean Landing)  
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/love-at-first-insight/
 ---
+[[Launches]]  <span style="color: LightSlateGray">></span>  022 - Love At First Insight
 
 >[!success] Mission Success
 

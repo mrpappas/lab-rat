@@ -14,6 +14,7 @@ payload_mass: Unknown
 recovery: Not Attempt Likely
 mission_link: https://rocketlabcorp.com/missions/missions-launched/symphony-in-the-stars/
 ---
+[[Launches]]  <span style="color: LightSlateGray">></span>  067 - Get The Hawk Outta Here
 
 >[!success] Mission Success
 

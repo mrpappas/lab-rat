@@ -15,6 +15,7 @@ payload_mass: 150 kg
 recovery: no attempt likely
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/iot-4-you-and-me/
 ---
+[[Launches]]  <span style="color: LightSlateGray">></span>  059 - IOT 4 You and Me
 
 >[!Success] Mission Success
 

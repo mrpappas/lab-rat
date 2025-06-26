@@ -16,6 +16,7 @@ payload_mass: 40 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/new-mission-page-2/
 ---
+[[Launches]]  <span style="color: LightSlateGray">></span>  033 - Virginia is for Launch Lovers
 
 >[!success] Mission Success
 

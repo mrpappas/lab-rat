@@ -16,6 +16,7 @@ payload_mass: 118 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/it-argos-up-from-here/
 ---
+[[Launches]]  <span style="color: LightSlateGray">></span>  031 - It Argos Up From Here
 
 >[!success] Mission Success
 

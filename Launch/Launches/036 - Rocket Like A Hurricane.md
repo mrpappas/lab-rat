@@ -16,6 +16,7 @@ payload_mass: 10 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/rocket-like-a-hurricane/
 ---
+[[Launches]]  <span style="color: LightSlateGray">></span>  036 - Rocket Like A Hurricane
 
 >[!success] Mission Success
 

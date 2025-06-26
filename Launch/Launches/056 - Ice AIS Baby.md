@@ -16,6 +16,7 @@ payload_mass: 150 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/ice-ais-baby/
 ---
+[[Launches]]  <span style="color: LightSlateGray">></span>  056 - Ice AIS Baby
 
 >[!Success] Mission Success
 

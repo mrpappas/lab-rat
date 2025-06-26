@@ -6,7 +6,7 @@ tags:
   - failure
 mission_name: "It's a Test"
 launch_date: 2017-05-25 04:20
-outcome: ❌ Failure
+outcome: "❌ Failure"
 customer: "N/A"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"
@@ -16,6 +16,7 @@ payload_mass: 0 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/its-a-test/
 ---
+[[Launches]]  <span style="color: LightSlateGray">></span>  001 - It's a Test
 
 >[!failure] Mission Failure
 

@@ -16,6 +16,7 @@ payload_mass: 100 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/owl-for-one-one-for-owl/
 ---
+[[Launches]]  <span style="color: LightSlateGray">></span>  051 - Owl For One, One For Owl
 
 >[!Success] Mission Success
 

@@ -14,6 +14,7 @@ payload_mass: 138 kg
 recovery: No Attempt
 mission_link: https://rocketlabcorp.com/missions/missions-launched/full-stream-ahead-2/
 ---
+[[Launches]]  <span style="color: LightSlateGray">></span>  065 - Full Stream Ahead
 
 >[!success]  Mission Success
 

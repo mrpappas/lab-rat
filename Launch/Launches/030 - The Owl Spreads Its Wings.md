@@ -16,6 +16,7 @@ payload_mass: 100 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/the-owl-spreads-its-wings/
 ---
+[[Launches]]  <span style="color: LightSlateGray">></span>  030 - The Owl Spreads Its Wings
 
 >[!success] Mission Success
 

@@ -16,6 +16,7 @@ payload_mass: Classified
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/live-and-let-fly/
 ---
+[[Launches]]  <span style="color: LightSlateGray">></span>  046 - Live And Let Fly
 
 >[!Success] Mission Success
 

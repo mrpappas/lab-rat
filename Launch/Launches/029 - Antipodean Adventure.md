@@ -16,6 +16,7 @@ payload_mass: Classified
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/antipodean-adventure/
 ---
+[[Launches]]  <span style="color: LightSlateGray">></span>  029 - Antipodean Adventure
 
 >[!success] Mission Success
 

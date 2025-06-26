@@ -16,6 +16,7 @@ payload_mass: 15 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/prefire-and-ice/
 ---
+[[Launches]]  <span style="color: LightSlateGray">></span>  049 - PREFIRE and ICE
 
 >[!Success] Mission Success
  

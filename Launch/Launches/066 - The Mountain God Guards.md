@@ -14,6 +14,7 @@ payload_mass: 100 kg
 recovery: No Attempt Likely
 mission_link: https://rocketlabcorp.com/missions/missions-launched/the-mountain-god-guards/
 ---
+[[Launches]]  <span style="color: LightSlateGray">></span>  066 - The Mountain God Guards
 
 >[!success] Mission Success
 

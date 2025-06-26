@@ -4,6 +4,8 @@
 | ----------- | ------------- | -------------------------------------------- |
 | [[Mynaric]] | March 11 2025 | $75 million + $75 million performance based  |
 | Geost       | May 27 2025   | $275 million + $50 million performance based |
+
+
 🔗 [[Rocket Lab Announces Intention to Acquire Mynaric, Leading Laser Communications Provider, in Latest Strategic Step Toward Becoming an End-to-End Space Company]]
 🔗 [[Rocket Lab Enters Payload Market with Agreement to Acquire Geost, Positioning Itself as Disruptive Prime to U.S. National Security]]
 
