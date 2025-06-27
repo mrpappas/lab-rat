@@ -17,7 +17,7 @@ payload_mass: 115 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/beginning-of-the-swarm/
 ---
-[[Home|🏠]]  <span style="color: LightSlateGray">></span>  [[Launches]]  <span style="color: LightSlateGray">></span>  047 - Beginning Of The Swarm
+[[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  047 - Beginning Of The Swarm
 
 >[!Success] Mission Success
 

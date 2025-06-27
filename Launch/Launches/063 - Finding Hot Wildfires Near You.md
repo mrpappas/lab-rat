@@ -14,7 +14,7 @@ payload_mass: Unknown
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/finding-hot-wildfires-near-you/
 ---
-[[Home|🏠]]  <span style="color: LightSlateGray">></span>  [[Launches]]  <span style="color: LightSlateGray">></span>  063 - Finding Hot Wildfires Near You
+[[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  063 - Finding Hot Wildfires Near You
 
 >[!success] Mission Success
 

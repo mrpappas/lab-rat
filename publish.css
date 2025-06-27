@@ -85,6 +85,14 @@ body:not(.links-int-on) {
     height: 100%;
     border: 0;
   }
+
+body:has(span.no-hover:hover) .popover,
+body:has(span.no-hover:hover) .hover-preview,
+body:has(span.no-hover:hover) .mod-popover {
+    display: none !important;
+    visibility: hidden !important;
+    opacity: 0 !important;
+}
   
 
   @media (max-width: 1300px) { /* Adjust width as needed */
@@ -100,4 +108,5 @@ body:not(.links-int-on) {
     table td:nth-child(8) {
         display: none;
     }
+
 }

@@ -19,7 +19,7 @@ payload_mass: 80 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/to-be-announced/
 ---
-[[Home|🏠]]  <span style="color: LightSlateGray">></span>  [[Launches]]  <span style="color: LightSlateGray">></span>  008 - Look Ma, No Hands
+[[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  008 - Look Ma, No Hands
 
 >[!success] Mission Success
 

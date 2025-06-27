@@ -19,7 +19,7 @@ payload_mass: 45 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/its-business-time/
 ---
-[[Home|🏠]]  <span style="color: LightSlateGray">></span>  [[Launches]]  <span style="color: LightSlateGray">></span>  003 - It's Business Time
+[[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  003 - It's Business Time
 
 >[!success] Mission Success
 

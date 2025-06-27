@@ -19,7 +19,7 @@ payload_mass: 77 kg
 recovery: Controlled (Atmosphere Test)
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/running-out-of-fingers/
 ---
-[[Home|🏠]]  <span style="color: LightSlateGray">></span>  [[Launches]]  <span style="color: LightSlateGray">></span>  010 - Running Out Of Fingers
+[[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  010 - Running Out Of Fingers
 
 >[!success] Mission Success
 

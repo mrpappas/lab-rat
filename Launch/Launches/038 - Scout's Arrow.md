@@ -16,7 +16,7 @@ payload_mass: unknown
 recovery: n/a
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/scouts-arrow/
 ---
-[[Home|🏠]]  <span style="color: LightSlateGray">></span>  [[Launches]]  <span style="color: LightSlateGray">></span>  038 - Scout's Arrow
+[[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  038 - Scout's Arrow
 
 >[!success] Mission Success
 

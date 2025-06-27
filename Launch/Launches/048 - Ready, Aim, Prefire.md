@@ -16,7 +16,7 @@ payload_mass: 15 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/ready-aim-prefire/
 ---
-[[Home|🏠]]  <span style="color: LightSlateGray">></span>  [[Launches]]  <span style="color: LightSlateGray">></span>  048 - Ready, Aim, Prefire
+[[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  048 - Ready, Aim, Prefire
 
 >[!Success] Mission Success
 

@@ -16,7 +16,7 @@ payload_mass: 224 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/stronger-together/
 ---
-[[Home|🏠]]  <span style="color: LightSlateGray">></span>  [[Launches]]  <span style="color: LightSlateGray">></span>  034 - Stronger Together
+[[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  034 - Stronger Together
 
 >[!success] Mission Success
 

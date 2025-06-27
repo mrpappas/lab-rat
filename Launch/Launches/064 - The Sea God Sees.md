@@ -14,7 +14,7 @@ payload_mass: 100 kg
 recovery: n/a
 mission_link:
 ---
-[[Home|🏠]]  <span style="color: LightSlateGray">></span>   [[Launches]]  <span style="color: LightSlateGray">></span>  064 - The Sea God Sees
+[[Home|🏠]]  <span style="color: LightSlateGray">></span>   <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  064 - The Sea God Sees
 
 >[!success] Mission Success
 

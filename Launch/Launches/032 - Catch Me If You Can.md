@@ -16,7 +16,7 @@ payload_mass: 50 kg
 recovery: Partial Failure (Aerial Capture)
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/catch-me-if-you-can/
 ---
-[[Home|🏠]]  <span style="color: LightSlateGray">></span>  [[Launches]]  <span style="color: LightSlateGray">></span>  032 - Catch Me If You Can
+[[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  032 - Catch Me If You Can
 
 >[!success] Mission Success
 

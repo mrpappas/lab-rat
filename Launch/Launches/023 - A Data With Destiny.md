@@ -16,7 +16,7 @@ payload_mass: 120 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/a-data-with-destiny/
 ---
-[[Home|🏠]]  <span style="color: LightSlateGray">></span>  [[Launches]]  <span style="color: LightSlateGray">></span>  023 - A Data With Destiny
+[[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  023 - A Data With Destiny
 
 >[!success] Mission Success
 

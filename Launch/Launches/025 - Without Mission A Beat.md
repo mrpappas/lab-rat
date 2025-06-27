@@ -16,7 +16,7 @@ payload_mass: 120 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/without-mission-a-beat/
 ---
-[[Home|🏠]]  <span style="color: LightSlateGray">></span>  [[Launches]]  <span style="color: LightSlateGray">></span>  025 - Without Mission A Beat
+[[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  025 - Without Mission A Beat
 
 >[!success] Mission Success
 
