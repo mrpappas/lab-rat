@@ -3,8 +3,8 @@
 name: Unseenlabs
 website: https://unseenlabs.space/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Unseenlabs
 
-**Name:** Unseenlabs
 **Website:** https://unseenlabs.space/
 
 >[!summary]

@@ -3,8 +3,8 @@
 name: Leidos
 website: https://www.leidos.com/markets/space
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Leidos
 
-**Name:** Leidos
 **Website:** https://www.leidos.com/markets/space
 
 >[!summary]

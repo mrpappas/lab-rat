@@ -3,8 +3,8 @@
 name: Boston University
 website: https://www.bu.edu/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Boston University
 
-**Name:** Boston University
 **Website:** https://www.bu.edu/
 
 ## 🚀 Launches

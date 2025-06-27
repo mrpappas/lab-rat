@@ -3,8 +3,8 @@
 name: In-Space Missions
 website: https://in-space.co.uk/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> In-Space Missions
 
-**Name:** In-Space Missions
 **Website:** https://in-space.co.uk/
 
 >[!summary]

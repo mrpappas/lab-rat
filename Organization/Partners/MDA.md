@@ -3,8 +3,8 @@
 name: MDA
 website: https://mda.space/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> MDA
 
-**Name:** MDA
 **Website:** https://mda.space/
 
 >[!summary]

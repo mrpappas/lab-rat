@@ -3,8 +3,8 @@
 name: Valve
 website: https://www.valvesoftware.com/en/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Valve
 
-**Name:** Valve
 **Website:** https://www.valvesoftware.com/en/
 
 >[!summary]

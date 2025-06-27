@@ -4,8 +4,8 @@ name: ALE
 website: https://star-ale.com/en/technology/
 
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> ALE
 
-**Name:** ALE
 **Website:** https://star-ale.com/en/technology/
 
 >[!summary]

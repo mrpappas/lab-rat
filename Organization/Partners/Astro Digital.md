@@ -3,8 +3,8 @@
 name: Astro Digital
 website: https://astrodigital.com/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Astro Digital
 
-**Name:** Astro Digital
 **Website:** https://astrodigital.com/
 
 >[!summary]

@@ -2,8 +2,8 @@
 name: Mynaric
 website: https://mynaric.com/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Mynaric
 
-**Name**: Mynaric
 **Website**: https://mynaric.com/
 
 >[!summary]

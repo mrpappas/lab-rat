@@ -3,8 +3,8 @@
 name: U.S. Space Force
 website: https://www.spaceforce.mil/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> U.S. Space Force
 
-**Name:** U.S. Space Force
 **Website:** https://www.spaceforce.mil/
 
 >[!summary]

@@ -3,8 +3,8 @@
 name: ISRO (Indian Space Research Organization)
 website: https://www.isro.gov.in/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> ISRO
 
-**Name:** ISRO (Indian Space Research Organization)
 **Website:** https://www.isro.gov.in/
 
 >[!summary]

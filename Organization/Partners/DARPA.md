@@ -3,8 +3,8 @@
 name: DARPA (Defense Advanced Research Projects Agency)
 website: https://www.darpa.mil/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> DARPA
 
-**Name:** DARPA (Defense Advanced Research Projects Agency)
 **Website:** https://www.darpa.mil/
 
 >[!summary]

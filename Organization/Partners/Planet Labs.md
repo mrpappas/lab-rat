@@ -3,8 +3,8 @@
 name: Planet Labs
 website: https://www.planet.com/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Planet Labs
 
-**Name:** Planet Labs
 **Website:** https://www.planet.com/
 
 >[!summary]

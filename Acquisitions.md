@@ -46,7 +46,8 @@ In a May '24 interview Peter Beck detailed Rocket Lab's methodology behind makin
 <div class="responsive-video">
 <iframe src="https://www.youtube.com/embed/T__1ubfs_iE?si=nWTVkV79XGGG3lz-&amp;start=1313" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
----- 
+
+
 ## Future Acquisitions
 
 Rocket lab has indicated it will likely make additional acquisition(s) in the future to support the build out and deployment of their own constellation / assets in orbit.  

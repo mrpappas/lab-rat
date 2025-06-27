@@ -3,8 +3,8 @@
 name: Eta Space
 website: https://etaspace.com/about
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Eta Space
 
-**Name:** Eta Space
 **Website:** https://etaspace.com/about
 
 >[!summary]

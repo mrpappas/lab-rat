@@ -3,8 +3,8 @@
 name: iQPS (Institute for Q-shu Pioneers of Space, Inc.)
 website: https://i-qps.net/en/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> iQPS
 
-**Name:** iQPS (Institute for Q-shu Pioneers of Space, Inc.)
 **Website:** https://i-qps.net/en/
 
 >[!summary]

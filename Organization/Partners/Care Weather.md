@@ -3,8 +3,8 @@
 name: Care Weather
 website: https://careweather.com/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Care Weather
 
-**Name:** Care Weather
 **Website:** https://careweather.com/
 
 >[!summary]

@@ -3,8 +3,8 @@
 name: Alaska Aerospace Corporation
 website: https://akaerospace.com/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Alaska Aerospace Corporation
 
-**Name:** Alaska Aerospace Corporation
 **Website:** https://akaerospace.com/
 
 ## 📰 News

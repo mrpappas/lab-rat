@@ -3,8 +3,8 @@
  name: Ball Aerospace
  website: https://en.wikipedia.org/wiki/Ball_Aerospace_%26_Technologies
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Ball Aerospace
 
-**Name:** Ball Aerospace
 **Website:** https://en.wikipedia.org/wiki/Ball_Aerospace_%26_Technologies
 
 >[!summary]

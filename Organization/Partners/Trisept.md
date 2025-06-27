@@ -3,8 +3,7 @@
 name: Trisept
 website: https://trisept.com/
 ---
-
-**Name:** Trisept
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Trisept
 **Website:** https://trisept.com/
 
 >[!summary]

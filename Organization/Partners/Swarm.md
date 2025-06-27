@@ -3,8 +3,8 @@
 name: Swarm
 website: https://en.wikipedia.org/wiki/Swarm_Technologies
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Swarm
 
-**Name:** Swarm
 **Website:** https://en.wikipedia.org/wiki/Swarm_Technologies
 
 Subsidiary of [[SpaceX]]

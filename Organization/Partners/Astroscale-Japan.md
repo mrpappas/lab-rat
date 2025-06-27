@@ -3,8 +3,8 @@
 name: Astroscale-Japan
 website: https://astroscale.com/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Astroscale-Japan
 
-**Name:** Astroscale-Japan
 **Website:** https://astroscale.com/
 
 >[!summary]

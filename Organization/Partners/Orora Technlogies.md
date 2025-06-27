@@ -2,7 +2,8 @@
 name: Orora Technologies
 website: https://ororatech.com/
 ---
-Name: Orora Technologies
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Orora Technlogies
+
 Website: https://ororatech.com/
 
 >[!summary]

@@ -3,13 +3,30 @@
 name: HawkEye 360
 website: https://www.he360.com/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> HawkEye 360
 
-**Name:** HawkEye 360
 **Website:** https://www.he360.com/
 
 >[!summary]
 HawkEye 360 is a geospatial analytics company that operates a constellation of satellites to detect, characterize, and geolocate radio frequency (RF) signals. Their services provide insights for applications such as maritime domain awareness, spectrum monitoring, and national security. By analyzing RF data, HawkEye 360 helps identify illegal activities like maritime piracy, smuggling, and unlicensed spectrum usage.
 
+## 🚀 Launches
+
+%%DATAVIEW_PUBLISHER: start
+```
+table launch_date as "Date", location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
+from "Launch/Launches"
+where contains(customer, [[HawkEye 360]])
+sort launch_date desc
+```
+%%
+
+| File                                                                                            | Date             | Location                                               | Vehicle                          | Orbit & Mass                | Outcome   |
+| ----------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------------ | -------------------------------- | --------------------------- | --------- |
+| [[Launch/Launches/067 - Get The Hawk Outta Here.md\|067 - Get The Hawk Outta Here]]             | 2025-06-26 17:00 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC-1A]]  | [[Launch/Electron.md\|Electron]] | 520 km \| 97.45° \| Unknown | ✅ Success |
+| [[Launch/Launches/033 - Virginia is for Launch Lovers.md\|033 - Virginia is for Launch Lovers]] | 2023-01-24 23:00 | [[Locations/Launch Complex 2.md#Launch Pad 0C\|LC2-0]] | [[Launch/Electron.md\|Electron]] | 550 km \| 40.5° \| 40 kg    | ✅ Success |
+
+%%DATAVIEW_PUBLISHER: end %%
 ## 🛰️ Space Systems
 
 ### Hawk Satellite
@@ -30,23 +47,6 @@ Source: https://www.eoportal.org/satellite-missions/hawkeye-360#eop-quick-facts-
 ![[Pasted image 20250403032519.png]]
 
 
-## 🚀 Launches
-
-%%DATAVIEW_PUBLISHER: start
-```
-table launch_date as "Date", location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
-from "Launch/Launches"
-where contains(customer, [[HawkEye 360]])
-sort launch_date desc
-```
-%%
-
-| File                                                                                            | Date             | Location                                               | Vehicle                          | Orbit & Mass                | Outcome   |
-| ----------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------------ | -------------------------------- | --------------------------- | --------- |
-| [[Launch/Launches/067 - Get The Hawk Outta Here.md\|067 - Get The Hawk Outta Here]]             | 2025-06-26 17:00 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC-1A]]  | [[Launch/Electron.md\|Electron]] | 520 km \| 97.45° \| Unknown | ✅ Success |
-| [[Launch/Launches/033 - Virginia is for Launch Lovers.md\|033 - Virginia is for Launch Lovers]] | 2023-01-24 23:00 | [[Locations/Launch Complex 2.md#Launch Pad 0C\|LC2-0]] | [[Launch/Electron.md\|Electron]] | 550 km \| 40.5° \| 40 kg    | ✅ Success |
-
-%%DATAVIEW_PUBLISHER: end %%
 
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start

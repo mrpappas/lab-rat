@@ -3,8 +3,8 @@
 name: Aurora Propulsion Technologies
 website: https://aurorapt.space/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Aurora Propulsion Technologies
 
-**Name:** Aurora Propulsion Technologies
 **Website:** https://aurorapt.space/
 
 >[!summary]

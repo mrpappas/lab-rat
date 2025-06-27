@@ -4,8 +4,8 @@ name: Alba Orbital
 website: https://www.albaorbital.com/
 
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Alba Orbital
 
-**Name:** Alba Orbital
 **Website:** https://www.albaorbital.com/
 
 >[!summary]

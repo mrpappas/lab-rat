@@ -3,8 +3,8 @@
 name: General Atomics Electromagnetic Systems
 website: https://www.ga.com/about/ems
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> GA-EMS
 
-**Name:** General Atomics Electromagnetic Systems
 **Website:** https://www.ga.com/about/ems
 
 >[!summary]

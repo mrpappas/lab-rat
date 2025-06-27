@@ -3,8 +3,8 @@
 name: EUMETSAT (European Organisation for the Exploitation of Meteorological Satellites)
 website:
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> EUMETSAT
 
-**Name:** EUMETSAT (European Organisation for the Exploitation of Meteorological Satellites)
 **Website:** None
 
 >[!summary]

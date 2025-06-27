@@ -2,8 +2,8 @@
 name: Airbus
 website: https://www.airbus.com/en
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Airbus
 
-**Name**: Airbus
 **Website**: https://www.airbus.com/en
 
 >[!summary]

@@ -3,8 +3,8 @@
 name: Canon Electronics
 website: https://en.canon-elec.co.jp/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Canon Electronics
 
-**Name:** Canon Electronics
 **Website:** https://en.canon-elec.co.jp/
 
 >[!summary]

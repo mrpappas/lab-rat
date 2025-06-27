@@ -3,8 +3,8 @@
 name: York Space
 website: https://www.yorkspacesystems.com/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> York Space Systems
 
-**Name:** York Space
 **Website:** https://www.yorkspacesystems.com/
 
 >[!summary]

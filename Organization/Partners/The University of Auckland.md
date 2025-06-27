@@ -3,8 +3,8 @@
 name: The University of Auckland
 website: https://apss.space.auckland.ac.nz/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> The University of Auckland
 
-**Name:** The University of Auckland
 **Website:** https://apss.space.auckland.ac.nz/
 
 >[!summary]

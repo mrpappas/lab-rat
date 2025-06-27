@@ -3,8 +3,8 @@
 name: Hypersonix
 website: https://www.hypersonix.com/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Hypersonix
 
-**Name:** Hypersonix
 **Website:** https://www.hypersonix.com/
 
 >[!summary]

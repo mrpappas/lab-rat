@@ -3,8 +3,8 @@
 name: BlackSky
 website: https://www.blacksky.com/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> BlackSky
 
-**Name:** BlackSky
 **Website:** https://www.blacksky.com/
 
 >[!summary]

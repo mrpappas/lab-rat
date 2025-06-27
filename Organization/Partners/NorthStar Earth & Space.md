@@ -3,8 +3,8 @@
 name: NorthStar Earth & Space
 website: https://northstar-data.com/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> NorthStar Earth & Space
 
-**Name:** NorthStar Earth & Space
 **Website:** https://northstar-data.com/
 
 >[!summary]

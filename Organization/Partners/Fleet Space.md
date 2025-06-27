@@ -3,8 +3,8 @@
 name: Fleet Space
 website: https://www.fleetspace.com/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Fleet Space
 
-**Name:** Fleet Space
 **Website:** https://www.fleetspace.com/
 
 >[!summary]

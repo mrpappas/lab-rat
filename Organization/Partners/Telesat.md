@@ -3,8 +3,8 @@
 name: Telesat
 website: https://www.telesat.com/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Telesat
 
-**Name:** Telesat
 **Website:** https://www.telesat.com/
 
 >[!summary]

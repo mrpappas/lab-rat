@@ -3,8 +3,8 @@
 name: CNES (France’s National Centre for Space Studies)
 website: https://cnes.fr/en
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> CNES
 
-**Name:** CNES (France’s National Centre for Space Studies)
 **Website:** https://cnes.fr/en
 
 >[!summary]

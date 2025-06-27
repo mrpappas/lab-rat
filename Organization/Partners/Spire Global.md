@@ -3,8 +3,8 @@
 name: Spire Global
 website: https://spire.com/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Spire Global
 
-**Name:** Spire Global
 **Website:** https://spire.com/
 
 >[!summary]

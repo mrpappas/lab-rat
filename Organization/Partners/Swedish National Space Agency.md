@@ -3,8 +3,8 @@
 name: Swedish National Space Agency
 website: https://www.rymdstyrelsen.se/en/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Swedish National Space Agency
 
-**Name:** Swedish National Space Agency
 **Website:** https://www.rymdstyrelsen.se/en/
 
 >[!summary]

@@ -3,8 +3,8 @@
 name: KAIST (Korea Advanced Institute of Science and Technology)
 website: https://www.kaist.ac.kr/en/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> KAIST
 
-**Name:** KAIST (Korea Advanced Institute of Science and Technology)
 **Website:** https://www.kaist.ac.kr/en/
 
 >[!summary]

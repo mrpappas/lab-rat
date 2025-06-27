@@ -3,8 +3,8 @@
 name: Astrix Astronautics
 website: https://astrix.space/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Astrix Astronautics
 
-**Name:** Astrix Astronautics
 **Website:** https://astrix.space/
 
 >[!summary]

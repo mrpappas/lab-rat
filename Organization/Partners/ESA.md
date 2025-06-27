@@ -2,5 +2,6 @@
 name: ESA (European Space Agency)
 website: https://www.esa.int/
 ---
-Name: ESA (European Space Agency)
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> ESA
+
 Website: https://www.esa.int/

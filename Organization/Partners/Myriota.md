@@ -3,8 +3,8 @@
 name: Myriota
 website: https://myriota.com/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Myriota
 
-**Name:** Myriota
 **Website:** https://myriota.com/
 
 >[!summary]

@@ -3,8 +3,8 @@
 name: Synspective
 website: https://synspective.com/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Synspective
 
-**Name:** Synspective
 **Website:** https://synspective.com/
 
 

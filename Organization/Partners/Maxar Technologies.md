@@ -3,8 +3,8 @@
 name: Maxar Technologies
 website: https://www.maxar.com/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Maxar Technologies
 
-**Name:** Maxar Technologies
 **Website:** https://www.maxar.com/
 
 >[!summary]

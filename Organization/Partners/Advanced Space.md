@@ -3,8 +3,8 @@
 name: Advanced Space
 website: https://advancedspace.com/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Advanced Space
 
-**Name:** Advanced Space
 **Website:** https://advancedspace.com/
 
 >[!summary]

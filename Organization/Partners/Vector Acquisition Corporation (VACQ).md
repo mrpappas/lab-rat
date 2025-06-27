@@ -2,7 +2,7 @@
 
 name: Vector Acquisition Corporation (VACQ)
 ---
-
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> York Space Systems
 **Name:** Vector Acquisition Corporation (VACQ)
 
 >[!summary]

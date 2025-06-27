@@ -3,7 +3,8 @@
 name: EchoStar
 website: https://www.echostar.com/
 ---
-**Name**: EchoStar
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> EchoStar
+
 **Website**: https://www.echostar.com/
 **Ticker**: [SATS](https://finance.yahoo.com/quote/SATS/)
 

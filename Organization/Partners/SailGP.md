@@ -3,8 +3,8 @@
 name: SailGP Technologies
 website: https://www.sailgptechnologies.com/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> SailGP
 
-**Name:** SailGP Technologies
 **Website:** https://www.sailgptechnologies.com/
 
 >[!summary]

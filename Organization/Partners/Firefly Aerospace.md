@@ -2,7 +2,8 @@
 name: Firefly Aerospace
 website: https://fireflyspace.com/
 ---
-**Name**: Firefly Aerospace
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Firefly Aerospace
+
 **Website**: https://fireflyspace.com/
 
 >[!summary]

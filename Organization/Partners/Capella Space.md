@@ -3,8 +3,8 @@
 name: Capella Space
 website: https://www.capellaspace.com/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Capella Space
 
-**Name:** Capella Space
 **Website:** https://www.capellaspace.com/
 
 >[!summary]

@@ -2,8 +2,8 @@
 name: CesiumAstro
 website: https://www.cesiumastro.com/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> CesiumAstro
 
-**Name**: CesiumAstro
 **Website**: https://www.cesiumastro.com/
 
 >[!summary]

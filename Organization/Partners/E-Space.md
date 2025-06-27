@@ -3,8 +3,8 @@
 name: E-Space
 website: https://e-space.com/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> E-Space
 
-**Name:** E-Space
 **Website:** https://e-space.com/
 
 >[!summary]
