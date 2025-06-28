@@ -21,9 +21,6 @@ A scalable, long-life, high-power, stackable satellite, Flatellite enables secur
 
 ![[Pasted image 20250302165128.png]]
 
->[!tip] Stacking
->A render from the [[2024 Q4|Q4 Investor Presentation]] apparently shows 16 Flatellites in a stack. Given Neutron's expected reusable payload to LEO, we can assume the Flatellites weigh no more than ~800 kg. 13,000 kg / 16 = 812.5 kg.
-
 ![[Pasted image 20250302165631.png]]
 
 ## Notes

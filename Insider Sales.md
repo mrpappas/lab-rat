@@ -1,3 +1,4 @@
+[[Home|🏠]] <span style="color: LightSlateGray">></span> Insider Sales
 
 >[!tip] For more info on Rocket Lab's SEC filings [check out their investor relations page](https://investors.rocketlabusa.com/financials/sec-filings/default.aspx)
 

@@ -1,3 +1,4 @@
+[[Home|🏠]] <span style="color: LightSlateGray">></span> Acquisitions
 ## Pending Acquisitions
 
 | Company     | Date          | Cost                                         |

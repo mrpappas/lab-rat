@@ -1,3 +1,5 @@
+[[Home|🏠]] <span style="color: LightSlateGray">></span> News
+
 %% DATAVIEW_PUBLISHER: start
 ```
 table published as "Published"

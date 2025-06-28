@@ -1,3 +1,5 @@
+[[Home|🏠]] <span style="color: LightSlateGray">></span> Subsidiaries
+
 %% DATAVIEW_PUBLISHER: start
 ```
 table acquired 

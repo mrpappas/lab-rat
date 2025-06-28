@@ -1,3 +1,5 @@
+[[Home|🏠]] <span style="color: LightSlateGray">></span> Board of Directors
+
 %% DATAVIEW_PUBLISHER: start
 ```
 table shares_owned as "Shares Owned"

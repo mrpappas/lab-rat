@@ -1,4 +1,4 @@
-This page contains a summary of Rocket Lab's Space Systems components, spacecraft, solar solutions, etc. 
+[[Home|🏠]] <span style="color: LightSlateGray">></span> Space Systems
 ## 🛸 Spacecraft
 
 %% DATAVIEW_PUBLISHER: start
