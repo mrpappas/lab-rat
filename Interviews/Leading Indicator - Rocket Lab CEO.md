@@ -4,14 +4,15 @@ source: Leading Indicator
 link: https://www.youtube.com/watch?v=mvhF8tZitug
 date: 2025-01-21
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> January 21 2025
 
 **Insider**: [[Peter Beck]]
 **Source**: [Leading Indicator](https://www.youtube.com/watch?v=mvhF8tZitug)
 **Date**: January 21 2025
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/mvhF8tZitug" title="Rocket Lab CEO on New Spacecraft, Trump Presidency, and Mission to Venus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=mvhF8tZitug)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=mvhF8tZitug
 
 ## 🎙️ Transcript
 

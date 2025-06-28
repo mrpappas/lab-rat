@@ -4,14 +4,15 @@ source: Morgan Stanley 12th Annual Laguna Conference
 link: https://www.youtube.com/watch?v=DJfOqUBYZSY
 date: 2024-09-12
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> September 12 2024
 
 **Insider**: [[Adam Spice]]
 **Source**: [Morgan Stanley 12th Annual Laguna Conference](https://www.youtube.com/watch?v=DJfOqUBYZSY)
 **Date**: September 12 2024
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/DJfOqUBYZSY" title="The mind blowing things Adam Spice CFO Rocket Lab said at the Morgan Stanley Conference 🚀" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=DJfOqUBYZSY)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=DJfOqUBYZSY
 
 ## 🎙️ Transcript
 

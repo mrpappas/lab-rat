@@ -4,14 +4,15 @@ source: Sharesies
 link: https://www.youtube.com/watch?v=xadNDJVBNQU
 date: 2023-05-17
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> May 17 2023
 
 **Insider**: [[Peter Beck]]
 **Source**: [Sharesies](https://www.youtube.com/watch?v=xadNDJVBNQU)
 **Date**: May 17 2023
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/xadNDJVBNQU" title="Counting down to liftoff with Rocket Lab" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=xadNDJVBNQU)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=xadNDJVBNQU
 
 ## 🎙️ Transcript
 

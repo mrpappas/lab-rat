@@ -4,14 +4,15 @@ source: U.S. Chamber of Commerce Global Aerospace Summit
 link: https://www.youtube.com/watch?v=kB50pxINgL4
 date: 2022-09-14
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> September 14 2022
 
 **Insider**: [[Peter Beck]]
 **Source**: [U.S. Chamber of Commerce Global Aerospace Summit](https://www.youtube.com/watch?v=kB50pxINgL4)
 **Date**: September 14 2022
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/kB50pxINgL4" title="Building Public-Private Partnerships in Space Exploration | Global Aerospace Summit" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=kB50pxINgL4)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=kB50pxINgL4
 
 ## 🎙️ Transcript
 

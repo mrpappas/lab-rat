@@ -4,14 +4,15 @@ source: Spaceflight Now
 link: https://www.youtube.com/watch?v=_nBWcogAy9g
 date: 2022-02-23
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> February 23 2022
 
 **Insider**: [[Peter Beck]]
 **Source**: [Spaceflight Now](https://www.youtube.com/watch?v=_nBWcogAy9g)
 **Date**: February 23 2022
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/_nBWcogAy9g" title="Spaceflight Now talks with Peter Beck about Rocket Lab&#39;s new launch pad" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=_nBWcogAy9g)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=_nBWcogAy9g
 
 ## 🎙️ Transcript
 

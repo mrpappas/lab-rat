@@ -6,6 +6,7 @@ shares_owned:
 joined: 2013-01-01
 linkedin: https://www.linkedin.com/in/lachlan-matchett-9524813b/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[People]] <span style="color: LightSlateGray">></span> Lachlan Matchett
 
 **Name:** Lachlan Matchett
 **Role:** Deputy Chief Engineer

@@ -4,13 +4,15 @@ source: Markets with Madison
 link: https://www.youtube.com/watch?v=MqVqj1lmQzQ
 date: 2025-05-19
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> 2025-05-19
 
 **Insider**: [[Peter Beck]]
-**Source**: https://www.youtube.com/watch?v=MqVqj1lmQzQ
+**Source**: [Markets with Madison](https://www.youtube.com/watch?v=MqVqj1lmQzQ)
 **Date**: 2025-05-19
 
 ![](https://www.youtube.com/watch?v=MqVqj1lmQzQ)
 
+🔗 Backup Link: https://www.youtube.com/watch?v=MqVqj1lmQzQ
 
 ## 🎙️ Transcript
 

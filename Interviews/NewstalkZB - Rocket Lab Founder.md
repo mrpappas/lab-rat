@@ -4,6 +4,7 @@ source: NewstalkZB
 link: https://www.newstalkzb.co.nz/on-air/holiday-breakfast/audio/sir-peter-beck-rocket-lab-founder-on-the-strength-of-the-company-his-career-history/
 date: 2025-01-17
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> January 17 2025
 
 **Insider**: [[Peter Beck]]
 **Source**: [NewstalkZB](https://www.newstalkzb.co.nz/on-air/holiday-breakfast/audio/sir-peter-beck-rocket-lab-founder-on-the-strength-of-the-company-his-career-history/)

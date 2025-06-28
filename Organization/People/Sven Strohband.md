@@ -5,6 +5,7 @@ shares_owned: 324,341
 joined: 2013-10-01
 linkedin: https://www.linkedin.com/in/sven-strohband-348b841/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[People]] <span style="color: LightSlateGray">></span> Sven Strohband
 
 **Name:** Sven Strohband
 **Role:** Director (Khosla Ventures)

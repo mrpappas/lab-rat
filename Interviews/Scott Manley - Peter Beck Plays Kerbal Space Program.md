@@ -4,14 +4,15 @@ source: Scott Manley
 link: https://www.youtube.com/watch?v=FWKLiJu7EtA
 date: 2020-12-18
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> December 18 2020
 
 **Insider**: [[Peter Beck]]
 **Source**: [Scott Manley](https://www.youtube.com/watch?v=FWKLiJu7EtA)
 **Date**: December 18 2020
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/FWKLiJu7EtA" title="Rocket Lab CEO Peter Beck &amp; Kerbal Space Program" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=FWKLiJu7EtA)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=FWKLiJu7EtA
 
 ## 🎙️ Transcript
 

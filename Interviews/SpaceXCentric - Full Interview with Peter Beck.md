@@ -4,14 +4,15 @@ source: SpaceXCentric Youtube
 link: https://www.youtube.com/watch?v=kFX2rPvIWqo
 date: 2020-06-10
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> June 10 2020
 
 **Insider**: [[Peter Beck]]
 **Source**: [SpaceXCentric Youtube](https://www.youtube.com/watch?v=kFX2rPvIWqo)
 **Date**: June 10 2020
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/kFX2rPvIWqo" title="Full Interview with Rocket Lab CEO, Peter Beck" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=kFX2rPvIWqo)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=kFX2rPvIWqo
 
 ## 🎙️ Transcript
 

@@ -6,6 +6,7 @@ shares_owned: 574,883
 joined: 2022-04-15
 linkedin: https://www.linkedin.com/in/arjunkampani/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[People]] <span style="color: LightSlateGray">></span> Arjun Kampani
 
 **Name:** Arjun Kampani
 **Role:** Senior Vice President - General Counsel and Corporate Secretary

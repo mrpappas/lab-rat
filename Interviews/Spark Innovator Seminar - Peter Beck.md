@@ -4,14 +4,15 @@ source: Spark Innovator Conference 2015
 link: https://www.youtube.com/watch?v=ILAu-yGuLIQ
 date: 2015-09-15
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> September 15 2015
 
 **Insider**: [[Peter Beck]]
 **Source**: [Spark Innovator Conference 2015](https://www.youtube.com/watch?v=ILAu-yGuLIQ)
 **Date**: September 15 2015
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/ILAu-yGuLIQ" title="Spark - Peter Beck - Innovator Seminar Highlights" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=ILAu-yGuLIQ)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=ILAu-yGuLIQ
 
 ## 🎙️ Transcript
 

@@ -4,15 +4,15 @@ source: Yahoo Finance
 link: https://www.youtube.com/watch?v=5-9uy8gXYdw
 date: 2022-09-22
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> September 22 2022
 
 **Insider**: [[Peter Beck]]
 **Source**: [Yahoo Finance](https://www.youtube.com/watch?v=5-9uy8gXYdw)
 **Date**: September 22 2022
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/5-9uy8gXYdw" title="Rocket Lab seeks to build ‘an end-to-end space company,’ founder says" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=IueD0_f7O8k)
 
+🔗 Backup Link: https://www.youtube.com/watch?v=IueD0_f7O8k
 ## 🎙️ Transcript
 
 >[!hint] Transcript may contain errors or inaccuracies.

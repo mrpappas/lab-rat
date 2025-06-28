@@ -8,6 +8,7 @@ linkedin: https://www.linkedin.com/in/ken-possenriede-756514195/
 tags:
  - board-member
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[People]] <span style="color: LightSlateGray">></span> Kenneth R. Possenriede
 
 #board-member
 **Name:** Kenneth R. Possenriede

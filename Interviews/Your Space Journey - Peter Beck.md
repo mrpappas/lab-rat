@@ -4,14 +4,15 @@ source: Your Space Journey Podcast
 link: https://www.youtube.com/watch?v=N8CTwU0gJ74
 date: 2019-11-25
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> November 25 2019
 
 **Insider**: [[Peter Beck]]
 **Source**: [Your Space Journey Podcast](https://www.youtube.com/watch?v=N8CTwU0gJ74)
 **Date**: November 25 2019
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/N8CTwU0gJ74" title="Rocket Lab founder Peter Beck discusses Electron, Proton &amp; new Wallops Island launch facility" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=N8CTwU0gJ74)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=N8CTwU0gJ74
 
 ## 🎙️ Transcript
 

@@ -4,14 +4,15 @@ source: TechCrunch
 link: https://www.youtube.com/watch?v=OZ-tEuGRffo
 date: 2019-09-26
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> September 26 2019
 
 **Insider**: "[[Peter Beck]]"
 **Source**: [TechCrunch](https://www.youtube.com/watch?v=OZ-tEuGRffo)
 **Date**: September 26 2019
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/OZ-tEuGRffo" title="Launching a New Space Economy with Natalya Bailey, Peter Beck and Will Marshall" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=OZ-tEuGRffo)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=OZ-tEuGRffo
 
 ## 🎙️ Transcript
 

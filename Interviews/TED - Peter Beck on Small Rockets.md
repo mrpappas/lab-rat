@@ -4,14 +4,15 @@ source: TED
 link: https://www.youtube.com/watch?v=DhnBn_c9f8Q
 date: 2019-12-09
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> December 9 2019
 
 **Insider**: [[Peter Beck]]
 **Source**: [TED](https://www.youtube.com/watch?v=DhnBn_c9f8Q)
 **Date**: December 9 2019
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/DhnBn_c9f8Q" title="Small rockets are the next space revolution | Peter Beck" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=DhnBn_c9f8Q)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=DhnBn_c9f8Q
 
 ## 🎙️ Transcript
 

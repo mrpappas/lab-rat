@@ -4,14 +4,15 @@ source: Launch Canada Lecture Series
 link: https://www.youtube.com/watch?v=MGEWn3c04oU
 date: 2020-05-19
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> May 19 2020
 
 **Insider**: [[Peter Beck]]
 **Source**: [Launch Canada Lecture Series](https://www.youtube.com/watch?v=MGEWn3c04oU)
 **Date**: May 19 2020
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/MGEWn3c04oU" title="Launch Canada Lecture Series Episode 1 - Peter Beck" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=MGEWn3c04oU)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=MGEWn3c04oU
 
 ## 🎙️ Transcript
 

@@ -4,14 +4,15 @@ source: Off-Nominal
 link: https://www.youtube.com/watch?v=wo-IGp-agiI
 date: 2024-06-13
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> June 13 2024
 
 **Insider**: [[Peter Beck]]
 **Source**: [Off-Nominal](https://www.youtube.com/watch?v=wo-IGp-agiI)
 **Date**: June 13 2024
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/wo-IGp-agiI" title="Episode 155 - Unhinged Planetary Desire (with Peter Beck, CEO of Rocket Lab)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=wo-IGp-agiI)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=wo-IGp-agiI
 
 ## 🎙️ Transcript
 

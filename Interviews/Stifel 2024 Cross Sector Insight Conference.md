@@ -4,14 +4,15 @@ source: Stifel 2024 Cross Sector Insight Conference
 link: https://www.youtube.com/watch?v=CyWKcnxHoN4
 date: 2024-06-04
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> June 4 2024
 
 **Insider**: [[Adam Spice]]
 **Source**: [Stifel 2024 Cross Sector Insight Conference](https://www.youtube.com/watch?v=CyWKcnxHoN4)
 **Date**: June 4 2024
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/CyWKcnxHoN4" title="Adam Spice speaks at 2024 Stifel Cross Sector Insight Conference" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=CyWKcnxHoN4)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=CyWKcnxHoN4
 
 ## 🎙️ Transcript
 

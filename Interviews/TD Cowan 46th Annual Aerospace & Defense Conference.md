@@ -4,14 +4,15 @@ source: TD Cowan 46th Annual Aerospace & Defense Conference
 link: https://www.youtube.com/watch?v=0-VRTqB5rbA
 date: 2025-02-12
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> February 12 2025
 
 **Insider**: [[Adam Spice]]
 **Source**:  [TD Cowan 46th Annual Aerospace & Defense Conference](https://www.youtube.com/watch?v=0-VRTqB5rbA)
 **Date**: February 12 2025
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/0-VRTqB5rbA" title="TD Cowan 46th Annual Aerospace &amp; Defense Conference" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=0-VRTqB5rbA)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=0-VRTqB5rbA
 
 ## 🎙️ Transcript
 

@@ -4,15 +4,15 @@ source: Everyday Astronaut
 link: https://www.youtube.com/watch?v=Nj9BncsgvuQ
 date: 2018-11-02
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> November 2 2018
 
 **Insider**: "[[Peter Beck]]"
 **Source**: [Everyday Astronaut](https://www.youtube.com/watch?v=Nj9BncsgvuQ)
 **Date**: November 2 2018
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/Nj9BncsgvuQ" title="A conversation with Rocket Lab founder and CEO Peter Beck" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=Nj9BncsgvuQ)
 
+🔗 Backup Link: https://www.youtube.com/watch?v=Nj9BncsgvuQ
 ## 🎙️ Transcript
 
 >[!hint] Transcript may contain errors or inaccuracies.

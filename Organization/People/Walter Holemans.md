@@ -4,6 +4,7 @@ role: Engineering Fellow
 shares_owned: 
 joined: 2021-11-15
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[People]] <span style="color: LightSlateGray">></span> Walter Holemans
 
 **Name:** Walter Holemans
 **Role:** Engineering Fellow

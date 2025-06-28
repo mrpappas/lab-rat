@@ -4,6 +4,7 @@ source: Core Memory
 link: https://www.youtube.com/watch?v=NDj3EmGmR4U
 date: 2025-05-22
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> May 22 2025
 
 **Insider**: [[Peter Beck]]
 **Source**: [Core Memory](https://www.youtube.com/watch?v=NDj3EmGmR4U)

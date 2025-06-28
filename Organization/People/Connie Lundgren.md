@@ -6,6 +6,7 @@ shares_owned:
 joined: 2024-02-01
 linkedin: https://www.linkedin.com/in/connie-lundgren/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[People]] <span style="color: LightSlateGray">></span> Connie Lundgren
 
 **Name:** Connie Lundgren
 **Role:** Vice President - People & Culture

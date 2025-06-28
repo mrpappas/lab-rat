@@ -6,14 +6,15 @@ source: Wish I Knew Podcast
 link: https://www.youtube.com/watch?v=IueD0_f7O8k
 date: 2023-06-15
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> June 15 2023
 
 **Insider**: [[Peter Beck]], [[David Cowan]] (Interviewer)
 **Source**: [Wish I Knew Podcast](https://www.youtube.com/watch?v=IueD0_f7O8k)
 **Date**: June 15 2023
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/IueD0_f7O8k" title="Peter Beck: How one CEO transformed his fascination with space into a billion-dollar rocket company" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=IueD0_f7O8k)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=IueD0_f7O8k
 
 ## 🎙️ Transcript
 

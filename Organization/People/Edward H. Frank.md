@@ -8,6 +8,7 @@ linkedin: https://www.linkedin.com/in/edfrank/
 tags:
   - board-member
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[People]] <span style="color: LightSlateGray">></span> Edward H. Frank
 
 #board-member
 **Name:** Edward H. Frank

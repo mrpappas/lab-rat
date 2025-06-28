@@ -5,14 +5,15 @@ event: 25th Annual International Mars Society Convention
 link: https://www.youtube.com/watch?v=cNQOl7Zqolg
 date: 2022-11-03
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> November 3 2022
 
 **Insider**: [[Peter Beck]]
 **Source**: [25th Annual International Mars Society Convention](https://www.youtube.com/watch?v=cNQOl7Zqolg)
 **Date**: November 3 2022
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/cNQOl7Zqolg" title="Peter Beck - CEO, Rocket Lab - 25th Annual International Mars Society Convention" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=cNQOl7Zqolg)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=cNQOl7Zqolg
 
 ## 🎙️ Transcript
 

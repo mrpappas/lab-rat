@@ -4,14 +4,15 @@ source: Martkets with Madison
 link: https://www.youtube.com/watch?v=yPfK1sjo2KE
 date: 2023-05-18
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> May 18 2023
 
 **Insider**: [[Peter Beck]]
 **Source**: [Markets with Madison](https://www.youtube.com/watch?v=yPfK1sjo2KE)
 **Date**: May 18 2023
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/yPfK1sjo2KE" title="Peter Beck on Elon Musk&#39;s SpaceX | nzherald.co.nz" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=yPfK1sjo2KE)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=yPfK1sjo2KE
 
 ## 🎙️ Transcript
 

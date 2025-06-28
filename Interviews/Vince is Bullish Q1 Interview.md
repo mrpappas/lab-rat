@@ -4,14 +4,15 @@ source: Vince is Bullish
 link: https://www.youtube.com/watch?v=T__1ubfs_iE&t=849s
 date: 2024-05-08
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> May 8 2024
 
 **Insider**: [[Peter Beck]]
 **Source**: [Vince is Bullish](https://www.youtube.com/watch?v=T__1ubfs_iE&t=849s)
 **Date**: May 8 2024
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/T__1ubfs_iE" title="A Conversation With Rocket Lab CEO Peter Beck About The Future" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=T__1ubfs_iE)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=T__1ubfs_iE
 
 ## 🎙️ Transcript
 

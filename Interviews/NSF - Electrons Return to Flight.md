@@ -4,14 +4,15 @@ source: NASASpaceflight
 link: https://www.youtube.com/watch?v=C3l87aPWUCk
 date: 2023-11-12
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> November 12 2023
 
 **Insider**: [[Peter Beck]]
 **Source**: [NASASpaceflight](https://www.youtube.com/watch?v=C3l87aPWUCk)
 **Date**: November 12 2023
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/C3l87aPWUCk" title="Electrons Return to Flight, Neutron, and more - With Peter Beck - NSF Live" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=C3l87aPWUCk)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=C3l87aPWUCk
 
 ## 🎙️ Transcript
 

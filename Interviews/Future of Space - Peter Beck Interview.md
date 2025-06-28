@@ -4,14 +4,15 @@ source: Future of Space Podcast
 link: https://www.youtube.com/watch?v=ltHzcxYKFMw
 date: 2022-07-19
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> July 19 2022
 
 **Insider**: [[Peter Beck]]
 **Source**: [Future of Space Podcast](https://www.youtube.com/watch?v=ltHzcxYKFMw)
 **Date**: July 19 2022
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/ltHzcxYKFMw" title="F.O.S. Peter Beck Interview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=ltHzcxYKFMw)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=ltHzcxYKFMw
 
 ## 🎙️ Transcript
 

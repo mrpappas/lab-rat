@@ -4,14 +4,15 @@ source: DRAKE
 link: https://www.youtube.com/watch?v=sN_0i2pA0_U
 date: 2018-06-18
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> June 18 2018
 
 **Insider**: [[Peter Beck]]
 **Source**: [DRAKE](https://www.youtube.com/watch?v=sN_0i2pA0_U)
 **Date**: June 18 2018
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/sN_0i2pA0_U" title="Peter Beck Dream Team Session 2018" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=sN_0i2pA0_U)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=sN_0i2pA0_U
 
 ## 🎙️ Transcript
 

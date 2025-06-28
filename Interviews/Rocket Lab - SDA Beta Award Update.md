@@ -6,14 +6,15 @@ source: Rocket Lab - SDA Beta Award Update
 link: https://www.youtube.com/watch?v=p_4DzLsa6nA
 date: 2024-01-08
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> January 8 2024
 
 **Insider**: [[Peter Beck]],. [[Adam Spice]]
 **Source**: [Rocket Lab - SDA Beta Award Update](https://www.youtube.com/watch?v=p_4DzLsa6nA)
 **Date**: January 8 2024
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/p_4DzLsa6nA" title="Rocket Lab - SDA Beta Award Update (01/08/2024)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=p_4DzLsa6nA)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=p_4DzLsa6nA
 
 ## 🎙️ Transcript
 

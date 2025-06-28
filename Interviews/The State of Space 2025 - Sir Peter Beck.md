@@ -5,26 +5,16 @@ event: 2025 SmallSat Symposium
 link: https://www.youtube.com/watch?v=V54mWqnM8zQ
 date: 2025-02-10
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> February 10 2025
 
 **Insider**: [[Peter Beck]]
 **Source**: https://www.youtube.com/watch?v=V54mWqnM8zQ
 **Event**: [2025 SmallSat Symposium](https://2025.smallsatshow.com/)
 **Date**: February 10 2025
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/V54mWqnM8zQ" title="Sir Peter Beck | The State Of Space" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=V54mWqnM8zQ)
 
->[!summary] Summary
->This video is Sir Peter Beck's overview of the space industry in 2025. He shares his insights on various aspects of the space industry, including:
->- **Launch**: The launch industry is experiencing a surge in demand, with small launches being solved, but medium-sized launches need more competition and capacity.
->- **Satellite manufacturing**: The default for spacecraft is now lots of satellites, with constellations becoming commonplace. This poses challenges for scaling up the supply chain.
->- **Applications from space**: Earth observation is growing, but there's still potential for more scale and innovation. Communications are dominated by internet and direct-to-device applications, creating a need for large-scale infrastructure.
->- **Funding environment**: The "SPAC frenzy" injected a lot of capital into the industry but also led to some companies going public prematurely. The market is becoming more discerning, and there is still plenty of capital for good companies and ideas.
->- **Strategy and Leadership**: The United States has a renewed focus on space, emphasizing value for money and efficient execution. The commercial industry is increasingly capable of partnering with government on projects.
->- **Consolidation**: There will likely be consolidation within both legacy and smaller companies in the industry. China's growing space capabilities will make the market more politically contested.
->- **Mars**: Mars exploration is a priority and will see tangible plans put into place for a future footprint on the planet
->- **Overall Outlook**: Sir Peter Beck is bullish on the space industry in 2025, emphasizing its growth, opportunities, and exciting future.
+🔗 Backup Link: https://www.youtube.com/watch?v=V54mWqnM8zQ
 
 ## 🎙️ Transcript
 

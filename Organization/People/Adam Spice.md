@@ -6,6 +6,7 @@ shares_owned: 1,196,679
 joined: 2018-04-03
 linkedin: https://www.linkedin.com/in/adam-spice-086120/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[People]] <span style="color: LightSlateGray">></span> Adam Spice
 
 **Name:** Adam Spice
 **Role:** Chief Financial Officer

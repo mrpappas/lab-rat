@@ -5,14 +5,15 @@ event: TechCrunch Disrupt 2024
 link: https://www.youtube.com/watch?v=iiaJA4Zlojw
 date: 2024-10-28
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> October 28 2024
 
 **Insider**: [[Peter Beck]]
 **Source**: [TechCrunch Disrupt 2024](https://www.youtube.com/watch?v=iiaJA4Zlojw)
 **Date**: October 28 2024
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/iiaJA4Zlojw" title="Rocket Lab Founder Peter Beck reveals his vision for the space industry&#39;s future | TC Disrupt 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=iiaJA4Zlojw)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=iiaJA4Zlojw
 
 ## 🎙️ Transcript
 

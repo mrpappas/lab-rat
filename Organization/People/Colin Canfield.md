@@ -7,6 +7,7 @@ joined: 2023-02-01
 left: 2024-04-01
 linkedin: https://www.linkedin.com/in/colin-canfield-b0b09362/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[People]] <span style="color: LightSlateGray">></span> Colin Canfield
 
 **Name:** Colin Canfield
 **Role:** Head of Investor Relations

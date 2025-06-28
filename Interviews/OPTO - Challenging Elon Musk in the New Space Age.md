@@ -4,14 +4,15 @@ source: OPTO
 link: https://www.youtube.com/watch?v=ALxxgz-aOUQ
 date: 2024-04-18
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> April 18 2024
 
 **Insider**: [[Peter Beck]]
 **Source**: [OPTO](https://www.youtube.com/watch?v=ALxxgz-aOUQ)
 **Date**: April 18 2024
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/ALxxgz-aOUQ" title="Rocket Lab CEO: Challenging Elon Musk in the New Space Age" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=ALxxgz-aOUQ)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=ALxxgz-aOUQ
 
 ## 🎙️ Transcript
 

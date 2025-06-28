@@ -4,15 +4,15 @@ source: Small Satellite Conference
 link: https://www.youtube.com/watch?v=0d2VZezle4s
 date: 2022-08-08
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> August 8 2022
 
 **Insider**: [[Peter Beck]]
 **Source**: [SmallSat 2022 Keynote](https://www.youtube.com/watch?v=0d2VZezle4s)
 **Date**: August 8 2022
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/0d2VZezle4s" title="Rocket Lab | Peter Beck - SmallSat 2022 Keynote" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=0d2VZezle4s)
 
+🔗 Backup Link: https://www.youtube.com/watch?v=0d2VZezle4s
 ## 🎙️ Transcript
 
 >[!hint] Transcript may contain errors or inaccuracies.

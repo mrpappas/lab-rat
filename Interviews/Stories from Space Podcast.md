@@ -4,14 +4,15 @@ source: Stories from Space Podcast
 link: https://www.youtube.com/watch?v=VoENf5q4PmU
 date: 2024-09-22
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> September 22 2024
 
 **Insider**: [[Peter Beck]]
 **Source**: [Stories from Space Podcast](https://www.youtube.com/watch?v=VoENf5q4PmU)
 **Date**: September 22 2024
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/VoENf5q4PmU" title="Rising Stars: Rocket Lab | A Conversation with Sir Peter Beck | Stories From Space Podcast With M..." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=VoENf5q4PmU)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=VoENf5q4PmU
 
 ## 🎙️ Transcript
 

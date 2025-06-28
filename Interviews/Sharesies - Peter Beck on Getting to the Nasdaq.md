@@ -4,14 +4,15 @@ source: Sharesies
 link: https://www.youtube.com/watch?v=hW_df95t1jc
 date: 2021-09-22
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> September 22 2021
 
 **Insider**: [[Peter Beck]]
 **Source**: [Sharesies](https://www.youtube.com/watch?v=hW_df95t1jc)
 **Date**: September 22 2021
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/hW_df95t1jc" title="Rocket Lab CEO Peter Beck on getting to the Nasdaq and future missions." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=hW_df95t1jc)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=hW_df95t1jc
 
 ## 🎙️ Transcript
 

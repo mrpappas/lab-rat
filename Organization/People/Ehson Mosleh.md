@@ -6,6 +6,7 @@ shares_owned:
 joined: 2020-08-01
 linkedin: https://www.linkedin.com/in/ehson-mosleh/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[People]] <span style="color: LightSlateGray">></span> Ehson Mosleh
 
 **Name:** Ehson Mosleh
 **Role:** Space Systems Chief Engineer

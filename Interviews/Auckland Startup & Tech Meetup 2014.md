@@ -4,14 +4,15 @@ source: Auckland Startup & Tech Meetup 2014
 link: https://www.youtube.com/watch?v=EKMpO_ngX_k
 date: 2015-01-13
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> January 13 2015
 
 **Insider**: [[Peter Beck]]
 **Source**: [Auckland Startup & Tech Meetup 2014](https://www.youtube.com/watch?v=EKMpO_ngX_k)
 **Date**: January 13 2015
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/EKMpO_ngX_k" title="Peter Beck (Rocket Lab) - Auckland Startup &amp; Tech Meetup 2014" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=EKMpO_ngX_k)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=EKMpO_ngX_k
 
 ## 🎙️ Transcript
 

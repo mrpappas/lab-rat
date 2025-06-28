@@ -4,14 +4,15 @@ source: Payload
 link: https://www.youtube.com/watch?v=FdrKAc2AYZc
 date: 2024-11-19
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> November 19 2024
 
 **Insider**: [[Peter Beck]]
 **Source**: [Payload](https://www.youtube.com/watch?v=FdrKAc2AYZc)
 **Date**: November 19 2024
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/FdrKAc2AYZc" title="End-to-End Space, with Peter Beck (CEO of Rocket Lab)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=FdrKAc2AYZc)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=FdrKAc2AYZc
 
 ## 🎙️ Transcript
 

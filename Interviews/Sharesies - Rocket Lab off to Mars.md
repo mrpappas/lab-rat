@@ -4,14 +4,15 @@ source: Sharesies
 link: https://www.youtube.com/watch?v=WjSUA4NEA2k
 date: 2024-08-21
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> August 21 2024
 
 **Insider**: [[Peter Beck]]
 **Source**: [Sharesies](https://www.youtube.com/watch?v=WjSUA4NEA2k)
 **Date**: August 21 2024
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/WjSUA4NEA2k" title="Rocket Lab’s off to Mars–Sir Peter Beck" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=WjSUA4NEA2k)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=WjSUA4NEA2k
 
 ## 🎙️ Transcript
 

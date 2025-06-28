@@ -4,14 +4,15 @@ source: Space Generation Fusion Forum 2021
 link: https://www.youtube.com/watch?v=sUZ6aOZLSf0
 date: 2021-08-07
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> August 7 2021
 
 **Insider**: [[Peter Beck]]
 **Source**: [Space Generation Fusion Forum 2021](https://www.youtube.com/watch?v=sUZ6aOZLSf0)
 **Date**: August 7 2021
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/sUZ6aOZLSf0" title="SGFF 2021 - Keynote with Peter Beck (Rocket Lab)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=sUZ6aOZLSf0)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=sUZ6aOZLSf0
 
 ## 🎙️ Transcript
 

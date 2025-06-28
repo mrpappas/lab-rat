@@ -6,3 +6,4 @@ joined:
 linkedin: 
 ---
 
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[People]] <span style="color: LightSlateGray">></span> Warren Butler

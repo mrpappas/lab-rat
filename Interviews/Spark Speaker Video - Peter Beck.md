@@ -4,14 +4,15 @@ source: Spark Speaker Video
 link: https://www.youtube.com/watch?v=8ZMSG386dQw
 date: 2012-05-06
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> May 6 2012
 
 **Insider**: [[Peter Beck]]
 **Source**: [Spark Speaker Video](https://www.youtube.com/watch?v=8ZMSG386dQw)
 **Date**: May 6 2012
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/8ZMSG386dQw" title="Spark Speaker Video - Peter Beck" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=8ZMSG386dQw)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=8ZMSG386dQw
 
 ## 🎙️ Transcript
 

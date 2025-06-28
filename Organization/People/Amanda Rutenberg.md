@@ -6,6 +6,7 @@ shares_owned:
 joined: 2022-06-01
 linkedin: https://www.linkedin.com/in/amanda-rutenberg-980805101/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[People]] <span style="color: LightSlateGray">></span> Amanda Rutenberg
 
 **Name:** Amanda Rutenberg
 **Role:** Deputy General Counsel

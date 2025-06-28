@@ -8,6 +8,7 @@ linkedin: https://www.linkedin.com/in/jon-olson-70055711/
 tags:
  - board-member
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[People]] <span style="color: LightSlateGray">></span> Jon A. Olson
 
 #board-member
 **Name:** Jon A. Olson

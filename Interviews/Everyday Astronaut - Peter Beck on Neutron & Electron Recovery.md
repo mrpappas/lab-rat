@@ -4,14 +4,15 @@ source: Everyday Astronaut
 link: https://www.youtube.com/watch?v=aXoXDp3j850
 date: 2021-04-15
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> April 15 2021
 
 **Insider**: [[Peter Beck]]
 **Source**: [Everyday Astronaut](https://www.youtube.com/watch?v=aXoXDp3j850)
 **Date**: April 15 2021
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/aXoXDp3j850" title="A chat with Rocket Lab&#39;s CEO Peter Beck about Neutron, Electron recovery and Rocket Lab&#39;s future!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=aXoXDp3j850)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=aXoXDp3j850
 
 ## 🎙️ Transcript
 

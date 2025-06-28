@@ -4,14 +4,15 @@ source: Paul Henry Show
 link: https://www.youtube.com/watch?v=tj-dGr1KCAo
 date: 2015-07-01
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> July 1 2015
 
 **Insider**: [[Peter Beck]]
 **Source**: [Paul Henry Show](https://www.youtube.com/watch?v=tj-dGr1KCAo)
 **Date**: July 1 2015
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/tj-dGr1KCAo" title="Why Rocket Lab picked New Zealand" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=tj-dGr1KCAo)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=tj-dGr1KCAo
 
 ## 🎙️ Transcript
 

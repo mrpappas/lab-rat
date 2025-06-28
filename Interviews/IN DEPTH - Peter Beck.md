@@ -4,14 +4,15 @@ source: IN DEPTH
 link: https://www.youtube.com/watch?v=SjuxmH7eWHc
 date: 2020-04-23
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> April 23 2020
 
 **Insider**: [[Peter Beck]]
 **Source**: [IN DEPTH](https://www.youtube.com/watch?v=SjuxmH7eWHc)
 **Date**: April 23 2020
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/SjuxmH7eWHc" title="A Conversation with RocketLabs Peter Beck - Mid-Air Recovery - Photon - Mission To Venus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=SjuxmH7eWHc)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=SjuxmH7eWHc
 
 ## 🎙️ Transcript
 

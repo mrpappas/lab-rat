@@ -6,14 +6,15 @@ source: Dave G Investing
 link: https://www.youtube.com/watch?v=jjoJn0qiyTc
 date: 2024-11-29
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> November 29 2024
 
 **Insider**: [[Peter Beck]], [[Adam Spice]]
 **Source**: [Dave G Investing](https://www.youtube.com/watch?v=jjoJn0qiyTc)
 **Date**: November 29 2024
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/jjoJn0qiyTc" title="Interview with Rocket Lab CEO Peter Beck - Neutron Progress, Mars Sample Return, Electron &amp; More!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=jjoJn0qiyTc)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=jjoJn0qiyTc
 
 ## 🎙️ Transcript
 

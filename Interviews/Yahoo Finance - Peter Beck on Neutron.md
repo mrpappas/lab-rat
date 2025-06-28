@@ -4,14 +4,15 @@ source: Yahoo Finance
 link: https://www.youtube.com/watch?v=thMSjBQMAH8
 date: 2021-12-02
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> December 2 2021
 
 **Insider**: [[Peter Beck]]
 **Source**: [Yahoo Finance](https://www.youtube.com/watch?v=thMSjBQMAH8)
 **Date**: December 2 2021
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/thMSjBQMAH8" title="Rocket Lab CEO on the newly unveiled Neutron Rocket" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=thMSjBQMAH8)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=thMSjBQMAH8
 
 ## 🎙️ Transcript
 

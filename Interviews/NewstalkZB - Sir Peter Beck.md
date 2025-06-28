@@ -4,6 +4,7 @@ source: Newstalk ZB
 link: https://www.newstalkzb.co.nz/on-air/holiday-breakfast/audio/sir-peter-beck-rocket-lab-ceo-on-receiving-knighthood-this-kings-birthday/
 date: 2024-06-03
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> June 3 2024
 
 **Insider**: [[Peter Beck]]
 **Source**: [NewstalkZB](https://www.newstalkzb.co.nz/on-air/holiday-breakfast/audio/sir-peter-beck-rocket-lab-ceo-on-receiving-knighthood-this-kings-birthday/)

@@ -6,6 +6,7 @@ source: Scott O Youtube
 link: https://www.youtube.com/watch?v=9nLS-gN3l8o
 date: 2025-05-14
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> May 14 2025
 
 **Insider**: [[Peter Beck]], [[Adam Spice]]
 **Source**: [Scott O - Youtube](https://www.youtube.com/watch?v=9nLS-gN3l8o)

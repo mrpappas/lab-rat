@@ -4,14 +4,15 @@ source: TD Cowan 45th Annual Aerospace & Defense Conference
 link: https://www.youtube.com/watch?v=vtsljmAn8Hw
 date: 2024-02-14
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> February 14 2024
 
 **Insider**: [[Adam Spice]]
 **Source**: TD Cowan 45th Annual Aerospace & Defense Conference
 **Date**: February 14 2024
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/vtsljmAn8Hw" title="Adam Spice speaks at TD Cowan 45th Annual Aerospace &amp; Defense Conference (02/14/2024)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=vtsljmAn8Hw)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=vtsljmAn8Hw
 
 ## 🎙️ Transcript
 

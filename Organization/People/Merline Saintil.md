@@ -8,6 +8,7 @@ linkedin: https://www.linkedin.com/in/msaintil/
 tags: 
  - board-member
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[People]] <span style="color: LightSlateGray">></span> Merline Saintil
 
 #board-member
 **Name:** Merline Saintil

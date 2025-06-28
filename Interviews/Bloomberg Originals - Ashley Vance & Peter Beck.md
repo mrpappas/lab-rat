@@ -4,14 +4,15 @@ source: Bloomberg Originals (Ashlee Vance)
 link: https://www.youtube.com/watch?v=1F_Airx6tIc
 date: 2020-05-14
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> May 14 2020
 
 **Insider**: [[Peter Beck]]
 **Source**: [Bloomberg Originals feat Ashlee Vance](https://www.youtube.com/watch?v=1F_Airx6tIc)
 **Date**: May 14 2020
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/1F_Airx6tIc" title="What&#39;s Next for The Space Race? | Peter Beck, Rocket Lab" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=1F_Airx6tIc)
+
+🔗Backup Link: https://www.youtube.com/watch?v=1F_Airx6tIc
 
 ## 🎙️ Transcript
 

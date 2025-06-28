@@ -4,12 +4,15 @@ source: Bloomberg Businessweek
 link: https://www.youtube.com/watch?v=VQEnnvdJcng
 date: 2024-08-02
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> August 2 2024
 
 **Insider**: [[Peter Beck]]
 **Source**: [Bloomberg Businessweek](https://www.youtube.com/watch?v=VQEnnvdJcng)
 **Date**: August 2 2024
 
 ![](https://www.youtube.com/watch?v=VQEnnvdJcng)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=VQEnnvdJcng
 
 ## 🎙️ Transcript
 

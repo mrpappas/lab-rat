@@ -4,19 +4,15 @@ source: The Dom Harvey Podcast
 link: https://www.youtube.com/watch?v=U17It-CH4o4
 date: 2025-02-02
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> February 2 2025
 
 Insider: [[Peter Beck]]
 Source: [The Dom Harvey Podcast](https://www.youtube.com/watch?v=U17It-CH4o4)
 Date: February 2 2025
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/U17It-CH4o4" title="Sir Peter Beck Opens Up on Childhood, Inspiration for Rocket Lab, Elon Musk &amp; Jeff Bezos Competition" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=U17It-CH4o4)
 
-
->[!summary]
->In this candid interview, Sir Peter Beck, founder and CEO of Rocket Lab, shares his journey from a young rocket enthusiast in Invercargill to a space industry pioneer. He discusses the challenges of building a global aerospace company from New Zealand, his early obsession with rockets, and the persistence required to succeed despite skepticism. Beck reveals insights into Rocket Lab's corporate culture of high standards and intense dedication, his management philosophy, and the company's ambitious projects including a private mission to Venus. Throughout the conversation, Beck demonstrates his unwavering focus, engineering perfectionism, and vision of creating lasting impact through space technology that improves life on Earth. The discussion also touches on his personal life, leadership style, and the sacrifices required to build something extraordinary.
-
+🔗 Backup Link: https://www.youtube.com/watch?v=U17It-CH4o4
 
 ## 🎙️ Transcript
 

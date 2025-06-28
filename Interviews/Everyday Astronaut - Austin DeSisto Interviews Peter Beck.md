@@ -4,14 +4,15 @@ source: Everyday Astronaut
 link: https://www.youtube.com/watch?v=ONIjRQpjpDA
 date: 2022-12-17
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> December 17 2022
 
 **Insider**: [[Peter Beck]]
 **Source**: [Everyday Astronaut](https://www.youtube.com/watch?v=ONIjRQpjpDA)
 **Date**: December 17 2022
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/ONIjRQpjpDA" title="I spoke with Peter Beck, CEO of Rocket Lab, in the Integration and Control Facility!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=ONIjRQpjpDA)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=ONIjRQpjpDA
 
 ## 🎙️ Transcript
 

@@ -4,14 +4,15 @@ source: CNBC
 link: https://www.youtube.com/watch?v=MO9y8HsEgKk
 date: 2024-11-14
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> November 14 2024
 
 **Insider**: [[Peter Beck]]
 **Source**: [CNBC Closing Bell: Overtime](https://www.youtube.com/watch?v=MO9y8HsEgKk)
 **Date**: November 14 2024
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/MO9y8HsEgKk" title="Watch CNBC&#39;s full interview with Rocket Lab CEO Peter Beck" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=MO9y8HsEgKk)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=MO9y8HsEgKk
 
 ## 🎙️ Transcript
 

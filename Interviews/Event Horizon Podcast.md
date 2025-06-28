@@ -4,14 +4,15 @@ source: Event Horizon Podcast
 link: https://www.youtube.com/watch?v=Kmsct6MHMDI
 date: 2024-06-06
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> June 6 2024
 
 **Insider**: [[Peter Beck]]
 **Source**: [Event Horizon Podcast](https://www.youtube.com/watch?v=Kmsct6MHMDI)
 **Date**: June 6 2024
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/Kmsct6MHMDI" title="Rockets and the Democratization of Space with Peter Beck" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=Kmsct6MHMDI)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=Kmsct6MHMDI
 
 ## 🎙️ Transcript
 

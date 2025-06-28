@@ -4,15 +4,15 @@ source: iRoc Space Radio
 link: https://www.youtube.com/watch?v=VPq_YC5ZVos
 date: 2023-11-11
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> November 11 2023
 
 **Insider**: [[Peter Beck]]
 **Source**: [iRoc Space Radio](https://www.youtube.com/watch?v=VPq_YC5ZVos)
 **Date**: November 11 2023
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/VPq_YC5ZVos" title="The Space Revolution: Peter Beck" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=VPq_YC5ZVos)
 
+🔗 Backup Link: https://www.youtube.com/watch?v=VPq_YC5ZVos
 ## 🎙️ Transcript
 
 >[!hint] Transcript may contain errors or inaccuracies.

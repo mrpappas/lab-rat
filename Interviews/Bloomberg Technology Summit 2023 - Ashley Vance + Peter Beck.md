@@ -5,14 +5,15 @@ event: Bloomberg Technology Summit 2023
 link: https://www.youtube.com/watch?v=P310I19L3Ko
 date: 2023-06-22
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> June 22 2023
 
 **Insider**: [[Peter Beck]]
 **Source**: [Bloomberg Technology Summit 2023](https://www.youtube.com/watch?v=P310I19L3Ko)
 **Date**: June 22 2023
 
-<div class="responsive-video">
-<iframe  src="https://www.youtube.com/embed/P310I19L3Ko" title="Rocket Lab CEO on the New Space Age" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=P310I19L3Ko)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=P310I19L3Ko
 
 ## 🎙️ Transcript
 

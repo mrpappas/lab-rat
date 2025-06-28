@@ -4,14 +4,15 @@ source: Visionweek NZ
 link: https://www.youtube.com/watch?v=NlgW5Pc7bpo
 date: 2020-06-11
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> June 11 2020
 
 **Insider**: [[Peter Beck]]
 **Source**: Visionweek NZ
 **Date**: June 11 2020
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/NlgW5Pc7bpo" title="Peter Beck, Founder &amp; CEO Rocket Lab - Visionweek" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=NlgW5Pc7bpo)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=NlgW5Pc7bpo
 
 ## 🎙️ Transcript
 

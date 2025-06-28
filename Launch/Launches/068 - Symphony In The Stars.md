@@ -4,7 +4,7 @@ tags:
  - launch
 mission_name: Symphony In The Stars
 launch_date: 2025-06-28 06:45
-outcome: "⌛ Pending"
+outcome: "✅ Success"
 customer: "[[EchoStar|EchoStar (Confidential)]]"
 location: "[[Launch Complex 1#Launch Pad B|LC-1B]]"
 vehicle: "[[Electron]]"
@@ -16,10 +16,10 @@ mission_link: https://rocketlabcorp.com/missions/missions-launched/symphony-in-t
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>   <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  068 - Symphony In The Stars
 
->[!warning] Mission Pending
+>[!success] Mission Success
 
 >[!summary]
-'Symphony In The Stars' is the first of two dedicated missions on Electron to deploy a single spacecraft to a 650km circular Earth orbit for a confidential commercial customer.
+'Symphony In The Stars' was the first of two dedicated missions on Electron to deploy a single spacecraft to a 650km circular Earth orbit for a confidential commercial customer. The mission launched less than 48 hours after Electron's 67th launch, making 'Symphony In The Stars' part of Rocket Lab's fastest launch turnaround from Launch Complex 1 to date.
 >
 A second dedicated launch on Electron to meet those same mission requirements is scheduled for launch before the end of 2025.
 >
@@ -30,7 +30,7 @@ These dedicated Electron launches demonstrate both the strength of Rocket Lab’
 | **Mission Name** | Symphony In The Stars                                                                                |
 | ---------------- | ---------------------------------------------------------------------------------------------------- |
 | **Launch Date**  | 2025-06-28 06:45 UTC                                                                                 |
-| **Outcome**      | ⌛ Pending                                                                                            |
+| **Outcome**      | ✅ Success                                                                                            |
 | **Customer**     | Confidential Customer (Likely [[EchoStar]])                                                          |
 | **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                    |
 | **Vehicle**      | [[Electron]]                                                                                         |
@@ -51,7 +51,9 @@ x1 [[EchoStar#Lyra Block-1|Echostar Lyra Block-1]]
 
 ## 📽️ Launch Video
 
->[!warning] Launch Video Coming Soon
+![](https://www.youtube.com/watch?v=ewgd5BPw4tc)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=ewgd5BPw4tc
 
 ## 📰 News
 
@@ -64,11 +66,17 @@ sort published desc
 ```
 %%
 
-| File                                                                                                                                                                                                                                   | Published     |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| [[News/Rocket Lab Adds Two New Missions to 2025 Electron Launch Manifest, Schedules First Launch in Four Days’ Time.md\|Rocket Lab Adds Two New Missions to 2025 Electron Launch Manifest, Schedules First Launch in Four Days’ Time]] | June 16, 2025 |
+| File                                                                                                                                                                                                                                         | Published     |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| [[News/Rocket Lab Completes Record Launch Turnaround From Launch Complex 1, Successfully Deploys 68th Electron Mission.md\|Rocket Lab Completes Record Launch Turnaround From Launch Complex 1, Successfully Deploys 68th Electron Mission]] | June 28, 2025 |
+| [[News/Rocket Lab Adds Two New Missions to 2025 Electron Launch Manifest, Schedules First Launch in Four Days’ Time.md\|Rocket Lab Adds Two New Missions to 2025 Electron Launch Manifest, Schedules First Launch in Four Days’ Time]]       | June 16, 2025 |
 
 %%DATAVIEW_PUBLISHER: end %%
+
+
+![](https://x.com/RocketLab/status/1938873041930330430)
+
+![](https://x.com/RocketLab/status/1938857297255772293)
 
 ![](https://x.com/RocketLab/status/1938319443266097525)
 

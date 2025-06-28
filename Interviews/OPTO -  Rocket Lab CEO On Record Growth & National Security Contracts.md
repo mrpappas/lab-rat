@@ -4,6 +4,7 @@ source: OPTO
 link: https://www.youtube.com/watch?v=an53DC8-x8g
 date: 2025-05-22
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> May 22 2025
 
 **Insider**: [[Peter Beck]]
 **Source**: [OPTO](https://www.youtube.com/watch?v=an53DC8-x8g)

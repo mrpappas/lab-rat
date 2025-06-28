@@ -4,14 +4,15 @@ source: Space Innovation Summit
 link: https://www.youtube.com/watch?v=Nwizfzu_NpQ
 date: 2022-07-24
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> July 24 2022
 
 **Insider**: [[Peter Beck]]
 **Source**: [Space Innovation Summit](https://www.youtube.com/watch?v=Nwizfzu_NpQ)
 **Date**: July 24 2022
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/Nwizfzu_NpQ" title="From Invercargill to Orbit and Beyond! - Peter Beck" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=Nwizfzu_NpQ)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=Nwizfzu_NpQ
 
 ## 🎙️ Transcript
 

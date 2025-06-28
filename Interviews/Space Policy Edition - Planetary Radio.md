@@ -6,17 +6,15 @@ source: The Planetary Society
 link: https://www.youtube.com/watch?v=QEXSdcl_2SU
 date: 2025-02-07
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> February 7 2025
 
 **Insiders**: [[Peter Beck]], [[Richard French]]
 **Source**: [The Planetary Society](https://www.planetary.org/)
 **Date**: February 7 2025
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/QEXSdcl_2SU" title="Space Policy Edition: Mars Sample Return, but at what (fixed) price? - Planetary Radio" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=QEXSdcl_2SU)
 
->[!summary]
->Rocket Lab CEO Peter Beck joins the show to unpack his company’s bold, $4-billion fixed-price plan to bring Martian samples home, why he believes commercial partnerships can unlock new frontiers in planetary science, and his “soft spot” for interplanetary exploration. Then, Richard French — former JPL engineer and now VP of Business & Strategy at Rocket Lab — provides deeper insight into their proposed Mars Sample Return architecture, explaining how a single, vertically integrated team could cut costs and secure mission success. And yes, we get an update on the status of their Venus mission, too.
+🔗 Backup Link: https://www.youtube.com/watch?v=QEXSdcl_2SU
 
 ## 🎙️ Transcript
 

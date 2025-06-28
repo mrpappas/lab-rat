@@ -4,14 +4,15 @@ source: CNBC
 link: https://www.youtube.com/watch?v=b3qVqI5YF0E
 date: 2022-09-22
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> September 22 2022
 
 **Insider**: [[Peter Beck]]
 **Source**: [CNBC](https://www.youtube.com/watch?v=b3qVqI5YF0E)
 **Date**: September 22 2022
 
-<div class="responsive-video">
-<iframe width="1623" height="921" src="https://www.youtube.com/embed/b3qVqI5YF0E" title="Aerospace talent is a massive problem unless we do something, says Rocket Labs CEO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=b3qVqI5YF0E)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=b3qVqI5YF0E
 
 ## 🎙️ Transcript
 

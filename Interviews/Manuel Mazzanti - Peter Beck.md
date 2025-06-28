@@ -4,14 +4,15 @@ source: Manuel Mazzanti
 link: https://www.youtube.com/watch?v=ILSZQ1c5fcc
 date: 2022-07-23
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> July 23 2022
 
 **Insider**: [[Peter Beck]]
 **Source**: [Manuel Mazzanti](https://www.youtube.com/watch?v=ILSZQ1c5fcc)
 **Date**: July 23 2022
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/ILSZQ1c5fcc" title="De todo un poco con Peter Beck" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=ILSZQ1c5fcc)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=ILSZQ1c5fcc
 
 ## 🎙️ Transcript
 

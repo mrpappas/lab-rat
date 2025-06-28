@@ -4,14 +4,15 @@ source: Bloomberg Technology
 link: https://www.youtube.com/watch?v=Rc6Lq5MKLfI
 date: 2024-10-11
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> October 11 2024
 
 **Insider**: [[Adam Spice]]
 **Source**: [Bloomberg Technology](https://www.youtube.com/watch?v=Rc6Lq5MKLfI)
 **Date**: October 11 2024
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/Rc6Lq5MKLfI" title="Rocket Lab CFO: We Can Build a Lot of Rockets" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=Rc6Lq5MKLfI)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=Rc6Lq5MKLfI
 
 ## 🎙️ Transcript
 

@@ -4,6 +4,7 @@ source: 36th Annual Roth Conference
 link: https://www.youtube.com/watch?v=qHHv7QPe5Fg
 date: 2024-03-19
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> March 19 2024
 
 **Insider**: [[Adam Spice]]
 **Source**: [36th Annual Roth Conference](https://www.youtube.com/watch?v=qHHv7QPe5Fg)
@@ -11,11 +12,9 @@ date: 2024-03-19
 
 >[!warning] Official Webcast Unavailable
 
-Source: [Vince is Bullish Youtube](https://www.youtube.com/watch?v=qHHv7QPe5Fg)
+![](https://www.youtube.com/watch?v=qHHv7QPe5Fg)
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/qHHv7QPe5Fg" title="What Adam Spice has just said at the 36th ROTH conference! (Super bullish!)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+🔗 Backup Link: https://www.youtube.com/watch?v=qHHv7QPe5Fg
 
 ## 🎙️ Transcript
 

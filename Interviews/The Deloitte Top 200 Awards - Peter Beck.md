@@ -4,15 +4,15 @@ source: Deloitte Top 200 Awards
 link: https://www.youtube.com/watch?v=TPkKuXvpvXs
 date: 2022-03-06
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> March 6 2022
 
 **Insider**: [[Peter Beck]]
 **Source**: [Deloitte Top 200 Awards](https://www.youtube.com/watch?v=TPkKuXvpvXs)
 **Date**: March 6 2022
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/TPkKuXvpvXs" title="Deloitte Top 200 Awards - Hobson Leavy Visionary Leader 2021, Peter Beck" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=TPkKuXvpvXs)
 
+🔗 Backup Link: https://www.youtube.com/watch?v=TPkKuXvpvXs
 ## 🎙️ Transcript
 
 >[!hint] Transcript may contain errors or inaccuracies.

@@ -26,7 +26,7 @@ sort launch_date desc
 
 | File                                                                            | Date             | Location                                              | Vehicle                          | Orbit & Mass           | Outcome   |
 | ------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | ---------------------- | --------- |
-| [[Launch/Launches/068 - Symphony In The Stars.md\|068 - Symphony In The Stars]] | 2025-06-28 06:45 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC-1B]] | [[Launch/Electron.md\|Electron]] | 650 km \| 96° \| 74 kg | ⌛ Pending |
+| [[Launch/Launches/068 - Symphony In The Stars.md\|068 - Symphony In The Stars]] | 2025-06-28 06:45 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC-1B]] | [[Launch/Electron.md\|Electron]] | 650 km \| 96° \| 74 kg | ✅ Success |
 
 %%DATAVIEW_PUBLISHER: end %%
 
@@ -115,9 +115,10 @@ sort published desc
 ```
 %%
 
-| File                                                                                                                                                                                                                                   | Published     |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| [[News/Rocket Lab Adds Two New Missions to 2025 Electron Launch Manifest, Schedules First Launch in Four Days’ Time.md\|Rocket Lab Adds Two New Missions to 2025 Electron Launch Manifest, Schedules First Launch in Four Days’ Time]] | June 16, 2025 |
+| File                                                                                                                                                                                                                                         | Published     |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| [[News/Rocket Lab Completes Record Launch Turnaround From Launch Complex 1, Successfully Deploys 68th Electron Mission.md\|Rocket Lab Completes Record Launch Turnaround From Launch Complex 1, Successfully Deploys 68th Electron Mission]] | June 28, 2025 |
+| [[News/Rocket Lab Adds Two New Missions to 2025 Electron Launch Manifest, Schedules First Launch in Four Days’ Time.md\|Rocket Lab Adds Two New Missions to 2025 Electron Launch Manifest, Schedules First Launch in Four Days’ Time]]       | June 16, 2025 |
 
 %%DATAVIEW_PUBLISHER: end %%
 

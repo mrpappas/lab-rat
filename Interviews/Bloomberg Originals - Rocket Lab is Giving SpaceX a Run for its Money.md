@@ -4,14 +4,15 @@ source: Bloomberg Originals
 link: https://www.youtube.com/watch?v=DVdwtmFYyms
 date: 2018-07-19
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> July 19 2018
 
 **Insider**: [[Peter Beck]]
 **Source**: [Bloomberg Originals](https://www.youtube.com/watch?v=DVdwtmFYyms)
 **Date**: July 19 2018
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/DVdwtmFYyms" title="Rocket Lab is Giving SpaceX a Run for Its Money" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=DVdwtmFYyms)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=DVdwtmFYyms
 
 ## 🎙️ Transcript
 

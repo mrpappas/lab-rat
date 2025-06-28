@@ -4,6 +4,7 @@ source: Fresh Consulting
 link: https://www.youtube.com/watch?v=cu4Yts6UpsQ
 date: 2025-05-14
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> May 14 2025
 
 **Insider**: [[Peter Beck]]
 **Source**: [Fresh Consulting](https://www.youtube.com/watch?v=cu4Yts6UpsQ)
@@ -11,6 +12,8 @@ date: 2025-05-14
 
 
 ![](https://www.youtube.com/watch?v=cu4Yts6UpsQ)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=cu4Yts6UpsQ
 
 ## 🎙️ Transcript
 

@@ -5,6 +5,7 @@ shares_owned:
 joined: 2014-07-01
 linkedin: https://www.linkedin.com/in/shaundmello/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[People]] <span style="color: LightSlateGray">></span> Shaun D'Mello
 
 **Name:** Shaun D'Mello
 **Role:** Vice President - Neutron

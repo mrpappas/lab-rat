@@ -5,6 +5,7 @@ shares_owned:
 joined: 2019-08-01
 linkedin: https://www.linkedin.com/in/richard-french-65747410/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[People]] <span style="color: LightSlateGray">></span> Richard French
 
 **Name:** Richard French
 **Role:** Vice President - Business Development and Strategy, Space Systems

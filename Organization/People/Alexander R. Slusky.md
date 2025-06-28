@@ -8,6 +8,7 @@ linkedin: https://www.linkedin.com/in/alex-slusky-02a7/
 tags:
   - board-member
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[People]] <span style="color: LightSlateGray">></span> Alexander R. Slusky
 
 #board-member
 **Name:** Alexander R. Slusky

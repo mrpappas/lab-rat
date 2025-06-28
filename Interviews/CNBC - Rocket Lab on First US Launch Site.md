@@ -4,14 +4,15 @@ source: CNBC
 link: https://www.youtube.com/watch?v=4wbRpwUVvvo
 date: 2019-12-12
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> December 12 2019
 
 **Insider**: [[Peter Beck]]
 **Source**: [CNBC](https://www.youtube.com/watch?v=4wbRpwUVvvo)
 **Date**: December 12 2019
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/4wbRpwUVvvo" title="Rocket Lab CEO Peter Beck on the company&#39;s new US launch site" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=4wbRpwUVvvo)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=4wbRpwUVvvo
 
 ## 🎙️ Transcript
 

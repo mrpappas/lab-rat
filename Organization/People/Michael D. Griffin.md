@@ -8,6 +8,8 @@ linkedin: https://www.linkedin.com/in/michael-griffin-8209101b2/
 tags:
 
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[People]] <span style="color: LightSlateGray">></span> Michael D. Griffin
+
 **Name:** Michael D. Griffin
 **Role:** Director (former)
 **Shares Owned:** 

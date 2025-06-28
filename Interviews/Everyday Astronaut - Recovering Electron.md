@@ -4,14 +4,15 @@ source: Everyday Astronaut
 link: https://www.youtube.com/watch?v=CUfOnwSLWxY
 date: 2019-12-19
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> December 19 2019
 
 **Insider**: [[Peter Beck]]
 **Source**: [Everyday Astronaut](https://www.youtube.com/watch?v=CUfOnwSLWxY)
 **Date**: December 19 2019
 
-<div class="responsive-video">
-<iframe width="1029" height="579" src="https://www.youtube.com/embed/CUfOnwSLWxY" title="A conversation with Rocket Lab&#39;s Peter Beck on recovering Electron" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=CUfOnwSLWxY)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=CUfOnwSLWxY
 
 ## 🎙️ Transcript
 

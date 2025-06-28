@@ -1,3 +1,4 @@
+[[Home|🏠]] <span style="color: LightSlateGray">></span> Earnings Calls
 
 >[!summary] Earnings Calls
 >List of all Earnings calls with Transcripts, Investor Presentations, 10-Ks, etc. 

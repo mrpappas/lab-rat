@@ -4,14 +4,15 @@ source: Off-Nominal
 link: https://www.youtube.com/watch?v=50xR3qOCxPQ
 date: 2025-04-03
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> April 3 2025
 
 **Insider**: [[Richard French]]
 **Source**: [Off-Nominal Episode 191](https://www.youtube.com/watch?v=50xR3qOCxPQ)
 **Date**: April 3 2025
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/50xR3qOCxPQ" title="Episode 191 - It’s 5 O’Clock Somewhere…at a Rocket Lab Facility (with Richard French)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=50xR3qOCxPQ)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=50xR3qOCxPQ
 
 ## 🎙️ Transcript
 

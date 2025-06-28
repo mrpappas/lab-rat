@@ -4,14 +4,15 @@ source: Scott Manley
 link: https://www.youtube.com/watch?v=bVjYHLQtJUE
 date: 2021-12-21
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> December 21 2021
 
 **Insider**: [[Peter Beck]]
 **Source**: [Scott Manley](https://www.youtube.com/watch?v=bVjYHLQtJUE)
 **Date**: December 21 2021
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/bVjYHLQtJUE" title="Rocket Lab&#39;s Neutron Rocket&#39;s Innovative Design Explained By Peter Beck - CEO of Rocket Lab" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=bVjYHLQtJUE)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=bVjYHLQtJUE
 
 ## 🎙️ Transcript
 

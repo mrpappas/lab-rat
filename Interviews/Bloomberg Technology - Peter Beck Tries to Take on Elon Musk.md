@@ -4,15 +4,15 @@ source: Bloomberg Technology
 link: https://www.youtube.com/watch?v=axWEvAj3Fao
 date: 2021-12-01
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> December 1 2021
 
 **Insider**: [[Peter Beck]]
 **Source**: [Bloomberg Technology](https://www.youtube.com/watch?v=axWEvAj3Fao)
 **Date**: December 1 2021
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/axWEvAj3Fao" title="Peter Beck Tries to Take on Elon Musk in Space" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=axWEvAj3Fao)
 
+🔗 Backup Link: https://www.youtube.com/watch?v=axWEvAj3Fao
 ## 🎙️ Transcript
 
 >[!hint] Transcript may contain errors or inaccuracies.

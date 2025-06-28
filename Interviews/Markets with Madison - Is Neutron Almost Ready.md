@@ -4,15 +4,16 @@ source: Markets with Madison
 link: https://www.youtube.com/watch?v=B0bXJgDD8lk
 date: 2024-10-24
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> October 24 2024
 
 **Insider**: [[Peter Beck]]
 **Source**: [Markets with Madison](https://www.youtube.com/watch?v=B0bXJgDD8lk)
 **Date**: October 24 2024
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/B0bXJgDD8lk" title="Is Neutron almost ready? Peter Beck interview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=B0bXJgDD8lk)
 
+ 🔗 Backup Link: https://www.youtube.com/watch?v=B0bXJgDD8lk
+ 
 ## 🎙️ Transcript
 
 >[!hint] Transcript may contain errors or inaccuracies.

@@ -4,14 +4,15 @@ source: Cheddar
 link: https://www.youtube.com/watch?v=iE8756WzLP8
 date: 2024-12-16
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> December 16 2024
 
 **Insider**: [[Peter Beck]]
 **Source**: [Cheddar](https://www.youtube.com/watch?v=iE8756WzLP8)
 **Date**: December 16 2024
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/iE8756WzLP8" title="How Rocket Lab CEO Sir Peter Beck Launched A $12B Rocket Company" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=iE8756WzLP8)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=iE8756WzLP8
 
 ## 🎙️ Transcript
 

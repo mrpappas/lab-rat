@@ -4,14 +4,15 @@ source: Motherboard
 link: https://www.youtube.com/watch?v=U7iVs0Cq84M
 date: 2021-05-12
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> May 12 2021
 
 **Insider**: [[Peter Beck]]
 **Source**: [Motherboard](https://www.youtube.com/watch?v=U7iVs0Cq84M)
 **Date**: May 12 2021
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/U7iVs0Cq84M" title="The First Private Space Mission to Venus | The Space Show" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=U7iVs0Cq84M)
+
+Backup Link: https://www.youtube.com/watch?v=U7iVs0Cq84M
 
 ## 🎙️ Transcript
 

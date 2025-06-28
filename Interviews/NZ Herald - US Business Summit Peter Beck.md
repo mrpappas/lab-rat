@@ -5,14 +5,15 @@ event: US Business Summit
 link: https://www.youtube.com/watch?v=K3a4qq-6FZ4
 date: 2022-05-01
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> May 01 2022
 
 **Insider**: [[Peter Beck]]
 **Source**: [US Business Summit 2022](https://www.youtube.com/watch?v=K3a4qq-6FZ4)
 **Date**: May 01 2022
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/K3a4qq-6FZ4" title="Rocket Lab&#39;s Peter Beck and Air NZ&#39;s Greg Foran talk at US Business Summit" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=K3a4qq-6FZ4)
+
+🔗Backup Link: https://www.youtube.com/watch?v=K3a4qq-6FZ4
 
 ## 🎙️ Transcript
 

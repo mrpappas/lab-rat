@@ -4,14 +4,15 @@ source: Yahoo Finance
 link: https://www.youtube.com/watch?v=xu47MDuXotE
 date: 2021-09-11
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> September 11 2021
 
 **Insider**: [[Peter Beck]]
 **Source**: [Yahoo Finance](https://www.youtube.com/watch?v=xu47MDuXotE)
 **Date**: September 11 2021
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/xu47MDuXotE" title="Rocket Lab lands multi-launch deal with satellite company Kinéis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=xu47MDuXotE)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=xu47MDuXotE
 
 ## 🎙️ Transcript
 

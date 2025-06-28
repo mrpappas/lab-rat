@@ -8,6 +8,7 @@ linkedin: https://www.linkedin.com/in/mattocko/
 tags: 
  - board-member
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[People]] <span style="color: LightSlateGray">></span> Matthew Ocko
 
 #board-member
 **Name:** Matthew Ocko

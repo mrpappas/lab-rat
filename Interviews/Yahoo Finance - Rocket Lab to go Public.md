@@ -4,14 +4,15 @@ source: Yahoo Finance
 link: https://www.youtube.com/watch?v=jepTLfObPuI
 date: 2021-03-01
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> March 1 2021
 
 **Insider**: [[Peter Beck]]
 **Source**: [Yahoo Finance](https://www.youtube.com/watch?v=jepTLfObPuI)
 **Date**: March 1 2021
 
-<div class="responsive-video">
-<iframe  src="https://www.youtube.com/embed/jepTLfObPuI" title="Rocket Lab to go public via SPAC merger with Vector Acquisition Corporation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=jepTLfObPuI)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=jepTLfObPuI
 
 ## 🎙️ Transcript
 

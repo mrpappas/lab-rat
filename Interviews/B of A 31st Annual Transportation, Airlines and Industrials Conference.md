@@ -4,14 +4,15 @@ source: B of A 31st Annual Transportation, Airlines and Industrials Conference
 link: https://www.youtube.com/watch?v=9gsEoqMAR6c&t=2s
 date: 2024-05-15
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> May 15 2024
 
 **Insider**: [[Adam Spice]]
 **Source**: B of A 31st Annual Transportation, Airlines and Industrials Conference
 **Date**: May 15 2024
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/9gsEoqMAR6c" title="The shocking things Adam Spice of Rocket Lab said at the B of A Sec CON (Super bullish)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=9gsEoqMAR6c)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=9gsEoqMAR6c
 
 ## 🎙️ Transcript
 

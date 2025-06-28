@@ -4,19 +4,15 @@ source: Space News - Space Minds Podcast
 link: https://www.youtube.com/watch?v=OVmkGZ4fSTA
 date: 2025-01-23
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> January 23 2025
 
 **Insider**: [[Peter Beck]]
 **Source**: [SpaceNews - Space Minds Podcast](https://www.youtube.com/watch?v=OVmkGZ4fSTA)
 **Date**: January 23 2025
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/OVmkGZ4fSTA" title="Space Minds with Peter Beck" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=OVmkGZ4fSTA)
 
-
->[!summary]
->In this interview, Sir Peter Beck discusses his journey from stargazing in southern New Zealand to founding Rocket Lab. He shares how childhood experiences with his amateur astronomer father sparked his lifelong passion for space. Beck describes how engineering excellence drives his business approach, explaining Rocket Lab's identity as a comprehensive "space company" rather than merely a launch provider. He details the company's methodical growth strategy and discusses the development of the Neutron rocket, while emphasizing the importance of building a sustainable, multi-generational business. Beck expresses excitement about the current era in space development, predicting that "the biggest thing to be done in space is yet to even be thought of," while acknowledging the industry faces execution challenges. The conversation concludes with Beck sharing his passion project - a private mission to Venus to search for signs of life in its cloud layers, which he believes could help answer one of humanity's most fundamental questions about our place in the universe.
-
+🔗 Backup Link: https://www.youtube.com/watch?v=OVmkGZ4fSTA
 
 ## 🎙️ Transcript
 

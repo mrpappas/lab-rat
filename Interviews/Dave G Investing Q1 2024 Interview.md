@@ -6,14 +6,15 @@ source: Dave G Investing
 link: https://www.youtube.com/watch?v=kldLGQHMU98
 date: 2024-05-08
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> May 8 2024
 
 **Insider**: [[Peter Beck]], [[Adam Spice]]
 **Source**: [Dave G Investing](https://www.youtube.com/watch?v=kldLGQHMU98)
 **Date**: May 8 2024
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/kldLGQHMU98" title="The Future of Rocket Lab: Interview With CEO Peter Beck &amp; CFO Adam Spice!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=kldLGQHMU98)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=kldLGQHMU98
 
 ## 🎙️ Transcript
 

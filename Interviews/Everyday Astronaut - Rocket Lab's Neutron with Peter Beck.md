@@ -4,15 +4,16 @@ source: Everyday Astronaut
 link: https://www.youtube.com/watch?v=gcuOSXjevGs
 date: 2021-12-19
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> December 19 2021
 
 **Insider**: [[Peter Beck]]
 **Source**: [Everyday Astronaut](https://www.youtube.com/watch?v=gcuOSXjevGs)
 **Date**: December 19 2021
 **Article Summary**: https://everydayastronaut.com/neutron-update-interview-with-peter-beck/
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/gcuOSXjevGs" title="Talking about Rocket Lab’s Neutron with Peter Beck" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=gcuOSXjevGs)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=gcuOSXjevGs
 
 ## 🎙️ Transcript
 

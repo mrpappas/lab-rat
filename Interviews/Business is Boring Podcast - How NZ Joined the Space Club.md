@@ -4,14 +4,15 @@ source: The Spinoff
 link: https://www.youtube.com/watch?v=lq4q7Ya0wTg
 date: 2024-03-21
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> March 21 2024
 
 **Insider**: [[Peter Beck]]
 **Source**: [The Spinoff](https://www.youtube.com/watch?v=lq4q7Ya0wTg)
 **Date**: March 21 2024
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/lq4q7Ya0wTg" title="How NZ joined the space club, with Rocket Lab’s Peter Beck" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=lq4q7Ya0wTg)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=lq4q7Ya0wTg
 
 ## 🎙️ Transcript
 

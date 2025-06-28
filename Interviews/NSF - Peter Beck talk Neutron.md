@@ -4,15 +4,15 @@ source: NASA Spaceflight
 link: https://www.youtube.com/watch?v=wNx4tpiyUAM
 date: 2021-12-19
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> December 19 2021
 
 **Insider**: [[Peter Beck]]
 **Source**: [NASA Spaceflight](https://www.youtube.com/watch?v=wNx4tpiyUAM)
 **Date**: December 19 2021
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/wNx4tpiyUAM" title="NSF Live: Peter Beck talks Rocket Lab&#39;s Neutron" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=wNx4tpiyUAM)
 
+🔗 Backup Link: https://www.youtube.com/watch?v=wNx4tpiyUAM
 ## 🎙️ Transcript
 
 >[!hint] Transcript may contain errors or inaccuracies.

@@ -4,14 +4,15 @@ source: Felix's Space Time
 link: https://www.youtube.com/watch?v=7ZR6APowqcg
 date: 2022-02-04
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> February 4 2022 
 
 **Insider**: [[Peter Beck]]
 **Source**: [Felix's Space Time Youtube](https://www.youtube.com/watch?v=7ZR6APowqcg)
 **Date**: February 4 2022 
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/7ZR6APowqcg" title="Interview with Peter Beck, CEO of Rocket Lab" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=7ZR6APowqcg)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=7ZR6APowqcg
 
 ## 🎙️ Transcript
 

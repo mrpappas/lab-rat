@@ -4,14 +4,15 @@ source: Spark Interview
 link: https://www.youtube.com/watch?v=9vXaScILUWM
 date: 2012-05-06
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> May 6 2012
 
 **Insider**: [[Peter Beck]]
 **Source**: Spark Interview
 **Date**: May 6 2012
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/9vXaScILUWM" title="Spark Interview - Peter Beck" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=9vXaScILUWM)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=9vXaScILUWM
 
 ## 🎙️ Transcript
 

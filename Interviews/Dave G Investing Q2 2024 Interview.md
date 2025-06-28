@@ -6,14 +6,15 @@ source: Dave G Investing
 link: https://www.youtube.com/watch?v=JEOcyOo77Po
 date: 2024-08-13
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> August 8 2024
 
 **Insider**: [[Peter Beck]], [[Adam Spice]]
 **Source**: [Dave G Investing](https://www.youtube.com/watch?v=JEOcyOo77Po)
 **Date**: August 8 2024
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/JEOcyOo77Po" title="Complete Interview: Rocket Lab &amp; The Space Industry With Peter Beck" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=JEOcyOo77Po)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=JEOcyOo77Po
 
 ## 🎙️ Transcript
 

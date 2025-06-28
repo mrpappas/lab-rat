@@ -1,3 +1,5 @@
+[[Home|🏠]] <span style="color: LightSlateGray">></span> People
+
 %% DATAVIEW_PUBLISHER: start
 ```
 table role as "Role", shares_owned as "Shares Owned"

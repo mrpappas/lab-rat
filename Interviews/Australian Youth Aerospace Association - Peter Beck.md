@@ -4,14 +4,15 @@ source: Australian Youth Aerospace Association
 link: https://www.youtube.com/watch?v=3jOy_Ws3QJY
 date: 2020-07-09
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> July 9 2020
 
 **Insider**: [[Peter Beck]]
 **Source**: [Australian Youth Aerospace Association](https://www.youtube.com/watch?v=3jOy_Ws3QJY)
 **Date**: July 9 2020
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/3jOy_Ws3QJY" title="AYAA Aerospace Futures ONLINE - live Q&amp;A with Rocket Lab CEO Peter Beck" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=3jOy_Ws3QJY)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=3jOy_Ws3QJY
 
 ## 🎙️ Transcript
 

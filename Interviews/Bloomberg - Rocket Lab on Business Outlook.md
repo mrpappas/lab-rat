@@ -4,6 +4,7 @@ source: Bloomberg The Asia Trade
 link: https://www.bloomberg.com/news/videos/2024-12-05/rocket-lab-on-business-outlook-video
 date: 2024-12-04
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> December 4 2024
 
 **Insider**: [[Peter Beck]]
 **Source**: [Bloomberg The Asia Trade](https://www.bloomberg.com/news/videos/2024-12-05/rocket-lab-on-business-outlook-video)
@@ -12,6 +13,8 @@ date: 2024-12-04
 <div class="responsive-video">
 <iframe src="https://www.bloomberg.com/media-manifest/embed/iframe?id=7c237382-6771-4c34-8e0a-9953c97def29" allowscriptaccess="always" frameborder="0"></iframe>
 </div>
+
+🔗 Backup Link: https://www.bloomberg.com/news/videos/2024-12-05/rocket-lab-on-business-outlook-video
 
 ## 🎙️ Transcript
 

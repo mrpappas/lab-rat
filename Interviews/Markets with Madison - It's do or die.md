@@ -4,14 +4,15 @@ source: Markets with Madison
 link: https://www.youtube.com/watch?v=OCUlOiMKP6E
 date: 2023-10-23
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> October 23 2023
 
 **Insider**: [[Peter Beck]]
 **Source**: [Markets with Madison](https://www.youtube.com/watch?v=OCUlOiMKP6E)
 **Date**: October 23 2023
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/OCUlOiMKP6E" title="&#39;It&#39;s do or die&#39;: Inside Rocket Lab’s biggest mission yet" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=OCUlOiMKP6E)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=OCUlOiMKP6E
 
 ## 🎙️ Transcript
 

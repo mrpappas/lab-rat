@@ -6,6 +6,7 @@ shares_owned:
 joined: 2022-08-01
 linkedin: https://www.linkedin.com/in/brad-clevenger-0147293/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[People]] <span style="color: LightSlateGray">></span> Dr. Brad Clevenger
 
 **Name:** Dr. Brad Clevenger
 **Role:** Vice President - Space Systems

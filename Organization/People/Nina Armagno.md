@@ -7,6 +7,7 @@ linkedin: https://www.linkedin.com/in/nina-armagno-471a351a9/
 tags:
  - board-member
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[People]] <span style="color: LightSlateGray">></span> Nina Armagno
 
 **Name:** Nina Armagno
 **Role:** Independent Director

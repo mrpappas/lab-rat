@@ -4,14 +4,15 @@ source: Sharesies
 link: https://www.youtube.com/watch?v=9bWGpX6r3Hc
 date: 2024-08-25
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> August 25 2024
 
 **Insider**: [[Peter Beck]]
 **Source**: [Sharesies](https://www.youtube.com/watch?v=9bWGpX6r3Hc)
 **Date**: August 25 2024
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/9bWGpX6r3Hc" title="Rocket Lab Sharesies Investor Q&amp;A with Sir Peter Beck" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=9bWGpX6r3Hc)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=9bWGpX6r3Hc
 
 ## 🎙️ Transcript
 

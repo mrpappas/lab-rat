@@ -10,14 +10,15 @@ source: Rocket Lab 2022 Investor Day
 link: https://www.youtube.com/watch?v=Q6FW3WQu0w0
 date: 2022-09-22
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> September 9 2022
 
 **Insider**: [[Peter Beck]], [[Adam Spice]], [[Ehson Mosleh]], [[Richard French]], [[Shaun D'Mello]], [[Dr. Brad Clevenger]]
 **Source**: [Rocket Lab 2022 Investor Day](https://www.youtube.com/watch?v=Q6FW3WQu0w0)
 **Date**: September 9 2022
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/Q6FW3WQu0w0" title="Rocket Lab 2022 Investor Day &amp; Neutron Update" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=Q6FW3WQu0w0)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=Q6FW3WQu0w0
 
 ## 🎙️ Transcript
 

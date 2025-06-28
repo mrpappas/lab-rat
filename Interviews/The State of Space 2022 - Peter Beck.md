@@ -4,14 +4,15 @@ source: Rocket Lab
 link: https://www.youtube.com/watch?v=N9DQlmMQwHk
 date: 2022-02-15
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> February 15 2022
 
 **Insider**: [[Peter Beck]]
 **Source**: [Rocket Lab The State of Space 2022](https://www.youtube.com/watch?v=N9DQlmMQwHk)
 **Date**: February 15 2022
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/N9DQlmMQwHk" title="State of Space 2022 - Peter Beck, Founder and CEO, Rocket Lab" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=N9DQlmMQwHk)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=N9DQlmMQwHk
 
 ## 🎙️ Transcript
 

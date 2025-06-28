@@ -4,14 +4,15 @@ source: UBS Global Industrials and Transportation Conference 2025
 link: https://www.youtube.com/watch?v=7_JGmNRKuY8
 date: 2024-12-05
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> December 5 2024
 
 **Insider**: [[Adam Spice]]
 **Source**: [UBS Global Industrials and Transportation Conference 2024](https://www.youtube.com/watch?v=7_JGmNRKuY8)
 **Date**: December 5 2024
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/7_JGmNRKuY8" title="Adam Spice speaks at UBS Global Industrials and Transportation Conference" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=7_JGmNRKuY8)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=7_JGmNRKuY8
 
 ## 🎙️ Transcript
 

@@ -6,14 +6,15 @@ source: 7Investing Youtube
 link: https://www.youtube.com/watch?v=hrslNxqd-SA
 date: 2021-09-07
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> September 7 2021
 
 **Insider**: [[Peter Beck]], [[Adam Spice]]
 **Source**: [7Investing Youtube](https://www.youtube.com/watch?v=hrslNxqd-SA)
 **Date**: September 7 2021
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/hrslNxqd-SA" title="Launching the Space Economy with Rocket Lab CEO Peter Beck and CFO Adam Spice" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=hrslNxqd-SA)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=hrslNxqd-SA
 
 ## 🎙️ Transcript
 

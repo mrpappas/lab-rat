@@ -4,14 +4,15 @@ source: Main Engine Cut Off Podcast
 link: https://www.youtube.com/watch?v=wmmNuU8-Tr8
 date: 2023-04-19
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> April 19 2023
 
 **Insider**: [[Peter Beck]]
 **Source**: [Main Engine Cut Off Podcast](https://www.youtube.com/watch?v=wmmNuU8-Tr8)
 **Date**: April 19 2023
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/wmmNuU8-Tr8" title="Finance and Business Strategy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=wmmNuU8-Tr8)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=wmmNuU8-Tr8
 
 ## 🎙️ Transcript
 

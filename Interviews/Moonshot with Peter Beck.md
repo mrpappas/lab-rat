@@ -4,14 +4,15 @@ source: Moonshot Podcast
 link: https://www.youtube.com/watch?v=k6UVr-pAewc
 date: 2023-06-26
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> June 26 2023
 
 **Insider**: [[Peter Beck]]
 **Source**: [Moonshot Podcast](https://www.youtube.com/watch?v=k6UVr-pAewc)
 **Date**: June 26 2023
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/k6UVr-pAewc" title="Rocket Lab with Peter Beck - Moonshot S01E19" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=k6UVr-pAewc)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=k6UVr-pAewc
 
 ## 🎙️ Transcript
 

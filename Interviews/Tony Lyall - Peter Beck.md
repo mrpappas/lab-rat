@@ -4,14 +4,15 @@ source: Peter Lyall Show
 link: https://www.youtube.com/watch?v=xSALQbsscS8
 date: 2021-07-05
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> July 5 2021
 
 **Insider**: [[Peter Beck]]
 **Source**: [Tony Lyall](https://www.youtube.com/watch?v=xSALQbsscS8)
 **Date**: July 5 2021
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/xSALQbsscS8" title="Tony Lyall talks to Rocket Labs Peter Beck" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=xSALQbsscS8)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=xSALQbsscS8
 
 ## 🎙️ Transcript
 

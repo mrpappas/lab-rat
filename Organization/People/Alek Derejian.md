@@ -6,6 +6,7 @@ shares_owned:
 joined: 2020-10-1
 linkedin: https://www.linkedin.com/in/aderejian/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[People]] <span style="color: LightSlateGray">></span> Alek Derejian
 
 **Name:** Alek Derejian
 **Role:** Vice President - New Zealand Operations

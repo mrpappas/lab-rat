@@ -4,14 +4,15 @@ source: Pounding the Table Podcast
 link: https://www.youtube.com/watch?v=5l5TuGym_W0
 date: 2023-12-28
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> December 28 2023
 
 **Insider**: [[Peter Beck]]
 **Source**: [Pounding the Table Podcast](https://www.youtube.com/watch?v=5l5TuGym_W0)
 **Date**: December 28 2023
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/5l5TuGym_W0" title="Pounding The Table Podcast   Peter J Beck" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=5l5TuGym_W0)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=5l5TuGym_W0
 
 ## 🎙️ Transcript
 

@@ -4,14 +4,15 @@ source: Bloomberg Technology
 link: https://www.youtube.com/watch?v=JRo5xrBFV58
 date: 2021-08-25
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> August 25 2021
 
 **Insider**: [[Peter Beck]]
 **Source**: [Bloomberg Technology](https://www.youtube.com/watch?v=JRo5xrBFV58)
 **Date**: August 25 2021
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/JRo5xrBFV58" title="Rocket Lab CEO Sees Consolidation in the Space Industry" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=JRo5xrBFV58)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=JRo5xrBFV58
 
 ## 🎙️ Transcript
 

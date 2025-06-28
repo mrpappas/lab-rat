@@ -4,14 +4,15 @@ source: NASA Spaceflight
 link: https://www.youtube.com/watch?v=Knk_RuV7mao
 date: 2021-01-23
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> January 23 2021
 
 **Insider**: [[Peter Beck]]
 **Source**: [NASA Spaceflight](https://www.youtube.com/watch?v=Knk_RuV7mao)
 **Date**: January 23 2021
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/Knk_RuV7mao" title="NSF Live: Rocket Lab&#39;s Peter Beck talks Electron reuse and Photon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=Knk_RuV7mao)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=Knk_RuV7mao
 
 ## 🎙️ Transcript
 

@@ -4,14 +4,15 @@ source: Inc. For Starters Podcast
 link: https://www.youtube.com/watch?v=K9FL1HCRURY
 date: 2024-08-21
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> August 8 2024
 
 **Insider**: [[Peter Beck]]
 **Source**: [Inc. For Starters Podcast](https://www.youtube.com/watch?v=K9FL1HCRURY)
 **Date**: August 8 2024
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/K9FL1HCRURY" title="How to Use Constraints to Your Advantage with Peter Beck of Rocket Lab" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=K9FL1HCRURY)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=K9FL1HCRURY
 
 ## 🎙️ Transcript
 

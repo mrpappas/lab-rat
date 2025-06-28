@@ -4,14 +4,15 @@ source: CNBC
 link: https://www.youtube.com/watch?v=y5TqSHWsL3s
 date: 2025-03-28
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> March 28 2025
 
 **Insider**: [[Peter Beck]]
 **Source**: [CNBC](https://www.youtube.com/watch?v=y5TqSHWsL3s)
 **Date**: March 28 2025
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/y5TqSHWsL3s" title="Rocket Lab CEO talks competing for Space Force contracts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=y5TqSHWsL3s)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=y5TqSHWsL3s
 
 ## 🎙️ Transcript
 

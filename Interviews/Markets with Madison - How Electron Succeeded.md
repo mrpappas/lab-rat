@@ -4,14 +4,15 @@ source: Markets with Madison
 link: https://www.youtube.com/watch?v=svTrm37OdK0
 date: 2024-06-23
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> June 23 2024
 
 **Insider**: [[Peter Beck]]
 **Source**: [Markets with Madison](https://www.youtube.com/watch?v=svTrm37OdK0)
 **Date**: June 23 2024
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/svTrm37OdK0" title="Behind Rocket Lab’s 50th launch: How Electron succeeded" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=svTrm37OdK0)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=svTrm37OdK0
 
 ## 🎙️ Transcript
 

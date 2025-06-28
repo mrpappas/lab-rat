@@ -4,14 +4,15 @@ source: CNBC
 link: https://www.youtube.com/watch?v=WPMPz8LWVP8
 date: 2023-04-18
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> April 18 2023
 
 **Insider**: [[Peter Beck]]
 **Source**: [CNBC](https://www.youtube.com/watch?v=WPMPz8LWVP8)
 **Date**: April 18 2023
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/WPMPz8LWVP8" title="Rocket Lab CEO Peter Beck on building hypersonic technology" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=WPMPz8LWVP8)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=WPMPz8LWVP8
 
 ## 🎙️ Transcript
 

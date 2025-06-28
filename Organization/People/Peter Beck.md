@@ -7,6 +7,7 @@ linkedin: https://www.linkedin.com/in/peter-beck-ab7b63b/
 tags:
  - board-member
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[People]] <span style="color: LightSlateGray">></span> Peter Beck
 
 **Name:** Peter Beck
 **Role:** Founder, President and Chief Executive Officer, Chair of the Board

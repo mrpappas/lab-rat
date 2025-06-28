@@ -5,6 +5,7 @@ shares_owned: 21,323,617 (Indirect)
 joined: 2024-12-03
 linkedin: https://www.linkedin.com/in/vinod-khosla-65387416/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[People]] <span style="color: LightSlateGray">></span> Vinod Khosla
 
 **Name:** Vinod Khosla
 **Role:** Director (Khosla Ventures)

@@ -4,14 +4,15 @@ source: Everyday Astronaut
 link: https://www.youtube.com/watch?v=cdtQfSkrVUU
 date: 2020-04-11
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Interviews]] <span style="color: LightSlateGray">></span> April 11 2020
 
 **Insider**: [[Peter Beck]]
 **Source**: [Everyday Astronaut](https://www.youtube.com/watch?v=cdtQfSkrVUU)
 **Date**: April 11 2020
 
-<div class="responsive-video">
-<iframe src="https://www.youtube.com/embed/cdtQfSkrVUU" title="How To Catch A Rocket From Space With A Helicopter (Peter Beck Interview, April 2020)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+![](https://www.youtube.com/watch?v=cdtQfSkrVUU)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=cdtQfSkrVUU
 
 ## 🎙️ Transcript
 

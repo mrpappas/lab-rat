@@ -5,6 +5,7 @@ shares_owned:
 joined: 2013-11-01
 linkedin: https://www.linkedin.com/in/sandy-tirtey-72b7632/
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[People]] <span style="color: LightSlateGray">></span> Sandy Tirtey
 
 **Name:** Sandy Tirtey
 **Role:** Senior Director - Global Commercial Launch Services
