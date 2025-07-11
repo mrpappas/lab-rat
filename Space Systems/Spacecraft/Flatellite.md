@@ -1,3 +1,4 @@
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Space Systems]] <span style="color: LightSlateGray">></span> Flatellite
 ## Summary 
 
 **Announced February 27 2025** (🔗[[Rocket Lab Announces Flatellite|Article]]), Ideal for high operational duty cycle telecommunications, as well as remote sensing applications.

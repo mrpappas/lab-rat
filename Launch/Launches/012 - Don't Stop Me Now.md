@@ -6,7 +6,7 @@ tags:
   - success
 mission_name: "Don't Stop Me Now"
 launch_date: 2020-06-13 05:12
-outcome: ✅ Success
+outcome: ✅
 customer: 
 - "[[Boston University]]"
 - "[[NASA]]"

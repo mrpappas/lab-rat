@@ -6,7 +6,7 @@ tags:
   - success
 mission_name: "It's A Little Chile Up Here"
 launch_date: 2021-07-29 06:00
-outcome: ✅ Success
+outcome: ✅
 customer: "[[U.S. Space Force]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"

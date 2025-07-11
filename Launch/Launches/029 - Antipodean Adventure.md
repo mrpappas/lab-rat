@@ -6,7 +6,7 @@ tags:
   - success
 mission_name: "Antipodean Adventure"
 launch_date: 2022-08-04 05:00
-outcome: ✅ Success
+outcome: ✅
 customer: "[[National Reconnaissance Office (NRO)]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"

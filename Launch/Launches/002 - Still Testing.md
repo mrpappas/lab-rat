@@ -6,7 +6,7 @@ tags:
   - success
 mission_name: Still Testing
 launch_date: 2018-01-21 02:43
-outcome: ✅ Success
+outcome: ✅
 customer:
   - "[[Planet Labs]]"
   - "[[Spire Global]]"

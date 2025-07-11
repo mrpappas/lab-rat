@@ -6,7 +6,7 @@ tags:
   - success
 mission_name: "Ready, Aim, PREFIRE"
 launch_date: 2024-05-25 07:15
-outcome: ✅ Success
+outcome: ✅
 customer: "[[NASA]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"

@@ -23,12 +23,12 @@ sort launch_date desc
 ```
 %%
 
-| File                                                                                  | Date             | Location                                              | Vehicle                          | Orbit & Mass            | Outcome   |
-| ------------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | ----------------------- | --------- |
-| [[Launch/Launches/066 - The Mountain God Guards.md\|066 - The Mountain God Guards]]   | 2025-06-11 15:15 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 575 km \| 42° \| 100 kg | ✅ Success |
-| [[Launch/Launches/064 - The Sea God Sees.md\|064 - The Sea God Sees]]                 | 2025-05-17 08:17 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 575 km \| 42° \| 100 kg | ✅ Success |
-| [[Launch/Launches/061 - The Lightning God Reigns.md\|061 - The Lightning God Reigns]] | 2025-03-15 00:00 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 575 km \| 42° \| 100 kg | ✅ Success |
-| [[Launch/Launches/042 - The Moon God Awakens.md\|042 - The Moon God Awakens]]         | 2023-12-15 04:05 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 575 km \| 42° \| 100 kg | ✅ Success |
+| File                                                                                  | Date             | Location                                              | Vehicle                          | Orbit & Mass            | Outcome |
+| ------------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | ----------------------- | ------- |
+| [[Launch/Launches/066 - The Mountain God Guards.md\|066 - The Mountain God Guards]]   | 2025-06-11 15:15 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 575 km \| 42° \| 100 kg | ✅       |
+| [[Launch/Launches/064 - The Sea God Sees.md\|064 - The Sea God Sees]]                 | 2025-05-17 08:17 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 575 km \| 42° \| 100 kg | ✅       |
+| [[Launch/Launches/061 - The Lightning God Reigns.md\|061 - The Lightning God Reigns]] | 2025-03-15 00:00 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 575 km \| 42° \| 100 kg | ✅       |
+| [[Launch/Launches/042 - The Moon God Awakens.md\|042 - The Moon God Awakens]]         | 2023-12-15 04:05 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 575 km \| 42° \| 100 kg | ✅       |
 
 %%DATAVIEW_PUBLISHER: end %%
 

@@ -6,7 +6,7 @@ tags:
   - success
 mission_name: "I Can't Believe It's Not Optical"
 launch_date: 2020-08-31 03:05
-outcome: ✅ Success
+outcome: ✅
 customer: "[[Capella Space]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"

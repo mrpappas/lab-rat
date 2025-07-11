@@ -21,9 +21,9 @@ sort launch_date desc
 ```
 %%
 
-| File                                                                    | Date             | Location                                              | Vehicle                          | Orbit & Mass              | Outcome   |
-| ----------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | ------------------------- | --------- |
-| [[Launch/Launches/009 - As The Crow Flies.md\|009 - As The Crow Flies]] | 2019-10-17 01:22 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 1200 km \| 87.9° \| 20 kg | ✅ Success |
+| File                                                                    | Date             | Location                                              | Vehicle                          | Orbit & Mass              | Outcome |
+| ----------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | ------------------------- | ------- |
+| [[Launch/Launches/009 - As The Crow Flies.md\|009 - As The Crow Flies]] | 2019-10-17 01:22 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 1200 km \| 87.9° \| 20 kg | ✅       |
 
 %%DATAVIEW_PUBLISHER: end %%
 

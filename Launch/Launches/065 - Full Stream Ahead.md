@@ -4,7 +4,7 @@ tags:
  - launch
 mission_name: Full Stream Ahead
 launch_date: 2025-06-03 23:57
-outcome: "✅ Success"
+outcome: "✅"
 customer: "[[BlackSky]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-B]]"
 vehicle: "[[Electron]]"

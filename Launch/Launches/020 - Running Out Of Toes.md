@@ -7,7 +7,7 @@ tags:
   - anomaly
 mission_name: "Running Out Of Toes"
 launch_date: 2021-05-15 11:11
-outcome: ❌ Failure
+outcome: ❌
 customer: "[[BlackSky]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"

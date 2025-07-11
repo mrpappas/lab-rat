@@ -6,7 +6,7 @@ tags:
   - success
 mission_name: "On Closer Inspection"
 launch_date: 2024-02-19 14:52
-outcome: ✅ Success
+outcome: ✅
 customer: "[[Astroscale-Japan]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"

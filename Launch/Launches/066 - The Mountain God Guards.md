@@ -4,7 +4,7 @@ tags:
  - launch
 mission_name: The Mountain God Guards
 launch_date: 2025-06-11 15:15
-outcome: "✅ Success"
+outcome: "✅"
 customer: "[[iQPS]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"

@@ -6,7 +6,7 @@ tags:
   - success
 mission_name: "Birds of a Feather"
 launch_date: 2020-01-31 02:56
-outcome: ✅ Success
+outcome: ✅
 customer: "[[National Reconnaissance Office (NRO)]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"

@@ -4,7 +4,7 @@ tags:
  - launch
 mission_name: The Lighting God Reigns
 launch_date: 2025-03-15 00:00
-outcome: "✅ Success"
+outcome: "✅"
 customer: "[[iQPS]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"

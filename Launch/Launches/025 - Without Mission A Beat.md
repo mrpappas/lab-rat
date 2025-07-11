@@ -6,7 +6,7 @@ tags:
   - success
 mission_name: "Without Mission A Beat"
 launch_date: 2022-04-02 12:41
-outcome: ✅ Success
+outcome: ✅
 customer: "[[BlackSky]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"

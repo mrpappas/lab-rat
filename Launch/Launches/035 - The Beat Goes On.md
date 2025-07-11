@@ -6,7 +6,7 @@ tags:
   - success
 mission_name: "The Beat Goes On"
 launch_date: 2023-03-24 09:14
-outcome: ✅ Success
+outcome: ✅
 customer: "[[BlackSky]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"

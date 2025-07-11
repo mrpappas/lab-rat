@@ -6,7 +6,7 @@ tags:
   - success
 mission_name: Love At First Insight
 launch_date: 2021-11-18 01:38
-outcome: ✅ Success
+outcome: ✅
 customer:
   - "[[BlackSky]]"
   - "[[Spaceflight]]"

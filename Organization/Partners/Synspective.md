@@ -23,14 +23,14 @@ sort launch_date desc
 ```
 %%
 
-| File                                                                                    | Date             | Location                                              | Vehicle                          | Orbit & Mass              | Outcome   |
-| --------------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | ------------------------- | --------- |
-| [[Launch/Launches/058 - Owl The Way Up.md\|058 - Owl The Way Up]]                       | 2024-12-21 14:16 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 574 km \| 97° \| 100 kg   | ✅ Success |
-| [[Launch/Launches/051 - Owl For One, One For Owl.md\|051 - Owl For One, One For Owl]]   | 2024-08-02 16:39 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 543 km \| 43° \| 100 kg   | ✅ Success |
-| [[Launch/Launches/045 - Owl Night Long.md\|045 - Owl Night Long]]                       | 2024-03-12 14:00 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 561 km \| 97° \| 100 kg   | ✅ Success |
-| [[Launch/Launches/030 - The Owl Spreads Its Wings.md\|030 - The Owl Spreads Its Wings]] | 2022-09-15 20:30 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 563 km \| 97° \| 100 kg   | ✅ Success |
-| [[Launch/Launches/024 - The Owl's Night Continues.md\|024 - The Owl's Night Continues]] | 2022-02-28 20:37 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 561 km \| 97° \| 150 kg   | ✅ Success |
-| [[Launch/Launches/017 - The Owl's Night Begins.md\|017 - The Owl's Night Begins]]       | 2020-12-15 10:09 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 500 km \| 97.3° \| 150 kg | ✅ Success |
+| File                                                                                    | Date             | Location                                              | Vehicle                          | Orbit & Mass              | Outcome |
+| --------------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | ------------------------- | ------- |
+| [[Launch/Launches/058 - Owl The Way Up.md\|058 - Owl The Way Up]]                       | 2024-12-21 14:16 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 574 km \| 97° \| 100 kg   | ✅       |
+| [[Launch/Launches/051 - Owl For One, One For Owl.md\|051 - Owl For One, One For Owl]]   | 2024-08-02 16:39 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 543 km \| 43° \| 100 kg   | ✅       |
+| [[Launch/Launches/045 - Owl Night Long.md\|045 - Owl Night Long]]                       | 2024-03-12 14:00 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 561 km \| 97° \| 100 kg   | ✅       |
+| [[Launch/Launches/030 - The Owl Spreads Its Wings.md\|030 - The Owl Spreads Its Wings]] | 2022-09-15 20:30 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 563 km \| 97° \| 100 kg   | ✅       |
+| [[Launch/Launches/024 - The Owl's Night Continues.md\|024 - The Owl's Night Continues]] | 2022-02-28 20:37 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 561 km \| 97° \| 150 kg   | ✅       |
+| [[Launch/Launches/017 - The Owl's Night Begins.md\|017 - The Owl's Night Begins]]       | 2020-12-15 10:09 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 500 km \| 97.3° \| 150 kg | ✅       |
 
 %%DATAVIEW_PUBLISHER: end %%
 

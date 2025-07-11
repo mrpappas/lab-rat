@@ -6,7 +6,7 @@ tags:
   - success
 mission_name: "Wise One Looks Ahead"
 launch_date: 2022-07-13 06:30
-outcome: ✅ Success
+outcome: ✅
 customer: "[[National Reconnaissance Office (NRO)]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"

@@ -6,7 +6,7 @@ tags:
   - success
 mission_name: "Virginia is for Launch Lovers"
 launch_date: 2023-01-24 23:00
-outcome: ✅ Success
+outcome: ✅
 customer: "[[HawkEye 360]]"
 location: "[[Launch Complex 2#Launch Pad 0C|LC2-0]]"
 vehicle: "[[Electron]]"

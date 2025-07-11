@@ -6,7 +6,7 @@ tags:
   - success
 mission_name: "Owl For One, One For Owl"
 launch_date: 2024-08-02 16:39
-outcome: ✅ Success
+outcome: ✅
 customer: "[[Synspective]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"

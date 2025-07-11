@@ -6,7 +6,7 @@ tags:
   - success
 mission_name: "It Argos Up From Here"
 launch_date: 2022-10-07 17:09
-outcome: ✅ Success
+outcome: ✅
 customer: "[[General Atomics Electromagnetic Systems]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"

@@ -6,7 +6,7 @@ tags:
   - success
 mission_name: "Baby Come Back"
 launch_date: 2023-07-18 01:27
-outcome: ✅ Success
+outcome: ✅
 customer: 
 - "[[NASA]]"
 - "[[UTIAS Space Flight Laboratory]]"

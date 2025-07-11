@@ -6,7 +6,7 @@ tags:
   - failure
 mission_name: "It's a Test"
 launch_date: 2017-05-25 04:20
-outcome: "❌ Failure"
+outcome: "❌"
 customer: "N/A"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"

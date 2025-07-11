@@ -6,7 +6,7 @@ tags:
   - success
 mission_name: "Another One Leaves The Crust"
 launch_date: 2021-01-20 07:26
-outcome: ✅ Success
+outcome: ✅
 customer: "[[OHB Group]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"

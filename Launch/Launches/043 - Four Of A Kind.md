@@ -6,7 +6,7 @@ tags:
   - success
 mission_name: "Four Of A Kind"
 launch_date: 2024-01-31 06:34
-outcome: ✅ Success
+outcome: ✅
 customer: 
 - "[[Spire Global]]"
 - "[[NorthStar Earth & Space]]"

@@ -4,7 +4,7 @@ tags:
  - launch
 mission_name: Finding Hot Wildfires Near You
 launch_date: 2025-03-26 15:30
-outcome: "✅ Success"
+outcome: "✅"
 customer: "[[Orora Technlogies]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"

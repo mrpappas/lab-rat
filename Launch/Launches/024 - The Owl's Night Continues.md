@@ -6,7 +6,7 @@ tags:
   - success
 mission_name: "The Owl's Night Continues"
 launch_date: 2022-02-28 20:37
-outcome: ✅ Success
+outcome: ✅
 customer: "[[Synspective]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"

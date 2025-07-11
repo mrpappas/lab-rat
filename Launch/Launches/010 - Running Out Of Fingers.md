@@ -6,7 +6,7 @@ tags:
   - success
 mission_name: "Running Out Of Fingers"
 launch_date: 2019-12-06 08:18
-outcome: ✅ Success
+outcome: ✅
 customer: 
 - "[[Alba Orbital]]"
 - "[[Spaceflight]]"

@@ -6,7 +6,7 @@ tags:
   - success
 mission_name: It's Business Time
 launch_date: 2018-11-11 03:50
-outcome: ✅ Success
+outcome: ✅
 customer:
   - "[[Spire Global]]"
   - "[[Tyvak Nano-Satellite Systems]]"

@@ -6,7 +6,7 @@ tags:
   - success
 mission_name: They Go Up So Fast
 launch_date: 2021-03-22 22:30
-outcome: ✅ Success
+outcome: ✅
 customer:
   - "[[BlackSky]]"
   - "[[Tyvak Nano-Satellite Systems]]"

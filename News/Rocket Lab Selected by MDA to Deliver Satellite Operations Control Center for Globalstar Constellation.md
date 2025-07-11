@@ -9,6 +9,8 @@ description: "*LONG BEACH, Calif. 9 November 2022* – Rocket Lab USA, Inc (Nasd
 customer: 
  - "[[MDA]]"
  - "[[Globalstar]]"
+mission:
+ - "[[Globalstar (MDA) Satellite Buses]]"
 tags:
   - "space-systems"
 ---

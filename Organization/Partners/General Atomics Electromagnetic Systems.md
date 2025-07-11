@@ -22,9 +22,9 @@ sort launch_date desc
 ```
 %%
 
-| File                                                                            | Date             | Location                                              | Vehicle                          | Orbit & Mass            | Outcome   |
-| ------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | ----------------------- | --------- |
-| [[Launch/Launches/031 - It Argos Up From Here.md\|031 - It Argos Up From Here]] | 2022-10-07 17:09 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 750 km \| 98° \| 118 kg | ✅ Success |
+| File                                                                            | Date             | Location                                              | Vehicle                          | Orbit & Mass            | Outcome |
+| ------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | ----------------------- | ------- |
+| [[Launch/Launches/031 - It Argos Up From Here.md\|031 - It Argos Up From Here]] | 2022-10-07 17:09 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 750 km \| 98° \| 118 kg | ✅       |
 
 %%DATAVIEW_PUBLISHER: end %%
 

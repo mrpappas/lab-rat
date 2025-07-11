@@ -5,7 +5,7 @@ tags:
   - success
 mission_name: Fasten Your Space Belts
 launch_date: 2025-02-19 12:17
-outcome: ✅ Success
+outcome: ✅
 customer: "[[BlackSky]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"

@@ -6,7 +6,7 @@ tags:
   - success
 mission_name: "There And Back Again"
 launch_date: 2022-05-02 22:49
-outcome: ✅ Success
+outcome: ✅
 customer: 
 - "[[Alba Orbital]]"
 - "[[Astrix Astronautics]]"

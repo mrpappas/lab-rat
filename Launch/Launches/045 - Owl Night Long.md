@@ -6,7 +6,7 @@ tags:
   - success
 mission_name: Owl Night Long
 launch_date: 2024-03-12 14:00
-outcome: ✅ Success
+outcome: ✅
 customer: "[[Synspective]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"

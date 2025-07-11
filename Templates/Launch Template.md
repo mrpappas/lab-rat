@@ -1,49 +1,55 @@
 ---
 tags:
- - 
+ - launch
 mission_name: 
 launch_date: 
-outcome: ""
-customer: "[[]]"
-location: "[[]]"
-vehicle: "[[]]"
-orbit_type: "[[]]"
+outcome: "⌛"
+customer: ""
+location: ""
+vehicle: ""
+orbit_type: ""
 target_orbit: 
 payload_mass: 
 recovery: 
 mission_link: 
 ---
-#
-**Mission Name**: 
-**Launch Date**:  UTC
-**Outcome**: 
-**Customer**: [[]]
-**Location**: [[]]
-**Vehicle**: [[]]
-**Orbit Type**: [[]]
-**Target Orbit**: 
-**Payload Mass**: 
-**Recovery**: 
-**Mission Link**: 
-**Press Kit**: [[]]
+[[Home|🏠]]  <span style="color: LightSlateGray">></span> <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span> Mission
 
->[!success] Mission Success
+>[!warning] Mission Pending
 
 >[!summary]
-Enter Summary Here
+Summary Goes Here
 >
-[📸 Mission Photo Album]()
+>[📸 Mission Photo Album]()
+
+
+| **Mission Name** |     |
+| ---------------- | --- |
+| **Launch Date**  |     |
+| **Outcome**      |     |
+| **Customer**     |     |
+| **Location**     |     |
+| **Vehicle**      |     |
+| **Orbit Type**   |     |
+| **Target Orbit** |     |
+| **Payload Mass** |     |
+| **Recovery**     |     |
+| **Mission Link** |     |
+| **Press Kit**    |     |
+
+<!-- Mission Patch Here -->
 
 ## 📦 Payload
 
-<!Enter Payload Here>
+x1 <!-- Payload -->
+
+<!-- embedded payload here -- >
 
 ## 📽️ Launch Video
 
-<div class="responsive-video">
-<iframe width="1141" height="642" src="" title="Rocket Lab - '' Launch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<!-- ![]() -->
 
-
+🔗 Backup Link: 
 ## 📰 News
 
 %%DATAVIEW_PUBLISHER: start
@@ -59,3 +65,4 @@ sort published desc
 | ---- | --------- |
 
 %%DATAVIEW_PUBLISHER: end %%
+

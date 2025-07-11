@@ -21,10 +21,10 @@ sort launch_date desc
 ```
 %%
 
-| File                                                                      | Date             | Location                                              | Vehicle                          | Orbit & Mass                         | Outcome   |
-| ------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | ------------------------------------ | --------- |
-| [[Launch/Launches/019 - They Go Up So Fast.md\|019 - They Go Up So Fast]] | 2021-03-22 22:30 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 450 km and 550 km \| 45° \| Unknown  | ✅ Success |
-| [[Launch/Launches/012 - Don't Stop Me Now.md\|012 - Don't Stop Me Now]]   | 2020-06-13 05:12 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 570 x 590 km \| 97.75° \| Classified | ✅ Success |
+| File                                                                      | Date             | Location                                              | Vehicle                          | Orbit & Mass                         | Outcome |
+| ------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | ------------------------------------ | ------- |
+| [[Launch/Launches/019 - They Go Up So Fast.md\|019 - They Go Up So Fast]] | 2021-03-22 22:30 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 450 km and 550 km \| 45° \| Unknown  | ✅       |
+| [[Launch/Launches/012 - Don't Stop Me Now.md\|012 - Don't Stop Me Now]]   | 2020-06-13 05:12 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 570 x 590 km \| 97.75° \| Classified | ✅       |
 
 %%DATAVIEW_PUBLISHER: end %%
 

@@ -6,7 +6,7 @@ tags:
   - success
 mission_name: "Live And Let Fly"
 launch_date: 2024-03-21 06:40
-outcome: ✅ Success
+outcome: ✅
 customer: "[[National Reconnaissance Office (NRO)]]"
 location: "[[Launch Complex 2#Launch Pad 0C|LC2-0]]"
 vehicle: "[[Electron]]"

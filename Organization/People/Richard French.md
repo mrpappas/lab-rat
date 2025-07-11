@@ -39,6 +39,7 @@ sort date desc
 | [[Interviews/Off-Nominal Episode 191.md\|Off-Nominal Episode 191]]                                             | April 03, 2025     | Off-Nominal                  |
 | [[Interviews/Space Policy Edition - Planetary Radio.md\|Space Policy Edition - Planetary Radio]]               | February 07, 2025  | The Planetary Society        |
 | [[Interviews/Rocket Lab 2022 Investor Day & Neutron Update.md\|Rocket Lab 2022 Investor Day & Neutron Update]] | September 22, 2022 | Rocket Lab 2022 Investor Day |
+| [[Interviews/Total Space - Richard French.md\|Total Space - Richard French]]                                   | August 10, 2021    | Total Space                  |
 
 %%DATAVIEW_PUBLISHER: end %%
 

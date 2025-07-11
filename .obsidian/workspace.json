@@ -4,41 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "f3573947d93d7fba",
+        "id": "90790203601ce946",
         "type": "tabs",
         "children": [
           {
-            "id": "78851f19e4b89c1a",
+            "id": "dbaf6f606686650d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interviews/The Deloitte Top 200 Awards - Peter Beck.md",
+                "file": "Space Systems/Spacecraft/Explorer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "The Deloitte Top 200 Awards - Peter Beck"
-            }
-          },
-          {
-            "id": "2007be98db6fa427",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Subsidiaries.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Subsidiaries"
+              "title": "Explorer"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "photon",
+                "query": "MDA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -95,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 390.5
+    "width": 319.5
   },
   "right": {
     "id": "d6554af7f7699467",
@@ -111,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subsidiaries.md",
+                "file": "Space Systems/Spacecraft/Explorer.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Subsidiaries"
+              "title": "Backlinks for Explorer"
             }
           },
           {
@@ -158,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organization/People/Frank Klein.md",
+                "file": "Space Systems/Spacecraft/Explorer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Frank Klein"
+              "title": "Outline of Explorer"
             }
           },
           {
@@ -211,44 +195,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2007be98db6fa427",
+  "active": "6449ebb6b9cf2b96",
   "lastOpenFiles": [
-    "To Do List.md",
-    "Subsidiaries.md",
-    "Organization/Subsidiaries/Planetary Systems Corporation (PSC).md",
-    "Space Systems.md",
-    "SEC Filings (All).md",
-    "SEC Filings (2025).md",
-    "Rocket Lab.md",
-    "README.md",
-    "People.md",
-    "Partners.md",
-    "News.md",
-    "Launches.md",
-    "Interviews.md",
-    "Insider Sales.md",
-    "Home.md",
-    "Acquisitions.md",
-    "Earnings Calls.md",
-    "Board of Directors.md",
-    "Space Systems/Solar Solutions/ZTJ Solar Cell.md",
-    "Space Systems/Solar Solutions/Z4J+ Solar Cell.md",
-    "Space Systems/Solar Solutions/Z4J Solar Cell.md",
-    "Space Systems/Solar Solutions/Substrates & Panels.md",
-    "Space Systems/Solar Solutions/STARRAY.md",
-    "Financial/Quarterly Reports/2024 Q3.md",
+    "Vault-Assets/Images/Pasted image 20250711172134.png",
+    "Vault-Assets/Images/Pasted image 20250711172704.png",
+    "Pasted image 20250711172632.png",
     "Space Systems/Spacecraft/Explorer.md",
+    "Missions/ESCAPADE.md",
+    "Space Systems/Spacecraft/Pioneer.md",
+    "Missions/Varda W Missions.md",
+    "Organization/Partners/Varda Space Industries.md",
+    "Space Systems/Spacecraft/Lightning.md",
+    "Space Systems.md",
+    "Space Systems/Spacecraft/Photon.md",
     "Space Systems/Spacecraft/Flatellite.md",
-    "Vault-Assets/Images/Pasted image 20250626015608.png",
-    "Vault-Assets/Images/Pasted image 20250626020109.png",
-    "Vault-Assets/Images/Pasted image 20250625025712.png",
-    "Vault-Assets/Images/Pasted image 20250621153815.jpg",
-    "Vault-Assets/Images/Pasted image 20250621182238.png",
-    "Vault-Assets/Images/Pasted image 20250621181747.png",
-    "Vault-Assets/Images/Pasted image 20250621181604.png",
-    "Vault-Assets/Images/Pasted image 20250621181407.png",
-    "Vault-Assets/Images/Pasted image 20250621181301.png",
-    "Vault-Assets/Images/Pasted image 20250621181143.png",
+    "Vault-Assets/Images/Pasted image 20250710220118.png",
+    "Vault-Assets/Images/Pasted image 20250711003506.png",
+    "Space Systems/Spacecraft/Spacecraft.md",
+    "Organization/Partners/Globalstar.md",
+    "Missions/CAPSTONE.md",
+    "Templates/Launch Template.md",
+    "Templates/Interview Template.md",
+    "Launch/Launches/067 - Get The Hawk Outta Here.md",
+    "Launch/Launches/068 - Symphony In The Stars.md",
+    "Launches.md",
+    "Launch/Launches/066 - The Mountain God Guards.md",
+    "Launch/Launches/065 - Full Stream Ahead.md",
+    "Launch/Launches/064 - The Sea God Sees.md",
+    "Launch/Launches/063 - Finding Hot Wildfires Near You.md",
+    "Launch/Launches/062 - High Five.md",
+    "Launch/Launches/061 - The Lightning God Reigns.md",
+    "Launch/Launches/060 - Fasten Your Space Belts.md",
+    "Launch/Launches/059 - IOT 4 You and Me.md",
+    "Vault-Assets/Images/Pasted image 20250703175655.png",
+    "Vault-Assets/Images/Pasted image 20250705130557.png",
+    "Vault-Assets/Images/Pasted image 20250704225517.png",
+    "Vault-Assets/Images/Pasted image 20250704002709.png",
+    "Vault-Assets/Images/Pasted image 20250703175738.png",
+    "Vault-Assets/PDFs/EXC22_017 - Photon Doc_ƒ [Web].pdf",
+    "Space Systems/Propulsion",
+    "Vault-Assets/PDFs/Photon spec sheet.pdf",
     "Misc/Commercial Space Stations",
     "Vault-Assets/PDFs/F66-The-Mountain-God-Guards-Presskit-final-compressed.pdf",
     "Vault-Assets/PDFs/RL-F65-BlackSky-Full-Stream-Ahead-Presskit-compressed.pdf",
@@ -256,9 +242,6 @@
     "Vault-Assets/PDFs/29661373-7549-4d34-90d1-5f9eac8acb81.pdf",
     "Vault-Assets/PDFs/77f92c97-9a88-4758-b21f-16608472f7bd.pdf",
     "Filings/2025/10-Q",
-    "Vault-Assets/PDFs/cfb4cc57-bcb1-485b-adcf-7dd9e96f4746.pdf",
-    "Vault-Assets/PDFs/aa46afaa-26ab-472f-b246-a40006aa7fa7.pdf",
-    "Vault-Assets/PDFs/b2780d56-17f8-4e3f-a5d8-7a3b58714552.pdf",
     "Untitled.canvas",
     "Subsidiaries/Untitled.canvas"
   ]

@@ -22,9 +22,9 @@ sort launch_date desc
 ```
 %%
 
-| File                                                                              | Date             | Location                                              | Vehicle                          | Orbit & Mass                 | Outcome   |
-| --------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | ---------------------------- | --------- |
-| [[Launch/Launches/010 - Running Out Of Fingers.md\|010 - Running Out Of Fingers]] | 2019-12-06 08:18 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 385 x 400 km \| 97° \| 77 kg | ✅ Success |
+| File                                                                              | Date             | Location                                              | Vehicle                          | Orbit & Mass                 | Outcome |
+| --------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | ---------------------------- | ------- |
+| [[Launch/Launches/010 - Running Out Of Fingers.md\|010 - Running Out Of Fingers]] | 2019-12-06 08:18 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 385 x 400 km \| 97° \| 77 kg | ✅       |
 
 %%DATAVIEW_PUBLISHER: end %%
 

@@ -6,7 +6,7 @@ tags:
   - success
 mission_name: "A Data With Destiny"
 launch_date: 2021-12-09 00:02
-outcome: ✅ Success
+outcome: ✅
 customer: "[[BlackSky]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"

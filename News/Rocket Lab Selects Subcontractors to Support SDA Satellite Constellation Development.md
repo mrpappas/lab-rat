@@ -1,5 +1,4 @@
 ---
-
 title: "Rocket Lab Selects Subcontractors to Support SDA Satellite Constellation Development "
 source: https://www.rocketlabusa.com/updates/rocket-lab-selects-subcontractors-to-support-sda-satellite-constellation-development/
 author:
@@ -8,9 +7,9 @@ published: 2024-05-06
 description: "Long Beach, California. May 6, 2024. – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced it has completed the selection of subcontractors to provide payloads and ground systems for the 18 satellites the Company is developing for SDA (Space Development Agency)."
 customer: "[[Space Development Agency (SDA)]]"
 partner:
- - "[[CesiumAstro]]"
- - "[[Mynaric]]"
-mission: "[[SDA Tranche 2 - Enhanced Global Coverage]]"
+  - "[[CesiumAstro]]"
+  - "[[Mynaric]]"
+mission: "[[SDA Tranche 2 - Transport Layer]]"
 tags:
   - space-systems
 ---
@@ -22,7 +21,7 @@ tags:
 **Published:** 2024-05-06
 **Description:** Long Beach, California. May 6, 2024. – Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced it has completed the selection of subcontractors to provide payloads and ground systems for the 18 satellites the Company is developing for SDA (Space Development Agency).
 **Customer:** [[Space Development Agency (SDA)]]
-**Mission:** [[SDA Tranche 2 - Enhanced Global Coverage]]
+**Mission:** [[SDA Tranche 2 - Transport Layer]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-selects-subcontractors-to-support-sda-satellite-constellation-development/
 

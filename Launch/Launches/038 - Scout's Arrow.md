@@ -6,7 +6,7 @@ tags:
   - success
 mission_name: "Scout's Arrow"
 launch_date: 2023-06-18 01:24
-outcome: ✅ Success
+outcome: ✅
 customer: "[[Leidos]]"
 location: "[[Launch Complex 2#Launch Pad 0C|LC2-0]]"
 vehicle: "[[HASTE]]"

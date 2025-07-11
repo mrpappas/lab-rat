@@ -49,13 +49,13 @@ sort launch_date desc
 ```
 %%
 
-| File                                                                                                  | Date             | Location                                               | Vehicle                          | Orbit & Mass            | Outcome   |
-| ----------------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------------ | -------------------------------- | ----------------------- | --------- |
-| [[Launch/Launches/052 - A Sky Full Of SARs.md\|052 - A Sky Full Of SARs]]                             | 2024-08-11 13:18 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]]  | [[Launch/Electron.md\|Electron]] | 615 km \| 53° \| 165 kg | ✅ Success |
-| [[Launch/Launches/041 - We Will Never Desert You.md\|041 - We Will Never Desert You]]                 | 2023-09-19 06:55 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]]  | [[Launch/Electron.md\|Electron]] | 640 km \| 53° \| 165 kg | ❌ Failure |
-| [[Launch/Launches/040 - We Love The Nightlife.md\|040 - We Love The Nightlife]]                       | 2023-08-24 23:45 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]]  | [[Launch/Electron.md\|Electron]] | 640 km \| 53° \| 165 kg | ✅ Success |
-| [[Launch/Launches/034 - Stronger Together.md\|034 - Stronger Together]]                               | 2023-03-16 22:38 | [[Locations/Launch Complex 2.md#Launch Pad 0C\|LC2-0]] | [[Launch/Electron.md\|Electron]] | 600 km \| 44° \| 224 kg | ✅ Success |
-| [[Launch/Launches/014 - I Can't Believe It's Not Optical.md\|014 - I Can't Believe It's Not Optical]] | 2020-08-31 03:05 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]]  | [[Launch/Electron.md\|Electron]] | 500 km \| 45° \| 100 kg | ✅ Success |
+| File                                                                                                  | Date             | Location                                               | Vehicle                          | Orbit & Mass            | Outcome |
+| ----------------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------------ | -------------------------------- | ----------------------- | ------- |
+| [[Launch/Launches/052 - A Sky Full Of SARs.md\|052 - A Sky Full Of SARs]]                             | 2024-08-11 13:18 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]]  | [[Launch/Electron.md\|Electron]] | 615 km \| 53° \| 165 kg | ✅       |
+| [[Launch/Launches/041 - We Will Never Desert You.md\|041 - We Will Never Desert You]]                 | 2023-09-19 06:55 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]]  | [[Launch/Electron.md\|Electron]] | 640 km \| 53° \| 165 kg | ❌       |
+| [[Launch/Launches/040 - We Love The Nightlife.md\|040 - We Love The Nightlife]]                       | 2023-08-24 23:45 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]]  | [[Launch/Electron.md\|Electron]] | 640 km \| 53° \| 165 kg | ✅       |
+| [[Launch/Launches/034 - Stronger Together.md\|034 - Stronger Together]]                               | 2023-03-16 22:38 | [[Locations/Launch Complex 2.md#Launch Pad 0C\|LC2-0]] | [[Launch/Electron.md\|Electron]] | 600 km \| 44° \| 224 kg | ✅       |
+| [[Launch/Launches/014 - I Can't Believe It's Not Optical.md\|014 - I Can't Believe It's Not Optical]] | 2020-08-31 03:05 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]]  | [[Launch/Electron.md\|Electron]] | 500 km \| 45° \| 100 kg | ✅       |
 
 %%DATAVIEW_PUBLISHER: end %%
 

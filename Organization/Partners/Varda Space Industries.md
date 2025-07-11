@@ -9,22 +9,34 @@ website: https://www.varda.com/
 
 >[!summary]
 Varda Space Industries is pioneering in-space manufacturing by leveraging microgravity to produce materials and products that are superior to those made on Earth. By building and deploying space-based factories, Varda creates high-value products—like advanced pharmaceuticals and specialized materials—that benefit from the unique conditions of space. These products are then safely returned to Earth, enabling breakthrough innovations in medicine, technology, and industrial manufacturing.
-
-## 🌍 Missions
+## Missions
 
 -  [[Varda W Missions]]
-
-## 🛰️ Space Systems
+## Space Systems
 
 ### W-Series
-Varda’s W-Series capsule is an autonomous free-flying microgravity formulation platform intended for in-orbit pharmaceutical manufacturing followed by terrestrial landing. The W-Series capsule reenters the Earth’s atmosphere at more than 18,000 miles per hour and reaches speeds above Mach 25.  The capsule touches down on land via a parachute. The W-Series capsules’ heatshields are made of[ C-PICA (Conformal Phenolic Impregnated Carbon Ablator)](https://ntrs.nasa.gov/api/citations/20220019340/downloads/SMDshowCase_CPICA_Poster.pdf), a thermal protection material produced by [[NASA]] Ames Research Center. The material was originally developed at Ames, and the reentry of W-1 marked the first time a NASA-manufactured C-PICA heat shield ever returned from space.
 
-The W-Series is built on Rocket Lab's [[Pioneer]] platform, but Varda has indicated their intentions to bring manufacturing of the W-Series in house. 
+#### Summary
 
-![[1741975062-w3-for-social.webp]]
+Varda’s W-Series capsule is an autonomous free-flying microgravity formulation platform intended for in-orbit pharmaceutical manufacturing followed by terrestrial landing. The W-Series capsule reenters the Earth’s atmosphere at more than 18,000 miles per hour and reaches speeds above Mach 25.  The capsule touches down on land via a parachute. The W-Series capsules’ heatshields are made of[ C-PICA (Conformal Phenolic Impregnated Carbon Ablator)](https://ntrs.nasa.gov/api/citations/20220019340/downloads/SMDshowCase_CPICA_Poster.pdf), a thermal protection material produced by [[NASA]]  Ames Research Center. The material was originally developed at Ames, and the reentry of W-1 marked the first time a NASA-manufactured C-PICA heat shield ever returned from space.
 
+>[!hint] Satellite Bus
+>The first three W-Series were built on Rocket Lab's [[Pioneer]] platform, but Varda has since vertically integrated and pivoted to [manufacturing the W-Series in house](https://spacenews.com/varda-to-launch-its-first-in-house-designed-spacecraft-for-on-orbit-manufacturing/). 
 
-## 📰 News
+![[Pasted image 20250711003506.png]]
+
+#### Specifications
+
+| Specification | Value                     |
+| ------------- | ------------------------- |
+| Wet Mass      | ~300 kg                   |
+| Diameter      | ~0.9 m                    |
+| Typical Orbit | ~510 x 535 km             |
+| Reentry Speed | Mach 25                   |
+| Heat Shield   | C‑PICA                    |
+| Bus           | [[Pioneer]], In-House Bus |
+
+## News
 %%DATAVIEW_PUBLISHER: start
 ```
 table published as "Published"

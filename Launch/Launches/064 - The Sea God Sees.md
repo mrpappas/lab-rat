@@ -4,7 +4,7 @@ tags:
   - launch
 mission_name: The Sea God Sees
 launch_date: 2025-05-17 08:17
-outcome: ✅ Success
+outcome: ✅
 customer: "[[iQPS]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"

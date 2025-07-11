@@ -6,7 +6,7 @@ tags:
   - success
 mission_name: "As The Crow Flies"
 launch_date: 2019-10-17 01:22
-outcome: ✅ Success
+outcome: ✅
 customer: "[[Astro Digital]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"

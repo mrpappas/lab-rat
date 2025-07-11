@@ -6,7 +6,7 @@ tags:
   - success
 mission_name: HASTE A La Vista
 launch_date: 2024-11-24 06:00
-outcome: ✅ Success
+outcome: ✅
 customer: "[[U.S. Department of Defense]]"
 location: "[[Launch Complex 2#Launch Pad 0C|LC2-0]]"
 vehicle: "[[HASTE]]"

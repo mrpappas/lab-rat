@@ -4,7 +4,7 @@ tags:
  - launch
 mission_name: High Five
 launch_date: 2025-03-18 01:31
-outcome: "✅ Success"
+outcome: "✅"
 customer: "[[Kinéis]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"

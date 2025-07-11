@@ -6,7 +6,7 @@ tags:
   - success
 mission_name: "PREFIRE and ICE"
 launch_date: 2024-06-05 03:15
-outcome: ✅ Success
+outcome: ✅
 customer: "[[NASA]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"

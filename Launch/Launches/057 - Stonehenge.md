@@ -6,7 +6,7 @@ tags:
   - success
 mission_name: Stonehenge
 launch_date: 2024-12-13 00:00
-outcome: ✅ Success
+outcome: ✅
 customer: "Unknown*"
 location: "[[Launch Complex 2#Launch Pad 0C|LC2-0]]"
 vehicle: "[[HASTE]]"

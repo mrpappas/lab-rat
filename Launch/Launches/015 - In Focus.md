@@ -6,7 +6,7 @@ tags:
   - success
 mission_name: "In Focus"
 launch_date: 2020-10-28 21:21
-outcome: ✅ Success
+outcome: ✅
 customer: 
 - "[[Planet Labs]]"
 - "[[Spaceflight]]"

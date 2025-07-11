@@ -75,9 +75,6 @@ Rocket Lab has also developed an optional third stage, known as the "kick stage"
 
 ![[Pasted image 20250112153620.jpg]]
 
-## Curie Engine
-
-Curie engine stuff goes here
 
 ## Fairing Configurations
 

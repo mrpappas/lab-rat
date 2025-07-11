@@ -6,7 +6,7 @@ tags:
   - success
 mission_name: "The Owl Spreads Its Wings"
 launch_date: 2022-09-15 20:30
-outcome: ✅ Success
+outcome: ✅
 customer: "[[Synspective]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"

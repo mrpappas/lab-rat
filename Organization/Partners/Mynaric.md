@@ -12,14 +12,14 @@ website: https://mynaric.com/
 >Mynaric's products are primarily targeted at government and commercial customers deploying large-scale communication networks in space and the stratosphere. Their optical terminals are designed for high-rate inter-satellite links (ISLs) and air-to-ground connectivity, supporting applications such as proliferated low Earth orbit (LEO) constellations, defense-related tactical data networks, and high-altitude platform station (HAPS) connectivity.
 
 
-## 🌍 Missions
+## Missions
 
-### [[SDA Tranche 2 - Enhanced Global Coverage]]
+### [[SDA Tranche 2 - Transport Layer]]
 
 In 2023, Rocket Lab selected Mynaric to supply optical communication terminals for the Space Development Agency’s (SDA) Tranche 2 Transport Layer - Beta Program, reinforcing its role as a critical supplier in the growing U.S. government and commercial space optical communications market.
 
 
-## 🛰️ Space Systems
+## Space Systems
 
 ### Condor Mk3
 
@@ -27,17 +27,7 @@ https://mynaric.com/products/space/condor-mk3/
 
 CONDOR Mk3 is an [Optical Communications](https://www.nasa.gov/technology/space-comms/optical-communications-overview/) Terminal (OCT) purpose-built to address the growing need of high-bandwidth, secure, license-free and cost-efficient satellite communications for next-generation constellations. The versatile terminal enables intra-plane and cross-plane inter-satellite connectivity in low Earth orbit (LEO) for various applications.
 
-#### Cost
-
->[!warning] This is an estimate based on publicly available information. Cost may vary depending on configuration, order size etc. Mynaric has not officially disclosed prices. 
-
-**Cost Per Unit**: ~$200,000
-**Source**: https://mynaric.com/news/mynaric-selected-by-rocket-lab-for-space-development-agencys-tranche-2-transport-layer-beta-program/
-**Explanation**:
-- "order of CONDOR Mk3 terminals is valued at approximately $15 million"
-- 4 terminals per satellite, 18 satellites
-- $15m / 72 terminals = ~$208k
-
+![[Pasted image 20250311195314.png|400]]
 #### Specs
 
 | Specification          | Value                                                         |
@@ -51,7 +41,6 @@ CONDOR Mk3 is an [Optical Communications](https://www.nasa.gov/technology/space-
 | Dimensions (H x W x L) | OH: 372 mm x 282 mm x 257 mm<br>OCC: 158 mm x 170 mm x 207 mm |
 | Input Voltage          | 22 V – 38 V (DC)                                              |
 
-![[Pasted image 20250311195314.png]]
 #### Operational Features
 - Fast link acquisition due to large field of view
 - Configurable modem that can support a variety of data rates
@@ -62,6 +51,17 @@ CONDOR Mk3 is an [Optical Communications](https://www.nasa.gov/technology/space-
 - Variable data rates up to 10 Gbps
 - Additional client data interfaces such as optical
 - Full [OpenVPX](https://www.vita.com/vpx#:~:text=OpenVPX%20is%20the%20architecture%20framework,Module%20to%20Backplane%20and%20Chassis.) compatibility
+
+#### Cost
+
+>[!warning] This is an estimate based on publicly available information. Cost may vary depending on configuration, order size etc. Mynaric has not officially disclosed prices. 
+
+**Cost Per Unit**: ~$200,000
+**Source**: https://mynaric.com/news/mynaric-selected-by-rocket-lab-for-space-development-agencys-tranche-2-transport-layer-beta-program/
+**Explanation**:
+- "order of CONDOR Mk3 terminals is valued at approximately $15 million"
+- 4 terminals per satellite, 18 satellites
+- $15m / 72 terminals = ~$208k
 
 ## ✏️ Notes
 

@@ -9,9 +9,9 @@ body:not(.links-int-on) {
   
   /* Styling for Dataview plugin tables in dark theme */
   table {
-      width: 100%; /* Make tables full width */
+
       border-collapse: collapse;
-      table-layout: fixed; /* Fixed layout for consistent column sizes */
+
       background-color: #1e1e1e; /* Obsidian dark theme base background */
       color: #c0c0c0; /* Subtle light text */
   }
@@ -109,4 +109,23 @@ body:has(span.no-hover:hover) .mod-popover {
         display: none;
     }
 
+}
+
+.popover.hover-popover {
+  pointer-events: none; /* Prevent immediate interaction */
+  animation: fadeInDelay .9s ease forwards; /* Adjust time as needed */
+  opacity: 0;
+}
+
+@keyframes fadeInDelay {
+  0% {
+    opacity: 0;
+  }
+  99% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+    pointer-events: auto; /* Enable interaction after delay */
+  }
 }

@@ -21,9 +21,9 @@ sort launch_date desc
 ```
 %%
 
-| File                                                                  | Date             | Location                                               | Vehicle                    | Orbit & Mass          | Outcome   |
-| --------------------------------------------------------------------- | ---------------- | ------------------------------------------------------ | -------------------------- | --------------------- | --------- |
-| [[Launch/Launches/055 - HASTE A La Vista.md\|055 - HASTE A La Vista]] | 2024-11-24 06:00 | [[Locations/Launch Complex 2.md#Launch Pad 0C\|LC2-0]] | [[Launch/HASTE.md\|HASTE]] | Suborbital \| unknown | ✅ Success |
+| File                                                                  | Date             | Location                                               | Vehicle                    | Orbit & Mass          | Outcome |
+| --------------------------------------------------------------------- | ---------------- | ------------------------------------------------------ | -------------------------- | --------------------- | ------- |
+| [[Launch/Launches/055 - HASTE A La Vista.md\|055 - HASTE A La Vista]] | 2024-11-24 06:00 | [[Locations/Launch Complex 2.md#Launch Pad 0C\|LC2-0]] | [[Launch/HASTE.md\|HASTE]] | Suborbital \| unknown | ✅       |
 
 %%DATAVIEW_PUBLISHER: end %%
 

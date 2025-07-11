@@ -6,7 +6,7 @@ tags:
   - success
 mission_name: "Make It Rain"
 launch_date: 2019-06-29 04:30
-outcome: ✅ Success
+outcome: ✅
 customer: 
 - "[[Spaceflight]]"
 - "[[BlackSky]]"

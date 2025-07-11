@@ -152,26 +152,35 @@ Still in the planning stages, Vast aims to deploy a modular 'stick' configuratio
 🔗 https://www.youtube.com/watch?v=us_V_e0-NVs
 
 ---
-### Haven-1 Promo
+### Q&A
 
-![](https://www.youtube.com/watch?v=lZG0262d6IU)
+![](https://www.youtube.com/watch?v=UPYatk6FUto)
 
-🔗 https://www.youtube.com/watch?v=lZG0262d6IU
-
----
-### Haven-2 Promo
-
-![](https://www.youtube.com/watch?v=Rud7lad49-A)
-
-🔗 https://www.youtube.com/watch?v=Rud7lad49-A
+🔗 https://www.youtube.com/watch?v=UPYatk6FUto
 
 ---
+### Bloomberg 
 
-### Artificial Gravity Station Promo
+![](https://www.youtube.com/watch?v=hrIGg_8WTCQ)
 
-![](https://www.youtube.com/watch?v=4F8lnfDEMkg)
+🔗 https://www.youtube.com/watch?v=hrIGg_8WTCQ
 
-🔗 https://www.youtube.com/watch?v=4F8lnfDEMkg
+---
+
+### Interview with CEO
+
+![](https://www.youtube.com/watch?v=HV0dR5QCJGU)
+
+🔗 https://www.youtube.com/watch?v=HV0dR5QCJGU
+
+---
+### Promotional Videos
+
+🔗 Haven-1 Promo https://www.youtube.com/watch?v=lZG0262d6IU
+
+🔗 Haven-2 Promo: https://www.youtube.com/watch?v=Rud7lad49-A
+
+🔗 Artificial Gravity Station Promo: https://www.youtube.com/watch?v=4F8lnfDEMkg
 
 ## Team
 

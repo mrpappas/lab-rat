@@ -6,7 +6,7 @@ tags:
   - success
 mission_name: "Coming To A Storm Near You"
 launch_date: 2023-05-26 03:46
-outcome: ✅ Success
+outcome: ✅
 customer: "[[NASA]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"

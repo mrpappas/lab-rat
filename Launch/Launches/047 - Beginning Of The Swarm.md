@@ -5,7 +5,7 @@ tags:
   - success
 mission_name: Beginning Of The Swarm
 launch_date: 2024-04-23 22:00
-outcome: ✅ Success
+outcome: ✅
 customer:
   - "[[NASA]]"
   - "[[KAIST]]"

@@ -13,12 +13,65 @@ Advanced Space is a Colorado-based company specializing in mission design, navig
 ## 🛰️ Space Systems
 
 ### CAPSTONE
+#### Summary
+CAPSTONE (Cislunar Autonomous Positioning System Technology Operations and Navigation Experiment) is a lunar orbiter that is testing and verifying the calculated orbital stability planned for the Lunar Gateway space station. The spacecraft is a 12-unit CubeSat that is also testing a navigation system that is measuring its position relative to [NASA's Lunar Reconnaissance Orbiter (LRO)](https://science.nasa.gov/mission/lro/) without relying on ground stations. It was [[027 - CAPSTONE|launched on 28 June 2022]], arrived in lunar orbit on 14 November 2022, and was scheduled to orbit for six months. On 18 May 2023, it completed its primary mission to orbit in the near-rectilinear halo orbit for six months, but will stay on this orbit, continuing to perform experiments during an enhanced mission phase.
 
-CAPSTONE will be the first satellite to operate in a Near Rectilinear Halo Orbit around the Moon. CAPSTONE aims to reduce risk and validate operational concepts for future missions using the same lunar orbit.
-
-In this orbit, CAPSTONE will orbit together with the Moon as it orbits Earth and will pass as close as 1600km and as far as 70000km from the lunar surface. About the size of a microwave oven, this 25kg satellite has an onboard communications system capable of determining how far CAPSTONE is from NASA’s Lunar Reconnaissance Orbiter and how fast the distance between the two spacecraft is changing. This inter-spacecraft information will be used to demonstrate the software for autonomous navigation, CAPS, that, when fully demonstrated, will enable future missions to determine their location without having to rely exclusively on tracking from Earth.
+[[CAPSTONE|🛰️ CAPSTONE Mission]]
 
 ![[capstone_05-19jan22_0_0.webp]]
+
+#### Specifications
+
+🔗 [CAPSTONE Mission Update to Interplanetary Small Satellite Conference](http://www.intersmallsatconference.com/past/2024/A.2%20-%20Gardner/Gardner%20CAPSTONE_ISSC%202024%2004_30_24.pdf)
+
+| Specification             | Value                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Size**                  | 12U (34 x 34 x 61 cm)                                                                                                                                                                                                                                                                                                                                                                                                 |
+| **Mass**                  | 25 kg                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| **Propulsion**            | Monopropellant [Hydrazine](https://en.wikipedia.org/wiki/Hydrazine) propulsion system developed by [Stellar Exploration](https://www.stellar-exploration.com/) providing over 200 m/s of total ΔV with eight 0.25-Newton thrusters and 3.25 kg fuel.<br>🔗 [Data Sheet](https://static1.squarespace.com/static/5c54e307fd67934e24b27846/t/62e74d493ba1a46b5841fcb5/1659325786410/Datasheet+propulsion+2022+04+04.pdf) |
+| **Manufacturer**          | [[Terran Orbital]]                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **Battery Modules**       | QTY 3×, 182 W-hr storage                                                                                                                                                                                                                                                                                                                                                                                              |
+| Solar Panels              | Deployable fixed-angle arrays, peak power 114 W (BOL), 120 XTJ Prime cells                                                                                                                                                                                                                                                                                                                                            |
+| **Space/Ground Radio**    | Iris Radio, 3.8 W, 1-way CSAC-enabled firmware                                                                                                                                                                                                                                                                                                                                                                        |
+| **Space/Ground Antennas** | X-band high gain & low gain patch antennas, on spacecraft Y– and Y+ faces                                                                                                                                                                                                                                                                                                                                             |
+| **LRO Crosslink Radio**   | TUI SLX, 2 W                                                                                                                                                                                                                                                                                                                                                                                                          |
+| **LRO Crosslink Antenna** | S-band patch antenna on Z+ face                                                                                                                                                                                                                                                                                                                                                                                       |
+| **ADCS Control**          | Coarse sensor module, redundant star trackers, redundant IMUs, four pyramidal reaction wheels                                                                                                                                                                                                                                                                                                                         |
+| **Thermal Control**       | Active battery heaters, 16 thermistor channels, 8 independent heaters, passive coatings and MLI                                                                                                                                                                                                                                                                                                                       |
+
+#### CAPS (Cislunar Autonomous Positioning System)
+
+📡 The **Cislunar Autonomous Positioning System (CAPS)** is a peer-to-peer navigation technology, incorporating relative tracking data between two or more vehicles. This improves existing navigation products, reduces the need for ground-based tracking expenses, and even permits autonomous, absolute navigation of all vehicles involved. 
+
+💻 The CAPS navigation software is hosted on a separate flight computer from the spacecraft’s primary redundant flight computer boards and operate distinctly from one another. Being hosted on a separate board allows for the CAPS software to experience updates and modifications throughout the demonstration as observations are returned, without disrupting the operations of the primary flight computer(s).
+
+ 🛰️ CAPS is a unique innovation that operationalizes, and leverages investments made in algorithms, flight computers, and radios over the past decade. At its foundation, CAPS starts with the algorithms and logic of automated navigation layered on top of an innovative approach to absolute orbit determination that requires only relative radiometric ranging and Doppler measurements. In its most streamlined implementation, CAPS will be a software innovation that can be incorporated on any future spacecraft.
+
+#### Partners
+
+**[[NASA]]**
+CAPSTONE’s development is supported by the Space Technology Mission Directorate via the Small Spacecraft Technology and Small Business Innovation Research programs at NASA’s Ames Research Center in California’s Silicon Valley. The Artemis Campaign Development Division within NASA’s Exploration Systems Development Mission Directorate supported the launch and mission operations. NASA’s Launch Services Program at Kennedy Space Center in Florida was responsible for launch management. NASA’s Jet Propulsion Laboratory supported the communication, tracking, and telemetry downlink via NASA’s Deep Space Network, Iris radio design, and groundbreaking 1-way navigation algorithms.
+
+**[[Terran Orbital]]**
+Spacecraft design, development and implementation, hardware manufacturing, assembly, testing, and mission operations support.
+
+[**Stellar Exploration Corporation**](https://www.stellar-exploration.com/)
+Propulsion subsystem provider.
+
+**Rocket Lab**
+Launch services provider.
+
+[**Space Dynamics Lab (SDL)**](https://www.sdl.usu.edu/)
+Iris radio and navigation firmware provider.
+
+[**Orion Space Solutions**](https://orion.arcfield.com/)
+Chip Scale Atomic Clock (CSAC) hardware provider necessary for the 1-way ranging experiment.
+
+[**Tethers Unlimited, Inc.**](https://arka.org/)
+Cross Link radio provider.
+
+**Morehead State University (MSU)**
+Operates the newest “affiliated node” on the NASA Deep Space Network (DSN). Provides telemetry, tracking, and control services for NASA and commercial space missions and engages university students in deep space mission operations.
 
 ## 🚀 Launches
 
@@ -31,9 +84,9 @@ sort launch_date desc
 ```
 %%
 
-| File                                                  | Date             | Location                                              | Vehicle                          | Orbit & Mass                                       | Outcome   |
-| ----------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | -------------------------------------------------- | --------- |
-| [[Launch/Launches/027 - CAPSTONE.md\|027 - CAPSTONE]] | 2022-06-28 09:55 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | Translunar Injection (TLI) \| 320kg LEO / 80kg TLI | ✅ Success |
+| File                                                  | Date             | Location                                              | Vehicle                          | Orbit & Mass                                       | Outcome |
+| ----------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | -------------------------------------------------- | ------- |
+| [[Launch/Launches/027 - CAPSTONE.md\|027 - CAPSTONE]] | 2022-06-28 09:55 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | Translunar Injection (TLI) \| 320kg LEO / 80kg TLI | ✅       |
 
 %%DATAVIEW_PUBLISHER: end %%
 

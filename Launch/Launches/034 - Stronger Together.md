@@ -6,7 +6,7 @@ tags:
   - success
 mission_name: Stronger Together
 launch_date: 2023-03-16 22:38
-outcome: ✅ Success
+outcome: ✅
 customer: "[[Capella Space]]"
 location: "[[Launch Complex 2#Launch Pad 0C|LC2-0]]"
 vehicle: "[[Electron]]"

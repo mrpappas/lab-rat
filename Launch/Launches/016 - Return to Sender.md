@@ -7,7 +7,7 @@ tags:
   - success
 mission_name: "Return to Sender"
 launch_date: 2020-11-20 02:20
-outcome: ✅ Success
+outcome: ✅
 customer: 
 - "[[Trisept]]"
 - "[[Unseenlabs]]"

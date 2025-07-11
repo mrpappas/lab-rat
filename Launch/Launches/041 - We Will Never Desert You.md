@@ -7,7 +7,7 @@ tags:
   - anomaly
 mission_name: "We Will Never Desert You"
 launch_date: 2023-09-19 06:55
-outcome: ❌ Failure
+outcome: ❌
 customer: "[[Capella Space]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"

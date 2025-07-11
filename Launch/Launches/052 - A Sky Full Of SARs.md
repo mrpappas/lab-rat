@@ -6,7 +6,7 @@ tags:
   - success
 mission_name: "A Sky Full Of SARs"
 launch_date: 2024-08-11 13:18
-outcome: ✅ Success
+outcome: ✅
 customer: "[[Capella Space]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"

@@ -6,7 +6,7 @@ tags:
   - success
 mission_name: "Rocket Like A Hurricane"
 launch_date: 2023-05-08 01:00
-outcome: ✅ Success
+outcome: ✅
 customer: "[[NASA]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"

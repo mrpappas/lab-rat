@@ -6,7 +6,7 @@ tags:
   - success
 mission_name: Kinéis Killed the RadIOT Star
 launch_date: 2024-09-20 23:01
-outcome: ✅ Success
+outcome: ✅
 customer: "[[Kinéis]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"

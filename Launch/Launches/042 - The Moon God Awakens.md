@@ -6,7 +6,7 @@ tags:
   - success
 mission_name: "The Moon God Awakens"
 launch_date: 2023-12-15 04:05
-outcome: ✅ Success
+outcome: ✅
 customer: "[[iQPS]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"

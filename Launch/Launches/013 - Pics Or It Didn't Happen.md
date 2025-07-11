@@ -6,7 +6,7 @@ tags:
   - success
 mission_name: "Pics Or It Didn't Happen"
 launch_date: 2020-07-04 21:19
-outcome: ❌ Failure
+outcome: ❌
 customer: 
 - "[[Planet Labs]]"
 - "[[Spaceflight]]"

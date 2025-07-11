@@ -6,7 +6,7 @@ tags:
   - success
 mission_name: "The Owl's Night Begins"
 launch_date: 2020-12-15 10:09
-outcome: ✅ Success
+outcome: ✅
 customer: "[[Synspective]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"

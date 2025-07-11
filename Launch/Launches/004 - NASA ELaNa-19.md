@@ -6,7 +6,7 @@ tags:
   - success
 mission_name: "NASA ELaNa-19"
 launch_date: 2018-12-16 06:33
-outcome: ✅ Success
+outcome: ✅
 customer: "[[NASA]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"

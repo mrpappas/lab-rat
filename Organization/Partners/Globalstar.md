@@ -7,29 +7,33 @@ website: https://www.globalstar.com/en-us
 
 **Website:** https://www.globalstar.com/en-us
 
->[!summary]
+## Summary 
+
 Globalstar operates a **Low Earth Orbit (LEO)** satellite constellation delivering **mobile satellite voice and data services**. The company supports **IoT connectivity, personal communication, asset tracking, and emergency response** for industries such as agriculture, energy, transportation, and government. Globalstar's network provides coverage in remote and underserved areas globally, enabling reliable two-way communication and real-time data transmission.
 
-## 🛰️ Space Systems
+## Missions
 
-### Globalstar M104 - 120 (Globalstar-3)
+- [[Globalstar (MDA) Satellite Buses]]
+## Space Systems
 
-The Globalstar global mobile communications network offers global, digital real time voice, data and fax via a constellation minisatellites. The constellation operates in a 1410 km orbit inclined at 52 degrees.  In early 2022, Globalstar contracted with MDA for the construction of 17 new satellites to replenish the existing constellation. There are also nine options for additional satellites. MDA partnered with Rocket Lab, who will build the satellite busses and launch dispensers.
+### Globalstar M104 - 120 (Globalstar-3) Bus
 
-| Mass          | 500 kg                                   |
-| ------------- | ---------------------------------------- |
-| Lifetime      | 15 years                                 |
-| Orbit         | 1410 km \| 52°                           |
-| Frequency     | C-band, 16 cells L-band, 16 cells S-band |
-| Data Transfer | Up to 9600 bps                           |
-
+#### Summary
+The Globalstar global mobile communications network offers global, digital real time voice, data and fax via a constellation minisatellites. The constellation operates in a 1410 km orbit inclined at 52 degrees.  In early 2022, [[Globalstar]] contracted with [[MDA]] for the construction of 17 new satellites to replenish the existing constellation. MDA selected Rocket lab as a subcontractor to produce the satellite busses based on the [[Lightning]] spacecraft for a $143 million contract.  [Source](https://rocketlabcorp.com/updates/rocket-lab-selected-by-mda-to-design-and-build-spacecraft-for-globalstar/)
 
 ![[Pasted image 20250112140125.jpg]]
 
-## 🌍 Missions
+#### Specifications
 
-- [[Globalstar (MDA) Satellite Buses]]
-
+| Specification | Value                                    |
+| ------------- | ---------------------------------------- |
+| Mass          | 500 kg                                   |
+| Price per bus | ~$8.41 million                           |
+| Lifetime      | 15 years                                 |
+| Orbit         | 1410 km \| 52°                           |
+| Frequency     | C-band, 16 cells L-band, 16 cells S-band |
+| Comms         | [[Frontier Radio#Frontier-C]]            |
+| Data Transfer | Up to 9600 bps                           |
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```

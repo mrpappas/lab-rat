@@ -7,7 +7,7 @@ tags:
   - rutherford
 mission_name: "We Love The Nightlife"
 launch_date: 2023-08-24 23:45
-outcome: ✅ Success
+outcome: ✅
 customer: "[[Capella Space]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"

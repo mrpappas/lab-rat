@@ -13,7 +13,7 @@ customer: "[[Space Development Agency (SDA)]]"
 ## Tranches
 
 - [[SDA Tranche 1 - Initial Warfighting Capability]]
-- [[SDA Tranche 2 - Enhanced Global Coverage]]
+- [[SDA Tranche 2 - Transport Layer]]
 
 ## 📰 News
 %% DATAVIEW_PUBLISHER: start
@@ -28,10 +28,7 @@ sort published desc
 ```
 %%
 
-| File                                                                                                                                                                                                                                                                                                                             | Published        |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
-| [[News/Rocket Lab on Track to Advance U.S. Defense Capabilities, Passing Major Milestone in Development of Spacecraft Constellation for Space Development Agency.md\|Rocket Lab on Track to Advance U.S. Defense Capabilities, Passing Major Milestone in Development of Spacecraft Constellation for Space Development Agency]] | January 09, 2025 |
-| [[News/Rocket Lab Selects Subcontractors to Support SDA Satellite Constellation Development.md\|Rocket Lab Selects Subcontractors to Support SDA Satellite Constellation Development]]                                                                                                                                           | May 06, 2024     |
-| [[News/Rocket Lab Makes its Defense Prime Debut with $0.5 Billion Contract to Design and Build Satellite Constellation for Space Development Agency.md\|Rocket Lab Makes its Defense Prime Debut with $0.5 Billion Contract to Design and Build Satellite Constellation for Space Development Agency]]                           | January 08, 2024 |
+| File | Published |
+| ---- | --------- |
 
 %% DATAVIEW_PUBLISHER: end %%

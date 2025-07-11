@@ -4,7 +4,7 @@ tags:
  - launch
 mission_name: Symphony In The Stars
 launch_date: 2025-06-28 06:45
-outcome: "✅ Success"
+outcome: "✅"
 customer: "[[EchoStar|EchoStar (Confidential)]]"
 location: "[[Launch Complex 1#Launch Pad B|LC-1B]]"
 vehicle: "[[Electron]]"

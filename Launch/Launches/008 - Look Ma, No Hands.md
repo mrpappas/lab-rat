@@ -6,7 +6,7 @@ tags:
   - success
 mission_name: "Look Ma, No Hands"
 launch_date: 2019-08-19 12:12
-outcome: ✅ Success
+outcome: ✅
 customer: 
 - "[[BlackSky]]"
 - "[[U.S. Air Force]]"

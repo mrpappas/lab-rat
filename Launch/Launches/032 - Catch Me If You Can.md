@@ -6,7 +6,7 @@ tags:
   - success
 mission_name: "Catch Me If You Can"
 launch_date: 2022-11-04 17:27
-outcome: ✅ Success
+outcome: ✅
 customer: "[[Swedish National Space Agency]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"

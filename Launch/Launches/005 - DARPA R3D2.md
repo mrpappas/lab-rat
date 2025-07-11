@@ -6,7 +6,7 @@ tags:
   - success
 mission_name: "DARPA R3D2"
 launch_date: 2019-03-28 23:27
-outcome: ✅ Success
+outcome: ✅
 customer: "[[DARPA]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"

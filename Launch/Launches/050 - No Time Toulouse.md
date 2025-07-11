@@ -6,7 +6,7 @@ tags:
   - success
 mission_name: No Time Toulouse
 launch_date: 2024-06-18 18:13
-outcome: ✅ Success
+outcome: ✅
 customer: "[[Kinéis]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"

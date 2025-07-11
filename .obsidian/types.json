@@ -8,6 +8,7 @@
     "partner": "multitext",
     "location": "text",
     "insider": "multitext",
-    "author": "multitext"
+    "author": "multitext",
+    "launch_date": "text"
   }
 }
