@@ -8,6 +8,8 @@ published: 2022-01-27
 description: "*Rocket Lab Selected to Provide Venture Class Launch Services for NASA *"
 customer:
  - "[[NASA]]"
+contract: 
+ - "[[VADR]]"
 tags:
  - electron
  - contract

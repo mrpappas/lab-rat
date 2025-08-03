@@ -23,12 +23,13 @@ sort launch_date desc
 ```
 %%
 
-| File                                                                                  | Date             | Location                                              | Vehicle                          | Orbit & Mass            | Outcome |
-| ------------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | ----------------------- | ------- |
-| [[Launch/Launches/066 - The Mountain God Guards.md\|066 - The Mountain God Guards]]   | 2025-06-11 15:15 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 575 km \| 42° \| 100 kg | ✅       |
-| [[Launch/Launches/064 - The Sea God Sees.md\|064 - The Sea God Sees]]                 | 2025-05-17 08:17 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 575 km \| 42° \| 100 kg | ✅       |
-| [[Launch/Launches/061 - The Lightning God Reigns.md\|061 - The Lightning God Reigns]] | 2025-03-15 00:00 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 575 km \| 42° \| 100 kg | ✅       |
-| [[Launch/Launches/042 - The Moon God Awakens.md\|042 - The Moon God Awakens]]         | 2023-12-15 04:05 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 575 km \| 42° \| 100 kg | ✅       |
+| File                                                                                        | Date             | Location                                              | Vehicle                          | Orbit & Mass            | Outcome |
+| ------------------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | ----------------------- | ------- |
+| [[Launch/Launches/069 - The Harvest Goddess Thrives.md\|069 - The Harvest Goddess Thrives]] | 2025-08-05 03:45 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 575 km \| 42° \| 100 kg | ⌛       |
+| [[Launch/Launches/066 - The Mountain God Guards.md\|066 - The Mountain God Guards]]         | 2025-06-11 15:15 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 575 km \| 42° \| 100 kg | ✅       |
+| [[Launch/Launches/064 - The Sea God Sees.md\|064 - The Sea God Sees]]                       | 2025-05-17 08:17 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 575 km \| 42° \| 100 kg | ✅       |
+| [[Launch/Launches/061 - The Lightning God Reigns.md\|061 - The Lightning God Reigns]]       | 2025-03-15 00:00 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 575 km \| 42° \| 100 kg | ✅       |
+| [[Launch/Launches/042 - The Moon God Awakens.md\|042 - The Moon God Awakens]]               | 2023-12-15 04:05 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 575 km \| 42° \| 100 kg | ✅       |
 
 %%DATAVIEW_PUBLISHER: end %%
 
@@ -70,6 +71,7 @@ sort published desc
 
 | File                                                                                                                                                                                                                                                             | Published         |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[News/Rocket Lab Schedules Fifth Electron Mission for Constellation Operator iQPS.md\|Rocket Lab Schedules Fifth Electron Mission for Constellation Operator iQPS]]                                                                                             | July 31, 2025     |
 | [[News/Rocket Lab Successfully Launches Second Mission for iQPS in Rapid 25 Day Turnaround.md\|Rocket Lab Successfully Launches Second Mission for iQPS in Rapid 25 Day Turnaround]]                                                                             | June 11, 2025     |
 | [[News/Rocket Lab Schedules Third Electron Launch In 24 Days To Deploy Next Mission For iQPS.md\|Rocket Lab Schedules Third Electron Launch In 24 Days To Deploy Next Mission For iQPS]]                                                                         | June 03, 2025     |
 | [[News/Rocket Lab Successfully Launches Third Mission for iQPS in Multi-Launch Contract, Sets Schedule For the Next iQPS Mission.md\|Rocket Lab Successfully Launches Third Mission for iQPS in Multi-Launch Contract, Sets Schedule For the Next iQPS Mission]] | May 17, 2025      |

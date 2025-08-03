@@ -53,14 +53,14 @@ Gunter's Space: https://space.skyrocket.de/doc_sdat/lyra-block1.htm
 
 https://echostarsatelliteservices.com/satellites
 
-### Ka-Band Satellites (Broadband, Internet)
+### Ku-Band Satellites (Broadband, Internet)
 
 | Satellite                                                                    | Position | Use Case                       | Owner/Leased        | Notes                       |
 | ---------------------------------------------------------------------------- | -------- | ------------------------------ | ------------------- | --------------------------- |
 | [EchoStar 9 / Galaxy 23](https://space.skyrocket.de/doc_sdat/echostar-9.htm) | 121° W   | DISH TV, video & data services | Owned               | Also carries Ka- and C-band |
 | [EchoStar 105 / SES-11](https://space.skyrocket.de/doc_sdat/echostar-9.htm)  | 105° W   | DISH TV                        | **Leased from SES** | Joint payload with SES      |
 
-### S-Band Satellites (IoT, MSS, NTN)
+### Ka-Band Satellites (IoT, MSS, NTN)
 
 | Satellite                                                                        | Position | Use Case                               | Owner/Leased             | Notes                            |
 | -------------------------------------------------------------------------------- | -------- | -------------------------------------- | ------------------------ | -------------------------------- |
@@ -105,7 +105,7 @@ https://echostarsatelliteservices.com/satellites
 [5]: https://arstechnica.com/tech-policy/2025/05/fcc-threatens-echostar-licenses-for-spectrum-that-spacex-wants-to-use/
 
 
-## 📰 News
+## News
 %%DATAVIEW_PUBLISHER: start
 ```
 table published as "Published"

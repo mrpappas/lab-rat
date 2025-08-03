@@ -9,6 +9,8 @@ customer: "[[NASA]]"
 mission:
   - "[[036 - Rocket Like A Hurricane]]"
   - "[[037 - Coming To A Storm Near You]]"
+contract: 
+  - "[[VADR]]"
 tags:
   - electron
   - contract

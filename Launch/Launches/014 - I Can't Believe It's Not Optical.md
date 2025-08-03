@@ -27,10 +27,11 @@ Capella’s payload, ‘Sequoia’, is a single 100 kg class microsatellite whic
 >
 The mission name is a nod to Capella’s SAR technology that provides high quality images of the Earth day or night, and in any weather conditions. Capella’s space-based radar can detect sub-0.5 meter changes on the surface of the Earth, providing insights and data that can be used for security, agricultural and infrastructure monitoring, as well as disaster response and recovery.
 >
+>This mission marks the first time Rocket Lab deployed a [[Photon]] spacecraft named 'First Light' into orbit. 
+>
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72157716859999646/)
 
 #electron #launch #success
-
 
 | **Mission Name** | I Can't Believe It's Not Optical                                                                                            |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------- |
@@ -50,6 +51,7 @@ The mission name is a nod to Capella’s SAR technology that provides high quali
 ![[Pasted image 20250406132608.png|300]]
 
 ## 📽️ Launch Video
+
 <div class="responsive-video">
 <iframe src="https://www.youtube.com/embed/FPIhI5mRDRI" title="Rocket Lab&#39;s Electron - I Can&#39;t Believe It&#39;s Not Optical Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
 </div>
@@ -71,3 +73,6 @@ sort published desc
 | [[News/Capella Space and Rocket Lab to Launch Mid-Inclination Satellite to Enable Improved Monitoring of Key Global Regions.md\|Capella Space and Rocket Lab to Launch Mid-Inclination Satellite to Enable Improved Monitoring of Key Global Regions]] | March 05, 2020     |
 
 %%DATAVIEW_PUBLISHER: end %%
+
+
+![](https://www.youtube.com/watch?v=zC8RxgL9tK4)

@@ -1,3 +1,5 @@
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Hardware]] <span style="color: LightSlateGray">></span> HASTE
+
 >[!summary]
 Hypersonic Accelerator Suborbital Test Electron (HASTE) is a suborbital testbed launch vehicle derived from the Electron orbital rocket. HASTE provides flight test opportunities for hypersonic and suborbital system technology development. It successfully launched its first mission "Scout's Arrow" on 18 June 2023, for Leidos.
 >

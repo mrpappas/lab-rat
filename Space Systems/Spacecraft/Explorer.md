@@ -1,4 +1,4 @@
-[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Space Systems]] <span style="color: LightSlateGray">></span> Explorer
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Hardware]] <span style="color: LightSlateGray">></span> Explorer
 ## Summary
 
 Explorer is a high Delta-v spacecraft with large propellant tanks, deep space capable avionics, and ranging transponders. Explorer enables small spacecraft missions to planetary destinations like Mars and Venus, the Moon, highly eccentric Earth orbits, geosynchronous Earth orbit (GEO), Earth-moon Lagrange points, Earth-sun Lagrange points, and near Earth objects (NEOs). Depending on the mission profile, Explorer can be launched on [[Electron]], [[Neutron]] or other launch vehicles. Explorer gained flight heritage during the [[CAPSTONE]] mission to the Moon for NASA and forms the basis of the twin spacecraft Rocket Lab is developing for the [[ESCAPADE]] mission to Mars for NASA and the University of California, Berkeley.  
@@ -7,10 +7,10 @@ Explorer is a high Delta-v spacecraft with large propellant tanks, deep space ca
 ![[Pasted image 20250630195149.png]]
 ## Missions
 
-| Mission      | Status      |
-| ------------ | ----------- |
-| [[CAPSTONE]] | Launched    |
-| [[ESCAPADE]] | In Progress |
+| Mission      | Status      | Quantity |
+| ------------ | ----------- | -------- |
+| [[CAPSTONE]] | Launched    | 1        |
+| [[ESCAPADE]] | In Progress | 2        |
 ## Spacecraft
 
 1. [[#Lunar Photon]]
@@ -35,7 +35,7 @@ Explorer is a high Delta-v spacecraft with large propellant tanks, deep space ca
 | Orbit Options                | LEO, MEO, GEO, Moon, Mars, Venus                                                                                              |
 | Volume                       | 1.4 m x 1.1 m x 1.0 m                                                                                                         |
 | Avionics                     | Single string, radiation tolerant                                                                                             |
-| Propulsion                   | [[Curie Engine#HyperCurie\|HyperCurie]]                                                                                       |
+| Propulsion                   | [[Curie#HyperCurie\|HyperCurie]]                                                                                       |
 | Solar Array Power            | 140 W (BOL), body fixed solar panels                                                                                          |
 | Communications               | [[Frontier Radio#Frontier-S\|Frontier S]] radio 2.5 kbps to 1Mbps downlink, 2 kbps uplink, ranging and doppler for navigation |
 | Launch Vehicle Compatibility | Electron and ESPA Grande Rideshare Compatible                                                                                 |
@@ -65,10 +65,10 @@ Explorer is a high Delta-v spacecraft with large propellant tanks, deep space ca
 #### Summary
 **NASA’s Escape and Plasma Acceleration and Dynamics Explorers (ESCAPADE)** mission will measure plasma and magnetic fields around the red planet, helping scientists learn more about the processes that strip away atoms from Mars’ magnetosphere and upper atmosphere, driving Martian climate change. Rocket Lab has designed and built twin spacecraft based on the Explorer bus, called Blue and Gold, to enable the mission.
 
-🚀 [[ESCAPADE|ESCAPADE Mission]]
+#### Mission
+##### 🚀 [[ESCAPADE|ESCAPADE Mission]]
 
 ![[Pasted image 20250701021732.png]]
-
 
 #### Specifications
 
@@ -79,7 +79,7 @@ Explorer is a high Delta-v spacecraft with large propellant tanks, deep space ca
 | Size                            | Stowed: 1.20 m x 1.65 m x 1.09 m<br>Deployed: 4.88 m x 1.65 m x 1.09 m                                                                                                                                                                                      |
 | Dry Mass                        | 209 kg                                                                                                                                                                                                                                                      |
 | Wet Mass                        | 535 kg                                                                                                                                                                                                                                                      |
-| Propulsion                      | [[Curie Engine#HyperCurie\|HyperCurie]]                                                                                                                                                                                                                     |
+| Propulsion                      | [[Curie#HyperCurie\|HyperCurie]]                                                                                                                                                                                                                     |
 | On-board tanks                  | • 2x fuel tanks, additively manufactured metal<br>• 2x oxidizer tanks, additively manufactured metal<br>• 2x pressurant (He) tanks, Composite Overwrap Pressure<br>Vessel (COPV)<br>• 4x RCS (N2) tanks, COPV                                               |
 | Power                           | **Science (nominal) mode power draw:**<br>128 W (about as much as a tea kettle)<br>**Power generation at Earth:** 800W<br>**Power generation at Mars (aphelion):** 288W<br>**Energy storage:** 7s5p battery assembly                                        |
 | Avionics                        | Redundant flight computer and redundant radios                                                                                                                                                                                                              |
@@ -92,6 +92,7 @@ Each identical spacecraft has three science experiments payloads onboard:
 1. [[#EMAG]]
 2. [[#EESA]]
 3. [[#ELP]] 
+
 🔗 https://escapade.ssl.berkeley.edu/instruments/
 
 ![[Pasted image 20250711172704.png]]

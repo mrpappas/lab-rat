@@ -5,7 +5,7 @@ satellites: 18
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Missions]] <span style="color: LightSlateGray">></span> SDA Tranche 2 - Transport Layer
 
 **Customer:** [[Space Development Agency (SDA)]]
-**Contracted Satellites: 18 [[Space Development Agency (SDA)#T2TL Transport Layer Beta|T2TL Transport Layer Beta]]
+**Contracted Satellites**: 18 [[Space Development Agency (SDA)#T2TL Transport Layer Beta|T2TL Transport Layer Beta]]
 ## Summary
 
 Tranche 2 of [[SDA Proliferated Warfighter Space Architecture (PWSA)]]. Enhances and replenishes capabilities provided by Tranche 1, increasing the number of satellites to enable near-global stereo coverage for missile warning and tracking. Rocket Lab was awarded a $515m contract to act as prime and deliver 18 Beta variant satellites for the **Transport Layer**. [[Rocket Lab Makes its Defense Prime Debut with $0.5 Billion Contract to Design and Build Satellite Constellation for Space Development Agency|Source]]

@@ -1,4 +1,4 @@
-[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Space Systems]] <span style="color: LightSlateGray">></span> Spacecraft
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Hardware]] <span style="color: LightSlateGray">></span> Spacecraft
 
 %% DATAVIEW_PUBLISHER: start
 ```

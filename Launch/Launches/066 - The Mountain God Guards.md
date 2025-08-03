@@ -11,7 +11,7 @@ vehicle: "[[Electron]]"
 orbit_type: "[[LEO]]"
 target_orbit: 575 km | 42°
 payload_mass: 100 kg
-recovery: No Attempt Likely
+recovery: No Attempt Made
 mission_link: https://rocketlabcorp.com/missions/missions-launched/the-mountain-god-guards/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span> <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  066 - The Mountain God Guards

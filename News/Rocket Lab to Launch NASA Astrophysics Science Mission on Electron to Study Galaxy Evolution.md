@@ -5,6 +5,7 @@ author: "[[Rocket Lab]]"
 published: 2025-05-14
 customer: "[[NASA]]"
 mission: "[[Aspera]]"
+contract: "[[VADR]]"
 tags:
  - launch
  - electron

@@ -89,6 +89,7 @@ sort name asc
 | [[Organization/Partners/Valve.md\|Valve]]                                                                                                             | https://www.valvesoftware.com/en/                                                             |
 | [[Organization/Partners/Varda Space Industries.md\|Varda Space Industries]]                                                                           | https://www.varda.com/                                                                        |
 | [[Organization/Partners/Vector Acquisition Corporation (VACQ).md\|Vector Acquisition Corporation (VACQ)]]                                             | \-                                                                                            |
+| [[Organization/Partners/Viasat.md\|Viasat]]                                                                                                           | https://www.viasat.com/                                                                       |
 | [[Organization/Partners/York Space Systems.md\|York Space Systems]]                                                                                   | https://www.yorkspacesystems.com/                                                             |
 
 %% DATAVIEW_PUBLISHER: end %%

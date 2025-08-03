@@ -5,7 +5,7 @@ author: "[[Rocket Lab]]"
 published: 2025-04-14
 customer: 
  - "[[U.S. Air Force]]"
-mission: "[[EWAAC]]"
+contract: "[[EWAAC]]"
 tags:
  - HASTE
 ---

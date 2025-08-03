@@ -4,22 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "90790203601ce946",
+        "id": "a1f7b538b9d309dc",
         "type": "tabs",
+        "dimension": 33.33333333333333,
         "children": [
           {
-            "id": "dbaf6f606686650d",
+            "id": "6595239bc372d858",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Space Systems/Spacecraft/Explorer.md",
+                "file": "Contracts & Vehicles/EWAAC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Explorer"
+              "title": "EWAAC"
+            }
+          }
+        ]
+      },
+      {
+        "id": "0cb5cab509d2f710",
+        "type": "tabs",
+        "dimension": 32.43879472693032,
+        "children": [
+          {
+            "id": "7f2d639ea44f8fa4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contracts & Vehicles/NSSL Phase 3.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "NSSL Phase 3"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b4a7b2ba567127c6",
+        "type": "tabs",
+        "dimension": 34.227871939736346,
+        "children": [
+          {
+            "id": "a2cdc59790631e55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contracts & Vehicles/VADR.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "VADR"
             }
           }
         ]
@@ -54,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "MDA",
+                "query": "aspera",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -75,7 +120,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -142,13 +188,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Space Systems/Spacecraft/Explorer.md",
+                "file": "Earnings Calls.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Explorer"
+              "title": "Outline of Earnings Calls"
             }
           },
           {
@@ -195,43 +241,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6449ebb6b9cf2b96",
+  "active": "a2cdc59790631e55",
   "lastOpenFiles": [
-    "Vault-Assets/Images/Pasted image 20250711172134.png",
-    "Vault-Assets/Images/Pasted image 20250711172704.png",
-    "Pasted image 20250711172632.png",
-    "Space Systems/Spacecraft/Explorer.md",
+    "Contracts & Vehicles/EWAAC.md",
+    "Contracts & Vehicles/VADR.md",
+    "Pasted image 20250803101356.png",
+    "News/Rocket Lab Selected to Provide Venture Class Launch Services for NASA.md",
+    "News/Rocket Lab Selected by NASA to Provide Neutron Launch Services Under VADR Launch Contract.md",
+    "News/NASA Selects Rocket Lab to Launch TROPICS Mission.md",
+    "News/Rocket Lab to Launch NASA Astrophysics Science Mission on Electron to Study Galaxy Evolution.md",
+    "Missions/Viasat Echo.md",
+    "Contracts & Vehicles/NSSL Phase 3.md",
+    "News/Rocket Lab Onramped To Multi-Billion Dollar U.S. and U.K. Defense Contracts To Expand Hypersonic Technology Development with HASTE.md",
+    "News/Rocket Lab Granted Air Force Research Lab Award to Showcase Digital Engineering with New Archimedes Rocket Engine.md",
+    "Interviews/Rocket Lab 2022 Investor Day & Neutron Update.md",
+    "News/Rocket Lab Wins $24m U.S. Space Force Contract to Develop Neutron Upper Stage.md",
+    "News/Rocket Lab’s Neutron Rocket On-Ramped to U.S. Space Force’s $5.6b National Security Space Launch (NSSL) program.md",
+    "Interviews/TD Cowan 45th Annual Aerospace & Defense Conference.md",
+    "Interviews/Vince is Bullish Q1 Interview.md",
+    "Home.md",
+    "Rocket Lab.md",
     "Missions/ESCAPADE.md",
-    "Space Systems/Spacecraft/Pioneer.md",
-    "Missions/Varda W Missions.md",
-    "Organization/Partners/Varda Space Industries.md",
-    "Space Systems/Spacecraft/Lightning.md",
-    "Space Systems.md",
-    "Space Systems/Spacecraft/Photon.md",
-    "Space Systems/Spacecraft/Flatellite.md",
-    "Vault-Assets/Images/Pasted image 20250710220118.png",
-    "Vault-Assets/Images/Pasted image 20250711003506.png",
-    "Space Systems/Spacecraft/Spacecraft.md",
-    "Organization/Partners/Globalstar.md",
-    "Missions/CAPSTONE.md",
-    "Templates/Launch Template.md",
-    "Templates/Interview Template.md",
-    "Launch/Launches/067 - Get The Hawk Outta Here.md",
-    "Launch/Launches/068 - Symphony In The Stars.md",
-    "Launches.md",
-    "Launch/Launches/066 - The Mountain God Guards.md",
-    "Launch/Launches/065 - Full Stream Ahead.md",
-    "Launch/Launches/064 - The Sea God Sees.md",
-    "Launch/Launches/063 - Finding Hot Wildfires Near You.md",
-    "Launch/Launches/062 - High Five.md",
-    "Launch/Launches/061 - The Lightning God Reigns.md",
-    "Launch/Launches/060 - Fasten Your Space Belts.md",
-    "Launch/Launches/059 - IOT 4 You and Me.md",
-    "Vault-Assets/Images/Pasted image 20250703175655.png",
-    "Vault-Assets/Images/Pasted image 20250705130557.png",
-    "Vault-Assets/Images/Pasted image 20250704225517.png",
-    "Vault-Assets/Images/Pasted image 20250704002709.png",
-    "Vault-Assets/Images/Pasted image 20250703175738.png",
+    "Space Systems/Spacecraft/Explorer.md",
+    "README.md",
+    "Vault-Assets/Images/Pasted image 20250803005903.jpg",
+    "Organization/Partners/Capella Space.md",
+    "Missions/SDA Tranche 2 - Transport Layer.md",
+    "Missions/SDA Tranche 1 - Initial Warfighting Capability.md",
+    "Missions/SDA Proliferated Warfighter Space Architecture (PWSA).md",
+    "Missions/OSP-4.md",
+    "Contracts & Vehicles",
+    "Pasted image 20250803000338.png",
+    "Vault-Assets/Images/Pasted image 20250803000345.png",
+    "Vault-Assets/Images/Pasted image 20250111224806.png",
+    "Vault-Assets/Images/Pasted image 20250621164838.png",
+    "Vault-Assets/Images/Pasted image 20250720171454.png",
+    "1_ty0aYYHHlqasgLsY49oHvw.webp",
+    "Vault-Assets/Images/Pasted image 20250711223143.png",
+    "Vault-Assets/PDFs/RW-0.003-Datasheet-v3.0.pdf",
+    "Vault-Assets/Images/Pasted image 20250711172134.png",
     "Vault-Assets/PDFs/EXC22_017 - Photon Doc_ƒ [Web].pdf",
     "Space Systems/Propulsion",
     "Vault-Assets/PDFs/Photon spec sheet.pdf",
@@ -240,8 +288,6 @@
     "Vault-Assets/PDFs/RL-F65-BlackSky-Full-Stream-Ahead-Presskit-compressed.pdf",
     "Vault-Assets/PDFs/9d0f89b9-b354-4675-904a-d7c5cef7d79b.pdf",
     "Vault-Assets/PDFs/29661373-7549-4d34-90d1-5f9eac8acb81.pdf",
-    "Vault-Assets/PDFs/77f92c97-9a88-4758-b21f-16608472f7bd.pdf",
-    "Filings/2025/10-Q",
     "Untitled.canvas",
     "Subsidiaries/Untitled.canvas"
   ]

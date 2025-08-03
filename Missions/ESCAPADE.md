@@ -74,9 +74,9 @@ At the end of the solar conjunction, Blue and Gold will begin their transition t
 ### 6. Primary Science
 EscaPADE’s primary science phase has an 11-month duration split into two science campaigns; six months in Campaign A and five in Campaign B. The phase commences once the spacecraft have established their leader-follower flying formation. Science Campaign B requires the satellites having different apoapse altitudes, in which Blue raises its apoapse to 10,000 km and Gold reduces to 7,000 km.
 
- Science Campaign A involves the measurement of dynamic properties of the Martian environment through observations of the same region with a temporal separation. The leader-follower or ‘string-of-pearls’ flying formation with a variable separation will allow for time-varying processes to be investigated. The orbit selected for Science Campaign A is such that the spacecraft traverse through the maximum ion density. With the spacecraft operating independently from different orbits in Science Campaign B, the mission will investigate spatially varying properties of Mars’ near-space environment.  5)
+ Science Campaign A involves the measurement of dynamic properties of the Martian environment through observations of the same region with a temporal separation. The leader-follower or ‘string-of-pearls’ flying formation with a variable separation will allow for time-varying processes to be investigated. The orbit selected for Science Campaign A is such that the spacecraft traverse through the maximum ion density. With the spacecraft operating independently from different orbits in Science Campaign B, the mission will investigate spatially varying properties of Mars’ near-space environment. 
 ### 7. Decommissioning
-The EscaPADE spacecraft will be retired at the end of the mission according to NASA policy, degrading their orbits passively and eventually burning up upon entering the Martian atmosphere. 5)
+The EscaPADE spacecraft will be retired at the end of the mission according to NASA policy, degrading their orbits passively and eventually burning up upon entering the Martian atmosphere.
 
 ## News
 

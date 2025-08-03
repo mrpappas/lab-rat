@@ -26,6 +26,8 @@ A second dedicated launch on Electron to meet those same mission requirements is
 These dedicated Electron launches demonstrate both the strength of Rocket Lab’s responsive launch capabilities and its increasing launch cadence as the global leader in dedicated small launch. With demand for 20+ launches in 2025 and 100% mission success for all Electron launches this year, Electron is continually sought after by satellite operators across commercial, civil, and government missions, and remains on track for another record year of launches from Rocket Lab’s Launch Complex 1 and Launch Complex 2 orbital launch sites in Mahia, New Zealand and Wallops Island, Virginia.
 >
 >>[!hint] Note: The confidential customer was leaked to likely be [[EchoStar]] deploying one of their [[EchoStar#Lyra Block-1|Lyra Block-1]] satellites - [Source: @trypto_tran](https://x.com/trypto_tran/status/1936052601558385078)
+>
+>[📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720327170026/with/54618999730)
 
 | **Mission Name** | Symphony In The Stars                                                                                |
 | ---------------- | ---------------------------------------------------------------------------------------------------- |

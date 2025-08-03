@@ -34,6 +34,7 @@ The Globalstar global mobile communications network offers global, digital real 
 | Frequency     | C-band, 16 cells L-band, 16 cells S-band |
 | Comms         | [[Frontier Radio#Frontier-C]]            |
 | Data Transfer | Up to 9600 bps                           |
+| Propulsion    | [[Curie]]                                |
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```

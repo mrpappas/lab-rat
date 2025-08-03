@@ -16,13 +16,15 @@ tags:
 >🔗 https://www.ewaacportal.com/
 >📋 https://www.ewaacportal.com/assets/EWAAC%20Execution%20Toolkit-Ver-10-11%20Sep%202024.pdf
 
+![[Pasted image 20250415161523.png|300]]
+
 ## Rocket Lab's Involvement
 
 April 14 2025 Rocket Lab was on-ramped to the contract "to bid for contracts and task orders served by its Hypersonic Accelerator Suborbital Test Electron (HASTE) launch vehicle, as well as other engineering, design, and launch services."
 [[Rocket Lab Onramped To Multi-Billion Dollar U.S. and U.K. Defense Contracts To Expand Hypersonic Technology Development with HASTE|🔗 Source]]
 
-
-![[Pasted image 20250415161523.png|300]]
+>[!quote] Sir Peter Beck (CEO) on being selected for EWAAC + UK MOD HTCDF
+>“The ability to contribute toward the collective security of the United States and the United Kingdom across both of these important programs is a proud moment for the HASTE team, and a demonstration of Rocket Lab’s commitment to lead from the front when it comes to innovative and unique solutions for hypersonic technology development. Keeping pace with global developments means more affordable tests at a higher rate that expands the boundaries of hypersonic technology - and that’s a capability we’re already providing all in one platform with HASTE, at a commercial price and cadence that serves the mission of both nations.” [Source](https://www.rocketlabusa.com/updates/rocket-lab-onramped-to-multi-billion-dollar-u-s-and-u-k-defense-contracts-to-expand-hypersonic-technology-development-with-haste/)
 
 ## Time to Award
 
@@ -66,7 +68,7 @@ The largest single award being for [$1,414,668,201.96 to Raytheon](https://www.h
 ```
 table published as "Published"
 from "News"
-where contains(mission, [[EWAAC]])
+where contains(contract, [[EWAAC]])
 sort published desc
 
 ```
@@ -77,8 +79,4 @@ sort published desc
 | [[News/Rocket Lab Onramped To Multi-Billion Dollar U.S. and U.K. Defense Contracts To Expand Hypersonic Technology Development with HASTE.md\|Rocket Lab Onramped To Multi-Billion Dollar U.S. and U.K. Defense Contracts To Expand Hypersonic Technology Development with HASTE]] | April 14, 2025 |
 
 %% DATAVIEW_PUBLISHER: end %%
-
-
->[!quote] Sir Peter Beck (CEO) on being selected for EWAAC + UK MOD HTCDF
->“The ability to contribute toward the collective security of the United States and the United Kingdom across both of these important programs is a proud moment for the HASTE team, and a demonstration of Rocket Lab’s commitment to lead from the front when it comes to innovative and unique solutions for hypersonic technology development. Keeping pace with global developments means more affordable tests at a higher rate that expands the boundaries of hypersonic technology - and that’s a capability we’re already providing all in one platform with HASTE, at a commercial price and cadence that serves the mission of both nations.” [Source](https://www.rocketlabusa.com/updates/rocket-lab-onramped-to-multi-billion-dollar-u-s-and-u-k-defense-contracts-to-expand-hypersonic-technology-development-with-haste/)
 

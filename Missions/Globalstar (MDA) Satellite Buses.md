@@ -8,7 +8,7 @@ satellites: 17
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Missions]] <span style="color: LightSlateGray">></span> Globalstar (MDA) Satellite Buses
 
 **Customer:** [[Globalstar]], [[MDA]]
-**Contracted Satellites: 17 [[Globalstar#Globalstar M104 - 120 (Globalstar-3) Bus|Globalstar M104 - 120 (Globalstar-3) Bus]]
+**Contracted Satellites**: 17 [[Globalstar#Globalstar M104 - 120 (Globalstar-3) Bus|Globalstar M104 - 120 (Globalstar-3) Bus]]
 ## Summary
 
 In February 2022, Rocket Lab was awarded a $143 million subcontract by [[MDA]] to lead the design and manufacture of 17 spacecraft buses for [[Globalstar]]’s new [[🌍 Orbits#LEO|Low Earth Orbit]] satellites. Rocket Lab will lead the development of the spacecraft buses, while MDA will act as prime contractor to manufacture Globalstar’s satellites, lead the development of the payload, and perform the final satellite assembly, integration, and test. The partnership between Rocket Lab and MDA brings together two of the space industry’s most innovative satellite companies.

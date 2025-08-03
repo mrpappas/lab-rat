@@ -1,13 +1,14 @@
 ---
-title: "Rocket Lab’s Neutron Rocket On-Ramped to U.S. Space Force’s $5.6b National Security Space Launch (NSSL) program"
-source: "https://www.rocketlabusa.com/updates/rocket-labs-neutron-rocket-on-ramped-to-u-s-space-forces-5-6b-national-security-space-launch-nssl-program/"
+title: Rocket Lab’s Neutron Rocket On-Ramped to U.S. Space Force’s $5.6b National Security Space Launch (NSSL) program
+source: https://www.rocketlabusa.com/updates/rocket-labs-neutron-rocket-on-ramped-to-u-s-space-forces-5-6b-national-security-space-launch-nssl-program/
 author: "[[Rocket Lab]]"
 published: 2025-03-27
 customer: "[[U.S. Space Force]]"
+contract: "[[NSSL Phase 3]]"
 tags:
- - neutron
- - launch
- - contract
+  - neutron
+  - launch
+  - contract
 ---
 >[!summary]
 **Title:** Rocket Lab’s Neutron Rocket On-Ramped to U.S. Space Force’s $5.6b National Security Space Launch (NSSL) program

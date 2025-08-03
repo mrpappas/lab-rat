@@ -8,7 +8,31 @@ website: https://www.capellaspace.com/
 **Website:** https://www.capellaspace.com/
 
 >[!summary]
-Capella Space is an American space tech company with data and satellite solutions for government and commercial use. A pioneer in the Earth observation industry, Capella is the first U.S. company with a constellation of [[📦 Payload Types#Synthetic Aperture Radar (SAR)|Synthetic Aperture Rader (SAR)]] satellites, delivering the best quality, highest resolution SAR imagery commercially available. Capella provides easy access to frequent and timely information affecting dozens of industries worldwide, including defense and intelligence, supply chain, insurance, maritime and others. Its market-leading SAR satellites are matched with unparalleled data infrastructure to quickly deliver reliable global insights that sharpen our understanding of the changing world – improving decisions about commerce, conservation, and security on Earth. Headquartered in San Francisco, California with additional locations in Denver, Colorado and Washington, D.C., Capella's satellites are operated, designed, and manufactured in the USA.
+Capella Space is an American space tech company with data and satellite solutions for government and commercial use. A pioneer in the Earth observation industry, Capella is the first U.S. company with a constellation of [[📦 Payload Types#Synthetic Aperture Radar (SAR)|Synthetic Aperture Rader (SAR)]] satellites, delivering the best quality, highest resolution SAR imagery commercially available. Capella provides easy access to frequent and timely information affecting dozens of industries worldwide, including defense and intelligence, supply chain, insurance, maritime and others. 
+>
+Its market-leading SAR satellites are matched with unparalleled data infrastructure to quickly deliver reliable global insights that sharpen our understanding of the changing world – improving decisions about commerce, conservation, and security on Earth. Headquartered in San Francisco, California with additional locations in Denver, Colorado and Washington, D.C., Capella's satellites are operated, designed, and manufactured in the USA.
+
+## 🚀 Launches
+
+
+%%DATAVIEW_PUBLISHER: start
+```
+table launch_date as "Date", location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
+from "Launch/Launches"
+where contains(customer, [[Capella Space]])
+sort launch_date desc
+```
+%%
+
+| File                                                                                                  | Date             | Location                                               | Vehicle                          | Orbit & Mass            | Outcome |
+| ----------------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------------ | -------------------------------- | ----------------------- | ------- |
+| [[Launch/Launches/052 - A Sky Full Of SARs.md\|052 - A Sky Full Of SARs]]                             | 2024-08-11 13:18 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]]  | [[Launch/Electron.md\|Electron]] | 615 km \| 53° \| 165 kg | ✅       |
+| [[Launch/Launches/041 - We Will Never Desert You.md\|041 - We Will Never Desert You]]                 | 2023-09-19 06:55 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]]  | [[Launch/Electron.md\|Electron]] | 640 km \| 53° \| 165 kg | ❌       |
+| [[Launch/Launches/040 - We Love The Nightlife.md\|040 - We Love The Nightlife]]                       | 2023-08-24 23:45 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]]  | [[Launch/Electron.md\|Electron]] | 640 km \| 53° \| 165 kg | ✅       |
+| [[Launch/Launches/034 - Stronger Together.md\|034 - Stronger Together]]                               | 2023-03-16 22:38 | [[Locations/Launch Complex 2.md#Launch Pad 0C\|LC2-0]] | [[Launch/Electron.md\|Electron]] | 600 km \| 44° \| 224 kg | ✅       |
+| [[Launch/Launches/014 - I Can't Believe It's Not Optical.md\|014 - I Can't Believe It's Not Optical]] | 2020-08-31 03:05 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]]  | [[Launch/Electron.md\|Electron]] | 500 km \| 45° \| 100 kg | ✅       |
+
+%%DATAVIEW_PUBLISHER: end %%
 
 ## 🛰️ Space Systems
 
@@ -36,28 +60,6 @@ Features:
 | Polarization     | VV or HH (single)  |
 
 ![[Pasted image 20241225001756.jpg]]
-
-## 🚀 Launches
-
-
-%%DATAVIEW_PUBLISHER: start
-```
-table launch_date as "Date", location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
-from "Launch/Launches"
-where contains(customer, [[Capella Space]])
-sort launch_date desc
-```
-%%
-
-| File                                                                                                  | Date             | Location                                               | Vehicle                          | Orbit & Mass            | Outcome |
-| ----------------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------------ | -------------------------------- | ----------------------- | ------- |
-| [[Launch/Launches/052 - A Sky Full Of SARs.md\|052 - A Sky Full Of SARs]]                             | 2024-08-11 13:18 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]]  | [[Launch/Electron.md\|Electron]] | 615 km \| 53° \| 165 kg | ✅       |
-| [[Launch/Launches/041 - We Will Never Desert You.md\|041 - We Will Never Desert You]]                 | 2023-09-19 06:55 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]]  | [[Launch/Electron.md\|Electron]] | 640 km \| 53° \| 165 kg | ❌       |
-| [[Launch/Launches/040 - We Love The Nightlife.md\|040 - We Love The Nightlife]]                       | 2023-08-24 23:45 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]]  | [[Launch/Electron.md\|Electron]] | 640 km \| 53° \| 165 kg | ✅       |
-| [[Launch/Launches/034 - Stronger Together.md\|034 - Stronger Together]]                               | 2023-03-16 22:38 | [[Locations/Launch Complex 2.md#Launch Pad 0C\|LC2-0]] | [[Launch/Electron.md\|Electron]] | 600 km \| 44° \| 224 kg | ✅       |
-| [[Launch/Launches/014 - I Can't Believe It's Not Optical.md\|014 - I Can't Believe It's Not Optical]] | 2020-08-31 03:05 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]]  | [[Launch/Electron.md\|Electron]] | 500 km \| 45° \| 100 kg | ✅       |
-
-%%DATAVIEW_PUBLISHER: end %%
 
 
 ## 📰 News

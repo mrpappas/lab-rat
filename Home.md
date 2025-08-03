@@ -14,7 +14,7 @@ This provides a great high level analysis of Rocket Lab's current business and p
 - 🎙️ [[Interviews]]
 - 🙋 [[People]]
 - 🤝 [[Partners]]
-- 🛰️ [[Space Systems]]
+- 🛠️ [[Hardware]]
 - 📰 [[News]]
 - 🏛️ [[Board of Directors]]
 - 🟢 [[Subsidiaries]]
@@ -39,6 +39,7 @@ limit 10
 
 | File                                                                                              | Customer                                                          | Date             | Outcome |
 | ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ---------------- | ------- |
+| [[Launch/Launches/069 - The Harvest Goddess Thrives.md\|069 - The Harvest Goddess Thrives]]       | [[Organization/Partners/iQPS.md\|iQPS]]                           | 2025-08-05 03:45 | ⌛       |
 | [[Launch/Launches/068 - Symphony In The Stars.md\|068 - Symphony In The Stars]]                   | [[Organization/Partners/EchoStar.md\|EchoStar (Confidential)]]    | 2025-06-28 06:45 | ✅       |
 | [[Launch/Launches/067 - Get The Hawk Outta Here.md\|067 - Get The Hawk Outta Here]]               | [[Organization/Partners/HawkEye 360.md\|HawkEye 360]]             | 2025-06-26 17:00 | ✅       |
 | [[Launch/Launches/066 - The Mountain God Guards.md\|066 - The Mountain God Guards]]               | [[Organization/Partners/iQPS.md\|iQPS]]                           | 2025-06-11 15:15 | ✅       |
@@ -48,7 +49,6 @@ limit 10
 | [[Launch/Launches/062 - High Five.md\|062 - High Five]]                                           | [[Organization/Partners/Kinéis.md\|Kinéis]]                       | 2025-03-18 01:31 | ✅       |
 | [[Launch/Launches/061 - The Lightning God Reigns.md\|061 - The Lightning God Reigns]]             | [[Organization/Partners/iQPS.md\|iQPS]]                           | 2025-03-15 00:00 | ✅       |
 | [[Launch/Launches/060 - Fasten Your Space Belts.md\|060 - Fasten Your Space Belts]]               | [[Organization/Partners/BlackSky.md\|BlackSky]]                   | 2025-02-19 12:17 | ✅       |
-| [[Launch/Launches/059 - IOT 4 You and Me.md\|059 - IOT 4 You and Me]]                             | [[Organization/Partners/Kinéis.md\|Kinéis]]                       | 2025-02-04 20:43 | ✅       |
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -94,6 +94,7 @@ limit 10
 
 | File                                                                                                                                                                                                                                         |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[News/Rocket Lab Schedules Fifth Electron Mission for Constellation Operator iQPS.md\|Rocket Lab Schedules Fifth Electron Mission for Constellation Operator iQPS]]                                                                         |
 | [[News/Rocket Lab Selects Bollinger Shipyards to Support Modification of Neutron Landing Platform.md\|Rocket Lab Selects Bollinger Shipyards to Support Modification of Neutron Landing Platform]]                                           |
 | [[News/Rocket Lab Successfully Completes Critical Design Review for Space Development Agency’s T2TL-Beta Constellation.md\|Rocket Lab Successfully Completes Critical Design Review for Space Development Agency’s T2TL-Beta Constellation]] |
 | [[News/Rocket Lab Completes Record Launch Turnaround From Launch Complex 1, Successfully Deploys 68th Electron Mission.md\|Rocket Lab Completes Record Launch Turnaround From Launch Complex 1, Successfully Deploys 68th Electron Mission]] |
@@ -103,13 +104,14 @@ limit 10
 | [[News/Rocket Lab Adds Two New Missions to 2025 Electron Launch Manifest, Schedules First Launch in Four Days’ Time.md\|Rocket Lab Adds Two New Missions to 2025 Electron Launch Manifest, Schedules First Launch in Four Days’ Time]]       |
 | [[News/Rocket Lab Successfully Launches Second Mission for iQPS in Rapid 25 Day Turnaround.md\|Rocket Lab Successfully Launches Second Mission for iQPS in Rapid 25 Day Turnaround]]                                                         |
 | [[News/Rocket Lab Schedules Third Electron Launch In 24 Days To Deploy Next Mission For iQPS.md\|Rocket Lab Schedules Third Electron Launch In 24 Days To Deploy Next Mission For iQPS]]                                                     |
-| [[News/Rocket Lab Successfully Launches 10th Electron Mission for Multi-Launch Customer BlackSky.md\|Rocket Lab Successfully Launches 10th Electron Mission for Multi-Launch Customer BlackSky]]                                             |
 
 %% DATAVIEW_PUBLISHER: end %%
 
 ## 📊 Stock
 
-![[Rocket Lab]]
+<div class="responsive-video">
+<iframe src="https://ssltvc.investing.com/?pair_ID=1169889&height=480&width=650&interval=300&plotStyle=area&domain_ID=1&lang_ID=1&timezone_ID=7"></iframe>
+</div>
 
 
 ## ℹ️ Resources
