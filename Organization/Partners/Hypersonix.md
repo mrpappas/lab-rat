@@ -63,5 +63,6 @@ sort published desc
 | File                                                                                                                                                                                                                       | Published         |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
 | [[News/Rocket Lab Adds New HASTE Launch from Virginia for the Department of Defense’s Defense Innovation Unit.md\|Rocket Lab Adds New HASTE Launch from Virginia for the Department of Defense’s Defense Innovation Unit]] | November 08, 2023 |
+| [[News/Rocket Lab Introduces Suborbital Testbed Rocket, Selected for Hypersonic Test Flights.md\|Rocket Lab Introduces Suborbital Testbed Rocket, Selected for Hypersonic Test Flights]]                                   | April 17, 2023    |
 
 %%DATAVIEW_PUBLISHER: end %%

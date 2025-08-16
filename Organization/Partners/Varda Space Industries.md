@@ -27,14 +27,22 @@ Varda’s W-Series capsule is an autonomous free-flying microgravity formulation
 
 #### Specifications
 
-| Specification | Value                     |
-| ------------- | ------------------------- |
-| Wet Mass      | ~300 kg                   |
-| Diameter      | ~0.9 m                    |
-| Typical Orbit | ~510 x 535 km             |
-| Reentry Speed | Mach 25                   |
-| Heat Shield   | C‑PICA                    |
-| Bus           | [[Pioneer]], In-House Bus |
+| Specification       | Value                                                                                                                            |
+| ------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| Bus                 | [[Pioneer]], In-House Bus                                                                                                        |
+| Satellite Mass      | ~300 kg                                                                                                                          |
+| Bus Mass            | ~105 kg dry, ~170 kg wet                                                                                                         |
+| Orbit               | 475km-625km SSO                                                                                                                  |
+| Lifetime            | 1 Year Should, 4 Months Shall                                                                                                    |
+| Mission Assurance   | [[⚖️ NASA Mission and Instrument Risk Classification#Class D\|Class D]]                                                          |
+| Power               | ~500 W (BOL), ~450 W (EOL), deployable solar panels                                                                              |
+| Avionics            | Single string, dedicated payload computer                                                                                        |
+| Thermal             | Passive cooling via 5 radiators (>0.3m<sup>2</sup> total radiator area), software controlled heaters, thermally isolated payload |
+| Volume / Dimensions | 1.098 m x 1.714 m x 1.590 m (stowed), 2.702 m x 1.714 m x 1.590 m (deployed)                                                     |
+| Propulsion          | Bi-propellant [[Curie]], > 400 m/sec delta-V                                                                                     |
+| Reentry Speed       | Mach 25                                                                                                                          |
+| Heat Shield         | C‑PICA                                                                                                                           |
+| Comms               | S-Band TT&C link w/ 90% spherical coverage in safe mode, 64 kbps - 4Mbps DL data rate, 32 kbps UL data rate                      |
 
 ## News
 %%DATAVIEW_PUBLISHER: start

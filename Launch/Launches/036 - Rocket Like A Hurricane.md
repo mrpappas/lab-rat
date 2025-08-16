@@ -8,6 +8,7 @@ mission_name: "Rocket Like A Hurricane"
 launch_date: 2023-05-08 01:00
 outcome: ✅
 customer: "[[NASA]]"
+contract: "[[VADR]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"
 orbit_type: "[[🌍 Orbits#LEO]]"
@@ -40,6 +41,7 @@ More info on TROPICS: [Mission Overview | TROPICS](https://tropics.ll.mit.edu/CM
 | **Launch Date**  | 2023-05-08 01:00                                                                                            |
 | **Outcome**      | ✅ Success                                                                                                   |
 | **Customer**     | [[NASA]]                                                                                                    |
+| **Contract**     | [[VADR]]                                                                                                    |
 | **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                           |
 | **Vehicle**      | [[Electron]]                                                                                                |
 | **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                           |

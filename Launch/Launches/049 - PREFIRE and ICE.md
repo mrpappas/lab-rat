@@ -8,6 +8,7 @@ mission_name: "PREFIRE and ICE"
 launch_date: 2024-06-05 03:15
 outcome: ✅
 customer: "[[NASA]]"
+contract: "[[VADR]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"
 orbit_type: "[[🌍 Orbits#SSO]]"
@@ -35,6 +36,7 @@ The ‘PREFIRE and Ice’ launch launched on June 5th, 2024 from [[Launch Comple
 | **Launch Date**  | 2024-06-05 03:15                                                                            |
 | **Outcome**      | ✅ Success                                                                                   |
 | **Customer**     | [[NASA]]                                                                                    |
+| Contract         | [[VADR]]                                                                                    |
 | **Location**     | [[Launch Complex 1#Launch Pad B]]                                                           |
 | **Vehicle**      | [[Electron]]                                                                                |
 | **Orbit Type**   | [[🌍 Orbits#SSO]]                                                                           |

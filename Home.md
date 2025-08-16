@@ -14,6 +14,7 @@ This provides a great high level analysis of Rocket Lab's current business and p
 - 🎙️ [[Interviews]]
 - 🙋 [[People]]
 - 🤝 [[Partners]]
+- 📜[[Contracts & Vehicles]]
 - 🛠️ [[Hardware]]
 - 📰 [[News]]
 - 🏛️ [[Board of Directors]]
@@ -22,7 +23,7 @@ This provides a great high level analysis of Rocket Lab's current business and p
 
 ## 📈 Latest Earnings Call
 
-[[2025 Q1]] - Includes Video, Transcript, SEC filings, Press Release, and Investor Presentation.
+[[2025 Q2]] - Includes Video, Transcript, SEC filings, Press Release, and Investor Presentation. See all Earnings Calls here -> [[Earnings Calls]]
 
 ## 🚀 Recent Launches
 
@@ -39,7 +40,7 @@ limit 10
 
 | File                                                                                              | Customer                                                          | Date             | Outcome |
 | ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ---------------- | ------- |
-| [[Launch/Launches/069 - The Harvest Goddess Thrives.md\|069 - The Harvest Goddess Thrives]]       | [[Organization/Partners/iQPS.md\|iQPS]]                           | 2025-08-05 03:45 | ⌛       |
+| [[Launch/Launches/069 - The Harvest Goddess Thrives.md\|069 - The Harvest Goddess Thrives]]       | [[Organization/Partners/iQPS.md\|iQPS]]                           | 2025-08-05 04:10 | ✅       |
 | [[Launch/Launches/068 - Symphony In The Stars.md\|068 - Symphony In The Stars]]                   | [[Organization/Partners/EchoStar.md\|EchoStar (Confidential)]]    | 2025-06-28 06:45 | ✅       |
 | [[Launch/Launches/067 - Get The Hawk Outta Here.md\|067 - Get The Hawk Outta Here]]               | [[Organization/Partners/HawkEye 360.md\|HawkEye 360]]             | 2025-06-26 17:00 | ✅       |
 | [[Launch/Launches/066 - The Mountain God Guards.md\|066 - The Mountain God Guards]]               | [[Organization/Partners/iQPS.md\|iQPS]]                           | 2025-06-11 15:15 | ✅       |
@@ -92,27 +93,20 @@ limit 10
 ```
 %%
 
-| File                                                                                                                                                                                                                                         |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[News/Rocket Lab Schedules Fifth Electron Mission for Constellation Operator iQPS.md\|Rocket Lab Schedules Fifth Electron Mission for Constellation Operator iQPS]]                                                                         |
-| [[News/Rocket Lab Selects Bollinger Shipyards to Support Modification of Neutron Landing Platform.md\|Rocket Lab Selects Bollinger Shipyards to Support Modification of Neutron Landing Platform]]                                           |
-| [[News/Rocket Lab Successfully Completes Critical Design Review for Space Development Agency’s T2TL-Beta Constellation.md\|Rocket Lab Successfully Completes Critical Design Review for Space Development Agency’s T2TL-Beta Constellation]] |
-| [[News/Rocket Lab Completes Record Launch Turnaround From Launch Complex 1, Successfully Deploys 68th Electron Mission.md\|Rocket Lab Completes Record Launch Turnaround From Launch Complex 1, Successfully Deploys 68th Electron Mission]] |
-| [[News/Rocket Lab Successfully Launches 67th Electron Mission, Schedules Next Launch in Less Than 48 Hours.md\|Rocket Lab Successfully Launches 67th Electron Mission, Schedules Next Launch in Less Than 48 Hours]]                         |
-| [[News/Rocket Lab to Launch Electron Mission for European Space Agency’s Next-Generation Navigation System.md\|Rocket Lab to Launch Electron Mission for European Space Agency’s Next-Generation Navigation System]]                         |
-| [[News/Rocket Lab Executes Responsive Reschedule of Electron Manifest to Launch Next Mission in Two Days’ Time.md\|Rocket Lab Executes Responsive Reschedule of Electron Manifest to Launch Next Mission in Two Days’ Time]]                 |
-| [[News/Rocket Lab Adds Two New Missions to 2025 Electron Launch Manifest, Schedules First Launch in Four Days’ Time.md\|Rocket Lab Adds Two New Missions to 2025 Electron Launch Manifest, Schedules First Launch in Four Days’ Time]]       |
-| [[News/Rocket Lab Successfully Launches Second Mission for iQPS in Rapid 25 Day Turnaround.md\|Rocket Lab Successfully Launches Second Mission for iQPS in Rapid 25 Day Turnaround]]                                                         |
-| [[News/Rocket Lab Schedules Third Electron Launch In 24 Days To Deploy Next Mission For iQPS.md\|Rocket Lab Schedules Third Electron Launch In 24 Days To Deploy Next Mission For iQPS]]                                                     |
+| File                                                                                                                                                                                                                                                                       |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[News/Rocket Lab Closes Acquisition of Geost, Expanding Its National Security Capabilities with Launch, Spacecraft, and Now Payloads.md\|Rocket Lab Closes Acquisition of Geost, Expanding Its National Security Capabilities with Launch, Spacecraft, and Now Payloads]] |
+| [[News/Rocket Lab Clears Integration Milestone for VICTUS HAZE, Delivering End-to-End Capabilities for Responsive Space Operations.md\|Rocket Lab Clears Integration Milestone for VICTUS HAZE, Delivering End-to-End Capabilities for Responsive Space Operations]]       |
+| [[News/Mission Success for Rocket Lab’s Latest Constellation Deployment Launch for iQPS.md\|Mission Success for Rocket Lab’s Latest Constellation Deployment Launch for iQPS]]                                                                                             |
+| [[News/Rocket Lab Schedules Fifth Electron Mission for Constellation Operator iQPS.md\|Rocket Lab Schedules Fifth Electron Mission for Constellation Operator iQPS]]                                                                                                       |
+| [[News/Rocket Lab Selects Bollinger Shipyards to Support Modification of Neutron Landing Platform.md\|Rocket Lab Selects Bollinger Shipyards to Support Modification of Neutron Landing Platform]]                                                                         |
+| [[News/Rocket Lab Successfully Completes Critical Design Review for Space Development Agency’s T2TL-Beta Constellation.md\|Rocket Lab Successfully Completes Critical Design Review for Space Development Agency’s T2TL-Beta Constellation]]                               |
+| [[News/Rocket Lab Completes Record Launch Turnaround From Launch Complex 1, Successfully Deploys 68th Electron Mission.md\|Rocket Lab Completes Record Launch Turnaround From Launch Complex 1, Successfully Deploys 68th Electron Mission]]                               |
+| [[News/Rocket Lab Successfully Launches 67th Electron Mission, Schedules Next Launch in Less Than 48 Hours.md\|Rocket Lab Successfully Launches 67th Electron Mission, Schedules Next Launch in Less Than 48 Hours]]                                                       |
+| [[News/Rocket Lab to Launch Electron Mission for European Space Agency’s Next-Generation Navigation System.md\|Rocket Lab to Launch Electron Mission for European Space Agency’s Next-Generation Navigation System]]                                                       |
+| [[News/Rocket Lab Executes Responsive Reschedule of Electron Manifest to Launch Next Mission in Two Days’ Time.md\|Rocket Lab Executes Responsive Reschedule of Electron Manifest to Launch Next Mission in Two Days’ Time]]                                               |
 
 %% DATAVIEW_PUBLISHER: end %%
-
-## 📊 Stock
-
-<div class="responsive-video">
-<iframe src="https://ssltvc.investing.com/?pair_ID=1169889&height=480&width=650&interval=300&plotStyle=area&domain_ID=1&lang_ID=1&timezone_ID=7"></iframe>
-</div>
-
 
 ## ℹ️ Resources
 

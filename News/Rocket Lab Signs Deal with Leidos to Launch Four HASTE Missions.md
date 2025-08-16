@@ -7,6 +7,7 @@ author:
 published: 2023-09-12
 description: "*The four new missions follow on from the success of Rocket Lab’s first HASTE launch for Leidos in June this year*"
 customer: "[[Leidos]]"
+contract: "[[MACH-TB]]"
 tags:
   - "contract"
   - "HASTE"

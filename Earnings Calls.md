@@ -5,7 +5,7 @@
 >For a list of all Investor Presentations [[Investor Presentations|👉 Go Here]]
 
 ## 2025
-- Next Earnings [August 7](https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-announces-date-second-quarter-2025-financial-results)
+- [[2025 Q2]]
 - [[2025 Q1]]
 ## 2024
 - [[2024 Q4]]

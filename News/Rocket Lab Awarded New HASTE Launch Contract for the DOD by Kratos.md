@@ -4,6 +4,7 @@ source: "https://www.rocketlabusa.com/updates/rocket-lab-awarded-new-haste-launc
 author: "[[Rocket Lab]]"
 published: 2025-04-23
 customer: "[[Kratos]]"
+contract: "[[MACH-TB]]"
 tags:
  - HASTE
  - launch

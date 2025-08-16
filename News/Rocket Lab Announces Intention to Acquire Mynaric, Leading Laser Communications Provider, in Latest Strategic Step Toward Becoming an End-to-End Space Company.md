@@ -4,6 +4,7 @@ source: "https://investors.rocketlabusa.com/news/news-details/2025/Rocket-Lab-An
 author: "[[Rocket Lab]]"
 published: 2025-03-11
 partner: "[[Mynaric]]"
+contract: "[[SDA Proliferated Warfighter Space Architecture (PWSA)]]"
 tags:
  - acquisition
 ---

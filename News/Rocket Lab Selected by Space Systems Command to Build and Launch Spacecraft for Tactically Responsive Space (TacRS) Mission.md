@@ -8,6 +8,7 @@ published: 2024-04-11
 description: "The $32 million contract will see Rocket Lab design and manufacture a spacecraft to conduct rendezvous proximity operations, before launching it on Electron with 24 hours’ notice for Space Systems Command’s VICTUS HAZE mission."
 customer: "[[U.S. Space Force]]"
 mission: "[[VICTUS HAZE]]"
+partner: "[[True Anomaly]]"
 tags:
   - "space-systems"
   - "launch"

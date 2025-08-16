@@ -1,3 +1,4 @@
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Missions]] <span style="color: LightSlateGray">></span> Viasat Echo
 ## Mission Details
 
 **Customer**: [[Viasat]]

@@ -5,6 +5,7 @@ author: "[[Rocket Lab]]"
 published: 2025-07-01
 customer: "[[Space Development Agency (SDA)]]"
 mission: "[[SDA Tranche 2 - Transport Layer]]"
+contract: "[[SDA Proliferated Warfighter Space Architecture (PWSA)]]"
 spacecraft: "[[Lightning]]"
 tags:
   - space-systems

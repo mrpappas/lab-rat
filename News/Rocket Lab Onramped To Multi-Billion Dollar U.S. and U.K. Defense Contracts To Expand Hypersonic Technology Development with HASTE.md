@@ -5,7 +5,10 @@ author: "[[Rocket Lab]]"
 published: 2025-04-14
 customer: 
  - "[[U.S. Air Force]]"
-contract: "[[EWAAC]]"
+ - "[[UK Ministry of Defence]]"
+contract: 
+ - "[[EWAAC]]"
+ - "[[HTCDF]]"
 tags:
  - HASTE
 ---

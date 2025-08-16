@@ -19,12 +19,6 @@ EscaPADE is a twin-spacecraft [[⚖️ NASA Mission and Instrument Risk Classifi
 
 ![[Pasted image 20250702185920.png]]
 
-## Links
-
-[🔗 NASA](https://science.nasa.gov/mission/escapade/)
-🔗 [Rocket Lab](https://rocketlabcorp.com/missions/escapade/)
-🔗 [EO Portal](https://www.eoportal.org/satellite-missions/escapade)
-
 ## Launch
 
 🚀 Planned launch on [New Glenn](https://www.blueorigin.com/new-glenn) Flight 2 NET August 15 2025, but more likely mid-to-late September ([source](https://arstechnica.com/space/2025/06/the-second-launch-of-new-glenn-will-aim-for-mars/)). 
@@ -111,3 +105,9 @@ sort published desc
 ![](https://www.youtube.com/watch?v=nBa5ZIt_M2c)
 
 🔗 Backup Link: https://www.youtube.com/watch?v=nBa5ZIt_M2c
+
+## Links
+
+[🔗 NASA](https://science.nasa.gov/mission/escapade/)
+🔗 [Rocket Lab](https://rocketlabcorp.com/missions/escapade/)
+🔗 [EO Portal](https://www.eoportal.org/satellite-missions/escapade)

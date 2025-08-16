@@ -10,6 +10,7 @@ partner:
   - "[[CesiumAstro]]"
   - "[[Mynaric]]"
 mission: "[[SDA Tranche 2 - Transport Layer]]"
+contract: "[[SDA Proliferated Warfighter Space Architecture (PWSA)]]"
 tags:
   - space-systems
 ---

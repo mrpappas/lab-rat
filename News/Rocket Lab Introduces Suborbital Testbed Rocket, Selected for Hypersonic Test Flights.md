@@ -5,6 +5,10 @@ source: "https://www.rocketlabusa.com/updates/rocket-lab-introduces-suborbital-t
 author:
   - "[[Rocket Lab]]"
 published: 2023-04-17
+customer: 
+ - "[[Leidos]]"
+ - "[[Hypersonix]]"
+contract: "[[MACH-TB]]"
 description: "*Rocket Lab Introduces Suborbital Testbed Rocket, Selected for Hypersonic Test Flights *"
 tags:
   - "HASTE"

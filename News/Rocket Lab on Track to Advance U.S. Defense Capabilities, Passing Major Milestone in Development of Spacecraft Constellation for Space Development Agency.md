@@ -8,6 +8,7 @@ description: "*Long Beach, Calif. January 09, 202*5 – Rocket Lab National Secu
 customer:
   - "[[Space Development Agency (SDA)]]"
 mission: "[[SDA Tranche 2 - Transport Layer]]"
+contract: "[[SDA Proliferated Warfighter Space Architecture (PWSA)]]"
 insider: 
 tags:
   - space-systems

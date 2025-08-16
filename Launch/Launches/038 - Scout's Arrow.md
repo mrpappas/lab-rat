@@ -8,6 +8,7 @@ mission_name: "Scout's Arrow"
 launch_date: 2023-06-18 01:24
 outcome: ✅
 customer: "[[Leidos]]"
+contract: "[[MACH-TB]]"
 location: "[[Launch Complex 2#Launch Pad 0C|LC2-0]]"
 vehicle: "[[HASTE]]"
 orbit_type: "n/a"
@@ -38,6 +39,7 @@ The HASTE suborbital launch vehicle is derived from the Company’s Electron roc
 | **Launch Date**  | 2023-06-18 01:24                                                                       |
 | **Outcome**      | ✅ Success                                                                              |
 | **Customer**     | [[Leidos]]                                                                             |
+| Contract         | [[MACH-TB]]                                                                            |
 | **Location**     | [[Launch Complex 2#Launch Pad 0C]]                                                     |
 | **Vehicle**      | [[HASTE]]                                                                              |
 | **Orbit Type**   | n/a                                                                                    |

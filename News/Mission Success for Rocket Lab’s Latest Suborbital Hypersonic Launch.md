@@ -6,6 +6,7 @@ author:
 published: 2024-12-09
 description: "*Long Beach, Calif. 09 December, 2024.* Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced it successfully launched a suborbital mission in November to test hypersonic technology for the Department of Defense."
 customer: "[[U.S. Department of Defense]]"
+contract: "[[MACH-TB]]"
 mission: "[[055 - HASTE A La Vista]]"
 tags:
   - launch
@@ -20,6 +21,7 @@ tags:
 **Description:** *Long Beach, Calif. 09 December, 2024.* Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced it successfully launched a suborbital mission in November to test hypersonic technology for the Department of Defense.
 **Customer:** [[U.S. Department of Defense]]
 **Mission:** [[055 - HASTE A La Vista]]
+**Contract**: [[MACH-TB]]
 
 **Source**: https://www.rocketlabusa.com/updates/mission-success-for-rocket-labs-latest-suborbital-hypersonic-launch/
 

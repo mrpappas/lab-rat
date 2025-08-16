@@ -4,6 +4,7 @@ source: "https://www.rocketlabusa.com/updates/rocket-lab-partners-with-u-s-air-f
 author: "[[Rocket Lab]]"
 published: 2025-05-08
 customer: [[U.S. Air Force]]
+contract: "[[REGAL]]"
 tags:
  - neutron
  - launch

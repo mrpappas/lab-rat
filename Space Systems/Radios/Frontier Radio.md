@@ -3,7 +3,7 @@ The Frontier radio series by Rocket Lab is a high-speed telemetry, tracking, and
 >
 📊 Data Sheet: [[RL-Radios-Datasheet-Full-Suite-v4.pdf]]
 
-## ⭐ Key Features
+## Features
 
 - DSN, SN, NEN, AFSCN, Unified S-band (USB) and commercial waveform compatible
 - CCSDS compatible, turbo and convolutional encoding
@@ -80,7 +80,7 @@ The Frontier radio series by Rocket Lab is a high-speed telemetry, tracking, and
 | **Tx Frequency**        | 1626.5 to 1675 MHz                                 |
 | **Tx Data Rate**        | up to 256kbps                                      |
 
-## 📰 News
+## News
 
 - [[Rocket Lab Increases Space Systems Offerings with New Products for Small Satellites]]
 - [[A New Frontier in Radios Rocket Lab Announces Expanded Radio Products for Reliable Command and Control]]

@@ -12,6 +12,12 @@ website: https://etaspace.com/about
 >
 One of Eta Space's flagship projects is the LOXSAT-1, a demonstration mission supported by NASA, aimed at advancing cryogenic fluid management in orbit. Their technologies have the potential to enable key advancements in space exploration, including reusable spacecraft, lunar and Martian surface operations, and in-orbit refueling depots. By advancing these capabilities, Eta Space contributes to the broader goal of sustainable and cost-effective space exploration and commercialization.
 
+## Space Systems
+
+### LOXSat
+
+![[LOXSAT#LOXSAT-1]]
+
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start
 ```

@@ -6,15 +6,15 @@ website: https://www.sda.mil/
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Space Development Agency (SDA)
 
 **Website:** https://www.sda.mil/
-
 ## Summary 
 
 The Space Development Agency (SDA), established on March 12, 2019, operates as a direct-reporting unit within the [[U.S. Space Force]], focusing on deploying disruptive space technologies to enhance national security. Its primary mission is to create and sustain lethal, resilient, threat-driven, and affordable military space capabilities that provide persistent, resilient, global, low-latency surveillance to deter or defeat adversaries. A key initiative is the development of the Proliferated Warfighter Space Architecture (PWSA), formerly known as the National Defense Space Architecture, which consists of a layered network of satellites in low Earth orbit designed to provide global coverage, resilience, and responsiveness for military operations. The SDA has plans to deploy at least 1,000 satellites by 2026. The agency emphasizes speed and agility in its operations, aiming to deliver capabilities to joint warfighting forces in two-year tranches, recognizing that timely deployment of "good enough" capabilities can be more beneficial than delayed perfection. In October 2022, the SDA transitioned to the management of the [[U.S. Space Force]], further integrating its efforts within the [[U.S. Department of Defense]]'s space operations. 
 
-## Missions
+## Contracts
 
 - [[SDA Proliferated Warfighter Space Architecture (PWSA)]]
-- [[SDA Tranche 1 - Initial Warfighting Capability]]
+## Missions
+
 - [[SDA Tranche 2 - Transport Layer]]
 - [[LOXSAT]]
 
@@ -34,6 +34,7 @@ Known as "Scorpius", Based on the [[Lightning]] platform, tailored for the power
 | ----------------------- | ----------------------------------------------------------------------- |
 | Orbit                   | 1000 km, mid-inclination                                                |
 | Launch/Launch Interface | Launched in 18 spacecraft stack on NSSL vehicle                         |
+| Bus                     | [[Lightning]]                                                           |
 | Lifetime                | 7 Years                                                                 |
 | Mission Assurance       | [[⚖️ NASA Mission and Instrument Risk Classification#Class C\|Class C]] |
 | Satellite Mass          | 450 kg                                                                  |
@@ -45,13 +46,13 @@ Known as "Scorpius", Based on the [[Lightning]] platform, tailored for the power
 | Comms                   | S-band Backup TT&C                                                      |
 #### Payloads
 
-##### CesiumAstro Vireo Active Electronically Scanned Array
+##### [[CesiumAstro]] Vireo Active Electronically Scanned Array
 
 A complete solution for uplink and downlink operations from LEO, the Vireo payload supports to 8-beam operation with independently steerable, shapable beams. Jam resistant and reconfigurable on-orbit to meet evolving threats.
 
 🔗 [[CesiumAstro#Vireo Multi-Beam Communications Payload]]
 
-##### Mynaric Condor Mk3 Optical Lasercom Terminals
+##### [[Mynaric]] Condor Mk3 Optical Lasercom Terminals
 
 CONDOR Mk3 is an [Optical Communications](https://www.nasa.gov/technology/space-comms/optical-communications-overview/) Terminal (OCT) purpose-built to address the growing need of high-bandwidth, secure, license-free and cost-efficient satellite communications for next-generation constellations. The versatile terminal enables intra-plane and cross-plane inter-satellite connectivity in low Earth orbit (LEO) for various applications.
 

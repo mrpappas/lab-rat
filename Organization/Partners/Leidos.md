@@ -37,9 +37,10 @@ sort published desc
 ```
 %%
 
-| File                                                                                                                                                                                   | Published          |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[News/Rocket Lab Signs Deal with Leidos to Launch Four HASTE Missions.md\|Rocket Lab Signs Deal with Leidos to Launch Four HASTE Missions]]                                           | September 12, 2023 |
-| [[News/Rocket Lab Debuts HASTE Rocket with First Successful Suborbital Launch from Virginia.md\|Rocket Lab Debuts HASTE Rocket with First Successful Suborbital Launch from Virginia]] | June 17, 2023      |
+| File                                                                                                                                                                                     | Published          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[News/Rocket Lab Signs Deal with Leidos to Launch Four HASTE Missions.md\|Rocket Lab Signs Deal with Leidos to Launch Four HASTE Missions]]                                             | September 12, 2023 |
+| [[News/Rocket Lab Debuts HASTE Rocket with First Successful Suborbital Launch from Virginia.md\|Rocket Lab Debuts HASTE Rocket with First Successful Suborbital Launch from Virginia]]   | June 17, 2023      |
+| [[News/Rocket Lab Introduces Suborbital Testbed Rocket, Selected for Hypersonic Test Flights.md\|Rocket Lab Introduces Suborbital Testbed Rocket, Selected for Hypersonic Test Flights]] | April 17, 2023     |
 
 %%DATAVIEW_PUBLISHER: end %%

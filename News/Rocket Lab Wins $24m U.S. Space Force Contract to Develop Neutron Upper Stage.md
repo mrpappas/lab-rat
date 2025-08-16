@@ -8,6 +8,7 @@ published: 2021-09-27
 description: "The agreement will fund the development of Neutron’s upper stage launch system in support of national security and defense requirements."
 customer:
  - "[[U.S. Space Force]]"
+contract: "[[SSC Neutron Upper Stage Development]]"
 tags:
  - neutron
  - contract

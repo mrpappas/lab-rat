@@ -11,7 +11,7 @@ Photon is Rocket Lab’s flight proven, configurable spacecraft tailored for mis
 | ------------------------------------------ | ----------- | -------- |
 | [[014 - I Can't Believe It's Not Optical]] | Launched    | 1        |
 | [[019 - They Go Up So Fast]]               | Launched    | 1        |
-| [[VICTUS HAZE]]                            | In Progress | 1        |
+| [[VICTUS HAZE]]                            | Pending     | 1        |
 | [[LOXSAT]]                                 | In Progress | 1        |
 ## Specifications
 

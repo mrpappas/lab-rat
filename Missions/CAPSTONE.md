@@ -16,12 +16,6 @@ CAPSTONE is one of the first steps to learn how to operate more robust missions 
 🔗 [CAPSTONE Mission Update to Interplanetary Small Satellite Conference](http://www.intersmallsatconference.com/past/2024/A.2%20-%20Gardner/Gardner%20CAPSTONE_ISSC%202024%2004_30_24.pdf)
 ![[Pasted image 20241230003604.png]]
 
-
-### Links
-
-🔗 [NASA](https://www.nasa.gov/mission/capstone/) 
-🔗 [Rocket Lab](https://rocketlabcorp.com/missions/lunar/)
-🔗 [EO Portal](https://www.eoportal.org/ftp/satellite-missions/c/Capstone_151021/Capstone.html)
 ## Launch
 
 🚀 [[027 - CAPSTONE]]
@@ -39,11 +33,11 @@ CAPSTONE is one of the first steps to learn how to operate more robust missions 
 
 ## Objectives
 
-- ### ✅ Validate and demonstrate NRHO / highly dynamic Earth-Moon Operations. 
+✅ **Validate and demonstrate NRHO / highly dynamic Earth-Moon Operations.** 
 	The first mission objective is focused on mitigating technical uncertainties associated with operating in the uniquely beneficial and challenging orbital regime defined as NRHO (Near Rectilinear Halo Orbits). This objective will include demonstrating navigation capabilities and validating station-keeping strategies and operational simulations. This objective will directly support future missions through dissemination of operational information and by obtaining operational experience in this unique orbital regime.
-- ### ✅ Inform future lunar exploration requirements and operations. 
+✅ **Inform future lunar exploration requirements and operations.** 
 	The second CAPSTONE mission objective is focused on building experience operating in complex lunar orbital regimes to inform future lunar exploration requirements and operations, including human exploration flights with lower risk thresholds and higher certainty of success requirements. This will include the establishment of commercially available capacity to support NASA, commercial, and international lunar missions in the future. This objective also seeks to demonstrate the capacity of innovative NASA-industry approaches to rapidly bring capabilities to the Moon and challenge current expectations for cost and schedule.
-- ### ✅ Demonstrate and accelerate the infusion of the CAPS (Cislunar Autonomous Positioning System). 
+✅ **Demonstrate and accelerate the infusion of the CAPS (Cislunar Autonomous Positioning System).** 
 	The third objective is focused on demonstrating core technical components of CAPS in an orbital demonstration. This objective will include collaboration with the operations team at NASA Goddard Space Flight Center to demonstrate inter-spacecraft ranging between the CAPSTONE spacecraft and the Lunar Reconnaissance Orbiter (LRO) currently in operation at the Moon. In addition to demonstrating key inter-spacecraft navigation in cislunar space, CAPSTONE will also enhance the technology readiness level of the CAPS software. This accelerated maturation will permit it to be available to support near term flight plans to the Moon and to be more widely adopted by future lunar missions and thus increase the value of this peer-to-peer navigation capability.
 
 ## Mission Timeline
@@ -100,3 +94,9 @@ Planned safe disposal to heliocentric orbit or lunar surface.
 ![](https://www.youtube.com/watch?v=EIodnH5aFI8)
 
 🔗 Backup Link: https://www.youtube.com/watch?v=EIodnH5aFI8
+
+### Links
+
+🔗 [NASA](https://www.nasa.gov/mission/capstone/) 
+🔗 [Rocket Lab](https://rocketlabcorp.com/missions/lunar/)
+🔗 [EO Portal](https://www.eoportal.org/ftp/satellite-missions/c/Capstone_151021/Capstone.html)

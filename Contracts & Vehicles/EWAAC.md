@@ -3,13 +3,14 @@ customer: "[[U.S. Air Force]]"
 tags: 
  - HASTE
 ---
-#HASTE
+[[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Contracts & Vehicles]]</span>  <span style="color: LightSlateGray">></span>  EWAAC
 
 >[!summary] EWAAC
 >**Customer**: [[U.S. Air Force]]
-**Contract Value**: $46 Billion (capped)
+**Contract Value**: $46 Billion
 **Type**: IDIQ
 **Period**: Through 2031
+**Vehicle**: [[HASTE]]
 >
 >The [AFLCMC Armament Directorate](https://www.aflcmc.af.mil/WELCOME/Organizations/Armament-Directorate/) has rolled out the Enterprise-Wide Agile Acquisition Contract (EWAAC) IDIQ, capped at $46B through 2031. This initiative is designed to rapidly cater to the [AFPEO](https://ww3.safaq.hq.af.mil/About-Us/Fact-Sheets/Display/Article/430542/about-peocm/)'s weapons requirements, primarily emphasizing Armament and the Digital Trinity. Leveraging the provisions of [FAR part 16.5](https://www.acquisition.gov/far/part-16#FAR_Subpart_16_5), the goal is to expedite the acquisition process. It's important to note that this contract doesn't have predetermined funding. Instead, it will draw upon funds from both interagency collaborations and external agency allocations, as channeled via the AFPEO Weapons portfolio and supplementary program funds provided.
 >
@@ -18,9 +19,11 @@ tags:
 
 ![[Pasted image 20250415161523.png|300]]
 
-## Rocket Lab's Involvement
+## Activity
 
-April 14 2025 Rocket Lab was on-ramped to the contract "to bid for contracts and task orders served by its Hypersonic Accelerator Suborbital Test Electron (HASTE) launch vehicle, as well as other engineering, design, and launch services."
+### On-ramp - April 14 2025
+
+Rocket Lab was on-ramped to the contract "to bid for contracts and task orders served by its Hypersonic Accelerator Suborbital Test Electron (HASTE) launch vehicle, as well as other engineering, design, and launch services."
 [[Rocket Lab Onramped To Multi-Billion Dollar U.S. and U.K. Defense Contracts To Expand Hypersonic Technology Development with HASTE|🔗 Source]]
 
 >[!quote] Sir Peter Beck (CEO) on being selected for EWAAC + UK MOD HTCDF

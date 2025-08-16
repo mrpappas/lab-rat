@@ -7,6 +7,7 @@ published: 2024-01-08
 description: "*As the prime contractor, Rocket Lab will design, build, test, and operate the Tranche 2 Transport Layer-Beta satellites for SDA’s Proliferated Warfighter Space Architecture (PWSA)*"
 customer: "[[Space Development Agency (SDA)]]"
 mission: "[[SDA Tranche 2 - Transport Layer]]"
+contract: "[[SDA Proliferated Warfighter Space Architecture (PWSA)]]"
 tags:
   - space-systems
 ---

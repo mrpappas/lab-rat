@@ -8,6 +8,7 @@ published: 2025-01-07
 description: "*Long Beach, California. 07 January, 2025.* Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced it has been selected to be a member of the team, led by Kratos Defense &amp; Security Solutions, Inc. (Nasdaq: KTOS) (“Kratos”), awarded a five-year OTA contract for the Multi-Service Advanced Capability Hypersonic Test Bed (MACH-TB) 2.0 under Task Area 1. The total potential value of the MACH-TB 2.0 Contract Award over a five-year period is $1.45 billion. The Office of the Under Secretary of Defense for Research and..."
 customer:
  - "[[Kratos]]"
+contract: "[[MACH-TB]]"
 tags: 
  - HASTE
 ---

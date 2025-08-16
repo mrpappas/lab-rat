@@ -8,6 +8,7 @@ mission_name: "Coming To A Storm Near You"
 launch_date: 2023-05-26 03:46
 outcome: ✅
 customer: "[[NASA]]"
+contract: "[[VADR]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"
 orbit_type: "[[🌍 Orbits#LEO]]"
@@ -38,6 +39,7 @@ More info on TROPICS: [Mission Overview | TROPICS](https://tropics.ll.mit.edu/CM
 | **Launch Date**  | 2023-05-26 03:46                                                                                                  |
 | **Outcome**      | ✅ Success                                                                                                         |
 | **Customer**     | [[NASA]]                                                                                                          |
+| Contract         | [[VADR]]                                                                                                          |
 | **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                                 |
 | **Vehicle**      | [[Electron]]                                                                                                      |
 | **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                                 |

@@ -4,67 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a1f7b538b9d309dc",
+        "id": "8c7f90b9603b2b2b",
         "type": "tabs",
-        "dimension": 33.33333333333333,
         "children": [
           {
-            "id": "6595239bc372d858",
+            "id": "d26f2b822b96de82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contracts & Vehicles/EWAAC.md",
+                "file": "Missions/VICTUS HAZE.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "EWAAC"
-            }
-          }
-        ]
-      },
-      {
-        "id": "0cb5cab509d2f710",
-        "type": "tabs",
-        "dimension": 32.43879472693032,
-        "children": [
-          {
-            "id": "7f2d639ea44f8fa4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Contracts & Vehicles/NSSL Phase 3.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "NSSL Phase 3"
-            }
-          }
-        ]
-      },
-      {
-        "id": "b4a7b2ba567127c6",
-        "type": "tabs",
-        "dimension": 34.227871939736346,
-        "children": [
-          {
-            "id": "a2cdc59790631e55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Contracts & Vehicles/VADR.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "VADR"
+              "title": "VICTUS HAZE"
             }
           }
         ]
@@ -99,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aspera",
+                "query": "loxsat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,8 +75,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -141,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Space Systems/Spacecraft/Explorer.md",
+                "file": "Missions/VICTUS HAZE.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Explorer"
+              "title": "Backlinks for VICTUS HAZE"
             }
           },
           {
@@ -160,11 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Launches.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Launches"
             }
           },
           {
@@ -241,53 +196,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a2cdc59790631e55",
+  "active": "6449ebb6b9cf2b96",
   "lastOpenFiles": [
-    "Contracts & Vehicles/EWAAC.md",
-    "Contracts & Vehicles/VADR.md",
-    "Pasted image 20250803101356.png",
-    "News/Rocket Lab Selected to Provide Venture Class Launch Services for NASA.md",
-    "News/Rocket Lab Selected by NASA to Provide Neutron Launch Services Under VADR Launch Contract.md",
-    "News/NASA Selects Rocket Lab to Launch TROPICS Mission.md",
-    "News/Rocket Lab to Launch NASA Astrophysics Science Mission on Electron to Study Galaxy Evolution.md",
     "Missions/Viasat Echo.md",
-    "Contracts & Vehicles/NSSL Phase 3.md",
-    "News/Rocket Lab Onramped To Multi-Billion Dollar U.S. and U.K. Defense Contracts To Expand Hypersonic Technology Development with HASTE.md",
-    "News/Rocket Lab Granted Air Force Research Lab Award to Showcase Digital Engineering with New Archimedes Rocket Engine.md",
-    "Interviews/Rocket Lab 2022 Investor Day & Neutron Update.md",
-    "News/Rocket Lab Wins $24m U.S. Space Force Contract to Develop Neutron Upper Stage.md",
-    "News/Rocket Lab’s Neutron Rocket On-Ramped to U.S. Space Force’s $5.6b National Security Space Launch (NSSL) program.md",
-    "Interviews/TD Cowan 45th Annual Aerospace & Defense Conference.md",
-    "Interviews/Vince is Bullish Q1 Interview.md",
-    "Home.md",
-    "Rocket Lab.md",
-    "Missions/ESCAPADE.md",
-    "Space Systems/Spacecraft/Explorer.md",
-    "README.md",
-    "Vault-Assets/Images/Pasted image 20250803005903.jpg",
-    "Organization/Partners/Capella Space.md",
+    "Missions/VICTUS HAZE.md",
+    "Vault-Assets/Images/Pasted image 20250816133700.jpg",
+    "Missions/LOXSAT.md",
+    "Vault-Assets/Images/Pasted image 20250816131957.png",
+    "Organization/Partners/Eta Space.md",
+    "Vault-Assets/Images/Pasted image 20250816131604.jpg",
+    "Pasted image 20250816130223.jpg",
+    "Space Systems/Spacecraft/Photon.md",
+    "Hardware.md",
+    "Space Systems/Spacecraft/Pioneer.md",
+    "Missions/Venus Life Finder.md",
+    "Launch/Launches/019 - They Go Up So Fast.md",
+    "Launch/Launches/014 - I Can't Believe It's Not Optical.md",
+    "Space Systems/Spacecraft/Lightning.md",
+    "Missions/Globalstar (MDA) Satellite Buses.md",
+    "Organization/Partners/Globalstar.md",
     "Missions/SDA Tranche 2 - Transport Layer.md",
-    "Missions/SDA Tranche 1 - Initial Warfighting Capability.md",
-    "Missions/SDA Proliferated Warfighter Space Architecture (PWSA).md",
-    "Missions/OSP-4.md",
+    "Organization/Partners/Space Development Agency (SDA).md",
+    "Space Systems/Spacecraft/Flatellite.md",
+    "Space Systems/Spacecraft/Explorer.md",
+    "Missions/ESCAPADE.md",
+    "Missions/CAPSTONE.md",
+    "Home.md",
+    "Launch/Launches/069 - The Harvest Goddess Thrives.md",
+    "Vault-Assets/Images/Pasted image 20250816122426.jpg",
+    "Vault-Assets/Images/Pasted image 20250816122117.png",
+    "Vault-Assets/Images/Pasted image 20250816111327.jpg",
+    "Vault-Assets/Images/Pasted image 20250816115225.png",
+    "News/Rocket Lab Selected by Space Systems Command to Build and Launch Spacecraft for Tactically Responsive Space (TacRS) Mission.md",
+    "Interviews/Citi 2025 Global Industrial Tech and Mobility Conference.md",
+    "Missions/Varda W Missions.md",
+    "Organization/Partners/Varda Space Industries.md",
+    "Space Systems/Payloads",
+    "Pasted image 20250804193306.png",
+    "Vault-Assets/PDFs/RW-0.01-Datasheet-v3.0.pdf",
+    "Vault-Assets/Images/Pasted image 20250803171931.png",
+    "Vault-Assets/PDFs/OSP-4_Starts_Here (2).pdf",
     "Contracts & Vehicles",
-    "Pasted image 20250803000338.png",
-    "Vault-Assets/Images/Pasted image 20250803000345.png",
-    "Vault-Assets/Images/Pasted image 20250111224806.png",
-    "Vault-Assets/Images/Pasted image 20250621164838.png",
-    "Vault-Assets/Images/Pasted image 20250720171454.png",
-    "1_ty0aYYHHlqasgLsY49oHvw.webp",
-    "Vault-Assets/Images/Pasted image 20250711223143.png",
     "Vault-Assets/PDFs/RW-0.003-Datasheet-v3.0.pdf",
-    "Vault-Assets/Images/Pasted image 20250711172134.png",
     "Vault-Assets/PDFs/EXC22_017 - Photon Doc_ƒ [Web].pdf",
     "Space Systems/Propulsion",
     "Vault-Assets/PDFs/Photon spec sheet.pdf",
     "Misc/Commercial Space Stations",
     "Vault-Assets/PDFs/F66-The-Mountain-God-Guards-Presskit-final-compressed.pdf",
-    "Vault-Assets/PDFs/RL-F65-BlackSky-Full-Stream-Ahead-Presskit-compressed.pdf",
-    "Vault-Assets/PDFs/9d0f89b9-b354-4675-904a-d7c5cef7d79b.pdf",
-    "Vault-Assets/PDFs/29661373-7549-4d34-90d1-5f9eac8acb81.pdf",
     "Untitled.canvas",
     "Subsidiaries/Untitled.canvas"
   ]

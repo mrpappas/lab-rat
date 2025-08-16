@@ -7,6 +7,7 @@ author:
 published: 2024-11-12
 description: "The federal defense contract will see Rocket Lab collaborate with AFRL on advanced digital engineering processes for the Archimedes engine, a critical integration for National Security Space Launch."
 customer: "[[U.S. Air Force]]"
+contract: "[[AFRL Archimedes Digital Engineering Award]]"
 tags:
   - "neutron"
   - "award"
