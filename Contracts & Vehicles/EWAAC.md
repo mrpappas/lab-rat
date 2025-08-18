@@ -59,7 +59,7 @@ An FOE refers to one of the statutory circumstances enumerated at FAR 16.505(b)
 ![[Pasted image 20250418003234.png]]
 ## Competition
 
-As of April 14 2025 (date of selection) there are [298 eligible Vendors](https://www.ewaacportal.com/awardees) and approximately [$4.5B of the capped $46B awarded](https://www.ewaacportal.com/awards).  
+As of April 14 2025 (date of selection) there are [297 eligible Vendors](https://www.ewaacportal.com/awardees) and approximately [$4.5B of the capped $46B awarded](https://www.ewaacportal.com/awards).  
 
 The largest single award being for [$1,414,668,201.96 to Raytheon](https://www.highergov.com/contract/FA865621DA004-FA865622FA071/)  to deliver [HACM](https://en.wikipedia.org/wiki/Hypersonic_Attack_Cruise_Missile), a program to operationalize the [SCIFiRE](https://en.wikipedia.org/wiki/SCIFiRE) prototype design for fighter aircraft.
 

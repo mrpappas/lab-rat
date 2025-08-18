@@ -6,10 +6,8 @@ author:
   - "[[Rocket Lab]]"
 published: 2021-04-22
 description: "*Long Beach, California. April 22nd , 2021 –* Rocket Lab, the global leader in launch and space systems, will play a critical role in an international climate change mission by developing a Mission Operations Control Center (MOCC) for MethaneSAT, a unique satellite mission created to foster and accelerate reductions in the emissions of methane, a potent greenhouse gas responsible for at least a quarter of today’s planetary warming."
-customer:
- - "[[MethaneSAT]]"
 mission:
- - "[[Mission Operations Control Center for MethaneSAT]]"
+ - "[[MethaneSAT]]"
 tags:
  - space-systems
 ---
@@ -20,8 +18,7 @@ tags:
 **Author:** [[Rocket Lab]]
 **Published:** 2021-04-22
 **Description:** *Long Beach, California. April 22nd , 2021 –* Rocket Lab, the global leader in launch and space systems, will play a critical role in an international climate change mission by developing a Mission Operations Control Center (MOCC) for MethaneSAT, a unique satellite mission created to foster and accelerate reductions in the emissions of methane, a potent greenhouse gas responsible for at least a quarter of today’s planetary warming.
-**Customer:** [[MethaneSAT]]
-**Mission:** [[Mission Operations Control Center for MethaneSAT]]
+**Mission:** [[MethaneSAT]]
 
 **Long Beach, California. April 22<sup>nd</sup> , 2021 –** Rocket Lab, the global leader in launch and space systems, will play a critical role in an international climate change mission by developing a Mission Operations Control Center (MOCC) for MethaneSAT, a unique satellite mission created to foster and accelerate reductions in the emissions of methane, a potent greenhouse gas responsible for at least a quarter of today’s planetary warming.
 

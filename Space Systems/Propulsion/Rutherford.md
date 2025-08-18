@@ -12,7 +12,7 @@ Rutherford is a liquid-propellant rocket engine designed by Rocket Lab and manuf
 | Spec                                     | Value                                                                                           |
 | ---------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | **Lift-off Thrust (sea level / vacuum)** | 25 kN / 26 kN                                                                                   |
-| **ISP (sea level / thrust)**             | 311 s / 343 s                                                                                   |
+| **ISP (sea level / vacuum)**             | 311 s / 343 s                                                                                   |
 | **Cycle**                                | Electric-pump-fed                                                                               |
 | **Thrust to Weight Ratio**               | 72.8                                                                                            |
 | **Dry Mass**                             | 35 kg                                                                                           |

@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8c7f90b9603b2b2b",
+        "id": "f5e43bd59b98fe30",
         "type": "tabs",
         "children": [
           {
-            "id": "d26f2b822b96de82",
+            "id": "9fb0feb43c33665d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Missions/VICTUS HAZE.md",
+                "file": "Launch/Electron.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "VICTUS HAZE"
+              "title": "Electron"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "loxsat",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Missions/VICTUS HAZE.md",
+                "file": "Launch/Electron.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for VICTUS HAZE"
+              "title": "Backlinks for Electron"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Launches.md",
+                "file": "Missions/VICTUS HAZE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Launches"
+              "title": "Outgoing links from VICTUS HAZE"
             }
           },
           {
@@ -198,43 +198,44 @@
   },
   "active": "6449ebb6b9cf2b96",
   "lastOpenFiles": [
+    "Space Systems/Propulsion/Rutherford.md",
+    "Launch/Electron.md",
+    "Pasted image 20250818181800.png",
+    "Pasted image 20250818181556.png",
+    "Pasted image 20250818181326.png",
+    "Hardware.md",
     "Missions/Viasat Echo.md",
     "Missions/VICTUS HAZE.md",
-    "Vault-Assets/Images/Pasted image 20250816133700.jpg",
-    "Missions/LOXSAT.md",
-    "Vault-Assets/Images/Pasted image 20250816131957.png",
-    "Organization/Partners/Eta Space.md",
-    "Vault-Assets/Images/Pasted image 20250816131604.jpg",
-    "Pasted image 20250816130223.jpg",
-    "Space Systems/Spacecraft/Photon.md",
-    "Hardware.md",
-    "Space Systems/Spacecraft/Pioneer.md",
-    "Missions/Venus Life Finder.md",
-    "Launch/Launches/019 - They Go Up So Fast.md",
-    "Launch/Launches/014 - I Can't Believe It's Not Optical.md",
-    "Space Systems/Spacecraft/Lightning.md",
-    "Missions/Globalstar (MDA) Satellite Buses.md",
+    "Organization/Partners/Firefly Aerospace.md",
+    "Missions.md",
+    "Organization/Partners/The Aerospace Corporation.md",
+    "Organization/Partners/True Anomaly.md",
+    "Organization/Partners/EchoStar.md",
     "Organization/Partners/Globalstar.md",
-    "Missions/SDA Tranche 2 - Transport Layer.md",
-    "Organization/Partners/Space Development Agency (SDA).md",
-    "Space Systems/Spacecraft/Flatellite.md",
+    "Organization/Partners/The University of Auckland.md",
+    "Organization/Partners/Telesat.md",
+    "Missions/STP-S30.md",
+    "The Aerospace Corporation.md",
+    "Space Systems/Payloads/Phoenix.md",
+    "Space Systems/Payloads/Starlite.md",
+    "Space Systems/Payloads/Heimdall.md",
+    "Space Systems/Propulsion/Archimedes.md",
     "Space Systems/Spacecraft/Explorer.md",
-    "Missions/ESCAPADE.md",
+    "Missions/LOXSAT.md",
+    "Space Systems/Spacecraft/Photon.md",
     "Missions/CAPSTONE.md",
-    "Home.md",
-    "Launch/Launches/069 - The Harvest Goddess Thrives.md",
-    "Vault-Assets/Images/Pasted image 20250816122426.jpg",
-    "Vault-Assets/Images/Pasted image 20250816122117.png",
-    "Vault-Assets/Images/Pasted image 20250816111327.jpg",
-    "Vault-Assets/Images/Pasted image 20250816115225.png",
-    "News/Rocket Lab Selected by Space Systems Command to Build and Launch Spacecraft for Tactically Responsive Space (TacRS) Mission.md",
-    "Interviews/Citi 2025 Global Industrial Tech and Mobility Conference.md",
-    "Missions/Varda W Missions.md",
-    "Organization/Partners/Varda Space Industries.md",
+    "Contracts & Vehicles/EWAAC.md",
+    "Missions/Aspera.md",
+    "Vault-Assets/Images/afn.avif",
+    "Vault-Assets/Images/Pasted image 20250816191354.png",
+    "Vault-Assets/Images/afn 1.avif",
+    "Missions/Venus Life Finder.md",
+    "Pasted image 20250816154356.png",
+    "Vault-Assets/Images/Pasted image 20250816154523.png",
+    "Vault-Assets/Images/Pasted image 20250816145600.png",
+    "Vault-Assets/Images/Pasted image 20250816150252.png",
     "Space Systems/Payloads",
-    "Pasted image 20250804193306.png",
     "Vault-Assets/PDFs/RW-0.01-Datasheet-v3.0.pdf",
-    "Vault-Assets/Images/Pasted image 20250803171931.png",
     "Vault-Assets/PDFs/OSP-4_Starts_Here (2).pdf",
     "Contracts & Vehicles",
     "Vault-Assets/PDFs/RW-0.003-Datasheet-v3.0.pdf",

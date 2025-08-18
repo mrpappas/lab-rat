@@ -1,22 +1,23 @@
 ---
 customer: "[[NASA]]"
+contract: Astrophysics Explorers Program
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Missions]] <span style="color: LightSlateGray">></span> Aspera
+## Mission Details
 
->[!summary] Aspera Mission
 **Customer**: [[NASA]]
 **Contract**: [[VADR]]
 **Type**: Task Order
 **Task Order Value**: $8.2m
 **Period**: NET Q1 2026
->
-Aspera is a 60 kg satellite that will study galaxy evolution through observation of ultraviolet light. Data from Aspera will reveal the inflow and outflow of hot gases in the space between galaxies, known as intergalactic medium, a major component of the universe. 
->
-Aspera uses a larger variant of SFL’s scalable DEFIANT microsatellite platform. Dr. Carlos Vargas (University of Arizona) is the principal investigator for the mission. Aspera is funded under NASA’s Astrophysics Pioneers Program.
->
-Initiated in 2020, the NASA Astrophysics Pioneers Program seeks to develop small-scale astrophysics missions using small satellites, balloons, and modest International Space Station payloads to explore cosmic phenomena.
->
->🔗 https://www.utias-sfl.net/aspera/
 
+Aspera is a 60 kg satellite that will study galaxy evolution through observation of ultraviolet light. Data from Aspera will reveal the inflow and outflow of hot gases in the space between galaxies, known as intergalactic medium, a major component of the universe. 
+
+Aspera uses a larger variant of SFL’s scalable DEFIANT microsatellite platform. Dr. Carlos Vargas (University of Arizona) is the principal investigator for the mission. Aspera is funded under NASA’s Astrophysics Pioneers Program.
+
+Initiated in 2020, the NASA Astrophysics Pioneers Program seeks to develop small-scale astrophysics missions using small satellites, balloons, and modest International Space Station payloads to explore cosmic phenomena.
+
+🔗 https://www.utias-sfl.net/aspera/
 
 
 ![[Pasted image 20250517153101.jpg]]

@@ -1,4 +1,9 @@
+---
+customer: "[[Varda Space Industries]]"
+contract: Varda W Missions
+---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Missions]] <span style="color: LightSlateGray">></span> Varda W Missions
+## Mission Details 
 
 [[Varda Space Industries]]’s mission architecture centers around the [[Varda Space Industries#🛰️ Space Systems#W-Series|W-Series]] spacecraft, which integrates a manufacturing module with a reentry vehicle. These missions are currently launched on SpaceX rideshare and are designed for short-duration operations in [[🌍 Orbits#LEO|Low Earth Orbit]].
 

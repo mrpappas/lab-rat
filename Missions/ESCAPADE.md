@@ -3,8 +3,9 @@
 customer: 
  - "[[NASA]]"
  - "[[University of California Berkeley Space Sciences Laboratory]]"
+contract: SIMPLEx
 ---
-
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Missions]] <span style="color: LightSlateGray">></span> ESCAPADE
 ## Mission Details
 
 **Customer:** [[NASA]], [[University of California Berkeley Space Sciences Laboratory]]

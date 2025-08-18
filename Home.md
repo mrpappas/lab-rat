@@ -10,7 +10,7 @@ This provides a great high level analysis of Rocket Lab's current business and p
 
 -  🚀 [[Launches]]
 - 💼 [[SEC Filings (All)]]
-- 💸 [[Insider Sales]]
+- 🎯 [[Missions]]
 - 🎙️ [[Interviews]]
 - 🙋 [[People]]
 - 🤝 [[Partners]]
@@ -20,6 +20,7 @@ This provides a great high level analysis of Rocket Lab's current business and p
 - 🏛️ [[Board of Directors]]
 - 🟢 [[Subsidiaries]]
 - 📊 [[Earnings Calls]]
+- 💸 [[Insider Sales]]
 
 ## 📈 Latest Earnings Call
 

@@ -1,17 +1,17 @@
 ---
-
 title: "U.S. Space Force Awards Rocket Lab Launch Contract for Space Test Program (STP)-S30 "
-source: "https://www.rocketlabusa.com/updates/u-s-space-force-awards-rocket-lab-launch-contract-for-space-test-program-stp-s30/"
+source: https://www.rocketlabusa.com/updates/u-s-space-force-awards-rocket-lab-launch-contract-for-space-test-program-stp-s30/
 author:
   - "[[Rocket Lab]]"
 published: 2024-04-08
-description: "The mission will be Rocket Lab’s third for the U.S. Space Force, further strengthening Electron’s position as the leading small launch vehicle delivering reliable and responsive launch to the DoD."
+description: The mission will be Rocket Lab’s third for the U.S. Space Force, further strengthening Electron’s position as the leading small launch vehicle delivering reliable and responsive launch to the DoD.
 customer: "[[U.S. Space Force]]"
+partner: "[[Organization/Partners/The Aerospace Corporation]]"
 contract: "[[Orbital Services Program 4]]"
 mission: "[[STP-S30]]"
 tags:
-  - "electron"
-  - "contract"
+  - electron
+  - contract
 ---
 >[!summary]
 #electron #contract

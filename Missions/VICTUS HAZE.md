@@ -1,35 +1,38 @@
+---
+customer: "[[U.S. Space Force]]"
+contract: Tractically Responsive Space (TacRS)
+---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Missions]] <span style="color: LightSlateGray">></span> VITCUS HAZE
-
 ## Mission Details
 
 **Customer**: [[U.S. Space Force]], Space Systems Command
 **Program**: [Tactically Responsive Space (TacRS)](https://www.csis.org/analysis/tactically-responsive-space-emerging-new-deterrence-tool), under SSC’s Space Safari in partnership with the Defense Innovation Unit (DIU) and [SpaceWERX](https://spacewerx.us/)
 
-**VICTUS HAZE** is part of the U.S. Space Force’s Tactically Responsive Space (TacRS) program, designed to test end-to-end rapid response capability. Rocket Lab is providing a customized [[Photon]] bus with rendezvous and proximity operations (RPO) hardware and autonomy stack, launched on [[Electron]]. The mission will simulate a real-world contingency: the spacecraft and ground teams will be placed in hot standby, then given a 24-hour notice to launch, with the expectation of achieving orbit and executing RPO/SDA tasks shortly after.
+**VICTUS HAZE** is part of the U.S. Space Force’s Tactically Responsive Space (TacRS) program, designed to test end-to-end rapid response capability. Rocket Lab is providing a customized [[Photon]] bus with rendezvous and proximity operations (RPO) hardware and autonomy stack, launched on [[Electron]]. The mission will simulate a real-world contingency: the spacecraft and ground teams will be placed in hot standby, then given a 24-hour notice to launch, with the expectation of achieving orbit and executing RPO/SDA tasks shortly after. 
 
-Unlike [[#VICTUS NOX]] (which emphasized rapid call-up and deployment), VICTUS HAZE pushes further into on-orbit maneuvering and characterization. Rocket Lab’s vehicle is intended to approach and inspect a target spacecraft (operated by [[True Anomaly]]), demonstrating cooperative and potentially non-cooperative RPO. The campaign will exercise tasking, launch ops, command uplink, and autonomous decision-making under compressed timelines, feeding into SSC’s efforts to field repeatable TacRS architectures.
+Rocket Lab’s vehicle is intended to approach and inspect a target spacecraft (operated by [[True Anomaly]], launched by Firefly Alpha), demonstrating cooperative and potentially non-cooperative RPO. The campaign will exercise tasking, launch ops, command uplink, and autonomous decision-making under compressed timelines, feeding into SSC’s efforts to field repeatable TacRS architectures.
 
 
 ![[Pasted image 20250816122117.png]]
-
-## Launch
-
-**Vehicle**: Rocket Lab [[Electron]]
-**Location**: [[Launch Complex 1]] or [[Launch Complex 2]]
-**Timeline**: Likely Fall 2025
 
 ## Spacecraft
 
 1. [[#VICTUS HAZE 1 (True Anomaly Jackal)]]
 2. [[#VICTUS HAZE 2 (Rocket Lab Photon)]]
 
-### VICTUS HAZE 1 (True Anomaly Jackal)
+## VICTUS HAZE 1 (True Anomaly Jackal)
 
 #### Summary
 
-This satellite, built by [[True Anomaly]], provides the target platform in a cooperative RPO scenario, maneuvering in orbit while Rocket Lab’s satellite performs inspection and characterization. It is built on their [[True Anomaly#Jackal]] Bus: 
+This satellite, built by [[True Anomaly]], provides the target platform in a cooperative RPO scenario, maneuvering in orbit while Rocket Lab’s satellite performs inspection and characterization. It is built on their [[True Anomaly#Jackal|Jackal]] Bus: 
 
 ![[True Anomaly#Jackal]]
+
+#### Launch
+
+**Vehicle**: Firefly Alpha
+**Location**: Vandenberg SFB
+**Timeline**: Likely Fall 2025
 
 #### Payload
 
@@ -37,7 +40,7 @@ This satellite, built by [[True Anomaly]], provides the target platform in a coo
 
 While not officially detailed, [[True Anomaly#Jackal|Jackal]] is a multi-mission, payload-agnostic platform with configurable hardpoints. It supports payloads ranging from ~50 kg (LEO baseline) to ~200 kg (GEO/cislunar). Its advertised suite includes multi-spectral RPO sensors (EO/IR, optical, RF), though exact hardware for HAZE isn’t published. Demo Jackal craft have featured a 4 MP camera plus IR sensors, which may reflect the baseline configuration here.
 
-### VICTUS HAZE 2 (Rocket Lab Photon)
+## VICTUS HAZE 2 (Rocket Lab Photon)
 
 #### Summary
 
@@ -60,7 +63,13 @@ Built on the [[Photon]] bus, for VICTUS HAZE it will serve as the inspector spac
 | Propulsion        | [[Curie]] Bi-Propellant Chemical Engine, > 650 m/sec, 6 DOF Cold Gas RCS                               |
 | Comms             | S-Band TT&C, X-band Mission Data Link                                                                  |
 | Payload           | LLNL monolithic fused-silica optical telescope (SDA)                                                   |
-| Role in HAZE**    | Inspector spacecraft; approaches and characterizes Jackal under TacRS hot-standby / 24-hr launch rules |
+| Role in HAZE      | Inspector spacecraft; approaches and characterizes Jackal under TacRS hot-standby / 24-hr launch rules |
+
+#### Launch
+
+**Vehicle**: Rocket Lab [[Electron]]
+**Location**: [[Launch Complex 1]] or [[Launch Complex 2]]
+**Timeline**: Likely Fall 2025
 
 #### Payload
 
@@ -86,7 +95,7 @@ The system builds on LLNL’s earlier work for the Tactically Responsive Launch-
  ☑️ 2. Critical Design Review (CDR) - Successfully completed in early 2025, clearing the path to production. [Source](https://www.businesswire.com/news/home/20250806787028/en/Rocket-Lab-Clears-Integration-Milestone-for-VICTUS-HAZE-Delivering-End-to-End-Capabilities-for-Responsive-Space-Operations)
  ☑️ 3. Systems Integration Review (SIR) & Integration - In May 2025, all spacecraft components, systems, and software were validated and integration proceeded.
  ⌛ 4. Final Testing - Now entering final testing phase ahead of launch, completed within ~15 months from contract award.
-🚀  5. Hot Standby, Notice to Launch, Rapid Deployment - Team awaits a go‑order; must achieve launch within 24-hour notice, proceeding through command operating phases and on-orbit RPO/SDA operations alongside True Anomaly’s Jackal vehicle.
+ 🟪 5. Hot Standby, Notice to Launch, Rapid Deployment - Team awaits a go‑order; must achieve launch within 24-hour notice, proceeding through command operating phases and on-orbit RPO/SDA operations alongside True Anomaly’s Jackal vehicle.
 
 
 ## VICTUS NOX

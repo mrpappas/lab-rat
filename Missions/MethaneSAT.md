@@ -1,7 +1,9 @@
 ---
-name: MethaneSAT
-website: https://en.wikipedia.org/wiki/MethaneSAT
+customer: Environmental Defense Fund
+contract: Private / philanthropic (Environmental Defense Fund)
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Missions]] <span style="color: LightSlateGray">></span> MethaneSAT
+## Mission Details 
 
 MethaneSAT is an American-New Zealand space mission launched in 2024 aboard SpaceX's Transporter 10 rideshare mission. It is an Earth observation satellite that will monitor and study global methane emissions in order to combat climate change. The spacecraft will carry a high performance spectrometer methane sensing system, which will allow the spacecraft to take high resolution measurements of global methane emissions from roughly 50 major regions across Earth.
 
@@ -9,12 +11,12 @@ The mission is jointly funded and operated by the Environmental Defense Fund (ED
 
 https://en.wikipedia.org/wiki/MethaneSAT
 
-## 📰 News
+## News
 %%DATAVIEW_PUBLISHER: start
 ```
 table published as "Published"
 from "News"
-where contains(customer, [[MethaneSAT]])
+where contains(mission, [[MethaneSAT]])
 sort published desc
 ```
 %%

@@ -1,15 +1,13 @@
 ---
 customer: "[[Space Development Agency (SDA)]]"
-satellites: 18
-aliases: ["T2TL Beta — Rocket Lab"]
+contract: "[[SDA Proliferated Warfighter Space Architecture (PWSA)]]"
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Missions]] <span style="color: LightSlateGray">></span> SDA Tranche 2 - Transport Layer
+## Mission Details
 
-> **Customer:** [[Space Development Agency (SDA)]]  
-> **Contract:** $515 million · 18 **Beta-variant** satellites
-> **Satellite Bus**: Rocket Lab [[Lightning]]
-
-## Summary
+**Customer:** [[Space Development Agency (SDA)]]  
+**Contract:** $515 million · 18 **Beta-variant** satellites
+**Satellite Bus**: Rocket Lab [[Lightning]]
 
 Rocket Lab is prime-contractor for **18 Beta satellites** in **Tranche 2 Transport Layer (T2TL)** of the [[SDA Proliferated Warfighter Space Architecture (PWSA)]].  
 The Beta variant adds **UHF / TACSATCOM** and advanced networking payloads on top of the baseline optical cross-link design.

@@ -7,7 +7,7 @@ author:
 published: 2022-11-09
 description: "*The contracts represent the highest value orders for Rocket Lab’s separation systems to date*"
 customer: "[[Space Development Agency (SDA)]]"
-mission: "[[SDA Tranche 1 - Initial Warfighting Capability]]"
+contract: "[[SDA Proliferated Warfighter Space Architecture (PWSA)]]"
 tags:
   - space-systems
 ---
@@ -19,7 +19,7 @@ tags:
 **Published:** 2022-11-09
 **Description:** *The contracts represent the highest value orders for Rocket Lab’s separation systems to date*
 **Customer:** [[Space Development Agency (SDA)]]
-**Mission:** [[SDA Tranche 1 - Initial Warfighting Capability]]
+**Contract:** [[SDA Proliferated Warfighter Space Architecture (PWSA)]]
 
 Source: https://www.rocketlabusa.com/updates/rocket-lab-awarded-14m-in-contracts-to-supply-satellite-separation-systems-for-space-development-agencys-tranche-1-transport-layer/
 

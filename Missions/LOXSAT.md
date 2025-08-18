@@ -1,7 +1,8 @@
 ---
 customer: "[[Space Development Agency (SDA)]]"
+contract: NASA's Tipping Point Program
 ---
-
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Missions]] <span style="color: LightSlateGray">></span> LOXSAT
 ## Mission Details
 
 **Customer:** [[Space Development Agency (SDA)]]
@@ -38,8 +39,8 @@ LOXSAT-1 is a small-scale cryogenic technology demonstrator, mounted on a Rocket
 | **Platform/Bus**     | [[Photon]]                                                                                                 |
 | **Payload**          | Spherical LOX tank with active thermal control (PMD, pump, cryocooler, spray-bar injector, heat exchanger) |
 | **Payload Mass**     | 140 kg                                                                                                     |
-| Orbit                | 425-450 km, 40*                                                                                            |
-| Power                | 300 W orbital average power                                                                                |
+| **Orbit**            | 425-450 km, 40*                                                                                            |
+| **Power**            | 300 W orbital average power                                                                                |
 | **Mission Duration** | ~9 months                                                                                                  |
 [Source](https://x.com/rocketrepreneur/status/1857159161240551856/photo/2)
 #### Payload  
@@ -76,7 +77,7 @@ After proving key CFM technologies on LOXSAT, [[Eta Space]] engineers will use t
 ![](https://www.youtube.com/watch?v=Xcm7Q797jPI&ab_channel=EtaSpace)
 
 🔗 [Backup Link](https://www.youtube.com/watch?v=Xcm7Q797jPI&ab_channel=EtaSpace)
-## 📰 News
+## News
 %% DATAVIEW_PUBLISHER: start
 ```
 table published as "Published"
