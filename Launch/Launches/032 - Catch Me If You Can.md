@@ -18,8 +18,6 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/catch-me-i
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  032 - Catch Me If You Can
 
-## Mission Summary 
-
 >[!success] Mission Success
 
 Launched from Pad B at Rocket Lab Launch Complex 1 on New Zealand’s Mahia Peninsula, the “Catch Me If You Can” mission was Rocket Lab’s 32nd Electron launch overall and second recovery mission of 2022.

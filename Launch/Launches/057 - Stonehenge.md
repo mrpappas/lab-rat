@@ -17,7 +17,6 @@ recovery: n/a
 mission_link: 
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  057 - Stonehenge
-## Mission Summary
 
 >[!Success] Mission Success
 

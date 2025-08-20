@@ -20,8 +20,7 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/in-focus/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  015 - In Focus
-## Mission Summary 
-
+ 
 >[!success] Mission Success
 
 'In Focus' was a rideshare mission to low Earth orbit for [[Planet Labs]] and Spaceflight Inc.’s customer [[Canon Electronics]]. The mission deployed a total of 10 satellites to precise and individual orbits from Rocket Lab Launch Complex 1 in Mahia, New Zealand.

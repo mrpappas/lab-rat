@@ -17,8 +17,6 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/it-argos-u
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  031 - It Argos Up From Here
 
-## Mission Summary 
-
 >[!success] Mission Success
 
 The “It Argos Up From Here” mission launched the [[General Atomics Electromagnetic Systems]] designed and manufactured satellite carrying the Argos-4 Advanced Data Collection System (A-DCS) hosted payload. The A-DCS mission is supported by the [National Oceanic and Atmospheric Administration (NOAA)](https://www.noaa.gov/) Cooperative Data and Rescue Services Program, which arranged the launch through the Hosted Payload Solutions contract vehicle administered by the [[U.S. Space Force]]’s Space Systems Command.

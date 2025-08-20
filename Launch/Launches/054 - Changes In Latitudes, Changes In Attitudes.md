@@ -19,7 +19,6 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/changes-in-latitudes-changes-in-attitudes/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  054 - Changes In Latitudes, Changes In Attitudes
-## Mission Summary
 
 >[!Success] Mission Success
 

@@ -17,8 +17,7 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/as-the-crow-flies/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  009 - As The Crow Flies
-## Mission Summary 
-
+ 
 >[!success] Mission Success
 
 This mission lifted-off at 14:22 NZDT, 17th October 2019, from Rocket Lab's [[Launch Complex 1]] on New Zealand’s Māhia Peninsula. Encapsulated in Electron’s fairing was a single spacecraft for Astro Digital, a California-based satellite manufacturer and operator.

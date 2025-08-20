@@ -17,8 +17,7 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/without-mission-a-beat/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  025 - Without Mission A Beat
-## Mission Summary 
-
+ 
 >[!success] Mission Success
 
 Rocket Lab launched the “Without Mission A Beat” mission from Rocket Lab Launch Complex 1 Pad A on April 2, 2022 UTC.  The launch was a dedicated mission for BlackSky through global launch services provider Spaceflight Inc. 

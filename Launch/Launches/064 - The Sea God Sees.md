@@ -15,7 +15,6 @@ recovery: n/a
 mission_link:
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>   <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  064 - The Sea God Sees
-## Mission Summary
 
 >[!success] Mission Success
 

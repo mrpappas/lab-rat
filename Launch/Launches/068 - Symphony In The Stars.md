@@ -15,8 +15,7 @@ recovery: Not Attempt Likely
 mission_link: https://rocketlabcorp.com/missions/missions-launched/symphony-in-the-stars/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>   <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  068 - Symphony In The Stars
-## Mission Summary 
-
+ 
 >[!success] Mission Success
 
 'Symphony In The Stars' was the first of two dedicated missions on Electron to deploy a single spacecraft to a 650km circular Earth orbit for a confidential commercial customer. The mission launched less than 48 hours after Electron's 67th launch, making 'Symphony In The Stars' part of Rocket Lab's fastest launch turnaround from Launch Complex 1 to date.

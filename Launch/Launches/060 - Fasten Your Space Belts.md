@@ -16,7 +16,6 @@ recovery: No attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/fasten-your-space-belts/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  060 - Fasten Your Space Belts
-## Mission Summary
 
 >[!success] Mission Success
 

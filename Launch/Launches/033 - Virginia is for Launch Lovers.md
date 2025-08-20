@@ -18,8 +18,6 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/new-missio
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  033 - Virginia is for Launch Lovers
 
-## Mission Summary 
-
 >[!success] Mission Success
 
 The “Virginia is for Launch Lovers” mission was Rocket Lab's **first [[Electron]] launch from[[ Launch Complex 2]]** at Virginia Space’s Mid-Atlantic Regional Spaceport within [[NASA]]’s [[Wallops Flight Facility]] – a launch pad developed to support Electron missions from U.S. soil for government and commercial customers.

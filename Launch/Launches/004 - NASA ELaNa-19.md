@@ -17,8 +17,7 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/elana-19/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  004 - NASA ELaNa-19
-## Mission Summary 
-
+ 
 >[!success] Mission Success
 
 The ELaNa-19 mission for NASA (Educational Launch of Nanosatellites 19) was Rocket Lab’s fourth Electron launch and the company’s first mission for NASA. The mission saw Rocket Lab’s Electron launch vehicle loft 13 CubeSats to low Earth orbit.

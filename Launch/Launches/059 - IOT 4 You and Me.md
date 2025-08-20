@@ -16,7 +16,6 @@ recovery: no attempt likely
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/iot-4-you-and-me/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  059 - IOT 4 You and Me
-## Mission Summary
 
 >[!Success] Mission Success
 

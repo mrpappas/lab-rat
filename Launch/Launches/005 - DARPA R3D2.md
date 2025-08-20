@@ -17,8 +17,7 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/darpa-r3d2/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  005 - DARPA R3D2
-## Mission Summary 
-
+ 
 >[!success] Mission Success
 
 The DARPA R3D2 mission was Rocket Lab’s fifth mission and the company’s first launch of 2019.

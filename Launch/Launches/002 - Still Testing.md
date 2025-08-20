@@ -18,8 +18,7 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/still-testing/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  002 - Still Testing
-## Mission Summary 
-
+ 
 >[!success] Mission Success
 
 The Still Testing mission was Rocket Lab's first orbital launch of the Electron vehicle. Electron lifted-off at 14:43 NZDT from Rocket Lab Launch Complex 1 on the Māhia Peninsula in New Zealand on 21 January 2018. The launch marked the beginning of a new era in commercial access to space.

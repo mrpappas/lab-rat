@@ -21,10 +21,6 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/running-ou
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  010 - Running Out Of Fingers
 
-
-
-## Mission Summary 
-
 >[!success] Mission Success
 
 Onboard this rideshare mission were six spacecraft comprised of 5cm PocketQube microsatellites from satellite manufacturer and mission management provider Alba Orbital. The final payload on board was procured by satellite rideshare and mission management provider Spaceflight for ALE Co., Ltd (ALE), a Tokyo-based company creating microsatellites that simulate meteor particles. 

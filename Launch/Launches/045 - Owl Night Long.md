@@ -18,8 +18,6 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/owl-night-
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  045 - Owl Night Long
 
-## Mission Summary
-
 >[!Success] Mission Success
 
 The “Owl Night Long” mission successfully lifted off from Rocket Lab Launch Complex 1 in New Zealand and deployed a [[Synspective#🛰️ Space Systems#StriX|StriX-3]] satellite to orbit. 

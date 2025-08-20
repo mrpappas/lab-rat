@@ -15,8 +15,7 @@ recovery: Not Attempt Likely
 mission_link: https://rocketlabcorp.com/missions/missions-launched/symphony-in-the-stars/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span> <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  067 - Get The Hawk Outta Here
-## Mission Summary 
-
+ 
 >[!success] Mission Success
 
 ‘Get The Hawk Outta Here’ launched from Rocket Lab Launch Complex 1 at 17:28 UTC on June 26th for customer [[HawkEye 360]], a radio frequency geospatial analytics provider based in Virginia.

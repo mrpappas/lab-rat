@@ -18,7 +18,6 @@ recovery: Success (Ocean Landing)
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/new-mission-page-3/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  040 - We Love The Nightlife
-## Mission Summary
 
 >[!success] Mission Success
 

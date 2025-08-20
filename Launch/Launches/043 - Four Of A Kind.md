@@ -19,7 +19,6 @@ recovery: Success (Ocean Landing)
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/four-of-a-kind/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  043 - Four Of A Kind
-## Mission Sunmary 
 
 >[!Success] Mission Success
 

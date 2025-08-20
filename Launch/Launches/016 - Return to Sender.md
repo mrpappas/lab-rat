@@ -23,8 +23,7 @@ recovery: Success (Ocean Landing)
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/flight-16/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  016 - Return to Sender
-## Mission Summary 
-
+ 
 >[!success] Mission Success
 
 Rocket Lab’s 16th Electron launch 'Return to Sender' successfully launched November 20, 02:20 UTC from Rocket Lab Launch Complex 1 in New Zealand.

@@ -18,8 +18,6 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/the-moon-g
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  042 - The Moon God Awakens
 
-## Mission Summary 
-
 >[!Success] Mission Success
 
 Rocket Lab launched a dedicated Electron mission for the Institute for Q-shu Pioneers of Space, Inc. ([[iQPS]]), a Japan-based Earth imaging company. 

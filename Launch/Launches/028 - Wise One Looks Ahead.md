@@ -16,8 +16,7 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/wise-one-looks-ahead/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  028 - Wise One Looks Ahead
-## Mission Summary 
-
+ 
 >[!success] Mission Success
 
 Wise One Looks Ahead was the first of two back-to-back launches for the National Reconnaissance Office. 

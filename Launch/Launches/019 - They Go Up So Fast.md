@@ -24,8 +24,7 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/they-go-up-so-fast/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  019 - They Go Up So Fast
-## Mission Summary 
-
+ 
 >[!success] Mission Success
 
 Rocket Lab's 19th Electron mission deployed a range of satellites for commercial and government satellite operators, as well as placed a next-generation Rocket Lab Photon spacecraft in orbit to build spacecraft heritage ahead of Rocket Lab’s mission to the Moon for [[NASA]] later this year. 

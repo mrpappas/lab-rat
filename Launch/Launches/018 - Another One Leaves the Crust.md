@@ -17,8 +17,7 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/another-one-leaves-the-crust/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  018 - Another One Leaves the Crust
-## Mission Summary 
-
+ 
 >[!success] Mission Success
 
 This mission launched a single communication microsatellite for OHB Group that will enable specific frequencies to support future services from orbit. The launch was Rocket Lab’s 18th Electron mission and was procured for OHB Group through OHB Cosmos International Launch Service GmbH, the launch service division of OHB Group. OHB Cosmos is responsible for launching the spacecraft built by the Group's satellite manufacturers based in Germany, Sweden, and Czech Republic.

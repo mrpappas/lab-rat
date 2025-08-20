@@ -18,8 +18,6 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/the-owl-sp
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  030 - The Owl Spreads Its Wings
 
-## Mission Summary 
-
 >[!success] Mission Success
 
 “The Owl Spreads Its Wings” mission launched from Rocket Lab[[ Launch Complex 1]] at 20:38 UTC on September 15, 2022.

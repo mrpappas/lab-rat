@@ -17,8 +17,7 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/a-sky-full-of-sars/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  052 - A Sky Full Of SARs
-## Mission Summary 
-
+ 
 >[!Success] Mission Success
 
 Rocket Lab launched a dedicated mission for [[Capella Space]], a provider of SAR imagery data and solutions for government and commercial applications.

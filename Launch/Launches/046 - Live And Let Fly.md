@@ -18,8 +18,6 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/live-and-l
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  046 - Live And Let Fly
 
-## Mission Summary 
-
 >[!Success] Mission Success
 
 The NROL-123 mission, called ‘Live And Let Fly’,was Rocket Lab’s first launch for the [[National Reconnaissance Office (NRO)]] from the United States after previously launching four NRO missions from Launch Complex 1 on New Zealand’s Mahia Peninsula. It was Rocket Lab’s 4th mission from [[Launch Complex 2]], a dedicated pad for the Electron rocket located at Virginia Spaceport Authority's Mid-Atlantic Regional Spaceport within the NASA Wallops Flight Facility in Virginia.  

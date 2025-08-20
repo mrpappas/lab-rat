@@ -18,8 +18,6 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/on-closer-
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  044 - On Closer Inspection
 
-## Mission Summary 
-
 >[!Success] Mission Success
 
 The ‘On Closer Inspection’ mission successfully launched on February 19th NZDT. The mission lifted-off from Rocket Lab Launch Complex 1 in New Zealand and deployed the Active Debris Removal by [[Astroscale-Japan]] (ADRAS-J) satellite for Astroscale Japan Inc. The mission is the first phase of an orbital debris removal program, and during this phase ADRAS-J is designed to test technologies and operations for approaching and monitoring debris objects, also known as space junk, and delivering data that will assist in removing it, to ensure the sustainable use of space for future generations.

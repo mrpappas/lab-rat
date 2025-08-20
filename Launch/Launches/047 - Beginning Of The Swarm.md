@@ -18,8 +18,7 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/beginning-of-the-swarm/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  047 - Beginning Of The Swarm
-## Mission Summary 
-
+ 
 >[!Success] Mission Success
 
 The ‘Beginning Of The Swarm’ mission launched from Rocket Lab [[Launch Complex 1]] in Mahia, New Zealand at 10:32 am NZT on April 24th, 2024. [[Electron]] carried two satellites for two separate customers: NEONSAT-1, an Earth observation satellite for the Satellite Technology Research Center (SaTReC) at the [[KAIST]] (KAIST), and [[NASA]]’s Advanced Composite Solar Sail System (ACS3).

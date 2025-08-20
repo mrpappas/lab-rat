@@ -19,8 +19,7 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/its-business-time/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  003 - It's Business Time
-## Mission Summary 
-
+ 
 >[!success] Mission Success
 
 It's Business Time was Rocket Lab's third Electron launch. It's Business Time was manifested with commercial satellites from Spire Global, Tyvak Nano-Satellite Systems, Fleet Space Technologies, as well as an educational payload from the Irvine CubeSat STEM Program (ICSP) and a drag sail technology demonstrator designed and built by High Performance Space Structure Systems GmBH (HPS GmbH).

@@ -17,7 +17,6 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/no-time-toulouse/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  050 - No Time Toulouse
-## Mission Summary
 
 >[!Success] Mission Success
 

@@ -22,10 +22,6 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/pics-or-it
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  013 - Pics Or It Didn't Happen
 
-
-
-## Mission Summary 
-
 >[!failure] Mission Failure
 
 ‘Pics Or It Didn’t Happen’ was a rideshare mission for seven small satellites for a range of customers including Spaceflight Inc.’s customer Canon Electronics, as well as Planet and In-Space Missions.

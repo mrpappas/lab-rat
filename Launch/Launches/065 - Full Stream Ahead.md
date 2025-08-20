@@ -15,7 +15,6 @@ recovery: No Attempt
 mission_link: https://rocketlabcorp.com/missions/missions-launched/full-stream-ahead-2/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span> <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  065 - Full Stream Ahead
-## Mission Summary
 
 >[!success]  Mission Success
 

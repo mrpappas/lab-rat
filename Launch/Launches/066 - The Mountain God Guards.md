@@ -15,7 +15,6 @@ recovery: No Attempt Made
 mission_link: https://rocketlabcorp.com/missions/missions-launched/the-mountain-god-guards/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span> <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  066 - The Mountain God Guards
-## Mission Summary
 
 >[!success] Mission Success
 

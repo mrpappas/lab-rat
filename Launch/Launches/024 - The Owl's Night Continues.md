@@ -17,8 +17,7 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/the-owls-night-continues/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  024 - The Owl's Night Continues
-## Mission Summary 
-
+ 
 >[!success] Mission Success
 
 ‘The Owl’s Night Continues’ was the first of three dedicated Electron missions for [[Synspective]], with two scheduled to launch in 2022 and a third in 2023. Each mission will deploy a single [[Synspective#🛰️ Space Systems#StriX|StriX]] satellite, growing [[Synspective]]’s [[📦 Payload Types#Synthetic Aperture Radar (SAR)|Synthetic Aperture Rader (SAR)]] constellation developed to deliver imagery that can detect millimetre-level changes to the Earth’s surface from space, independent of weather conditions on Earth and at any time of the day or night.

@@ -17,8 +17,7 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/the-owls-night-begins-2/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  017 - The Owl's Night Begins
-## Mission Summary 
-
+ 
 >[!success] Mission Success
 
 Rocket Lab's 17th mission was a dedicated launch for Japanese Earth-imaging company Synspective.

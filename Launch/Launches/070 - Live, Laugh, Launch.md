@@ -15,12 +15,11 @@ recovery: Attempt Unlikely
 mission_link: https://rocketlabcorp.com/missions/missions-launched/live-laugh-launch/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span> <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span> Live, Laugh, Launch
-## Mission Summary 
 
 >[!warning] Mission Pending
 
 >[!hint] Confidential Customer
->Customer and Payload confidential but it's speculated the customer is [[EchoStar]] launching a Lyra Block 1 Satellite along with 4 CubeSats
+>Customer and Payload confidential but it's speculated the customer is [[EchoStar]] launching a [[EchoStar#Lyra Block-1|Lyra Block-1]] Satellite along with 4 CubeSats
 
 'Live, Laugh, Launch' is the second of two dedicated missions on Electron for a confidential customer (Likely [[EchoStar]]). The mission will deploy 5 satellites to a 655km circular Earth orbit.
 
@@ -74,3 +73,5 @@ sort published desc
 
 %%DATAVIEW_PUBLISHER: end %%
 
+
+![](https://x.com/RocketLab/status/1957541317355139458)

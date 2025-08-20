@@ -18,8 +18,7 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/coming-to-a-storm-near-you/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  037 - Coming To A Storm Near You
-## Mission Summary 
-
+ 
 >[!success] Mission Success
 
 Coming To A Storm Near You was the second of two launches on Electron to deploy NASA’s Time-Resolved Observations of Precipitation structure and storm Intensity with a Constellation of Smallsats (TROPICS) mission.

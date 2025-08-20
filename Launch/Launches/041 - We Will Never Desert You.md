@@ -19,10 +19,6 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/we-will-ne
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  041 - We Will Never Desert You
 
-
-
-## Mission Summary
-
 >[!Failure] Mission Failure
 
 Launched on September 19, 2023, from Launch Complex 1 in New Zealand, the ‘We Will Never Desert You’ mission was Rocket Lab's 41st Electron launch. The mission was launched to deploy a synthetic aperture radar (SAR) Earth imaging Acadia satellite for Capella Space, but Electron experienced an anomaly at stage two ignition, resulting in the loss of the mission. 

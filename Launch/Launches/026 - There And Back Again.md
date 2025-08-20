@@ -24,8 +24,6 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/there-and-
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  026 - There And Back Again
 
-## Mission Summary 
-
 >[!success] Mission Success
 
 Launched from Pad A at Rocket Lab Launch Complex 1 on New Zealand’s Mahia Peninsula, the “There And Back Again” mission was Rocket Lab’s 26th Electron launch.

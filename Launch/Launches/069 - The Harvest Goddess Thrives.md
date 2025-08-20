@@ -16,9 +16,6 @@ mission_link: https://rocketlabcorp.com/missions/missions-launched/the-harvest-g
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span> <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span> 069 - The Harvest Goddess Thrives
 
-
-## Mission Summary
-
 >[!success] Mission Success
 
 ‘The Harvest Goddess Thrives’ was the fifth mission on Electron for multi-launch customer Japan-based Earth imaging company, Institute for Q-shu Pioneers of Space, Inc. ([[iQPS]]).

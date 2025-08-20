@@ -21,8 +21,7 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/dont-stop-me-now/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  012 - Don't Stop Me Now
-## Mission Summary 
-
+ 
 >[!success] Mission Success
 
 'Don't Stop Me Now' was a rideshare mission that launched several small satellites, including the ANDESITE (Ad-Hoc Network Demonstration for Extended Satellite-Based Inquiry and Other Team Endeavors) satellite created by electrical and mechanical engineering students and professors at [[Boston University]]. The satellite launched as part of [[NASA]]’s CubeSat Launch Initiative (CSLI) and will conduct groundbreaking scientific study into Earth’s magnetic field. Once in space, the ANDESITE satellite will initiate measurements of the magnetosphere with onboard sensors, later releasing eight pico satellites carrying small magnetometer sensors to track electric currents flowing in and out of the atmosphere, a phenomenon also known as space weather. These variations in the electrical activity racing through space can have a big impact on our lives here on Earth, causing interruptions to things like radio communications and electrical systems. The ANDESITE satellite follows on from Rocket Lab’s first ELaNa (Educational Launch of Nanosatellites) launch for NASA, the [[004 - NASA ELaNa-19]] mission, which launched a host of educational satellites to orbit on Electron in December 2018.

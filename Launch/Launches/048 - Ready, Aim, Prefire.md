@@ -18,8 +18,7 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/ready-aim-prefire/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  048 - Ready, Aim, Prefire
-## Mission Summary 
-
+ 
 >[!Success] Mission Success
 
 Ready, Aim, PREFIRE was the first of two back-to-back Electron launches to deploy NASA’s [PREFIRE](https://prefire.ssec.wisc.edu/) (Polar Radiant Energy in the Far-InfraRed Experiment) mission.

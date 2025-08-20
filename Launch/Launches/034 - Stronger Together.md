@@ -17,8 +17,7 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/stronger-together/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  034 - Stronger Together
-## Mission Summary 
-
+ 
 >[!success] Mission Success
 
 The “Stronger Together” mission was Rocket Lab’s second Electron mission from its dedicated launch pad at Rocket Lab Launch Complex 2 (LC-2) on Wallops Island, Virginia.

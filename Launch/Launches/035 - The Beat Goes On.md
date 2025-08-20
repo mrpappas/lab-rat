@@ -18,8 +18,6 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/the-beat-g
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  035 - The Beat Goes On
 
-## Mission Summary 
-
 >[!success] Mission Success
 
 “The Beat Goes On” mission launched two of [[BlackSky]]’s Gen-2 Earth-imaging satellites from Pad B at Rocket Lab Launch Complex 1 in Mahia, New Zealand and brought the total number of satellites delivered by Electron to orbit to 159. 

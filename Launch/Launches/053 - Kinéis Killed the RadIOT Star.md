@@ -17,7 +17,6 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/kineis-killed-the-radiot-star/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  053 - Kinéis Killed the RadIOT Star
-## Mission Summary
 
 >[!success] Mission Success
 

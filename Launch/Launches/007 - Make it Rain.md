@@ -20,8 +20,7 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/make-it-rain
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  007 - Make it Rain
-## Mission Summary 
-
+ 
 >[!success] Mission Success
 
 The Make It Rain mission launched multiple spacecraft as part of a rideshare flight procured by Spaceflight. The launch took place from Rocket Lab [[Launch Complex 1]] on New Zealand’s Māhia Peninsula.

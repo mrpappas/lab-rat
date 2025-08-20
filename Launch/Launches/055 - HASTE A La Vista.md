@@ -17,7 +17,6 @@ recovery: n/a
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/haste-a-la-vista/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  055 - HASTE A La Vista
-## Mission Summary
 
 >[!Success] Mission Success
 

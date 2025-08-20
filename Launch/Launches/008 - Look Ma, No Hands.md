@@ -20,8 +20,7 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/to-be-announced/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  008 - Look Ma, No Hands
-## Mission Summary 
-
+ 
 >[!success] Mission Success
 
 Rocket Lab's eighth mission lifted-off on 19 August UTC from [[Launch Complex 1]] in New Zealand, carrying a total of four satellites aboard an Electron launch vehicle.

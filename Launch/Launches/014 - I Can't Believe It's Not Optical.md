@@ -17,8 +17,7 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/i-cant-believe-its-not-optical/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  014 - I Can't Believe It's Not Optical
-## Mission Summary 
-
+ 
 >[!success] Mission Success
 
 ‘I Can’t Believe It’s Not Optical’ was a dedicated mission for Capella Space, an information services company providing Earth observation data on demand.

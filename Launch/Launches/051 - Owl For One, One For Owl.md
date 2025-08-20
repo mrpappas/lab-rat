@@ -18,9 +18,6 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/owl-for-on
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  051 - Owl For One, One For Owl
 
-
-## Mission Summary
-
 >[!Success] Mission Success
 
 Rocket Lab launched a dedicated mission for [[Synspective]], a Japanese Earth observation company deploying a constellation of synthetic aperture radar (SAR) satellites designed to deliver imagery that can detect millimetre-level changes to the Earth’s surface from space. 

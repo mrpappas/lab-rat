@@ -18,8 +18,6 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/antipodean
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  029 - Antipodean Adventure
 
-## Mission Summary 
-
 >[!success] Mission Success
 
 Antipodean Adventure (NROL-199) was the second of two back-to-back Electron missions for the National Reconnaissance Office (NRO). The first mission, Wise One Looks Ahead (NROL-162) successfully lifted-off from Launch Complex 1 on July 13, 2022. 

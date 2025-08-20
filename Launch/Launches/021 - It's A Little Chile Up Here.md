@@ -17,8 +17,7 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/its-a-little-chile-up-here/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  021 - It's A Little Chile Up Here
-## Mission Summary 
-
+ 
 >[!success] Mission Success
 
 Rocket Lab launched a dedicated mission for the United States Space Force (USSF) and deployed a single research and development satellite to low Earth orbit.

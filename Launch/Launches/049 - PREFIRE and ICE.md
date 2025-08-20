@@ -19,8 +19,6 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/prefire-an
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  049 - PREFIRE and ICE
 
-## Mission Summary
-
 >[!Success] Mission Success
 
 'PREFIRE and Ice' was the second of two back-to-back dedicated [[Electron]] launches for NASA's PREFIRE mission [Polar Radiant Energy in the Far-InfraRed Experiment](https://science.nasa.gov/mission/prefire/)

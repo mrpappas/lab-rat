@@ -18,8 +18,7 @@ recovery: n/a
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/scouts-arrow/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  038 - Scout's Arrow
-## Mission Summary 
-
+ 
 >[!success] Mission Success
 
 Rocket Lab successfully launched its first suborbital testbed launch vehicle called HASTE (Hypersonic Accelerator Suborbital Test Electron) for Leidos on June 17, 2023.

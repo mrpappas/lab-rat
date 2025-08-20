@@ -18,7 +18,6 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/rocket-like-a-hurricane/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  036 - Rocket Like A Hurricane
-## Mission Summary
 
 >[!success] Mission Success
 
