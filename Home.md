@@ -41,7 +41,7 @@ limit 10
 
 | File                                                                                              | Customer                                                          | Date             | Outcome |
 | ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ---------------- | ------- |
-| [[Launch/Launches/070 - Live, Laugh, Launch.md\|070 - Live, Laugh, Launch]]                       | Confidential Customer                                             | 2025-08-23 22:30 | ⌛       |
+| [[Launch/Launches/070 - Live, Laugh, Launch.md\|070 - Live, Laugh, Launch]]                       | [[Organization/Partners/EchoStar.md\|EchoStar (Confidential)]]    | 2025-08-23 22:30 | ⌛       |
 | [[Launch/Launches/069 - The Harvest Goddess Thrives.md\|069 - The Harvest Goddess Thrives]]       | [[Organization/Partners/iQPS.md\|iQPS]]                           | 2025-08-05 04:10 | ✅       |
 | [[Launch/Launches/068 - Symphony In The Stars.md\|068 - Symphony In The Stars]]                   | [[Organization/Partners/EchoStar.md\|EchoStar (Confidential)]]    | 2025-06-28 06:45 | ✅       |
 | [[Launch/Launches/067 - Get The Hawk Outta Here.md\|067 - Get The Hawk Outta Here]]               | [[Organization/Partners/HawkEye 360.md\|HawkEye 360]]             | 2025-06-26 17:00 | ✅       |

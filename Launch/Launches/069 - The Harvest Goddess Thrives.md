@@ -6,6 +6,7 @@ mission_name: The Harvest Goddess Thrives
 launch_date: 2025-08-05 04:10
 outcome: "✅"
 customer: "[[iQPS]]"
+contract: "[[iQPS Four Launch Contract 2024]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"
 orbit_type: "[[LEO]]"
@@ -29,6 +30,7 @@ The mission deployed [[iQPS#QPS-SAR|QPS-SAR-12]], nicknamed KUSHINADA-I for the 
 | **Launch Date**  | 2025-08-05 04:10 UTC                                                                                               |
 | **Outcome**      | ✅ Success                                                                                                          |
 | **Customer**     | [[iQPS]]                                                                                                           |
+| **Contract**     | [[iQPS Four Launch Contract 2024]]                                                                                 |
 | **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                                  |
 | **Vehicle**      | [[Electron]]                                                                                                       |
 | **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                                  |
@@ -43,8 +45,12 @@ The mission deployed [[iQPS#QPS-SAR|QPS-SAR-12]], nicknamed KUSHINADA-I for the 
 ## Payload
 
 x 1 [[iQPS#🛰️ Space Systems#QPS-SAR|QPS-SAR]]
-![[iQPS#🛰️ Space Systems#QPS-SAR]]
 
+![[iQPS#QPS-SAR]]
+
+## Contract
+
+This is the **fourth** and **final** launch in a [[iQPS Four Launch Contract 2024|Four Launch Contract]] signed in 2024. 
 
 ## Launch Video
 
@@ -69,7 +75,13 @@ sort published desc
 
 %%DATAVIEW_PUBLISHER: end %%
 
+🔗 [SatNews.com - Rocket Lab’s successful launch from New Zealand of iQPS’ ‘The Harvest Goddess Thrives’](https://news.satnews.com/2025/08/05/rocket-labs-successful-launch-from-new-zealand-of-iqps-the-harvest-goddess-thrives/) 
+🔗 [Space.com - Rocket Lab launches private Japanese radar satellite to orbit from New Zealand (video)](Rocket Lab launches private Japanese radar satellite to orbit from New Zealand (video))
 
+
+![](https://x.com/QPS_Inc/status/1952626539545133197)
+
+![](https://x.com/QPS_Inc/status/1952599105332773277)
 
 ![](https://x.com/RocketLab/status/1952583170605629607)
 

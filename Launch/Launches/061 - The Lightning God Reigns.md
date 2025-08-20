@@ -6,6 +6,7 @@ mission_name: The Lighting God Reigns
 launch_date: 2025-03-15 00:00
 outcome: "✅"
 customer: "[[iQPS]]"
+contract: "[[iQPS Four Launch Contract 2024]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"
 orbit_type: "[[🌍 Orbits#LEO]]"
@@ -26,7 +27,6 @@ The mission launched a single [[📦 Payload Types#Synthetic Aperture Radar (SAR
 
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720324421002)
 
-
 #electron #launch 
 
 | **Mission Name** | The Lighting God Reigns                                                                                     |
@@ -34,6 +34,7 @@ The mission launched a single [[📦 Payload Types#Synthetic Aperture Radar (SAR
 | **Launch Date**  | 2025-03-15 00:00 UTC                                                                                        |
 | **Outcome**      | ✅ Success                                                                                                   |
 | **Customer**     | [[iQPS]]                                                                                                    |
+| **Contract**     | [[iQPS Four Launch Contract 2024]]                                                                          |
 | **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                           |
 | **Vehicle**      | [[Electron]]                                                                                                |
 | **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                           |
@@ -47,9 +48,16 @@ The mission launched a single [[📦 Payload Types#Synthetic Aperture Radar (SAR
 ![[Pasted image 20250314201500.png|300]]
 ## Payload
 
-x 1 [[iQPS#🛰️ Space Systems#QPS-SAR|QPS-SAR]] ![[iQPS#🛰️ Space Systems#QPS-SAR|QPS-SAR]]
+x 1 [[iQPS#🛰️ Space Systems#QPS-SAR|QPS-SAR]] 
 
-## 📽️ Launch Video
+![[iQPS#QPS-SAR|QPS-SAR]]
+
+
+## Contract
+
+This is the **first** launch in a [[iQPS Four Launch Contract 2024|Four Launch Contract]] signed in 2024. 
+
+## Launch Video
 
 ![](https://www.youtube.com/watch?v=k-cuTDrVCmQ)
 

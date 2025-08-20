@@ -55,7 +55,7 @@ Cluster 12 - "a trio of microsats called Cluster 12 to collect and geolocate rad
 
 ![[HawkEye 360#🛰️ Space Systems#Hawk Satellite]]
 
-## 📽️ Launch Video
+## Launch Video
 
 ![](https://www.youtube.com/watch?v=sincLVbpw4w)
 

@@ -6,6 +6,7 @@ mission_name: The Mountain God Guards
 launch_date: 2025-06-11 15:15
 outcome: "✅"
 customer: "[[iQPS]]"
+contract: "[[iQPS Four Launch Contract 2024]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"
 orbit_type: "[[LEO]]"
@@ -33,6 +34,7 @@ Rocket Lab has now deployed four Electron missions for iQPS with 100% mission su
 | **Launch Date**  | 2025-06-11 15:15 UTC                                                                                                |
 | **Outcome**      | ✅ Success                                                                                                           |
 | **Customer**     | [[iQPS]]                                                                                                            |
+| **Contract**     | [[iQPS Four Launch Contract 2024]]                                                                                  |
 | **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                                   |
 | **Vehicle**      | [[Electron]]                                                                                                        |
 | **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                                   |
@@ -47,9 +49,14 @@ Rocket Lab has now deployed four Electron missions for iQPS with 100% mission su
 ## Payload
 
 x 1 [[iQPS#🛰️ Space Systems#QPS-SAR|QPS-SAR]]
-![[iQPS#🛰️ Space Systems#QPS-SAR]]
 
-## 📽️ Launch Video
+![[iQPS#QPS-SAR]]
+
+## Contract
+
+This is the **third** launch in a [[iQPS Four Launch Contract 2024|Four Launch Contract]] signed in 2024. 
+
+## Launch Video
 
 
 ![](https://www.youtube.com/watch?v=PplSn4YNbz0)

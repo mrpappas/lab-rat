@@ -6,6 +6,7 @@ mission_name: The Sea God Sees
 launch_date: 2025-05-17 08:17
 outcome: ✅
 customer: "[[iQPS]]"
+contract: "[[iQPS Four Launch Contract 2024]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"
 orbit_type: "[[🌍 Orbits#LEO]]"
@@ -34,6 +35,7 @@ The mission was the third overall Electron launch for iQPS and the second in a l
 | **Launch Date**  | NET 2025-05-17 08:17 UTC                                                                         |
 | **Outcome**      | ✅ Success                                                                                        |
 | **Customer**     | [[iQPS]]                                                                                         |
+| **Contract**     | [[iQPS Four Launch Contract 2024]]                                                               |
 | **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                |
 | **Vehicle**      | [[Electron]]                                                                                     |
 | **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                |
@@ -49,11 +51,13 @@ The mission was the third overall Electron launch for iQPS and the second in a l
 
 x 1 [[iQPS#🛰️ Space Systems#QPS-SAR|QPS-SAR]]
 
-![[iQPS#🛰️ Space Systems#QPS-SAR]]
+![[iQPS##QPS-SAR]]
 
+## Contract
 
-## 📽️ Launch Video
+This is the **second** launch in a [[iQPS Four Launch Contract 2024|Four Launch Contract]] signed in 2024. 
 
+## Launch Video
 ![](https://www.youtube.com/watch?v=5ikgtJOeDW4)
 
 🔗 Backup Link: https://www.youtube.com/watch?v=5ikgtJOeDW4

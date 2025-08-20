@@ -5,6 +5,7 @@ author:
   - "[[Rocket Lab]]"
 published: 2025-02-03
 mission: "[[061 - The Lightning God Reigns]]"
+contract: "[[iQPS Four Launch Contract 2024]]"
 customer:
   - "[[iQPS]]"
 tags:
