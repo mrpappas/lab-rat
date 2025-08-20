@@ -1,18 +1,18 @@
 ---
-
 name: iQPS (Institute for Q-shu Pioneers of Space, Inc.)
 website: https://i-qps.net/en/
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> iQPS
 
-**Website:** https://i-qps.net/en/
+## Partner Details
 
->[!summary]
+**🔗 Website:** https://i-qps.net/en/
+
 iQPS (Institute for Q-shu Pioneers of Space) is a Japanese company focused on developing and deploying [[📦 Payload Types#Synthetic Aperture Radar (SAR)|Synthetic Aperture Radar (SAR)]] satellites.
 They are working toward establishing a constellation of 36 small SAR satellites, aiming to provide near-real-time imaging with high-frequency revisits. Their compact satellites deliver sub-meter resolution data, enabling industries such as disaster management, infrastructure monitoring, agriculture, and defense to benefit from precise and timely Earth observation insights.
 iQPS has launched several satellites to demonstrate its SAR capabilities and is actively scaling its constellation to offer comprehensive global coverage.
 
-## 🚀 Launches
+## Launches
 
 %%DATAVIEW_PUBLISHER: start
 ```
@@ -33,7 +33,7 @@ sort launch_date desc
 
 %%DATAVIEW_PUBLISHER: end %%
 
-## 🛰️ Space Systems
+## Space Systems
 
 ### QPS-SAR
 
@@ -58,8 +58,22 @@ QPS-SAR of the Institute for Q-shu Pioneers of Space, Inc. (iQPS) is a Japanese 
 
 ![[Pasted image 20250206205443.png]]
 
+## Spacecraft
 
-## 📰 News
+| Spacecraft                          | Launch Date (UTC)        | Launch Vehicle                             | Spaceport                                                                | Orbit                                                        | Description                                                          |
+| ----------------------------------- | ------------------------ | ------------------------------------------ | ------------------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------------------------------------------- |
+| QPS-SAR 11 (Yamatsumi 1)            | June 11, 2025, 15:31     | [[Electron]]                               | Launch Complex 1A, Mahia, New Zealand                                    | Sun-synchronous circular orbit, ~585 km, inclination 42º     | Launched onboard Rocket Lab’s rocket                                 |
+| QPS-SAR 10 (Wadatsumi 1)            | May 17, 2025, 08:17      | [[Electron]]                               | Launch Complex 1A, Mahia, New Zealand                                    | Sun-synchronous circular orbit, ~580 km, inclination 42º     | Launched onboard Rocket Lab’s rocket                                 |
+| QPS-SAR 9 (Susanoo 1)               | March 15, 2025, 00:00    | [[Electron]]                               | Launch Complex 1B, Mahia, New Zealand                                    | Sun-synchronous circular orbit, ~575 km, inclination 42º     | Launched onboard Rocket Lab’s rocket                                 |
+| QPS-SAR No.8 (Amateru 4)            | August 16, 2024, 18:56   | Falcon 9, Transporter-11 Rideshare mission | Space Launch Complex 4E (SLC-4E), Vandenberg Space Force Base (VSFB)     | Sun-synchronous orbit, 510–600 km, inclination 97.45º–97.75º | Launched onboard SpaceX’s rocket                                     |
+| QPS-SAR No.7 (Tsukuyomi 2)          | April 7, 2024, 23:16     | Falcon 9, Bandwagon-1 Rideshare mission    | Space Launch Complex 40 (SLC-40), Cape Canaveral Space Force Station, FL | Altitude ~590 km, inclination 45.6º                          | Launched onboard SpaceX’s rocket                                     |
+| QPS-SAR No.5 (Tsukuyomi 1)          | December 15, 2023, 04:05 | [[Electron]]                               | Onenui Station, New Zealand                                              | Altitude 568.4–575 km, inclination 42º–95.9º                 | Launched onboard Rocket Lab’s rocket                                 |
+| QPS-SAR No.6 (Amateru 3)            | June 12, 2023, 21:35     | Falcon 9, Transporter-8 Rideshare mission  | Space Launch Complex 4E (SLC-4E), Vandenberg Space Force Base (VSFB)     | Altitude 433–540 km, inclination 97.5º                       | Launched onboard SpaceX’s rocket                                     |
+| QPS-SAR No.3 & No.4 (Amateru 1 & 2) | October 12, 2022, 00:50  | Epsilon Rocket 6                           | Uchinoura Space Centre, Japan                                            | —                                                            | <span style="color:red">Launch failed</span> (onboard JAXA’s rocket) |
+| QPS-SAR No.2 (Izanami)              | January 25, 2021, 15:00  | Falcon 9, Transporter-1 Rideshare mission  | Space Launch Complex 40 (SLC-40), Cape Canaveral Space Force Station, FL | Altitude ~525 km                                             | Launched onboard SpaceX’s rocket                                     |
+| QPS-SAR No.1 (Izanagi)              | December 11, 2019, 09:55 | PSLV (Polar Satellite Launch Vehicle)      | Satish Dhawan Space Center, India                                        | Altitude ~393 km, inclination 36.9º                          | Launched onboard ISRO’s rocket                                       |
+
+## News
 %%DATAVIEW_PUBLISHER: start
 ```
 table published as "Published"

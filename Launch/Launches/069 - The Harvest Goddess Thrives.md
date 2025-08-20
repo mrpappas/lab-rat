@@ -16,14 +16,16 @@ mission_link: https://rocketlabcorp.com/missions/missions-launched/the-harvest-g
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span> <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span> 069 - The Harvest Goddess Thrives
 
+
+## Mission Summary
+
 >[!success] Mission Success
 
->[!summary]
 ‘The Harvest Goddess Thrives’ was the fifth mission on Electron for multi-launch customer Japan-based Earth imaging company, Institute for Q-shu Pioneers of Space, Inc. ([[iQPS]]).
->
-The mission deployed QPS-SAR-12, nicknamed KUSHINADA-I for the Japanese goddess of harvest and prosperity, to a 575km circular Earth orbit to join the rest of the QPS-SAR constellation in providing high resolution synthetic aperture radar images and Earth monitoring services globally.
->
->[📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720328159446/)
+
+The mission deployed [[iQPS#QPS-SAR|QPS-SAR-12]], nicknamed KUSHINADA-I for the Japanese goddess of harvest and prosperity, to a 575km circular Earth orbit to join the rest of the QPS-SAR constellation in providing high resolution synthetic aperture radar images and Earth monitoring services globally.
+
+[📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720328159446/)
 
 | **Mission Name** | The Harvest Goddess Thrives                                                                                        |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------ |
@@ -41,18 +43,18 @@ The mission deployed QPS-SAR-12, nicknamed KUSHINADA-I for the Japanese goddess 
 
 ![[Pasted image 20250803000345.png|300]]
 
-## 📦 Payload
+## Payload
 
 x 1 [[iQPS#🛰️ Space Systems#QPS-SAR|QPS-SAR]]
 ![[iQPS#🛰️ Space Systems#QPS-SAR]]
 
 
-## 📽️ Launch Video
+## Launch Video
 
 ![](https://www.youtube.com/watch?v=_LAy4XiKNvQ)
 
 🔗 Backup Link: https://www.youtube.com/watch?v=_LAy4XiKNvQ
-## 📰 News
+## News
 
 %%DATAVIEW_PUBLISHER: start
 ```

@@ -17,13 +17,13 @@ recovery: n/a
 mission_link: 
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  057 - Stonehenge
+## Mission Summary
 
 >[!Success] Mission Success
 
->[!summary]
->Rocket Lab launched the "Stonehenge" (HASTE) mission, a suborbital test of the Electron rocket, on December 14, 2024, at 1:00 AM (UTC) from Launch Complex 2 at NASA's Wallops Flight Facility in Virginia. Due to the nature of the mission, very little official information is available.
->
->This mission provided hypersonic test launch capabilities under the Multi-Service Advanced Capability Hypersonics Test Bed (MACH-TB) project, which aims to increase hypersonic flight testing for the United States in support of technology maturation. The project was awarded by Naval Surface Warfare Center (NSWC) Crane through the Strategic and Spectrum Missions Advanced Resilient Trusted Systems (S2MARTS) Other Transaction Authority (OTA) vehicle on behalf of the U.S. Department of Defense Test Resource Management Center (TRMC).
+Rocket Lab launched the "Stonehenge" (HASTE) mission, a suborbital test of the Electron rocket, on December 14, 2024, at 1:00 AM (UTC) from Launch Complex 2 at NASA's Wallops Flight Facility in Virginia. Due to the nature of the mission, very little official information is available.
+
+This mission provided hypersonic test launch capabilities under the Multi-Service Advanced Capability Hypersonics Test Bed (MACH-TB) project, which aims to increase hypersonic flight testing for the United States in support of technology maturation. The project was awarded by Naval Surface Warfare Center (NSWC) Crane through the Strategic and Spectrum Missions Advanced Resilient Trusted Systems (S2MARTS) Other Transaction Authority (OTA) vehicle on behalf of the U.S. Department of Defense Test Resource Management Center (TRMC).
 
 #haste #launch #success
 
@@ -41,7 +41,7 @@ mission_link:
 | **Mission Link** | None                                    |
 | **Press Kit**    | 🚫 No Press Kit Issued for this Mission |
 
-## 📽️ Launch Video
+## Launch Video
 
 🚫 No Official Livestream  
 
@@ -49,7 +49,7 @@ mission_link:
 
 ![Video](https://x.com/joshlikesrocket/status/1867745406341591451)
 
-## 📰 News
+## News
 %%DATAVIEW_PUBLISHER: start
 ```
 table published as "Published"

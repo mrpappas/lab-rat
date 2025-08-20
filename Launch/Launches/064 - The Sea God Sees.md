@@ -15,16 +15,16 @@ recovery: n/a
 mission_link:
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>   <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  064 - The Sea God Sees
+## Mission Summary
 
 >[!success] Mission Success
 
->[!summary]
 'The Sea God Sees' was Rocket Lab's third mission for Institute for Q-shu Pioneers of Space, Inc. ([[iQPS]]), an Earth-imaging company from Japan.
->
+
 'The Sea God Sees’ launched from Rocket Lab Launch Complex 1 in New Zealand on May 17, 2025. The mission deployed a single [[📦 Payload Types#Synthetic Aperture Radar (SAR)|Synthetic Aperture Radar (SAR)]] imaging satellite called QPS-SAR-10 (nicknamed “WADATSUMI-I” for the Japanese god of the sea) to a 575km circular Earth orbit, from where the satellite will join the rest of the iQPS constellation in providing high resolution images and Earth monitoring services globally.
->
+
 The mission was the third overall Electron launch for iQPS and the second in a line-up of eight dedicated missions across 2025 and 2026 to deploy iQPS’s constellation. 
->
+
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720326183963/)
 
 
@@ -59,7 +59,7 @@ x 1 [[iQPS#🛰️ Space Systems#QPS-SAR|QPS-SAR]]
 
 🔗 Backup Link: https://www.youtube.com/watch?v=5ikgtJOeDW4
 
-## 📰 News
+## News
 
 %%DATAVIEW_PUBLISHER: start
 ```

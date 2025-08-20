@@ -17,16 +17,16 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/the-owls-night-begins-2/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  017 - The Owl's Night Begins
+## Mission Summary 
 
 >[!success] Mission Success
 
->[!summary]
 Rocket Lab's 17th mission was a dedicated launch for Japanese Earth-imaging company Synspective.
->
+
 The mission was named ‘The Owl’s Night Begins’ in a nod to Synspective’s StriX family of synthetic aperture radar (SAR) spacecraft developed to be able to image millimetre-level changes to the Earth’s surface from space, independent of weather conditions on Earth and at any time of the day or night. Strix is also the genus of owls.
->
+
 The StriX-α satellite onboard this mission was the first of a series of spacecraft deployments for Synspective’s planned constellation of more than 30 SAR small satellites to collate data of metropolitan centers across Asia on a daily basis that can be used for urban development planning, construction and infrastructure monitoring, and disaster response.
->
+
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/with/72177720301776244)
 
 
@@ -48,15 +48,16 @@ The StriX-α satellite onboard this mission was the first of a series of spacecr
 
 ![[Pasted image 20250406132917.png|300]]
 
-### 📦 Payload
+## Payload
 
 x1 [[Synspective#🛰️ Space Systems#StriX|StriX Series Satellites]] ![[Synspective#🛰️ Space Systems#StriX]]
-## 📽️ Launch Video
+## Launch Video
+
 <div class="responsive-video">
 <iframe src="https://www.youtube.com/embed/AmbjFv3wa68" title="Rocket Lab&#39;s Electron - The Owl&#39;s Night Begins Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
 </div>
 
-## 📰 News
+## News
 %%DATAVIEW_PUBLISHER: start
 ```
 table published as "Published"

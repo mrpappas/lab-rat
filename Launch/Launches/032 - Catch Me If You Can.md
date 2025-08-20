@@ -18,15 +18,16 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/catch-me-i
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  032 - Catch Me If You Can
 
+## Mission Summary 
+
 >[!success] Mission Success
 
->[!summary]
 Launched from Pad B at Rocket Lab Launch Complex 1 on New Zealand’s Mahia Peninsula, the “Catch Me If You Can” mission was Rocket Lab’s 32nd Electron launch overall and second recovery mission of 2022.
->
+
 The mission deployed its 152nd satellite to orbit, the MATS science payload for the [[Swedish National Space Agency]]. 
->
+
 The “Catch Me If You Can” mission also resulted in a successful ocean splashdown of the Electron rocket’s first stage. Rocket Lab had planned to attempt amid-air capture of Electron’s first stage with a helicopter if conditions allowed, however not all requirements were met to ensure a successful capture Due to a brief telemetry loss with Electron’s first stage during its atmospheric re-entry, the helicopter was moved out of the capture zone per standard safety procedure. The Electron first stage completed a safe splashdown and will be brought back to Rocket Lab’s production facility for inspection and analysis.
->
+
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720303420541/)
 
 #electron #launch #success
@@ -47,13 +48,13 @@ The “Catch Me If You Can” mission also resulted in a successful ocean splash
 
 ![[Pasted image 20250406140526.png|300]]
 
-## 📽️ Launch Video
+## Launch Video
 
 <div class="responsive-video">
 <iframe src="https://www.youtube.com/embed/PVTwEn9GdsA" title="Rocket Lab&#39;s Electron - Catch Me If You Can Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
 </div>
 
-## 📰 News
+## News
 %%DATAVIEW_PUBLISHER: start
 ```
 table published as "Published"

@@ -17,12 +17,12 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/its-a-test/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  001 - It's a Test
+## Mission Summary
 
 >[!failure] Mission Failure
 
->[!summary]
 **It's a Test** was the first flight of Rocket Lab's Electron launch vehicle. The mission, launched from [[Launch Complex 1]] on New Zealand's Mahia Peninsula, marked a significant milestone as the first orbital-class rocket launched from a private launch site.  
->
+
 Despite not reaching orbit, the mission successfully demonstrated key systems including a perfect first stage burn, stage separation, second stage ignition, and fairing separation, putting Rocket Lab in a strong position for future commercial operations.
 
 #electron #launch #failure
@@ -42,18 +42,18 @@ Despite not reaching orbit, the mission successfully demonstrated key systems in
 
 ![[Pasted image 20250406125925.png|300]]
 
-## 📽️ Launch Video
+## Launch Video
 
 <div class="responsive-video">
 <iframe src="https://www.youtube.com/embed/5Nyf035NKy4" title="Rocket Lab&#39;s Electron - It's a Test Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>   
 </div>
 
-## ✏️ Notes
+## Notes
 
  - "Rocket Lab’s investigation team determined the launch, named ‘It’s a Test’, was terminated due to a data loss time out, which was caused by misconfiguration of telemetry equipment owned and operated by a third-party contractor who was supporting the launch from Rocket Lab’s Launch Complex 1."
  - Being the first [[Electron]] launch, there was no customer payload.
 
-## 📰 News
+## News
 %%DATAVIEW_PUBLISHER: start
 ```
 table published as "Published"

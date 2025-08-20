@@ -18,16 +18,16 @@ recovery: Success (Ocean Landing)
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/new-mission-page-3/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  040 - We Love The Nightlife
+## Mission Summary
 
 >[!success] Mission Success
 
->[!summary]
 The ‘We Love the Nightlife’ mission launched from Rocket Lab [[Launch Complex 1]] on August 24, 2023 on New Zealand’s Mahia Peninsula for American space tech company Capella Space (Capella), a leading provider of commercial Synthetic Aperture Radar (SAR) imagery.
->
+
 ‘We Love the Nightlife’ was Rocket Lab’s third launch for Capella following the successful “Stronger Together” mission launched in March 2023 from Rocket Lab Launch Complex 2 in Virginia, USA, and the “I Can’t Believe It’s Not Optical” mission in August 2020 from Launch Complex 1, which deployed the first satellite in Capella’s SAR constellation.
->
+
 The mission was also a recovery mission, with Electron's first stage brought back to Earth under a parachute for a splashdown in the Pacific Ocean for retrieval. **For the first time, Rocket Lab also launched with a pre-flown Rutherford engine** - a significant milestone in the program to evolve Electron into a reusable rocket.
->
+
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720309925613/)
 
 
@@ -49,21 +49,21 @@ The mission was also a recovery mission, with Electron's first stage brought bac
 
 ![[Pasted image 20250406141611.png|300]]
 
-### 📦 Payload
+## Payload
 
 x1 [[Capella Space#🛰️ Space Systems#Acadia|Acadia SAR]] Satellite ![[Capella Space#🛰️ Space Systems#Acadia|Acadia SAR]]
 
-## 📽️ Launch Video
+## Launch Video
 
 <div class="responsive-video">
 <iframe src="https://www.youtube.com/embed/-k2RZO9ghnc" title="Rocket Lab&#39;s Electron - We Love The Nightlife Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
 </div>
 
-## ✏️ Notes
+## Notes
 
 - This marks the first launch of a rocket with a previously flown [[Electron#Rutherford Engine|Rutherford Engine]] 
 
-## 📰 News
+## News
 %%DATAVIEW_PUBLISHER: start
 ```
 table published as "Published"

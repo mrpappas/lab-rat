@@ -17,12 +17,12 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/owl-the-way-up/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  058 - Owl The Way Up
+## Mission Summary
 
 >[!Success] Mission Success
 
->[!summary]
 The “Owl The Way Up” mission launched from Rocket Lab [[Launch Complex 1]] in Mahia, New Zealand to deploy a single StriX satellite to orbit for [[Synspective]]. The mission was the sixth in a total of 16 launches booked on [[Electron]] for Synspective, a Japanese Earth observation company operating a constellation of synthetic aperture radar (SAR) satellites designed to deliver imagery that can detect millimetre-level changes to the Earth’s surface from space. Rocket Lab first launched for Synspective in December 2020 and has been the sole launch provider for Synspective’s constellation to date.
->
+
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720322675410/)
 
 <div tabindex="0"></div>
@@ -47,17 +47,17 @@ The “Owl The Way Up” mission launched from Rocket Lab [[Launch Complex 1]] i
 ![[Pasted image 20250406151827.png|300]]
 
 
-### 📦 Payload
+### Payload
 
 x1 [[Synspective#🛰️ Space Systems#StriX|StriX Series Satellites]] ![[Synspective#🛰️ Space Systems#StriX]]
 
-## 📽️ Launch Video
+## Launch Video
 
 ![](https://www.youtube.com/watch?v=-7VZB4pHJrQ)
 
 🔗 Backup Link: https://www.youtube.com/watch?v=-7VZB4pHJrQ
 
-## 📰 News
+## News
 %%DATAVIEW_PUBLISHER: start
 ```
 table published as "Published"

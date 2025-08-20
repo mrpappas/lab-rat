@@ -17,15 +17,15 @@ recovery: n/a
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/haste-a-la-vista/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  055 - HASTE A La Vista
+## Mission Summary
 
 >[!Success] Mission Success
 
->[!summary]
 This mission provided hypersonic test launch capabilities under the Multi-Service Advanced Capability Hypersonics Test Bed (MACH-TB) project, which aims to increase hypersonic flight testing for the United States in support of technology maturation. The project was awarded by Naval Surface Warfare Center (NSWC) Crane through the Strategic and Spectrum Missions Advanced Resilient Trusted Systems (S2MARTS) Other Transaction Authority (OTA) vehicle on behalf of the U.S. Department of Defense Test Resource Management Center (TRMC).
->
+
 Rocket Lab’s launch vehicle showcased a new suite of cutting-edge technologies optimized for hypersonic technology tests with vastly increased payloads. Rocket Lab also designed, manufactured, assembled, and integrated the experimental hypersonic instrumentation which was launched on this mission, but on a highly accelerated timeline.
->
->🚫 No Official Mission Photo Album
+
+🚫 No Official Mission Photo Album
 
 #haste #launch #success
 
@@ -46,14 +46,14 @@ Rocket Lab’s launch vehicle showcased a new suite of cutting-edge technologies
 
 ![[Pasted image 20250406151012.png|300]]
 
-## 📽️ Launch Video
+## Launch Video
 
 🚫 No Official Livestream
 
 ![](https://www.youtube.com/watch?v=1dBfpv9TIdw)
 
-🔗 Backup Link
-## 📰 News
+🔗 [Backup Link](https://www.youtube.com/watch?v=1dBfpv9TIdw)
+##  News
 %%DATAVIEW_PUBLISHER: start
 ```
 table published as "Published"

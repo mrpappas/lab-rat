@@ -18,15 +18,16 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/owl-for-on
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  051 - Owl For One, One For Owl
 
+
+## Mission Summary
+
 >[!Success] Mission Success
 
->[!summary]
 Rocket Lab launched a dedicated mission for [[Synspective]], a Japanese Earth observation company deploying a constellation of synthetic aperture radar (SAR) satellites designed to deliver imagery that can detect millimetre-level changes to the Earth’s surface from space. 
->
-The “Owl for One, One for Owl” mission was our 5th launch for [[Synspective]] and our 51st launch overall.
->
-[📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720319229250/)
 
+The “Owl for One, One for Owl” mission was our 5th launch for [[Synspective]] and our 51st launch overall.
+
+[📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720319229250/)
 
 #electron #launch #success
 
@@ -48,17 +49,17 @@ The “Owl for One, One for Owl” mission was our 5th launch for [[Synspective]
 ![[Pasted image 20250406144144.png|300]]
 
 
-### 📦 Payload
+## Payload
 
 x1 [[Synspective#🛰️ Space Systems#StriX|StriX Series Satellites]] ![[Synspective#🛰️ Space Systems#StriX]]
 
-## 📽️ Launch Video
+## Launch Video
 
 <div class="responsive-video">
 <iframe src="https://www.youtube.com/embed/ZdikUDvKYmc" title="Rocket Lab&#39;s Electron - Owl For One, One For Owl Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
 </div>
 
-## 📰 News
+## News
 %%DATAVIEW_PUBLISHER: start
 ```
 table published as "Published"

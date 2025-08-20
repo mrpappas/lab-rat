@@ -20,12 +20,12 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/make-it-rain
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  007 - Make it Rain
+## Mission Summary 
 
 >[!success] Mission Success
 
->[!summary]
 The Make It Rain mission launched multiple spacecraft as part of a rideshare flight procured by Spaceflight. The launch took place from Rocket Lab [[Launch Complex 1]] on New Zealand’s Māhia Peninsula.
->
+
 The mission was named ‘Make it Rain’ in a nod to the high volume of rainfall in Seattle, where [[Spaceflight]] is headquartered, as well in New Zealand where Launch Complex 1 is located. Among the payloads on the mission for Spaceflight were [[BlackSky]]’s Global-3 satellite and [[Melbourne Space Program]]’s ACRUX-1 CubeSat.
 
 
@@ -47,13 +47,13 @@ The mission was named ‘Make it Rain’ in a nod to the high volume of rainfall
 
 ![[Pasted image 20250406131737.png|300]]
 
-## 📽️ Launch Video
+## Launch Video
 
 <div class="responsive-video">
 <iframe src="https://www.youtube.com/embed/idKCy8LdyKo" title="Rocket Lab&#39;s Electron - Make It Rain Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
 </div>
 
-## 📰 News
+## News
 %%DATAVIEW_PUBLISHER: start
 ```
 table published as "Published"

@@ -17,14 +17,14 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/the-owls-night-continues/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  024 - The Owl's Night Continues
+## Mission Summary 
 
 >[!success] Mission Success
 
->[!summary]
 ‘The Owl’s Night Continues’ was the first of three dedicated Electron missions for [[Synspective]], with two scheduled to launch in 2022 and a third in 2023. Each mission will deploy a single [[Synspective#🛰️ Space Systems#StriX|StriX]] satellite, growing [[Synspective]]’s [[📦 Payload Types#Synthetic Aperture Radar (SAR)|Synthetic Aperture Rader (SAR)]] constellation developed to deliver imagery that can detect millimetre-level changes to the Earth’s surface from space, independent of weather conditions on Earth and at any time of the day or night.
->
+
 ‘The Owl’s Night Continues’ mission follows on from Rocket Lab’s first launch for Synspective in December 2020. That mission, named ‘The Owl’s Night Begins’, saw Rocket Lab’s Electron launch vehicle deploy the StriX-α satellite – the first spacecraft in Synspective’s planned constellation of more than 30 SAR satellites designed to collate data of metropolitan centers on a daily basis to support urban development planning, construction and infrastructure monitoring, and disaster response.
->
+
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720301776244/)
 
 #electron #launch #success
@@ -46,17 +46,17 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/the-owls-n
 
 ![[Pasted image 20250406135656.png|300]]
 
-### 📦 Payload
+## Payload
 
-x1 [[Synspective#🛰️ Space Systems#StriX|StriX Series Satellites]] ![[Synspective#🛰️ Space Systems#StriX]]
+x1 [[Synspective#🛰️ Space Systems#StriX|StriX Series Satellites]] ![Synspective#🛰️ Space Systems#StriX]]
 
-## 📽️ Launch Video
+## Launch Video
 
 <div class="responsive-video">
 <iframe src="https://www.youtube.com/embed/MjfNJjTyfKY" title="Rocket Lab&#39;s Electron - The Owl&#39;s Night Continues Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
 </div>
 
-## 📰 News
+## News
 %%DATAVIEW_PUBLISHER: start
 ```
 table published as "Published"

@@ -15,19 +15,19 @@ recovery: Not Attempt Likely
 mission_link: https://rocketlabcorp.com/missions/missions-launched/symphony-in-the-stars/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span> <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  067 - Get The Hawk Outta Here
+## Mission Summary 
 
 >[!success] Mission Success
 
->[!summary]
-‘Get The Hawk Outta Here’ launched from Rocket Lab Launch Complex 1 at 17:28 UTC on June 26th for customer HawkEye 360, a radio frequency geospatial analytics provider based in Virginia.
->
+‘Get The Hawk Outta Here’ launched from Rocket Lab Launch Complex 1 at 17:28 UTC on June 26th for customer [[HawkEye 360]], a radio frequency geospatial analytics provider based in Virginia.
+
 The mission deployed four satellites for HawkEye 360: a trio of microsats to collect and geolocate radio frequency signals from around the world, and Kestrel-0A, an experimental satellite designed to evaluate emerging capabilities and future technology enhancements. The three satellites comprising HawkEye 360’s Cluster 12 will operate in a dawn-to-dusk polar orbit — filling a critical coverage gap and enhancing the company’s ability to extract RF intelligence in regions of strategic interest.
->
-‘Get The Hawk Outta Here’ was the second of three missions on Electron in a multi-launch contract to build out HawkEye 360’s constellation. The first mission in January 2023, ‘Virginia Is For Launch Lovers,’ deployed HawkEye’s Cluster 6 satellites to orbit on Electron’s inaugural launch from Rocket Lab Launch Complex 2 in Virginia.
->
+
+‘Get The Hawk Outta Here’ was the second of three missions on Electron in a multi-launch contract to build out [HawkEye 360’s constellation](https://www.eoportal.org/satellite-missions/hawkeye-360). The first mission in January 2023, [[033 - Virginia is for Launch Lovers]], deployed [HawkEye’s Cluster 6 satellites](https://www.he360.com/launches/cluster-6-launch/) to orbit on Electron’s inaugural launch from Rocket Lab [[Launch Complex 2]] in Virginia.
+
 All of HawkEye 360’s satellites launched on Electron are deployed from Rocket Lab’s own Lightband satellite separation system.
->
->[📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720327142787/)
+
+[📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720327142787/)
 
 
 | **Mission Name** | Get The Hawk Outta Here                                                                                   |
@@ -46,7 +46,7 @@ All of HawkEye 360’s satellites launched on Electron are deployed from Rocket 
 
 ![[Pasted image 20250625025712.png|300]]
 
-## 📦 Payload
+## Payload
 
 x3 Hawk Satellites
 x1 [Kestrel-0A](https://space.skyrocket.de/doc_sdat/kestrel-0a.htm)
@@ -61,7 +61,7 @@ Cluster 12 - "a trio of microsats called Cluster 12 to collect and geolocate rad
 ![](https://www.youtube.com/watch?v=sincLVbpw4w)
 
 🔗 Backup Link: https://www.youtube.com/watch?v=sincLVbpw4w
-## 📰 News
+## News
 
 %%DATAVIEW_PUBLISHER: start
 ```

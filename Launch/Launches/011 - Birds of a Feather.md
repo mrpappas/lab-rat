@@ -17,12 +17,12 @@ recovery: Controlled (Atmosphere Test)
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/birds-of-a-feather/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  011 - Birds of a Feather
+## Mission Summary
 
 >[!success] Mission Success
 
->[!summary] 
 Rocket Lab's 11th Electron flight - Birds of a Feather - launched a dedicated mission for the United States [[National Reconnaissance Office (NRO)]]. The mission successfully lifted off from Rocket Lab Launch Complex 1 at 15:56 NZDT, 31 January 2020. 
->
+
 The NRO competitively awarded the contract under the Rapid Acquisition of a Small Rocket (RASR) contract vehicle. RASR allows the NRO to explore new launch opportunities that can provide a streamlined, commercial approach for getting small satellites into space.
 
 
@@ -42,12 +42,13 @@ The NRO competitively awarded the contract under the Rapid Acquisition of a Smal
 | **Mission Link** | [Birds of a Feather](https://www.rocketlabusa.com/missions/missions-launched/birds-of-a-feather/)   |
 | **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/FINAL-F11-Birds-of-a-Feather-Presskit.pdf) |
 
-## 📽️ Launch Video
+## Launch Video
+
 <div class="responsive-video">
 <iframe width="736" height="414" src="https://www.youtube.com/embed/af-PplDIkbc" title="Birds Of A Feather Launch - 01/31/2020" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-## 📰 News
+## News
 %%DATAVIEW_PUBLISHER: start
 ```
 table published as "Published"

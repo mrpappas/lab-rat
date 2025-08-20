@@ -19,14 +19,15 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/capstone/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  027 - CAPSTONE
+## Mission Summary 
 
 >[!success] Mission Success
 
->[!summary]
 On June 28, 2022 Rocket Lab launched the Cislunar Autonomous Positioning System Technology Operations and Navigation Experiment (CAPSTONE) spacecraft for NASA and Advanced Space. On July 04, 2022, Rocket Lab's Lunar Photon spacecraft completed a trans lunar injection and successfully deployed CAPSTONE on its mission to the Moon.
->
+
 Designed and built by [[Tyvak Nano-Satellite Systems]], a [[Terran Orbital]] Corporation, and owned and operated by Advanced Space on behalf of NASA, CAPSTONE will be the first spacecraft to test the Near Rectilinear Halo Orbit (NRHO) around the Moon. This is the same orbit intended for NASA’s Gateway, a multipurpose Moon-orbiting station that will provide essential support for long-term astronaut lunar missions as part of the Artemis program.
->[📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720298851362/)
+
+[📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720298851362/)
 
 #electron #launch #success
 

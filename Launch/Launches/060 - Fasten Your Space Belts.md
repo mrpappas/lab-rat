@@ -16,14 +16,14 @@ recovery: No attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/fasten-your-space-belts/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  060 - Fasten Your Space Belts
+## Mission Summary
 
 >[!success] Mission Success
 
->[!summary]
->‘Fasten Your Space Belts’ was Rocket Lab’s first of multiple new missions for [[BlackSky]]. The mission introduced their newest 35cm high-resolution Gen-3 satellites to orbit, allowing them to greatly enhance and optimize their geospatial intelligence capabilities.
+‘Fasten Your Space Belts’ was Rocket Lab’s first of multiple new missions for [[BlackSky]]. The mission introduced their newest 35cm high-resolution Gen-3 satellites to orbit, allowing them to greatly enhance and optimize their geospatial intelligence capabilities.
 Like earlier Black Sky launches on [[Electron]], this mission was supported by a Rocket Lab manufactured [[Motorized Lightband]] separation systems for the satellite to attach to and deploy from Electron once in space.
 'Fasten Your Space Belts' was the ninth launch for BlackSky since 2019, making Rocket Lab the most prolific launch provider for BlackSky’s constellation to date.
->
+
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720323914590/)
 
 
@@ -47,17 +47,17 @@ Like earlier Black Sky launches on [[Electron]], this mission was supported by a
 ![[Pasted image 20250406152034.png|300]]
 
 
-## 📦 Payload
+## Payload
 
 X1 [[BlackSky#🛰️ Space Systems#BlackSky Gen-3|BlackSky Gen-3]] ![[BlackSky#🛰️ Space Systems#BlackSky Gen-3|BlackSky Gen-3]]
 
-## 📽️ Launch Video
+## Launch Video
 
 ![](https://www.youtube.com/watch?v=pv_Zw8UK3H0)
 
 🔗 Backup Link: https://www.youtube.com/watch?v=pv_Zw8UK3H0
 
-## 📰 News
+## News
 %%DATAVIEW_PUBLISHER: start
 ```
 table published as "Published"

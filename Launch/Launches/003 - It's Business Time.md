@@ -1,5 +1,4 @@
 ---
-
 tags:
   - electron
   - launch
@@ -20,12 +19,12 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/its-business-time/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  003 - It's Business Time
+## Mission Summary 
 
 >[!success] Mission Success
 
->[!summary] 
 It's Business Time was Rocket Lab's third Electron launch. It's Business Time was manifested with commercial satellites from Spire Global, Tyvak Nano-Satellite Systems, Fleet Space Technologies, as well as an educational payload from the Irvine CubeSat STEM Program (ICSP) and a drag sail technology demonstrator designed and built by High Performance Space Structure Systems GmBH (HPS GmbH).
->
+
 The payloads were launched to a 210km x 500km circular orbit at 85 degrees, before being circularized to 500 x 500 km using Rocket Lab’s Curie engine powered Kick Stage.  
 
 #electron #launch #success
@@ -46,13 +45,13 @@ The payloads were launched to a 210km x 500km circular orbit at 85 degrees, befo
 
 ![[Pasted image 20250406130017.png|300]]
 
-## 📽️ Launch Video
+## Launch Video
 
 <div class="responsive-video">
 <iframe src="https://www.youtube.com/embed/sPwMuUxSrcA" title="Rocket Lab&#39;s Electron - It's Business Time Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>   
 </div>
 
-## 📰 News
+## News
 %%DATAVIEW_PUBLISHER: start
 ```
 table published as "Published"

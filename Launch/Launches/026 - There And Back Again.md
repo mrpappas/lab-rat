@@ -24,15 +24,16 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/there-and-
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  026 - There And Back Again
 
+## Mission Summary 
+
 >[!success] Mission Success
 
->[!summary]
 Launched from Pad A at Rocket Lab Launch Complex 1 on New Zealand’s Mahia Peninsula, the “There And Back Again” mission was Rocket Lab’s 26th Electron launch.
->
+
 The “There And Back Again” mission deployed 34 satellites to a sun synchronous orbit for a variety of customers including [[Alba Orbital]], [[Astrix Astronautics]], [[Aurora Propulsion Technologies]], [[E-Space]], [[Spaceflight]] Inc., and [[Unseenlabs]], and brought the total number of satellites launched by Electron to 146.
->
+
 “There And Back Again” was also a recovery mission where, for the first time, Rocket Lab caught Electron’s first stage as it returned from space under parachutes using a helicopter. The successful catch brings Electron one step closer to being the first reusable orbital small sat launcher.
->
+
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720301762910/)
 
 #electron #launch #success
@@ -54,13 +55,13 @@ The “There And Back Again” mission deployed 34 satellites to a sun synchrono
 ![[Pasted image 20250406135854.png|300]]
 
 
-## 📽️ Launch Video
+## Launch Video
 
 <div class="responsive-video">
 <iframe src="https://www.youtube.com/embed/6nODVPGHQcc" title="Rocket Lab&#39;s Electron - There And Back Again Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
 </div>
 
-## 📰 News
+## News
 %%DATAVIEW_PUBLISHER: start
 ```
 table published as "Published"

@@ -17,14 +17,13 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/elana-19/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  004 - NASA ELaNa-19
+## Mission Summary 
 
 >[!success] Mission Success
 
->[!summary] 
 The ELaNa-19 mission for NASA (Educational Launch of Nanosatellites 19) was Rocket Lab’s fourth Electron launch and the company’s first mission for NASA. The mission saw Rocket Lab’s Electron launch vehicle loft 13 CubeSats to low Earth orbit.
->
-The launch was significant for the small satellite industry as it was the first time NASA CubeSats will enjoyed a dedicated ride to orbit on a commercial launch vehicle, thanks to NASA’s forward-leaning Venture Class Launch Services (VCLS) initiative. 
 
+The launch was significant for the small satellite industry as it was the first time NASA CubeSats will enjoyed a dedicated ride to orbit on a commercial launch vehicle, thanks to NASA’s forward-leaning Venture Class Launch Services (VCLS) initiative. 
 
 #electron #launch #success
 
@@ -44,13 +43,13 @@ The launch was significant for the small satellite industry as it was the first 
 
 ![[Pasted image 20250406130112.png|300]]
 
-## 📽️ Launch Video
+## Launch Video
 
 <div class="responsive-video">
 <iframe src="https://www.youtube.com/embed/F7Kr3664hJs" title="Rocket Lab&#39;s Electron - NASA ELaNa-19 Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>   
 </div>
 
-## ✏️ Notes
+## Notes
 
 Cubesats Deployed:
 
@@ -86,7 +85,6 @@ Cubesats Deployed:
 
 **CubeSat:** SHFT-1  
 **Organization:** NASA JPL
-
 
 ## 📰 News
 %%DATAVIEW_PUBLISHER: start

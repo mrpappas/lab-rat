@@ -18,15 +18,16 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/on-closer-
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  044 - On Closer Inspection
 
+## Mission Summary 
+
 >[!Success] Mission Success
 
->[!summary]
 The ‘On Closer Inspection’ mission successfully launched on February 19th NZDT. The mission lifted-off from Rocket Lab Launch Complex 1 in New Zealand and deployed the Active Debris Removal by [[Astroscale-Japan]] (ADRAS-J) satellite for Astroscale Japan Inc. The mission is the first phase of an orbital debris removal program, and during this phase ADRAS-J is designed to test technologies and operations for approaching and monitoring debris objects, also known as space junk, and delivering data that will assist in removing it, to ensure the sustainable use of space for future generations.
->
+
 The 150-kilogram ADRAS-J satellite will approach an aged, derelict rocket stage in orbit to observe it closely, understand how it behaves and determine potential methods for its assisted deorbiting in future. The rocket stage it will be observing is the Japanese H-2A upper stage left in low Earth orbit after the launch of the GOSAT Earth observation satellite in 2009. ADRAS-J will fly around the stage, 11 meters long and four meters in diameter, inspecting it with cameras. After deployment from Electron, Astroscale’s full mission will take between three and six months to complete.
->
+
 To enable the rendezvous with a non-cooperative space object required a dedicated launch, highly responsive mission planning and extremely tight margins on orbital parameters. Rocket Lab only received the final perigee, apogee, and inclination from Astroscale 20 days before launch. Only then could argument of perigee targets for different days within the 14-day window be selected, essentially determining the timing of Electron Kick Stage burns to facilitate the unique elliptical orbit required depending on the launch date. The mission also demanded highly accurate orbital insertion with tighter margins than required on most standard missions. In addition, the exact T-0 was only defined the day prior to launch and the required LTAN accuracy only allowed for +/- 15 seconds.
->
+
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720314661187/)
 
 #electron #launch #success
@@ -49,7 +50,7 @@ To enable the rendezvous with a non-cooperative space object required a dedicate
 ![[Pasted image 20250406141959.png|300]]
 
 
-## 📽️ Launch Video
+## Launch Video
 
 <div class="responsive-video">
 <iframe src="https://www.youtube.com/embed/dcuZMP1m_g8" title="Rocket Lab&#39;s Electron - On Closer Inspection Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
@@ -62,7 +63,7 @@ To enable the rendezvous with a non-cooperative space object required a dedicate
 </div>
 
 
-## 📰 News
+## News
 %%DATAVIEW_PUBLISHER: start
 ```
 table published as "Published"

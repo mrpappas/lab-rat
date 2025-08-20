@@ -17,20 +17,19 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/without-mission-a-beat/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  025 - Without Mission A Beat
+## Mission Summary 
 
 >[!success] Mission Success
 
->[!summary]
 Rocket Lab launched the “Without Mission A Beat” mission from Rocket Lab Launch Complex 1 Pad A on April 2, 2022 UTC.  The launch was a dedicated mission for BlackSky through global launch services provider Spaceflight Inc. 
->
+
 “Without Mission A Beat” carried a pair of BlackSky rapid-revisit, high-resolution Earth-imaging satellites to low Earth orbit, which expanded BlackSky’s constellation to 14 satellites. Rocket Lab has delivered the majority of BlackSky’s constellation to orbit on Electron missions since 2019.
->
+
 “Without Mission A Beat” was Rocket Lab’s 25th Electron launch brought the total number of satellites launched by the company to 112. 
->
+
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720301776029/)
 
 #electron #launch #success
-
 
 | **Mission Name** | Without Mission A Beat                                                                                     |
 | ---------------- | ---------------------------------------------------------------------------------------------------------- |
@@ -49,13 +48,13 @@ Rocket Lab launched the “Without Mission A Beat” mission from Rocket Lab Lau
 
 ![[Pasted image 20250406135750.png|300]]
 
-## 📽️ Launch Video
+## Launch Video
 
 <div class="responsive-video">
 <iframe src="https://www.youtube.com/embed/yU2-0J5w0oE" title="Rocket Lab&#39;s Electron - Without Mission A Beat Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
 </div>
 
-## 📰 News
+## News
 %%DATAVIEW_PUBLISHER: start
 ```
 table published as "Published"

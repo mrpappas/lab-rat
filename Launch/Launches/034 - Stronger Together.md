@@ -17,16 +17,16 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/stronger-together/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  034 - Stronger Together
+## Mission Summary 
 
 >[!success] Mission Success
 
->[!summary]
 The “Stronger Together” mission was Rocket Lab’s second Electron mission from its dedicated launch pad at Rocket Lab Launch Complex 2 (LC-2) on Wallops Island, Virginia.
->
+
 The launch was a dedicated mission for Capella Space, a leading U.S. satellite manufacturer and Earth observation company. “Stronger Together” will deliver to orbit two more Synthetic Aperture Radar (SAR) satellites that enable Capella Space to deliver the highest quality, highest resolution SAR imagery commercially available with the fastest order-to delivery time, empowering organizations across the public and private sector to make informed, accurate decisions.
->
+
 “Stronger Together” was Capella Space’s second launch with Rocket Lab on Electron and its first from Rocket Lab Launch Complex 2 in Virginia. Supporting Rocket Lab’s vertical integration strategy, Rocket Lab also supplied Capella Space with two of Rocket Lab’s own Motorized Lightbands; separation systems designed to separate the Capella satellites from Electron once in orbit.
->
+
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720306688906/)
 
 #electron #launch #success
@@ -48,13 +48,13 @@ The launch was a dedicated mission for Capella Space, a leading U.S. satellite m
 
 ![[Pasted image 20250406140658.png|300]]
 
-## 📽️ Launch Video
+## Launch Video
 
 <div class="responsive-video">
 <iframe src="https://www.youtube.com/embed/xIMaf8X0FlM" title="Rocket Lab&#39;s Electron - Stronger Together Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
 </div>
 
-## 📰 News
+## News
 %%DATAVIEW_PUBLISHER: start
 ```
 table published as "Published"

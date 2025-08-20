@@ -19,16 +19,19 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/we-will-ne
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  041 - We Will Never Desert You
 
+
+
+## Mission Summary
+
 >[!Failure] Mission Failure
 
->[!summary]
 Launched on September 19, 2023, from Launch Complex 1 in New Zealand, the ‘We Will Never Desert You’ mission was Rocket Lab's 41st Electron launch. The mission was launched to deploy a synthetic aperture radar (SAR) Earth imaging Acadia satellite for Capella Space, but Electron experienced an anomaly at stage two ignition, resulting in the loss of the mission. 
->
+
 Anomaly occurred 2 minutes 30 seconds into the flight.
->
+
 "The cause of the anomaly is a highly complex set of conditions that are extremely difficult to replicate in testing. However, we believe the findings of the Rocket Lab investigation team overwhelmingly indicate that an electrical arc occurred within the power supply system that provides high voltage to the Rutherford engine’s motor controllers, shorting the battery packs which provide power to the launch vehicle’s upper stage."
 [Source](https://www.businesswire.com/news/home/20231108450544/en/Rocket-Lab-Announces-Third-Quarter-2023-Financial-Results-Issues-Guidance-For-Fourth-Quarter-2023-and-Revenue-Guidance-for-First-Quarter-2024)
->
+
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720311276483/)
 
 #electron #launch #failure #anomaly
@@ -49,17 +52,17 @@ Anomaly occurred 2 minutes 30 seconds into the flight.
 
 ![[Pasted image 20250406141712.png|300]]
 
-### 📦 Payload
+## Payload
 
 x1 [[Capella Space#🛰️ Space Systems#Acadia|Acadia SAR]] Satellite ![[Capella Space#🛰️ Space Systems#Acadia|Acadia SAR]]
 
-## 📽️ Launch Video
+## Launch Video
 
 <div class="responsive-video">
 <iframe src="https://www.youtube.com/embed/AfYFqsk_NGk" title="Rocket Lab&#39;s Electron - We Will Never Desert You Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
 </div>
 
-## ✏️ Notes
+## Notes
 
 
 This anomaly delayed all Electron launches for ~3 months.
@@ -76,7 +79,7 @@ Three rare conditions had to present simultaneously in the low-pressure space en
 Source: [[Rocket Lab Sets Next Electron Launch Window, Provides Update on Anomaly Review]]
 
 
-## 📰 News
+## News
 %%DATAVIEW_PUBLISHER: start
 ```
 table published as "Published"

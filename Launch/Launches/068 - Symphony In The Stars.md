@@ -15,19 +15,19 @@ recovery: Not Attempt Likely
 mission_link: https://rocketlabcorp.com/missions/missions-launched/symphony-in-the-stars/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>   <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  068 - Symphony In The Stars
+## Mission Summary 
 
 >[!success] Mission Success
 
->[!summary]
 'Symphony In The Stars' was the first of two dedicated missions on Electron to deploy a single spacecraft to a 650km circular Earth orbit for a confidential commercial customer. The mission launched less than 48 hours after Electron's 67th launch, making 'Symphony In The Stars' part of Rocket Lab's fastest launch turnaround from Launch Complex 1 to date.
->
+
 A second dedicated launch on Electron to meet those same mission requirements is scheduled for launch before the end of 2025.
->
+
 These dedicated Electron launches demonstrate both the strength of Rocket Lab’s responsive launch capabilities and its increasing launch cadence as the global leader in dedicated small launch. With demand for 20+ launches in 2025 and 100% mission success for all Electron launches this year, Electron is continually sought after by satellite operators across commercial, civil, and government missions, and remains on track for another record year of launches from Rocket Lab’s Launch Complex 1 and Launch Complex 2 orbital launch sites in Mahia, New Zealand and Wallops Island, Virginia.
->
->>[!hint] Note: The confidential customer was leaked to likely be [[EchoStar]] deploying one of their [[EchoStar#Lyra Block-1|Lyra Block-1]] satellites - [Source: @trypto_tran](https://x.com/trypto_tran/status/1936052601558385078)
->
->[📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720327170026/with/54618999730)
+
+> Note: The confidential customer was leaked to likely be [[EchoStar]] deploying one of their [[EchoStar#Lyra Block-1|Lyra Block-1]] satellites - [Source: @trypto_tran](https://x.com/trypto_tran/status/1936052601558385078)
+
+[📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720327170026/with/54618999730)
 
 | **Mission Name** | Symphony In The Stars                                                                                |
 | ---------------- | ---------------------------------------------------------------------------------------------------- |
@@ -45,19 +45,19 @@ These dedicated Electron launches demonstrate both the strength of Rocket Lab’
 
 ![[Pasted image 20250618202203.png|300]]
 
-## 📦 Payload
+## Payload
 
 x1 [[EchoStar#Lyra Block-1|Echostar Lyra Block-1]]
 
 ![[EchoStar#Lyra Block-1]]
 
-## 📽️ Launch Video
+## Launch Video
 
 ![](https://www.youtube.com/watch?v=ewgd5BPw4tc)
 
 🔗 Backup Link: https://www.youtube.com/watch?v=ewgd5BPw4tc
 
-## 📰 News
+## News
 
 %%DATAVIEW_PUBLISHER: start
 ```

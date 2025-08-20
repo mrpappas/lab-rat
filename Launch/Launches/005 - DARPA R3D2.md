@@ -17,18 +17,17 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/darpa-r3d2/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  005 - DARPA R3D2
+## Mission Summary 
 
 >[!success] Mission Success
 
->[!summary]
 The DARPA R3D2 mission was Rocket Lab’s fifth mission and the company’s first launch of 2019.
->
-The mission launched the R3D2 (Radio Frequency Risk Reduction Deployment Demonstration) payload for DARPA. R3D2 was a prototype reflect array antenna designed to improve radio communications in small spacecraft.
->
-The R3D2 antenna, made of a tissue-thin Kapton membrane, packed tightly inside a small satellite for stowage during launch, before deploying to its full size of 2.25 meters in diameter once it reached low Earth orbit. By compacting a large antenna into a small satellite, the spacecraft can provide significant capability, negating the need for satellite owners to build large satellites that can only be launched as a ride-share payload on big rockets with significant price tags and lengthy delays.
->
-The 150kg R3D2 satellite lifted off on an Electron rocket from Launch Complex 1 on New Zealand’s Māhia Peninsula and was deployed to a 425kmx425km orbit at 39.5 degrees by Electron’s Kick Stage, a nimble upper stage designed to insert payloads with precise accuracy before deorbiting itself and leaving no space junk behind. 
 
+The mission launched the R3D2 (Radio Frequency Risk Reduction Deployment Demonstration) payload for DARPA. R3D2 was a prototype reflect array antenna designed to improve radio communications in small spacecraft.
+
+The R3D2 antenna, made of a tissue-thin Kapton membrane, packed tightly inside a small satellite for stowage during launch, before deploying to its full size of 2.25 meters in diameter once it reached low Earth orbit. By compacting a large antenna into a small satellite, the spacecraft can provide significant capability, negating the need for satellite owners to build large satellites that can only be launched as a ride-share payload on big rockets with significant price tags and lengthy delays.
+
+The 150kg R3D2 satellite lifted off on an Electron rocket from Launch Complex 1 on New Zealand’s Māhia Peninsula and was deployed to a 425kmx425km orbit at 39.5 degrees by Electron’s Kick Stage, a nimble upper stage designed to insert payloads with precise accuracy before deorbiting itself and leaving no space junk behind. 
 
 #electron #launch #success
 
@@ -46,14 +45,13 @@ The 150kg R3D2 satellite lifted off on an Electron rocket from Launch Complex 1 
 | **Mission Link** | [DARPA R3D2](https://www.rocketlabusa.com/missions/missions-launched/darpa-r3d2/)             |
 | **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Rocket-Lab-press-kit-DARPA-R3D4.pdf) |
 
-
-## 📽️ Launch Video
+## Launch Video
 
 <div class="responsive-video">
 <iframe src="https://www.youtube.com/embed/TGhlWMJtDEI" title="Rocket Lab&#39;s Electron - DARPA R3D2 Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
 </div>
 
-## 📰 News
+## News
 %%DATAVIEW_PUBLISHER: start
 ```
 table published as "Published"

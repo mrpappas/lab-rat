@@ -15,20 +15,19 @@ recovery: No Attempt Made
 mission_link: https://rocketlabcorp.com/missions/missions-launched/the-mountain-god-guards/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span> <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  066 - The Mountain God Guards
+## Mission Summary
 
 >[!success] Mission Success
 
->[!summary]
 ‘The Mountain God Guards’ was the fourth launch on [[Electron]] for multi-launch customer, Institute for Q-shu Pioneers of Space, Inc. ([[iQPS]]), a Japan-based Earth imaging company.
->
-The mission launched a single [[📦 Payload Types#Synthetic Aperture Radar (SAR)|Synthetic Aperture Radar (SAR)]] imaging satellite called QPS-SAR-11 (nicknamed YAMATSUMI-I for the Japanese god of mountains) to a 575km circular Earth orbit, from where the satellite joined the rest of the iQPS constellation in providing high resolution images and Earth monitoring services globally. 
->
-Rocket Lab has now deployed four Electron missions for iQPS with 100% mission success: [[061 - The Lightning God Reigns]] and [[064 - The Sea God Sees]], were successfully deployed to space by Electron earlier this year as the first two missions of an eight-launch contract across 2025 and 2026 for iQPS; while a third launch, [[042 - The Moon God Awakens]], was successfully launched in December 2023.
->
-'The Mountain God Guards' will be Rocket Lab’s eighth mission of 2025, its 66th Electron launch overall, and will bring the total number of satellites delivered to space by Electron to 227.
->
->[📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720326782701/)
 
+The mission launched a single [[📦 Payload Types#Synthetic Aperture Radar (SAR)|Synthetic Aperture Radar (SAR)]] imaging satellite called QPS-SAR-11 (nicknamed YAMATSUMI-I for the Japanese god of mountains) to a 575km circular Earth orbit, from where the satellite joined the rest of the iQPS constellation in providing high resolution images and Earth monitoring services globally. 
+
+Rocket Lab has now deployed four Electron missions for iQPS with 100% mission success: [[061 - The Lightning God Reigns]] and [[064 - The Sea God Sees]], were successfully deployed to space by Electron earlier this year as the first two missions of an eight-launch contract across 2025 and 2026 for iQPS; while a third launch, [[042 - The Moon God Awakens]], was successfully launched in December 2023.
+
+'The Mountain God Guards' will be Rocket Lab’s eighth mission of 2025, its 66th Electron launch overall, and will bring the total number of satellites delivered to space by Electron to 227.
+
+[📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720326782701/)
 
 | **Mission Name** | The Mountain God Guards                                                                                             |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------- |
@@ -46,7 +45,7 @@ Rocket Lab has now deployed four Electron missions for iQPS with 100% mission su
 
 ![[Pasted image 20250603181608.png|300]]
 
-## 📦 Payload
+## Payload
 
 x 1 [[iQPS#🛰️ Space Systems#QPS-SAR|QPS-SAR]]
 ![[iQPS#🛰️ Space Systems#QPS-SAR]]
@@ -58,7 +57,7 @@ x 1 [[iQPS#🛰️ Space Systems#QPS-SAR|QPS-SAR]]
 
 🔗 Backup Link: https://www.youtube.com/watch?v=PplSn4YNbz0
 
-## 📰 News
+## News
 
 %%DATAVIEW_PUBLISHER: start
 ```

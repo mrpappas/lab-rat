@@ -15,16 +15,16 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/finding-hot-wildfires-near-you/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  063 - Finding Hot Wildfires Near You
+## Mission Summary
 
 >[!success] Mission Success
 
->[!summary]
 “Finding Hot Wildfires Near You” was a rapid turnaround mission for OroraTech, a Germany-based global provider of wildfire detection and monitoring solutions.
->
+
 Launched on March 27th 2025, the mission delivered 8x OroraTech Constellation Phase 1 satellites to a 550km orbit to expand its constellation providing data from space to help tackle wildfire challenges globally. The mission launched just four months from launch contract signing in order to meet the time-sensitive requirements of OroraTech's wildfire detection mission.
->
+
 “Finding Hot Wildfires Near You" was Rocket Lab's fifth mission of 2025 and 63rd Electron launch overall, and brought the total number of satellites delivered to space Electron to 224.
->
+
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720324521285/)
 
 
@@ -46,19 +46,19 @@ Launched on March 27th 2025, the mission delivered 8x OroraTech Constellation Ph
 
 
 ![[Pasted image 20250320132549.png|300]]
-## 📦 Payload
+## Payload
 
 x8 [[Orora Technlogies#🛰️ Space Systems#OTC-P1|OTC-P1]] satellites
 
 ![[Orora Technlogies#🛰️ Space Systems#OTC-P1|OTC-P1]]
 
-## 📽️ Launch Video
+## Launch Video
 
 ![](https://www.youtube.com/watch?v=M-ozUCTeDFE)
 
 🔗 Backup Link: https://www.youtube.com/watch?v=M-ozUCTeDFE
 
-## 📰 News
+## News
 
 %%DATAVIEW_PUBLISHER: start
 ```

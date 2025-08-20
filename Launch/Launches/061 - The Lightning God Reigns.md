@@ -15,16 +15,16 @@ recovery: No attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/the-lightning-god-reigns
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  061 - The Lightning God Reigns
+## Mission Summary
 
 >[!success] Mission Success
 
->[!summary]
 “The Lightning God Reigns” launched from Rocket Lab’s private orbital launch site, Rocket Lab Launch Complex 1, in New Zealand on March 15, 2025 at 1:00 p.m. NZDT (00:00 UTC)
->
+
 The mission launched a single [[📦 Payload Types#Synthetic Aperture Radar (SAR)|Synthetic Aperture Radar (SAR)]] imaging satellite to a 575km circular Earth orbit for iQPS called QPS-SAR-9 (nicknamed “SUSANOO-I”). The spacecraft joined iQPS’ growing Earth-imaging constellation that delivers high-resolution monitoring from specific locations every 10 minutes. 
->
+
 ‘The Lightning God Reigns’ was the first of eight upcoming launches for iQPS across 2025 and 2026 to build out iQPS‘s constellation, and follows the Company’s [[042 - The Moon God Awakens|earlier successful mission]] for iQPS launched in December 2023. Each upcoming mission includes a Rocket Lab Motorized Lightband, used to separate and deploy the satellite from Electron once in space.
->
+
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720324421002)
 
 
@@ -46,7 +46,7 @@ The mission launched a single [[📦 Payload Types#Synthetic Aperture Radar (SAR
 
 
 ![[Pasted image 20250314201500.png|300]]
-## 📦 Payload
+## Payload
 
 x 1 [[iQPS#🛰️ Space Systems#QPS-SAR|QPS-SAR]] ![[iQPS#🛰️ Space Systems#QPS-SAR|QPS-SAR]]
 
@@ -56,7 +56,7 @@ x 1 [[iQPS#🛰️ Space Systems#QPS-SAR|QPS-SAR]] ![[iQPS#🛰️ Space Systems
 
 🔗 Backup Link: https://www.youtube.com/watch?v=k-cuTDrVCmQ
 
-## 📰 News
+## News
 
 %%DATAVIEW_PUBLISHER: start
 ```

@@ -20,18 +20,18 @@ recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/to-be-announced/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  008 - Look Ma, No Hands
+## Mission Summary 
 
 >[!success] Mission Success
 
->[!summary]
 Rocket Lab's eighth mission lifted-off on 19 August UTC from [[Launch Complex 1]] in New Zealand, carrying a total of four satellites aboard an Electron launch vehicle.
->
+
 On board were satellites destined to begin a new constellation for UNSEENLABS, as well as more rideshare payloads for Spaceflight, consisting of a spacecraft for [[BlackSky]] and the United States Air Force Space Command.
->
+
 The mission launched a CubeSat that formed the cornerstone of a new maritime surveillance constellation for French company UNSEENLABS. The constellation aims to deliver precise, reliable, and secure maritime data, enabling organizations to monitor their own vessels and observe those that present risks, such as pirates and illegal vessels.
->
+
 Mission management and rideshare aggregator, Spaceflight, also manifested three satellites on its second rideshare mission with Rocket Lab. Among the rideshare payloads was BlackSky’s Global-4 Earth-imaging satellite. The satellite joined BlackSky Global-3, which was launched to low Earth orbit on an Electron vehicle in June 2019. BlackSky’s constellation delivers rapid-revisit satellite imagery to assist with monitoring economic activity such as crop development and herd migration, or surveying damage following natural disasters.
->
+
 The final spacecraft manifested on the mission were two experimental satellites for the United States Air Force Space Command, designed to test new technologies including propulsion, power, communications, and drag capabilities for potential applications on future spacecraft.
 
 
@@ -54,12 +54,12 @@ The final spacecraft manifested on the mission were two experimental satellites 
 
 ![[Pasted image 20250406131836.png|300]]
 
-## 📽️ Launch Video
+## Launch Video
 
 <div class="responsive-video">
 <iframe src="https://www.youtube.com/embed/SNuauG1Gvr8" title="Rocket Lab&#39;s Electron - Look Ma, No Hands Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
 </div>
-## 📰 News
+## News
 %%DATAVIEW_PUBLISHER: start
 ```
 table published as "Published"
