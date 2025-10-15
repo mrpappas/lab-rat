@@ -129,3 +129,28 @@ body:has(span.no-hover:hover) .mod-popover {
     pointer-events: auto; /* Enable interaction after delay */
   }
 }
+
+/* Add inner padding to embedded notes (transclusions) */
+.markdown-preview-view .markdown-embed,
+.is-live-preview .markdown-embed {
+  /* keep the existing border-left from the theme */
+  padding-left: 12px;           /* space between left border and content */
+  margin-left: 0;                /* avoid extra shift on narrow screens */
+}
+
+/* Ensure the content wrapper inside the embed also has some space */
+.markdown-preview-view .markdown-embed .markdown-embed-content {
+  padding-left: 4px;             /* subtle extra to avoid hugging the border */
+}
+
+/* If you use heading-only section embeds like ![[Note#Section]] */
+.markdown-preview-view .markdown-embed-title {
+  padding-left: 4px;
+}
+
+/* Obsidian Publish sometimes uses .transclusion/.is-embed */
+.markdown-preview-view .transclusion,
+.markdown-preview-view .internal-embed.is-embed:not(.pdf-embed):not(.image-embed) {
+  padding-left: 12px;
+  margin-left: 0;
+}

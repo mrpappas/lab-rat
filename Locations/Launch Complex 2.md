@@ -32,13 +32,15 @@ State-of-the-art launch control center, payload integration factory and vehicle 
 ```
 table customer as "Customer", launch_date as "Date", location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
-where location = [[Launch Complex 2#Launch Pad 0C]]
+where location = [[Launch Complex 2#Launch Pad 0C]] or location = [[Launch Complex 2]]
 sort launch_date desc
 ```
 %%
 
 | File                                                                                            | Customer                                                                                                | Date             | Location                                               | Vehicle                          | Orbit & Mass             | Outcome |
 | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------------ | -------------------------------- | ------------------------ | ------- |
+| [[Launch/Launches/072 - JUSTIN.md\|072 - JUSTIN]]                                               | Confidential Customer                                                                                   | 2025-09-30 20:28 | [[Locations/Launch Complex 2.md#Launch Pad 0C\|LC2-0]] | [[Launch/HASTE.md\|HASTE]]       | Suborbital \| unknown    | ✅       |
+| [[Launch/Launches/071 - JENNA.md\|071 - JENNA]]                                                 | Confidential Customer                                                                                   | 2025-09-22 07:45 | [[Locations/Launch Complex 2.md#Launch Pad 0C\|LC2-0]] | [[Launch/HASTE.md\|HASTE]]       | Suborbital \| unknown    | ✅       |
 | [[Launch/Launches/057 - Stonehenge.md\|057 - Stonehenge]]                                       | Unknown*                                                                                                | 2024-12-13 00:00 | [[Locations/Launch Complex 2.md#Launch Pad 0C\|LC2-0]] | [[Launch/HASTE.md\|HASTE]]       | Suborbital \| unknown    | ✅       |
 | [[Launch/Launches/055 - HASTE A La Vista.md\|055 - HASTE A La Vista]]                           | [[Organization/Partners/U.S. Department of Defense.md\|U.S. Department of Defense]]                     | 2024-11-24 06:00 | [[Locations/Launch Complex 2.md#Launch Pad 0C\|LC2-0]] | [[Launch/HASTE.md\|HASTE]]       | Suborbital \| unknown    | ✅       |
 | [[Launch/Launches/046 - Live And Let Fly.md\|046 - Live And Let Fly]]                           | [[Organization/Partners/National Reconnaissance Office (NRO).md\|National Reconnaissance Office (NRO)]] | 2024-03-21 06:40 | [[Locations/Launch Complex 2.md#Launch Pad 0C\|LC2-0]] | [[Launch/Electron.md\|Electron]] | Classified \| Classified | ✅       |

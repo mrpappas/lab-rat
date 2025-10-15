@@ -85,13 +85,14 @@ sort published desc
 ```
 %%
 
-| File                                                                                                                                                                                                                                   | Published        |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
-| [[News/Rocket Lab Ships Twin Satellites to Launch Site for NASA Mars Mission  Rocket Lab.md\|Rocket Lab Ships Twin Satellites to Launch Site for NASA Mars Mission  Rocket Lab]]                                                       | August 16, 2024  |
-| [[News/Rocket Lab Completes Integration and Testing of Twin Spacecraft for NASA Mars Mission.md\|Rocket Lab Completes Integration and Testing of Twin Spacecraft for NASA Mars Mission]]                                               | July 29, 2024    |
-| [[News/Rocket Lab Integrating Twin Spacecraft for Mission to Mars for NASA.md\|Rocket Lab Integrating Twin Spacecraft for Mission to Mars for NASA]]                                                                                   | October 18, 2023 |
-| [[News/Rocket Lab Spacecraft Confirmed for Mars as NASA Greenlights ESCAPADE Small Satellite Interplanetary Mission.md\|Rocket Lab Spacecraft Confirmed for Mars as NASA Greenlights ESCAPADE Small Satellite Interplanetary Mission]] | August 23, 2021  |
-| [[News/Rocket Lab Awarded Contract to Design Twin Spacecraft for Mars.md\|Rocket Lab Awarded Contract to Design Twin Spacecraft for Mars]]                                                                                             | June 15, 2021    |
+| File                                                                                                                                                                                                                                   | Published          |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[News/Rocket Lab’s Two Mars-Bound Spacecraft Arrive in Florida Ahead of Launch.md\|Rocket Lab’s Two Mars-Bound Spacecraft Arrive in Florida Ahead of Launch]]                                                                         | September 22, 2025 |
+| [[News/Rocket Lab Ships Twin Satellites to Launch Site for NASA Mars Mission  Rocket Lab.md\|Rocket Lab Ships Twin Satellites to Launch Site for NASA Mars Mission  Rocket Lab]]                                                       | August 16, 2024    |
+| [[News/Rocket Lab Completes Integration and Testing of Twin Spacecraft for NASA Mars Mission.md\|Rocket Lab Completes Integration and Testing of Twin Spacecraft for NASA Mars Mission]]                                               | July 29, 2024      |
+| [[News/Rocket Lab Integrating Twin Spacecraft for Mission to Mars for NASA.md\|Rocket Lab Integrating Twin Spacecraft for Mission to Mars for NASA]]                                                                                   | October 18, 2023   |
+| [[News/Rocket Lab Spacecraft Confirmed for Mars as NASA Greenlights ESCAPADE Small Satellite Interplanetary Mission.md\|Rocket Lab Spacecraft Confirmed for Mars as NASA Greenlights ESCAPADE Small Satellite Interplanetary Mission]] | August 23, 2021    |
+| [[News/Rocket Lab Awarded Contract to Design Twin Spacecraft for Mars.md\|Rocket Lab Awarded Contract to Design Twin Spacecraft for Mars]]                                                                                             | June 15, 2021      |
 
 %% DATAVIEW_PUBLISHER: end %%
 

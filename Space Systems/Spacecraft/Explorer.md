@@ -56,7 +56,7 @@ Explorer is a high Delta-v spacecraft with large propellant tanks, deep space ca
 
 ##### [[Advanced Space#CAPSTONE]]
 
-![[Advanced Space#CAPSTONE#Summary]]
+![[Advanced Space#CAPSTONE]]
 
 
 

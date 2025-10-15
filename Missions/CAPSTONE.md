@@ -25,13 +25,7 @@ CAPSTONE is one of the first steps to learn how to operate more robust missions 
 
 ### [[Explorer#Lunar Photon|Lunar Photon]]
 
-![[Explorer#Lunar Photon#Summary]]
-
-## Payload
-
-#### [[Advanced Space#CAPSTONE]]
-
-![[Advanced Space#CAPSTONE#Summary]]
+![[Explorer#Lunar Photon]]
 
 ## Objectives
 

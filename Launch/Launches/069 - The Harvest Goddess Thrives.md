@@ -76,8 +76,9 @@ sort published desc
 %%DATAVIEW_PUBLISHER: end %%
 
 🔗 [SatNews.com - Rocket Lab’s successful launch from New Zealand of iQPS’ ‘The Harvest Goddess Thrives’](https://news.satnews.com/2025/08/05/rocket-labs-successful-launch-from-new-zealand-of-iqps-the-harvest-goddess-thrives/) 
-🔗 [Space.com - Rocket Lab launches private Japanese radar satellite to orbit from New Zealand (video)](Rocket Lab launches private Japanese radar satellite to orbit from New Zealand (video))
+🔗 [Space.com - Rocket Lab launches private Japanese radar satellite to orbit from New Zealand (video)](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launch-private-japanese-radar-satellite-iqps-harvest-god-thrives)
 
+---
 
 ![](https://x.com/QPS_Inc/status/1952626539545133197)
 

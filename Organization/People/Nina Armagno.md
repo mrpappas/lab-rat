@@ -39,8 +39,8 @@ sort Filing_Date desc
 | [[Filings/2024/Form 4/9-23-24 Form 4 - Nina Armagno.md\|9-23-24 Form 4 - Nina Armagno]]                                            | [[Filings/Filing Definitions.md#Form 4\|Form 4]]     | September 23, 2024 |
 | [[Filings/2024/Form 4/6-14-24 Form 4 - Nina Armagno.md\|6-14-24 Form 4 - Nina Armagno]]                                            | [[Filings/Filing Definitions.md#Form 4\|Form 4]]     | June 14, 2024      |
 | [[Filings/2023/8-K/11-01-23 8-K - Addition of Nina Armagno to the Board.md\|11-01-23 8-K - Addition of Nina Armagno to the Board]] | [[Filings/Filing Definitions.md#8-K\|8-K]]           | November 01, 2023  |
-| [[Filings/2023/Form 3/11-02-23 Form 3 - Nina Armagno.md\|11-02-23 Form 3 - Nina Armagno]]                                          | [[Filings/Filing Definitions.md#Form 3\|Form 3]]     | November 01, 2023  |
 | [[Filings/2023/Form 4/11-02-23 Form 4 - Nina Armagno.md\|11-02-23 Form 4 - Nina Armagno]]                                          | [[Filings/Filing Definitions.md#Form 4\|Form 4]]     | November 01, 2023  |
+| [[Filings/2023/Form 3/11-02-23 Form 3 - Nina Armagno.md\|11-02-23 Form 3 - Nina Armagno]]                                          | [[Filings/Filing Definitions.md#Form 3\|Form 3]]     | November 01, 2023  |
 
 %%DATAVIEW_PUBLISHER: end %%
 

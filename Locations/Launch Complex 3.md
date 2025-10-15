@@ -8,10 +8,11 @@ sort published desc
 ```
 %%
 
-| File                                                                                                                                                                                     | Title                                                                                  | Published         |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ----------------- |
-| [[News/Rocket Lab Selects Virginia for Neutron Launch Site & Extensive Manufacturing Complex.md\|Rocket Lab Selects Virginia for Neutron Launch Site & Extensive Manufacturing Complex]] | Rocket Lab Selects Virginia for Neutron Launch Site & Extensive Manufacturing Complex  | February 28, 2022 |
-| [[News/Rocket Lab selects Wallops Flight Facility for US launch site.md\|Rocket Lab selects Wallops Flight Facility for US launch site]]                                                 | Rocket Lab selects Wallops Flight Facility for US launch site                          | October 17, 2018  |
+| File                                                                                                                                                                                                     | Title                                                                                         | Published         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ----------------- |
+| [[News/Rocket Lab Opens Launch Complex 3, A Critical Milestone On The Path To Neutron’s First Launch.md\|Rocket Lab Opens Launch Complex 3, A Critical Milestone On The Path To Neutron’s First Launch]] | Rocket Lab Opens Launch Complex 3, A Critical Milestone On The Path To Neutron’s First Launch | August 28, 2025   |
+| [[News/Rocket Lab Selects Virginia for Neutron Launch Site & Extensive Manufacturing Complex.md\|Rocket Lab Selects Virginia for Neutron Launch Site & Extensive Manufacturing Complex]]                 | Rocket Lab Selects Virginia for Neutron Launch Site & Extensive Manufacturing Complex         | February 28, 2022 |
+| [[News/Rocket Lab selects Wallops Flight Facility for US launch site.md\|Rocket Lab selects Wallops Flight Facility for US launch site]]                                                                 | Rocket Lab selects Wallops Flight Facility for US launch site                                 | October 17, 2018  |
 
 %%DATAVIEW_PUBLISHER: end %%
 
