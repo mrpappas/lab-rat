@@ -1,16 +1,15 @@
 ---
-
 tags:
   - electron
   - launch
   - success
-mission_name: "On Closer Inspection"
+mission_name: On Closer Inspection
 launch_date: 2024-02-19 14:52
 outcome: ✅
 customer: "[[Astroscale-Japan]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#SSO]]"
+orbit_type: "[[Orbits#SSO]]"
 target_orbit: 600 km | 98°
 payload_mass: 150 kg
 recovery: No Attempt
@@ -37,7 +36,7 @@ To enable the rendezvous with a non-cooperative space object required a dedicate
 | **Customer**     | [[Astroscale-Japan]]                                                                                  |
 | **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                     |
 | **Vehicle**      | [[Electron]]                                                                                          |
-| **Orbit Type**   | [[🌍 Orbits#SSO]]                                                                                     |
+| **Orbit Type**   | [[Orbits#SSO]]                                                                                     |
 | **Target Orbit** | 600 km &#124; 98°                                                                                     |
 | **Payload Mass** | 150 kg                                                                                                |
 | **Recovery**     | No Attempt                                                                                            |

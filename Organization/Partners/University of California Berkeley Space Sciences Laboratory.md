@@ -3,13 +3,13 @@ name: University of California Berkeley Space Sciences Laboratory
 website: https://www.ssl.berkeley.edu/
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> University of California Berkeley Space Sciences Laboratory
+## Partner Details
 
 **Website**: https://www.ssl.berkeley.edu/
 
->[!summary]
->The Space Sciences Laboratory (SSL) at UC Berkeley is a multidisciplinary research center focused on space exploration, astrophysics, planetary science, and space technology development. Established in 1959, SSL has been at the forefront of space research and collaborates with NASA, the Department of Energy, and international space agencies.
+The Space Sciences Laboratory (SSL) at UC Berkeley is a multidisciplinary research center focused on space exploration, astrophysics, planetary science, and space technology development. Established in 1959, SSL has been at the forefront of space research and collaborates with NASA, the Department of Energy, and international space agencies.
 
-## 📰 News
+## News
 
 %% DATAVIEW_PUBLISHER: start
 ```

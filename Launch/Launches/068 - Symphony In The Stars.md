@@ -1,14 +1,14 @@
 ---
 tags:
- - electron
- - launch
+  - electron
+  - launch
 mission_name: Symphony In The Stars
 launch_date: 2025-06-28 06:45
-outcome: "✅"
+outcome: ✅
 customer: "[[EchoStar|EchoStar (Confidential)]]"
 location: "[[Launch Complex 1#Launch Pad B|LC-1B]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#SSO]]"
+orbit_type: "[[Orbits#SSO]]"
 target_orbit: 650 km | 96°
 payload_mass: 74 kg
 recovery: Not Attempt Likely
@@ -35,7 +35,7 @@ These dedicated Electron launches demonstrate both the strength of Rocket Lab’
 | **Customer**     | Confidential Customer (Likely [[EchoStar]])                                                          |
 | **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                    |
 | **Vehicle**      | [[Electron]]                                                                                         |
-| **Orbit Type**   | [[🌍 Orbits#SSO]]                                                                                    |
+| **Orbit Type**   | [[Orbits#SSO]]                                                                                    |
 | **Target Orbit** | 650km \| 96°                                                                                         |
 | **Payload Mass** | 74 kg                                                                                                |
 | **Recovery**     | No Attempt Likely                                                                                    |

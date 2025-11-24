@@ -13,7 +13,7 @@ website: https://www.airbus.com/en
 
 ### [[OneWeb Constellation]]
 
-Rocket Lab was selected by Airbus to provide space grade solar panels as part of their contract to build out 100 OneWeb [[🌍 Orbits#LEO|LEO]] satellites for [[Eutelsat Group]]. Rocket Lab's contract is for 200 solar panels inclusive of carbon composite panel substrates, solar cells, and photovoltaic assemblies.
+Rocket Lab was selected by Airbus to provide space grade solar panels as part of their contract to build out 100 OneWeb [[Orbits#LEO|LEO]] satellites for [[Eutelsat Group]]. Rocket Lab's contract is for 200 solar panels inclusive of carbon composite panel substrates, solar cells, and photovoltaic assemblies.
 
 [🔗 Source](https://www.airbus.com/en/newsroom/press-releases/2024-12-airbus-awarded-eutelsat-contract-to-build-oneweb-low-orbit)
 

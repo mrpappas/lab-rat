@@ -4,7 +4,7 @@ aliases: ["Contract Vehicles", "IDIQs"]
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  Contracts & Vehicles
 
-A collection of multi-award contracts and framework that Rocket Lab is on (or competing for).  
+A collection of multi-award contracts and frameworks that Rocket Lab is on (or competing for).  
 ## 🔗 Programs
 
 1. [[VADR]] - NASA

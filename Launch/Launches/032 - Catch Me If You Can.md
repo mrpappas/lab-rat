@@ -1,16 +1,15 @@
 ---
-
 tags:
   - electron
   - launch
   - success
-mission_name: "Catch Me If You Can"
+mission_name: Catch Me If You Can
 launch_date: 2022-11-04 17:27
 outcome: ✅
 customer: "[[Swedish National Space Agency]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#SSO]]"
+orbit_type: "[[Orbits#SSO]]"
 target_orbit: 585 km | 97.66°
 payload_mass: 50 kg
 recovery: Partial Failure (Aerial Capture)
@@ -37,7 +36,7 @@ The “Catch Me If You Can” mission also resulted in a successful ocean splash
 | **Customer**     | [[Swedish National Space Agency]]                                                                   |
 | **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                   |
 | **Vehicle**      | [[Electron]]                                                                                        |
-| **Orbit Type**   | [[🌍 Orbits#SSO]]                                                                                   |
+| **Orbit Type**   | [[Orbits#SSO]]                                                                                   |
 | **Target Orbit** | 585 km &#124; 97.66°                                                                                |
 | **Payload Mass** | 50 kg                                                                                               |
 | **Recovery**     | Partial Failure (Aerial Capture)                                                                    |

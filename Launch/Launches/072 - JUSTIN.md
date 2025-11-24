@@ -32,7 +32,7 @@ Rocket Lab successfully launched its HASTE launch vehicle from Launch Complex 2 
 | **Payload Mass** | Unknown                                 |
 | **Recovery**     | n/a                                     |
 | **Mission Link** | None                                    |
-| **Press Kit**    | 🚫 No Press Kit Issued for this Mission |
+| **Press Kit**    | 🚫 No Press Kit Issued for this mission |
 
 <!-- Mission Patch Here -->
 

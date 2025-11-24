@@ -24,7 +24,7 @@ This provides a great high level analysis of Rocket Lab's current business and p
 
 ## 📈 Latest Earnings Call
 
-[[2025 Q2]] - Includes Video, Transcript, SEC filings, Press Release, and Investor Presentation. See all Earnings Calls here -> [[Earnings Calls]]
+[[2025 Q3]] - Includes Video, Transcript, SEC filings, Press Release, and Investor Presentation. See all Earnings Calls here -> [[Earnings Calls]]
 
 ## 🚀 Recent Launches
 
@@ -39,18 +39,18 @@ limit 10
 ```
 %%
 
-| File                                                                                        | Customer                                                       | Date             | Outcome |
-| ------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ---------------- | ------- |
-| [[Launch/Launches/073 - Owl New World.md\|073 - Owl New World]]                             | [[Organization/Partners/Synspective.md\|Synspective]]          | 2025-10-14 16:33 | ✅       |
-| [[Launch/Launches/072 - JUSTIN.md\|072 - JUSTIN]]                                           | Confidential Customer                                          | 2025-09-30 20:28 | ✅       |
-| [[Launch/Launches/071 - JENNA.md\|071 - JENNA]]                                             | Confidential Customer                                          | 2025-09-22 07:45 | ✅       |
-| [[Launch/Launches/070 - Live, Laugh, Launch.md\|070 - Live, Laugh, Launch]]                 | [[Organization/Partners/EchoStar.md\|EchoStar (Confidential)]] | 2025-08-23 22:30 | ✅       |
-| [[Launch/Launches/069 - The Harvest Goddess Thrives.md\|069 - The Harvest Goddess Thrives]] | [[Organization/Partners/iQPS.md\|iQPS]]                        | 2025-08-05 04:10 | ✅       |
-| [[Launch/Launches/068 - Symphony In The Stars.md\|068 - Symphony In The Stars]]             | [[Organization/Partners/EchoStar.md\|EchoStar (Confidential)]] | 2025-06-28 06:45 | ✅       |
-| [[Launch/Launches/067 - Get The Hawk Outta Here.md\|067 - Get The Hawk Outta Here]]         | [[Organization/Partners/HawkEye 360.md\|HawkEye 360]]          | 2025-06-26 17:00 | ✅       |
-| [[Launch/Launches/066 - The Mountain God Guards.md\|066 - The Mountain God Guards]]         | [[Organization/Partners/iQPS.md\|iQPS]]                        | 2025-06-11 15:15 | ✅       |
-| [[Launch/Launches/065 - Full Stream Ahead.md\|065 - Full Stream Ahead]]                     | [[Organization/Partners/BlackSky.md\|BlackSky]]                | 2025-06-03 23:57 | ✅       |
-| [[Launch/Launches/064 - The Sea God Sees.md\|064 - The Sea God Sees]]                       | [[Organization/Partners/iQPS.md\|iQPS]]                        | 2025-05-17 08:17 | ✅       |
+| File                                                                                        | Customer                                                       | Date                 | Outcome |
+| ------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | -------------------- | ------- |
+| [[Launch/Launches/077 - Raise and Shine.md\|077 - Raise and Shine]]                         | [[Organization/Partners/JAXA.md\|JAXA]]                        | 2025-12-05 03:00     | ⌛       |
+| [[Launch/Launches/076 - Follow My Speed.md\|076 - Follow My Speed]]                         | [[Organization/Partners/BlackSky.md\|BlackSky]]                | 2025-11-20 12:43     | ✅       |
+| [[Launch/Launches/075 - Prometheus Run.md\|075 - Prometheus Run]]                           | [[Organization/Partners/MDA.md\|MDA]]                          | 2025-11-18 13:00 UTC | ✅       |
+| [[Launch/Launches/074 - The Nation God Navigates.md\|074 - The Nation God Navigates]]       | [[Organization/Partners/iQPS.md\|iQPS]]                        | 2025-11-05 19:51     | ✅       |
+| [[Launch/Launches/073 - Owl New World.md\|073 - Owl New World]]                             | [[Organization/Partners/Synspective.md\|Synspective]]          | 2025-10-14 16:33     | ✅       |
+| [[Launch/Launches/072 - JUSTIN.md\|072 - JUSTIN]]                                           | Confidential Customer                                          | 2025-09-30 20:28     | ✅       |
+| [[Launch/Launches/071 - JENNA.md\|071 - JENNA]]                                             | Confidential Customer                                          | 2025-09-22 07:45     | ✅       |
+| [[Launch/Launches/070 - Live, Laugh, Launch.md\|070 - Live, Laugh, Launch]]                 | [[Organization/Partners/EchoStar.md\|EchoStar (Confidential)]] | 2025-08-23 22:30     | ✅       |
+| [[Launch/Launches/069 - The Harvest Goddess Thrives.md\|069 - The Harvest Goddess Thrives]] | [[Organization/Partners/iQPS.md\|iQPS]]                        | 2025-08-05 04:10     | ✅       |
+| [[Launch/Launches/068 - Symphony In The Stars.md\|068 - Symphony In The Stars]]             | [[Organization/Partners/EchoStar.md\|EchoStar (Confidential)]] | 2025-06-28 06:45     | ✅       |
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -94,18 +94,18 @@ limit 10
 ```
 %%
 
-| File                                                                                                                                                                                                                                       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [[News/Mission Success Rocket Lab Launches Latest Satellite for Synspective.md\|Mission Success Rocket Lab Launches Latest Satellite for Synspective]]                                                                                     |
-| [[News/Rocket Lab Secures Multiple Launches with Japan Aerospace Exploration Agency (JAXA).md\|Rocket Lab Secures Multiple Launches with Japan Aerospace Exploration Agency (JAXA)]]                                                       |
-| [[News/Rocket Lab Secures Latest Multi-Launch Contract with iQPS for Three Dedicated Electron Missions.md\|Rocket Lab Secures Latest Multi-Launch Contract with iQPS for Three Dedicated Electron Missions]]                               |
-| [[News/Rocket Lab Sets Launch Schedule for 1st of 21 New Missions with Synspective.md\|Rocket Lab Sets Launch Schedule for 1st of 21 New Missions with Synspective]]                                                                       |
-| [[News/Rocket Lab and Synspective Strike Another 10-Launch Deal, Boosting Contracted Missions to 21 Electron Launches.md\|Rocket Lab and Synspective Strike Another 10-Launch Deal, Boosting Contracted Missions to 21 Electron Launches]] |
-| [[News/Rocket Lab’s Two Mars-Bound Spacecraft Arrive in Florida Ahead of Launch.md\|Rocket Lab’s Two Mars-Bound Spacecraft Arrive in Florida Ahead of Launch]]                                                                             |
-| [[News/Rocket Lab Opens Launch Complex 3, A Critical Milestone On The Path To Neutron’s First Launch.md\|Rocket Lab Opens Launch Complex 3, A Critical Milestone On The Path To Neutron’s First Launch]]                                   |
-| [[News/Rocket Lab Successfully Launches 70th Electron Mission.md\|Rocket Lab Successfully Launches 70th Electron Mission]]                                                                                                                 |
-| [[News/Rocket Lab Announces Expanded U.S. Investments for National Security Programs and Semiconductor Manufacturing.md\|Rocket Lab Announces Expanded U.S. Investments for National Security Programs and Semiconductor Manufacturing]]   |
-| [[News/Rocket Lab Sets Launch Window for 70th Electron Mission.md\|Rocket Lab Sets Launch Window for 70th Electron Mission]]                                                                                                               |
+| File                                                                                                                                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[News/Rocket Lab Schedules First Dedicated Launch for Japan Aerospace Exploration Agency (JAXA).md\|Rocket Lab Schedules First Dedicated Launch for Japan Aerospace Exploration Agency (JAXA)]]                                                             |
+| [[News/Two Launches in Two Days from Two Hemispheres Rocket Lab Beats Annual Launch Record with Back-To-Back Electron Missions.md\|Two Launches in Two Days from Two Hemispheres Rocket Lab Beats Annual Launch Record with Back-To-Back Electron Missions]] |
+| [[News/Rocket Lab Successfully Launches HASTE Mission for Defense Innovation Unit, Missile Defense Agency.md\|Rocket Lab Successfully Launches HASTE Mission for Defense Innovation Unit, Missile Defense Agency]]                                           |
+| [[News/Rocket Lab-Built Twin Spacecraft Begin Mars Journey for NASA and UC Berkeley’s ESCAPADE Mission.md\|Rocket Lab-Built Twin Spacecraft Begin Mars Journey for NASA and UC Berkeley’s ESCAPADE Mission]]                                                 |
+| [[News/Rocket Lab Successfully Deploys Sixth Earth-Imaging Satellite for iQPS.md\|Rocket Lab Successfully Deploys Sixth Earth-Imaging Satellite for iQPS]]                                                                                                   |
+| [[News/Rocket Lab Completes Spacecraft for Cryogenic Fueling Mission with Eta Space and NASA.md\|Rocket Lab Completes Spacecraft for Cryogenic Fueling Mission with Eta Space and NASA]]                                                                     |
+| [[News/Rocket Lab Schedules Next Electron Launch, Sixth Mission for Constellation Operator iQPS.md\|Rocket Lab Schedules Next Electron Launch, Sixth Mission for Constellation Operator iQPS]]                                                               |
+| [[News/Mission Success Rocket Lab Launches Latest Satellite for Synspective.md\|Mission Success Rocket Lab Launches Latest Satellite for Synspective]]                                                                                                       |
+| [[News/Rocket Lab Secures Multiple Launches with Japan Aerospace Exploration Agency (JAXA).md\|Rocket Lab Secures Multiple Launches with Japan Aerospace Exploration Agency (JAXA)]]                                                                         |
+| [[News/Rocket Lab Secures Latest Multi-Launch Contract with iQPS for Three Dedicated Electron Missions.md\|Rocket Lab Secures Latest Multi-Launch Contract with iQPS for Three Dedicated Electron Missions]]                                                 |
 
 %% DATAVIEW_PUBLISHER: end %%
 

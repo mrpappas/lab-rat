@@ -20,7 +20,7 @@ The mission will **build, launch, and test a cryogenic fuel depot in low Earth o
 - **Vehicle**: Rocket Lab [[Electron]]  
 - **Bus**: [[Photon]]  
 - **Location**: [[Launch Complex 1]]  
-- **Timeline**: Scheduled Q4 2025 (possibly early 2026). [Source](https://x.com/rocketrepreneur/status/1857159161240551856/photo/3)
+- **Timeline**: Scheduled 'Early 2026'. [Source](https://x.com/RocketLab/status/1981104532244615658)
 
 ## Spacecraft
 
@@ -90,11 +90,14 @@ sort published desc
 
 | File                                                                                                                                                                                                                             | Published         |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[News/Rocket Lab Completes Spacecraft for Cryogenic Fueling Mission with Eta Space and NASA.md\|Rocket Lab Completes Spacecraft for Cryogenic Fueling Mission with Eta Space and NASA]]                                         | October 22, 2025  |
 | [[News/Rocket Lab Announces Third Quarter 2021 Financial Results and Issues Guidance for the Fourth Quarter 2021.md\|Rocket Lab Announces Third Quarter 2021 Financial Results and Issues Guidance for the Fourth Quarter 2021]] | November 15, 2021 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
 ## Media
+
+![](https://x.com/RocketLab/status/1981104532244615658)
 
 
 ![](https://x.com/eta_space/status/1849101961167085908)

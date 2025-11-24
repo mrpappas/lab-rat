@@ -12,7 +12,7 @@ customer:
   - "[[Fleet Space]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#LEO]]"
+orbit_type: "[[Orbits#LEO]]"
 target_orbit: 500 km | 85°
 payload_mass: 45 kg
 recovery: No Attempt
@@ -35,7 +35,7 @@ The payloads were launched to a 210km x 500km circular orbit at 85 degrees, befo
 | **Customer**     | [[Spire Global]], [[Tyvak Nano-Satellite Systems]], [[Fleet Space]]                              |
 | **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                |
 | **Vehicle**      | [[Electron]]                                                                                     |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                |
+| **Orbit Type**   | [[Orbits#LEO]]                                                                                |
 | **Target Orbit** | 500 km &#124; 85°                                                                                |
 | **Payload Mass** | 45 kg                                                                                            |
 | **Recovery**     | No Attempt                                                                                       |

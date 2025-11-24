@@ -1,17 +1,16 @@
 ---
-
 tags:
   - electron
   - launch
   - success
-mission_name: "Rocket Like A Hurricane"
+mission_name: Rocket Like A Hurricane
 launch_date: 2023-05-08 01:00
 outcome: ✅
 customer: "[[NASA]]"
 contract: "[[VADR]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#LEO]]"
+orbit_type: "[[Orbits#LEO]]"
 target_orbit: 550 km | 32°
 payload_mass: 10 kg
 recovery: No Attempt
@@ -43,7 +42,7 @@ More info on TROPICS: [Mission Overview | TROPICS](https://tropics.ll.mit.edu/CM
 | **Contract**     | [[VADR]]                                                                                                    |
 | **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                           |
 | **Vehicle**      | [[Electron]]                                                                                                |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                           |
+| **Orbit Type**   | [[Orbits#LEO]]                                                                                           |
 | **Target Orbit** | 550 km &#124; 32°                                                                                           |
 | **Payload Mass** | 10 kg                                                                                                       |
 | **Recovery**     | No Attempt                                                                                                  |

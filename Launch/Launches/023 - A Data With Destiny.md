@@ -1,18 +1,17 @@
 ---
-
 tags:
   - electron
   - launch
   - success
-mission_name: "A Data With Destiny"
+mission_name: A Data With Destiny
 launch_date: 2021-12-09 00:02
 outcome: ✅
 customer: "[[BlackSky]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#LEO]]"
-target_orbit: 430 km | 42°  
-payload_mass: 120 kg  
+orbit_type: "[[Orbits#LEO]]"
+target_orbit: 430 km | 42°
+payload_mass: 120 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/a-data-with-destiny/
 ---
@@ -37,7 +36,7 @@ The two Gen-2 satellites on this mission, along with those previously launched b
 | **Customer**     | [[BlackSky]]                                                                                        |
 | **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                   |
 | **Vehicle**      | [[Electron]]                                                                                        |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                   |
+| **Orbit Type**   | [[Orbits#LEO]]                                                                                   |
 | **Target Orbit** | 430 km &#124; 42°                                                                                   |
 | **Payload Mass** | 120 kg                                                                                              |
 | **Recovery**     | No Attempt                                                                                          |

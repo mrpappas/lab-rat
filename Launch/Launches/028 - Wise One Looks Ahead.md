@@ -3,13 +3,13 @@ tags:
   - electron
   - launch
   - success
-mission_name: "Wise One Looks Ahead"
+mission_name: Wise One Looks Ahead
 launch_date: 2022-07-13 06:30
 outcome: ✅
 customer: "[[National Reconnaissance Office (NRO)]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#LEO]]"
+orbit_type: "[[Orbits#LEO]]"
 target_orbit: 620 km | 40°
 payload_mass: Classified
 recovery: No Attempt
@@ -38,7 +38,7 @@ These twin missions are a demonstration of responsive launch under NRO’s Rapid
 | **Customer**     | [[National Reconnaissance Office (NRO)]]                                                              |
 | **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                     |
 | **Vehicle**      | [[Electron]]                                                                                          |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                     |
+| **Orbit Type**   | [[Orbits#LEO]]                                                                                     |
 | **Target Orbit** | 620 km &#124; 40°                                                                                     |
 | **Payload Mass** | Classified                                                                                            |
 | **Recovery**     | No Attempt                                                                                            |

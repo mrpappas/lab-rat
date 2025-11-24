@@ -1,16 +1,15 @@
 ---
-
 tags:
   - electron
   - launch
   - success
-mission_name: "The Beat Goes On"
+mission_name: The Beat Goes On
 launch_date: 2023-03-24 09:14
 outcome: ✅
 customer: "[[BlackSky]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#LEO]]"
+orbit_type: "[[Orbits#LEO]]"
 target_orbit: 450 km | 42°
 payload_mass: 120 kg
 recovery: Success (Ocean Landing)
@@ -35,7 +34,7 @@ The pair of high-resolution, multi-spectral, Gen-2 satellites launched on [[Elec
 | **Customer**     | [[BlackSky]]                                                                                  |
 | **Location**     | [[Launch Complex 1#Launch Pad B]]                                                             |
 | **Vehicle**      | [[Electron]]                                                                                  |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                             |
+| **Orbit Type**   | [[Orbits#LEO]]                                                                             |
 | **Target Orbit** | 450 km &#124; 42°                                                                             |
 | **Payload Mass** | 120 kg                                                                                        |
 | **Recovery**     | Success (Ocean Landing)                                                                       |

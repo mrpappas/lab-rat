@@ -1,16 +1,15 @@
 ---
-
 tags:
   - electron
   - launch
   - success
-mission_name: "Virginia is for Launch Lovers"
+mission_name: Virginia is for Launch Lovers
 launch_date: 2023-01-24 23:00
 outcome: ✅
 customer: "[[HawkEye 360]]"
 location: "[[Launch Complex 2#Launch Pad 0C|LC2-0]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#LEO]]"
+orbit_type: "[[Orbits#LEO]]"
 target_orbit: 550 km | 40.5°
 payload_mass: 40 kg
 recovery: No Attempt
@@ -37,7 +36,7 @@ Launch Complex 2 supplements Rocket Lab’s existing site, Launch Complex 1 in N
 | **Customer**     | [[HawkEye 360]]                                                                                              |
 | **Location**     | [[Launch Complex 2#Launch Pad 0C]]                                                                           |
 | **Vehicle**      | [[Electron]]                                                                                                 |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                            |
+| **Orbit Type**   | [[Orbits#LEO]]                                                                                            |
 | **Target Orbit** | 550 km &#124; 40.5°                                                                                          |
 | **Payload Mass** | 90 kg                                                                                                        |
 | **Recovery**     | No Attempt                                                                                                   |

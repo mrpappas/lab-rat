@@ -30,6 +30,7 @@ sort published desc
 
 | File                                                                                                                                                                                                                             | Published         |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[News/Rocket Lab Completes Spacecraft for Cryogenic Fueling Mission with Eta Space and NASA.md\|Rocket Lab Completes Spacecraft for Cryogenic Fueling Mission with Eta Space and NASA]]                                         | October 22, 2025  |
 | [[News/Rocket Lab Announces Third Quarter 2021 Financial Results and Issues Guidance for the Fourth Quarter 2021.md\|Rocket Lab Announces Third Quarter 2021 Financial Results and Issues Guidance for the Fourth Quarter 2021]] | November 15, 2021 |
 
 %%DATAVIEW_PUBLISHER: end %%

@@ -1,18 +1,17 @@
 ---
-
 tags:
   - electron
   - launch
   - success
-mission_name: "CAPSTONE"
+mission_name: CAPSTONE
 launch_date: 2022-06-28 09:55
 outcome: ✅
-customer: 
-- "[[NASA]]"
-- "[[Advanced Space]]"
+customer:
+  - "[[NASA]]"
+  - "[[Advanced Space]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#TLI]]"
+orbit_type: "[[Orbits#TLI]]"
 target_orbit: Translunar Injection (TLI)
 payload_mass: 320kg LEO / 80kg TLI
 recovery: No Attempt
@@ -37,7 +36,7 @@ Designed and built by [[Tyvak Nano-Satellite Systems]], a [[Terran Orbital]] Cor
 | **Customer**     | [[NASA]], [[Advanced Space]]                                                      |
 | **Location**     | [[Launch Complex 1#Launch Pad B]]                                                 |
 | **Vehicle**      | [[Electron]]                                                                      |
-| **Orbit Type**   | [[🌍 Orbits#TLI]]                                                                 |
+| **Orbit Type**   | [[Orbits#TLI]]                                                                 |
 | **Target Orbit** | Translunar Injection (TLI)                                                        |
 | **Payload Mass** | 320kg LEO / 80kg TLI                                                              |
 | **Recovery**     | No Attempt                                                                        |

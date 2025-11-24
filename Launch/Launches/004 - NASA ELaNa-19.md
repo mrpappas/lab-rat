@@ -1,16 +1,15 @@
 ---
-
 tags:
   - electron
   - launch
   - success
-mission_name: "NASA ELaNa-19"
+mission_name: NASA ELaNa-19
 launch_date: 2018-12-16 06:33
 outcome: ✅
 customer: "[[NASA]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#LEO]]"
+orbit_type: "[[Orbits#LEO]]"
 target_orbit: 500 km | 85°
 payload_mass: 78 kg
 recovery: No Attempt
@@ -33,7 +32,7 @@ The launch was significant for the small satellite industry as it was the first 
 | **Customer**     | [[NASA]]                                                                                         |
 | **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                |
 | **Vehicle**      | [[Electron]]                                                                                     |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                |
+| **Orbit Type**   | [[Orbits#LEO]]                                                                                |
 | **Target Orbit** | 500 km &#124; 85°                                                                                |
 | **Payload Mass** | 78 kg                                                                                            |
 | **Recovery**     | No Attempt                                                                                       |

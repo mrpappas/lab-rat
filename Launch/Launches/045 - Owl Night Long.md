@@ -1,5 +1,4 @@
 ---
-
 tags:
   - electron
   - launch
@@ -10,7 +9,7 @@ outcome: ✅
 customer: "[[Synspective]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#SSO]]"
+orbit_type: "[[Orbits#SSO]]"
 target_orbit: 561 km | 97°
 payload_mass: 100 kg
 recovery: No Attempt
@@ -42,7 +41,7 @@ Synspective is a satellite data solutions provider with its own constellation of
 | **Customer**     | [[Synspective]]                                                                                          |
 | **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                        |
 | **Vehicle**      | [[Electron]]                                                                                             |
-| **Orbit Type**   | [[🌍 Orbits#SSO]]                                                                                        |
+| **Orbit Type**   | [[Orbits#SSO]]                                                                                        |
 | **Target Orbit** | 561 km &#124; 97°                                                                                        |
 | **Payload Mass** | 100 kg                                                                                                   |
 | **Recovery**     | No Attempt                                                                                               |

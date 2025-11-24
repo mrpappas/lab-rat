@@ -11,7 +11,7 @@
 - Aluminum honeycomb-core, CRFP (carbon fiber reinforced polymer) sandwich panels.
 - Standard components include mil-spec wiring, temperature sensors, blocking diodes, and bleed resistors.
 - [TiNi E2000](https://ebad.com/products/tini-ejector-release-mechanism-erm/#erm-e2000) ejector release mechanisms
-- Suitable for [[🌍 Orbits#LEO|LEO]] and [[🌍 Orbits#GEO|GEO]] missions
+- Suitable for [[Orbits#LEO|LEO]] and [[Orbits#GEO|GEO]] missions
 ## L-Star
 
 ![[Pasted image 20250409020755.png|400]]

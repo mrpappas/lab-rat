@@ -3,21 +3,21 @@ name: The Aerospace Corporation
 website: https://aerospace.org/
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> The Aerospace Corporation
+## Partner Details
 
 **Website**: https://aerospace.org/
 
->[!summary]
 The Aerospace Corporation is an American nonprofit organization that operates as a Federally Funded Research and Development Center (FFRDC). Founded in 1960 and headquartered in Chantilly, Virginia, the company serves as the trusted technical advisor to national security, civil, and commercial space programs
->
-Aerospace's core purpose is to deliver objective technical analysis, systems engineering, and program management support across all phases of space system development—from early concept through operations. As the FFRDC for national-security space, it works closely with agencies such as the U.S. Space Force and National Reconnaissance Office (NRO)
 
+Aerospace's core purpose is to deliver objective technical analysis, systems engineering, and program management support across all phases of space system development—from early concept through operations. As the FFRDC for national-security space, it works closely with agencies such as the U.S. Space Force and National Reconnaissance Office (NRO)
 ## Missions
 
-[[STP-S30]]
+- [[STP-S30]]
 
-## DiskSat
+## Space Systems
+### DiskSat
 
-### Summary
+#### Summary
 
 **DiskSat** is The Aerospace Corporation’s flat, disk-shaped smallsat architecture, designed as a performance-focused evolution of the CubeSat model.
 
@@ -29,7 +29,7 @@ Aerospace's core purpose is to deliver objective technical analysis, systems eng
 
 ![[disksat-deploying-101-3585x2016-1.webp]]
 
-### Specifications
+#### Specifications
 
 | Specification           | Value / Notes                                                                |
 | ----------------------- | ---------------------------------------------------------------------------- |

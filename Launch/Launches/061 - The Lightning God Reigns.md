@@ -1,15 +1,15 @@
 ---
 tags:
- - electron
- - launch
+  - electron
+  - launch
 mission_name: The Lighting God Reigns
 launch_date: 2025-03-15 00:00
-outcome: "✅"
+outcome: ✅
 customer: "[[iQPS]]"
 contract: "[[iQPS Four Launch Contract 2024]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#LEO]]"
+orbit_type: "[[Orbits#LEO]]"
 target_orbit: 575 km | 42°
 payload_mass: 100 kg
 recovery: No attempt
@@ -37,7 +37,7 @@ The mission launched a single [[📦 Payload Types#Synthetic Aperture Radar (SAR
 | **Contract**     | [[iQPS Four Launch Contract 2024]]                                                                          |
 | **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                           |
 | **Vehicle**      | [[Electron]]                                                                                                |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                           |
+| **Orbit Type**   | [[Orbits#LEO]]                                                                                           |
 | **Target Orbit** | 575 km &#124; 42°                                                                                           |
 | **Payload Mass** | 100 kg                                                                                                      |
 | **Recovery**     | No Attempt                                                                                                  |

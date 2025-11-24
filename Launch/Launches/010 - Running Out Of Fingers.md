@@ -1,19 +1,18 @@
 ---
-
 tags:
   - electron
   - launch
   - success
-mission_name: "Running Out Of Fingers"
+mission_name: Running Out Of Fingers
 launch_date: 2019-12-06 08:18
 outcome: ✅
-customer: 
-- "[[Alba Orbital]]"
-- "[[Spaceflight]]"
-- "[[ALE]]"
+customer:
+  - "[[Alba Orbital]]"
+  - "[[Spaceflight]]"
+  - "[[ALE]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#LEO]]"
+orbit_type: "[[Orbits#LEO]]"
 target_orbit: 385 x 400 km | 97°
 payload_mass: 77 kg
 recovery: Controlled (Atmosphere Test)
@@ -36,7 +35,7 @@ Onboard this rideshare mission were six spacecraft comprised of 5cm PocketQube m
 | **Customer**     | [[Alba Orbital]], [[Spaceflight]], [[ALE]]                                                                |
 | **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                         |
 | **Vehicle**      | [[Electron]]                                                                                              |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                         |
+| **Orbit Type**   | [[Orbits#LEO]]                                                                                         |
 | **Target Orbit** | 385 x 400 km &#124; 97°                                                                                   |
 | **Payload Mass** | 77 kg                                                                                                     |
 | **Recovery**     | Controlled (Atmosphere Test)                                                                              |

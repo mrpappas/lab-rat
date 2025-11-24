@@ -1,22 +1,21 @@
 ---
-
 tags:
   - electron
   - launch
   - success
-mission_name: "There And Back Again"
+mission_name: There And Back Again
 launch_date: 2022-05-02 22:49
 outcome: ✅
-customer: 
-- "[[Alba Orbital]]"
-- "[[Astrix Astronautics]]"
-- "[[Aurora Propulsion Technologies]]"
-- "[[E-Space]]"
-- "[[Spaceflight]]"
-- "[[Unseenlabs]]"
+customer:
+  - "[[Alba Orbital]]"
+  - "[[Astrix Astronautics]]"
+  - "[[Aurora Propulsion Technologies]]"
+  - "[[E-Space]]"
+  - "[[Spaceflight]]"
+  - "[[Unseenlabs]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#SSO]]"
+orbit_type: "[[Orbits#SSO]]"
 target_orbit: 520 km | 94°
 payload_mass: Unknown
 recovery: Partial Failure (Aerial Capture)
@@ -43,7 +42,7 @@ The “There And Back Again” mission deployed 34 satellites to a sun synchrono
 | **Customer**     | [[Alba Orbital]], [[Astrix Astronautics]], [[Aurora Propulsion Technologies]], [[E-Space]], [[Spaceflight]], [[Unseenlabs]] |
 | **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                                           |
 | **Vehicle**      | [[Electron]]                                                                                                                |
-| **Orbit Type**   | [[🌍 Orbits#SSO]]                                                                                                           |
+| **Orbit Type**   | [[Orbits#SSO]]                                                                                                           |
 | **Target Orbit** | 520 km &#124; 94°                                                                                                           |
 | **Payload Mass** | Unknown                                                                                                                     |
 | **Recovery**     | Partial Failure (Aerial Capture)                                                                                            |

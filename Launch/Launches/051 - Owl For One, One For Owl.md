@@ -1,16 +1,15 @@
 ---
-
 tags:
   - electron
   - launch
   - success
-mission_name: "Owl For One, One For Owl"
+mission_name: Owl For One, One For Owl
 launch_date: 2024-08-02 16:39
 outcome: ✅
 customer: "[[Synspective]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#LEO]]"
+orbit_type: "[[Orbits#LEO]]"
 target_orbit: 543 km | 43°
 payload_mass: 100 kg
 recovery: No Attempt
@@ -35,7 +34,7 @@ The “Owl for One, One for Owl” mission was our 5th launch for [[Synspective]
 | **Customer**     | [[Synspective]]                                                                                              |
 | **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                            |
 | **Vehicle**      | [[Electron]]                                                                                                 |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                            |
+| **Orbit Type**   | [[Orbits#LEO]]                                                                                            |
 | **Target Orbit** | 543 km &#124; 43°                                                                                            |
 | **Payload Mass** | 100 kg                                                                                                       |
 | **Recovery**     | No Attempt                                                                                                   |

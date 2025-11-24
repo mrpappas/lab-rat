@@ -18,7 +18,7 @@
 
 ## Haven Demo
 
-Haven Demo is an in-orbit testbed for critical space station technologies. Haven Demo will test in orbit critical systems such as compute, power, software, guidance and control, propulsion, radios, ground stations, mission control, and more, for Haven-1. Launch is planned for "later in the summer" 2025 on a Falcon 9 rideshare. 
+Haven Demo is an in-orbit testbed for critical space station technologies. Haven Demo will test in orbit critical systems such as compute, power, software, guidance and control, propulsion, radios, ground stations, mission control, and more, for Haven-1. Haven Demo was launched on SpaceX's fourth Bandwagon rideshare mission on November 2 2025. 
 ### Specs
 
 **Mass**: 515 kg
@@ -27,12 +27,18 @@ Haven Demo is an in-orbit testbed for critical space station technologies. Haven
 **Launch Vehicle**: Falcon 9
 
 ![[67db43b3cc67c2ac79aac7d4_Haven-Demo_Concept.avif]]
+
+![](https://x.com/vast/status/1971719930157703654)
+
+
+![](https://www.youtube.com/watch?v=8r7y1yeKalk)
+
 ## Haven-1
 
 🔗 https://www.vastspace.com/haven-1
 📽️ [[#Haven-1 Promo]]
 
-Targeted to launch in **May 2026**, Haven-1 is a single-module space station planned for [[🌍 Orbits#LEO|LEO]]. Haven-1 is planned to act as an independent crewed space station serving four two-week long missions, with planned 6-9 month uncrewed periods in between each mission. The station will be launched with on-board consumables to last 160 crew days. Haven-1 will be [equipped with Starlink Optical Laser terminals](https://www.vastspace.com/updates/vasts-haven-1-to-be-worlds-first-commercial-space-station-connected-by-spacex-starlink) which will provide high-speed, low latency connectivity to the station. 
+Targeted to launch in **May 2026**, Haven-1 is a single-module space station planned for [[Orbits#LEO|LEO]]. Haven-1 is planned to act as an independent crewed space station serving four two-week long missions, with planned 6-9 month uncrewed periods in between each mission. The station will be launched with on-board consumables to last 160 crew days. Haven-1 will be [equipped with Starlink Optical Laser terminals](https://www.vastspace.com/updates/vasts-haven-1-to-be-worlds-first-commercial-space-station-connected-by-spacex-starlink) which will provide high-speed, low latency connectivity to the station. 
 
 The station plans to have logistics on board to facilitate docking with the [SpaceX Dragon](https://www.spacex.com/vehicles/dragon/) spacecraft. With the addition of the Dragon spacecraft, Haven-1 would be able to sustain 4-crew missions with 24/7 communication facilities, up to 1,000 watts of power, up to 150 kg of preloaded cargo mass, and science, research, and in-space manufacturing opportunities for up to 30 days.
 
@@ -77,7 +83,7 @@ Haven-1 has a 3 year planned mission life:
 🔗 https://www.vastspace.com/haven-2
 📽️ [[#Haven-2 Promo]]
 
-Targeted to start launching in 2028, Haven-2 is a planned multi-module space station to be deployed to [[🌍 Orbits#LEO|LEO]]. Vast is designing Haven-2 as a commercial successor to the ISS. 
+Targeted to start launching in 2028, Haven-2 is a planned multi-module space station to be deployed to [[Orbits#LEO|LEO]]. Vast is designing Haven-2 as a commercial successor to the ISS. 
 
 Haven-2 will begin as a single module based on [[#Haven-1]] (stretched from 10.1 m to 16 m and including two docking ports) launched on a Falcon Heavy in 2028. Vast plans to launch three more modules from 2029 to 2030, docked in a line, each with upgraded life support systems. A seven-meter Starship-launched core module will then be added, centered between the four original modules. The core module will have a fifth docking port and an airlock for EVAs. By 2032, Vast plans to add four more modules, including one with a 3.8 m cupola and one with external payload racks for scientific experiments. Each of the eight modules will have two Earth-facing 1.1 m windows.
 

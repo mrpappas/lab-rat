@@ -4,37 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e69c60a969171262",
+        "id": "46f59442adc83635",
         "type": "tabs",
         "children": [
           {
-            "id": "2b6dda7499b84274",
+            "id": "778b93b80a6ba6ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Launch/Launches By Quarter.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Launches By Quarter"
-            }
-          },
-          {
-            "id": "9e0981fd46d5451d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Launch/Launches Trailing.md",
+                "file": "Launch/Launches/077 - Raise and Shine.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Launches Trailing"
+              "title": "077 - Raise and Shine"
             }
           }
         ]
@@ -110,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Launch/Launches/069 - The Harvest Goddess Thrives.md",
+                "file": "Launch/Launches/077 - Raise and Shine.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 069 - The Harvest Goddess Thrives"
+              "title": "Backlinks for 077 - Raise and Shine"
             }
           },
           {
@@ -129,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Missions/VICTUS HAZE.md",
+                "file": "Space Systems/Spacecraft/Explorer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from VICTUS HAZE"
+              "title": "Outgoing links from Explorer"
             }
           },
           {
@@ -158,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Earnings Calls.md",
+                "file": "Launch/Launches/077 - Raise and Shine.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Earnings Calls"
+              "title": "Outline of 077 - Raise and Shine"
             }
           },
           {
@@ -196,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378.5
+    "width": 428.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,54 +197,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2b6dda7499b84274",
+  "active": "6449ebb6b9cf2b96",
   "lastOpenFiles": [
-    "Earnings Calls.md",
-    "Launch/Launches By Quarter.md",
-    "Launch/Launches Trailing.md",
-    "Launches.md",
-    "Launch/Launches By Year.md",
-    "Launch/Neutron.md",
-    "Missions/VICTUS HAZE.md",
-    "News/An update on COVID-19.md",
     "Partners.md",
-    "Missions.md",
-    "Launch/Launches/073 - Owl New World.md",
+    "Organization/Partners/JAXA.md",
+    "Vault-Assets/Images/240306-1.jpg 1.webp",
+    "Vault-Assets/Images/Pasted image 20251124170854.png",
+    "Vault-Assets/Images/Pasted image 20251124181149.png",
+    "Vault-Assets/Images/Pasted image 20251124181215.png",
+    "Vault-Assets/Images/Pasted image 20251124181413.png",
+    "Vault-Assets/Images/Pasted image 20251124181635.png",
+    "Vault-Assets/Images/Pasted image 20251124181759.png",
+    "240306-1.jpg.webp",
+    "Pasted image 20251124175713.png",
     "Launch/Launches/072 - JUSTIN.md",
-    "News/Mission Success Rocket Lab Launches Latest Satellite for Synspective.md",
+    "Launch/Launches/073 - Owl New World.md",
+    "Launch/Launches/077 - Raise and Shine.md",
+    "Organization/Partners/Orora Technlogies.md",
+    "Launch/Launches/063 - Finding Hot Wildfires Near You.md",
     "News/Rocket Lab Secures Multiple Launches with Japan Aerospace Exploration Agency (JAXA).md",
-    "Missions/Viasat Echo.md",
-    "Missions/Venus Life Finder.md",
-    "Missions/Varda W Missions.md",
-    "Missions/STP-S30.md",
-    "Missions/SDA Tranche 2 - Transport Layer.md",
-    "Missions/NOAA SWFO-L1.md",
-    "Missions/OneWeb Constellation.md",
-    "Missions/LOXSAT.md",
-    "Missions/MethaneSAT.md",
-    "Missions/Globalstar (MDA) Satellite Buses.md",
-    "Missions/GLIDE.md",
-    "Missions/ESCAPADE.md",
-    "Vault-Assets/Images/Pasted image 20251012105036.png",
+    "Organization/Partners/Synspective.md",
+    "Organization/Partners/Telesat.md",
+    "Organization/Partners/The University of Auckland.md",
+    "Organization/Partners/True Anomaly.md",
+    "Organization/Partners/OHB Group.md",
+    "Organization/Partners/HawkEye 360.md",
+    "News/Rocket Lab Schedules First Dedicated Launch for Japan Aerospace Exploration Agency (JAXA).md",
+    "Launch/Launches/074 - The Nation God Navigates.md",
+    "Launch/Launches/075 - Prometheus Run.md",
+    "Launch/Launches/076 - Follow My Speed.md",
+    "Launch/Launches By Quarter.md",
+    "Hardware.md",
+    "Space Systems/Spacecraft/Flatellite.md",
+    "Space Systems/Spacecraft/Explorer.md",
+    "Space Systems/Propulsion/Curie.md",
+    "Space Systems/Propulsion/Archimedes.md",
+    "Earnings Calls.md",
+    "Contracts & Vehicles.md",
+    "flickr.com/photos/rocketlab/albums",
+    "flickr.com/photos/rocketlab",
+    "flickr.com/photos",
+    "flickr.com",
+    "Vault-Assets/Images/Pasted image 20251120111745.png",
     "Vault-Assets/PDFs/07c4e5d0-3245-4949-97af-cbec8879fcba (1).pdf",
-    "Vault-Assets/Images/Pasted image 20250818195937.png",
     "Vault-Assets/PDFs/4d4ec3fb-d78c-4865-b8c0-1cb720e6b159.pdf",
     "Vault-Assets/PDFs/0da7e308-ca49-44f6-89d8-d3911d2bed40.pdf",
     "Vault-Assets/PDFs/0d6a920a-1e40-4e5d-9d2d-abab19a7a994.pdf",
     "Vault-Assets/PDFs/0b3f147d-1489-4f3a-b4eb-9109cf2f0133.pdf",
     "Vault-Assets/PDFs/0acfddfc-4a52-4e60-9223-e6bc25fa83e5.pdf",
-    "Vault-Assets/Images/Pasted image 20250818181800.png",
-    "Vault-Assets/Images/Pasted image 20250818181556.png",
-    "Vault-Assets/Images/Pasted image 20250818181326.png",
-    "Vault-Assets/Images/afn.avif",
-    "Vault-Assets/Images/Pasted image 20250816191354.png",
-    "Vault-Assets/Images/afn 1.avif",
-    "Pasted image 20250816154356.png",
-    "Vault-Assets/Images/Pasted image 20250816154523.png",
-    "Space Systems/Payloads",
-    "Vault-Assets/PDFs/RW-0.01-Datasheet-v3.0.pdf",
-    "Vault-Assets/PDFs/OSP-4_Starts_Here (2).pdf",
-    "Contracts & Vehicles",
     "Untitled.canvas",
     "Subsidiaries/Untitled.canvas"
   ]

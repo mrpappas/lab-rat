@@ -11,7 +11,7 @@ customer:
   - "[[Spire Global]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#LEO]]"
+orbit_type: "[[Orbits#LEO]]"
 target_orbit: 400 km | 82.9°
 payload_mass: 13 kg
 recovery: No Attempt
@@ -36,7 +36,7 @@ Still Testing carried a Dove Pioneer Earth-imaging satellite for [[Planet Labs]]
 | **Customer**     | [[Planet Labs]], [[Spire Global]]                                                       |
 | **Location**     | [[Launch Complex 1#Launch Pad A]]                                                       |
 | **Vehicle**      | [[Electron]]                                                                            |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                       |
+| **Orbit Type**   | [[Orbits#LEO]]                                                                       |
 | **Target Orbit** | 400 km &#124; 82.9°                                                                     |
 | **Payload Mass** | 13 kg                                                                                   |
 | **Recovery**     | No Attempt                                                                              |

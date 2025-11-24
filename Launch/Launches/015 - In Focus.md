@@ -1,19 +1,18 @@
 ---
-
 tags:
   - electron
   - launch
   - success
-mission_name: "In Focus"
+mission_name: In Focus
 launch_date: 2020-10-28 21:21
 outcome: ✅
-customer: 
-- "[[Planet Labs]]"
-- "[[Spaceflight]]"
-- "[[Canon Electronics]]"
+customer:
+  - "[[Planet Labs]]"
+  - "[[Spaceflight]]"
+  - "[[Canon Electronics]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#SSO]]"
+orbit_type: "[[Orbits#SSO]]"
 target_orbit: 500 km | 97.5°
 payload_mass: 72 kg
 recovery: No Attempt
@@ -40,7 +39,7 @@ The 10th and final payload, Canon Electronics Inc.’s CE-SAT-IIB, was arranged 
 | **Customer**     | [[Planet Labs]], [[Spaceflight]], [[Canon Electronics]]                                    |
 | **Location**     | [[Launch Complex 1#Launch Pad A]]                                                          |
 | **Vehicle**      | [[Electron]]                                                                               |
-| **Orbit Type**   | [[🌍 Orbits#SSO]]                                                                          |
+| **Orbit Type**   | [[Orbits#SSO]]                                                                          |
 | **Target Orbit** | 500 km &#124; 97.5°                                                                        |
 | **Payload Mass** | 72 kg                                                                                      |
 | **Recovery**     | No Attempt                                                                                 |

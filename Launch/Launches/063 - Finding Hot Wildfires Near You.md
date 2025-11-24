@@ -1,14 +1,14 @@
 ---
 tags:
- - electron
- - launch
+  - electron
+  - launch
 mission_name: Finding Hot Wildfires Near You
 launch_date: 2025-03-26 15:30
-outcome: "✅"
+outcome: ✅
 customer: "[[Orora Technlogies]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#LEO]]"
+orbit_type: "[[Orbits#LEO]]"
 target_orbit: 550 km | 97°
 payload_mass: Unknown
 recovery: No Attempt
@@ -36,7 +36,7 @@ Launched on March 27th 2025, the mission delivered 8x OroraTech Constellation Ph
 | **Customer**     | [[Orora Technlogies]]                                                                                                     |
 | **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                                         |
 | **Vehicle**      | [[Electron]]                                                                                                              |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                                         |
+| **Orbit Type**   | [[Orbits#LEO]]                                                                                                         |
 | **Target Orbit** | 550 km &#124; 97°                                                                                                         |
 | **Payload Mass** | Unknown                                                                                                                   |
 | **Recovery**     | No Attempt                                                                                                                |

@@ -27,7 +27,7 @@
 
 **Geosynchronous Orbit (GSO)**  
 **Altitude**: ~35,786 km above Earth's equator.  
-**Characteristics**: Satellites in GSO have an orbital period that matches Earth's rotation (24 hours). Unlike [[🌍 Orbits#GEO|GEO]], these orbits are inclined or elliptical, so the satellite appears to move in a figure-eight (analemma) relative to the ground.  
+**Characteristics**: Satellites in GSO have an orbital period that matches Earth's rotation (24 hours). Unlike [[Orbits#GEO|GEO]], these orbits are inclined or elliptical, so the satellite appears to move in a figure-eight (analemma) relative to the ground.  
 **Examples**:  
   - **Inmarsat-3 F1** – Communication satellite for global coverage.  
   - **GOES (Geostationary Operational Environmental Satellites)** – Weather monitoring satellites.  
@@ -48,7 +48,7 @@
 ## SSO
 
 **Sun-Synchronous Orbit (SSO)**  
-**Altitude**: ~600-800 km above Earth's surface (a subset of [[🌍 Orbits#LEO|LEO]]).  
+**Altitude**: ~600-800 km above Earth's surface (a subset of [[Orbits#LEO|LEO]]).  
 **Characteristics**: A near-polar orbit where the satellite passes over the same region at roughly the same local solar time each day, ensuring consistent lighting conditions for imaging. Ideal for Earth observation and remote sensing.  
 **Examples**:  
   - **Sentinel-2** – ESA's Copernicus Earth observation satellites.  
@@ -71,7 +71,7 @@
 
 **Geostationary Transfer Orbit (GTO)**  
 **Altitude**: Highly elliptical orbit with a low perigee (~200 km) and a high apogee (~35,786 km).  
-**Characteristics**: A transitional orbit used to move satellites from Low Earth Orbit ([[🌍 Orbits#LEO|LEO]]) to Geostationary Orbit ([[🌍 Orbits#GEO|GEO]]). The orbit is elliptical, and satellites use onboard propulsion to circularize at GEO altitude.  
+**Characteristics**: A transitional orbit used to move satellites from Low Earth Orbit ([[Orbits#LEO|LEO]]) to Geostationary Orbit ([[Orbits#GEO|GEO]]). The orbit is elliptical, and satellites use onboard propulsion to circularize at GEO altitude.  
 **Examples**:  
   - **Communications Satellites** – Initial placement for satellites like SES and Intelsat before reaching GEO.  
   - **Weather Satellites** – Launch stages for satellites such as GOES before they circularize at GEO.  

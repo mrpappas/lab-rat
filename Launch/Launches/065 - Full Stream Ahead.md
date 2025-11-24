@@ -1,14 +1,14 @@
 ---
 tags:
- - electron
- - launch
+  - electron
+  - launch
 mission_name: Full Stream Ahead
 launch_date: 2025-06-03 23:57
-outcome: "✅"
+outcome: ✅
 customer: "[[BlackSky]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-B]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#LEO]]"
+orbit_type: "[[Orbits#LEO]]"
 target_orbit: 470 km | 59°
 payload_mass: 138 kg
 recovery: No Attempt
@@ -33,8 +33,8 @@ The mission will launch the next of BlackSky’s Gen-3 satellites to a mid-incli
 | **Customer**     | [[BlackSky]]                                                                                                        |
 | **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                                   |
 | **Vehicle**      | [[Electron]]                                                                                                        |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                                   |
-| **Target Orbit** | 470km \| 59°                                                                                                        |
+| **Orbit Type**   | [[Orbits#LEO]]                                                                                                      |
+| **Target Orbit** | 470 km \| 59°                                                                                                       |
 | **Payload Mass** | 138 kg                                                                                                              |
 | **Recovery**     | No Attempt                                                                                                          |
 | **Mission Link** | [Full Stream Ahead](https://rocketlabcorp.com/missions/missions-launched/full-stream-ahead-2/)                      |

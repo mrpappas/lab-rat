@@ -6,10 +6,10 @@ website: https://www.nasa.gov/
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> NASA
 
 **Website:** https://www.nasa.gov/
+## Partner Details
 
->[!summary]
 NASA (National Aeronautics and Space Administration) is the United States government agency responsible for space exploration, scientific discovery, and aeronautics research. Established in 1958, NASA has been at the forefront of space exploration, including historic achievements like the Apollo Moon landings, the Mars rovers, and the Hubble Space Telescope. The agency conducts cutting-edge research to advance human understanding of the universe, Earth's climate, and aeronautics technologies. Key initiatives include the Artemis program, aiming to return humans to the Moon and prepare for Mars exploration, and the James Webb Space Telescope, revolutionizing astrophysics. NASA collaborates with international partners and private industry to expand the boundaries of space exploration and technology.
-## 🚀 Launches
+## Launches
 
 %%DATAVIEW_PUBLISHER: start
 ```
@@ -34,13 +34,13 @@ sort launch_date desc
 
 %%DATAVIEW_PUBLISHER: end %%
 
-## 🌍 Missions
+## Missions
 
  - [[ESCAPADE]]
  - [[GLIDE]]
  - [[NOAA SWFO-L1]]
 
-## 📰 News
+## News
 %%DATAVIEW_PUBLISHER: start
 ```
 table published as "Published"
@@ -52,6 +52,7 @@ sort published desc
 
 | File                                                                                                                                                                                                                                                             | Published          |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[News/Rocket Lab-Built Twin Spacecraft Begin Mars Journey for NASA and UC Berkeley’s ESCAPADE Mission.md\|Rocket Lab-Built Twin Spacecraft Begin Mars Journey for NASA and UC Berkeley’s ESCAPADE Mission]]                                                     | November 13, 2025  |
 | [[News/Rocket Lab’s Two Mars-Bound Spacecraft Arrive in Florida Ahead of Launch.md\|Rocket Lab’s Two Mars-Bound Spacecraft Arrive in Florida Ahead of Launch]]                                                                                                   | September 22, 2025 |
 | [[News/Rocket Lab to Launch NASA Astrophysics Science Mission on Electron to Study Galaxy Evolution.md\|Rocket Lab to Launch NASA Astrophysics Science Mission on Electron to Study Galaxy Evolution]]                                                           | May 14, 2025       |
 | [[News/Rocket Lab Selected by NASA to Provide Neutron Launch Services Under VADR Launch Contract.md\|Rocket Lab Selected by NASA to Provide Neutron Launch Services Under VADR Launch Contract]]                                                                 | January 09, 2025   |

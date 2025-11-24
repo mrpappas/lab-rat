@@ -1,5 +1,4 @@
 ---
-
 tags:
   - electron
   - launch
@@ -10,7 +9,7 @@ outcome: ✅
 customer: "[[Kinéis]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#SSO]]"
+orbit_type: "[[Orbits#SSO]]"
 target_orbit: 635 km | 98°
 payload_mass: 150 kg
 recovery: No Attempt
@@ -35,7 +34,7 @@ The mission was the first of five dedicated Electron launches for [[Kinéis]], a
 | **Customer**     | [[Kinéis]]                                                                                    |
 | **Location**     | [[Launch Complex 1#Launch Pad B]]                                                             |
 | **Vehicle**      | [[Electron]]                                                                                  |
-| **Orbit Type**   | [[🌍 Orbits#SSO]]                                                                             |
+| **Orbit Type**   | [[Orbits#SSO]]                                                                             |
 | **Target Orbit** | 635 km &#124; 98°                                                                             |
 | **Payload Mass** | 150 kg                                                                                        |
 | **Recovery**     | No Attempt                                                                                    |

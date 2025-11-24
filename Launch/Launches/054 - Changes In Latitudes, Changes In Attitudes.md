@@ -1,5 +1,4 @@
 ---
-
 tags:
   - electron
   - launch
@@ -12,7 +11,7 @@ customer:
   - Confidential Customer
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#SSO]]"
+orbit_type: "[[Orbits#SSO]]"
 target_orbit: Classified
 payload_mass: Classified
 recovery: No Attempt
@@ -37,7 +36,7 @@ Rocket Lab’s rapid call-up launch capability, its standardized and rapid produ
 | **Customer**     | [[E-Space]], Confidential Customer                                                                                                               |
 | **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                                                                |
 | **Vehicle**      | [[Electron]]                                                                                                                                     |
-| **Orbit Type**   | [[🌍 Orbits#SSO]]                                                                                                                                |
+| **Orbit Type**   | [[Orbits#SSO]]                                                                                                                                |
 | **Target Orbit** | Classified                                                                                                                                       |
 | **Payload Mass** | Classified                                                                                                                                       |
 | **Recovery**     | No Attempt                                                                                                                                       |

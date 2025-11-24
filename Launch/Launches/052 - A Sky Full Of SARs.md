@@ -1,18 +1,17 @@
 ---
-
 tags:
   - electron
   - launch
   - success
-mission_name: "A Sky Full Of SARs"
+mission_name: A Sky Full Of SARs
 launch_date: 2024-08-11 13:18
 outcome: ✅
 customer: "[[Capella Space]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#LEO]]"
-target_orbit: 615 km | 53° 
-payload_mass: 165 kg  
+orbit_type: "[[Orbits#LEO]]"
+target_orbit: 615 km | 53°
+payload_mass: 165 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/a-sky-full-of-sars/
 ---
@@ -36,7 +35,7 @@ Rocket Lab launched a dedicated mission for [[Capella Space]], a provider of SAR
 | **Customer**     | [[Capella Space]]                                                                                 |
 | **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                 |
 | **Vehicle**      | [[Electron]]                                                                                      |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                 |
+| **Orbit Type**   | [[Orbits#LEO]]                                                                                 |
 | **Target Orbit** | 615 km &#124; 53°                                                                                 |
 | **Payload Mass** | 165 kg                                                                                            |
 | **Recovery**     | No Attempt                                                                                        |

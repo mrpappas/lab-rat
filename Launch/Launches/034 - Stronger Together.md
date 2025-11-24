@@ -1,5 +1,4 @@
 ---
-
 tags:
   - electron
   - launch
@@ -10,7 +9,7 @@ outcome: ✅
 customer: "[[Capella Space]]"
 location: "[[Launch Complex 2#Launch Pad 0C|LC2-0]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#LEO]]"
+orbit_type: "[[Orbits#LEO]]"
 target_orbit: 600 km | 44°
 payload_mass: 224 kg
 recovery: No Attempt
@@ -37,7 +36,7 @@ The launch was a dedicated mission for Capella Space, a leading U.S. satellite m
 | **Customer**     | [[Capella Space]]                                                                                 |
 | **Location**     | [[Launch Complex 2#Launch Pad 0C]]                                                                |
 | **Vehicle**      | [[Electron]]                                                                                      |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                 |
+| **Orbit Type**   | [[Orbits#LEO]]                                                                                 |
 | **Target Orbit** | 600 km &#124; 44°                                                                                 |
 | **Payload Mass** | 224 kg                                                                                            |
 | **Recovery**     | No Attempt                                                                                        |

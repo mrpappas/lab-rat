@@ -1,19 +1,18 @@
 ---
-
 tags:
   - electron
   - launch
   - success
-mission_name: "Look Ma, No Hands"
+mission_name: Look Ma, No Hands
 launch_date: 2019-08-19 12:12
 outcome: ✅
-customer: 
-- "[[BlackSky]]"
-- "[[U.S. Air Force]]"
-- "[[Unseenlabs]]"
+customer:
+  - "[[BlackSky]]"
+  - "[[U.S. Air Force]]"
+  - "[[Unseenlabs]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#LEO]]"
+orbit_type: "[[Orbits#LEO]]"
 target_orbit: 510 km | 94.8°
 payload_mass: 80 kg
 recovery: No Attempt
@@ -44,7 +43,7 @@ The final spacecraft manifested on the mission were two experimental satellites 
 | **Customer**     | [[BlackSky]], [[U.S. Air Force]], [[Unseenlabs]]                                              |
 | **Location**     | [[Launch Complex 1#Launch Pad A]]                                                             |
 | **Vehicle**      | [[Electron]]                                                                                  |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                             |
+| **Orbit Type**   | [[Orbits#LEO]]                                                                             |
 | **Target Orbit** | 510 km &#124; 94.8°                                                                           |
 | **Payload Mass** | 80 kg                                                                                         |
 | **Recovery**     | No Attempt                                                                                    |

@@ -4,13 +4,13 @@ name: U.S. Air Force
 website: https://www.airforce.com/
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> U.S. Air Force
+## Partner Details
 
 **Website:** https://www.airforce.com/
 
->[!summary]
->The U.S. Air Force (USAF) plays a vital role in national security through its operations in air, space, and cyber domains, with a significant focus on space capabilities. Before the establishment of the [[U.S. Space Force]] in 2019, the USAF managed the majority of the Department of Defense's space operations. Its contributions include developing and maintaining critical satellite systems for global positioning (GPS), missile warning, communications, and weather monitoring. The USAF also pioneered space surveillance, orbital debris tracking, and space situational awareness to ensure safe and secure operations in Earth's orbit. Today, the Air Force continues to support space missions through collaboration with the Space Force, focusing on advanced technologies, launch systems, and integrating space capabilities into joint military operations to maintain U.S. superiority in space.
+The U.S. Air Force (USAF) plays a vital role in national security through its operations in air, space, and cyber domains, with a significant focus on space capabilities. Before the establishment of the [[U.S. Space Force]] in 2019, the USAF managed the majority of the Department of Defense's space operations. Its contributions include developing and maintaining critical satellite systems for global positioning (GPS), missile warning, communications, and weather monitoring. The USAF also pioneered space surveillance, orbital debris tracking, and space situational awareness to ensure safe and secure operations in Earth's orbit. Today, the Air Force continues to support space missions through collaboration with the Space Force, focusing on advanced technologies, launch systems, and integrating space capabilities into joint military operations to maintain U.S. superiority in space.
 
-## 🚀 Launches
+## Launches
 
 %%DATAVIEW_PUBLISHER: start
 ```
@@ -28,7 +28,7 @@ sort launch_date desc
 
 %%DATAVIEW_PUBLISHER: end %%
 
-## 📰 News
+## News
 %%DATAVIEW_PUBLISHER: start
 ```
 table published as "Published"

@@ -1,16 +1,15 @@
 ---
-
 tags:
   - electron
   - launch
   - success
-mission_name: "As The Crow Flies"
+mission_name: As The Crow Flies
 launch_date: 2019-10-17 01:22
 outcome: ✅
 customer: "[[Astro Digital]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#LEO]]"
+orbit_type: "[[Orbits#LEO]]"
 target_orbit: 1200 km | 87.9°
 payload_mass: 20 kg
 recovery: No Attempt
@@ -38,7 +37,7 @@ The mission was named ‘As The Crow Flies’ in a nod to Astro Digital’s Corv
 | **Customer**     | [[Astro Digital]]                                                                                             |
 | **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                             |
 | **Vehicle**      | [[Electron]]                                                                                                  |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                             |
+| **Orbit Type**   | [[Orbits#LEO]]                                                                                             |
 | **Target Orbit** | 1200 km &#124; 87.9°                                                                                          |
 | **Payload Mass** | 20 kg                                                                                                         |
 | **Recovery**     | No Attempt                                                                                                    |

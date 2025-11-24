@@ -1,16 +1,15 @@
 ---
-
 tags:
   - electron
   - launch
   - success
-mission_name: "Antipodean Adventure"
+mission_name: Antipodean Adventure
 launch_date: 2022-08-04 05:00
 outcome: ✅
 customer: "[[National Reconnaissance Office (NRO)]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#LEO]]"
+orbit_type: "[[Orbits#LEO]]"
 target_orbit: 620 km | 70°
 payload_mass: Classified
 recovery: No Attempt
@@ -37,7 +36,7 @@ Both NROL-199 and NROL-162 missions were a demonstration of responsive launch un
 | **Customer**     | [[National Reconnaissance Office (NRO)]]                                                              |
 | **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                     |
 | **Vehicle**      | [[Electron]]                                                                                          |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                     |
+| **Orbit Type**   | [[Orbits#LEO]]                                                                                     |
 | **Target Orbit** | 620 km &#124; 70°                                                                                     |
 | **Payload Mass** | Classified                                                                                            |
 | **Recovery**     | No Attempt                                                                                            |

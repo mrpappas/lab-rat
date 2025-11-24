@@ -1,20 +1,19 @@
 ---
-
 tags:
   - electron
   - launch
   - success
-mission_name: "Pics Or It Didn't Happen"
+mission_name: Pics Or It Didn't Happen
 launch_date: 2020-07-04 21:19
 outcome: ❌
-customer: 
-- "[[Planet Labs]]"
-- "[[Spaceflight]]"
-- "[[Canon Electronics]]"
-- "[[In-Space Missions]]"
+customer:
+  - "[[Planet Labs]]"
+  - "[[Spaceflight]]"
+  - "[[Canon Electronics]]"
+  - "[[In-Space Missions]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#SSO]]"
+orbit_type: "[[Orbits#SSO]]"
 target_orbit: 500 km | 97.5°
 payload_mass: 75 kg
 recovery: No Attempt
@@ -48,7 +47,7 @@ Rocket Lab has now reliably replicated the issue in test and identified that it 
 | **Customer**     | [[Planet Labs]], [[Spaceflight]], [[Canon Electronics]], [[In-Space Missions]]                               |
 | **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                            |
 | **Vehicle**      | [[Electron]]                                                                                                 |
-| **Orbit Type**   | [[🌍 Orbits#SSO]]                                                                                            |
+| **Orbit Type**   | [[Orbits#SSO]]                                                                                            |
 | **Target Orbit** | 500 km &#124; 97.5°                                                                                          |
 | **Payload Mass** | 75 kg                                                                                                        |
 | **Recovery**     | No Attempt                                                                                                   |

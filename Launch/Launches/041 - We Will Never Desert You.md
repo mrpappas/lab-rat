@@ -1,17 +1,16 @@
 ---
-
 tags:
   - electron
   - launch
   - failure
   - anomaly
-mission_name: "We Will Never Desert You"
+mission_name: We Will Never Desert You
 launch_date: 2023-09-19 06:55
 outcome: ❌
 customer: "[[Capella Space]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#LEO]]"
+orbit_type: "[[Orbits#LEO]]"
 target_orbit: 640 km | 53°
 payload_mass: 165 kg
 recovery: No Attempt
@@ -39,7 +38,7 @@ Anomaly occurred 2 minutes 30 seconds into the flight.
 | **Customer**     | [[Capella Space]]                                                                                              |
 | **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                              |
 | **Vehicle**      | [[Electron]]                                                                                                   |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                              |
+| **Orbit Type**   | [[Orbits#LEO]]                                                                                              |
 | **Target Orbit** | 640 km &#124; 53°                                                                                              |
 | **Payload Mass** | 165 kg                                                                                                         |
 | **Recovery**     | No Attempt                                                                                                     |

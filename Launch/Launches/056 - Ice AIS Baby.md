@@ -1,5 +1,4 @@
 ---
-
 tags:
   - electron
   - launch
@@ -10,7 +9,7 @@ outcome: ✅
 customer: "[[Kinéis]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#LEO]]"
+orbit_type: "[[Orbits#LEO]]"
 target_orbit: 643 km | 97°
 payload_mass: 150 kg
 recovery: No Attempt
@@ -33,7 +32,7 @@ The “Ice AIS Baby” mission launched successfully on November 25th NZDT, 2024
 | **Customer**     | [[Kinéis]]                                                                            |
 | **Location**     | [[Launch Complex 1#Launch Pad B]]                                                     |
 | **Vehicle**      | [[Electron]]                                                                          |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                     |
+| **Orbit Type**   | [[Orbits#LEO]]                                                                     |
 | **Target Orbit** | 643 km &#124; 97°                                                                     |
 | **Payload Mass** | 150 kg                                                                                |
 | **Recovery**     | No Attempt                                                                            |

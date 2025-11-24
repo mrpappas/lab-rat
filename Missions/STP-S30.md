@@ -14,12 +14,13 @@ Rocket Lab will launch a mission from [[Launch Complex 2]] in 2025 the [[U.S. Sp
 The DiskSats will be launched in and deployed from a dispenser that provides a containerized rideshare environment; the dispenser fully encloses the DiskSats during launch and then opens to dispense the satellites one at a time once in orbit. The dispenser is modular in design and expandable from the capacity of four DiskSats for this flight to as many as 20 DiskSats for future flights. It remains attached to the upper stage. 
 >
 Source: https://space.skyrocket.de/doc_sdat/disksat.htm
+Also See: https://ntrs.nasa.gov/api/citations/20250009604/downloads/RHUNTER-2025-IPRAAC-OCT7-FINAL.pdf
 
 ## Launch
 
 - **Vehicle**: Rocket Lab [[Electron]]  
 - **Location**: [[Launch Complex 2]]  
-- **Timeline**: Scheduled 2026
+- **Timeline**: NET December 8 2025 [Source](https://ntrs.nasa.gov/api/citations/20250009604/downloads/RHUNTER-2025-IPRAAC-OCT7-FINAL.pdf)
 ## Payload
 
 x4 [[Organization/Partners/The Aerospace Corporation#DiskSat|DiskSat]] Satellites

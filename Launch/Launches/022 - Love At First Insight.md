@@ -1,5 +1,4 @@
 ---
-
 tags:
   - electron
   - launch
@@ -12,10 +11,10 @@ customer:
   - "[[Spaceflight]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#LEO]]"
+orbit_type: "[[Orbits#LEO]]"
 target_orbit: 430 km | 42°
 payload_mass: 120 kg
-recovery: Success (Ocean Landing)  
+recovery: Success (Ocean Landing)
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/love-at-first-insight/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span>  <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span>  022 - Love At First Insight
@@ -37,7 +36,7 @@ The mission also included a controlled ocean splashdown and recovery of Electron
 | **Customer**     | [[BlackSky]], [[Spaceflight]]                                                                                |
 | **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                            |
 | **Vehicle**      | [[Electron]]                                                                                                 |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                            |
+| **Orbit Type**   | [[Orbits#LEO]]                                                                                            |
 | **Target Orbit** | 430 km &#124; 42°                                                                                            |
 | **Payload Mass** | 120 kg                                                                                                       |
 | **Recovery**     | Success (Ocean Landing)                                                                                      |

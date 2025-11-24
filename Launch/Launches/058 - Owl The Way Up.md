@@ -1,5 +1,4 @@
 ---
-
 tags:
   - electron
   - launch
@@ -10,7 +9,7 @@ outcome: ✅
 customer: "[[Synspective]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#LEO]]"
+orbit_type: "[[Orbits#LEO]]"
 target_orbit: 574 km | 97°
 payload_mass: 100 kg
 recovery: No Attempt
@@ -35,7 +34,7 @@ The “Owl The Way Up” mission launched from Rocket Lab [[Launch Complex 1]] i
 | **Customer**     | [[Synspective]]                                                                           |
 | **Location**     | [[Launch Complex 1#Launch Pad B]]                                                         |
 | **Vehicle**      | [[Electron]]                                                                              |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                         |
+| **Orbit Type**   | [[Orbits#LEO]]                                                                         |
 | **Target Orbit** | 574 km &#124; 97°                                                                         |
 | **Payload Mass** | 100 kg                                                                                    |
 | **Recovery**     | No Attempt                                                                                |

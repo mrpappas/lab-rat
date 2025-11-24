@@ -1,16 +1,15 @@
 ---
-
 tags:
   - electron
   - launch
   - success
-mission_name: "I Can't Believe It's Not Optical"
+mission_name: I Can't Believe It's Not Optical
 launch_date: 2020-08-31 03:05
 outcome: ✅
 customer: "[[Capella Space]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#LEO]]"
+orbit_type: "[[Orbits#LEO]]"
 target_orbit: 500 km | 45°
 payload_mass: 100 kg
 recovery: No Attempt
@@ -40,7 +39,7 @@ The mission name is a nod to Capella’s SAR technology that provides high quali
 | **Customer**     | [[Capella Space]]                                                                                                           |
 | **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                                           |
 | **Vehicle**      | [[Electron]]                                                                                                                |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                                           |
+| **Orbit Type**   | [[Orbits#LEO]]                                                                                                           |
 | **Target Orbit** | 500 km &#124; 45°                                                                                                           |
 | **Payload Mass** | 100 kg                                                                                                                      |
 | **Recovery**     | No Attempt                                                                                                                  |

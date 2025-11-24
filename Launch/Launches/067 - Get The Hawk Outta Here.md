@@ -1,14 +1,14 @@
 ---
 tags:
- - electron
- - launch
+  - electron
+  - launch
 mission_name: Get The Hawk Outta Here
 launch_date: 2025-06-26 17:00
-outcome: "✅"
+outcome: ✅
 customer: "[[HawkEye 360]]"
 location: "[[Launch Complex 1#Launch Pad B|LC-1A]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#SSO]]"
+orbit_type: "[[Orbits#SSO]]"
 target_orbit: 520 km | 97.45°
 payload_mass: Unknown
 recovery: Not Attempt Likely
@@ -36,7 +36,7 @@ All of HawkEye 360’s satellites launched on Electron are deployed from Rocket 
 | **Customer**     | [[HawkEye 360]]                                                                                           |
 | **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                         |
 | **Vehicle**      | [[Electron]]                                                                                              |
-| **Orbit Type**   | [[🌍 Orbits#SSO]]                                                                                         |
+| **Orbit Type**   | [[Orbits#SSO]]                                                                                         |
 | **Target Orbit** | 520 km \| 97.45°                                                                                          |
 | **Payload Mass** | Unknown                                                                                                   |
 | **Recovery**     | No Attempt Likely                                                                                         |

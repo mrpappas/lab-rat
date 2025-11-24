@@ -40,7 +40,9 @@ The electric pumps are powered by lithium-polymer batteries. The second stage us
 
 ## Testing + Qualification
 
-First test-firing took place in 2013. The engine was qualified for flight in March 2016 and had its first flight on May 25th 2017.
+**First Test Fire:** 2013
+**Flight Qualified:** 2016
+**First Flight:** May 25th 2017.
 
 <div class="responsive-video">
 <iframe   src="https://www.youtube.com/embed/Ngvow6egisg" title="Rocket Lab’s Rutherford Engine Qualified for Flight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

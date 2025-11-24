@@ -4,16 +4,16 @@ name: Unseenlabs
 website: https://unseenlabs.space/
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Unseenlabs
+## Partner Details
 
 **Website:** https://unseenlabs.space/
 
->[!summary]
+
 **Unseenlabs** is a French company specializing in **space-based radio frequency (RF) detection and geolocation**. Leveraging its constellation of **nanosatellites** in low Earth orbit (LEO), Unseenlabs provides **maritime surveillance** services by detecting and geolocating RF signals emitted by ships, even those operating with their **Automatic Identification System (AIS) turned off**. 
->
->The company's technology is particularly valuable for **tracking illegal activities**, such as smuggling, piracy, and unregulated fishing, offering critical insights for governments, defense organizations, and maritime operators. Unseenlabs' services support **global maritime security** with high-precision, real-time data, reinforcing transparency and safety across the world’s oceans.
 
+The company's technology is particularly valuable for **tracking illegal activities**, such as smuggling, piracy, and unregulated fishing, offering critical insights for governments, defense organizations, and maritime operators. Unseenlabs' services support **global maritime security** with high-precision, real-time data, reinforcing transparency and safety across the world’s oceans.
 
-## 🚀 Launches
+##  Launches
 
 %%DATAVIEW_PUBLISHER: start
 ```
@@ -32,7 +32,7 @@ sort launch_date desc
 
 %%DATAVIEW_PUBLISHER: end %%
 
-## 📰 News
+## News
 %%DATAVIEW_PUBLISHER: start
 ```
 table published as "Published"
@@ -55,7 +55,7 @@ sort published desc
 
 %%DATAVIEW_PUBLISHER: end %%
 
-## ✏️ Notes
+## Notes
 
  - On April 29 2024 **Unseen Labs** announced their next-gen satellite constellation, planned to be launched in 2026. This new constellation would expand "its surveillance capabilities to include terrestrial and space environments in addition to maritime". This announcement was made shortly after they secured and €85 Million capital raise. 
    The new fleet would be compromised of 150-kg satellites, which is within [[Electron]]'s payload limitations. 

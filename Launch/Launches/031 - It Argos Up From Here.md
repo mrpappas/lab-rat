@@ -3,15 +3,15 @@ tags:
   - electron
   - launch
   - success
-mission_name: "It Argos Up From Here"
+mission_name: It Argos Up From Here
 launch_date: 2022-10-07 17:09
 outcome: ✅
 customer: "[[General Atomics Electromagnetic Systems]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#SSO]]"
+orbit_type: "[[Orbits#SSO]]"
 target_orbit: 750 km | 98°
-payload_mass: 118 kg  
+payload_mass: 118 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/it-argos-up-from-here/
 ---
@@ -34,7 +34,7 @@ This dedicated mission for General Atomics launched the GAzelle satellite carryi
 | **Customer**     | [[General Atomics Electromagnetic Systems]]                                                             |
 | **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                       |
 | **Vehicle**      | [[Electron]]                                                                                            |
-| **Orbit Type**   | [[🌍 Orbits#SSO]]                                                                                       |
+| **Orbit Type**   | [[Orbits#SSO]]                                                                                       |
 | **Target Orbit** | 750 km &#124; 98°                                                                                       |
 | **Payload Mass** | 118 kg                                                                                                  |
 | **Recovery**     | No Attempt                                                                                              |

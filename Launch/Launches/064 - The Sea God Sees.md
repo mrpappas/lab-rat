@@ -9,7 +9,7 @@ customer: "[[iQPS]]"
 contract: "[[iQPS Four Launch Contract 2024]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#LEO]]"
+orbit_type: "[[Orbits#LEO]]"
 target_orbit: 575 km | 42°
 payload_mass: 100 kg
 recovery: n/a
@@ -38,7 +38,7 @@ The mission was the third overall Electron launch for iQPS and the second in a l
 | **Contract**     | [[iQPS Four Launch Contract 2024]]                                                               |
 | **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                |
 | **Vehicle**      | [[Electron]]                                                                                     |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                |
+| **Orbit Type**   | [[Orbits#LEO]]                                                                                |
 | **Target Orbit** | 575 km &#124; 42°                                                                                |
 | **Payload Mass** | ~100kg                                                                                           |
 | **Recovery**     | No Attempt                                                                                       |

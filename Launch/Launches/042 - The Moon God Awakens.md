@@ -1,16 +1,15 @@
 ---
-
 tags:
   - electron
   - launch
   - success
-mission_name: "The Moon God Awakens"
+mission_name: The Moon God Awakens
 launch_date: 2023-12-15 04:05
 outcome: ✅
 customer: "[[iQPS]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#LEO]]"
+orbit_type: "[[Orbits#LEO]]"
 target_orbit: 575 km | 42°
 payload_mass: 100 kg
 recovery: No Attempt
@@ -39,7 +38,7 @@ In addition to being launched by Electron, the QPS-SAR-5 satellite used Rocket L
 | **Customer**     | [[iQPS]]                                                                                             |
 | **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                    |
 | **Vehicle**      | [[Electron]]                                                                                         |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                    |
+| **Orbit Type**   | [[Orbits#LEO]]                                                                                    |
 | **Target Orbit** | 575 km &#124; 42°                                                                                    |
 | **Payload Mass** | 100 kg                                                                                               |
 | **Recovery**     | No Attempt                                                                                           |

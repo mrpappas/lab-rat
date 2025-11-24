@@ -1,17 +1,16 @@
 ---
-
 tags:
   - electron
   - launch
   - success
-mission_name: "Ready, Aim, PREFIRE"
+mission_name: Ready, Aim, PREFIRE
 launch_date: 2024-05-25 07:15
 outcome: ✅
 customer: "[[NASA]]"
 contract: "[[VADR]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#SSO]]"
+orbit_type: "[[Orbits#SSO]]"
 target_orbit: 525 km | 97.5°
 payload_mass: 15 kg
 recovery: No Attempt
@@ -41,7 +40,7 @@ The missions will be Rocket Lab’s 48th and 49th Electron launches overall and 
 | Contract         | [[VADR]]                                                                                          |
 | **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                 |
 | **Vehicle**      | [[Electron]]                                                                                      |
-| **Orbit Type**   | [[🌍 Orbits#SSO]]                                                                                 |
+| **Orbit Type**   | [[Orbits#SSO]]                                                                                 |
 | **Target Orbit** | 525 km &#124; 97.5°                                                                               |
 | **Payload Mass** | 15 kg                                                                                             |
 | **Recovery**     | No Attempt                                                                                        |

@@ -1,16 +1,15 @@
 ---
-
 tags:
   - electron
   - launch
   - success
-mission_name: "The Owl Spreads Its Wings"
+mission_name: The Owl Spreads Its Wings
 launch_date: 2022-09-15 20:30
 outcome: ✅
 customer: "[[Synspective]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#SSO]]"
+orbit_type: "[[Orbits#SSO]]"
 target_orbit: 563 km | 97°
 payload_mass: 100 kg
 recovery: No Attempt
@@ -38,7 +37,7 @@ The mission for Synspective marked a series of company milestones for Rocket Lab
 | **Customer**     | [[Synspective]]                                                                                                 |
 | **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                               |
 | **Vehicle**      | [[Electron]]                                                                                                    |
-| **Orbit Type**   | [[🌍 Orbits#SSO]]                                                                                               |
+| **Orbit Type**   | [[Orbits#SSO]]                                                                                               |
 | **Target Orbit** | 563 km &#124; 97°                                                                                               |
 | **Payload Mass** | 100 kg                                                                                                          |
 | **Recovery**     | No Attempt                                                                                                      |

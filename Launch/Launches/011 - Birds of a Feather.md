@@ -1,16 +1,15 @@
 ---
-
 tags:
   - electron
   - launch
   - success
-mission_name: "Birds of a Feather"
+mission_name: Birds of a Feather
 launch_date: 2020-01-31 02:56
 outcome: ✅
 customer: "[[National Reconnaissance Office (NRO)]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#LEO]]"
+orbit_type: "[[Orbits#LEO]]"
 target_orbit: 400 km | 37°
 payload_mass: Classified
 recovery: Controlled (Atmosphere Test)
@@ -34,7 +33,7 @@ The NRO competitively awarded the contract under the Rapid Acquisition of a Smal
 | **Customer**     | [[National Reconnaissance Office (NRO)]]                                                            |
 | **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                   |
 | **Vehicle**      | [[Electron]]                                                                                        |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                   |
+| **Orbit Type**   | [[Orbits#LEO]]                                                                                   |
 | **Target Orbit** | 400 km &#124; 37°                                                                                   |
 | **Payload Mass** | Classified                                                                                          |
 | **Recovery**     | Controlled (Atmosphere Test)                                                                        |

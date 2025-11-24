@@ -1,16 +1,15 @@
 ---
-
 tags:
   - electron
   - launch
   - failure
-mission_name: "It's a Test"
+mission_name: It's a Test
 launch_date: 2017-05-25 04:20
-outcome: "❌"
-customer: "N/A"
+outcome: ❌
+customer: N/A
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#LEO]]"
+orbit_type: "[[Orbits#LEO]]"
 target_orbit: 500 km | 85°
 payload_mass: 0 kg
 recovery: No Attempt
@@ -33,7 +32,7 @@ Despite not reaching orbit, the mission successfully demonstrated key systems in
 | **Customer**     | N/A                                                                                |
 | **Location**     | [[Launch Complex 1#Launch Pad A]]                                                  |
 | **Vehicle**      | [[Electron]]                                                                       |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                  |
+| **Orbit Type**   | [[Orbits#LEO]]                                                                  |
 | **Target Orbit** | 500 km &#124; 85°                                                                  |
 | **Payload Mass** | 0 kg                                                                               |
 | **Recovery**     | No Attempt                                                                         |

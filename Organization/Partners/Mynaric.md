@@ -3,14 +3,13 @@ name: Mynaric
 website: https://mynaric.com/
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Mynaric
+## Partner Details
 
 **Website**: https://mynaric.com/
 
->[!summary]
->Mynaric AG is a German company that develops and manufactures free-space optical (FSO) communication terminals for space, airborne, and terrestrial applications. The company specializes in laser communication technology designed to enable high-bandwidth, secure, and interference-free data transfer between satellites, aircraft, drones, and ground stations.
->
->Mynaric's products are primarily targeted at government and commercial customers deploying large-scale communication networks in space and the stratosphere. Their optical terminals are designed for high-rate inter-satellite links (ISLs) and air-to-ground connectivity, supporting applications such as proliferated low Earth orbit (LEO) constellations, defense-related tactical data networks, and high-altitude platform station (HAPS) connectivity.
+Mynaric AG is a German company that develops and manufactures free-space optical (FSO) communication terminals for space, airborne, and terrestrial applications. The company specializes in laser communication technology designed to enable high-bandwidth, secure, and interference-free data transfer between satellites, aircraft, drones, and ground stations.
 
+Mynaric's products are primarily targeted at government and commercial customers deploying large-scale communication networks in space and the stratosphere. Their optical terminals are designed for high-rate inter-satellite links (ISLs) and air-to-ground connectivity, supporting applications such as proliferated low Earth orbit (LEO) constellations, defense-related tactical data networks, and high-altitude platform station (HAPS) connectivity.
 
 ## Missions
 
@@ -63,12 +62,12 @@ CONDOR Mk3 is an [Optical Communications](https://www.nasa.gov/technology/space-
 - 4 terminals per satellite, 18 satellites
 - $15m / 72 terminals = ~$208k
 
-## ✏️ Notes
+## Notes
 
 - March 11 Rocket Lab announced its intentions to acquire Mynaric [[Rocket Lab Announces Intention to Acquire Mynaric, Leading Laser Communications Provider, in Latest Strategic Step Toward Becoming an End-to-End Space Company|Source]]
 - Mynaric reported a **backlog of 787 laser terminals** in their latest guidance [Source](https://mynaric.com/news/mynaric-updates-guidance-on-2024-key-performance-indicators-lowering-revenue-and-optical-communications-terminal-backlog-guidance/)
 
-## 📰 News
+## News
 %%DATAVIEW_PUBLISHER: start
 ```
 table published as "Published"

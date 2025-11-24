@@ -1,17 +1,16 @@
 ---
-
 tags:
   - electron
   - launch
   - failure
   - anomaly
-mission_name: "Running Out Of Toes"
+mission_name: Running Out Of Toes
 launch_date: 2021-05-15 11:11
 outcome: ❌
 customer: "[[BlackSky]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#LEO]]"
+orbit_type: "[[Orbits#LEO]]"
 target_orbit: 430 km | 50°
 payload_mass: 120 kg
 recovery: Success (Ocean Landing)
@@ -34,7 +33,7 @@ Launched in May 2021 from Launch Complex 1 in New Zealand, the ‘Running Out Of
 | **Customer**     | [[BlackSky]]                                                                                                    |
 | **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                               |
 | **Vehicle**      | [[Electron]]                                                                                                    |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                               |
+| **Orbit Type**   | [[Orbits#LEO]]                                                                                               |
 | **Target Orbit** | 430 km &#124; 50°                                                                                               |
 | **Payload Mass** | 120 kg                                                                                                          |
 | **Recovery**     | Success (Ocean Landing)                                                                                         |

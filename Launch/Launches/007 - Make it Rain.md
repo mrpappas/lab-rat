@@ -1,19 +1,18 @@
 ---
-
 tags:
   - electron
   - launch
   - success
-mission_name: "Make It Rain"
+mission_name: Make It Rain
 launch_date: 2019-06-29 04:30
 outcome: ✅
-customer: 
-- "[[Spaceflight]]"
-- "[[BlackSky]]"
-- "[[Melbourne Space Program]]"
+customer:
+  - "[[Spaceflight]]"
+  - "[[BlackSky]]"
+  - "[[Melbourne Space Program]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#LEO]]"
+orbit_type: "[[Orbits#LEO]]"
 target_orbit: 450 km | 45°
 payload_mass: 80 kg
 recovery: No Attempt
@@ -37,7 +36,7 @@ The mission was named ‘Make it Rain’ in a nod to the high volume of rainfall
 | **Customer**     | [[Spaceflight]], [[BlackSky]], [[Melbourne Space Program]]                                      |
 | **Location**     | [[Launch Complex 1#Launch Pad A]]                                                               |
 | **Vehicle**      | [[Electron]]                                                                                    |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                               |
+| **Orbit Type**   | [[Orbits#LEO]]                                                                               |
 | **Target Orbit** | 450 km &#124; 45°                                                                               |
 | **Payload Mass** | 80 kg                                                                                           |
 | **Recovery**     | No Attempt                                                                                      |

@@ -4,14 +4,14 @@ name: UTIAS Space Flight Laboratory
 website: https://www.utias-sfl.net/
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> UTIAS Space Flight Laboratory
+## Partner Details
 
 **Website:** https://www.utias-sfl.net/
 
->[!summary]
 UTIAS Flight Lab, part of the University of Toronto Institute for Aerospace Studies, is a leading developer of small satellite missions and advanced space systems. Specializing in microsatellites, nanosatellites, and CubeSats, SFL provides end-to-end mission solutions, including satellite design, manufacturing, integration, and operations. Known for its innovation in low-cost, high-performance satellites, SFL supports a wide range of applications, such as Earth observation, remote sensing, communications, and scientific research. With a proven track record of launching successful missions globally, SFL is a key player in enabling access to space for commercial, academic, and government clients.
 
 
-## 🚀 Launches
+## Launches
 
 %%DATAVIEW_PUBLISHER: start
 ```
@@ -29,7 +29,7 @@ sort launch_date desc
 %%DATAVIEW_PUBLISHER: end %%
 
 
-## 🛰️ Satellite Platforms
+## Space Systems
 
  UTIAS-SFL offers a flexible, flight-proven progression of bus platforms—from low-mass CubeSats (THUNDER, SPARTAN, JAEGER) to mid-range nanosats/microsats (NEMO, DEFIANT, NAUTILUS) up to powerful smallsat busses (DAUNTLESS) capable of supporting hundreds of kilograms of payloads. All are supported by standardized deployers (XPOD) and full mission services—ideal for science, communications, tech demos, & constellation builds.
  
@@ -88,7 +88,7 @@ Standardized 6U CubeSat platform.
 
 ### DAUNTLESS
 
-## 📰 News
+## News
 %%DATAVIEW_PUBLISHER: start
 ```
 table published as "Published"

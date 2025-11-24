@@ -9,8 +9,8 @@ outcome: ✅
 customer: "[[Kinéis]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#SSO]]"
-target_orbit: 643 km | 97° 
+orbit_type: "[[Orbits#SSO]]"
+target_orbit: 643 km | 97°
 payload_mass: 150 kg
 recovery: no attempt likely
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/iot-4-you-and-me/
@@ -45,7 +45,7 @@ Kinéis' satellite-based AIS (S-AIS) is a high-performance system (requiring no 
 | **Customer**     | [[Kinéis]]                                                                                    |
 | **Location**     | [[Launch Complex 1#Launch Pad A]]                                                             |
 | **Vehicle**      | [[Electron]]                                                                                  |
-| **Orbit Type**   | [[🌍 Orbits#SSO]]                                                                             |
+| **Orbit Type**   | [[Orbits#SSO]]                                                                             |
 | **Target Orbit** | 643 km &#124; 97°                                                                             |
 | **Payload Mass** | 150 kg                                                                                        |
 | **Recovery**     | No Attempt                                                                                    |

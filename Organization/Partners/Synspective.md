@@ -4,15 +4,13 @@ name: Synspective
 website: https://synspective.com/
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Synspective
+## Partner Details
 
 **Website:** https://synspective.com/
 
-
->[!summary]
 Synspective is a Japanese startup that develops and operates [[📦 Payload Types#Synthetic Aperture Radar (SAR)|Synthetic Aperture Radar (SAR)]] satellites to provide high-frequency, high-resolution Earth observation data. The company’s mission is to enable smarter decision-making through precise geospatial insights, focusing on areas such as urban development, disaster response, infrastructure monitoring, and resource management. By leveraging its constellation of SAR satellites, Synspective delivers consistent, cloud-penetrating imagery, ensuring reliable data regardless of weather or lighting conditions. Its solutions support governments and businesses in addressing global challenges through advanced analytics and actionable intelligence.
 
-
-## 🚀 Launches
+## Launches
 
 %%DATAVIEW_PUBLISHER: start
 ```
@@ -25,7 +23,7 @@ sort launch_date desc
 
 | File                                                                                    | Date             | Location                                              | Vehicle                          | Orbit & Mass              | Outcome |
 | --------------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | ------------------------- | ------- |
-| [[Launch/Launches/073 - Owl New World.md\|073 - Owl New World]]                         | 2025-10-14 16:33 | [[Locations/Launch Complex 1.md\|LC-1]]               | [[Launch/Electron.md\|Electron]] | 574 km \| 97° \| 100 kg   | ✅       |
+| [[Launch/Launches/073 - Owl New World.md\|073 - Owl New World]]                         | 2025-10-14 16:33 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC-1A]] | [[Launch/Electron.md\|Electron]] | 583 km \| 42° \| 100 kg   | ✅       |
 | [[Launch/Launches/058 - Owl The Way Up.md\|058 - Owl The Way Up]]                       | 2024-12-21 14:16 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 574 km \| 97° \| 100 kg   | ✅       |
 | [[Launch/Launches/051 - Owl For One, One For Owl.md\|051 - Owl For One, One For Owl]]   | 2024-08-02 16:39 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 543 km \| 43° \| 100 kg   | ✅       |
 | [[Launch/Launches/045 - Owl Night Long.md\|045 - Owl Night Long]]                       | 2024-03-12 14:00 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 561 km \| 97° \| 100 kg   | ✅       |
@@ -35,7 +33,7 @@ sort launch_date desc
 
 %%DATAVIEW_PUBLISHER: end %%
 
-## 🛰️ Space Systems
+## Space Systems
 
 ### StriX
 
@@ -62,7 +60,7 @@ Synspective's StriX satellites are a series of small, innovative, and cost-effec
 ![[Pasted image 20241224215520.png]]
 
 
-## 📰 News
+## News
 %%DATAVIEW_PUBLISHER: start
 ```
 table published as "Published"

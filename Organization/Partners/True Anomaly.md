@@ -1,9 +1,9 @@
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> True Anomaly
+## Partner Details
 
 **Website**: https://www.trueanomaly.space/
 
->[!summary]
->True Anomaly is a U.S. defense-focused space startup founded in 2022 by former U.S. military officers. The company develops spacecraft, autonomy software, and training environments to support space domain awareness (SDA), rendezvous and proximity operations (RPO), and related national security missions. Their flagship spacecraft, the Jackal autonomous orbital vehicle, is a modular bus designed for maneuverability, rapid tasking, and payload flexibility across LEO, GEO, and cislunar regimes. True Anomaly also develops the Mosaic autonomy stack and a digital training/simulation ecosystem, positioning itself as both a hardware and software provider for responsive space operations.
+True Anomaly is a U.S. defense-focused space startup founded in 2022 by former U.S. military officers. The company develops spacecraft, autonomy software, and training environments to support space domain awareness (SDA), rendezvous and proximity operations (RPO), and related national security missions. Their flagship spacecraft, the Jackal autonomous orbital vehicle, is a modular bus designed for maneuverability, rapid tasking, and payload flexibility across LEO, GEO, and cislunar regimes. True Anomaly also develops the Mosaic autonomy stack and a digital training/simulation ecosystem, positioning itself as both a hardware and software provider for responsive space operations.
 
 ## Missions
 
@@ -55,6 +55,3 @@ sort published desc
 | [[News/Rocket Lab Selected by Space Systems Command to Build and Launch Spacecraft for Tactically Responsive Space (TacRS) Mission.md\|Rocket Lab Selected by Space Systems Command to Build and Launch Spacecraft for Tactically Responsive Space (TacRS) Mission]] | April 11, 2024 |
 
 %%DATAVIEW_PUBLISHER: end %%
-
-## Media
-

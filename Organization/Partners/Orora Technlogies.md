@@ -5,16 +5,15 @@ website: https://ororatech.com/
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Orora Technlogies
 
 Website: https://ororatech.com/
+## Partner Details
 
->[!summary]
->Orora Technologies, more commonly known as OroraTech, is a German company focused on developing a constellation of small satellites equipped with thermal infrared cameras to detect wildfires early and provide real-time monitoring for faster response, essentially creating a global wildfire warning system using space-based technology; their primary product is called the "Wildfire Solution."
->
->[More info on Orora's constellation here](http://gsics.atmos.umd.edu/pub/Development/LunarCalibrationWS2023/4j_Rio%20Fernandes_OroraTech.pdf)
->
->Orora currently uses Spire Global's [[Spire Global#Space Systems#Lemur-2|Lemur-2]] CubeSat platform as the basis for their satellites and in parallel they are working directly with [[ESA]] to develop their own satellite bus and complete solution
+Orora Technologies, more commonly known as OroraTech, is a German company focused on developing a constellation of small satellites equipped with thermal infrared cameras to detect wildfires early and provide real-time monitoring for faster response, essentially creating a global wildfire warning system using space-based technology; their primary product is called the "Wildfire Solution."
 
+[More info on Orora's constellation here](http://gsics.atmos.umd.edu/pub/Development/LunarCalibrationWS2023/4j_Rio%20Fernandes_OroraTech.pdf)
 
-## 🚀 Launches
+Orora currently uses Spire Global's [[Spire Global#Space Systems#Lemur-2|Lemur-2]] CubeSat platform as the basis for their satellites and in parallel they are working directly with [[ESA]] to develop their own satellite bus and complete solution
+
+## Launches
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date as "Date", location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
@@ -30,7 +29,7 @@ sort launch_date desc
 
 %%DATAVIEW_PUBLISHER: end %%
 
-## 🛰️ Space Systems
+## Space Systems
 
 ### OTC-P1
 
@@ -46,7 +45,7 @@ sort launch_date desc
 
 ![[Pasted image 20250122180814.png]]
 
-## 📰 News
+## News
 %%DATAVIEW_PUBLISHER: start
 ```
 table published as "Published"

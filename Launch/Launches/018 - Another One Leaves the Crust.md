@@ -1,16 +1,15 @@
 ---
-
 tags:
   - electron
   - launch
   - success
-mission_name: "Another One Leaves The Crust"
+mission_name: Another One Leaves The Crust
 launch_date: 2021-01-20 07:26
 outcome: ✅
 customer: "[[OHB Group]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#LEO]]"
+orbit_type: "[[Orbits#LEO]]"
 target_orbit: 1200 km | 90°
 payload_mass: 50 kg
 recovery: No Attempt
@@ -33,7 +32,7 @@ This mission launched a single communication microsatellite for OHB Group that w
 | **Customer**     | [[OHB Group]]                                                                                                         |
 | **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                                     |
 | **Vehicle**      | [[Electron]]                                                                                                          |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                                     |
+| **Orbit Type**   | [[Orbits#LEO]]                                                                                                     |
 | **Target Orbit** | 1200 km &#124; 90°                                                                                                    |
 | **Payload Mass** | 50 kg                                                                                                                 |
 | **Recovery**     | No Attempt                                                                                                            |

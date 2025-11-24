@@ -32,7 +32,7 @@ Rocket Lab successfully launched the JENNA mission, a suborbital flight under it
 | **Payload Mass** | unknown                                 |
 | **Recovery**     | n/a                                     |
 | **Mission Link** | None                                    |
-| **Press Kit**    | 🚫 No Press Kit Issued for this Mission |
+| **Press Kit**    | 🚫 No Press Kit Issued for this mission |
 
 <!-- Mission Patch Here -->
 

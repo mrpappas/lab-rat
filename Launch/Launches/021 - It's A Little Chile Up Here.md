@@ -1,16 +1,15 @@
 ---
-
 tags:
   - electron
   - launch
   - success
-mission_name: "It's A Little Chile Up Here"
+mission_name: It's A Little Chile Up Here
 launch_date: 2021-07-29 06:00
 outcome: ✅
 customer: "[[U.S. Space Force]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#LEO]]"
+orbit_type: "[[Orbits#LEO]]"
 target_orbit: 600 km | 37°
 payload_mass: Unknown
 recovery: No Attempt
@@ -38,7 +37,7 @@ The mission was named ‘It’s a Little Chile Up Here’ in a nod to the belove
 | **Customer**     | [[U.S. Space Force]]                                                                                               |
 | **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                                  |
 | **Vehicle**      | [[Electron]]                                                                                                       |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                                  |
+| **Orbit Type**   | [[Orbits#LEO]]                                                                                                  |
 | **Target Orbit** | 600 km &#124; 37°                                                                                                  |
 | **Payload Mass** | Unknown                                                                                                            |
 | **Recovery**     | No Attempt                                                                                                         |

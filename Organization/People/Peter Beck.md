@@ -167,8 +167,8 @@ sort date desc
 | [[Interviews/Paul Henry - Why Rocket Lab Picked New Zealand.md\|Paul Henry - Why Rocket Lab Picked New Zealand]]                                                                                         | July 01, 2015      | Paul Henry Show                                   |
 | [[Interviews/Auckland Startup & Tech Meetup 2014.md\|Auckland Startup & Tech Meetup 2014]]                                                                                                               | January 13, 2015   | Auckland Startup & Tech Meetup 2014               |
 | [[Interviews/TMRO Space - The Electron Rocket.md\|TMRO Space - The Electron Rocket]]                                                                                                                     | August 10, 2014    | TMRO Space                                        |
-| [[Interviews/Spark Interview - Peter Beck.md\|Spark Interview - Peter Beck]]                                                                                                                             | May 06, 2012       | Spark Interview                                   |
 | [[Interviews/Spark Speaker Video - Peter Beck.md\|Spark Speaker Video - Peter Beck]]                                                                                                                     | May 06, 2012       | Spark Speaker Video                               |
+| [[Interviews/Spark Interview - Peter Beck.md\|Spark Interview - Peter Beck]]                                                                                                                             | May 06, 2012       | Spark Interview                                   |
 
 %%DATAVIEW_PUBLISHER: end %%
 

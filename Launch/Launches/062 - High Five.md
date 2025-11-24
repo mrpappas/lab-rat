@@ -1,14 +1,14 @@
 ---
 tags:
- - electron
- - launch
+  - electron
+  - launch
 mission_name: High Five
 launch_date: 2025-03-18 01:31
-outcome: "✅"
+outcome: ✅
 customer: "[[Kinéis]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#SSO]]"
+orbit_type: "[[Orbits#SSO]]"
 target_orbit: 643 km | 97°
 payload_mass: 150 kg
 recovery: No Attempt
@@ -36,7 +36,7 @@ Across these five launches in total, Rocket Lab deployed Kinéis’ complete con
 | **Customer**     | [[Kinéis]]                                                                               |
 | **Location**     | [[Launch Complex 1#Launch Pad A]]                                                        |
 | **Vehicle**      | [[Electron]]                                                                             |
-| **Orbit Type**   | [[🌍 Orbits#SSO]]                                                                        |
+| **Orbit Type**   | [[Orbits#SSO]]                                                                        |
 | **Target Orbit** | 643 km &#124; 97°                                                                        |
 | **Payload Mass** | 150 kg                                                                                   |
 | **Recovery**     | No Attempt                                                                               |

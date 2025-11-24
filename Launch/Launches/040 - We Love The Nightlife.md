@@ -1,17 +1,16 @@
 ---
-
 tags:
   - electron
   - launch
   - success
   - rutherford
-mission_name: "We Love The Nightlife"
+mission_name: We Love The Nightlife
 launch_date: 2023-08-24 23:45
 outcome: ✅
 customer: "[[Capella Space]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#LEO]]"
+orbit_type: "[[Orbits#LEO]]"
 target_orbit: 640 km | 53°
 payload_mass: 165 kg
 recovery: Success (Ocean Landing)
@@ -39,7 +38,7 @@ The mission was also a recovery mission, with Electron's first stage brought bac
 | **Customer**     | [[Capella Space]]                                                                                    |
 | **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                    |
 | **Vehicle**      | [[Electron]]                                                                                         |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                    |
+| **Orbit Type**   | [[Orbits#LEO]]                                                                                    |
 | **Target Orbit** | 640 km &#124; 53°                                                                                    |
 | **Payload Mass** | 165 kg                                                                                               |
 | **Recovery**     | Success (Ocean Landing)                                                                              |

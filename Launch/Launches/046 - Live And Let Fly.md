@@ -1,16 +1,15 @@
 ---
-
 tags:
   - electron
   - launch
   - success
-mission_name: "Live And Let Fly"
+mission_name: Live And Let Fly
 launch_date: 2024-03-21 06:40
 outcome: ✅
 customer: "[[National Reconnaissance Office (NRO)]]"
 location: "[[Launch Complex 2#Launch Pad 0C|LC2-0]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#LEO]]"
+orbit_type: "[[Orbits#LEO]]"
 target_orbit: Classified
 payload_mass: Classified
 recovery: No Attempt
@@ -35,7 +34,7 @@ The ‘Live And Let Fly’ launch service was acquired using NRO’s Rapid Acqui
 | **Customer**     | [[National Reconnaissance Office (NRO)]]                                                      |
 | **Location**     | [[Launch Complex 2#Launch Pad 0C]]                                                            |
 | **Vehicle**      | [[Electron]]                                                                                  |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                             |
+| **Orbit Type**   | [[Orbits#LEO]]                                                                             |
 | **Target Orbit** | Classified                                                                                    |
 | **Payload Mass** | Classified                                                                                    |
 | **Recovery**     | No Attempt                                                                                    |

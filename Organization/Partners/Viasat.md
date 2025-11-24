@@ -3,11 +3,11 @@ name: Viasat
 website: https://www.viasat.com/
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Viasat
+## Partner Details
 
 Website: https://www.viasat.com/
 
->[!Summary]
->Viasat is a U.S.-based satellite communications company specializing in high-capacity broadband services for residential, commercial aviation, government, and defense markets. Known for its ViaSat-1, -2, and Global Xpress-compatible ViaSat-3 satellite series, the company operates a global Ka-band network and competes in the growing satcom sector alongside players like SES, Intelsat, and SpaceX. [Viasat acquired Inmarsat in 2023](https://spacenews.com/satellite-operators-viasat-and-inmarsat-complete-merger-deal/), significantly expanding its global mobility and government offerings.
+Viasat is a U.S.-based satellite communications company specializing in high-capacity broadband services for residential, commercial aviation, government, and defense markets. Known for its ViaSat-1, -2, and Global Xpress-compatible ViaSat-3 satellite series, the company operates a global Ka-band network and competes in the growing satcom sector alongside players like SES, Intelsat, and SpaceX. [Viasat acquired Inmarsat in 2023](https://spacenews.com/satellite-operators-viasat-and-inmarsat-complete-merger-deal/), significantly expanding its global mobility and government offerings.
 
 ## Space Systems
 

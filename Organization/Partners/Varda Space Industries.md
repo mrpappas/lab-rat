@@ -4,10 +4,10 @@ name: Varda Space Industries
 website: https://www.varda.com/
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> York Space Systems
+## Partner Details
 
 **Website:** https://www.varda.com/
 
->[!summary]
 Varda Space Industries is pioneering in-space manufacturing by leveraging microgravity to produce materials and products that are superior to those made on Earth. By building and deploying space-based factories, Varda creates high-value products—like advanced pharmaceuticals and specialized materials—that benefit from the unique conditions of space. These products are then safely returned to Earth, enabling breakthrough innovations in medicine, technology, and industrial manufacturing.
 ## Missions
 

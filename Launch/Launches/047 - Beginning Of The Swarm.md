@@ -11,7 +11,7 @@ customer:
   - "[[KAIST]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#SSO]]"
+orbit_type: "[[Orbits#SSO]]"
 target_orbit: 520 km (Neonsat-1), 1,000 km (ACS3), 97°
 payload_mass: 115 kg
 recovery: No Attempt
@@ -38,7 +38,7 @@ The secondary payload was NASA's ACS3, a technology demonstration of new materia
 | **Customer**     | [[NASA]], [[KAIST]]                                          |
 | **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                         |
 | **Vehicle**      | [[Electron]]                                                                                              |
-| **Orbit Type**   | [[🌍 Orbits#SSO]]                                                                                         |
+| **Orbit Type**   | [[Orbits#SSO]]                                                                                         |
 | **Target Orbit** | 520 km (Neonsat-1), 1,000 km (ACS3) &#124; 97°                                                            |
 | **Payload Mass** | 115 kg                                                                                                    |
 | **Recovery**     | No Attempt                                                                                                |

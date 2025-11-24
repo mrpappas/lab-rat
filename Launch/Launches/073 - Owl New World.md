@@ -1,17 +1,17 @@
 ---
 tags:
- - launch
- - electron
+  - launch
+  - electron
 mission_name: Owl New World
 launch_date: 2025-10-14 16:33
-outcome: "✅"
+outcome: ✅
 customer: "[[Synspective]]"
-location: "[[Launch Complex 1|LC-1]]"
+location: "[[Launch Complex 1#Launch Pad A|LC-1A]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#LEO]]"
-target_orbit: 574 km | 97°
+orbit_type: "[[Orbits#LEO]]"
+target_orbit: 583 km | 42°
 payload_mass: 100 kg
-recovery: No Attempt Likely
+recovery: No Attempt Made
 mission_link: https://rocketlabcorp.com/missions/missions-launched/owl-new-world/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span> <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span> 073 - Owl New World
@@ -26,17 +26,19 @@ mission_link: https://rocketlabcorp.com/missions/missions-launched/owl-new-world
 
 The mission was Rocket Lab’s 15th launch this year and 73rd launch overall.
 
+[📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720329660661/)
+
 | **Mission Name** | Owl New World                                                        |
 | ---------------- | -------------------------------------------------------------------- |
 | **Launch Date**  | 2025-10-14 16:33                                                     |
 | **Outcome**      | ✅ Success                                                            |
 | **Customer**     | [[Synspective]]                                                      |
-| **Location**     | [[Launch Complex 1]]                                                 |
+| **Location**     | [[Launch Complex 1#Launch Pad A]]                                    |
 | **Vehicle**      | [[Electron]]                                                         |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                    |
+| **Orbit Type**   | [[Orbits#LEO]]                                                       |
 | **Target Orbit** | 583 km \| 42°                                                        |
 | **Payload Mass** | 100 kg                                                               |
-| **Recovery**     | No Attempt Likely                                                    |
+| **Recovery**     | No Attempt Made                                                      |
 | **Mission Link** | https://rocketlabcorp.com/missions/missions-launched/owl-new-world/  |
 | **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/RL-F73.pdf) |
 

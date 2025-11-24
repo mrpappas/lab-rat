@@ -1,16 +1,15 @@
 ---
-
 tags:
   - electron
   - launch
   - success
-mission_name: "DARPA R3D2"
+mission_name: DARPA R3D2
 launch_date: 2019-03-28 23:27
 outcome: ✅
 customer: "[[DARPA]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#LEO]]"
+orbit_type: "[[Orbits#LEO]]"
 target_orbit: 425 km | 39.5°
 payload_mass: 150 kg
 recovery: No Attempt
@@ -37,7 +36,7 @@ The 150kg R3D2 satellite lifted off on an Electron rocket from Launch Complex 1 
 | **Customer**     | [[DARPA]]                                                                                     |
 | **Location**     | [[Launch Complex 1#Launch Pad A]]                                                             |
 | **Vehicle**      | [[Electron]]                                                                                  |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                             |
+| **Orbit Type**   | [[Orbits#LEO]]                                                                             |
 | **Target Orbit** | 425 km &#124; 39.5°                                                                           |
 | **Payload Mass** | 150 kg                                                                                        |
 | **Recovery**     | No Attempt                                                                                    |

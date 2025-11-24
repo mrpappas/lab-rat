@@ -25,6 +25,7 @@ sort published desc
 
 | File                                                                                                                                                                                                                       | Published         |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[News/Rocket Lab Successfully Launches HASTE Mission for Defense Innovation Unit, Missile Defense Agency.md\|Rocket Lab Successfully Launches HASTE Mission for Defense Innovation Unit, Missile Defense Agency]]         | November 18, 2025 |
 | [[News/Rocket Lab Selected by MDA to Deliver Satellite Operations Control Center for Globalstar Constellation.md\|Rocket Lab Selected by MDA to Deliver Satellite Operations Control Center for Globalstar Constellation]] | November 09, 2022 |
 | [[News/Rocket Lab Selected by MDA to Design and Build Spacecraft for Globalstar.md\|Rocket Lab Selected by MDA to Design and Build Spacecraft for Globalstar]]                                                             | February 24, 2022 |
 

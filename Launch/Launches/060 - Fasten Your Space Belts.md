@@ -9,7 +9,7 @@ outcome: ✅
 customer: "[[BlackSky]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#LEO]]"
+orbit_type: "[[Orbits#LEO]]"
 target_orbit: 470 km | 59°
 payload_mass: 138 kg
 recovery: No attempt
@@ -35,7 +35,7 @@ Like earlier Black Sky launches on [[Electron]], this mission was supported by a
 | **Customer**     | [[BlackSky]]                                                                                                |
 | **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                           |
 | **Vehicle**      | [[Electron]]                                                                                                |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                           |
+| **Orbit Type**   | [[Orbits#LEO]]                                                                                           |
 | **Target Orbit** | 470 km &#124; 59°                                                                                           |
 | **Payload Mass** | 138 kg                                                                                                      |
 | **Recovery**     | No Attempt                                                                                                  |

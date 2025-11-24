@@ -37,7 +37,7 @@ Rocket Lab has now deployed four Electron missions for iQPS with 100% mission su
 | **Contract**     | [[iQPS Four Launch Contract 2024]]                                                                                  |
 | **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                                   |
 | **Vehicle**      | [[Electron]]                                                                                                        |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                                   |
+| **Orbit Type**   | [[Orbits#LEO]]                                                                                                   |
 | **Target Orbit** | 575 km \| 42°                                                                                                       |
 | **Payload Mass** | 100 kg                                                                                                              |
 | **Recovery**     | No Attempt                                                                                                          |

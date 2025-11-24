@@ -1,20 +1,19 @@
 ---
-
 tags:
   - electron
   - launch
   - success
-mission_name: "Don't Stop Me Now"
+mission_name: Don't Stop Me Now
 launch_date: 2020-06-13 05:12
 outcome: ✅
-customer: 
-- "[[Boston University]]"
-- "[[NASA]]"
-- "[[National Reconnaissance Office (NRO)]]"
-- "[[UNSW Canberra Space]]"
+customer:
+  - "[[Boston University]]"
+  - "[[NASA]]"
+  - "[[National Reconnaissance Office (NRO)]]"
+  - "[[UNSW Canberra Space]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#LEO]]"
+orbit_type: "[[Orbits#LEO]]"
 target_orbit: 570 x 590 km | 97.75°
 payload_mass: Classified
 recovery: No Attempt
@@ -42,7 +41,7 @@ The mission has been named ‘Don’t Stop Me Now’ in recognition of Rocket La
 | **Customer**     | [[Boston University]], [[NASA]], [[National Reconnaissance Office (NRO)]], [[UNSW Canberra Space]] |
 | **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                  |
 | **Vehicle**      | [[Electron]]                                                                                       |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                  |
+| **Orbit Type**   | [[Orbits#LEO]]                                                                                  |
 | **Target Orbit** | 570 x 590 km &#124; 97.75°                                                                         |
 | **Payload Mass** | Classified                                                                                         |
 | **Recovery**     | No Attempt                                                                                         |

@@ -35,7 +35,7 @@ sort launch_date desc
 
 ### Lyra Block-1
 
-Lyra is an in-development S-Band constellation of [[🌍 Orbits#LEO|LEO]] satellites based on [[Astro Digital#Corvus-XL|Astro Digital's Corvus-XL]] bus, designed to deliver global Internet-of-Things(IoT), machine to machine (M2M), and other data services. Enabled with Lora protocol and support for 5G non-terrestrial network (NTN) services. “The EchoStar Lyra constellation will provide both a commercial platform for IoT services and a platform for ongoing development of our global S-band portfolio”([Source](https://www.linkedin.com/posts/hughesconnects_network-connectivity-satellite-activity-7041093850957783041-0EcL/?trk=public_profile_like_view)).
+Lyra is an in-development S-Band constellation of [[Orbits#LEO|LEO]] satellites based on [[Astro Digital#Corvus-XL|Astro Digital's Corvus-XL]] bus, designed to deliver global Internet-of-Things(IoT), machine to machine (M2M), and other data services. Enabled with Lora protocol and support for 5G non-terrestrial network (NTN) services. “The EchoStar Lyra constellation will provide both a commercial platform for IoT services and a platform for ongoing development of our global S-band portfolio”([Source](https://www.linkedin.com/posts/hughesconnects_network-connectivity-satellite-activity-7041093850957783041-0EcL/?trk=public_profile_like_view)).
 
 Gunter's Space: https://space.skyrocket.de/doc_sdat/lyra-block1.htm
 

@@ -17,7 +17,7 @@ customer:
   - "[[Trisept]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#LEO]]"
+orbit_type: "[[Orbits#LEO]]"
 target_orbit: 450 km and 550 km | 45°
 payload_mass: Unknown
 recovery: No Attempt
@@ -51,7 +51,7 @@ The final payload on this mission was Rocket Lab’s in-house designed and built
 | **Customer**     | [[BlackSky]], [[Tyvak Nano-Satellite Systems]], [[Fleet Space]], [[Myriota]], [[UNSW Canberra Space]], [[Care Weather]], [[U.S. Army]], [[Trisept]] |
 | **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                                                                   |
 | **Vehicle**      | [[Electron]]                                                                                                                                        |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                                                                   |
+| **Orbit Type**   | [[Orbits#LEO]]                                                                                                                                   |
 | **Target Orbit** | 450 km and 550 km &#124; 45°                                                                                                                        |
 | **Payload Mass** | Unknown                                                                                                                                             |
 | **Recovery**     | No Attempt                                                                                                                                          |

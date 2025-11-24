@@ -1,18 +1,17 @@
 ---
-
 tags:
   - electron
   - launch
   - success
-mission_name: "Four Of A Kind"
+mission_name: Four Of A Kind
 launch_date: 2024-01-31 06:34
 outcome: ✅
-customer: 
-- "[[Spire Global]]"
-- "[[NorthStar Earth & Space]]"
+customer:
+  - "[[Spire Global]]"
+  - "[[NorthStar Earth & Space]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#LEO]]"
+orbit_type: "[[Orbits#LEO]]"
 target_orbit: 530 km | 97°
 payload_mass: 112 kg
 recovery: Success (Ocean Landing)
@@ -39,7 +38,7 @@ The mission also included the successful splashdown and recovery of Electron's f
 | **Customer**     | [[Spire Global]], [[NorthStar Earth & Space]]                                                      |
 | **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                  |
 | **Vehicle**      | [[Electron]]                                                                                       |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                  |
+| **Orbit Type**   | [[Orbits#LEO]]                                                                                  |
 | **Target Orbit** | 530 km &#124; 97°                                                                                  |
 | **Payload Mass** | 112 kg                                                                                             |
 | **Recovery**     | Success (Ocean Landing)                                                                            |

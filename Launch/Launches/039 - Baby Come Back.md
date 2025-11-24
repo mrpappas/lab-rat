@@ -1,21 +1,20 @@
 ---
-
 tags:
   - electron
   - launch
   - success
-mission_name: "Baby Come Back"
+mission_name: Baby Come Back
 launch_date: 2023-07-18 01:27
 outcome: ✅
-customer: 
-- "[[NASA]]"
-- "[[UTIAS Space Flight Laboratory]]"
-- "[[Telesat]]"
-- "[[Spire Global]]"
-- "[[CesiumAstro]]"
+customer:
+  - "[[NASA]]"
+  - "[[UTIAS Space Flight Laboratory]]"
+  - "[[Telesat]]"
+  - "[[Spire Global]]"
+  - "[[CesiumAstro]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#SSO]]"
+orbit_type: "[[Orbits#SSO]]"
 target_orbit: 1000 km | 99.45°
 payload_mass: 86 kg
 recovery: Success (Ocean Landing)
@@ -50,7 +49,7 @@ The ‘Baby Come Back’ mission is a rideshare mission and will carry satellite
 | **Customer**     | [[NASA]], [[CesiumAstro]], [[UTIAS Space Flight Laboratory]], [[Telesat]], [[Spire Global]]        |
 | **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                  |
 | **Vehicle**      | [[Electron]]                                                                                       |
-| **Orbit Type**   | [[🌍 Orbits#SSO]]                                                                                  |
+| **Orbit Type**   | [[Orbits#SSO]]                                                                                  |
 | **Target Orbit** | 1000 km &#124; 99.45°                                                                              |
 | **Payload Mass** | 86 kg                                                                                              |
 | **Recovery**     | Success (Ocean Landing)                                                                            |

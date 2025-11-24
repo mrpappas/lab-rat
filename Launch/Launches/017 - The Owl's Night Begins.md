@@ -1,16 +1,15 @@
 ---
-
 tags:
   - electron
   - launch
   - success
-mission_name: "The Owl's Night Begins"
+mission_name: The Owl's Night Begins
 launch_date: 2020-12-15 10:09
 outcome: ✅
 customer: "[[Synspective]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#SSO]]"
+orbit_type: "[[Orbits#SSO]]"
 target_orbit: 500 km | 97.3°
 payload_mass: 150 kg
 recovery: No Attempt
@@ -38,7 +37,7 @@ The StriX-α satellite onboard this mission was the first of a series of spacecr
 | **Customer**     | [[Synspective]]                                                                                            |
 | **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                          |
 | **Vehicle**      | [[Electron]]                                                                                               |
-| **Orbit Type**   | [[🌍 Orbits#SSO]]                                                                                          |
+| **Orbit Type**   | [[Orbits#SSO]]                                                                                          |
 | **Target Orbit** | 500 km &#124; 97.3°                                                                                        |
 | **Payload Mass** | 150 kg                                                                                                     |
 | **Recovery**     | No Attempt                                                                                                 |

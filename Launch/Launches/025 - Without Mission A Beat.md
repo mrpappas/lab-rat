@@ -1,16 +1,15 @@
 ---
-
 tags:
   - electron
   - launch
   - success
-mission_name: "Without Mission A Beat"
+mission_name: Without Mission A Beat
 launch_date: 2022-04-02 12:41
 outcome: ✅
 customer: "[[BlackSky]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#LEO]]"
+orbit_type: "[[Orbits#LEO]]"
 target_orbit: 430 km | 53°
 payload_mass: 120 kg
 recovery: No Attempt
@@ -37,7 +36,7 @@ Rocket Lab launched the “Without Mission A Beat” mission from Rocket Lab Lau
 | **Customer**     | [[BlackSky]]                                                                                               |
 | **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                          |
 | **Vehicle**      | [[Electron]]                                                                                               |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                          |
+| **Orbit Type**   | [[Orbits#LEO]]                                                                                          |
 | **Target Orbit** | 430 km &#124; 53°                                                                                          |
 | **Payload Mass** | 120 kg                                                                                                     |
 | **Recovery**     | No Attempt                                                                                                 |

@@ -2,7 +2,7 @@
 
 ## 2025
 
-### Q4
+### Q4 2025
 
 %% DATAVIEW_PUBLISHER: start
 ```
@@ -24,13 +24,17 @@ SORT launch_date DESC
 ```
 %%
 
-| Launch                                                          | Customer                                              | Date (UTC) | Vehicle                          | Orbit & Mass            | Outcome |
-| --------------------------------------------------------------- | ----------------------------------------------------- | ---------- | -------------------------------- | ----------------------- | ------- |
-| [[Launch/Launches/073 - Owl New World.md\|073 - Owl New World]] | [[Organization/Partners/Synspective.md\|Synspective]] | 2025-10-14 | [[Launch/Electron.md\|Electron]] | 574 km \| 97° \| 100 kg | ✅       |
+| Launch                                                                                | Customer                                              | Date (UTC) | Vehicle                          | Orbit & Mass               | Outcome |
+| ------------------------------------------------------------------------------------- | ----------------------------------------------------- | ---------- | -------------------------------- | -------------------------- | ------- |
+| [[Launch/Launches/077 - Raise and Shine.md\|077 - Raise and Shine]]                   | [[Organization/Partners/JAXA.md\|JAXA]]               | 2025-12-05 | [[Launch/Electron.md\|Electron]] | 540 km \| 97.5° \| Unknown | ⌛       |
+| [[Launch/Launches/076 - Follow My Speed.md\|076 - Follow My Speed]]                   | [[Organization/Partners/BlackSky.md\|BlackSky]]       | 2025-11-20 | [[Launch/Electron.md\|Electron]] | 470 km \| 59° \| 138 kg    | ✅       |
+| [[Launch/Launches/075 - Prometheus Run.md\|075 - Prometheus Run]]                     | [[Organization/Partners/MDA.md\|MDA]]                 | 2025-11-18 | [[Launch/HASTE.md\|HASTE]]       | Suborbital \| unknown      | ✅       |
+| [[Launch/Launches/074 - The Nation God Navigates.md\|074 - The Nation God Navigates]] | [[Organization/Partners/iQPS.md\|iQPS]]               | 2025-11-05 | [[Launch/Electron.md\|Electron]] | 575 km \| 42° \| 100 kg    | ✅       |
+| [[Launch/Launches/073 - Owl New World.md\|073 - Owl New World]]                       | [[Organization/Partners/Synspective.md\|Synspective]] | 2025-10-14 | [[Launch/Electron.md\|Electron]] | 583 km \| 42° \| 100 kg    | ✅       |
 
 %% DATAVIEW_PUBLISHER: end %%
 
-### Q3
+### Q3 2025
 
 %% DATAVIEW_PUBLISHER: start
 ```
@@ -61,7 +65,7 @@ SORT launch_date DESC
 
 %% DATAVIEW_PUBLISHER: end %%
 
-### Q2
+### Q2 2025
 
 %% DATAVIEW_PUBLISHER: start
 ```
@@ -93,7 +97,7 @@ SORT launch_date DESC
 
 %% DATAVIEW_PUBLISHER: end %%
 
-### Q1
+### Q1 2025
 
 %% DATAVIEW_PUBLISHER: start
 ```
@@ -127,7 +131,7 @@ SORT launch_date DESC
 
 ## 2024
 
-### Q4
+### Q4 2024
 
 %% DATAVIEW_PUBLISHER: start
 ```
@@ -152,7 +156,7 @@ SORT launch_date DESC
 
 %% DATAVIEW_PUBLISHER: end %%
 
-### Q3
+### Q3 2024
 
 %% DATAVIEW_PUBLISHER: start
 ```
@@ -175,7 +179,7 @@ SORT launch_date DESC
 
 %% DATAVIEW_PUBLISHER: end %%
 
-### Q2
+### Q2 2024
 
 %% DATAVIEW_PUBLISHER: start
 ```
@@ -199,7 +203,7 @@ SORT launch_date DESC
 
 %% DATAVIEW_PUBLISHER: end %%
 
-### Q1
+### Q1 2024
 
 %% DATAVIEW_PUBLISHER: start
 ```
@@ -225,7 +229,7 @@ SORT launch_date DESC
 
 ## 2023
 
-### Q4
+### Q4 2023
 
 %% DATAVIEW_PUBLISHER: start
 ```
@@ -246,7 +250,7 @@ SORT launch_date DESC
 
 %% DATAVIEW_PUBLISHER: end %%
 
-### Q3
+### Q3 2023
 
 %% DATAVIEW_PUBLISHER: start
 ```
@@ -269,7 +273,7 @@ SORT launch_date DESC
 
 %% DATAVIEW_PUBLISHER: end %%
 
-### Q2
+### Q2 2023
 
 %% DATAVIEW_PUBLISHER: start
 ```
@@ -292,7 +296,7 @@ SORT launch_date DESC
 
 %% DATAVIEW_PUBLISHER: end %%
 
-### Q1
+### Q1 2023
 
 %% DATAVIEW_PUBLISHER: start
 ```
@@ -319,7 +323,7 @@ SORT launch_date DESC
 ## 2022
 
 
-### Q4
+### Q4 2022
 
 %% DATAVIEW_PUBLISHER: start
 ```
@@ -341,7 +345,7 @@ SORT launch_date DESC
 
 %% DATAVIEW_PUBLISHER: end %%
 
-### Q3
+### Q3 2022
 
 %% DATAVIEW_PUBLISHER: start
 ```
@@ -364,7 +368,7 @@ SORT launch_date DESC
 
 %% DATAVIEW_PUBLISHER: end %%
 
-### Q2
+### Q2 2022
 
 %% DATAVIEW_PUBLISHER: start
 ```
@@ -387,7 +391,7 @@ SORT launch_date DESC
 
 %% DATAVIEW_PUBLISHER: end %%
 
-### Q1
+### Q1 2022
 
 %% DATAVIEW_PUBLISHER: start
 ```
@@ -410,8 +414,7 @@ SORT launch_date DESC
 
 ## 2021
 
-
-### Q4
+### Q4 2021
 
 %% DATAVIEW_PUBLISHER: start
 ```
@@ -433,7 +436,7 @@ SORT launch_date DESC
 
 %% DATAVIEW_PUBLISHER: end %%
 
-### Q3
+### Q3 2021
 
 %% DATAVIEW_PUBLISHER: start
 ```
@@ -454,7 +457,7 @@ SORT launch_date DESC
 
 %% DATAVIEW_PUBLISHER: end %%
 
-### Q2
+### Q2 2021
 
 %% DATAVIEW_PUBLISHER: start
 ```
@@ -475,8 +478,8 @@ SORT launch_date DESC
 
 %% DATAVIEW_PUBLISHER: end %%
 
-### Q1
-
+### Q1 2021
+ 
 %% DATAVIEW_PUBLISHER: start
 ```
 TABLE WITHOUT ID
@@ -499,7 +502,7 @@ SORT launch_date DESC
 
 ## 2020
 
-### Q4
+### Q4 2020
 
 %% DATAVIEW_PUBLISHER: start
 ```
@@ -522,7 +525,7 @@ SORT launch_date DESC
 
 %% DATAVIEW_PUBLISHER: end %%
 
-### Q3
+### Q3 2020
 
 %% DATAVIEW_PUBLISHER: start
 ```
@@ -544,7 +547,7 @@ SORT launch_date DESC
 
 %% DATAVIEW_PUBLISHER: end %%
 
-### Q2
+### Q2 2020
 
 %% DATAVIEW_PUBLISHER: start
 ```
@@ -565,7 +568,7 @@ SORT launch_date DESC
 
 %% DATAVIEW_PUBLISHER: end %%
 
-### Q1
+### Q1 2020
 
 %% DATAVIEW_PUBLISHER: start
 ```
@@ -589,7 +592,7 @@ SORT launch_date DESC
 ## 2019
 
 
-### Q4
+### Q4 2019
 
 %% DATAVIEW_PUBLISHER: start
 ```
@@ -611,7 +614,7 @@ SORT launch_date DESC
 
 %% DATAVIEW_PUBLISHER: end %%
 
-### Q3
+### Q3 2019
 
 %% DATAVIEW_PUBLISHER: start
 ```
@@ -632,7 +635,7 @@ SORT launch_date DESC
 
 %% DATAVIEW_PUBLISHER: end %%
 
-### Q2
+### Q2 2019
 
 %% DATAVIEW_PUBLISHER: start
 ```
@@ -654,7 +657,7 @@ SORT launch_date DESC
 
 %% DATAVIEW_PUBLISHER: end %%
 
-### Q1
+### Q1 2019
 
 %% DATAVIEW_PUBLISHER: start
 ```
@@ -677,7 +680,7 @@ SORT launch_date DESC
 
 ## 2018
 
-### Q4
+### Q4 2018
 
 %% DATAVIEW_PUBLISHER: start
 ```
@@ -699,7 +702,7 @@ SORT launch_date DESC
 
 %% DATAVIEW_PUBLISHER: end %%
 
-### Q1
+### Q1 2018
 
 %% DATAVIEW_PUBLISHER: start
 ```
@@ -722,7 +725,7 @@ SORT launch_date DESC
 
 ## 2017
 
-### Q2
+### Q2 2017
 
 %% DATAVIEW_PUBLISHER: start
 ```

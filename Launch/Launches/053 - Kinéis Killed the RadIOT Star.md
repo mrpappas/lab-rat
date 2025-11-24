@@ -1,5 +1,4 @@
 ---
-
 tags:
   - electron
   - launch
@@ -10,8 +9,8 @@ outcome: ✅
 customer: "[[Kinéis]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#LEO]]"
-target_orbit: 643 km | 98°  
+orbit_type: "[[Orbits#LEO]]"
+target_orbit: 643 km | 98°
 payload_mass: 150 kg
 recovery: No Attempt
 mission_link: https://www.rocketlabusa.com/missions/missions-launched/kineis-killed-the-radiot-star/
@@ -38,7 +37,7 @@ Rocket Lab launched the “Kinéis Killed the RadIOT Star” mission from Rocket
 | **Customer**     | [[Kinéis]]                                                                                                              |
 | **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                                       |
 | **Vehicle**      | [[Electron]]                                                                                                            |
-| **Orbit Type**   | [[🌍 Orbits#LEO]]                                                                                                       |
+| **Orbit Type**   | [[Orbits#LEO]]                                                                                                       |
 | **Target Orbit** | 643 km &#124; 98°                                                                                                       |
 | **Payload Mass** | 150 kg                                                                                                                  |
 | **Recovery**     | No Attempt                                                                                                              |

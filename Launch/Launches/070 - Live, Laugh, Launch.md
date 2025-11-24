@@ -8,7 +8,7 @@ outcome: ✅
 customer: "[[EchoStar|EchoStar (Confidential)]]"
 location: "[[Launch Complex 1]]"
 vehicle: "[[Electron]]"
-orbit_type: "[[🌍 Orbits#SSO]]"
+orbit_type: "[[Orbits#SSO]]"
 target_orbit: 650 km | 96°
 payload_mass: Unknown
 recovery: Attempt Unlikely
@@ -28,16 +28,16 @@ mission_link: https://rocketlabcorp.com/missions/missions-launched/live-laugh-la
 | **Mission Name** | Live, Laugh, Launch                                                                            |
 | ---------------- | ---------------------------------------------------------------------------------------------- |
 | **Launch Date**  | August 23 2025 22:30 UTC                                                                       |
-| **Outcome**      | Success ✅                                                                                       |
+| **Outcome**      | Success ✅                                                                                      |
 | **Customer**     | Confidential Customer (Likely [[EchoStar]])                                                    |
 | **Location**     | [[Launch Complex 1#Launch Pad A]]                                                              |
 | **Vehicle**      | [[Electron]]                                                                                   |
-| **Orbit Type**   | [[🌍 Orbits#SSO]]                                                                              |
+| **Orbit Type**   | [[Orbits#SSO]]                                                                                 |
 | **Target Orbit** | 650 km \| 96°                                                                                  |
 | **Payload Mass** | x1 [[EchoStar#Lyra Block-1]] (74 kg), x4 Cubesats (48-96kg)                                    |
 | **Recovery**     | No Attempt                                                                                     |
 | **Mission Link** | [Live, Laugh, Launch](https://rocketlabcorp.com/missions/missions-launched/live-laugh-launch/) |
-| **Press Kit**    | No Press Kit - Confidential Customer                                                           |
+| **Press Kit**    | 🚫 No Press Kit Issued for this mission                                                        |
 
 ![[Pasted image 20250818195937.png|300]]
 

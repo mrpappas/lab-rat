@@ -4,14 +4,13 @@ name: Spaceflight
 website: https://en.wikipedia.org/wiki/Spaceflight,_Inc.
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Spaceflight
+## Partner Details
 
 **Website:** https://en.wikipedia.org/wiki/Spaceflight,_Inc.
 
->[!summary]
 Spaceflight Inc. was known as a leader in arranging launches of small satellites on small launch vehicles or as secondary payloads on larger launch vehicles, deploying more than 460 payloads. Spaceflight had also developed its own series of orbital transfer vehicles called Sherpa, using a mix of chemical and electric propulsion systems.
 
-
-## 🚀 Launches
+## Launches
 
 %%DATAVIEW_PUBLISHER: start
 ```
@@ -33,7 +32,7 @@ sort launch_date desc
 
 %%DATAVIEW_PUBLISHER: end %%
 
-## 📰 News
+## News
 %%DATAVIEW_PUBLISHER: start
 ```
 table published as "Published"
@@ -64,6 +63,6 @@ sort published desc
 
 %%DATAVIEW_PUBLISHER: end %%
 
-## ✏️ Notes
+## Notes
 
 - Acquired by [[Firefly Aerospace]] June 8 2023. [Source](https://www.satellitetoday.com/finance/2023/06/12/firefly-aerospace-to-acquire-rideshare-provider-spaceflight/)
