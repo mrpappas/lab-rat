@@ -34,6 +34,7 @@ mission_link: https://rocketlabcorp.com/missions/missions-launched/live-laugh-la
 | **Vehicle**      | [[Electron]]                                                                                   |
 | **Orbit Type**   | [[Orbits#SSO]]                                                                                 |
 | **Target Orbit** | 650 km \| 96°                                                                                  |
+| Achieved Orbit   | 652 x 658 km \| 97.97°                                                                         |
 | **Payload Mass** | x1 [[EchoStar#Lyra Block-1]] (74 kg), x4 Cubesats (48-96kg)                                    |
 | **Recovery**     | No Attempt                                                                                     |
 | **Mission Link** | [Live, Laugh, Launch](https://rocketlabcorp.com/missions/missions-launched/live-laugh-launch/) |

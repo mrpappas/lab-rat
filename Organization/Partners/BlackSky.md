@@ -23,7 +23,7 @@ sort launch_date desc
 
 | File                                                                                | Date             | Location                                              | Vehicle                          | Orbit & Mass                        | Outcome |
 | ----------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | ----------------------------------- | ------- |
-| [[Launch/Launches/076 - Follow My Speed.md\|076 - Follow My Speed]]                 | 2025-11-20 12:43 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 470 km \| 59° \| 138 kg             | ✅       |
+| [[Launch/Launches/076 - Follow My Speed.md\|076 - Follow My Speed]]                 | 2025-11-20 12:43 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 470 km \| 42° \| 138 kg             | ✅       |
 | [[Launch/Launches/065 - Full Stream Ahead.md\|065 - Full Stream Ahead]]             | 2025-06-03 23:57 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 470 km \| 59° \| 138 kg             | ✅       |
 | [[Launch/Launches/060 - Fasten Your Space Belts.md\|060 - Fasten Your Space Belts]] | 2025-02-19 12:17 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 470 km \| 59° \| 138 kg             | ✅       |
 | [[Launch/Launches/035 - The Beat Goes On.md\|035 - The Beat Goes On]]               | 2023-03-24 09:14 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 450 km \| 42° \| 120 kg             | ✅       |

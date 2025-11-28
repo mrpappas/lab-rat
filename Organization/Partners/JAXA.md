@@ -24,7 +24,7 @@ sort launch_date desc
 
 | File                                                                | Date             | Location                                              | Vehicle                          | Orbit & Mass               | Outcome |
 | ------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | -------------------------- | ------- |
-| [[Launch/Launches/077 - Raise and Shine.md\|077 - Raise and Shine]] | 2025-12-05 03:00 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 540 km \| 97.5° \| Unknown | ⌛       |
+| [[Launch/Launches/077 - Raise and Shine.md\|077 - Raise and Shine]] | 2025-12-05 03:00 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 540 km \| 97.5° \| ~110 kg | ⌛       |
 
 %%DATAVIEW_PUBLISHER: end %%
 
@@ -37,40 +37,57 @@ RAISE-4 (RApid Innovative payload demonstration SatellitE-4) is a dedicated tech
 
 This mission is a critical part of JAXA's [Innovative Satellite Technology Demonstration Program](https://www.kenkai.jaxa.jp/eng/research/innovative/innovative.html), which provides on-orbit demonstration opportunities for private companies, universities, and research institutions to test new space components and subsystems. RAISE-4 carries eight distinct technology themes, six of which are re-flights of payloads originally onboard [RAISE-3](https://space.skyrocket.de/doc_sdat/raise-3.htm) (which was lost in an Epsilon launch failure in 2022). The mission marks the first of two dedicated [[Electron]] launches contracted directly by JAXA, with the second scheduled for Q1 2026.
 
+📰 Press Release: https://www.kenkai.jaxa.jp/kakushin/kakushin04.html
 #### Specifications
 
-| Specification          | Value                                 |
-| ---------------------- | ------------------------------------- |
-| Mass                   | ~110 kg                               |
-| Dimensions             | 0.75m x 1.0m x 0.8m                   |
-| Power Generation (BOL) | 215 Watts (Body mounted Solar panels) |
-| Battery                | Lithium Ion                           |
-| Stabiliation           | 3-Axis Stabilized                     |
-| Bus Manufacturer       | Mitsubishi Heavy Industries           |
-| Design Life            | 13 Months                             |
->[!info] Some specs derived from RAISE-3 Press Release
+| Specification          | Value                                                         |
+| ---------------------- | ------------------------------------------------------------- |
+| Mass                   | ~110 kg                                                       |
+| Dimensions             | 790mm x 1000mm x 1010mm                                       |
+| Power Generation (BOL) | > 215W                                                        |
+| Power Generation (EOL) | > 180W                                                        |
+| Transmission Power     | >105Wh, EOL: >62Wh                                            |
+| Battery                | Lithium Ion                                                   |
+| Stabiliation           | 3-Axis Stabilized                                             |
+| Bus Manufacturer       | Mitsubishi Heavy Industries                                   |
+| Mission Period         | 2 months of initial operation, 13 months of regular operation |
+
 
 ![[Pasted image 20251124181149.png]]
-#### Payloads
+#### Components and Subsystems
 
-##### 1. [AIRIS (Artificial Intelligence Retraining In Space)](https://www.mhi.com/news/240306.html) - Mitsubishi Heavy Industries 
-![[240306-1.jpg 1.webp|300]]
-##### 2.[ D-SAIL (Deployable Deorbit Mechanism)](https://www.axelspace.com/news/dsail_raise4/) - Axelspace Corporation / Sakase Adtech
-![[Pasted image 20251124181215.png|300]]
-##### 3. [PBI-40 (Water-Based Propulsion)](https://pale-blue.co.jp/product/) - Pale Blue Inc.
-![[Pasted image 20251124181413.png|300]]
-##### 4. [HELIOS (High-Speed LEO-to-Ground Comms)](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=5863&context=smallsat) - JAXA / Research Institutes
-![[Pasted image 20251124181635.png|300]]
-
-##### 5. [MEMS FOG (Fiber Optic Gyroscope)](https://mems.tamagawa-seiki.com/en/product/multisensor.html) - Tamagawa Seiki Co., Ltd. / JAXA
-![[Pasted image 20251124181759.png|300]]
-##### 6. 3D-Printed Waveguide Antenna - Fukui University of Technology
-
-##### 7. HGV & PSDB (Hot Gas Valve & Power Distribution) - Meisei Electric
-
-##### 8. [On-Orbit Thermal Control Demonstration](https://www.kenkai.jaxa.jp/library/pamphlets/pdf/kakushin_presskit_3_e.pdf) - JAXA / Academic Partners
-
-
+##### LEOMI
+**Produced By:** [NTT Corporation](https://group.ntt/en/)
+**Description**: In-orbit demonstration of a 920MHz band satellite IoT platform utilizing satellite MIMO technology  
+![[Pasted image 20251125013212.png]]
+##### GEMINI
+**Produced By:** [Mitsubishi Electric Corporation](https://www.mitsubishielectric.com/en/products-solutions/)
+**Description**: In-orbit evaluation and model-based development of commercial GPUs  
+![[Pasted image 20251125013227.png]]
+##### KIR-X
+**Produced By:** [Pale Blue Co.](https://pale-blue.co.jp/)
+**Description**: In-orbit demonstration of a micro-integrated propulsion system using water as a propellant  
+![[Pasted image 20251125013244.png]]
+##### TDS-PPT
+**Produced By:** [Takahashi Electric Works Co](http://www.t-kc.co.jp/en/company)
+**Description**: In-orbit demonstration and performance evaluation of pulsed plasma thruster (PPT) for small satellites  
+![[Pasted image 20251125013301.png]]
+##### D-SAIL
+**Produced By:** [Axelspace Corporation](https://www.axelspace.com/)
+**Description**: In-orbit demonstration of membrane-deployable deorbit mechanism for microsatellites
+![[Pasted image 20251125013320.png]]
+##### HELIOS-R
+**Produced By:** [Sakase Adtec Co Ltd](https://www.sakase.co.jp/company_en/)
+**Description**: Demonstration of a lightweight membrane deployable structure with power generation and antenna functions toward Society 5.0  
+![[Pasted image 20251125013331.png]] 
+##### CF-CAM
+**Produced By:** [Mach Corporation](https://www.machcorporation.com/eng/index.html)
+**Description**: In-orbit demonstration of next-generation high-performance CMOS image sensor
+![[Pasted image 20251125013349.png]]
+##### AIRIS
+**Produced By:** [Mitsubishi Heavy Industries](https://www.mhi.com/)
+**Description**: On-orbit demonstration of onboard AI object detection and improved detection accuracy using next-generation space MPU
+![[Pasted image 20251125013402.png]]
 ## News
 
 %%DATAVIEW_PUBLISHER: start

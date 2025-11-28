@@ -26,19 +26,19 @@ The mission was Rocket Lab’s sixth launch of its HASTE rocket since the launch
 
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720330466364/)
 
-| **Mission Name** | Prometheus Run                                                       |
-| ---------------- | -------------------------------------------------------------------- |
-| **Launch Date**  | 2025-11-18 13:00 UTC                                                 |
-| **Outcome**      | ✅ Success                                                            |
-| **Customer**     | [[MDA]]                                                              |
-| **Location**     | [[Launch Complex 2#Launch Pad 0C]]                                   |
-| **Vehicle**      | [[HASTE]]                                                            |
-| **Orbit Type**   | n/a                                                                  |
-| **Target Orbit** | Suborbital                                                           |
-| **Payload Mass** | Unknown                                                              |
-| **Recovery**     | n/a                                                                  |
-| **Mission Link** | https://rocketlabcorp.com/missions/missions-launched/prometheus-run/ |
-| **Press Kit**    | 🚫 No Press Kit Issued for this mission                              |
+| **Mission Name** | Prometheus Run                                                                         |
+| ---------------- | -------------------------------------------------------------------------------------- |
+| **Launch Date**  | 2025-11-18 13:00 UTC                                                                   |
+| **Outcome**      | ✅ Success                                                                              |
+| **Customer**     | [[MDA]]                                                                                |
+| **Location**     | [[Launch Complex 2#Launch Pad 0C]]                                                     |
+| **Vehicle**      | [[HASTE]]                                                                              |
+| **Orbit Type**   | n/a                                                                                    |
+| **Target Orbit** | Suborbital                                                                             |
+| **Payload Mass** | Unknown                                                                                |
+| **Recovery**     | n/a                                                                                    |
+| **Mission Link** | [Prometheus Run](https://rocketlabcorp.com/missions/missions-launched/prometheus-run/) |
+| **Press Kit**    | 🚫 No Press Kit Issued for this mission                                                |
 
 
 ![[Pasted image 20251118173748.png|300]]

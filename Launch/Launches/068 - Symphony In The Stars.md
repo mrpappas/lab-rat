@@ -35,8 +35,9 @@ These dedicated Electron launches demonstrate both the strength of Rocket Lab’
 | **Customer**     | Confidential Customer (Likely [[EchoStar]])                                                          |
 | **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                    |
 | **Vehicle**      | [[Electron]]                                                                                         |
-| **Orbit Type**   | [[Orbits#SSO]]                                                                                    |
+| **Orbit Type**   | [[Orbits#SSO]]                                                                                       |
 | **Target Orbit** | 650km \| 96°                                                                                         |
+| Achieved Orbit   | 649 x 662 \| 95.98                                                                                   |
 | **Payload Mass** | 74 kg                                                                                                |
 | **Recovery**     | No Attempt Likely                                                                                    |
 | **Mission Link** | [Symphony In the Stars](https://rocketlabcorp.com/missions/missions-launched/symphony-in-the-stars/) |

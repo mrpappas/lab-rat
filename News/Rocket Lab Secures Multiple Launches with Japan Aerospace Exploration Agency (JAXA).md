@@ -4,6 +4,7 @@ source: "https://rocketlabcorp.com/updates/rocket-lab-secures-multiple-launches-
 author: "[[Rocket Lab]]"
 published: 2025-10-10
 customer: "[[JAXA]]"
+mission: "[[077 - Raise and Shine]]"
 tags:
  - electron
  - contract

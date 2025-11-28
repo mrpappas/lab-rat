@@ -33,8 +33,9 @@ The mission deployed [[iQPS#QPS-SAR|QPS-SAR-12]], nicknamed KUSHINADA-I for the 
 | **Contract**     | [[iQPS Four Launch Contract 2024]]                                                                                 |
 | **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                                  |
 | **Vehicle**      | [[Electron]]                                                                                                       |
-| **Orbit Type**   | [[Orbits#LEO]]                                                                                                  |
+| **Orbit Type**   | [[Orbits#LEO]]                                                                                                     |
 | **Target Orbit** | 575 km \| 42°                                                                                                      |
+| Achieved Orbit   | 572 x 581 \| 42.01°                                                                                                |
 | **Payload Mass** | 100 kg                                                                                                             |
 | **Recovery**     | No Attempt                                                                                                         |
 | **Mission Link** | [The Harvest Goddess Thrives](https://rocketlabcorp.com/missions/missions-launched/the-harvest-goddess-thrives-2/) |

@@ -26,8 +26,8 @@ SORT launch_date DESC
 
 | Launch                                                                                | Customer                                              | Date (UTC) | Vehicle                          | Orbit & Mass               | Outcome |
 | ------------------------------------------------------------------------------------- | ----------------------------------------------------- | ---------- | -------------------------------- | -------------------------- | ------- |
-| [[Launch/Launches/077 - Raise and Shine.md\|077 - Raise and Shine]]                   | [[Organization/Partners/JAXA.md\|JAXA]]               | 2025-12-05 | [[Launch/Electron.md\|Electron]] | 540 km \| 97.5° \| Unknown | ⌛       |
-| [[Launch/Launches/076 - Follow My Speed.md\|076 - Follow My Speed]]                   | [[Organization/Partners/BlackSky.md\|BlackSky]]       | 2025-11-20 | [[Launch/Electron.md\|Electron]] | 470 km \| 59° \| 138 kg    | ✅       |
+| [[Launch/Launches/077 - Raise and Shine.md\|077 - Raise and Shine]]                   | [[Organization/Partners/JAXA.md\|JAXA]]               | 2025-12-05 | [[Launch/Electron.md\|Electron]] | 540 km \| 97.5° \| ~110 kg | ⌛       |
+| [[Launch/Launches/076 - Follow My Speed.md\|076 - Follow My Speed]]                   | [[Organization/Partners/BlackSky.md\|BlackSky]]       | 2025-11-20 | [[Launch/Electron.md\|Electron]] | 470 km \| 42° \| 138 kg    | ✅       |
 | [[Launch/Launches/075 - Prometheus Run.md\|075 - Prometheus Run]]                     | [[Organization/Partners/MDA.md\|MDA]]                 | 2025-11-18 | [[Launch/HASTE.md\|HASTE]]       | Suborbital \| unknown      | ✅       |
 | [[Launch/Launches/074 - The Nation God Navigates.md\|074 - The Nation God Navigates]] | [[Organization/Partners/iQPS.md\|iQPS]]               | 2025-11-05 | [[Launch/Electron.md\|Electron]] | 575 km \| 42° \| 100 kg    | ✅       |
 | [[Launch/Launches/073 - Owl New World.md\|073 - Owl New World]]                       | [[Organization/Partners/Synspective.md\|Synspective]] | 2025-10-14 | [[Launch/Electron.md\|Electron]] | 583 km \| 42° \| 100 kg    | ✅       |

@@ -31,6 +31,7 @@ mission_link: https://rocketlabcorp.com/missions/missions-launched/the-nation-go
 | **Vehicle**      | [[Electron]]                                                                                               |
 | **Orbit Type**   | [[Orbits#LEO]]                                                                                             |
 | **Target Orbit** | 575 km \| 42°                                                                                              |
+| Achieved Orbit   | 568 x 582 km \| 42.00°                                                                                     |
 | **Payload Mass** | 100 kg                                                                                                     |
 | **Recovery**     | No Attempt Likely                                                                                          |
 | **Mission Link** | [The Nation God Navigates](https://rocketlabcorp.com/missions/missions-launched/the-nation-god-navigates/) |
@@ -66,6 +67,10 @@ sort published desc
 | [[News/Rocket Lab Schedules Next Electron Launch, Sixth Mission for Constellation Operator iQPS.md\|Rocket Lab Schedules Next Electron Launch, Sixth Mission for Constellation Operator iQPS]] | October 20, 2025  |
 
 %%DATAVIEW_PUBLISHER: end %%
+
+
+![](https://x.com/QPS_Inc/status/1986299104369189035)
+
 
 ![](https://x.com/QPS_Inc/status/1986206808579711320)
 
