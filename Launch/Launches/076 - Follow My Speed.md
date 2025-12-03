@@ -24,7 +24,7 @@ mission_link: https://rocketlabcorp.com/missions/missions-launched/follow-my-spe
 
 | **Mission Name** | Follow My Speed                                                                          |
 | ---------------- | ---------------------------------------------------------------------------------------- |
-| **Launch Date**  | 2025-11-20 13:43 UTC                                                                     |
+| **Launch Date**  | 2025-11-20 12:43 UTC                                                                     |
 | **Outcome**      | ✅ Success                                                                                |
 | **Customer**     | Confidential Customer (Likely [[BlackSky]])                                              |
 | **Location**     | [[Launch Complex 1#Launch Pad A]]                                                        |

@@ -9,13 +9,16 @@ contract: NASA SBIR Phase III
 
 **Customer:** [[NASA]], [[Advanced Space]]
 
+ℹ️ [NASA What is CAPSTONE?](https://www.nasa.gov/smallspacecraft/capstone/)
+📍 [CAPSTONE's current location](https://eyes.nasa.gov/apps/solar-system/#/sc_capstone)
+
+
 **CAPSTONE**’s primary objective is to test and verify the calculated orbital stability of a Near Rectilinear Halo Orbit around the Moon, the same orbit planned for [Gateway](https://www.nasa.gov/mission/gateway/). Rocket Lab was contracted to provide the [[Explorer#Lunar Photon|Lunar Photon]] spacecraft and launch services for the mission. 
 
 **NASA’s Gateway** is a small space station that will orbit around the Moon to provide astronauts with access to the lunar surface. It will feature living quarters for astronauts, a lab for science and research and ports for visiting spacecraft. CAPSTONE will also test a navigation system developed by Advanced Space that will measure its absolute position in cislunar space using interaction with NASA's Lunar Reconnaissance Orbiter without relying on ground stations for navigation support.
 
 CAPSTONE is one of the first steps to learn how to operate more robust missions in this unique orbit, thus laying the groundwork for future exploration of our solar system.
 
-🔗 [CAPSTONE Mission Update to Interplanetary Small Satellite Conference](http://www.intersmallsatconference.com/past/2024/A.2%20-%20Gardner/Gardner%20CAPSTONE_ISSC%202024%2004_30_24.pdf)
 ![[Pasted image 20241230003604.png]]
 
 ## Launch

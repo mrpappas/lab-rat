@@ -1,12 +1,12 @@
 ---
-title: "Rocket Lab Enters Payload Market with Agreement to Acquire Geost, Positioning Itself as Disruptive Prime to U.S. National Security"
-source: "https://rocketlabcorp.com/updates/rocket-lab-enters-payload-market-with-agreement-to-acquire-geost-adding-electro-optical-and-infrared-systems-to-its-end-to-end-space-solutions/"
+title: Rocket Lab Enters Payload Market with Agreement to Acquire Geost, Positioning Itself as Disruptive Prime to U.S. National Security
+source: https://rocketlabcorp.com/updates/rocket-lab-enters-payload-market-with-agreement-to-acquire-geost-adding-electro-optical-and-infrared-systems-to-its-end-to-end-space-solutions/
 author: "[[Rocket Lab]]"
 published: 2025-05-27
-partner: "[[Geost]]"
+partner: "[[GEOST]]"
 tags:
- - geost
- - acquisition
+  - geost
+  - acquisition
 ---
 
 *The strategic acquisition would create an entirely new category for Rocket Lab, positioning the Company as a disruptor for national security space.*

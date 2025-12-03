@@ -1,13 +1,13 @@
 ---
-title: "Rocket Lab Schedules First Dedicated Launch for Japan Aerospace Exploration Agency (JAXA)"
-source: "https://rocketlabcorp.com/updates/rocket-lab-schedules-first-dedicated-launch-for-japan-aerospace-exploration-agency-jaxa/"
+title: Rocket Lab Schedules First Dedicated Launch for Japan Aerospace Exploration Agency (JAXA)
+source: https://rocketlabcorp.com/updates/rocket-lab-schedules-first-dedicated-launch-for-japan-aerospace-exploration-agency-jaxa/
 author: "[[Rocket Lab]]"
 published: 2025-11-24
 customer: "[[JAXA]]"
-mission: "[[077 - Raise and Shine]]"
+mission: "[[077 - RAISE and Shine]]"
 tags:
-- launch
-- electron
+  - launch
+  - electron
 ---
 https://rocketlabcorp.com/updates/rocket-lab-schedules-first-dedicated-launch-for-japan-aerospace-exploration-agency-jaxa/
 

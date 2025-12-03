@@ -44,7 +44,6 @@ SORT launch_date DESC
 | [[Launch/Launches/059 - IOT 4 You and Me.md\|059 - IOT 4 You and Me]]                             | [[Organization/Partners/Kinéis.md\|Kinéis]]                       | 2025-02-04 | [[Launch/Electron.md\|Electron]] | 643 km \| 97° \| 150 kg     | ✅       |
 | [[Launch/Launches/058 - Owl The Way Up.md\|058 - Owl The Way Up]]                                 | [[Organization/Partners/Synspective.md\|Synspective]]             | 2024-12-21 | [[Launch/Electron.md\|Electron]] | 574 km \| 97° \| 100 kg     | ✅       |
 | [[Launch/Launches/057 - Stonehenge.md\|057 - Stonehenge]]                                         | Unknown*                                                          | 2024-12-13 | [[Launch/HASTE.md\|HASTE]]       | Suborbital \| unknown       | ✅       |
-| [[Launch/Launches/056 - Ice AIS Baby.md\|056 - Ice AIS Baby]]                                     | [[Organization/Partners/Kinéis.md\|Kinéis]]                       | 2024-11-25 | [[Launch/Electron.md\|Electron]] | 643 km \| 97° \| 150 kg     | ✅       |
 
 %% DATAVIEW_PUBLISHER: end %%
 

@@ -1,3 +1,8 @@
+---
+name: Agile Space Industries
+website: https://agilespaceindustries.com/ 
+---
+
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Agile Space Industries
 
 **Website**: https://agilespaceindustries.com/

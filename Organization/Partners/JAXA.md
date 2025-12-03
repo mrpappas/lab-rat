@@ -24,7 +24,7 @@ sort launch_date desc
 
 | File                                                                | Date             | Location                                              | Vehicle                          | Orbit & Mass               | Outcome |
 | ------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | -------------------------- | ------- |
-| [[Launch/Launches/077 - Raise and Shine.md\|077 - Raise and Shine]] | 2025-12-05 03:00 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 540 km \| 97.5° \| ~110 kg | ⌛       |
+| [[Launch/Launches/077 - RAISE and Shine.md\|077 - RAISE and Shine]] | 2025-12-05 03:00 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 540 km \| 97.5° \| ~110 kg | ⌛       |
 
 %%DATAVIEW_PUBLISHER: end %%
 
@@ -33,7 +33,7 @@ sort launch_date desc
 ### RAISE-4
 
 #### Summary
-RAISE-4 (RApid Innovative payload demonstration SatellitE-4) is a dedicated technology demonstration satellite developed by the Japan Aerospace Exploration Agency (JAXA). It is the primary payload for the Rocket Lab Electron mission, [[077 - Raise and Shine]], scheduled to launch from [[Launch Complex 1]] in Mahia, New Zealand.
+RAISE-4 (Rapid Innovative payload demonstration Satellite-4) is a dedicated technology demonstration satellite developed by the Japan Aerospace Exploration Agency (JAXA). It is the primary payload for the Rocket Lab Electron mission, [[077 - RAISE and Shine]], scheduled to launch from [[Launch Complex 1]] in Mahia, New Zealand.
 
 This mission is a critical part of JAXA's [Innovative Satellite Technology Demonstration Program](https://www.kenkai.jaxa.jp/eng/research/innovative/innovative.html), which provides on-orbit demonstration opportunities for private companies, universities, and research institutions to test new space components and subsystems. RAISE-4 carries eight distinct technology themes, six of which are re-flights of payloads originally onboard [RAISE-3](https://space.skyrocket.de/doc_sdat/raise-3.htm) (which was lost in an Epsilon launch failure in 2022). The mission marks the first of two dedicated [[Electron]] launches contracted directly by JAXA, with the second scheduled for Q1 2026.
 

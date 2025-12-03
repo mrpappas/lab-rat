@@ -1,13 +1,13 @@
 ---
-title: "Rocket Lab Secures Multiple Launches with Japan Aerospace Exploration Agency (JAXA)"
-source: "https://rocketlabcorp.com/updates/rocket-lab-secures-multiple-launches-with-japan-aerospace-exploration-agency-jaxa/"
+title: Rocket Lab Secures Multiple Launches with Japan Aerospace Exploration Agency (JAXA)
+source: https://rocketlabcorp.com/updates/rocket-lab-secures-multiple-launches-with-japan-aerospace-exploration-agency-jaxa/
 author: "[[Rocket Lab]]"
 published: 2025-10-10
 customer: "[[JAXA]]"
-mission: "[[077 - Raise and Shine]]"
+mission: "[[077 - RAISE and Shine]]"
 tags:
- - electron
- - contract
+  - electron
+  - contract
 ---
 
 **Long Beach, California. October 10, 2025** – Rocket Lab Corporation (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced it has signed a direct contract for two dedicated Electron launches with the Japan Aerospace Exploration Agency (JAXA) – signifying the criticality of Electron to international space agencies requiring responsive launch and dedicated access to space.

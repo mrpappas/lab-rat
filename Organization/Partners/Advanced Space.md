@@ -22,7 +22,7 @@ CAPSTONE (Cislunar Autonomous Positioning System Technology Operations and Navig
 
 #### Specifications
 
-🔗 [CAPSTONE Mission Update to Interplanetary Small Satellite Conference](http://www.intersmallsatconference.com/past/2024/A.2%20-%20Gardner/Gardner%20CAPSTONE_ISSC%202024%2004_30_24.pdf)
+🔗 [CAPSTONE Mission Update to Interplanetary Small Satellite Conference](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=6190&context=smallsat)
 
 | Specification             | Value                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

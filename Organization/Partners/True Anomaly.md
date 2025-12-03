@@ -1,3 +1,8 @@
+---
+name: True Anomaly
+website: https://www.trueanomaly.space/
+---
+
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> True Anomaly
 ## Partner Details
 

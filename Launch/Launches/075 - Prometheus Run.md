@@ -18,7 +18,7 @@ mission_link: https://rocketlabcorp.com/missions/missions-launched/prometheus-ru
 
 >[!success] Mission Success
 
-"Prometheus Run" was Rocket Lab's latest launch on [[HASTE]] - our commercial launch vehicle for regular and reliable hypersonic test flights - which took place from Rocket Lab Launch Complex 2 on Wallops Island, Virginia at TIME on DATE
+"Prometheus Run" was Rocket Lab's latest launch on [[HASTE]] - our commercial launch vehicle for regular and reliable hypersonic test flights - which took place from Rocket Lab Launch Complex 2 on Wallops Island, Virginia at 13:00 UTC on November 18th
 
 Led by Missile Defense Agency ([[MDA]]) through the Defense Innovation Unit's (DIU) [HyCAT program](https://www.diu.mil/latest/diu-awards-first-contracts-for-prototyping-low-cost-high-cadence-long), the mission deployed a government-provided primary payload developed by the John Hopkins University Applied Physics Laboratory, and multiple secondary payloads by federal and industry partners, which tested key technologies for missile defense applications.
 
