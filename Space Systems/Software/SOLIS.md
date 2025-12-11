@@ -1,14 +1,13 @@
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Hardware#🖥️ Software|Hardware]] <span style="color: LightSlateGray">></span> SOLIS
+## Summary
 
-**Subsidiary:** [[Advanced Solutions Inc]]
-
->[!summary]
 SOLIS is a commercial plug-in to the [ANSYS, Inc Systems ToolKit (STKTM)](https://www.ansys.com/products/missions/ansys-stk) mission analysis software, providing integrated end-to-end spacecraft simulation. Running [[MAX Flight Software]] and [[MAX Flight Software#ODySSy|ODySSy]], SOLIS provides simulation capabilities of all major spacecraft subsystems.
->
->🔗 https://www.rocketlabusa.com/space-systems/space-software/
->[📄 MAX and SOLIS Documentation](https://max.rocketlabusa.com/docs#Welcome.md)
+
+🔗 https://www.rocketlabusa.com/space-systems/space-software/
+[📄 MAX and SOLIS Documentation](https://max.rocketlabusa.com/docs#Welcome.md)
 
 ![[Pasted image 20250312190140.png]]
-## 🛠️ Features
+## Features
 
 ### Attitude Disturbance Modeling
 - Magnetic dipole, gravity gradient, solar and aerodynamic forces
@@ -43,7 +42,7 @@ SOLIS is a commercial plug-in to the [ANSYS, Inc Systems ToolKit (STKTM)](https:
 ### Flight Emulation
 - Mission sequence modeling, real-time commanding, telemetry
 
-## ✅ Applications
+## Applications
 
 - **System/Mission Requirements**
 	Requirements definition, feasibility studies, component selection

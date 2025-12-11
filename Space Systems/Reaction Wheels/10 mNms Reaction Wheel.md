@@ -2,10 +2,11 @@
 
 subsidiary: "[[Sinclair Interplanetary]]"
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Hardware#⚙️ Reaction Wheels|Hardware]] <span style="color: LightSlateGray">></span> 10 mNms
+## Summary 
 
->[!summary]
->This wheel is ideally suited for smaller cubesats. There are 10 units on-orbit on 4 spacecraft, with the first launch in June 2014
->
+This wheel is ideally suited for smaller cubesats. There are 10 units on-orbit on 4 spacecraft, with the first launch in June 2014
+
 🔗 Official Page: https://www.rocketlabusa.com/space-systems/satellite-components/reaction-wheels/
 📋 Data Sheet: [[RW-0.01-Datasheet-v3.0.pdf]]
 

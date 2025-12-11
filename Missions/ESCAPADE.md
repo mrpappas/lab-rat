@@ -28,7 +28,7 @@ EscaPADE is a twin-spacecraft [[⚖️ NASA Mission and Instrument Risk Classifi
 
 🚀 Launched on [New Glenn](https://www.blueorigin.com/new-glenn) Flight 2 NET November 13. 
 
-New Glenn deployed two spacecraft on a modified interplanetary trajectory due to launching later than originally planned. NASA paid Blue Origin ~$20 million for the launch. Delayed from 13 October 2024; it was originally intended to be launched on the debut flight of New Glenn.
+New Glenn deployed two spacecraft on a modified interplanetary trajectory due to launching later than originally planned. NASA [paid Blue Origin ~$18-20 million for the launch](https://www.reuters.com/science/blue-origin-launches-new-glenn-rocket-companys-first-nasa-scale-science-mission-2025-11-13/). Delayed from 13 October 2024; it was originally intended to be launched on the debut flight of New Glenn.
 
 ## Spacecraft & Payloads
 

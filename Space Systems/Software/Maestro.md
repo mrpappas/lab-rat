@@ -1,5 +1,7 @@
->[!summary]
->​Rocket Lab has introduced "Maestro," a digital engineering platform designed to enhance the management and simulation of spacecraft and satellite constellations. Leveraging [[MAX Flight Software]] and [[MAX Flight Software#ODySSy|ODySSy]] technologies, Maestro offers a comprehensive suite of tools for aerospace professionals.​
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Hardware#🖥️ Software|Hardware]] <span style="color: LightSlateGray">></span> Maestro
+## Summary
+
+​Rocket Lab has introduced "Maestro," a digital engineering platform designed to enhance the management and simulation of spacecraft and satellite constellations. Leveraging [[MAX Flight Software]] and [[MAX Flight Software#ODySSy|ODySSy]] technologies, Maestro offers a comprehensive suite of tools for aerospace professionals.​
 
 ## 🛠️ Features
 

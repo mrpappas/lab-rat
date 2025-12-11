@@ -2,14 +2,13 @@
 
 subsidiary: "[[Sinclair Interplanetary]]"
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Hardware#⚙️ Reaction Wheels|Hardware]] <span style="color: LightSlateGray">></span> 60 mNms
+## Summary
 
-**Subsidiary:** [[Sinclair Interplanetary]]
+This wheel packs high-torque motor phase current control electronics into a small package. There are 52 units on-orbit on 16 spacecraft, with the first launch in June 2014.
 
->[!summary]
->This wheel packs high-torque motor phase current control electronics into a small package. There are 52 units on-orbit on 16 spacecraft, with the first launch in June 2014.
->
-> 🔗 Official Page: https://www.rocketlabusa.com/space-systems/satellite-components/reaction-wheels/
-> 📋 Data Sheet: [[RW-0.06-Datasheet-v3.0.pdf]]
+🔗 Official Page: https://www.rocketlabusa.com/space-systems/satellite-components/reaction-wheels/
+📋 Data Sheet: [[RW-0.06-Datasheet-v3.0.pdf]]
 
 
 ![[Pasted image 20250108214210.png]]

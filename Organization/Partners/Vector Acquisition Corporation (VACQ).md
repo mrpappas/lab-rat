@@ -12,7 +12,7 @@ Vector Acquisition Corporation (Nasdaq: VACQ) is a blank check company led by ve
 ```
 table published as "Published"
 from "News"
-where contains(customer, [[Vector Acquisition Corporation (VACQ)]])
+where contains(customer, [[]])
 sort published desc
 ```
 %%

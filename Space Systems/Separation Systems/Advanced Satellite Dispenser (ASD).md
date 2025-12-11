@@ -2,12 +2,11 @@
 
 subsidiary: "[[Planetary Systems Corporation (PSC)]]"
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Hardware#📦 Separation Systems|Hardware]] <span style="color: LightSlateGray">></span> ASD
+## Summary
 
-**Subsidiary:** [[Planetary Systems Corporation (PSC)]]
+The ASD is a cost-effective, versatile, and reliable deployment mechanism for small satellites in the CubeSat form factor and builds upon Rocket Lab’s heritage Canisterized Satellite Dispenser (CSD) technology, which has successfully deployed more than 60 satellites to orbit across more than 11 years in use.
 
->[!summary]
->The ASD is a cost-effective, versatile, and reliable deployment mechanism for small satellites in the CubeSat form factor and builds upon Rocket Lab’s heritage Canisterized Satellite Dispenser (CSD) technology, which has successfully deployed more than 60 satellites to orbit across more than 11 years in use.
->
 🔗 Official Page: https://www.rocketlabusa.com/space-systems/separation-systems/satellite-dispensers/
 📋 Data Sheet: [[2004600-ASD-Data-Sheet2.pdf]]
 

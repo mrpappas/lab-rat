@@ -2,7 +2,7 @@
 
 date: 2018-11-15
 net_proceeds: $140,000,000
-valuation: $1,000,000,000+
+valuation: $1,400,000,000+
 lead_investor: "[[Future Fund]]"
 investors: 
  - "[[Future Fund]]"
@@ -17,7 +17,7 @@ investors:
 
 **Date:** 2018-11-15
 **Net Proceeds:** $140,000,000
-**Valuation:** $1,000,000,000+
+**Valuation:** $1,400,000,000+
 **Lead Investor:** [[Future Fund]]
 **Investors:** [[Future Fund]], [[Greenspring Associates]], [[Khosla Ventures]], [[Bessemer Venture Partners]], [[DCVC]], [[Promus Ventures]], [[K1W1 Investment Fund]], [[ACC]]
 

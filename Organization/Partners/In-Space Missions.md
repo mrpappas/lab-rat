@@ -4,13 +4,13 @@ name: In-Space Missions
 website: https://in-space.co.uk/
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> In-Space Missions
+## Partner Details
 
 **Website:** https://in-space.co.uk/
 
->[!summary]
 In-Space Missions is a UK-based company that designs, builds, and operates satellites, specializing in rideshare missions like the Faraday series, which host multiple payloads on a single platform. They offer rapid access to space for technology demonstration, Earth observation, and communication missions. Acquired by [BAE Systems](https://www.baesystems.com/en/home) in 2021, they support commercial, governmental, and research customers.
 
-## 🚀 Launches
+## Launches
 
 %%DATAVIEW_PUBLISHER: start
 ```

@@ -10,13 +10,15 @@ website: https://synspective.com/
 
 Synspective is a Japanese startup that develops and operates [[📦 Payload Types#Synthetic Aperture Radar (SAR)|Synthetic Aperture Radar (SAR)]] satellites to provide high-frequency, high-resolution Earth observation data. The company’s mission is to enable smarter decision-making through precise geospatial insights, focusing on areas such as urban development, disaster response, infrastructure monitoring, and resource management. By leveraging its constellation of SAR satellites, Synspective delivers consistent, cloud-penetrating imagery, ensuring reliable data regardless of weather or lighting conditions. Its solutions support governments and businesses in addressing global challenges through advanced analytics and actionable intelligence.
 
+![[Pasted image 20251211020132.jpg|300]]
+
 ## Launches
 
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date as "Date", location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
-where contains(customer, [[Synspective]])
+where contains(customer, [[]])
 sort launch_date desc
 ```
 %%
@@ -65,7 +67,7 @@ Synspective's StriX satellites are a series of small, innovative, and cost-effec
 ```
 table published as "Published"
 from "News"
-where contains(customer, [[Synspective]])
+where contains(customer, [[]])
 sort published desc
 ```
 %%

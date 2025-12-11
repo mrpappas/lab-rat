@@ -2,10 +2,10 @@
 
 subsidiary: "[[Sinclair Interplanetary]]"
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Hardware#⚙️ Reaction Wheels|Hardware]] <span style="color: LightSlateGray">></span> 30 mNms
+## Summary
+[[Sinclair Interplanetary]]’s first wheel design, and still the most popular. First launched in April 2008, there are now more than 50 units on-orbit. Many of these are onboard the University of Toronto SpaceFlight Lab's GNB series of spacecraft. They fit comfortably into a 6U to 12U cubesat.
 
->[!summary]
->[[Sinclair Interplanetary]]’s first wheel design, and still the most popular. First launched in April 2008, there are now more than 50 units on-orbit. Many of these are onboard the University of Toronto SpaceFlight Lab's GNB series of spacecraft. They fit comfortably into a 6U to 12U cubesat.
->
 🔗 Official Page: https://www.rocketlabusa.com/space-systems/satellite-components/reaction-wheels/
 📋 Data Sheet: [[RW-0.03-Datasheet-v3.0.pdf]]
 

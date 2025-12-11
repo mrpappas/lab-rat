@@ -1,5 +1,4 @@
 ---
-
 name: Unseenlabs
 website: https://unseenlabs.space/
 ---
@@ -8,18 +7,18 @@ website: https://unseenlabs.space/
 
 **Website:** https://unseenlabs.space/
 
-
 **Unseenlabs** is a French company specializing in **space-based radio frequency (RF) detection and geolocation**. Leveraging its constellation of **nanosatellites** in low Earth orbit (LEO), Unseenlabs provides **maritime surveillance** services by detecting and geolocating RF signals emitted by ships, even those operating with their **Automatic Identification System (AIS) turned off**. 
 
 The company's technology is particularly valuable for **tracking illegal activities**, such as smuggling, piracy, and unregulated fishing, offering critical insights for governments, defense organizations, and maritime operators. Unseenlabs' services support **global maritime security** with high-precision, real-time data, reinforcing transparency and safety across the world’s oceans.
 
+![[Pasted image 20251211014239.jpg]]
 ##  Launches
 
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date as "Date", location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
-where contains(customer, [[Unseenlabs]])
+where contains(customer, [[]])
 sort launch_date desc
 ```
 %%
@@ -37,7 +36,7 @@ sort launch_date desc
 ```
 table published as "Published"
 from "News"
-where contains(customer, [[Unseenlabs]])
+where contains(customer, [[]])
 sort published desc
 ```
 %%

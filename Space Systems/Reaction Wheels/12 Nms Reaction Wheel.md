@@ -2,10 +2,11 @@
 
 subsidiary: "[[Sinclair Interplanetary]]"
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Hardware#⚙️ Reaction Wheels|Hardware]] <span style="color: LightSlateGray">></span> 12 Nms
+## Summary
 
->[!summary]
 Rocket Lab's largest wheel in production designed for long-life and reliability. The 12Nms is ideal for high volume constellation missions and spacecraft with masses as high as 600-650 kg.
->
+
 🔗Official Page: https://www.rocketlabusa.com/space-systems/satellite-components/reaction-wheels/
 📋Data Sheet: [[RW4-12-Datasheet-v3.0.pdf]]
 

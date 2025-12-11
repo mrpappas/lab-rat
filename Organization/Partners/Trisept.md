@@ -1,5 +1,4 @@
 ---
-
 name: Trisept
 website: https://trisept.com/
 ---
@@ -10,13 +9,14 @@ website: https://trisept.com/
 
 TriSept provides launch integration, mission management, and engineering services for satellite missions of all sizes. With expertise spanning rideshare coordination, dedicated launches, and complex multi-payload deployments, TriSept ensures reliable and efficient access to space for commercial, government, and defense customers. Their proven track record, combined with mission assurance and innovative solutions, enables seamless integration from concept to orbit.
 
+![[Pasted image 20251211015429.png]]
 ## Launches
 
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date as "Date", location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
-where contains(customer, [[Trisept]])
+where contains(customer, [[]])
 sort launch_date desc
 ```
 %%
@@ -33,7 +33,7 @@ sort launch_date desc
 ```
 table published as "Published"
 from "News"
-where contains(customer, [[Trisept]])
+where contains(customer, [[]])
 sort published desc
 ```
 %%

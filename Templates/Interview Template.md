@@ -4,12 +4,12 @@ source:
 link:
 date: 
 ---
+🏠 > [[Interviews]] > 
 
 **Insider**: 
 **Source**: 
 **Date**: 
 
-<div class="responsive-video">
-</div>
 
-## 🎙️ Transcript
+
+## Transcript

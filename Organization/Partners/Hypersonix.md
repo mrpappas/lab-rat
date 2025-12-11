@@ -1,21 +1,22 @@
 ---
-
 name: Hypersonix
 website: https://www.hypersonix.com/
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Hypersonix
+## Partner Details
 
 **Website:** https://www.hypersonix.com/
 
->[!summary]
->Hypersonix Engineering is an Australian aerospace company specializing in hypersonic technology. It develops reusable scramjet engines and high-speed flight systems for commercial and defense applications. Its flagship technology, the Spartan scramjet engine, is hydrogen-powered and designed for sustained hypersonic flight (Mach 5+). The company focuses on satellite launch systems, hypersonic drones, and reusable space access solutions.
+Hypersonix Engineering is an Australian aerospace company specializing in hypersonic technology. It develops reusable scramjet engines and high-speed flight systems for commercial and defense applications. Its flagship technology, the Spartan scramjet engine, is hydrogen-powered and designed for sustained hypersonic flight (Mach 5+). The company focuses on satellite launch systems, hypersonic drones, and reusable space access solutions.
+
+![[Pasted image 20251211023330.png]]
 
 >[!info] Upcoming Mission
->Hypersonix has a launch services contract with Rocket Lab through the Department of Defense's Innovation Unit for a [[HASTE]] mission out of [[Launch Complex 2]].  The launch was originally expected to be in Q1 2025 but has likely been pushed to later in the year per a company [Linkedin Post](https://www.linkedin.com/posts/hypersonixau_dart-hypersonics-scramjets-activity-7299589828147298304-shQN/):
+>Hypersonix has a launch services contract with Rocket Lab through the Department of Defense's Innovation Unit for a [[HASTE]] mission out of [[Launch Complex 2]].  The launch was originally expected to be in Q1 2025 but has been pushed to later in the year (and possibly 2026) per a company [Linkedin Post](https://www.linkedin.com/posts/hypersonixau_dart-hypersonics-scramjets-activity-7299589828147298304-shQN/):
 >>[!quote] we are excited to be supplying our hashtag#DART hypersonic aircraft to US Defense **later this year** to support America’s hypersonic flight test effort
 >
 
-## 🛰️ Space Systems
+## Space Systems
 
 ### DART AE
 
@@ -50,12 +51,12 @@ In addition to emitting zero carbon dioxide, clean-burning hydrogen fuel enables
 
 ![[Pasted image 20250320183810.png]]
 
-## 📰 News
+## News
 %%DATAVIEW_PUBLISHER: start
 ```
 table published as "Published"
 from "News"
-where contains(customer, [[Hypersonix]])
+where contains(customer, [[]])
 sort published desc
 ```
 %%

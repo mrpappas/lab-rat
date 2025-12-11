@@ -49,6 +49,12 @@ The secondary payload was NASA's ACS3, a technology demonstration of new materia
 ![[Pasted image 20250406142222.png|300]]
 
 
+## Payload
+
+x1 [[KAIST#NEONSAT]]
+
+![[KAIST#NEONSAT]]
+
 ## Launch Video
 
 <div class="responsive-video">

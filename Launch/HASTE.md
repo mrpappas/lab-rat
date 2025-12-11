@@ -38,14 +38,14 @@ sort launch_date desc
 ```
 %%
 
-| File                                                                  | launch_date          | outcome |
-| --------------------------------------------------------------------- | -------------------- | ------- |
-| [[Launch/Launches/075 - Prometheus Run.md\|075 - Prometheus Run]]     | 2025-11-18 13:00 UTC | ✅       |
-| [[Launch/Launches/072 - JUSTIN.md\|072 - JUSTIN]]                     | 2025-09-30 20:28     | ✅       |
-| [[Launch/Launches/071 - JENNA.md\|071 - JENNA]]                       | 2025-09-22 07:45     | ✅       |
-| [[Launch/Launches/057 - Stonehenge.md\|057 - Stonehenge]]             | 2024-12-13 00:00     | ✅       |
-| [[Launch/Launches/055 - HASTE A La Vista.md\|055 - HASTE A La Vista]] | 2024-11-24 06:00     | ✅       |
-| [[Launch/Launches/038 - Scout's Arrow.md\|038 - Scout's Arrow]]       | 2023-06-18 01:24     | ✅       |
+| File                                                                  | launch_date      | outcome |
+| --------------------------------------------------------------------- | ---------------- | ------- |
+| [[Launch/Launches/075 - Prometheus Run.md\|075 - Prometheus Run]]     | 2025-11-18 13:00 | ✅       |
+| [[Launch/Launches/072 - JUSTIN.md\|072 - JUSTIN]]                     | 2025-09-30 20:28 | ✅       |
+| [[Launch/Launches/071 - JENNA.md\|071 - JENNA]]                       | 2025-09-22 07:45 | ✅       |
+| [[Launch/Launches/057 - Stonehenge.md\|057 - Stonehenge]]             | 2024-12-13 00:00 | ✅       |
+| [[Launch/Launches/055 - HASTE A La Vista.md\|055 - HASTE A La Vista]] | 2024-11-24 06:00 | ✅       |
+| [[Launch/Launches/038 - Scout's Arrow.md\|038 - Scout's Arrow]]       | 2023-06-18 01:24 | ✅       |
 
 %%DATAVIEW_PUBLISHER: end%%
 

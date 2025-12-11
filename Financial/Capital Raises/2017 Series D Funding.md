@@ -2,7 +2,7 @@
 
 date: 2017-03-22
 net_proceeds: $75,000,000
-valuation: $1,000,000,000
+valuation: $1,100,000,000
 lead_investor: "[[DCVC]]"
 investors: 
  - "[[Promus Ventures]]"
@@ -14,7 +14,7 @@ investors:
 
 **Date:** 2017-03-22
 **Net Proceeds:** $75,000,000
-**Valuation:** $1,000,000,000
+**Valuation:** $1,100,000,000
 **Lead Investor:** [[DCVC]]
 **Investors:** [[Promus Ventures]], [[Khosla Ventures]], [[Bessemer Venture Partners]], [[K1W1 Investment Fund]], Undisclosed Investor
 

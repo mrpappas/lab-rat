@@ -1,12 +1,10 @@
 ---
-
 subsidiary: "[[Sinclair Interplanetary]]"
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Hardware#🔭 Star Trackers|Hardware]] <span style="color: LightSlateGray">></span> ST-16HV
+## Summary
 
-**Subsidiary:** [[Sinclair Interplanetary]]
-
->[!summary]
->The ST-16HV is an attitude determination sensor based on the heritage, high-performance ST-16RT2 star tracker.
+The ST-16HV is an attitude determination sensor based on the heritage, high-performance ST-16RT2 star tracker.
 
 https://www.rocketlabusa.com/space-systems/satellite-components/star-trackers/
 

@@ -1,22 +1,23 @@
 ---
-
 name: HawkEye 360
 website: https://www.he360.com/
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> HawkEye 360
+## Partner Details
 
 **Website:** https://www.he360.com/
 
->[!summary]
 HawkEye 360 is a geospatial analytics company that operates a constellation of satellites to detect, characterize, and geolocate radio frequency (RF) signals. Their services provide insights for applications such as maritime domain awareness, spectrum monitoring, and national security. By analyzing RF data, HawkEye 360 helps identify illegal activities like maritime piracy, smuggling, and unlicensed spectrum usage.
 
-## 🚀 Launches
+![[hawkeye360.webp|300]]
+
+## Launches
 
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date as "Date", location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
-where contains(customer, [[HawkEye 360]])
+where contains(customer, [[]])
 sort launch_date desc
 ```
 %%
@@ -53,7 +54,7 @@ Source: https://www.eoportal.org/satellite-missions/hawkeye-360#eop-quick-facts-
 ```
 table published as "Published"
 from "News"
-where contains(customer, [[HawkEye 360]])
+where contains(customer, [[]])
 sort published desc
 ```
 %%

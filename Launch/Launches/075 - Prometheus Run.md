@@ -1,17 +1,17 @@
 ---
 tags:
- - launch
- - HASTE
-mission_name: "Prometheus Run" 
-launch_date: 2025-11-18 13:00 UTC
-outcome: "✅"
-customer: "[[MDA]]"
+  - launch
+  - HASTE
+mission_name: Prometheus Run
+launch_date: 2025-11-18 13:00
+outcome: ✅
+customer: "[[Missile Defense Agency]]"
 location: "[[Launch Complex 2#Launch Pad 0C|LC2-0]]"
 vehicle: "[[HASTE]]"
-orbit_type: "n/a"
-target_orbit: "Suborbital"
-payload_mass: "unknown"
-recovery: "n/a"
+orbit_type: n/a
+target_orbit: Suborbital
+payload_mass: unknown
+recovery: n/a
 mission_link: https://rocketlabcorp.com/missions/missions-launched/prometheus-run/
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span> <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span> 075 - Prometheus Run
@@ -30,7 +30,7 @@ The mission was Rocket Lab’s sixth launch of its HASTE rocket since the launch
 | ---------------- | -------------------------------------------------------------------------------------- |
 | **Launch Date**  | 2025-11-18 13:00 UTC                                                                   |
 | **Outcome**      | ✅ Success                                                                              |
-| **Customer**     | [[MDA]]                                                                                |
+| **Customer**     | [[Missile Defense Agency]]                                                             |
 | **Location**     | [[Launch Complex 2#Launch Pad 0C]]                                                     |
 | **Vehicle**      | [[HASTE]]                                                                              |
 | **Orbit Type**   | n/a                                                                                    |

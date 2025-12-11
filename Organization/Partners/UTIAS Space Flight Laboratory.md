@@ -10,14 +10,14 @@ website: https://www.utias-sfl.net/
 
 UTIAS Flight Lab, part of the University of Toronto Institute for Aerospace Studies, is a leading developer of small satellite missions and advanced space systems. Specializing in microsatellites, nanosatellites, and CubeSats, SFL provides end-to-end mission solutions, including satellite design, manufacturing, integration, and operations. Known for its innovation in low-cost, high-performance satellites, SFL supports a wide range of applications, such as Earth observation, remote sensing, communications, and scientific research. With a proven track record of launching successful missions globally, SFL is a key player in enabling access to space for commercial, academic, and government clients.
 
-
+![[Space-Flight-Laboratory.webp|300]]
 ## Launches
 
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date as "Date", location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
-where contains(customer, [[UTIAS Space Flight Laboratory]])
+where contains(customer, [[]])
 sort launch_date desc
 ```
 %%
@@ -93,7 +93,7 @@ Standardized 6U CubeSat platform.
 ```
 table published as "Published"
 from "News"
-where contains(customer, [[UTIAS Space Flight Laboratory]])
+where contains(customer, [[]])
 sort published desc
 ```
 %%

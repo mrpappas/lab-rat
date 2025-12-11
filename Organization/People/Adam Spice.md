@@ -69,6 +69,7 @@ sort date desc
 
 | File                                                                                                                                                             | Date               | Source                                                                 |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ---------------------------------------------------------------------- |
+| [[Interviews/Sharesies - Can Neutron Deliver the Payload to Investors.md\|Sharesies - Can Neutron Deliver the Payload to Investors]]                             | September 17, 2025 | Sharesies                                                              |
 | [[Interviews/Scott O Q1 2025 Interview.md\|Scott O Q1 2025 Interview]]                                                                                           | May 14, 2025       | Scott O Youtube                                                        |
 | [[Interviews/KeyBanc Emerging Technology Summit 2025.md\|KeyBanc Emerging Technology Summit 2025]]                                                               | February 27, 2025  | KeyBanc Emerging Technology Summit                                     |
 | [[Interviews/Citi 2025 Global Industrial Tech and Mobility Conference.md\|Citi 2025 Global Industrial Tech and Mobility Conference]]                             | February 17, 2025  | Citi 2025 Global Industrial Tech and Mobility Conference               |

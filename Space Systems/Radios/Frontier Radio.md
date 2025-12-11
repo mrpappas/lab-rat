@@ -1,6 +1,8 @@
->[!summary]
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Hardware#📻 Radios|Hardware]] <span style="color: LightSlateGray">></span> Frontier Radio
+## Summary 
+
 The Frontier radio series by Rocket Lab is a high-speed telemetry, tracking, and control (TT&C)  [software-defined radio](https://en.wikipedia.org/wiki/Software-defined_radio) series. They are available in L-, S-, C-, X-, and Ka-band models (previously only offering S- and X- band). Frontier radios are based on the [Johns Hopkins University Applied Physics Lab (APL) Frontier radio](https://en.wikipedia.org/wiki/Frontier_Radio). A highly capable radio providing Deep Space Network (DSN) and other typical waveforms (TDRSS, NEN, AFSCN, commercial) into a small compact package efficiently and reliably.
->
+
 📊 Data Sheet: [[RL-Radios-Datasheet-Full-Suite-v4.pdf]]
 
 ## Features

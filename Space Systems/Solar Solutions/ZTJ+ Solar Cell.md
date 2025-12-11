@@ -1,14 +1,12 @@
 ---
-
 subsidiary: "[[SolAero Technologies]]"
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Hardware#🌞 Solar Solutions|Hardware]] <span style="color: LightSlateGray">></span> Z4J+ Solar Cell
+## Summary
 
-**Subsidiary:** [[SolAero Technologies]]
-
->[!summary] Features
-> - Triple junction solar cells
-> - Comparable BOL Efficiency to ZTJ
-> - Optimized for High-Radiation Space Environments
+ - Triple junction solar cells
+ - Comparable BOL Efficiency to ZTJ
+ - Optimized for High-Radiation Space Environments
 
 https://www.rocketlabusa.com/space-systems/solar/space-solar-cellscics/
 

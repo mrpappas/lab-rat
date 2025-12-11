@@ -2,10 +2,11 @@
 
 subsidiary: "[[Sinclair Interplanetary]]"
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Hardware#⚙️ Reaction Wheels|Hardware]] <span style="color: LightSlateGray">></span> 400 - 200 nMms
+## Summary
 
->[!summary]
 This wheel is optimized for torque and for radiation hardness. It can give performance equivalent to a 0.4 Nms CMG with 22.5 deg/sec gimbal rate at much reduced mass and complexity. Designed for high-agility remote sensing or science microsatellites.
->
+
 🔗 Official Page: https://www.rocketlabusa.com/space-systems/satellite-components/reaction-wheels/
 📋 Data Sheet: [[RW4-0.4-Datasheet-v3.0.pdf]]
 

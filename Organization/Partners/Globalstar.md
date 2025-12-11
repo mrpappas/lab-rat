@@ -1,13 +1,11 @@
 ---
-
 name: Globalstar
 website: https://www.globalstar.com/en-us
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Globalstar
+## Partner Details
 
 **Website:** https://www.globalstar.com/en-us
-
-## Summary 
 
 Globalstar operates a **Low Earth Orbit (LEO)** satellite constellation delivering **mobile satellite voice and data services**. The company supports **IoT connectivity, personal communication, asset tracking, and emergency response** for industries such as agriculture, energy, transportation, and government. Globalstar's network provides coverage in remote and underserved areas globally, enabling reliable two-way communication and real-time data transmission.
 
@@ -35,12 +33,12 @@ The Globalstar global mobile communications network offers global, digital real 
 | Comms         | [[Frontier Radio#Frontier-C]]            |
 | Data Transfer | Up to 9600 bps                           |
 | Propulsion    | [[Curie]]                                |
-## 📰 News
+## News
 %%DATAVIEW_PUBLISHER: start
 ```
 table published as "Published"
 from "News"
-where contains(customer, [[Globalstar]])
+where contains(customer, [[]])
 sort published desc
 ```
 %%

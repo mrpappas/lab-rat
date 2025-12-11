@@ -1,5 +1,4 @@
 ---
-
 name: U.S. Space Force
 website: https://www.spaceforce.mil/
 ---
@@ -10,20 +9,22 @@ website: https://www.spaceforce.mil/
 
 The U.S. Space Force (USSF), established on December 20, 2019, is the sixth branch of the United States Armed Forces and is dedicated to organizing, training, and equipping military personnel for operations in space. As the first new military branch since 1947, the Space Force focuses on ensuring U.S. superiority in the increasingly contested and congested space domain. Its primary responsibilities include maintaining and protecting critical space-based assets, such as GPS, missile warning, and secure communication satellites, as well as developing capabilities to deter and counter threats from adversaries' space activities. The USSF oversees space situational awareness, orbital debris management, and the advancement of space technologies, working closely with the Department of Defense, NASA, and private industry. With its headquarters at the Pentagon and major operations through Space Operations Command, the Space Force plays a crucial role in supporting national security and enabling global military operations.
 
+![[Pasted image 20251211014611.jpg]]
 ## Launches
 
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date as "Date", location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
-where contains(customer, [[U.S. Space Force]])
+where contains(customer, [[]])
 sort launch_date desc
 ```
 %%
 
-| File                                                                                        | Date             | Location                                              | Vehicle                          | Orbit & Mass             | Outcome |
-| ------------------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | ------------------------ | ------- |
-| [[Launch/Launches/021 - It's A Little Chile Up Here.md\|021 - It's A Little Chile Up Here]] | 2021-07-29 06:00 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 600 km \| 37° \| Unknown | ✅       |
+| File                                                                                        | Date             | Location                                               | Vehicle                          | Orbit & Mass             | Outcome |
+| ------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------------ | -------------------------------- | ------------------------ | ------- |
+| [[Launch/Launches/079 - AVALANCHE (STP-S30).md\|079 - AVALANCHE (STP-S30)]]                 | 2025-12-18 10:00 | [[Locations/Launch Complex 2.md#Launch Pad 0C\|LC2-0]] | [[Launch/Electron.md\|Electron]] | Unknown \| Unknown       | ⌛       |
+| [[Launch/Launches/021 - It's A Little Chile Up Here.md\|021 - It's A Little Chile Up Here]] | 2021-07-29 06:00 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]]  | [[Launch/Electron.md\|Electron]] | 600 km \| 37° \| Unknown | ✅       |
 
 %%DATAVIEW_PUBLISHER: end %%
 
@@ -32,7 +33,7 @@ sort launch_date desc
 ```
 table published as "Published"
 from "News"
-where contains(customer, [[U.S. Space Force]])
+where contains(customer, [[]])
 sort published desc
 ```
 %%

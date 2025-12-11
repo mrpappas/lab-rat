@@ -1,5 +1,4 @@
 ---
-
 name: OHB Group
 website: https://www.ohb.de/en/
 ---
@@ -10,13 +9,15 @@ website: https://www.ohb.de/en/
 
 OHB Group is a leading European space and technology company specializing in the development and execution of innovative space systems and applications. Headquartered in Bremen, Germany, OHB operates across the full spectrum of the space value chain, including satellite manufacturing, space transportation, Earth observation, and exploration missions. The company’s capabilities range from building small and medium-sized satellites for telecommunications, Earth observation, and scientific research to contributing to major space infrastructure projects such as Galileo, Copernicus, and ISS-related systems. With a strong emphasis on innovation, reliability, and partnerships, OHB Group supports government agencies, commercial customers, and international space organizations in achieving their goals in space.
 
+![[Pasted image 20251211021023.png]]
+
 ## Launches
 
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date as "Date", location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
-where contains(customer, [[OHB Group]])
+where contains(customer, [[]])
 sort launch_date desc
 ```
 %%
@@ -32,7 +33,7 @@ sort launch_date desc
 ```
 table published as "Published"
 from "News"
-where contains(customer, [[OHB Group]])
+where contains(customer, [[]])
 sort published desc
 ```
 %%

@@ -9,13 +9,15 @@ website: https://www.ssl.berkeley.edu/
 
 The Space Sciences Laboratory (SSL) at UC Berkeley is a multidisciplinary research center focused on space exploration, astrophysics, planetary science, and space technology development. Established in 1959, SSL has been at the forefront of space research and collaborates with NASA, the Department of Energy, and international space agencies.
 
+![[Pasted image 20251211014302.png]]
+
 ## News
 
 %% DATAVIEW_PUBLISHER: start
 ```
 table published as "Published"
 from "News"
-where contains(customer, [[University of California Berkeley Space Sciences Laboratory]])
+where contains(customer, [[]])
 sort published desc
 
 ```

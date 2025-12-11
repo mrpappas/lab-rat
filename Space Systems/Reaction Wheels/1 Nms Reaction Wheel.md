@@ -2,10 +2,11 @@
 
 subsidiary: "[[Sinclair Interplanetary]]"
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Hardware#⚙️ Reaction Wheels|Hardware]] <span style="color: LightSlateGray">></span> 1 Nms
+## Summary
 
->[!summary]
 Rocket Lab's largest wheel, suitable for 100 kg Earth-observation missions. There are currently 52 units on-orbit on 13 spacecraft, with the first launch in June 2016.
->
+
 🔗 Official Page: https://www.rocketlabusa.com/space-systems/satellite-components/reaction-wheels/
 📋 Data Sheet: [[RW4-1.0-Datasheet-v3.1.pdf]]
 

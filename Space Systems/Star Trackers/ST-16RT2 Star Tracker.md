@@ -2,11 +2,10 @@
 
 subsidiary: "[[Sinclair Interplanetary]]"
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Hardware#🔭 Star Trackers|Hardware]] <span style="color: LightSlateGray">></span> ST-16RT2
+## Summary
 
-**Subsidiary:** [[Sinclair Interplanetary]]
-
->[!summary]
->High-performance star tracker for small spacecraft. Extensively flown and tested, we have more than 90 on orbit right now.
+High-performance star tracker for small spacecraft. Extensively flown and tested, we have more than 90 on orbit right now.
 
 https://www.rocketlabusa.com/space-systems/satellite-components/star-trackers/
 

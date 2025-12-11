@@ -11,6 +11,7 @@ Mynaric AG is a German company that develops and manufactures free-space optical
 
 Mynaric's products are primarily targeted at government and commercial customers deploying large-scale communication networks in space and the stratosphere. Their optical terminals are designed for high-rate inter-satellite links (ISLs) and air-to-ground connectivity, supporting applications such as proliferated low Earth orbit (LEO) constellations, defense-related tactical data networks, and high-altitude platform station (HAPS) connectivity.
 
+![[Pasted image 20251211021436.png|300]]
 ## Missions
 
 ### [[SDA Tranche 2 - Transport Layer]]
@@ -72,7 +73,7 @@ CONDOR Mk3 is an [Optical Communications](https://www.nasa.gov/technology/space-
 ```
 table published as "Published"
 from "News"
-where contains(partner, [[Mynaric]])
+where contains(partner, [[]])
 sort published desc
 ```
 %%

@@ -16,7 +16,7 @@ The University of Auckland's space systems program focuses on research, developm
 ```
 table launch_date as "Date", location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
-where contains(customer, [[The University of Auckland]])
+where contains(customer, [[]])
 sort launch_date desc
 ```
 %%
@@ -32,7 +32,7 @@ sort launch_date desc
 ```
 table published as "Published"
 from "News"
-where contains(customer, [[The University of Auckland]])
+where contains(customer, [[]])
 sort published desc
 ```
 %%

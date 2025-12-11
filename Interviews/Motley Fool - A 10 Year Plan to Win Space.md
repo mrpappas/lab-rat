@@ -12,6 +12,9 @@ date: 2025-12-02
 
 ![](https://www.youtube.com/watch?v=wiaCG19OhWU)
 
+
+🔗Backup Link: https://www.youtube.com/watch?v=wiaCG19OhWU
+
 ## Transcript
 
 ### Introduction and Investment Philosophy (0:00)

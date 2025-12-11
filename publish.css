@@ -154,3 +154,77 @@ body:has(span.no-hover:hover) .mod-popover {
   padding-left: 12px;
   margin-left: 0;
 }
+
+
+/* --- Rocket Lab Navigation Grid (Callout Hack) --- */
+
+/* 1. Target the specific "NAV" callout */
+.callout[data-callout="nav"] {
+    background-color: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+/* 2. Hide the Callout Title/Icon completely */
+.callout[data-callout="nav"] .callout-title {
+    display: none !important;
+}
+
+/* 3. Style the list inside the callout as a Grid */
+.callout[data-callout="nav"] .callout-content ul {
+    display: grid !important;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)) !important;
+    gap: 15px !important;
+    padding: 0 !important;
+    margin: 10px 0 !important;
+    list-style: none !important;
+}
+
+/* 4. Style the List Items (The Cards) */
+.callout[data-callout="nav"] .callout-content li {
+    background-color: #262626 !important;
+    border: 1px solid #444 !important;
+    border-radius: 8px !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+    transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s;
+    
+    /* Flexbox to center the link */
+    display: flex !important;
+    align-items: stretch; /* Makes link fill height */
+    justify-content: center;
+}
+
+/* 5. Hover Effects */
+.callout[data-callout="nav"] .callout-content li:hover {
+    transform: translateY(-3px);
+    background-color: #333 !important;
+    border-color: #c0c0c0 !important;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.5);
+}
+
+/* 6. The Link Styling (The Clickable Area) */
+.callout[data-callout="nav"] .callout-content li a.internal-link,
+.callout[data-callout="nav"] .callout-content li a {
+    display: flex !important;
+    width: 100%;
+    padding: 20px 5px; /* Big click target */
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #e0e0e0 !important;
+    text-decoration: none !important;
+    font-weight: 600;
+    font-size: 1em;
+    border: none !important;
+}
+
+/* Mobile Fix */
+@media (max-width: 600px) {
+    .callout[data-callout="nav"] .callout-content ul {
+        grid-template-columns: repeat(2, 1fr) !important;
+    }
+}

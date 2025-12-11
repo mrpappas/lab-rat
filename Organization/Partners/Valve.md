@@ -10,6 +10,7 @@ website: https://www.valvesoftware.com/en/
 
 Valve Corporation is a leading video game developer and digital distribution platform operator known for revolutionizing the gaming industry. As the creators of iconic titles like Half-Life, Portal, and Dota 2, Valve delivers immersive, high-quality gaming experiences. Beyond game development, Valve operates Steam, the world’s largest PC gaming platform, offering a vast library of games, community features, and digital storefront capabilities. Valve is also a pioneer in hardware and VR technology, developing products like the Steam Deck and the cutting-edge Valve Index VR system.
 
+![[Pasted image 20251211013925.png|300]]
 
 ## 🚀 Launches
 
@@ -17,7 +18,7 @@ Valve Corporation is a leading video game developer and digital distribution pla
 ```
 table launch_date as "Date", location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
-where contains(customer, [[Valve]])
+where contains(customer, [[]])
 sort launch_date desc
 ```
 %%
@@ -33,7 +34,7 @@ sort launch_date desc
 ```
 table published as "Published"
 from "News"
-where contains(customer, [[Valve]])
+where contains(customer, [[]])
 sort published desc
 ```
 %%

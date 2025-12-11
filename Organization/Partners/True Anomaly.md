@@ -2,7 +2,6 @@
 name: True Anomaly
 website: https://www.trueanomaly.space/
 ---
-
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> True Anomaly
 ## Partner Details
 
@@ -10,6 +9,7 @@ website: https://www.trueanomaly.space/
 
 True Anomaly is a U.S. defense-focused space startup founded in 2022 by former U.S. military officers. The company develops spacecraft, autonomy software, and training environments to support space domain awareness (SDA), rendezvous and proximity operations (RPO), and related national security missions. Their flagship spacecraft, the Jackal autonomous orbital vehicle, is a modular bus designed for maneuverability, rapid tasking, and payload flexibility across LEO, GEO, and cislunar regimes. True Anomaly also develops the Mosaic autonomy stack and a digital training/simulation ecosystem, positioning itself as both a hardware and software provider for responsive space operations.
 
+![[TrueAnomaly.webp|300]]
 ## Missions
 
 [[VICTUS HAZE]]

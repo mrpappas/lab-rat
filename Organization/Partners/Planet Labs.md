@@ -10,13 +10,15 @@ website: https://www.planet.com/
 
 Planet Labs is a leading Earth observation company that designs, builds, and operates the world’s largest fleet of imaging satellites. Planet's constellation of Dove, SuperDove, and SkySat satellites captures daily, high-resolution imagery of the entire Earth. This continuous, real-time data stream enables governments, businesses, and researchers to monitor changes, track trends, and make data-driven decisions in areas such as agriculture, forestry, climate monitoring, urban development, and disaster response. 
 
+![[Pasted image 20251211020914.png]]
+
 ## Launches
 
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date as "Date", location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
-where contains(customer, [[Planet Labs]])
+where contains(customer, [[]])
 sort launch_date desc
 ```
 %%
@@ -34,7 +36,7 @@ sort launch_date desc
 ```
 table published as "Published"
 from "News"
-where contains(customer, [[Planet Labs]])
+where contains(customer, [[]])
 sort published desc
 ```
 %%

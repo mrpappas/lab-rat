@@ -3,7 +3,7 @@ title: "Rocket Lab Successfully Launches HASTE Mission for Defense Innovation Un
 source: "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-successfully-launches-haste-mission-defense"
 author: "[[Rocket Lab Corporation]]"
 published: 2025-11-18
-customer: "[[MDA]]"
+customer: "[[Missile Defense Agency]]"
 mission: "[[075 - Prometheus Run]]"
 tags:
  - launch

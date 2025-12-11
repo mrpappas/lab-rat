@@ -1,4 +1,4 @@
-[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Hardware]] <span style="color: LightSlateGray">></span> Curie
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Hardware#🔥 Propulsion|Hardware]] <span style="color: LightSlateGray">></span> Curie
 ## Summary 
 
 **Curie** is a small, additively manufactured, storable, restart-able, pressure-fed bi-propellant engine integrated with lightweight composite propellant tanks and valves into a single compact module. Curie enables on orbit maneuvering and positioning, plane changes, and deorbit burns. 

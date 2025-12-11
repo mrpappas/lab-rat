@@ -3,7 +3,7 @@ tags:
  - launch
  - electron
 mission_name: Raise and Shine
-launch_date: 2025-12-05 03:00
+launch_date: 2025-12-12 03:00
 outcome: "⌛"
 customer: "[[JAXA]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
@@ -20,7 +20,7 @@ mission_link: https://rocketlabcorp.com/missions/missions-launched/raise-and-shi
 
 "RAISE And Shine" is the first of two dedicated Electron launches with the Japan Aerospace Exploration Agency ([[JAXA]]).
 
-"RAISE And Shine" will launch from Rocket Lab Launch Complex 1 in New Zealand during a launch window that opens December 5, UTC. This mission will deploy the Agency's Rapid Innovative payload demonstration SatellitE-4 (RAISE-4) spacecraft, a single satellite that will demonstrate eight technologies developed by private companies, universities, and research institutions throughout Japan.
+"RAISE And Shine" will launch from Rocket Lab Launch Complex 1 in New Zealand during a launch window that opens December 9, UTC. This mission will deploy the Agency's Rapid Innovative payload demonstration SatellitE-4 (RAISE-4) spacecraft, a single satellite that will demonstrate eight technologies developed by private companies, universities, and research institutions throughout Japan.
 
 The mission is Rocket Lab's first dedicated Electron launch directly contracted with JAXA, emphasizing Electron's importance to reliable global space access for both domestic and allied international space agencies.
 
@@ -31,7 +31,7 @@ The "Phoenix" Mission Rather than waiting years for the next [Epsilon vehicle](h
 
 | **Mission Name** | Raise and Shine                                                                          |
 | ---------------- | ---------------------------------------------------------------------------------------- |
-| **Launch Date**  | NET 2025-12-05 03:00 UTC                                                                 |
+| **Launch Date**  | NET 2025-12-12 03:00 UTC                                                                 |
 | **Outcome**      | ⌛ Pending                                                                                |
 | **Customer**     | [[JAXA]]                                                                                 |
 | **Location**     | [[Launch Complex 1#Launch Pad B]]                                                        |

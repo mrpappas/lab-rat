@@ -1,4 +1,4 @@
-[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Hardware]] <span style="color: LightSlateGray">></span> Rutherford
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Hardware#🔥 Propulsion|Hardware]] <span style="color: LightSlateGray">></span> Rutherford
 ## Summary
 
 Rutherford is a liquid-propellant rocket engine designed by Rocket Lab and manufactured in Long Beach, California. It uses LOX (liquid oxygen) and RP-1 (refined kerosene) as its propellants and is the first flight-ready engine to use the electric-pump-fed cycle. The rocket uses a similar engine arrangement to the Falcon 9; a two-stage rocket using a cluster of nine identical engines on the first stage, and one vacuum-optimized version with a longer nozzle on the second stage. This arrangement is also known as an octaweb. The sea-level version produces 24.9 kN (5,600 lbf) of thrust and has a specific impulse of 311 s (3.05 km/s), while the vacuum optimized-version produces 25.8 kN (5,800 lbf) of thrust and has a specific impulse of 343 s (3.36 km/s).

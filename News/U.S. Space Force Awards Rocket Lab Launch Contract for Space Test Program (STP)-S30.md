@@ -8,7 +8,9 @@ description: The mission will be Rocket Lab’s third for the U.S. Space Force, 
 customer: "[[U.S. Space Force]]"
 partner: "[[Organization/Partners/The Aerospace Corporation]]"
 contract: "[[Orbital Services Program 4]]"
-mission: "[[STP-S30]]"
+mission: 
+ - "[[STP-S30]]"
+ - "[[079 - AVALANCHE (STP-S30)]]"
 tags:
   - electron
   - contract

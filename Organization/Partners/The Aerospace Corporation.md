@@ -10,9 +10,29 @@ website: https://aerospace.org/
 The Aerospace Corporation is an American nonprofit organization that operates as a Federally Funded Research and Development Center (FFRDC). Founded in 1960 and headquartered in Chantilly, Virginia, the company serves as the trusted technical advisor to national security, civil, and commercial space programs
 
 Aerospace's core purpose is to deliver objective technical analysis, systems engineering, and program management support across all phases of space system development—from early concept through operations. As the FFRDC for national-security space, it works closely with agencies such as the U.S. Space Force and National Reconnaissance Office (NRO)
+
+![[Pasted image 20251211015539.png|300]]
+
 ## Missions
 
 - [[STP-S30]]
+
+## Launches
+
+%%DATAVIEW_PUBLISHER: start
+```
+table launch_date as "Date", location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
+from "Launch/Launches"
+where contains(customer, [[]])
+sort launch_date desc
+```
+%%
+
+| File                                                                        | Date             | Location                                               | Vehicle                          | Orbit & Mass       | Outcome |
+| --------------------------------------------------------------------------- | ---------------- | ------------------------------------------------------ | -------------------------------- | ------------------ | ------- |
+| [[Launch/Launches/079 - AVALANCHE (STP-S30).md\|079 - AVALANCHE (STP-S30)]] | 2025-12-18 10:00 | [[Locations/Launch Complex 2.md#Launch Pad 0C\|LC2-0]] | [[Launch/Electron.md\|Electron]] | Unknown \| Unknown | ⌛       |
+
+%%DATAVIEW_PUBLISHER: end %%
 
 ## Space Systems
 ### DiskSat

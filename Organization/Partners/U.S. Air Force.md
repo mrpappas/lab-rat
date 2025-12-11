@@ -10,13 +10,14 @@ website: https://www.airforce.com/
 
 The U.S. Air Force (USAF) plays a vital role in national security through its operations in air, space, and cyber domains, with a significant focus on space capabilities. Before the establishment of the [[U.S. Space Force]] in 2019, the USAF managed the majority of the Department of Defense's space operations. Its contributions include developing and maintaining critical satellite systems for global positioning (GPS), missile warning, communications, and weather monitoring. The USAF also pioneered space surveillance, orbital debris tracking, and space situational awareness to ensure safe and secure operations in Earth's orbit. Today, the Air Force continues to support space missions through collaboration with the Space Force, focusing on advanced technologies, launch systems, and integrating space capabilities into joint military operations to maintain U.S. superiority in space.
 
+![[Pasted image 20251211014955.png|300]]
 ## Launches
 
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date as "Date", location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
-where contains(customer, [[U.S. Air Force]])
+where contains(customer, [[]])
 sort launch_date desc
 ```
 %%
@@ -33,7 +34,7 @@ sort launch_date desc
 ```
 table published as "Published"
 from "News"
-where contains(customer, [[U.S. Air Force]])
+where contains(customer, [[]])
 sort published desc
 ```
 %%

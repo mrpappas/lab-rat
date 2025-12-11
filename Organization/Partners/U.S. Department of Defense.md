@@ -1,5 +1,4 @@
 ---
-
 name: U.S. Department of Defense
 website: https://www.defense.gov/
 ---
@@ -16,7 +15,7 @@ The U.S. Department of Defense (DoD) is the federal agency responsible for coord
 ```
 table launch_date as "Date", location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
-where contains(customer, [[U.S. Department of Defense]])
+where contains(customer, [[]])
 sort launch_date desc
 ```
 %%
@@ -32,7 +31,7 @@ sort launch_date desc
 ```
 table published as "Published"
 from "News"
-where contains(customer, [[U.S. Department of Defense]])
+where contains(customer, [[]])
 sort published desc
 ```
 %%

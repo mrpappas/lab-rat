@@ -1,13 +1,13 @@
 ---
-
 subsidiary: "[[Sinclair Interplanetary]]"
 ---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Hardware#⚙️ Reaction Wheels|Hardware]] <span style="color: LightSlateGray">></span> 3 mNms Reaction Wheel
 
->[!summary]
->This wheel is so tiny that 3 wheels can be carried in a 1U Cubesat. A 4-wheel pyramid configuration is also possible.
->
->🔗 Official Page: https://www.rocketlabusa.com/space-systems/satellite-components/reaction-wheels/
->📋 Data Sheet: [[RW-0.003-Datasheet-v3.0.pdf]]
+## Summary
+This wheel is so tiny that 3 wheels can be carried in a 1U Cubesat. A 4-wheel pyramid configuration is also possible.
+
+🔗 Official Page: https://www.rocketlabusa.com/space-systems/satellite-components/reaction-wheels/
+📋 Data Sheet: [[RW-0.003-Datasheet-v3.0.pdf]]
 
 ![[Pasted image 20250108214754.png]]
 ## Specs

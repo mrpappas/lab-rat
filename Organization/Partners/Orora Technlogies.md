@@ -13,12 +13,14 @@ Orora Technologies, more commonly known as OroraTech, is a German company focuse
 
 Orora currently uses Spire Global's [[Spire Global#Space Systems#Lemur-2|Lemur-2]] CubeSat platform as the basis for their satellites and in parallel they are working directly with [[ESA]] to develop their own satellite bus and complete solution
 
+![[Pasted image 20251211020933.png]]
+
 ## Launches
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date as "Date", location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
-where contains(customer, [[Orora Technlogies]])
+where contains(customer, [[]])
 sort launch_date desc
 ```
 %%
@@ -50,7 +52,7 @@ sort launch_date desc
 ```
 table published as "Published"
 from "News"
-where contains(customer, [[Orora Technlogies]])
+where contains(customer, [[]])
 sort published desc
 ```
 %%

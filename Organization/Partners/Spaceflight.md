@@ -1,5 +1,4 @@
 ---
-
 name: Spaceflight
 website: https://en.wikipedia.org/wiki/Spaceflight,_Inc.
 ---
@@ -9,6 +8,8 @@ website: https://en.wikipedia.org/wiki/Spaceflight,_Inc.
 **Website:** https://en.wikipedia.org/wiki/Spaceflight,_Inc.
 
 Spaceflight Inc. was known as a leader in arranging launches of small satellites on small launch vehicles or as secondary payloads on larger launch vehicles, deploying more than 460 payloads. Spaceflight had also developed its own series of orbital transfer vehicles called Sherpa, using a mix of chemical and electric propulsion systems.
+
+![[spaceflight.webp|300]]
 
 ## Launches
 

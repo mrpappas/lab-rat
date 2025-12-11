@@ -1,5 +1,4 @@
 ---
-
 name: U.S. Army
 website: https://www.smdc.army.mil/
 ---
@@ -12,13 +11,15 @@ website: https://www.smdc.army.mil/
 
 The U.S. Army Space and Missile Defense Command (SMDC) is a critical component of the United States Army, specializing in space and missile defense operations to support national security. Headquartered in Redstone Arsenal, Alabama, SMDC provides expertise in developing and deploying technologies for missile defense, space operations, and global situational awareness. The command oversees satellite communications, space-based missile warning systems, and the Army's contributions to the Department of Defense's ballistic missile defense programs. SMDC also leads research and development efforts, advancing capabilities like directed energy weapons and hypersonic systems. With a focus on integrating space and missile defense into military operations, SMDC plays a pivotal role in protecting U.S. interests and maintaining strategic dominance in the increasingly contested space domain.
 
+![[United_States_Army_Space_and_Missile_Defense_Command_Logo.svg|200]]
+
 ## Launches
 
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date as "Date", location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
-where contains(customer, [[U.S. Army]])
+where contains(customer, [[]])
 sort launch_date desc
 ```
 %%
@@ -34,7 +35,7 @@ sort launch_date desc
 ```
 table published as "Published"
 from "News"
-where contains(customer, [[U.S. Army]])
+where contains(customer, [[]])
 sort published desc
 ```
 %%

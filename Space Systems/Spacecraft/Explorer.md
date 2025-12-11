@@ -7,10 +7,10 @@ Explorer is a high Delta-v spacecraft with large propellant tanks, deep space ca
 ![[Pasted image 20250630195149.png]]
 ## Missions
 
-| Mission      | Status      | Quantity |
-| ------------ | ----------- | -------- |
-| [[CAPSTONE]] | Launched    | 1        |
-| [[ESCAPADE]] | In Progress | 2        |
+| Mission      | Status   | Quantity |
+| ------------ | -------- | -------- |
+| [[CAPSTONE]] | Launched | 1        |
+| [[ESCAPADE]] | Launched | 2        |
 ## Spacecraft
 
 1. [[#Lunar Photon]]

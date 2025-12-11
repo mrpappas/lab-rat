@@ -1,5 +1,4 @@
 ---
-
 name: NorthStar Earth & Space
 website: https://northstar-data.com/
 ---
@@ -8,19 +7,18 @@ website: https://northstar-data.com/
 
 **Website:** https://northstar-data.com/
 
-NorthStar Earth & Space is a Canadian company focused on Earth observation and space situational awareness (SSA). Headquartered in Montreal, NorthStar operates and develops satellite constellations designed to provide data for monitoring Earth's environment and tracking objects in orbit.
+NorthStar Earth & Space is a Canadian company focused on Earth observation and space situational awareness (SSA). Headquartered in Montreal, NorthStar operates and develops satellite constellations designed to provide data for monitoring Earth's environment and tracking objects in orbit. 
 
-NorthStar's SSA services involve tracking satellites and space debris to mitigate collision risks in increasingly congested orbital environments. Their Earth observation solutions focus on applications such as climate monitoring, natural resource management, and environmental analysis.
+NorthStar's SSA services involve tracking satellites and space debris to mitigate collision risks in increasingly congested orbital environments. Their Earth observation solutions focus on applications such as climate monitoring, natural resource management, and environmental analysis. The company aims to deliver critical data to governments, commercial operators, and industries for decision-making in both terrestrial and space-based operations.
 
-The company aims to deliver critical data to governments, commercial operators, and industries for decision-making in both terrestrial and space-based operations.
-
+![[northstar.webp|300]]
 ## Launches
 
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date as "Date", location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
-where contains(customer, [[NorthStar Earth & Space]])
+where contains(customer, [[]])
 sort launch_date desc
 ```
 %%
@@ -36,7 +34,7 @@ sort launch_date desc
 ```
 table published as "Published"
 from "News"
-where contains(customer, [[NorthStar Earth & Space]])
+where contains(customer, [[]])
 sort published desc
 ```
 %%
