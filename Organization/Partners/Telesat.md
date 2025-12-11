@@ -3,7 +3,6 @@ name: Telesat
 website: https://www.telesat.com/
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Telesat
-## Partner Details
 
 **Website:** https://www.telesat.com/
 

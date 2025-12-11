@@ -3,7 +3,6 @@ name: Japan Aerospace Exporation Agency (JAXA)
 website: https://global.jaxa.jp/
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> JAXA
-## Partner Details
 
 **Website**: https://global.jaxa.jp/
 

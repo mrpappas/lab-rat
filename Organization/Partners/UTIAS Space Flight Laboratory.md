@@ -4,7 +4,6 @@ name: UTIAS Space Flight Laboratory
 website: https://www.utias-sfl.net/
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> UTIAS Space Flight Laboratory
-## Partner Details
 
 **Website:** https://www.utias-sfl.net/
 

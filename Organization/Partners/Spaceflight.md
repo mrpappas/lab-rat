@@ -3,7 +3,6 @@ name: Spaceflight
 website: https://en.wikipedia.org/wiki/Spaceflight,_Inc.
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Spaceflight
-## Partner Details
 
 **Website:** https://en.wikipedia.org/wiki/Spaceflight,_Inc.
 

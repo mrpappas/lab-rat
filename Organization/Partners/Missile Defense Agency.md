@@ -3,7 +3,6 @@ name: Missile Defense Agency
 website: https://www.mda.mil/
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Missile Defense Agency
-## Partner Details
 
 **Website**: https://www.mda.mil/
 

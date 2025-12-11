@@ -3,9 +3,6 @@ name: U.S. Army
 website: https://www.smdc.army.mil/
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> U.S. Army
-## Partner Details
-
-### Space and Missile Defense Command
 
 **Website:** https://www.smdc.army.mil/
 

@@ -6,10 +6,11 @@ website: https://www.airbus.com/en
 
 **Website**: https://www.airbus.com/en
 
->[!summary]
->Airbus SE is a leading multinational aerospace corporation specializing in commercial aircraft, defense, and space systems. Headquartered in Leiden, Netherlands, with major operational sites in France, Germany, Spain, and the UK, Airbus designs and manufactures single-aisle (A220, A320neo) and wide-body (A330neo, A350, A380) aircraft, along with military platforms like the A400M and Eurofighter Typhoon. In the space sector, it develops satellites, launch systems, and orbital infrastructure, contributing to projects like the Ariane rockets, Galileo navigation system, and ISS modules. Competing primarily with Boeing, Airbus is known for innovations in fly-by-wire controls, composite materials, and hydrogen-powered aviation research.
+Airbus SE is a leading multinational aerospace corporation specializing in commercial aircraft, defense, and space systems. Headquartered in Leiden, Netherlands, with major operational sites in France, Germany, Spain, and the UK, Airbus designs and manufactures single-aisle (A220, A320neo) and wide-body (A330neo, A350, A380) aircraft, along with military platforms like the A400M and Eurofighter Typhoon. In the space sector, it develops satellites, launch systems, and orbital infrastructure, contributing to projects like the Ariane rockets, Galileo navigation system, and ISS modules. Competing primarily with Boeing, Airbus is known for innovations in fly-by-wire controls, composite materials, and hydrogen-powered aviation research.
 
-## 🌍 Missions
+![[Pasted image 20251211031808.png|300]]
+
+## Missions
 
 ### [[OneWeb Constellation]]
 
@@ -20,12 +21,12 @@ Rocket Lab was selected by Airbus to provide space grade solar panels as part of
 ![[Artist-view-OneWeb-satellite-Copyright-Eutelsat-OneWeb.gif]]
 
 
-## 📰 News
+## News
 %%DATAVIEW_PUBLISHER: start
 ```
 table published as "Published"
 from "News"
-where contains(customer, [[Airbus]])
+where contains(customer, [[]])
 sort published desc
 ```
 %%

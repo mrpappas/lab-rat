@@ -4,7 +4,6 @@ name: Immersat Government
 website: https://www.inmarsatgov.com/
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Astrix Astronautics
-## Partner Details
 
 **Website:** https://www.inmarsatgov.com/
 

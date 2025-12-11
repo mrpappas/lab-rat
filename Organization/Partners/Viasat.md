@@ -3,7 +3,6 @@ name: Viasat
 website: https://www.viasat.com/
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Viasat
-## Partner Details
 
 Website: https://www.viasat.com/
 

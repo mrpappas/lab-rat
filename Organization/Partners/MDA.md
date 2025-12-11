@@ -3,7 +3,6 @@ name: MDA
 website: https://mda.space/
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> MDA
-## Partner Details
 
 **Website:** https://mda.space/
 

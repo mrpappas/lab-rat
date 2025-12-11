@@ -6,10 +6,11 @@ website: https://www.cesiumastro.com/
 
 **Website**: https://www.cesiumastro.com/
 
->[!summary]
->CesiumAstro is an aerospace and defense company specializing in active phased array and software-defined radio technology. Founded in 2017 and headquartered in Austin, Texas, the company develops high-performance communication, sensing, and networking systems for satellites, unmanned aerial vehicles, and other mission-critical platforms. CesiumAstro’s modular hardware and software solutions support a range of applications, including secure data transmission, radar, and telemetry. With in-house design, manufacturing, and testing capabilities, the company focuses on delivering scalable, reliable systems for commercial, government, and defense customers.
+CesiumAstro is an aerospace and defense company specializing in active phased array and software-defined radio technology. Founded in 2017 and headquartered in Austin, Texas, the company develops high-performance communication, sensing, and networking systems for satellites, unmanned aerial vehicles, and other mission-critical platforms. CesiumAstro’s modular hardware and software solutions support a range of applications, including secure data transmission, radar, and telemetry. With in-house design, manufacturing, and testing capabilities, the company focuses on delivering scalable, reliable systems for commercial, government, and defense customers.
 
-## 🌍 Missions
+![[Cesium_product_logo_plate-3.webp|300]]
+
+## Missions
 
 ### SDA Tranche 2
 CesiumAstro was selected as a subcontractor for Rocket Lab's [[SDA Tranche 2 - Transport Layer]] contract.
@@ -20,13 +21,13 @@ CesiumAstro was selected as a subcontractor for Rocket Lab's [[SDA Tranche 2 - T
 Part of of [NASA's Starling](https://www.nasa.gov/smallspacecraft/what-is-starling/) mission, CesiumAstro was selected to provide crosslink radios and antennas for the MANET (Mobile Ad-hoc Network) experiment. The CommPacks were installed on each of the four cubesats launched on [[039 - Baby Come Back]] 
 
 
-## 🚀 Launches
+## Launches
 
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date as "Date", location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
-where contains(customer, [[CesiumAstro]])
+where contains(customer, [[]])
 sort launch_date desc
 ```
 %%
@@ -108,7 +109,7 @@ A high-performance, compact, software-defined radio designed to operate in LEO a
 ```
 table published as "Published"
 from "News"
-where contains(partner, [[CesiumAstro]])
+where contains(partner, [[]])
 sort published desc
 ```
 %%

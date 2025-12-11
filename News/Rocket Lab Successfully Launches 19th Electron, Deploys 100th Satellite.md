@@ -12,7 +12,7 @@ Customer:
   - "[[Myriota]]"
   - "[[UNSW Canberra Space]]"
   - "[[Care Weather]]"
-  - "[[U.S. Army]]"
+  - "[[U.S. Army Space and Missile Defense Command]]"
   - "[[Trisept]]"
 mission:
   - "[[019 - They Go Up So Fast]]"
@@ -27,7 +27,7 @@ tags:
 **Author:** [[Rocket Lab]]
 **Published:** 2021-03-23
 **Description:** The successful rideshare mission brings the total count of satellites deployed by Rocket Lab to 104
-**Customer:** [[BlackSky]], [[Tyvak Nano-Satellite Systems]], [[Fleet Space]], [[Myriota]], [[UNSW Canberra Space]], [[Care Weather]], [[U.S. Army]], [[Trisept]]
+**Customer:** [[BlackSky]], [[Tyvak Nano-Satellite Systems]], [[Fleet Space]], [[Myriota]], [[UNSW Canberra Space]], [[Care Weather]], [[U.S. Army Space and Missile Defense Command]], [[Trisept]]
 **Mission:** [[019 - They Go Up So Fast]]
 
 *The successful rideshare mission brings the total count of satellites deployed by Rocket Lab to 104*

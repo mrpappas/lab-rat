@@ -3,7 +3,6 @@ name: NASA
 website: https://www.nasa.gov/
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> NASA
-## Partner Details
 
 **Website:** https://www.nasa.gov/
 

@@ -3,7 +3,6 @@ name: Mynaric
 website: https://mynaric.com/
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Mynaric
-## Partner Details
 
 **Website**: https://mynaric.com/
 

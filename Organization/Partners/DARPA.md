@@ -7,15 +7,17 @@ website: https://www.darpa.mil/
 
 **Website:** https://www.darpa.mil/
 
->[!summary]
->The Defense Advanced Research Projects Agency (DARPA) is a research and development agency of the United States Department of Defense that focuses on developing new technologies for the military. DARPA's mission is to make significant investments in breakthrough technologies that will transform national security.
-## 🚀 Launches
+The Defense Advanced Research Projects Agency (DARPA) is a research and development agency of the United States Department of Defense that focuses on developing new technologies for the military. DARPA's mission is to make significant investments in breakthrough technologies that will transform national security.
+
+![[Pasted image 20251211030058.jpg|300]]
+
+## Launches
 
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date as "Date", location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
-where contains(customer, [[DARPA]])
+where contains(customer, [[]])
 sort launch_date desc
 ```
 %%
@@ -27,12 +29,12 @@ sort launch_date desc
 %%DATAVIEW_PUBLISHER: end %%
 
 
-## 📰 News
+## News
 %%DATAVIEW_PUBLISHER: start
 ```
 table published as "Published"
 from "News"
-where contains(customer, [[DARPA]])
+where contains(customer, [[]])
 sort published desc
 ```
 %%
@@ -44,7 +46,7 @@ sort published desc
 | [[News/Rocket Lab to launch dedicated Electron mission for DARPA.md\|Rocket Lab to launch dedicated Electron mission for DARPA]]                                                                                                   | January 22, 2019 |
 
 %%DATAVIEW_PUBLISHER: end %%
-## 🛰️ Space Systems
+## Space Systems
 
 ### Mandrake-2
 

@@ -1,5 +1,4 @@
 ---
-
 name: General Atomics Electromagnetic Systems
 website: https://www.ga.com/about/ems
 ---
@@ -7,11 +6,11 @@ website: https://www.ga.com/about/ems
 
 **Website:** https://www.ga.com/about/ems
 
->[!summary]
 General Atomics Electromagnetic Systems (GA-EMS) designs and manufactures advanced technology solutions, including electromagnetic launch and power systems, space systems, and missile defense technologies. GA-EMS supports defense, aerospace, and commercial markets with innovations such as railguns, directed energy systems, satellite platforms, and components like spacecraft structures, payloads, and propulsion systems. The company plays a key role in space-based surveillance, satellite manufacturing, and national security programs.
 
+![[Pasted image 20251211025515.jpg|300]]
 
-## 🚀 Launches
+## Launches
 
 %%DATAVIEW_PUBLISHER: start
 ```
@@ -29,7 +28,7 @@ sort launch_date desc
 %%DATAVIEW_PUBLISHER: end %%
 
 
-## 📰 News
+## News
 %%DATAVIEW_PUBLISHER: start
 ```
 table published as "Published"
@@ -46,7 +45,7 @@ sort published desc
 | [[News/Rocket Lab to Launch NOAA-Supported Argos-4 Spacecraft for General Atomics to Support Environmental Monitoring from Space.md\|Rocket Lab to Launch NOAA-Supported Argos-4 Spacecraft for General Atomics to Support Environmental Monitoring from Space]] | September 19, 2022 |
 
 %%DATAVIEW_PUBLISHER: end %%
-## 🛰️ Space Systems
+## Space Systems
 
 ### GAzelle
 

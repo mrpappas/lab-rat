@@ -7,16 +7,17 @@ website: https://www.blacksky.com/
 
 **Website:** https://www.blacksky.com/
 
->[!summary]
 BlackSky is a **U.S.-based geospatial intelligence company** that specializes in providing **real-time Earth observation data** and **analytics**. The company operates a constellation of **low Earth orbit (LEO) satellites** designed to capture high-resolution imagery multiple times per day. BlackSky integrates satellite imagery with **artificial intelligence (AI)** and other data sources to deliver **actionable insights** for applications such as **defense, disaster response, supply chain monitoring, and infrastructure management**. BlackSky's subscription-based platform offers near real-time access to **global monitoring** capabilities, enabling rapid decision-making for commercial and government clients.
 
-## 🚀 Launches
+![[Pasted image 20251211030829.jpg|300]]
+
+## Launches
 
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date as "Date", location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
-where contains(customer, [[BlackSky]])
+where contains(customer, [[]])
 sort launch_date desc
 ```
 %%
@@ -78,7 +79,7 @@ BlackSky's latest generation Earth Observation satellite featuring 35 cm resolut
 ```
 table published as "Published"
 from "News"
-where contains(customer, [[BlackSky]])
+where contains(customer, [[]])
 sort published desc
 ```
 %%

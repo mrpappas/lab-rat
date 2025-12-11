@@ -3,7 +3,6 @@ name: Kratos Defense & Security Solutions
 website: https://www.kratosdefense.com/
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Kratos
-## Partner Details
 
 **Website:** https://www.kratosdefense.com/
 

@@ -7,16 +7,17 @@ website: https://aurorapt.space/
 
 **Website:** https://aurorapt.space/
 
->[!summary]
 Aurora Propulsion Technologies is a Finnish company specializing in spacecraft propulsion and satellite deorbiting solutions. Focused on sustainable space operations, the company develops small-scale electric propulsion systems and tools to enable satellite maneuvering and controlled deorbiting at the end of mission lifecycles. Aurora’s products, such as water-based resistojet thrusters and plasma brake technologies, are designed to support small satellite missions and reduce space debris.
 
-## 🚀 Launches
+![[aurora.webp|300]]
+
+## Launches
 
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date as "Date", location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
-where contains(customer, [[Aurora Propulsion Technologies]])
+where contains(customer, [[]])
 sort launch_date desc
 ```
 %%
@@ -28,12 +29,12 @@ sort launch_date desc
 %%DATAVIEW_PUBLISHER: end %%
 
 
-## 📰 News
+## News
 %%DATAVIEW_PUBLISHER: start
 ```
 table published as "Published"
 from "News"
-where contains(customer, [[Aurora Propulsion Technologies]])
+where contains(customer, [[]])
 sort published desc
 ```
 %%

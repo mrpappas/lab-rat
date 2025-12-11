@@ -8,10 +8,11 @@ website: https://www.echostar.com/
 **Website**: https://www.echostar.com/
 **Ticker**: [SATS](https://finance.yahoo.com/quote/SATS/)
 
->[!summary]
->EchoStar Corporation is an American telecommunications company, specializing in satellite communication, wireless telecommunications, and internet services. Echostar also provides multichannel video programming and mobile services through its subsidiaries: [Boost Mobile](https://www.echostar.com/brands/boost-mobile), [Hughesnet](https://www.echostar.com/brands/hughesnet), [Hughes](https://www.echostar.com/brands/hughes), [DISH](https://www.echostar.com/brands/dish), and [Sling](https://www.echostar.com/brands/sling).
->
+EchoStar Corporation is an American telecommunications company, specializing in satellite communication, wireless telecommunications, and internet services. Echostar also provides multichannel video programming and mobile services through its subsidiaries: [Boost Mobile](https://www.echostar.com/brands/boost-mobile), [Hughesnet](https://www.echostar.com/brands/hughesnet), [Hughes](https://www.echostar.com/brands/hughes), [DISH](https://www.echostar.com/brands/dish), and [Sling](https://www.echostar.com/brands/sling).
+
 Originally establishing the Dish Network brand name in 1996, EchoStar later acquired Dish as a wholly-owned subsidiary in 2023.
+
+![[echostar.webp|300]]
 
 ## **Launches**
 
@@ -19,7 +20,7 @@ Originally establishing the Dish Network brand name in 1996, EchoStar later acqu
 ```
 table launch_date as "Date", location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
-where contains(customer, [[EchoStar]])
+where contains(customer, [[]])
 sort launch_date desc
 ```
 %%
@@ -111,7 +112,7 @@ https://echostarsatelliteservices.com/satellites
 ```
 table published as "Published"
 from "News"
-where contains(customer, [[EchoStar]])
+where contains(customer, [[]])
 sort published desc
 ```
 %%

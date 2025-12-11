@@ -5,7 +5,6 @@ website: https://ororatech.com/
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Orora Technlogies
 
 Website: https://ororatech.com/
-## Partner Details
 
 Orora Technologies, more commonly known as OroraTech, is a German company focused on developing a constellation of small satellites equipped with thermal infrared cameras to detect wildfires early and provide real-time monitoring for faster response, essentially creating a global wildfire warning system using space-based technology; their primary product is called the "Wildfire Solution."
 

@@ -1,5 +1,4 @@
 ---
-
 name: Astro Digital
 website: https://astrodigital.com/
 ---
@@ -7,16 +6,17 @@ website: https://astrodigital.com/
 
 **Website:** https://astrodigital.com/
 
->[!summary]
 Astro Digital is a satellite manufacturer and operator specializing in delivering turnkey solutions for Earth observation, communications, and data analytics. The company focuses on designing, building, and operating small satellite systems to provide rapid access to data for commercial and government customers. Astro Digital offers customizable platforms for satellite missions, including payload integration, mission operations, and ground support. Known for its flexible approach, the company serves clients requiring Earth imagery, environmental monitoring, and IoT data transmission.
 
-## 🚀 Launches
+![[Pasted image 20251211031134.jpg|300]]
+
+## Launches
 
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date as "Date", location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
-where contains(customer, [[Astro Digital]])
+where contains(customer, [[]])
 sort launch_date desc
 ```
 %%
@@ -150,7 +150,7 @@ The Raven bus has been developed in response to customer demand to provide more 
 ```
 table published as "Published"
 from "News"
-where contains(customer, [[Astro Digital]])
+where contains(customer, [[]])
 sort published desc
 ```
 %%

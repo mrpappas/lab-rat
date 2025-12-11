@@ -3,7 +3,6 @@ name: HawkEye 360
 website: https://www.he360.com/
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> HawkEye 360
-## Partner Details
 
 **Website:** https://www.he360.com/
 
@@ -28,7 +27,7 @@ sort launch_date desc
 | [[Launch/Launches/033 - Virginia is for Launch Lovers.md\|033 - Virginia is for Launch Lovers]] | 2023-01-24 23:00 | [[Locations/Launch Complex 2.md#Launch Pad 0C\|LC2-0]] | [[Launch/Electron.md\|Electron]] | 550 km \| 40.5° \| 40 kg    | ✅       |
 
 %%DATAVIEW_PUBLISHER: end %%
-## 🛰️ Space Systems
+## Space Systems
 
 ### Hawk Satellite
 
@@ -49,7 +48,7 @@ Source: https://www.eoportal.org/satellite-missions/hawkeye-360#eop-quick-facts-
 
 
 
-## 📰 News
+## News
 %%DATAVIEW_PUBLISHER: start
 ```
 table published as "Published"

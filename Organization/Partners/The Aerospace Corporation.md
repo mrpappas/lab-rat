@@ -3,7 +3,6 @@ name: The Aerospace Corporation
 website: https://aerospace.org/
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> The Aerospace Corporation
-## Partner Details
 
 **Website**: https://aerospace.org/
 

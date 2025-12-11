@@ -4,7 +4,6 @@ name: Valve
 website: https://www.valvesoftware.com/en/
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Valve
-## Partner Details
 
 **Website:** https://www.valvesoftware.com/en/
 

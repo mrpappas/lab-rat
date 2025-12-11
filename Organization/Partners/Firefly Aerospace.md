@@ -6,10 +6,11 @@ website: https://fireflyspace.com/
 
 **Website**: https://fireflyspace.com/
 
->[!summary]
->Firefly Aerospace is an end-to-end responsive space company with launch, lunar, and on-orbit services. Headquartered in central Texas, Firefly is a portfolio company of [AE Industrial Partners (“AEI”)](https://www.aeroequity.com/) focused on delivering rapid, reliable, and affordable space access for government and commercial customers.
+Firefly Aerospace is an end-to-end responsive space company with launch, lunar, and on-orbit services. Headquartered in central Texas, Firefly is a portfolio company of [AE Industrial Partners (“AEI”)](https://www.aeroequity.com/) focused on delivering rapid, reliable, and affordable space access for government and commercial customers.
 
-## 🌍 Missions
+![[firefly.webp|300]]
+
+## Missions
 
 ### Blue Ghost Mission 1
 

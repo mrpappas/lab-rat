@@ -3,7 +3,6 @@ name: Melbourne Space Program
 website: https://www.melbournespace.com.au/
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Melbourne Space Program
-## Partner Details
 
 **Website:** https://www.melbournespace.com.au/
 

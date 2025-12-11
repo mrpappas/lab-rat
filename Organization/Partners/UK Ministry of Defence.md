@@ -3,7 +3,6 @@ name: UK Ministry of Defence
 website: https://www.gov.uk/government/organisations/ministry-of-defence
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> UK Ministry of Defence
-## Partner Details
 
 Website: https://www.gov.uk/government/organisations/ministry-of-defence
 

@@ -3,7 +3,6 @@ name: Globalstar
 website: https://www.globalstar.com/en-us
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Globalstar
-## Partner Details
 
 **Website:** https://www.globalstar.com/en-us
 

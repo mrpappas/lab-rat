@@ -4,7 +4,6 @@ name: UNSW Canberra Space
 website: https://www.unsw.edu.au/canberra/our-research/research-centres-institutes/unsw-canberra-space
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> UNSW Canberra Space
-## Partner Details
 
 **Website:** https://www.unsw.edu.au/canberra/our-research/research-centres-institutes/unsw-canberra-space
 

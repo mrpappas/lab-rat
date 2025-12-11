@@ -4,7 +4,6 @@ name: Varda Space Industries
 website: https://www.varda.com/
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> York Space Systems
-## Partner Details
 
 **Website:** https://www.varda.com/
 

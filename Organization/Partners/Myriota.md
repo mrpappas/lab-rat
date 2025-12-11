@@ -3,7 +3,6 @@ name: Myriota
 website: https://myriota.com/
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Myriota
-## Partner Details
 
 **Website:** https://myriota.com/
 

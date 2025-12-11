@@ -7,16 +7,17 @@ website: https://astrix.space/
 
 **Website:** https://astrix.space/
 
->[!summary]
 Astrix Astronautics is a New Zealand-based company specializing in innovative power systems for small satellites. The company focuses on developing high-performance solar arrays and deployable power solutions to maximize energy efficiency for small satellite platforms. Astrix's technology is designed to meet the growing power demands of modern satellite missions, supporting applications such as Earth observation, communications, and deep space exploration. Their systems enable increased satellite capabilities while maintaining a compact and lightweight form factor, catering to both commercial and government customers in the space industry.
 
-## 🚀 Launches
+![[Pasted image 20251211031231.png|300]]
+
+## Launches
 
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date as "Date", location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
-where contains(customer, [[Astrix Astronautics]])
+where contains(customer, [[]])
 sort launch_date desc
 ```
 %%
@@ -32,7 +33,7 @@ sort launch_date desc
 ```
 table published as "Published"
 from "News"
-where contains(customer, [[Astrix Astronautics]])
+where contains(customer, [[]])
 sort published desc
 ```
 %%

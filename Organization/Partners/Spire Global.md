@@ -4,7 +4,6 @@ name: Spire Global
 website: https://spire.com/
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Spire Global
-## Partner Details
 
 **Website:** https://spire.com/
 

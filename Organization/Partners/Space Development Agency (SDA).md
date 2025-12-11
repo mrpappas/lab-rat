@@ -3,7 +3,6 @@ name: Space Development Agency (SDA)
 website: https://www.sda.mil/
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Space Development Agency (SDA)
-## Partner Details
 
 **Website:** https://www.sda.mil/
  

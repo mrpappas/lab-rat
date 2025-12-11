@@ -4,7 +4,6 @@ name: NOAA (National Oceanic and Atmospheric Administration)
 website: https://www.noaa.gov/
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> NOAA
-## Partner Details
 
 **Website:** https://www.noaa.gov/
 

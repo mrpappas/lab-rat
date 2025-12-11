@@ -3,7 +3,6 @@ name: Unseenlabs
 website: https://unseenlabs.space/
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Unseenlabs
-## Partner Details
 
 **Website:** https://unseenlabs.space/
 

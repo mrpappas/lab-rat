@@ -4,7 +4,6 @@ name: Swedish National Space Agency
 website: https://www.rymdstyrelsen.se/en/
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Swedish National Space Agency
-## Partner Details
 
 **Website:** https://www.rymdstyrelsen.se/en/
 

@@ -3,7 +3,6 @@ name: Hypersonix
 website: https://www.hypersonix.com/
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Hypersonix
-## Partner Details
 
 **Website:** https://www.hypersonix.com/
 

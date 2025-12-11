@@ -3,7 +3,6 @@ name: OHB Group
 website: https://www.ohb.de/en/
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> OHB Group
-## Partner Details
 
 **Website:** https://www.ohb.de/en/
 

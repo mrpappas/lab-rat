@@ -3,7 +3,6 @@ name: Swarm
 website: https://en.wikipedia.org/wiki/Swarm_Technologies
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Swarm
-## Partner Details
 
 **Website:** https://en.wikipedia.org/wiki/Swarm_Technologies
 **Subsidiary of [[SpaceX]]** - Acquired by [[SpaceX]] August 6, 2021.

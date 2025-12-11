@@ -7,13 +7,17 @@ website: https://www.bu.edu/
 
 **Website:** https://www.bu.edu/
 
-## 🚀 Launches
+Boston University (BU) is a significant player in space technology through its Center for Space Physics (CSP), fostering interdisciplinary research in space science, engineering, and instrumentation, with projects ranging from building sensors for NASA missions (like the LEXI Moon Telescope) to studying heliophysics and planetary atmospheres, involving collaborations across Astronomy, Engineering (Mech & Elec/Comp), and developing both large-scale and small satellite tech. 
+
+![[Pasted image 20251211030744.png|300]]
+
+## Launches
 
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date as "Date", location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
-where contains(customer, [[Boston University]])
+where contains(customer, [[]])
 sort launch_date desc
 ```
 %%
@@ -30,7 +34,7 @@ sort launch_date desc
 ```
 table published as "Published"
 from "News"
-where contains(customer, [[Boston University]])
+where contains(customer, [[]])
 sort published desc
 ```
 %%

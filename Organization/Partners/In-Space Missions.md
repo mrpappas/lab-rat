@@ -4,7 +4,6 @@ name: In-Space Missions
 website: https://in-space.co.uk/
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> In-Space Missions
-## Partner Details
 
 **Website:** https://in-space.co.uk/
 
@@ -27,7 +26,7 @@ sort launch_date desc
 
 %%DATAVIEW_PUBLISHER: end %%
 
-## 📰 News
+## News
 %%DATAVIEW_PUBLISHER: start
 ```
 table published as "Published"

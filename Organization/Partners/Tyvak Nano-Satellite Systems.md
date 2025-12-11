@@ -4,7 +4,6 @@ name: Tyvak Nano-Satellite Systems
 website: https://tyvak.eu/
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Tyvak Nano-Satellite Systems
-## Partner Details
 
 **Website:** https://tyvak.eu/
 Absorbed by [[Terran Orbital]]

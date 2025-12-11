@@ -3,7 +3,6 @@ name: University of California Berkeley Space Sciences Laboratory
 website: https://www.ssl.berkeley.edu/
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> University of California Berkeley Space Sciences Laboratory
-## Partner Details
 
 **Website**: https://www.ssl.berkeley.edu/
 

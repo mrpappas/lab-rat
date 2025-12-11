@@ -6,11 +6,13 @@ website: https://agilespaceindustries.com/
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Agile Space Industries
 
 **Website**: https://agilespaceindustries.com/
-
->[!summary]
->Agile Space Industries is a U.S. propulsion company specializing in advanced in-space chemical propulsion systems. Based in Durango, Colorado, Agile develops thrusters, engines, and complete propulsion systems using additive manufacturing, in-house vacuum hot-fire test facilities, and rapid design-to-flight cycles. Its systems serve both government and commercial customers, with recent contracts supporting missions for NASA, U.S. Space Force, and True Anomaly’s Jackal spacecraft for VICTUS HAZE.
-
 🔗 [Agile's Product Page](https://agilespaceindustries.com/products)
+
+Agile Space Industries is a U.S. propulsion company specializing in advanced in-space chemical propulsion systems. Based in Durango, Colorado, Agile develops thrusters, engines, and complete propulsion systems using additive manufacturing, in-house vacuum hot-fire test facilities, and rapid design-to-flight cycles. Its systems serve both government and commercial customers, with recent contracts supporting missions for NASA, U.S. Space Force, and True Anomaly’s Jackal spacecraft for VICTUS HAZE.
+
+
+![[df3d8b6e-5549-4fb0-83cf-713579c8b283.avif]]
+
 ## Thrusters & Engines
 
 1. [[#M4 Monopropellant Thruster]]

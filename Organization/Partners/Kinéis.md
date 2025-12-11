@@ -3,7 +3,6 @@ name: Kinéis
 website: https://www.kineis.com/en/spatial-iot-connectivity/
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Kinéis
-## Partner Details
 
 **Website:** https://www.kineis.com/en/spatial-iot-connectivity/
 

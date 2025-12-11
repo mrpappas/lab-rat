@@ -4,7 +4,6 @@ name: U.S. Air Force
 website: https://www.airforce.com/
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> U.S. Air Force
-## Partner Details
 
 **Website:** https://www.airforce.com/
 

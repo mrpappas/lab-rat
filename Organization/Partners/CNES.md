@@ -7,11 +7,11 @@ website: https://cnes.fr/en
 
 **Website:** https://cnes.fr/en
 
->[!summary]
->
 The Centre National d'Études Spatiales (CNES) is France's national space agency, founded in 1961 to develop and execute the country’s space policy. It focuses on space exploration, Earth observation, telecommunications, defense, and technological innovation. CNES plays a significant role in studying planets, monitoring the environment, advancing satellite-based communication, and supporting national security through military satellite systems. It is a key partner in international collaborations with agencies like ESA, NASA, and others, contributing to joint missions and groundbreaking research. Among its notable achievements are its work on the Ariane rocket family, Earth observation programs such as Pleiades and Copernicus, and its involvement in Mars exploration missions and the James Webb Space Telescope. As a cornerstone of Europe’s space sector, CNES drives scientific discovery and technological progress on a global scale.
 
-## 🛰️ Space Systems
+![[Pasted image 20251211030129.jpg|300]]
+
+## Space Systems
 
 ### Argos-4
 
@@ -26,7 +26,7 @@ Argos-4 is a satellite payload that supports the [Argos Data Collection System](
 ```
 table published as "Published"
 from "News"
-where contains(customer, [[CNES]])
+where contains(customer, [[]])
 sort published desc
 ```
 %%

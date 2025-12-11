@@ -4,8 +4,6 @@ website: https://i-qps.net/en/
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> iQPS
 
-## Partner Details
-
 **🔗 Website:** https://i-qps.net/en/
 
 iQPS (Institute for Q-shu Pioneers of Space) is a Japanese company focused on developing and deploying [[📦 Payload Types#Synthetic Aperture Radar (SAR)|Synthetic Aperture Radar (SAR)]] satellites.

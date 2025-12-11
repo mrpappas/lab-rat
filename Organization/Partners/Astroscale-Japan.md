@@ -7,16 +7,17 @@ website: https://astroscale.com/
 
 **Website:** https://astroscale.com/
 
->[!summary]
 Astroscale-Japan is a subsidiary of Astroscale Holdings, a company dedicated to addressing space sustainability by providing on-orbit servicing solutions. Focused on debris removal, satellite life extension, and end-of-life services, Astroscale develops technologies to clean up existing space debris and ensure responsible satellite deorbiting. The company’s missions, such as *ELSA-d* (End-of-Life Services by Astroscale-demonstration) and *ADRAS-J* (Active Debris Removal by Astroscale-Japan), demonstrate capabilities in docking with, capturing, and deorbiting defunct satellites and debris to maintain a sustainable space environment.
 
-## 🚀 Launches
+![[astroscale.webp|300]]
+
+## Launches
 
 %%DATAVIEW_PUBLISHER: start
 ```
 table launch_date as "Date", location as "Location", vehicle as "Vehicle", target_orbit + " | " + payload_mass as "Orbit & Mass", outcome as "Outcome"
 from "Launch/Launches"
-where contains(customer, [[Astroscale-Japan]])
+where contains(customer, [[]])
 sort launch_date desc
 ```
 %%
@@ -28,12 +29,12 @@ sort launch_date desc
 %%DATAVIEW_PUBLISHER: end %%
 
 
-## 📰 News
+## News
 %%DATAVIEW_PUBLISHER: start
 ```
 table published as "Published"
 from "News"
-where contains(customer, [[Astroscale-Japan]])
+where contains(customer, [[]])
 sort published desc
 ```
 %%
@@ -46,6 +47,6 @@ sort published desc
 
 %%DATAVIEW_PUBLISHER: end %%
 
-## ✏️ Notes
+## Notes
 
 -  https://arstechnica.com/space/2024/08/there-are-2000-plus-dead-rockets-in-orbit-heres-a-rare-view-of-one-of-them/

@@ -4,7 +4,6 @@ name: National Reconnaissance Office (NRO)
 website: https://www.nro.gov/
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> National Reconnaissance Office (NRO)
-## Partner Details
 
 **Website:** https://www.nro.gov/
 

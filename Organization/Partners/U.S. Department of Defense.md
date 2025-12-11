@@ -3,7 +3,6 @@ name: U.S. Department of Defense
 website: https://www.defense.gov/
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> U.S. Department of Defense
-## Partner Details
 
 **Website:** https://www.defense.gov/
 

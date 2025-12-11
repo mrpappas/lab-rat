@@ -1,10 +1,8 @@
 ---
-
 name: KSAT (Kongsberg Satellite Services)
 website: https://www.ksat.no/
 ---
 [[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> KSAT
-## Partner Details
 
 **Website:** https://www.ksat.no/
 
