@@ -4,19 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d28cd0a75ad41ac9",
+        "id": "fda39009c7d6a32a",
         "type": "tabs",
         "children": [
           {
-            "id": "75896451ee9162a1",
+            "id": "00f43c2189342fc2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Vault-Assets/Images/Pasted image 20251211031808.png"
+                "file": "Launch/Launches/077 - RAISE and Shine.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251211031808"
+              "icon": "lucide-file",
+              "title": "077 - RAISE and Shine"
             }
           }
         ]
@@ -111,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault-Assets/Images/Pasted image 20251211031808.png",
+                "file": "Organization/Partners/Voyager Space.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pasted image 20251211031808"
+              "title": "Outgoing links from Voyager Space"
             }
           },
           {
@@ -194,23 +197,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "581793ba6e53cf14",
+  "active": "00f43c2189342fc2",
   "lastOpenFiles": [
-    "Vault-Assets/Images/df3d8b6e-5549-4fb0-83cf-713579c8b283.avif",
+    "News/Mission Success Rocket Lab Deploys First Dedicated Launch for Japan Aerospace Exploration Agency (JAXA).md",
+    "Launch/Launches/077 - RAISE and Shine.md",
+    "Launch/Launches/076 - Follow My Speed.md",
+    "Launch/Launches/078 - Bridging The Swarm.md",
+    "Organization/Partners/JAXA.md",
+    "Vault-Assets/Images/Pasted image 20251124181149.png",
+    "Launch/Launches/079 - AVALANCHE (STP-S30).md",
+    "Launch/Launches/074 - The Nation God Navigates.md",
+    "Launch/Launches/075 - Prometheus Run.md",
+    "Organization/Partners/Voyager Space.md",
+    "Partners.md",
+    "Vault-Assets/Images/Pasted image 20251212184256.png",
+    "Organization/Partners/Eta Space.md",
+    "Vault-Assets/Images/Pasted image 20251213030503.png",
+    "Vault-Assets/Images/Pasted image 20251213025209.jpg",
+    "Vault-Assets/Images/Pasted image 20251213025152.jpg",
+    "Vault-Assets/Images/Pasted image 20251213025136.jpg",
+    "Vault-Assets/Images/Pasted image 20251213025059.jpg",
+    "Vault-Assets/Images/Pasted image 20251213025026.jpg",
+    "Vault-Assets/Images/Pasted image 20251213024958.png",
+    "Organization/Partners/Advanced Space.md",
+    "Vault-Assets/Images/US11143143-20211012-D00000.png",
+    "Organization/Partners/The Aerospace Corporation.md",
+    "Missions/Venus Life Finder.md",
+    "Space Systems/Spacecraft/Pioneer.md",
     "Organization/Partners/Agile Space Industries.md",
     "Organization/Partners/Airbus.md",
-    "Organization/Partners/Advanced Space.md",
-    "Vault-Assets/Images/Pasted image 20251211032042.jpg",
-    "Pasted image 20251211031846.png",
-    "Vault-Assets/Images/Pasted image 20251211031808.png",
-    "Pasted image 20251211031743.png",
     "Organization/Partners/Alaska Aerospace Corporation.md",
     "Organization/Partners/Alba Orbital.md",
-    "Vault-Assets/Images/Pasted image 20251211031558.jpg",
-    "Vault-Assets/Images/fleet.webp",
-    "Pasted image 20251211031551.png",
-    "Vault-Assets/Images/Pasted image 20251211031512.png",
-    "Pasted image 20251211031434.png",
     "Organization/Partners/ALE.md",
     "Organization/Partners/Astrix Astronautics.md",
     "Organization/Partners/Astro Digital.md",
@@ -218,19 +235,6 @@
     "Organization/Partners/Aurora Propulsion Technologies.md",
     "Organization/Partners/Ball Aerospace.md",
     "Organization/Partners/BlackSky.md",
-    "Organization/Partners/Boston University.md",
-    "Organization/Partners/Canadian Space Agency.md",
-    "Organization/Partners/Canon Electronics.md",
-    "Organization/Partners/Capella Space.md",
-    "Organization/Partners/Care Weather.md",
-    "Organization/Partners/CesiumAstro.md",
-    "Organization/Partners/Circle Aerospace.md",
-    "Organization/Partners/CNES.md",
-    "Organization/Partners/DARPA.md",
-    "Organization/Partners/Deer VIII.md",
-    "Organization/Partners/E-Space.md",
-    "Organization/Partners/EchoStar.md",
-    "Organization/Partners/ESA.md",
     "flickr.com/photos/rocketlab/albums",
     "flickr.com/photos/rocketlab",
     "flickr.com/photos",

@@ -4,7 +4,7 @@ source: https://rocketlabcorp.com/updates/rocket-lab-schedules-first-dedicated-l
 author: "[[Rocket Lab]]"
 published: 2025-11-24
 customer: "[[JAXA]]"
-mission: "[[078 - RAISE and Shine]]"
+mission: "[[077 - RAISE and Shine]]"
 tags:
   - launch
   - electron

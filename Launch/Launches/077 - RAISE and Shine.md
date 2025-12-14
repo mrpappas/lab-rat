@@ -1,10 +1,10 @@
 ---
 tags:
- - launch
- - electron
+  - launch
+  - electron
 mission_name: Raise and Shine
-launch_date: 2025-12-12 03:00
-outcome: "⌛"
+launch_date: 2025-12-14 03:09
+outcome: ✅
 customer: "[[JAXA]]"
 location: "[[Launch Complex 1#Launch Pad B|LC1-B]]"
 vehicle: "[[Electron]]"
@@ -16,13 +16,15 @@ mission_link: https://rocketlabcorp.com/missions/missions-launched/raise-and-shi
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span> <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span> Raise and Shine
 
->[!warning] Mission Pending
+>[!success] Mission Success
 
-"RAISE And Shine" is the first of two dedicated Electron launches with the Japan Aerospace Exploration Agency ([[JAXA]]).
+"RAISE And Shine" was the first of two dedicated Electron launches with the Japan Aerospace Exploration Agency ([[JAXA]]).
 
-"RAISE And Shine" will launch from Rocket Lab Launch Complex 1 in New Zealand during a launch window that opens December 9, UTC. This mission will deploy the Agency's Rapid Innovative payload demonstration SatellitE-4 (RAISE-4) spacecraft, a single satellite that will demonstrate eight technologies developed by private companies, universities, and research institutions throughout Japan.
+"RAISE And Shine" successfully launched from Rocket Lab Launch Complex 1 in New Zealand on December 14th, 2025 NZT. This mission deployed the Agency's RApid Innovative payload demonstration SatellitE-4 (RAISE-4) spacecraft, a single satellite that will demonstrate eight technologies developed by private companies, universities, and research institutions throughout Japan.
 
-The mission is Rocket Lab's first dedicated Electron launch directly contracted with JAXA, emphasizing Electron's importance to reliable global space access for both domestic and allied international space agencies.
+The mission was Rocket Lab's first dedicated Electron launch directly contracted with JAXA, emphasizing Electron's importance to reliable global space access for both domestic and allied international space agencies.
+
+[📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720330921889/)
 
 >[!summary] Mission Context
 On October 12, 2022, JAXA launched the Epsilon-6 rocket carrying RAISE-3 and several other small satellites. Approximately 7 minutes into the flight, a failure occurred in the second stage's Reaction Control System (RCS) ([News Report](https://www.youtube.com/watch?v=RSPLGsMTXA8)), preventing the rocket from maintaining the correct attitude for orbit insertion. JAXA was forced to send a destruct command, resulting in the total loss of the [RAISE-3 satellite](https://space.skyrocket.de/doc_sdat/raise-3.htm) and all its experimental payloads.
@@ -31,15 +33,15 @@ The "Phoenix" Mission Rather than waiting years for the next [Epsilon vehicle](h
 
 | **Mission Name** | Raise and Shine                                                                          |
 | ---------------- | ---------------------------------------------------------------------------------------- |
-| **Launch Date**  | NET 2025-12-12 03:00 UTC                                                                 |
-| **Outcome**      | ⌛ Pending                                                                                |
+| **Launch Date**  | NET 2025-12-14 03:09 UTC                                                                 |
+| **Outcome**      | ✅ Success                                                                                |
 | **Customer**     | [[JAXA]]                                                                                 |
 | **Location**     | [[Launch Complex 1#Launch Pad B]]                                                        |
 | **Vehicle**      | [[Electron]]                                                                             |
 | **Orbit Type**   | [[Orbits#SSO]]                                                                           |
 | **Target Orbit** | 540 km \| 97.5°                                                                          |
 | **Payload Mass** | ~110 kg                                                                                  |
-| **Recovery**     | No Attempt Likely                                                                        |
+| **Recovery**     | No Attempt                                                                               |
 | **Mission Link** | [Raise and Shine](https://rocketlabcorp.com/missions/missions-launched/raise-and-shine/) |
 | **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/RL-F77-Press-Kit.pdf)           |
 
@@ -53,7 +55,16 @@ x1 [[JAXA#RAISE-4]]
 
 ## Launch Video
 
->[!warning] Launch Video Coming Soon
+![](https://www.youtube.com/watch?v=cMP328yoUu4)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=cMP328yoUu4
+
+### JAXA Stream
+
+![](https://www.youtube.com/watch?v=REvfb0KvU_Y)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=REvfb0KvU_Y
+
 ## News
 
 %%DATAVIEW_PUBLISHER: start
@@ -65,13 +76,23 @@ sort published desc
 ```
 %%
 
-| File                                                                                                                                                                                             | Published         |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
-| [[News/Rocket Lab Schedules First Dedicated Launch for Japan Aerospace Exploration Agency (JAXA).md\|Rocket Lab Schedules First Dedicated Launch for Japan Aerospace Exploration Agency (JAXA)]] | November 24, 2025 |
-| [[News/Rocket Lab Secures Multiple Launches with Japan Aerospace Exploration Agency (JAXA).md\|Rocket Lab Secures Multiple Launches with Japan Aerospace Exploration Agency (JAXA)]]             | October 10, 2025  |
+| File                                                                                                                                                                                                                         | Published         |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[News/Mission Success Rocket Lab Deploys First Dedicated Launch for Japan Aerospace Exploration Agency (JAXA).md\|Mission Success Rocket Lab Deploys First Dedicated Launch for Japan Aerospace Exploration Agency (JAXA)]] | December 14, 2025 |
+| [[News/Rocket Lab Schedules First Dedicated Launch for Japan Aerospace Exploration Agency (JAXA).md\|Rocket Lab Schedules First Dedicated Launch for Japan Aerospace Exploration Agency (JAXA)]]                             | November 24, 2025 |
+| [[News/Rocket Lab Secures Multiple Launches with Japan Aerospace Exploration Agency (JAXA).md\|Rocket Lab Secures Multiple Launches with Japan Aerospace Exploration Agency (JAXA)]]                                         | October 10, 2025  |
 
 %%DATAVIEW_PUBLISHER: end %%
 
+---
+
+![](https://x.com/RocketLab/status/2000040620031922291)
+
+
+![](https://x.com/RocketLab/status/1999950741461754238)
+
+
+![](https://x.com/RocketLab/status/1999241193318940702)
 
 ![](https://x.com/RocketLab/status/1993070286548418678)
 

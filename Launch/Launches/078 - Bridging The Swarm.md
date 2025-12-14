@@ -3,7 +3,7 @@ tags:
   - launch
   - electron
 mission_name: Bridging The Swarm
-launch_date: 2025-12-11 00:45
+launch_date: 2025-12-15 00:45
 outcome: ⌛ (Scrub)
 customer: "[[KAIST]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
@@ -19,7 +19,7 @@ mission_link: https://rocketlabcorp.com/missions/missions-launched/bridging-the-
 
 >[!warning] Mission Pending
 
->[!info] December 10 launch scrubbed - Awaiting new launch window 
+>[!info] December 11 launch scrubbed - Awaiting new launch window 
 
 Electron's 77th mission, ‘Bridging The Swarm’, is scheduled to launch from Rocket Lab Launch Complex 1 in New Zealand during a launch window that opens on December 11 UTC.
 
@@ -54,11 +54,9 @@ x1 [[KAIST#NEONSAT]]
 
 ## Launch Video
 
-![](https://www.youtube.com/watch?v=ntz0PywY25c)
+>[!warning] Coming Soon
 
-🔗 Backup Link: https://www.youtube.com/watch?v=ntz0PywY25c
-
-### Bonus KASA Stream
+### KASA Stream (12-10-25 scrub)
 
 ![](https://www.youtube.com/watch?v=6pVEWdZyCvY)
 

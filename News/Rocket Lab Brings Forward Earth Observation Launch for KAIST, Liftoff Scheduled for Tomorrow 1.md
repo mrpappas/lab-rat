@@ -1,13 +1,13 @@
 ---
-title: "Rocket Lab Brings Forward Earth Observation Launch for KAIST, Liftoff Scheduled for Tomorrow"
-source: "https://rocketlabcorp.com/updates/rocket-lab-brings-forward-earth-observation-launch-for-kaist-liftoff-scheduled-for-tomorrow/"
+title: Rocket Lab Brings Forward Earth Observation Launch for KAIST, Liftoff Scheduled for Tomorrow
+source: https://rocketlabcorp.com/updates/rocket-lab-brings-forward-earth-observation-launch-for-kaist-liftoff-scheduled-for-tomorrow/
 author: "[[Rocket Lab]]"
 published: 2025-12-09
 customer: "[[KAIST]]"
-mission: "[[077 - Bridging The Swarm]]"
-tags: 
-- electron
-- launch
+mission: "[[078 - Bridging The Swarm]]"
+tags:
+  - electron
+  - launch
 ---
 
 https://rocketlabcorp.com/updates/rocket-lab-brings-forward-earth-observation-launch-for-kaist-liftoff-scheduled-for-tomorrow/

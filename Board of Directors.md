@@ -18,7 +18,7 @@ where contains(tags, "board-member")
 | [[Organization/People/Kenneth R. Possenriede.md\|Kenneth R. Possenriede]] | 90,218                                  |
 | [[Organization/People/Matthew Ocko.md\|Matthew Ocko]]                     | 3,388,249                               |
 | [[Organization/People/Merline Saintil.md\|Merline Saintil]]               | 432,275                                 |
-| [[Organization/People/Peter Beck.md\|Peter Beck]]                         | 789,373 (direct), 50,951,250 (indirect) |
 | [[Organization/People/Nina Armagno.md\|Nina Armagno]]                     | 142,294                                 |
+| [[Organization/People/Peter Beck.md\|Peter Beck]]                         | 789,373 (direct), 50,951,250 (indirect) |
 
 %% DATAVIEW_PUBLISHER: end %%

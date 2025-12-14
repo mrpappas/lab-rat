@@ -16,7 +16,7 @@ mission_link: https://rocketlabcorp.com/missions/missions-launched/follow-my-spe
 ---
 [[Home|🏠]]  <span style="color: LightSlateGray">></span> <span class="no-hover">[[Launches]]</span>  <span style="color: LightSlateGray">></span> Follow My Speed
 
->[!success] 076 - Follow My Speed
+>[!success] Mission Success
 
 ‘Follow My Speed’ lifted off at 12:43 UTC on November 20, 2025 to deploy a single satellite for a confidential commercial customer (likely [[BlackSky]]). The mission was Electron's 76th launch to date and 18th this year. 
 

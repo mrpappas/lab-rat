@@ -24,7 +24,7 @@ sort launch_date desc
 
 | File                                                                | Date             | Location                                              | Vehicle                          | Orbit & Mass               | Outcome |
 | ------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | -------------------------- | ------- |
-| [[Launch/Launches/078 - RAISE and Shine.md\|078 - RAISE and Shine]] | 2025-12-12 03:00 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 540 km \| 97.5° \| ~110 kg | ⌛       |
+| [[Launch/Launches/077 - RAISE and Shine.md\|077 - RAISE and Shine]] | 2025-12-14 03:09 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 540 km \| 97.5° \| ~110 kg | ✅       |
 
 %%DATAVIEW_PUBLISHER: end %%
 
@@ -33,7 +33,7 @@ sort launch_date desc
 ### RAISE-4
 
 #### Summary
-RAISE-4 (Rapid Innovative payload demonstration Satellite-4) is a dedicated technology demonstration satellite developed by the Japan Aerospace Exploration Agency (JAXA). It is the primary payload for the Rocket Lab Electron mission, [[078 - RAISE and Shine]], scheduled to launch from [[Launch Complex 1]] in Mahia, New Zealand.
+RAISE-4 (Rapid Innovative payload demonstration Satellite-4) is a dedicated technology demonstration satellite developed by the Japan Aerospace Exploration Agency (JAXA). It is the primary payload for the Rocket Lab Electron mission, [[077 - RAISE and Shine]], scheduled to launch from [[Launch Complex 1]] in Mahia, New Zealand.
 
 This mission is a critical part of JAXA's [Innovative Satellite Technology Demonstration Program](https://www.kenkai.jaxa.jp/eng/research/innovative/innovative.html), which provides on-orbit demonstration opportunities for private companies, universities, and research institutions to test new space components and subsystems. RAISE-4 carries eight distinct technology themes, six of which are re-flights of payloads originally onboard [RAISE-3](https://space.skyrocket.de/doc_sdat/raise-3.htm) (which was lost in an Epsilon launch failure in 2022). The mission marks the first of two dedicated [[Electron]] launches contracted directly by JAXA, with the second scheduled for Q1 2026.
 
@@ -84,7 +84,7 @@ This mission is a critical part of JAXA's [Innovative Satellite Technology Demon
 **Produced By:** [Mach Corporation](https://www.machcorporation.com/eng/index.html)
 **Description**: In-orbit demonstration of next-generation high-performance CMOS image sensor
 ![[Pasted image 20251125013349.png]]
-##### AIRIS
+##### SOISOC-4
 **Produced By:** [Mitsubishi Heavy Industries](https://www.mhi.com/)
 **Description**: On-orbit demonstration of onboard AI object detection and improved detection accuracy using next-generation space MPU
 ![[Pasted image 20251125013402.png]]
@@ -99,9 +99,10 @@ sort published desc
 ```
 %%
 
-| File                                                                                                                                                                                             | Published         |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
-| [[News/Rocket Lab Schedules First Dedicated Launch for Japan Aerospace Exploration Agency (JAXA).md\|Rocket Lab Schedules First Dedicated Launch for Japan Aerospace Exploration Agency (JAXA)]] | November 24, 2025 |
-| [[News/Rocket Lab Secures Multiple Launches with Japan Aerospace Exploration Agency (JAXA).md\|Rocket Lab Secures Multiple Launches with Japan Aerospace Exploration Agency (JAXA)]]             | October 10, 2025  |
+| File                                                                                                                                                                                                                         | Published         |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[News/Mission Success Rocket Lab Deploys First Dedicated Launch for Japan Aerospace Exploration Agency (JAXA).md\|Mission Success Rocket Lab Deploys First Dedicated Launch for Japan Aerospace Exploration Agency (JAXA)]] | December 14, 2025 |
+| [[News/Rocket Lab Schedules First Dedicated Launch for Japan Aerospace Exploration Agency (JAXA).md\|Rocket Lab Schedules First Dedicated Launch for Japan Aerospace Exploration Agency (JAXA)]]                             | November 24, 2025 |
+| [[News/Rocket Lab Secures Multiple Launches with Japan Aerospace Exploration Agency (JAXA).md\|Rocket Lab Secures Multiple Launches with Japan Aerospace Exploration Agency (JAXA)]]                                         | October 10, 2025  |
 
 %%DATAVIEW_PUBLISHER: end %%

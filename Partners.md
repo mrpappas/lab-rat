@@ -10,6 +10,7 @@ sort name asc
 
 | File                                                                                                                                                  | Website                                                                                       |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| [[Organization/Partners/Voyager Space.md\|Voyager Space]]                                                                                             | \-                                                                                            |
 | [[Organization/Partners/Advanced Space.md\|Advanced Space]]                                                                                           | https://advancedspace.com/                                                                    |
 | [[Organization/Partners/Agile Space Industries.md\|Agile Space Industries]]                                                                           | https://agilespaceindustries.com/                                                             |
 | [[Organization/Partners/Airbus.md\|Airbus]]                                                                                                           | https://www.airbus.com/en                                                                     |

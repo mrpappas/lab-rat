@@ -45,6 +45,7 @@ sort launch_date desc
 - **Mission Applications**: High-power payloads (comms, SAR, PNT), vLEO Earth observation, and deep-space operations with high-ΔV capability.  
 
 🔗 https://aerospace.org/disksat
+🔗 https://spacenews.com/disksat-demo-mission/
 
 ![[disksat-deploying-101-3585x2016-1.webp]]
 
