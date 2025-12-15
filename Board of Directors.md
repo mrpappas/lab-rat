@@ -14,8 +14,8 @@ where contains(tags, "board-member")
 | ------------------------------------------------------------------------- | --------------------------------------- |
 | [[Organization/People/Alexander R. Slusky.md\|Alexander R. Slusky]]       | 119,889                                 |
 | [[Organization/People/Edward H. Frank.md\|Edward H. Frank]]               | 146,044                                 |
-| [[Organization/People/Jon A. Olson.md\|Jon A. Olson]]                     | 432,275                                 |
 | [[Organization/People/Kenneth R. Possenriede.md\|Kenneth R. Possenriede]] | 90,218                                  |
+| [[Organization/People/Jon A. Olson.md\|Jon A. Olson]]                     | 432,275                                 |
 | [[Organization/People/Matthew Ocko.md\|Matthew Ocko]]                     | 3,388,249                               |
 | [[Organization/People/Merline Saintil.md\|Merline Saintil]]               | 432,275                                 |
 | [[Organization/People/Nina Armagno.md\|Nina Armagno]]                     | 142,294                                 |

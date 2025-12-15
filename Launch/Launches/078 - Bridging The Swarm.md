@@ -3,8 +3,8 @@ tags:
   - launch
   - electron
 mission_name: Bridging The Swarm
-launch_date: 2025-12-15 00:45
-outcome: ⌛ (Scrub)
+launch_date: 2025-12-16 00:55
+outcome: ⌛
 customer: "[[KAIST]]"
 location: "[[Launch Complex 1#Launch Pad A|LC1-A]]"
 vehicle: "[[Electron]]"
@@ -19,9 +19,9 @@ mission_link: https://rocketlabcorp.com/missions/missions-launched/bridging-the-
 
 >[!warning] Mission Pending
 
->[!info] December 11 launch scrubbed - Awaiting new launch window 
+>[!info] December 11 launch scrubbed
 
-Electron's 77th mission, ‘Bridging The Swarm’, is scheduled to launch from Rocket Lab Launch Complex 1 in New Zealand during a launch window that opens on December 11 UTC.
+Electron's 78th mission, ‘Bridging The Swarm’, is scheduled to launch from Rocket Lab Launch Complex 1 in New Zealand during a launch window that opens on December 16 UTC.
 
 ‘Bridging The Swarm’ is a dedicated launch for the [Satellite Technology Research Center (SaTReC)](https://satrec.kaist.ac.kr/e_01_01.php) at the Korea Advanced Institute of Science and Technology ([[KAIST]]), Korea’s leading university dedicated to science and technology. The mission will deploy NEONSAT-1A, an advanced Earth observation satellite equipped with a high-resolution optical camera. 
 
@@ -32,7 +32,7 @@ Designed to capture near-real time natural disaster monitoring for the Korean pe
 
 | **Mission Name** | Bridging The Swarm                                                                             |
 | ---------------- | ---------------------------------------------------------------------------------------------- |
-| **Launch Date**  | 2025-12-11 00:45 UTC (Awaiting new window)                                                     |
+| **Launch Date**  | 2025-12-16 00:55                                                                               |
 | **Outcome**      | ⌛ Pending                                                                                      |
 | **Customer**     | [[KAIST]]                                                                                      |
 | **Location**     | [[Launch Complex 1#Launch Pad A]]                                                              |
@@ -54,7 +54,15 @@ x1 [[KAIST#NEONSAT]]
 
 ## Launch Video
 
->[!warning] Coming Soon
+![](https://www.youtube.com/watch?v=kBMyFpB9GPI)
+
+🔗 Backup Link: https://www.youtube.com/watch?v=kBMyFpB9GPI
+
+### KASA Stream
+
+![](https://www.youtube.com/live/ALYG_aVaKp8)
+
+🔗 Backup Link: https://www.youtube.com/live/ALYG_aVaKp8
 
 ### KASA Stream (12-10-25 scrub)
 
