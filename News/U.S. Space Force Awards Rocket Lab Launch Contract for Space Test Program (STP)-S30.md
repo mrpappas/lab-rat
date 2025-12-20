@@ -5,12 +5,13 @@ author:
   - "[[Rocket Lab]]"
 published: 2024-04-08
 description: The mission will be Rocket Lab’s third for the U.S. Space Force, further strengthening Electron’s position as the leading small launch vehicle delivering reliable and responsive launch to the DoD.
-customer: "[[U.S. Space Force]]"
-partner: "[[Organization/Partners/The Aerospace Corporation]]"
+customer: 
+ - "[[U.S. Space Force]]"
+ - "[[The Aerospace Corporation]]"
 contract: "[[Orbital Services Program 4]]"
-mission: 
- - "[[STP-S30]]"
- - "[[079 - AVALANCHE (STP-S30)]]"
+mission:
+  - "[[STP-S30]]"
+  - "[[078 - Don't Be Such A Square]]"
 tags:
   - electron
   - contract

@@ -22,7 +22,7 @@ sort launch_date desc
 
 | File                                                                                        | Date             | Location                                               | Vehicle                          | Orbit & Mass             | Outcome |
 | ------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------------ | -------------------------------- | ------------------------ | ------- |
-| [[Launch/Launches/079 - AVALANCHE (STP-S30).md\|079 - AVALANCHE (STP-S30)]]                 | 2025-12-18 10:00 | [[Locations/Launch Complex 2.md#Launch Pad 0C\|LC2-0]] | [[Launch/Electron.md\|Electron]] | Unknown \| Unknown       | ⌛       |
+| [[Launch/Launches/078 - Don't Be Such A Square.md\|078 - Don't Be Such A Square]]           | 2025-12-18 05:00 | [[Locations/Launch Complex 2.md#Launch Pad 0C\|LC2-0]] | [[Launch/Electron.md\|Electron]] | 550 km \| 45° \| Unknown | ✅       |
 | [[Launch/Launches/021 - It's A Little Chile Up Here.md\|021 - It's A Little Chile Up Here]] | 2021-07-29 06:00 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]]  | [[Launch/Electron.md\|Electron]] | 600 km \| 37° \| Unknown | ✅       |
 
 %%DATAVIEW_PUBLISHER: end %%
@@ -39,6 +39,8 @@ sort published desc
 
 | File                                                                                                                                                                                                                                                                 | Published          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[News/Rocket Lab Executes Successful Launch of STP-S30 Mission for the Department of War.md\|Rocket Lab Executes Successful Launch of STP-S30 Mission for the Department of War]]                                                                                   | December 18, 2025  |
+| [[News/Rocket Lab Schedules Launch for U.S. Space Force’s STP-S30 Mission, Brings Launch Forward By Several Months.md\|Rocket Lab Schedules Launch for U.S. Space Force’s STP-S30 Mission, Brings Launch Forward By Several Months]]                                 | December 16, 2025  |
 | [[News/Rocket Lab Clears Integration Milestone for VICTUS HAZE, Delivering End-to-End Capabilities for Responsive Space Operations.md\|Rocket Lab Clears Integration Milestone for VICTUS HAZE, Delivering End-to-End Capabilities for Responsive Space Operations]] | August 06, 2025    |
 | [[News/Rocket Lab’s Neutron Rocket On-Ramped to U.S. Space Force’s $5.6b National Security Space Launch (NSSL) program.md\|Rocket Lab’s Neutron Rocket On-Ramped to U.S. Space Force’s $5.6b National Security Space Launch (NSSL) program]]                         | March 27, 2025     |
 | [[News/Rocket Lab Clears Critical Design Review for Space Force VICTUS HAZE Mission.md\|Rocket Lab Clears Critical Design Review for Space Force VICTUS HAZE Mission]]                                                                                               | February 24, 2025  |

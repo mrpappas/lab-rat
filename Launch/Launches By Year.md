@@ -1,7 +1,7 @@
 [[Home|🏠]]  <span style="color: LightSlateGray">></span> [[Launches]] <span style="color: LightSlateGray">></span> Launches By Year
 ## 2025
 
-**Launches So Far**: 18
+**Launches So Far**: 20
 **Success Rate**: 100%
 
 %% DATAVIEW_PUBLISHER: start
@@ -21,8 +21,8 @@ SORT launch_date DESC
 
 | Launch                                                                                            | Customer                                                                                                                                                                      | Date (UTC) | Vehicle                          | Orbit & Mass                | Outcome |
 | ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | -------------------------------- | --------------------------- | ------- |
-| [[Launch/Launches/079 - AVALANCHE (STP-S30).md\|079 - AVALANCHE (STP-S30)]]                       | <ul><li>[[Organization/Partners/U.S. Space Force.md\|U.S. Space Force]]</li><li>[[Organization/Partners/The Aerospace Corporation.md\|The Aerospace Corporation]]</li></ul> | 2025-12-18 | [[Launch/Electron.md\|Electron]] | Unknown \| Unknown          | ⌛       |
-| [[Launch/Launches/078 - Bridging The Swarm.md\|078 - Bridging The Swarm]]                         | [[Organization/Partners/KAIST.md\|KAIST]]                                                                                                                                     | 2025-12-16 | [[Launch/Electron.md\|Electron]] | 540 km \| 97.4° \| < 100 kg | ⌛       |
+| [[Launch/Launches/079 - The Wisdom God Guides.md\|079 - The Wisdom God Guides]]                   | [[Organization/Partners/iQPS.md\|iQPS]]                                                                                                                                       | 2025-12-21 | [[Launch/Electron.md\|Electron]] | 575 km \| 42° \| 100 kg     | ⌛       |
+| [[Launch/Launches/078 - Don't Be Such A Square.md\|078 - Don't Be Such A Square]]                 | <ul><li>[[Organization/Partners/U.S. Space Force.md\|U.S. Space Force]]</li><li>[[Organization/Partners/The Aerospace Corporation.md\|The Aerospace Corporation]]</li></ul> | 2025-12-18 | [[Launch/Electron.md\|Electron]] | 550 km \| 45° \| Unknown    | ✅       |
 | [[Launch/Launches/077 - RAISE and Shine.md\|077 - RAISE and Shine]]                               | [[Organization/Partners/JAXA.md\|JAXA]]                                                                                                                                       | 2025-12-14 | [[Launch/Electron.md\|Electron]] | 540 km \| 97.5° \| ~110 kg  | ✅       |
 | [[Launch/Launches/076 - Follow My Speed.md\|076 - Follow My Speed]]                               | [[Organization/Partners/BlackSky.md\|BlackSky]]                                                                                                                               | 2025-11-20 | [[Launch/Electron.md\|Electron]] | 470 km \| 42° \| 138 kg     | ✅       |
 | [[Launch/Launches/075 - Prometheus Run.md\|075 - Prometheus Run]]                                 | [[Organization/Partners/Missile Defense Agency.md\|Missile Defense Agency]]                                                                                                   | 2025-11-18 | [[Launch/HASTE.md\|HASTE]]       | Suborbital \| unknown       | ✅       |

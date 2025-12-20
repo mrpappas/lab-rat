@@ -4,7 +4,7 @@ source: https://rocketlabcorp.com/updates/rocket-lab-brings-forward-earth-observ
 author: "[[Rocket Lab]]"
 published: 2025-12-09
 customer: "[[KAIST]]"
-mission: "[[078 - Bridging The Swarm]]"
+mission: "[[080 - Bridging The Swarm]]"
 tags:
   - electron
   - launch

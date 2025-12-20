@@ -20,7 +20,7 @@ Also See: https://ntrs.nasa.gov/api/citations/20250009604/downloads/RHUNTER-2025
 
 - **Vehicle**: Rocket Lab [[Electron]]  
 - **Location**: [[Launch Complex 2]]  
-- **Timeline**: NET December 8 2025 [Source](https://ntrs.nasa.gov/api/citations/20250009604/downloads/RHUNTER-2025-IPRAAC-OCT7-FINAL.pdf)
+- **Timeline**: NET December 18 2025 [Source](https://ntrs.nasa.gov/api/citations/20250009604/downloads/RHUNTER-2025-IPRAAC-OCT7-FINAL.pdf)
 ## Payload
 
 x4 [[Organization/Partners/The Aerospace Corporation#DiskSat|DiskSat]] Satellites

@@ -33,7 +33,7 @@ mission_link: https://rocketlabcorp.com/missions/missions-launched/the-nation-go
 | **Target Orbit** | 575 km \| 42°                                                                                              |
 | Achieved Orbit   | 568 x 582 km \| 42.00°                                                                                     |
 | **Payload Mass** | 100 kg                                                                                                     |
-| **Recovery**     | No Attempt Likely                                                                                          |
+| **Recovery**     | No Attempt                                                                                                 |
 | **Mission Link** | [The Nation God Navigates](https://rocketlabcorp.com/missions/missions-launched/the-nation-god-navigates/) |
 | **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/RL-F74-The-Nation-God-Navigates-Presskit.pdf)     |
 
