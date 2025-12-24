@@ -21,9 +21,9 @@ sort launch_date desc
 ```
 %%
 
-| File                                                              | Date             | Location                                              | Vehicle                          | Orbit & Mass               | Outcome |
-| ----------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | -------------------------- | ------- |
-| [[Launch/Launches/039 - Baby Come Back.md\|039 - Baby Come Back]] | 2023-07-18 01:27 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 1000 km \| 99.45° \| 86 kg | ✅       |
+| File                                                              | Date             | Location                                              | Vehicle                                                 | Orbit & Mass               | Outcome |
+| ----------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | ------------------------------------------------------- | -------------------------- | ------- |
+| [[Launch/Launches/039 - Baby Come Back.md\|039 - Baby Come Back]] | 2023-07-18 01:27 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Space Systems/Launch Vehicles/Electron.md\|Electron]] | 1000 km \| 99.45° \| 86 kg | ✅       |
 
 %%DATAVIEW_PUBLISHER: end %%
 

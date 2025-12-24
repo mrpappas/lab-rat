@@ -22,9 +22,9 @@ sort launch_date desc
 ```
 %%
 
-| File                                                                | Date             | Location                                              | Vehicle                          | Orbit & Mass               | Outcome |
-| ------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | -------------------------- | ------- |
-| [[Launch/Launches/077 - RAISE and Shine.md\|077 - RAISE and Shine]] | 2025-12-14 03:09 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 540 km \| 97.5° \| ~110 kg | ✅       |
+| File                                                                | Date             | Location                                              | Vehicle                                                 | Orbit & Mass               | Outcome |
+| ------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | ------------------------------------------------------- | -------------------------- | ------- |
+| [[Launch/Launches/077 - RAISE and Shine.md\|077 - RAISE and Shine]] | 2025-12-14 03:09 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Space Systems/Launch Vehicles/Electron.md\|Electron]] | 540 km \| 97.5° \| ~110 kg | ✅       |
 
 %%DATAVIEW_PUBLISHER: end %%
 

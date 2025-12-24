@@ -20,9 +20,9 @@ sort launch_date desc
 ```
 %%
 
-| File                                                            | Date             | Location                                               | Vehicle                    | Orbit & Mass          | Outcome |
-| --------------------------------------------------------------- | ---------------- | ------------------------------------------------------ | -------------------------- | --------------------- | ------- |
-| [[Launch/Launches/038 - Scout's Arrow.md\|038 - Scout's Arrow]] | 2023-06-18 01:24 | [[Locations/Launch Complex 2.md#Launch Pad 0C\|LC2-0]] | [[Launch/HASTE.md\|HASTE]] | Suborbital \| unknown | ✅       |
+| File                                                            | Date             | Location                                               | Vehicle                                           | Orbit & Mass          | Outcome |
+| --------------------------------------------------------------- | ---------------- | ------------------------------------------------------ | ------------------------------------------------- | --------------------- | ------- |
+| [[Launch/Launches/038 - Scout's Arrow.md\|038 - Scout's Arrow]] | 2023-06-18 01:24 | [[Locations/Launch Complex 2.md#Launch Pad 0C\|LC2-0]] | [[Space Systems/Launch Vehicles/HASTE.md\|HASTE]] | Suborbital \| unknown | ✅       |
 
 %%DATAVIEW_PUBLISHER: end %%
 

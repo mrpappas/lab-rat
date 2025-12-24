@@ -22,9 +22,9 @@ sort launch_date desc
 ```
 %%
 
-| File                                                                          | Date             | Location                                              | Vehicle                          | Orbit & Mass             | Outcome |
-| ----------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | ------------------------ | ------- |
-| [[Launch/Launches/026 - There And Back Again.md\|026 - There And Back Again]] | 2022-05-02 22:49 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 520 km \| 94° \| Unknown | ✅       |
+| File                                                                          | Date             | Location                                              | Vehicle                                                 | Orbit & Mass             | Outcome |
+| ----------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | ------------------------------------------------------- | ------------------------ | ------- |
+| [[Launch/Launches/026 - There And Back Again.md\|026 - There And Back Again]] | 2022-05-02 22:49 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Space Systems/Launch Vehicles/Electron.md\|Electron]] | 520 km \| 94° \| Unknown | ✅       |
 
 %%DATAVIEW_PUBLISHER: end %%
 

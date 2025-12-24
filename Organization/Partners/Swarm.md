@@ -21,9 +21,9 @@ sort launch_date desc
 ```
 %%
 
-| File                                                                  | Date             | Location                                              | Vehicle                          | Orbit & Mass              | Outcome |
-| --------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------- | ------------------------- | ------- |
-| [[Launch/Launches/016 - Return to Sender.md\|016 - Return to Sender]] | 2020-11-20 02:20 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 500 km \| 97.3° \| 200 kg | ✅       |
+| File                                                                  | Date             | Location                                              | Vehicle                                                 | Orbit & Mass              | Outcome |
+| --------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | ------------------------------------------------------- | ------------------------- | ------- |
+| [[Launch/Launches/016 - Return to Sender.md\|016 - Return to Sender]] | 2020-11-20 02:20 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Space Systems/Launch Vehicles/Electron.md\|Electron]] | 500 km \| 97.3° \| 200 kg | ✅       |
 
 %%DATAVIEW_PUBLISHER: end %%
 

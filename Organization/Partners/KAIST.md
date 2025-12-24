@@ -23,10 +23,10 @@ sort launch_date desc
 ```
 %%
 
-| File                                                                              | Date                | Location                                              | Vehicle                          | Orbit & Mass                                       | Outcome   |
-| --------------------------------------------------------------------------------- | ------------------- | ----------------------------------------------------- | -------------------------------- | -------------------------------------------------- | --------- |
-| [[Launch/Launches/047 - Beginning Of The Swarm.md\|047 - Beginning Of The Swarm]] | 2024-04-23 22:00    | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Launch/Electron.md\|Electron]] | 520 km (Neonsat-1), 1,000 km (ACS3), 97° \| 115 kg | ✅         |
-| [[Launch/Launches/080 - Bridging The Swarm.md\|080 - Bridging The Swarm]]         | 0000-00-00 00:00:00 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Launch/Electron.md\|Electron]] | 540 km \| 97.4° \| < 100 kg                        | ⌛ (scrub) |
+| File                                                                              | Date                | Location                                              | Vehicle                                                 | Orbit & Mass                                       | Outcome   |
+| --------------------------------------------------------------------------------- | ------------------- | ----------------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------- | --------- |
+| [[Launch/Launches/047 - Beginning Of The Swarm.md\|047 - Beginning Of The Swarm]] | 2024-04-23 22:00    | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Space Systems/Launch Vehicles/Electron.md\|Electron]] | 520 km (Neonsat-1), 1,000 km (ACS3), 97° \| 115 kg | ✅         |
+| [[Launch/Launches/080 - Bridging The Swarm.md\|080 - Bridging The Swarm]]         | 0000-00-00 00:00:00 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Space Systems/Launch Vehicles/Electron.md\|Electron]] | 540 km \| 97.4° \| < 100 kg                        | ⌛ (scrub) |
 
 %%DATAVIEW_PUBLISHER: end %%
 
