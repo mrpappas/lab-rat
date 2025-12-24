@@ -22,13 +22,13 @@ sort launch_date desc
 ```
 %%
 
-| File                                                                          | Date             | Location                                               | Vehicle                                                 | Orbit & Mass                         | Outcome |
-| ----------------------------------------------------------------------------- | ---------------- | ------------------------------------------------------ | ------------------------------------------------------- | ------------------------------------ | ------- |
-| [[Launch/Launches/046 - Live And Let Fly.md\|046 - Live And Let Fly]]         | 2024-03-21 06:40 | [[Locations/Launch Complex 2.md#Launch Pad 0C\|LC2-0]] | [[Space Systems/Launch Vehicles/Electron.md\|Electron]] | Classified \| Classified             | ✅       |
-| [[Launch/Launches/029 - Antipodean Adventure.md\|029 - Antipodean Adventure]] | 2022-08-04 05:00 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]]  | [[Space Systems/Launch Vehicles/Electron.md\|Electron]] | 620 km \| 70° \| Classified          | ✅       |
-| [[Launch/Launches/028 - Wise One Looks Ahead.md\|028 - Wise One Looks Ahead]] | 2022-07-13 06:30 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]]  | [[Space Systems/Launch Vehicles/Electron.md\|Electron]] | 620 km \| 40° \| Classified          | ✅       |
-| [[Launch/Launches/012 - Don't Stop Me Now.md\|012 - Don't Stop Me Now]]       | 2020-06-13 05:12 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]]  | [[Space Systems/Launch Vehicles/Electron.md\|Electron]] | 570 x 590 km \| 97.75° \| Classified | ✅       |
-| [[Launch/Launches/011 - Birds of a Feather.md\|011 - Birds of a Feather]]     | 2020-01-31 02:56 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]]  | [[Space Systems/Launch Vehicles/Electron.md\|Electron]] | 400 km \| 37° \| Classified          | ✅       |
+| File                                                                          | Date             | Location                                               | Vehicle                                            | Orbit & Mass                         | Outcome |
+| ----------------------------------------------------------------------------- | ---------------- | ------------------------------------------------------ | -------------------------------------------------- | ------------------------------------ | ------- |
+| [[Launch/Launches/046 - Live And Let Fly.md\|046 - Live And Let Fly]]         | 2024-03-21 06:40 | [[Locations/Launch Complex 2.md#Launch Pad 0C\|LC2-0]] | [[Hardware/Launch Vehicles/Electron.md\|Electron]] | Classified \| Classified             | ✅       |
+| [[Launch/Launches/029 - Antipodean Adventure.md\|029 - Antipodean Adventure]] | 2022-08-04 05:00 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]]  | [[Hardware/Launch Vehicles/Electron.md\|Electron]] | 620 km \| 70° \| Classified          | ✅       |
+| [[Launch/Launches/028 - Wise One Looks Ahead.md\|028 - Wise One Looks Ahead]] | 2022-07-13 06:30 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]]  | [[Hardware/Launch Vehicles/Electron.md\|Electron]] | 620 km \| 40° \| Classified          | ✅       |
+| [[Launch/Launches/012 - Don't Stop Me Now.md\|012 - Don't Stop Me Now]]       | 2020-06-13 05:12 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]]  | [[Hardware/Launch Vehicles/Electron.md\|Electron]] | 570 x 590 km \| 97.75° \| Classified | ✅       |
+| [[Launch/Launches/011 - Birds of a Feather.md\|011 - Birds of a Feather]]     | 2020-01-31 02:56 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]]  | [[Hardware/Launch Vehicles/Electron.md\|Electron]] | 400 km \| 37° \| Classified          | ✅       |
 
 %%DATAVIEW_PUBLISHER: end %%
 

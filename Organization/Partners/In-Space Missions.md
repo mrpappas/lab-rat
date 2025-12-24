@@ -20,9 +20,9 @@ sort launch_date desc
 ```
 %%
 
-| File                                                                                  | Date             | Location                                              | Vehicle                                                 | Orbit & Mass             | Outcome |
-| ------------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | ------------------------------------------------------- | ------------------------ | ------- |
-| [[Launch/Launches/013 - Pics Or It Didn't Happen.md\|013 - Pics Or It Didn't Happen]] | 2020-07-04 21:19 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Space Systems/Launch Vehicles/Electron.md\|Electron]] | 500 km \| 97.5° \| 75 kg | ❌       |
+| File                                                                                  | Date             | Location                                              | Vehicle                                            | Orbit & Mass             | Outcome |
+| ------------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------------------------- | ------------------------ | ------- |
+| [[Launch/Launches/013 - Pics Or It Didn't Happen.md\|013 - Pics Or It Didn't Happen]] | 2020-07-04 21:19 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Hardware/Launch Vehicles/Electron.md\|Electron]] | 500 km \| 97.5° \| 75 kg | ❌       |
 
 %%DATAVIEW_PUBLISHER: end %%
 

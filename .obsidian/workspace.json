@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Space Systems/Launch Vehicles/Electron.md",
+                "file": "Hardware/⚖️ NASA Mission and Instrument Risk Classification.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Electron"
+              "title": "⚖️ NASA Mission and Instrument Risk Classification"
             }
           }
         ]
@@ -197,10 +197,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "581793ba6e53cf14",
+  "active": "9ce84aa0090d3ac4",
   "lastOpenFiles": [
+    "Hardware/📦 Payload Types.md",
+    "Hardware/⚖️ NASA Mission and Instrument Risk Classification.md",
+    "Hardware/Launch Vehicles/Electron.md",
     "Launch/Launches/079 - The Wisdom God Guides.md",
-    "Space Systems/Launch Vehicles",
+    "Hardware/Launch Vehicles",
     "News/Rocket Lab Successfully Launches for iQPS, Ends 2025 with 21 Launches and 100% Mission Succes.md",
     "Launch/Launches/080 - Bridging The Swarm.md",
     "Launches.md",
@@ -213,20 +216,18 @@
     "Launch/Launches/075 - Prometheus Run.md",
     "Launch/Launches/074 - The Nation God Navigates.md",
     "News/Rocket Lab Schedules Launch for U.S. Space Force’s STP-S30 Mission, Brings Launch Forward By Several Months.md",
-    "Space Systems/Propulsion/Rutherford.md",
+    "Hardware/Propulsion/Rutherford.md",
     "Launch/Launches/001 - It's a Test.md",
     "Organization/Partners/iQPS.md",
-    "Space Systems/Spacecraft/Explorer.md",
-    "Space Systems/Spacecraft/Flatellite.md",
+    "Hardware/Spacecraft/Explorer.md",
+    "Hardware/Spacecraft/Flatellite.md",
     "Missions/ESCAPADE.md",
     "Home.md",
     "News/Rocket Lab Executes Successful Launch of STP-S30 Mission for the Department of War.md",
     "News.md",
     "Vault-Assets/Images/Pasted image 20251220111307.png",
     "Pasted image 20251220111250.png",
-    "Space Systems/Launch Vehicles/HASTE.md",
-    "Organization/Partners/Voyager Space.md",
-    "Organization/Partners/The Aerospace Corporation.md",
+    "Hardware/Launch Vehicles/HASTE.md",
     "Vault-Assets/Images/Pasted image 20251216194804.png",
     "Vault-Assets/Images/Pasted image 20251124181149.png",
     "Vault-Assets/Images/Pasted image 20251212184256.png",

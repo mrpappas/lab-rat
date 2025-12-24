@@ -20,10 +20,10 @@ sort launch_date desc
 ```
 %%
 
-| File                                                                                        | Date             | Location                                               | Vehicle                                                 | Orbit & Mass             | Outcome |
-| ------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------------ | ------------------------------------------------------- | ------------------------ | ------- |
-| [[Launch/Launches/078 - Don't Be Such A Square.md\|078 - Don't Be Such A Square]]           | 2025-12-18 05:00 | [[Locations/Launch Complex 2.md#Launch Pad 0C\|LC2-0]] | [[Space Systems/Launch Vehicles/Electron.md\|Electron]] | 550 km \| 45° \| Unknown | ✅       |
-| [[Launch/Launches/021 - It's A Little Chile Up Here.md\|021 - It's A Little Chile Up Here]] | 2021-07-29 06:00 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]]  | [[Space Systems/Launch Vehicles/Electron.md\|Electron]] | 600 km \| 37° \| Unknown | ✅       |
+| File                                                                                        | Date             | Location                                               | Vehicle                                            | Orbit & Mass             | Outcome |
+| ------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------------ | -------------------------------------------------- | ------------------------ | ------- |
+| [[Launch/Launches/078 - Don't Be Such A Square.md\|078 - Don't Be Such A Square]]           | 2025-12-18 05:00 | [[Locations/Launch Complex 2.md#Launch Pad 0C\|LC2-0]] | [[Hardware/Launch Vehicles/Electron.md\|Electron]] | 550 km \| 45° \| Unknown | ✅       |
+| [[Launch/Launches/021 - It's A Little Chile Up Here.md\|021 - It's A Little Chile Up Here]] | 2021-07-29 06:00 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]]  | [[Hardware/Launch Vehicles/Electron.md\|Electron]] | 600 km \| 37° \| Unknown | ✅       |
 
 %%DATAVIEW_PUBLISHER: end %%
 

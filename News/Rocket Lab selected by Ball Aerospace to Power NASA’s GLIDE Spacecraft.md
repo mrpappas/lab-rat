@@ -32,7 +32,7 @@ tags:
 
 June 9, 2022--LONG BEACH, Calif.\--Rocket Lab USA, Inc. (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a leading launch and space systems company, has been selected by Ball Aerospace to manufacture the Solar Array Panel (SAP) to power NASA’s Global Lyman-Alpha Imager of Dynamic Exosphere (GLIDE) mission spacecraft planned to launch in 2025. GLIDE is a heliophysics mission intended to study variability in Earth’s atmosphere.
 
-The SAP will utilize [[SolAero Technologies|SolAero]] by Rocket Lab’s high-efficiency, radiation-hardened, quadruple-junction [[Z4J solar cell]]s, laid down on carbon composite facesheet panels manufactured at the company’s facilities in Albuquerque, New Mexico.
+The SAP will utilize [[SolAero Technologies|SolAero]] by Rocket Lab’s high-efficiency, radiation-hardened, quadruple-junction [[Z4J Solar Cell]]s, laid down on carbon composite facesheet panels manufactured at the company’s facilities in Albuquerque, New Mexico.
 
 The GLIDE spacecraft will launch with another Rocket Lab-powered spacecraft, also built by Ball Aerospace, the National Oceanic and Atmospheric Administration’s (NOAA’s) Space Weather Follow On-Lagrange 1 (SWFO-L1). SWFO-L1 is a heliophysics mission that will collect solar wind data and coronal imagery to meet NOAA’s operational requirements to monitor and forecast solar storm activity.
 

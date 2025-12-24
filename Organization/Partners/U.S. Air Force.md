@@ -21,10 +21,10 @@ sort launch_date desc
 ```
 %%
 
-| File                                                                    | Date             | Location                                              | Vehicle                                                 | Orbit & Mass             | Outcome |
-| ----------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | ------------------------------------------------------- | ------------------------ | ------- |
-| [[Launch/Launches/008 - Look Ma, No Hands.md\|008 - Look Ma, No Hands]] | 2019-08-19 12:12 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Space Systems/Launch Vehicles/Electron.md\|Electron]] | 510 km \| 94.8° \| 80 kg | ✅       |
-| [[Launch/Launches/006 - STP-27RD.md\|006 - STP-27RD]]                   | 2019-05-05 06:00 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Space Systems/Launch Vehicles/Electron.md\|Electron]] | 500 km \| 40° \| 180 kg  | ✅       |
+| File                                                                    | Date             | Location                                              | Vehicle                                            | Orbit & Mass             | Outcome |
+| ----------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------------------------- | ------------------------ | ------- |
+| [[Launch/Launches/008 - Look Ma, No Hands.md\|008 - Look Ma, No Hands]] | 2019-08-19 12:12 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Hardware/Launch Vehicles/Electron.md\|Electron]] | 510 km \| 94.8° \| 80 kg | ✅       |
+| [[Launch/Launches/006 - STP-27RD.md\|006 - STP-27RD]]                   | 2019-05-05 06:00 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Hardware/Launch Vehicles/Electron.md\|Electron]] | 500 km \| 40° \| 180 kg  | ✅       |
 
 %%DATAVIEW_PUBLISHER: end %%
 

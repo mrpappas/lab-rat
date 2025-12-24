@@ -24,9 +24,9 @@ sort launch_date desc
 ```
 %%
 
-| File                                                                                              | Date             | Location                                              | Vehicle                                                 | Orbit & Mass             | Outcome |
-| ------------------------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | ------------------------------------------------------- | ------------------------ | ------- |
-| [[Launch/Launches/063 - Finding Hot Wildfires Near You.md\|063 - Finding Hot Wildfires Near You]] | 2025-03-26 15:30 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Space Systems/Launch Vehicles/Electron.md\|Electron]] | 550 km \| 97° \| Unknown | ✅       |
+| File                                                                                              | Date             | Location                                              | Vehicle                                            | Orbit & Mass             | Outcome |
+| ------------------------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------------------------- | ------------------------ | ------- |
+| [[Launch/Launches/063 - Finding Hot Wildfires Near You.md\|063 - Finding Hot Wildfires Near You]] | 2025-03-26 15:30 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Hardware/Launch Vehicles/Electron.md\|Electron]] | 550 km \| 97° \| Unknown | ✅       |
 
 %%DATAVIEW_PUBLISHER: end %%
 

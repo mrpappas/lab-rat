@@ -21,10 +21,10 @@ sort launch_date desc
 ```
 %%
 
-| File                                                                                            | Date             | Location                                               | Vehicle                                                 | Orbit & Mass                | Outcome |
-| ----------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------------ | ------------------------------------------------------- | --------------------------- | ------- |
-| [[Launch/Launches/067 - Get The Hawk Outta Here.md\|067 - Get The Hawk Outta Here]]             | 2025-06-26 17:00 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC-1A]]  | [[Space Systems/Launch Vehicles/Electron.md\|Electron]] | 520 km \| 97.45° \| Unknown | ✅       |
-| [[Launch/Launches/033 - Virginia is for Launch Lovers.md\|033 - Virginia is for Launch Lovers]] | 2023-01-24 23:00 | [[Locations/Launch Complex 2.md#Launch Pad 0C\|LC2-0]] | [[Space Systems/Launch Vehicles/Electron.md\|Electron]] | 550 km \| 40.5° \| 40 kg    | ✅       |
+| File                                                                                            | Date             | Location                                               | Vehicle                                            | Orbit & Mass                | Outcome |
+| ----------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------------ | -------------------------------------------------- | --------------------------- | ------- |
+| [[Launch/Launches/067 - Get The Hawk Outta Here.md\|067 - Get The Hawk Outta Here]]             | 2025-06-26 17:00 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC-1A]]  | [[Hardware/Launch Vehicles/Electron.md\|Electron]] | 520 km \| 97.45° \| Unknown | ✅       |
+| [[Launch/Launches/033 - Virginia is for Launch Lovers.md\|033 - Virginia is for Launch Lovers]] | 2023-01-24 23:00 | [[Locations/Launch Complex 2.md#Launch Pad 0C\|LC2-0]] | [[Hardware/Launch Vehicles/Electron.md\|Electron]] | 550 km \| 40.5° \| 40 kg    | ✅       |
 
 %%DATAVIEW_PUBLISHER: end %%
 ## Space Systems

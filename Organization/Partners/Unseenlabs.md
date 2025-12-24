@@ -22,11 +22,11 @@ sort launch_date desc
 ```
 %%
 
-| File                                                                          | Date             | Location                                              | Vehicle                                                 | Orbit & Mass              | Outcome |
-| ----------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | ------------------------------------------------------- | ------------------------- | ------- |
-| [[Launch/Launches/026 - There And Back Again.md\|026 - There And Back Again]] | 2022-05-02 22:49 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Space Systems/Launch Vehicles/Electron.md\|Electron]] | 520 km \| 94° \| Unknown  | ✅       |
-| [[Launch/Launches/016 - Return to Sender.md\|016 - Return to Sender]]         | 2020-11-20 02:20 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Space Systems/Launch Vehicles/Electron.md\|Electron]] | 500 km \| 97.3° \| 200 kg | ✅       |
-| [[Launch/Launches/008 - Look Ma, No Hands.md\|008 - Look Ma, No Hands]]       | 2019-08-19 12:12 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Space Systems/Launch Vehicles/Electron.md\|Electron]] | 510 km \| 94.8° \| 80 kg  | ✅       |
+| File                                                                          | Date             | Location                                              | Vehicle                                            | Orbit & Mass              | Outcome |
+| ----------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------------------------- | ------------------------- | ------- |
+| [[Launch/Launches/026 - There And Back Again.md\|026 - There And Back Again]] | 2022-05-02 22:49 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Hardware/Launch Vehicles/Electron.md\|Electron]] | 520 km \| 94° \| Unknown  | ✅       |
+| [[Launch/Launches/016 - Return to Sender.md\|016 - Return to Sender]]         | 2020-11-20 02:20 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Hardware/Launch Vehicles/Electron.md\|Electron]] | 500 km \| 97.3° \| 200 kg | ✅       |
+| [[Launch/Launches/008 - Look Ma, No Hands.md\|008 - Look Ma, No Hands]]       | 2019-08-19 12:12 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Hardware/Launch Vehicles/Electron.md\|Electron]] | 510 km \| 94.8° \| 80 kg  | ✅       |
 
 %%DATAVIEW_PUBLISHER: end %%
 

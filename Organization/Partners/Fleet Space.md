@@ -22,10 +22,10 @@ sort launch_date desc
 ```
 %%
 
-| File                                                                      | Date             | Location                                              | Vehicle                                                 | Orbit & Mass                        | Outcome |
-| ------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | ------------------------------------------------------- | ----------------------------------- | ------- |
-| [[Launch/Launches/019 - They Go Up So Fast.md\|019 - They Go Up So Fast]] | 2021-03-22 22:30 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Space Systems/Launch Vehicles/Electron.md\|Electron]] | 450 km and 550 km \| 45° \| Unknown | ✅       |
-| [[Launch/Launches/003 - It's Business Time.md\|003 - It's Business Time]] | 2018-11-11 03:50 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Space Systems/Launch Vehicles/Electron.md\|Electron]] | 500 km \| 85° \| 45 kg              | ✅       |
+| File                                                                      | Date             | Location                                              | Vehicle                                            | Orbit & Mass                        | Outcome |
+| ------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------------------------- | ----------------------------------- | ------- |
+| [[Launch/Launches/019 - They Go Up So Fast.md\|019 - They Go Up So Fast]] | 2021-03-22 22:30 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Hardware/Launch Vehicles/Electron.md\|Electron]] | 450 km and 550 km \| 45° \| Unknown | ✅       |
+| [[Launch/Launches/003 - It's Business Time.md\|003 - It's Business Time]] | 2018-11-11 03:50 | [[Locations/Launch Complex 1.md#Launch Pad A\|LC1-A]] | [[Hardware/Launch Vehicles/Electron.md\|Electron]] | 500 km \| 85° \| 45 kg              | ✅       |
 
 %%DATAVIEW_PUBLISHER: end %%
 

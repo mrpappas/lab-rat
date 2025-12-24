@@ -85,9 +85,9 @@ sort launch_date desc
 ```
 %%
 
-| File                                                  | Date             | Location                                              | Vehicle                                                 | Orbit & Mass                                       | Outcome |
-| ----------------------------------------------------- | ---------------- | ----------------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------- | ------- |
-| [[Launch/Launches/027 - CAPSTONE.md\|027 - CAPSTONE]] | 2022-06-28 09:55 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Space Systems/Launch Vehicles/Electron.md\|Electron]] | Translunar Injection (TLI) \| 320kg LEO / 80kg TLI | ✅       |
+| File                                                  | Date             | Location                                              | Vehicle                                            | Orbit & Mass                                       | Outcome |
+| ----------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------- | ------- |
+| [[Launch/Launches/027 - CAPSTONE.md\|027 - CAPSTONE]] | 2022-06-28 09:55 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Hardware/Launch Vehicles/Electron.md\|Electron]] | Translunar Injection (TLI) \| 320kg LEO / 80kg TLI | ✅       |
 
 %%DATAVIEW_PUBLISHER: end %%
 

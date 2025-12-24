@@ -25,10 +25,10 @@ sort launch_date desc
 ```
 %%
 
-| File                                                                            | Date             | Location                                              | Vehicle                                                 | Orbit & Mass             | Outcome |
-| ------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | ------------------------------------------------------- | ------------------------ | ------- |
-| [[Launch/Launches/070 - Live, Laugh, Launch.md\|070 - Live, Laugh, Launch]]     | 2025-08-23 22:30 | [[Locations/Launch Complex 1.md\|Launch Complex 1]]   | [[Space Systems/Launch Vehicles/Electron.md\|Electron]] | 650 km \| 96° \| Unknown | ✅       |
-| [[Launch/Launches/068 - Symphony In The Stars.md\|068 - Symphony In The Stars]] | 2025-06-28 06:45 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC-1B]] | [[Space Systems/Launch Vehicles/Electron.md\|Electron]] | 650 km \| 96° \| 74 kg   | ✅       |
+| File                                                                            | Date             | Location                                              | Vehicle                                            | Orbit & Mass             | Outcome |
+| ------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------------------------- | ------------------------ | ------- |
+| [[Launch/Launches/070 - Live, Laugh, Launch.md\|070 - Live, Laugh, Launch]]     | 2025-08-23 22:30 | [[Locations/Launch Complex 1.md\|Launch Complex 1]]   | [[Hardware/Launch Vehicles/Electron.md\|Electron]] | 650 km \| 96° \| Unknown | ✅       |
+| [[Launch/Launches/068 - Symphony In The Stars.md\|068 - Symphony In The Stars]] | 2025-06-28 06:45 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC-1B]] | [[Hardware/Launch Vehicles/Electron.md\|Electron]] | 650 km \| 96° \| 74 kg   | ✅       |
 
 %%DATAVIEW_PUBLISHER: end %%
 

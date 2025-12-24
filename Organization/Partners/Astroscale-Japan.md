@@ -22,9 +22,9 @@ sort launch_date desc
 ```
 %%
 
-| File                                                                          | Date             | Location                                              | Vehicle                                                 | Orbit & Mass            | Outcome |
-| ----------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | ------------------------------------------------------- | ----------------------- | ------- |
-| [[Launch/Launches/044 - On Closer Inspection.md\|044 - On Closer Inspection]] | 2024-02-19 14:52 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Space Systems/Launch Vehicles/Electron.md\|Electron]] | 600 km \| 98° \| 150 kg | ✅       |
+| File                                                                          | Date             | Location                                              | Vehicle                                            | Orbit & Mass            | Outcome |
+| ----------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------- | -------------------------------------------------- | ----------------------- | ------- |
+| [[Launch/Launches/044 - On Closer Inspection.md\|044 - On Closer Inspection]] | 2024-02-19 14:52 | [[Locations/Launch Complex 1.md#Launch Pad B\|LC1-B]] | [[Hardware/Launch Vehicles/Electron.md\|Electron]] | 600 km \| 98° \| 150 kg | ✅       |
 
 %%DATAVIEW_PUBLISHER: end %%
 
