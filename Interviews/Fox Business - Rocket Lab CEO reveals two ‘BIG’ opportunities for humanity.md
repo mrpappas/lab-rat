@@ -4,6 +4,7 @@ source: Fox Business
 link: https://www.youtube.com/watch?v=4KC2yKeCXmg
 date: 2025-11-12
 ---
+🏠 > [[Interviews]] > November 12 2025
 
 **Insider**: [[Peter Beck]]
 **Source**: [Fox Business](https://www.youtube.com/watch?v=4KC2yKeCXmg)

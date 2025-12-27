@@ -1,5 +1,4 @@
 ---
-
 name: Brian Rogers
 role: Vice President – Global Launch Services
 shares_owned: 
@@ -10,7 +9,6 @@ linkedin: https://www.linkedin.com/in/brian-rogers-244443111/
 
 **Name:** Brian Rogers
 **Role:** Vice President – Global Launch Services
-**Shares Owned:** 
 **Joined:** 2021-04-01
 **Linkedin:** https://www.linkedin.com/in/brian-rogers-244443111/
 
@@ -24,34 +22,20 @@ Before joining Rocket Lab, Mr. Rogers was Advanced Systems Manager at Ball 
 Mr. Rogers holds a Bachelor of Science in Mechanical Engineering from the University of Colorado, a Master of Science in Mechatronics Engineering from the University of Denver, a Master of Business Administration from Colorado State University, and was awarded a US Utility Patent in 2014.
 [Source](https://www.rocketlabusa.com/about/team/)
 
-## 💼 SEC Filings
+
+## 🎙️ Interviews
 %%DATAVIEW_PUBLISHER: start
 ```
-table Filing_Type as "Filing Type", Filing_Date as "Date"
-from "Filings"
-where Insider = [[Brian Rogers]]
-sort Filing_Date desc
-
+table date as "Date", source as "Source"
+from "Interviews"
+where contains(insider, [[]])
+sort date desc
 ```
 %%
 
-| File | Filing Type | Date |
-| ---- | ----------- | ---- |
-
-%%DATAVIEW_PUBLISHER: end %%
-
-## 📰 News
-%%DATAVIEW_PUBLISHER: start
-```
-table title as "Title", published as "Published"
-from "News"
-where contains(insider, [[Brian Rogers]])
-sort published desc
-```
-%%
-
-| File | Title | Published |
-| ---- | ----- | --------- |
+| File                                                                                                                               | Date              | Source  |
+| ---------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ------- |
+| [[Interviews/Reuters - Launch Velocity Scale Up Without Slowing Down.md\|Reuters - Launch Velocity Scale Up Without Slowing Down]] | December 10, 2025 | Reuters |
 
 %%DATAVIEW_PUBLISHER: end %%
 

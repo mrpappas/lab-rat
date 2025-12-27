@@ -1,6 +1,7 @@
 ---
 tags:
- - launch
+  - launch
+  - electron
 mission_name: The Wisdom God Guides
 launch_date: 2025-12-21 06:36
 outcome: "✅"
@@ -17,7 +18,7 @@ mission_link: https://rocketlabcorp.com/missions/missions-launched/the-wisdom-go
 
 >[!success] Mission Success
 
-‘The Wisdom God Guides’ Electron launch for [[iQPS]] lifted off from Rocket Lab [[Launch Complex 1]] in New Zealand on December 21, 2025 to deploy QPS-SAR-15, nicknamed SUKUNAMI-I for the Japanese god of great wisdom, to a 575km circular Earth orbit.
+'The Wisdom God Guides’ Electron launch for [[iQPS]] lifted off from Rocket Lab [[Launch Complex 1]] in New Zealand on December 21, 2025 to deploy QPS-SAR-15, nicknamed SUKUNAMI-I for the Japanese god of great wisdom, to a 575km circular Earth orbit.
 
 The mission was Rocket Lab’s sixth launch for iQPS in 2025 alone (and seventh launch overall) to deploy the company’s constellation, highlighting the streamlined operational benefits and control over schedule that Rocket Lab’s launch service provides satellite operators. Rocket Lab is the primary launcher for iQPS’ commercial synthetic aperture radar (SAR) constellation, which is being developed and deployed at a rapid pace to provide high resolution and near-real time SAR imagery to its global users. A further five launches on Electron for iQPS are planned from 2026. 
 
