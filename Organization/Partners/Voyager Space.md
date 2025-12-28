@@ -1,3 +1,8 @@
+---
+name: Voyager Space
+---
+[[Home|🏠]] <span style="color: LightSlateGray">></span> [[Partners]] <span style="color: LightSlateGray">></span> Voyager Space
+
 >[!info] Working document
 
 Website: https://voyagertechnologies.com/

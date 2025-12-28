@@ -1,12 +1,13 @@
 ---
-title: "Rocket Lab Closes Acquisition of Geost, Expanding Its National Security Capabilities with Launch, Spacecraft, and Now Payloads"
-source: "https://rocketlabcorp.com/updates/rocket-lab-closes-acquisition-of-geost-expanding-its-national-security-capabilities-with-launch-spacecraft-and-now-payloads/"
+title: Rocket Lab Closes Acquisition of Geost, Expanding Its National Security Capabilities with Launch, Spacecraft, and Now Payloads
+source: https://rocketlabcorp.com/updates/rocket-lab-closes-acquisition-of-geost-expanding-its-national-security-capabilities-with-launch-spacecraft-and-now-payloads/
 author: "[[Rocket Lab]]"
 published: 2025-08-12
-partner: "[[Goest]]" 
+partner:
+  - "[[Geost]]"
 tags:
- - space-systems
- - payloads
+  - space-systems
+  - payloads
 ---
 
 *The acquisition expands Rocket Lab’s end-to-end mission solutions with advanced electro-optical and infrared payloads for missile warning, tracking, and space domain awareness.*

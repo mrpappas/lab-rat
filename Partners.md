@@ -10,7 +10,6 @@ sort name asc
 
 | File                                                                                                                                                  | Website                                                                                       |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [[Organization/Partners/Voyager Space.md\|Voyager Space]]                                                                                             | \-                                                                                            |
 | [[Organization/Partners/Advanced Space.md\|Advanced Space]]                                                                                           | https://advancedspace.com/                                                                    |
 | [[Organization/Partners/Agile Space Industries.md\|Agile Space Industries]]                                                                           | https://agilespaceindustries.com/                                                             |
 | [[Organization/Partners/Airbus.md\|Airbus]]                                                                                                           | https://www.airbus.com/en                                                                     |
@@ -42,7 +41,7 @@ sort name asc
 | [[Organization/Partners/Firefly Aerospace.md\|Firefly Aerospace]]                                                                                     | https://fireflyspace.com/                                                                     |
 | [[Organization/Partners/Fleet Space.md\|Fleet Space]]                                                                                                 | https://www.fleetspace.com/                                                                   |
 | [[Organization/Partners/General Atomics Electromagnetic Systems.md\|General Atomics Electromagnetic Systems]]                                         | https://www.ga.com/about/ems                                                                  |
-| [[Organization/Partners/GEOST.md\|GEOST]]                                                                                                             | https://www.geost.com/                                                                        |
+| [[Organization/Partners/Geost.md\|Geost]]                                                                                                             | https://www.geost.com/                                                                        |
 | [[Organization/Partners/Globalstar.md\|Globalstar]]                                                                                                   | https://www.globalstar.com/en-us                                                              |
 | [[Organization/Partners/HawkEye 360.md\|HawkEye 360]]                                                                                                 | https://www.he360.com/                                                                        |
 | [[Organization/Partners/Hypersonix.md\|Hypersonix]]                                                                                                   | https://www.hypersonix.com/                                                                   |
@@ -99,6 +98,7 @@ sort name asc
 | [[Organization/Partners/Varda Space Industries.md\|Varda Space Industries]]                                                                           | https://www.varda.com/                                                                        |
 | [[Organization/Partners/Vector Acquisition Corporation (VACQ).md\|Vector Acquisition Corporation (VACQ)]]                                             | \-                                                                                            |
 | [[Organization/Partners/Viasat.md\|Viasat]]                                                                                                           | https://www.viasat.com/                                                                       |
+| [[Organization/Partners/Voyager Space.md\|Voyager Space]]                                                                                             | \-                                                                                            |
 | [[Organization/Partners/York Space Systems.md\|York Space Systems]]                                                                                   | https://www.yorkspacesystems.com/                                                             |
 
 %% DATAVIEW_PUBLISHER: end %%

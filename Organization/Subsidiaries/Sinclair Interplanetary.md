@@ -1,5 +1,4 @@
 ---
-
 name: Sinclair Interplanetary
 website: https://www.rocketlabusa.com/space-systems/satellite-components/
 acquired: 2020-04-30

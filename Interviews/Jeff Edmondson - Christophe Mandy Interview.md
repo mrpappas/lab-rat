@@ -48,7 +48,7 @@ So, if say the thermal team uh decides that they need heaters to work for a coup
 
 **Host:** Gotcha. So this is this mission is not just one spacecraft that's going to Mars. It's multiple. So we have two going to Mars. How many were built in total?
 
-**Kristoff Mandy (Rocket Lab) (3:25):** We did just build two. Okay. Uh which is already big enough. We also had some test artifacts but yeah it is two spacecraft going to Mars. Uh two two beautiful spacecrafts which is already hard enough on the team.
+**Kristoff Mandy (Rocket Lab) (3:25):** We did just build two. Okay. Uh which is already big enough. We also had some test artifacts but yeah it is two spacecraft going to Mars. Uh two beautiful spacecrafts which is already hard enough on the team.
 
 **Host (3:36):** I I don't even know how you to because you have to be precise on both.
 
@@ -77,7 +77,7 @@ And so we'll make a qualification article which is as close as possible to the a
 
 So we'll usually build for example on this satellite there are two radios on each satellite. So that means we did four radios to fly with and then we had spares and qualification articles even at the radio level where we would test the radio to the different environments.
 
-So there's there's you know there's in total um about five spacecraft worth of components that we end up buying for the two satellites that are flying. [unclear]
+So there's there's you know there's in total um about five spacecraft worth of components that we end up buying for the two satellites that are flying.
 
 
 ### Interplanetary Challenges: Hot Near Earth, Weak Links at Mars, Slow Response (6:18)
@@ -95,13 +95,13 @@ And so our our satellites have to be capable of not just surviving the usual Ear
 
 **Host:** Uh, one thing that's about this that's interesting to me with this whole mission is the flight path and how long it's taking. So it was launched back on November 13th. It's going to loiter at L2 near Earth basically for a year. So why is it going to stay near us for a year before it makes that push towards Mars?
 
-**Kristoff Mandy (Rocket Lab) (7:44):** Yeah. So the um the optimal trajectory to Mars uh happens every 26 months when the the Earth and Mars uh orbits orbital planes kind of align and when you can do um you know either a [unclear] transfer or [unclear] maneuver to get from Earth to Mars.
+**Kristoff Mandy (Rocket Lab) (7:44):** Yeah. So the um the optimal trajectory to Mars uh happens every 26 months when the the Earth and Mars uh orbits, orbital planes kind of align and when you can do um you know either a Hohmann transfer or Hohmann maneuver to get from Earth to Mars.
 
 And and that happened last uh September and the next one is in November next year. And so originally we were planning to launch last September but uh there were delays with the launch vehicle and uh ultimately uh we missed the launch window and so uh the you know the the  simplest solution is then to wait for the next launch window.
 
 But NASA decided to launch us early and have us wait for that planetary alignment in space and use the time in space to already do some of the science.
 
-The the satellites are intended to measure um primarily solar activity, but it's really space weather. So, it's the effects of the solar wind on the Martian atmosphere. But we can already look at the effects of the solar wind in the Earth environment and in particular in an area known as the magnetotail, which is a zone uh you know behind the Earth as it sweeps its way around the sun. That has interesting properties from a heliophysics perspective. [unclear]
+The the satellites are intended to measure um primarily solar activity, but it's really space weather. So, it's the effects of the solar wind on the Martian atmosphere. But we can already look at the effects of the solar wind in the Earth environment and in particular in an area known as the magnetotail, which is a zone uh you know behind the Earth as it sweeps its way around the sun. That has interesting properties from a heliophysics perspective.
 
 **Host (8:59):** Yeah, I didn't think of that. That's interesting because I thought, okay, they're just going to sit there and have on standby. But you're actually doing some science while we're waiting to go to Mars.
 
@@ -201,7 +201,7 @@ And so we came up with a method of testing the satellites with mass simulant tan
 
 **Host:** Wow, that's interesting. So, if you add a tank at towards late in the game after you've kind of designed everything else, is it also a factor of where that weight of fuel is going to sit with your are reaction wheels and everything that kind of controls the spacecraft? Is that an issue?
 
-**Kristoff Mandy (Rocket Lab) (19:10):** Uh partly. So you know you you care about the center of mass and you care about the inerts which are is what you bring up.
+**Kristoff Mandy (Rocket Lab) (19:10):** Uh partly. So you know you you care about the center of mass and you care about the [unclear] which is what you bring up.
 
 Um but those are set basically once you know most of your satellite is fuel. There's not much you can do about where the center of mass is going to be. You can move your reaction wheels up and down. You can move your components here and there but the center of mass isn't going to move that much. It does to some extent but not that much.
 
@@ -243,9 +243,9 @@ But we only got there by looking at our our satellite realizing that it was goin
 
 ### Closing and Outro (23:19)
 
-**Host:** You describe it make it so simple but it's a very complex thing I guess.
+**Host:** You describe it make it so simple but it's a very complex thing.
 
-**Kristoff Mandy (Rocket Lab) (23:22):** So I I hope I was able to describe it simple.
+**Kristoff Mandy (Rocket Lab) (23:22):** I guess so I I hope I was able to describe it simple.
 
 **Host (23:26):** Thank you. So um we're going to be keep an eye on this mission as it's on its way to Mars. Not there. Not it's on its way yet but that's going to be happening here as we go into the next year. So exciting stuff.
 

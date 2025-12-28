@@ -3,7 +3,7 @@ title: Rocket Lab Enters Payload Market with Agreement to Acquire Geost, Positio
 source: https://rocketlabcorp.com/updates/rocket-lab-enters-payload-market-with-agreement-to-acquire-geost-adding-electro-optical-and-infrared-systems-to-its-end-to-end-space-solutions/
 author: "[[Rocket Lab]]"
 published: 2025-05-27
-partner: "[[GEOST]]"
+partner: "[[Geost]]"
 tags:
   - geost
   - acquisition
