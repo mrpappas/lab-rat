@@ -21,6 +21,7 @@ sort name asc
 | [[Organization/People/Cameron McCarter.md\|Cameron McCarter]]             | Vice President - Global Supply Chain                               | \-                                                |
 | [[Organization/People/Colin Canfield.md\|Colin Canfield]]                 | Head of Investor Relations                                         | \-                                                |
 | [[Organization/People/Connie Lundgren.md\|Connie Lundgren]]               | Vice President - People & Culture                                  | \-                                                |
+| [[Organization/People/Cristophe Mandy.md\|Cristophe Mandy]]               | Lead Systems Engineer - Space Systems                              | \-                                                |
 | [[Organization/People/David Baylor.md\|David Baylor]]                     | Chief Operating Officer at Vector Capital                          | \-                                                |
 | [[Organization/People/David Cowan.md\|David Cowan]]                       | Partner at [[Bessemer Venture Partners]]                           | 294,310 (Direct), 199,084 (Indirect via entities) |
 | [[Organization/People/David Fishman.md\|David Fishman]]                   | \-                                                                 | \-                                                |

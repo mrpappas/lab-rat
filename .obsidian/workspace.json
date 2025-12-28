@@ -13,32 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interviews.md",
+                "file": "Interviews/Jeff Edmondson - Christophe Mandy Interview.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Interviews"
-            }
-          },
-          {
-            "id": "de2dc1b06840dfc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interviews/RedPlanetLive - Morgan Connaughton.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "RedPlanetLive - Morgan Connaughton"
+              "title": "Jeff Edmondson - Christophe Mandy Interview"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,13 +197,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6449ebb6b9cf2b96",
+  "active": "9ce84aa0090d3ac4",
   "lastOpenFiles": [
-    "Interviews/RedPlanetLive - Morgan Connaughton.md",
     "Interviews.md",
-    "Organization/People/Adam Spice.md",
-    "Organization/People/Brian Rogers.md",
+    "Interviews/Jeff Edmondson - Christophe Mandy Interview.md",
     "Interviews/Goldman Sachs Industrials & Materials Conference 2025 - Adam Spice Interview.md",
+    "Organization/People/Cristophe Mandy.md",
+    "Organization/People/Adam Spice.md",
+    "Pasted image 20251228015755.jpg",
+    "Home.md",
+    "Interviews/RedPlanetLive - Morgan Connaughton.md",
+    "Organization/People/Brian Rogers.md",
     "People.md",
     "Interviews/Reuters - Launch Velocity Scale Up Without Slowing Down.md",
     "Launch/Launches/079 - The Wisdom God Guides.md",
@@ -237,11 +225,7 @@
     "Launch/Launches/076 - Follow My Speed.md",
     "Launch/Launches/075 - Prometheus Run.md",
     "Hardware/⚖️ NASA Mission and Instrument Risk Classification.md",
-    "Hardware/📦 Payload Types.md",
-    "Hardware/Launch Vehicles/Electron.md",
     "Hardware/Launch Vehicles",
-    "News/Rocket Lab Successfully Launches for iQPS, Ends 2025 with 21 Launches and 100% Mission Succes.md",
-    "Launches.md",
     "Vault-Assets/Images/Pasted image 20251220111307.png",
     "Pasted image 20251220111250.png",
     "Vault-Assets/Images/Pasted image 20251216194804.png",
@@ -251,7 +235,6 @@
     "Vault-Assets/Images/Pasted image 20251213025209.jpg",
     "Vault-Assets/Images/Pasted image 20251213025152.jpg",
     "Vault-Assets/Images/Pasted image 20251213025136.jpg",
-    "Vault-Assets/Images/Pasted image 20251213025059.jpg",
     "flickr.com/photos/rocketlab/albums",
     "flickr.com/photos/rocketlab",
     "flickr.com/photos",
