@@ -80,7 +80,6 @@ SORT launch_date DESC
 | [[Launch/Launches/075 - Prometheus Run.md\|075 - Prometheus Run]]                     | [[Organization/Partners/Missile Defense Agency.md\|Missile Defense Agency]]                                                                                                   | 2025-11-18 | [[Hardware/Launch Vehicles/HASTE.md\|HASTE]]       | Suborbital \| unknown      | ✅       |
 | [[Launch/Launches/074 - The Nation God Navigates.md\|074 - The Nation God Navigates]] | [[Organization/Partners/iQPS.md\|iQPS]]                                                                                                                                       | 2025-11-05 | [[Hardware/Launch Vehicles/Electron.md\|Electron]] | 575 km \| 42° \| 100 kg    | ✅       |
 | [[Launch/Launches/073 - Owl New World.md\|073 - Owl New World]]                       | [[Organization/Partners/Synspective.md\|Synspective]]                                                                                                                         | 2025-10-14 | [[Hardware/Launch Vehicles/Electron.md\|Electron]] | 583 km \| 42° \| 100 kg    | ✅       |
-| [[Launch/Launches/072 - JUSTIN.md\|072 - JUSTIN]]                                     | Confidential Customer                                                                                                                                                         | 2025-09-30 | [[Hardware/Launch Vehicles/HASTE.md\|HASTE]]       | Suborbital \| unknown      | ✅       |
 
 %% DATAVIEW_PUBLISHER: end %%
 

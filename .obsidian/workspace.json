@@ -13,49 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Partners.md",
+                "file": "Interviews/Miles 0'Brien - Peter Beck Interview.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Partners"
+              "title": "Miles 0'Brien - Peter Beck Interview"
             }
           },
           {
-            "id": "99b090a5caa7611c",
+            "id": "89da2131f956bea7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "News/Rocket Lab Closes Acquisition of Geost, Expanding Its National Security Capabilities with Launch, Spacecraft, and Now Payloads.md",
+                "file": "Interviews/CNBC - Adam Spice on what is ahead.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Rocket Lab Closes Acquisition of Geost, Expanding Its National Security Capabilities with Launch, Spacecraft, and Now Payloads"
-            }
-          }
-        ]
-      },
-      {
-        "id": "eab648a5be1070bc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ecf0040d0cb3bd72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Organization/Partners/Viasat.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Viasat"
+              "title": "CNBC - Adam Spice on what is ahead"
             }
           }
         ]
@@ -233,36 +212,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ecf0040d0cb3bd72",
+  "active": "9ce84aa0090d3ac4",
   "lastOpenFiles": [
+    "Interviews/CNBC - Adam Spice on what is ahead.md",
+    "Interviews/Miles 0'Brien - Peter Beck Interview.md",
+    "Interviews.md",
+    "Hardware.md",
+    "Missions.md",
+    "News.md",
+    "Launches.md",
+    "Home.md",
+    "Hardware/Launch Vehicles/Electron.md",
+    "Hardware/⚖️ NASA Mission and Instrument Risk Classification.md",
+    "Launch/Launches By Year.md",
+    "Organization/Partners/Geost.md",
+    "Partners.md",
+    "Hardware/Payloads/Heimdall.md",
+    "Vault-Assets/Images/Pasted image 20251228164641.png",
+    "News/Rocket Lab Closes Acquisition of Geost, Expanding Its National Security Capabilities with Launch, Spacecraft, and Now Payloads.md",
+    "Interviews/Investor Presentation - Rocket Lab to Acquire Geost.md",
+    "Organization/Partners/Viasat.md",
     "Organization/Partners/Swedish National Space Agency.md",
     "Organization/Partners/Swarm.md",
-    "Organization/Partners/Viasat.md",
-    "Partners.md",
     "Organization/Partners/Voyager Space.md",
     "Organization/Subsidiaries/Sinclair Interplanetary.md",
-    "Organization/Partners/Geost.md",
-    "Hardware/Payloads/Heimdall.md",
     "Hardware/Payloads/Phoenix.md",
     "Hardware/Payloads/Starlite.md",
     "Hardware/Propulsion/Curie.md",
     "Hardware/Separation Systems/Advanced Lightband.md",
-    "News/Rocket Lab Closes Acquisition of Geost, Expanding Its National Security Capabilities with Launch, Spacecraft, and Now Payloads.md",
     "News/Rocket Lab Enters Payload Market with Agreement to Acquire Geost, Positioning Itself as Disruptive Prime to U.S. National Security.md",
-    "Organization/Partners/Synspective.md",
     "Vault-Assets/Images/Pasted image 20251228152608.png",
-    "Organization/Subsidiaries/Rocket Lab Australia.md",
-    "Organization/Subsidiaries/Advanced Solutions Inc.md",
-    "Organization/Subsidiaries/Planetary Systems Corporation (PSC).md",
-    "Organization/Subsidiaries/Rocket Lab National Security (RLNS).md",
-    "Interviews.md",
-    "Interviews/Goldman Sachs Industrials & Materials Conference 2025 - Adam Spice Interview.md",
-    "Interviews/Jeff Edmondson - Christophe Mandy Interview.md",
     "Vault-Assets/Images/Pasted image 20251228015755.jpg",
-    "Organization/People/Cristophe Mandy.md",
-    "Organization/People/Adam Spice.md",
-    "Home.md",
-    "Interviews/RedPlanetLive - Morgan Connaughton.md",
     "Hardware/Launch Vehicles",
     "Vault-Assets/Images/Pasted image 20251220111307.png",
     "Pasted image 20251220111250.png",
@@ -271,7 +251,6 @@
     "Vault-Assets/Images/Pasted image 20251212184256.png",
     "Vault-Assets/Images/Pasted image 20251213030503.png",
     "Vault-Assets/Images/Pasted image 20251213025209.jpg",
-    "Vault-Assets/Images/Pasted image 20251213025152.jpg",
     "flickr.com/photos/rocketlab/albums",
     "flickr.com/photos/rocketlab",
     "flickr.com/photos",

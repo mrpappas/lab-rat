@@ -1,7 +1,7 @@
 [[Home|🏠]]  <span style="color: LightSlateGray">></span> [[Launches]] <span style="color: LightSlateGray">></span> Launches By Year
 ## 2025
 
-**Launches So Far**: 21
+**Total Launches**: 21
 **Success Rate**: 100%
 
 %% DATAVIEW_PUBLISHER: start

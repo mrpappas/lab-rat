@@ -29,9 +29,6 @@ Rocket Lab **announced** it had entered into a definitive agreement to acquire t
 * **Contingent earnout:** up to **$50M** in additional **cash** tied to revenue targets (described as revenue targets for **2026 and 2027** in the purchase agreement summary).
 * **Equity mechanics:** the stock portion was described as **privately placed** / issued in an unregistered transaction, with Rocket Lab agreeing to file a **resale registration statement** for the shares after closing.
 
-### Operations & footprint:
-- Post-close, Rocket Lab stated Geost would **continue operating in Arizona and Virginia**, and that the acquisition included product assets, facilities/labs, IP, and inventory. 
-
 🔗 [SEC Filing](https://www.sec.gov/Archives/edgar/data/1819994/000162828025027920/rklb-20250522.htm) 
 
 ### Presentation
@@ -42,8 +39,8 @@ Rocket Lab **announced** it had entered into a definitive agreement to acquire t
 
 ## Payloads
 
-### Heimdall
-![[Heimdall]]
+### [[Heimdall]]
+![[Heimdall#Summary]]
 
 ### Phoenix
 ![[Phoenix]]
