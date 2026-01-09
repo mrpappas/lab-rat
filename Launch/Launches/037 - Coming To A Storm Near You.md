@@ -26,26 +26,27 @@ NASA’s TROPICS constellation will monitor the formation and evolution of tropi
 
 The constellation, which is part of NASA’s Earth System Science Pathfinder Program, consists of four CubeSats that require launch to a specific orbit at an altitude of 550 kilometers and inclination of about 30 degrees. All four satellites needed to be deployed into their operational orbit within a 60-day period, making Electron the ideal launch vehicle as it enables dedicated launch to unique orbits on highly responsive timelines. 
 
-More info on TROPICS: [Mission Overview | TROPICS](https://tropics.ll.mit.edu/CMS/tropics/Mission-Overview)
+More info on TROPICS: [Mission Overview | TROPICS](https://science.nasa.gov/mission/tropics/)
 
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720308583318/)
 
 #electron #launch #success
 
-| **Mission Name** | Coming To A Storm Near You                                                                                        |
-| ---------------- | ----------------------------------------------------------------------------------------------------------------- |
-| **Launch Date**  | 2023-05-26 03:46                                                                                                  |
-| **Outcome**      | ✅ Success                                                                                                         |
-| **Customer**     | [[NASA]]                                                                                                          |
-| Contract         | [[VADR]]                                                                                                          |
-| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                                 |
-| **Vehicle**      | [[Electron]]                                                                                                      |
-| **Orbit Type**   | [[Orbits#LEO]]                                                                                                 |
-| **Target Orbit** | 550 km &#124; 32°                                                                                                 |
-| **Payload Mass** | 10 kg                                                                                                             |
-| **Recovery**     | No Attempt                                                                                                        |
-| **Mission Link** | [Coming To A Storm Near You](https://www.rocketlabusa.com/missions/missions-launched/coming-to-a-storm-near-you/) |
-| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/TROPICS-PRESS-KIT-F36-F37.pdf)                           |
+| **Mission Name**    | Coming To A Storm Near You                                                                                        |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| **Launch Date**     | 2023-05-26 03:46                                                                                                  |
+| **Outcome**         | ✅ Success                                                                                                         |
+| **Customer**        | [[NASA]]                                                                                                          |
+| Contract            | [[VADR]]                                                                                                          |
+| **Location**        | [[Launch Complex 1#Launch Pad B]]                                                                                 |
+| **Vehicle**         | [[Electron]]                                                                                                      |
+| **Orbit Type**      | [[Orbits#LEO]]                                                                                                    |
+| **Payload Mass**    | 10 kg                                                                                                             |
+| **Target Orbit**    | 550 km \| 32°                                                                                                     |
+| **Achieved Orbits** | **TROPICS SV03**: 538 x 555 km \| 32.73°<br>**TROPICS SV07**: 536 x 556 km \| 32.73°                              |
+| **Recovery**        | No Attempt                                                                                                        |
+| **Mission Link**    | [Coming To A Storm Near You](https://www.rocketlabusa.com/missions/missions-launched/coming-to-a-storm-near-you/) |
+| **Press Kit**       | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/TROPICS-PRESS-KIT-F36-F37.pdf)                           |
 
 ![[Pasted image 20250406141023.png|300]]
 

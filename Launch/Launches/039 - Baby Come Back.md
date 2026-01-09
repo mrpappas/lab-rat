@@ -42,19 +42,20 @@ The ‘Baby Come Back’ mission is a rideshare mission and will carry satellite
 
 #electron #launch #success
 
-| **Mission Name** | Baby Come Back                                                                                     |
-| ---------------- | -------------------------------------------------------------------------------------------------- |
-| **Launch Date**  | 2023-07-18 01:27                                                                                   |
-| **Outcome**      | ✅ Success                                                                                          |
-| **Customer**     | [[NASA]], [[CesiumAstro]], [[UTIAS Space Flight Laboratory]], [[Telesat]], [[Spire Global]]        |
-| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                  |
-| **Vehicle**      | [[Electron]]                                                                                       |
-| **Orbit Type**   | [[Orbits#SSO]]                                                                                  |
-| **Target Orbit** | 1000 km &#124; 99.45°                                                                              |
-| **Payload Mass** | 86 kg                                                                                              |
-| **Recovery**     | Success (Ocean Landing)                                                                            |
-| **Mission Link** | [Baby Come Back](https://www.rocketlabusa.com/missions/missions-launched/baby-come-back/)          |
-| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Press-Kit-Rocket-Lab-Baby-Come-Back2.pdf) |
+| **Mission Name**    | Baby Come Back                                                                                                                                                                                                                                                                                        |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Launch Date**     | 2023-07-18 01:27                                                                                                                                                                                                                                                                                      |
+| **Outcome**         | ✅ Success                                                                                                                                                                                                                                                                                             |
+| **Customer**        | [[NASA]], [[CesiumAstro]], [[UTIAS Space Flight Laboratory]], [[Telesat]], [[Spire Global]]                                                                                                                                                                                                           |
+| **Location**        | [[Launch Complex 1#Launch Pad B]]                                                                                                                                                                                                                                                                     |
+| **Vehicle**         | [[Electron]]                                                                                                                                                                                                                                                                                          |
+| **Orbit Type**      | [[Orbits#SSO]]                                                                                                                                                                                                                                                                                        |
+| **Payload Mass**    | 86 kg                                                                                                                                                                                                                                                                                                 |
+| **Target Orbit**    | 1000 km \| 99.45°                                                                                                                                                                                                                                                                                     |
+| **Achieved Orbits** | **Starling 1**: 566 x 584 km \| 99.46°<br>**Starling 2**: 565 x 584 km \| 99.45°<br>**Starling 3**: 565 x 584 km \| 99.45°<br>**Starling 4**: 565 x 583 km \| 99.46°<br>**Lemur-2(a)**: 564 x 583 km \| 99.46°<br>**Lemur-2(b)**: 560 x 583 km \| 99.46°<br>**Telesat-LEO-3**: 994 x 1019km \| 99.44° |
+| **Recovery**        | Success (Ocean Landing)                                                                                                                                                                                                                                                                               |
+| **Mission Link**    | [Baby Come Back](https://www.rocketlabusa.com/missions/missions-launched/baby-come-back/)                                                                                                                                                                                                             |
+| **Press Kit**       | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Press-Kit-Rocket-Lab-Baby-Come-Back2.pdf)                                                                                                                                                                                                    |
 
 ![[Pasted image 20250406141230.png|300]]
 
@@ -62,6 +63,7 @@ The ‘Baby Come Back’ mission is a rideshare mission and will carry satellite
 
 - x4 NASA [Starling](https://www.nasa.gov/smallspacecraft/what-is-starling/) CubeSats housing CesiumAstro [[CesiumAstro#🛰️ Space Systems#CommPack Cross-Link Communications Payload|CommPack Cross-Link Communications Payload]]s
 - x2 [[Spire Global]] 3U Satellites
+- x1 Telesat LEO
 
 ## Launch Video
 

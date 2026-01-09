@@ -34,20 +34,21 @@ More info on TROPICS: [Mission Overview | TROPICS](https://tropics.ll.mit.edu/CM
 
 #electron #launch #success
 
-| **Mission Name** | Rocket Like A Hurricane                                                                                     |
-| ---------------- | ----------------------------------------------------------------------------------------------------------- |
-| **Launch Date**  | 2023-05-08 01:00                                                                                            |
-| **Outcome**      | ✅ Success                                                                                                   |
-| **Customer**     | [[NASA]]                                                                                                    |
-| **Contract**     | [[VADR]]                                                                                                    |
-| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                           |
-| **Vehicle**      | [[Electron]]                                                                                                |
-| **Orbit Type**   | [[Orbits#LEO]]                                                                                           |
-| **Target Orbit** | 550 km &#124; 32°                                                                                           |
-| **Payload Mass** | 10 kg                                                                                                       |
-| **Recovery**     | No Attempt                                                                                                  |
-| **Mission Link** | [Rocket Like A Hurricane](https://www.rocketlabusa.com/missions/missions-launched/rocket-like-a-hurricane/) |
-| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/TROPICS-PRESS-KIT-F36-F37.pdf)                     |
+| **Mission Name**    | Rocket Like A Hurricane                                                                                     |
+| ------------------- | ----------------------------------------------------------------------------------------------------------- |
+| **Launch Date**     | 2023-05-08 01:00                                                                                            |
+| **Outcome**         | ✅ Success                                                                                                   |
+| **Customer**        | [[NASA]]                                                                                                    |
+| **Contract**        | [[VADR]]                                                                                                    |
+| **Location**        | [[Launch Complex 1#Launch Pad B]]                                                                           |
+| **Vehicle**         | [[Electron]]                                                                                                |
+| **Orbit Type**      | [[Orbits#LEO]]                                                                                              |
+| **Payload Mass**    | 10 kg                                                                                                       |
+| **Target Orbit**    | 550 km \| 32°                                                                                               |
+| **Achieved Orbits** | **TROPICS SV05**: 538 x 555 km \| 32.73°<br>**TROPICS SV06**: 535 x 553 km \| 32.73°                        |
+| **Recovery**        | No Attempt                                                                                                  |
+| **Mission Link**    | [Rocket Like A Hurricane](https://www.rocketlabusa.com/missions/missions-launched/rocket-like-a-hurricane/) |
+| **Press Kit**       | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/TROPICS-PRESS-KIT-F36-F37.pdf)                     |
 
 ![[Pasted image 20250406140838.png|300]]
 ## Launch Video

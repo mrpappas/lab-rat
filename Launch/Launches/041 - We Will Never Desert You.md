@@ -43,9 +43,6 @@ Three rare conditions had to present simultaneously in the low-pressure space en
 >
 Source: [[Rocket Lab Sets Next Electron Launch Window, Provides Update on Anomaly Review]]
 
-
-#electron #launch #failure #anomaly
-
 | **Mission Name** | We Will Never Desert You                                                                                       |
 | ---------------- | -------------------------------------------------------------------------------------------------------------- |
 | **Launch Date**  | 2023-09-19 06:55                                                                                               |

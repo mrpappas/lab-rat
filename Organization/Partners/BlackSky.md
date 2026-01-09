@@ -44,9 +44,24 @@ sort launch_date desc
 
 https://space.skyrocket.de/doc_sdat/blacksky-global.htm
 
-The satellites feature the SpaceView-24 imaging system built by Harris Corp.'s Exelis with an aperture of 24 cm It has a ground resolution of 0.9 - 1.1 m from an orbital height of 500 km. They have a onboard propulsion for a 3 year orbital life. The satellites are built by Spaceflight Services based on their SCOUT bus.
+The satellites feature the SpaceView-24 imaging system built by Harris Corp.'s Exelis with an aperture of 24 cm It has a ground resolution of 0.9 - 1.1 m from an orbital height of 500 km. They have a onboard propulsion for a 3 year orbital life. The satellites are built by[ Spaceflight Services](https://www.spaceflightservices.com/) based on their [SCOUT](https://space.skyrocket.de/doc_sdat/scout.htm) bus.
 
 ![[Pasted image 20250303200134.jpg]]
+
+| Specification                       | Value                                                |
+| ----------------------------------- | ---------------------------------------------------- |
+| Spatial resolution (at nadir), cm   | from 80 to 110 cm                                    |
+| Dynamic range, bits per pixel       | 12-bit (often 16-bit in products).                   |
+| Launch date                         | 2018–2022                                            |
+| Mass                                | 56 kg                                                |
+| Typ orbity                          | Sun-synchronous and mid-inclination                  |
+| Orbit height                        | ~430–500 km                                          |
+| Nachylenie orbity                   | sun-synchronous (~98°) and mid-inclination (~42–53°) |
+| Spectral range, panchromatic, in nm | 450–700                                              |
+| Sensor bands, multispectral, nm     | Blue: 450–520 nm; Green: 520–590 nm; Red: 590–700 nm |
+| Geolocation accuracy, m             | <10–20 m CE90                                        |
+| Scene image area at nadir           | 26–33 km²                                            |
+
 
 ### BlackSky Gen-3
 
@@ -58,20 +73,19 @@ BlackSky's latest generation Earth Observation satellite featuring 35 cm resolut
 ![[Pasted image 20250303195116.png|400]]
 
 
-| Specification                     | Value                                                                                                                                                                                     |
-| --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Tasking to collection             | < 10 hours                                                                                                                                                                                |
-| Collection to delivery            | < 90 minutes                                                                                                                                                                              |
-| Automated object detection        | Vehicles: Truck, semi-truck, pickup, jeep, van, private car,<br>bus, construction vehicle<br>Vessels: Small vessel, tug, container, warship, patrol,<br>submarine, merchant vessel, other |
-| NIIRS image quality class         | Visible: NIIRS 5+<br>Shortwave infrared: NIIRS 3+                                                                                                                                         |
-| Best ground sample distance (GSD) | Visible: 35 cm<br>Shortwave infrared: 1.2 m                                                                                                                                               |
-| Minimum scene size                | Visible: 18 km² (3.7 km x 4.9 km)<br>Shortwave infrared: 1.8 km² (1.2 km x 1.5 km)                                                                                                        |
-| Spectral bands                    | RGB, panchromatic, shortwave infrared                                                                                                                                                     |
-| Geolocation accuracy              | < 20 m CE90<br>< 10 m CE90 in Australia, United States                                                                                                                                    |
-| Orbital altitude                  | 450 km low-earth orbit (LEO)                                                                                                                                                              |
-| Orbital inclination               | Mid-inclined orbit (MIO)<br>Capable of sun-synchronous orbit (SSO)                                                                                                                        |
-| Communications                    | X-band primary downlink<br>S-band primary uplink<br>UHF backup uplink and downlink                                                                                                        |
-| Design life                       | 5+ years                                                                                                                                                                                  |
+| Parameter                              | Value                                                                     |
+| -------------------------------------- | ------------------------------------------------------------------------- |
+| Spatial resolution (at nadir), cm      | 35 cm                                                                     |
+| Radiometric resolution, bit/pixel      | 12 bit                                                                    |
+| Placement in orbit                     | March 2025                                                                |
+| Masа                                   | 56 kg                                                                     |
+| Orbit type                             | solar-synchronous                                                         |
+| Orbital altitude                       | 470                                                                       |
+| Orbital inclination                    | 59 °                                                                      |
+| Spectral range, panchromatic, in nm    | 450–700                                                                   |
+| Spectral resolution, multispectral, nm | Blue: 440 - 540 nm; Green: 450-650nm; Red: 570-700 nm; SWIR: 910-1700 nm. |
+| Geolocation accuracy, m                | <10m CE90                                                                 |
+| Nadir scene image surface              | 18 km²                                                                    |
 
 
 ## 📰 News

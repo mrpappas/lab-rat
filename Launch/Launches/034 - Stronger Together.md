@@ -27,21 +27,23 @@ The launch was a dedicated mission for Capella Space, a leading U.S. satellite m
 
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720306688906/)
 
-#electron #launch #success
+>[!summary] Mission Notes
+>- The payload for this mission, two Capella SAR satellites, are the last two of the 8-satellite 'Whitney' sub-constellation
 
-| **Mission Name** | Stronger Together                                                                                 |
-| ---------------- | ------------------------------------------------------------------------------------------------- |
-| **Launch Date**  | 2023-03-16 22:38                                                                                  |
-| **Outcome**      | ✅ Success                                                                                         |
-| **Customer**     | [[Capella Space]]                                                                                 |
-| **Location**     | [[Launch Complex 2#Launch Pad 0C]]                                                                |
-| **Vehicle**      | [[Electron]]                                                                                      |
-| **Orbit Type**   | [[Orbits#LEO]]                                                                                 |
-| **Target Orbit** | 600 km &#124; 44°                                                                                 |
-| **Payload Mass** | 224 kg                                                                                            |
-| **Recovery**     | No Attempt                                                                                        |
-| **Mission Link** | [Stronger Together](https://www.rocketlabusa.com/missions/missions-launched/stronger-together/)   |
-| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Capella-Stronger-Together-Press-Kit.pdf) |
+| **Mission Name**    | Stronger Together                                                                                 |
+| ------------------- | ------------------------------------------------------------------------------------------------- |
+| **Launch Date**     | 2023-03-16 22:38                                                                                  |
+| **Outcome**         | ✅ Success                                                                                         |
+| **Customer**        | [[Capella Space]]                                                                                 |
+| **Location**        | [[Launch Complex 2#Launch Pad 0C]]                                                                |
+| **Vehicle**         | [[Electron]]                                                                                      |
+| **Orbit Type**      | [[Orbits#LEO]]                                                                                    |
+| **Payload Mass**    | 224 kg                                                                                            |
+| **Target Orbit**    | 600 km \| 44°                                                                                     |
+| **Achieved Orbits** | **Whitney 8**: 586 x 612 km \| 44.12°<br>**Whitney 7**: 597 x 602 km \| 44.01°                    |
+| **Recovery**        | No Attempt                                                                                        |
+| **Mission Link**    | [Stronger Together](https://www.rocketlabusa.com/missions/missions-launched/stronger-together/)   |
+| **Press Kit**       | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Capella-Stronger-Together-Press-Kit.pdf) |
 
 
 ![[Pasted image 20250406140658.png|300]]

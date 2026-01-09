@@ -27,23 +27,30 @@ The pair of high-resolution, multi-spectral, Gen-2 satellites launched on [[Elec
 
 #electron #launch #success
 
-| **Mission Name** | The Beat Goes On                                                                              |
-| ---------------- | --------------------------------------------------------------------------------------------- |
-| **Launch Date**  | 2023-03-24 09:14                                                                              |
-| **Outcome**      | ✅ Success                                                                                     |
-| **Customer**     | [[BlackSky]]                                                                                  |
-| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                             |
-| **Vehicle**      | [[Electron]]                                                                                  |
-| **Orbit Type**   | [[Orbits#LEO]]                                                                             |
-| **Target Orbit** | 450 km &#124; 42°                                                                             |
-| **Payload Mass** | 120 kg                                                                                        |
-| **Recovery**     | Success (Ocean Landing)                                                                       |
-| **Mission Link** | [The Beat Goes On](https://www.rocketlabusa.com/missions/missions-launched/the-beat-goes-on/) |
-| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/The-Beat-Goes-On-Press-Kit.pdf)      |
+| **Mission Name**    | The Beat Goes On                                                                              |
+| ------------------- | --------------------------------------------------------------------------------------------- |
+| **Launch Date**     | 2023-03-24 09:14                                                                              |
+| **Outcome**         | ✅ Success                                                                                     |
+| **Customer**        | [[BlackSky]]                                                                                  |
+| **Location**        | [[Launch Complex 1#Launch Pad B]]                                                             |
+| **Vehicle**         | [[Electron]]                                                                                  |
+| **Orbit Type**      | [[Orbits#LEO]]                                                                                |
+| **Payload Mass**    | 120 kg                                                                                        |
+| **Target Orbit**    | 450 km &#124; 42°                                                                             |
+| **Achieved Orbits** | **Global-19**: 449 x 457 km \| 42.01°<br>**Global-5**: 448 x 456 km \| 42.01°                 |
+| **Recovery**        | Success (Ocean Landing)                                                                       |
+| **Mission Link**    | [The Beat Goes On](https://www.rocketlabusa.com/missions/missions-launched/the-beat-goes-on/) |
+| **Press Kit**       | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/The-Beat-Goes-On-Press-Kit.pdf)      |
 
 
 ![[Pasted image 20250406140754.png|300]]
 
+
+## Payload
+
+x2 [[BlackSky#BlackSky Gen-2]]
+
+![[BlackSky#BlackSky Gen-2]]
 
 ## Launch Video
 

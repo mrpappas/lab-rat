@@ -28,28 +28,31 @@ The mission was also a recovery mission, with Electron's first stage brought bac
 
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720309925613/)
 
+>[!summary] Mission Notes
+>- This marks the first launch of an Electron Rocket with a previously flown [[Electron#Rutherford Engine|Rutherford Engine]] 
 
-#electron #launch #success #rutherford
-
-| **Mission Name** | We Love The Nightlife                                                                                |
-| ---------------- | ---------------------------------------------------------------------------------------------------- |
-| **Launch Date**  | 2023-08-24 23:45                                                                                     |
-| **Outcome**      | ✅ Success                                                                                            |
-| **Customer**     | [[Capella Space]]                                                                                    |
-| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                    |
-| **Vehicle**      | [[Electron]]                                                                                         |
-| **Orbit Type**   | [[Orbits#LEO]]                                                                                    |
-| **Target Orbit** | 640 km &#124; 53°                                                                                    |
-| **Payload Mass** | 165 kg                                                                                               |
-| **Recovery**     | Success (Ocean Landing)                                                                              |
-| **Mission Link** | [We Love The Nightlife](https://www.rocketlabusa.com/missions/missions-launched/new-mission-page-3/) |
-| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/We-Love-The-Nightlife-Press-Kit3...pdf)     |
+| **Mission Name**   | We Love The Nightlife                                                                                |
+| ------------------ | ---------------------------------------------------------------------------------------------------- |
+| **Launch Date**    | 2023-08-24 23:45                                                                                     |
+| **Outcome**        | ✅ Success                                                                                            |
+| **Customer**       | [[Capella Space]]                                                                                    |
+| **Location**       | [[Launch Complex 1#Launch Pad B]]                                                                    |
+| **Vehicle**        | [[Electron]]                                                                                         |
+| **Orbit Type**     | [[Orbits#LEO]]                                                                                       |
+| **Payload Mass**   | 165 kg                                                                                               |
+| **Target Orbit**   | 640 km \| 53°                                                                                        |
+| **Achieved Orbit** | 637 x 653 km \| 53.01°                                                                               |
+| **Recovery**       | Success (Ocean Landing)                                                                              |
+| **Mission Link**   | [We Love The Nightlife](https://www.rocketlabusa.com/missions/missions-launched/new-mission-page-3/) |
+| **Press Kit**      | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/We-Love-The-Nightlife-Press-Kit3...pdf)     |
 
 ![[Pasted image 20250406141611.png|300]]
 
 ## Payload
 
-x1 [[Capella Space#🛰️ Space Systems#Acadia|Acadia SAR]] Satellite ![[Capella Space#🛰️ Space Systems#Acadia|Acadia SAR]]
+x1 [[Capella Space#Acadia]] - "Capella 11" 
+
+![[Capella Space#Acadia]]
 
 ## Launch Video
 
@@ -57,9 +60,6 @@ x1 [[Capella Space#🛰️ Space Systems#Acadia|Acadia SAR]] Satellite ![[Capell
 <iframe src="https://www.youtube.com/embed/-k2RZO9ghnc" title="Rocket Lab&#39;s Electron - We Love The Nightlife Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
 </div>
 
-## Notes
-
-- This marks the first launch of a rocket with a previously flown [[Electron#Rutherford Engine|Rutherford Engine]] 
 
 ## News
 %%DATAVIEW_PUBLISHER: start
