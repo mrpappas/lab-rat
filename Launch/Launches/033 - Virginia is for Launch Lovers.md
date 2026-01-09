@@ -29,27 +29,28 @@ Launch Complex 2 supplements Rocket Lab’s existing site, Launch Complex 1 in N
 
 #electron #launch #success
 
-| **Mission Name** | Virginia is for Launch Lovers                                                                                |
-| ---------------- | ------------------------------------------------------------------------------------------------------------ |
-| **Launch Date**  | 2023-01-24 23:00                                                                                             |
-| **Outcome**      | ✅ Success                                                                                                    |
-| **Customer**     | [[HawkEye 360]]                                                                                              |
-| **Location**     | [[Launch Complex 2#Launch Pad 0C]]                                                                           |
-| **Vehicle**      | [[Electron]]                                                                                                 |
-| **Orbit Type**   | [[Orbits#LEO]]                                                                                            |
-| **Target Orbit** | 550 km &#124; 40.5°                                                                                          |
-| **Payload Mass** | 90 kg                                                                                                        |
-| **Recovery**     | No Attempt                                                                                                   |
-| **Mission Link** | [Virginia is for Launch Lovers](https://www.rocketlabusa.com/missions/missions-launched/new-mission-page-2/) |
-| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Virginia-is-for-Launch-Lovers-Press-Kit6.pdf)       |
+| **Mission Name**    | Virginia is for Launch Lovers                                                                                     |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| **Launch Date**     | 2023-01-24 23:00                                                                                                  |
+| **Outcome**         | ✅ Success                                                                                                         |
+| **Customer**        | [[HawkEye 360]]                                                                                                   |
+| **Location**        | [[Launch Complex 2#Launch Pad 0C]]                                                                                |
+| **Vehicle**         | [[Electron]]                                                                                                      |
+| **Orbit Type**      | [[Orbits#LEO]]                                                                                                    |
+| **Payload Mass**    | 90 kg                                                                                                             |
+| **Target Orbit**    | 550 km \| 40.5°                                                                                                   |
+| **Achieved Orbits** | **Hawk 6A**: 549 x 552 km \| 40.50°<br>**Hawk 6B**: 549 x 551 km \| 40.50°<br>**Hawk 6C**: 549 x 550 km \| 40.50° |
+| **Recovery**        | No Attempt                                                                                                        |
+| **Mission Link**    | [Virginia is for Launch Lovers](https://www.rocketlabusa.com/missions/missions-launched/new-mission-page-2/)      |
+| **Press Kit**       | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Virginia-is-for-Launch-Lovers-Press-Kit6.pdf)            |
 
 ![[Pasted image 20250406140613.png|300]]
 
 ## Payload
 
-x3 [[HawkEye 360#🛰️ Space Systems#Hawk Satellite|Hawk Satellites]]
+x3 [[HawkEye 360#Hawk Satellite]]
 
-![[HawkEye 360#🛰️ Space Systems#Hawk Satellite|Hawk Satellites]]
+![[HawkEye 360#Hawk Satellite]]
 
 
 ## Launch Video

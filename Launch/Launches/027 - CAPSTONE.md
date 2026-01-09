@@ -36,9 +36,9 @@ Designed and built by [[Tyvak Nano-Satellite Systems]], a [[Terran Orbital]] Cor
 | **Customer**     | [[NASA]], [[Advanced Space]]                                                      |
 | **Location**     | [[Launch Complex 1#Launch Pad B]]                                                 |
 | **Vehicle**      | [[Electron]]                                                                      |
-| **Orbit Type**   | [[Orbits#TLI]]                                                                 |
-| **Target Orbit** | Translunar Injection (TLI)                                                        |
+| **Orbit Type**   | [[Orbits#TLI]]                                                                    |
 | **Payload Mass** | 320kg LEO / 80kg TLI                                                              |
+| **Target Orbit** | Translunar Injection (TLI)                                                        |
 | **Recovery**     | No Attempt                                                                        |
 | **Mission Link** | [CAPSTONE](https://www.rocketlabusa.com/missions/missions-launched/capstone/)     |
 | **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/CAPSTONE-Press-Kit3.pdf) |

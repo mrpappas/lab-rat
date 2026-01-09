@@ -29,19 +29,20 @@ Both NROL-199 and NROL-162 missions were a demonstration of responsive launch un
 
 #electron #launch #success
 
-| **Mission Name** | Antipodean Adventure                                                                                  |
-| ---------------- | ----------------------------------------------------------------------------------------------------- |
-| **Launch Date**  | 2022-08-04 05:00                                                                                      |
-| **Outcome**      | ✅ Success                                                                                             |
-| **Customer**     | [[National Reconnaissance Office (NRO)]]                                                              |
-| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                     |
-| **Vehicle**      | [[Electron]]                                                                                          |
-| **Orbit Type**   | [[Orbits#LEO]]                                                                                     |
-| **Target Orbit** | 620 km &#124; 70°                                                                                     |
-| **Payload Mass** | Classified                                                                                            |
-| **Recovery**     | No Attempt                                                                                            |
-| **Mission Link** | [Antipodean Adventure](https://www.rocketlabusa.com/missions/missions-launched/antipodean-adventure/) |
-| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Flight-29-Press-Kit-FINAL.pdf)               |
+| **Mission Name**   | Antipodean Adventure                                                                                  |
+| ------------------ | ----------------------------------------------------------------------------------------------------- |
+| **Launch Date**    | 2022-08-04 05:00                                                                                      |
+| **Outcome**        | ✅ Success                                                                                             |
+| **Customer**       | [[National Reconnaissance Office (NRO)]]                                                              |
+| **Location**       | [[Launch Complex 1#Launch Pad B]]                                                                     |
+| **Vehicle**        | [[Electron]]                                                                                          |
+| **Orbit Type**     | [[Orbits#LEO]]                                                                                        |
+| **Payload Mass**   | Classified                                                                                            |
+| **Target Orbit**   | 620 km \| 70°                                                                                         |
+| **Achieved Orbit** | 628 x 643 km \| 70.02°                                                                                |
+| **Recovery**       | No Attempt                                                                                            |
+| **Mission Link**   | [Antipodean Adventure](https://www.rocketlabusa.com/missions/missions-launched/antipodean-adventure/) |
+| **Press Kit**      | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Flight-29-Press-Kit-FINAL.pdf)               |
 
 
 ![[Pasted image 20250406140200.png|300]]

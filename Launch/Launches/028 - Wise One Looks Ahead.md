@@ -38,9 +38,10 @@ These twin missions are a demonstration of responsive launch under NRO’s Rapid
 | **Customer**     | [[National Reconnaissance Office (NRO)]]                                                              |
 | **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                     |
 | **Vehicle**      | [[Electron]]                                                                                          |
-| **Orbit Type**   | [[Orbits#LEO]]                                                                                     |
-| **Target Orbit** | 620 km &#124; 40°                                                                                     |
+| **Orbit Type**   | [[Orbits#LEO]]                                                                                        |
 | **Payload Mass** | Classified                                                                                            |
+| **Target Orbit** | 620 km \| 40°                                                                                         |
+| Achieved Orbit   | 585 x 595 km \| 39.80°                                                                                |
 | **Recovery**     | No Attempt                                                                                            |
 | **Mission Link** | [Wise One Looks Ahead](https://www.rocketlabusa.com/missions/missions-launched/wise-one-looks-ahead/) |
 | **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Flight-28-Press-Kit-final.pdf)               |

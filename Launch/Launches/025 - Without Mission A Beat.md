@@ -29,22 +29,31 @@ Rocket Lab launched the “Without Mission A Beat” mission from Rocket Lab Lau
 
 #electron #launch #success
 
-| **Mission Name** | Without Mission A Beat                                                                                     |
-| ---------------- | ---------------------------------------------------------------------------------------------------------- |
-| **Launch Date**  | 2022-04-02 12:41                                                                                           |
-| **Outcome**      | ✅ Success                                                                                                  |
-| **Customer**     | [[BlackSky]]                                                                                               |
-| **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                          |
-| **Vehicle**      | [[Electron]]                                                                                               |
-| **Orbit Type**   | [[Orbits#LEO]]                                                                                          |
-| **Target Orbit** | 430 km &#124; 53°                                                                                          |
-| **Payload Mass** | 120 kg                                                                                                     |
-| **Recovery**     | No Attempt                                                                                                 |
-| **Mission Link** | [Without Mission A Beat](https://www.rocketlabusa.com/missions/missions-launched/without-mission-a-beat/)  |
-| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Rocket-Lab-Without-Mission-A-Beat-Press-Kit2.pdf) |
+| **Mission Name**    | Without Mission A Beat                                                                                     |
+| ------------------- | ---------------------------------------------------------------------------------------------------------- |
+| **Launch Date**     | 2022-04-02 12:41                                                                                           |
+| **Outcome**         | ✅ Success                                                                                                  |
+| **Customer**        | [[BlackSky]]                                                                                               |
+| **Location**        | [[Launch Complex 1#Launch Pad A]]                                                                          |
+| **Vehicle**         | [[Electron]]                                                                                               |
+| **Orbit Type**      | [[Orbits#LEO]]                                                                                             |
+| **Payload Mass**    | 120 kg                                                                                                     |
+| **Target Orbit**    | 430 km \| 53°                                                                                              |
+| **Achieved Orbits** | **Global-18**: 428 x 440 km \| 53.01°<br>**Global-20**: 426 x 439 km \| 53.00°                             |
+| **Recovery**        | No Attempt                                                                                                 |
+| **Mission Link**    | [Without Mission A Beat](https://www.rocketlabusa.com/missions/missions-launched/without-mission-a-beat/)  |
+| **Press Kit**       | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Rocket-Lab-Without-Mission-A-Beat-Press-Kit2.pdf) |
 
 
 ![[Pasted image 20250406135750.png|300]]
+
+
+## Payload
+
+x2 [[BlackSky#BlackSky Gen-2]]
+
+![[BlackSky#BlackSky Gen-2]]
+
 
 ## Launch Video
 

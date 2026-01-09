@@ -34,9 +34,10 @@ This dedicated mission for General Atomics launched the GAzelle satellite carryi
 | **Customer**     | [[General Atomics Electromagnetic Systems]]                                                             |
 | **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                       |
 | **Vehicle**      | [[Electron]]                                                                                            |
-| **Orbit Type**   | [[Orbits#SSO]]                                                                                       |
-| **Target Orbit** | 750 km &#124; 98°                                                                                       |
+| **Orbit Type**   | [[Orbits#SSO]]                                                                                          |
 | **Payload Mass** | 118 kg                                                                                                  |
+| **Target Orbit** | 750 km \| 98°                                                                                           |
+| Achieved Orbit   | 744 x 761 km \| 98.32°                                                                                  |
 | **Recovery**     | No Attempt                                                                                              |
 | **Mission Link** | [It Argos Up From Here](https://www.rocketlabusa.com/missions/missions-launched/it-argos-up-from-here/) |
 | **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/F31-It-Argos-Up-From-Here-Press-Kit-v4.pdf)    |

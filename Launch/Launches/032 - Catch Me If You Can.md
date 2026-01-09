@@ -23,25 +23,26 @@ Launched from Pad B at Rocket Lab Launch Complex 1 on New Zealand’s Mahia Peni
 
 The mission deployed its 152nd satellite to orbit, the MATS science payload for the [[Swedish National Space Agency]]. 
 
-The “Catch Me If You Can” mission also resulted in a successful ocean splashdown of the Electron rocket’s first stage. Rocket Lab had planned to attempt amid-air capture of Electron’s first stage with a helicopter if conditions allowed, however not all requirements were met to ensure a successful capture Due to a brief telemetry loss with Electron’s first stage during its atmospheric re-entry, the helicopter was moved out of the capture zone per standard safety procedure. The Electron first stage completed a safe splashdown and will be brought back to Rocket Lab’s production facility for inspection and analysis.
+The “Catch Me If You Can” mission also resulted in a successful ocean splashdown of the Electron rocket’s first stage. Rocket Lab had planned to attempt amid-air capture of Electron’s first stage with a helicopter if conditions allowed, however not all requirements were met to ensure a successful capture due to a brief telemetry loss with Electron’s first stage during its atmospheric re-entry, the helicopter was moved out of the capture zone per standard safety procedure. The Electron first stage completed a safe splashdown and will be brought back to Rocket Lab’s production facility for inspection and analysis.
 
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720303420541/)
 
 #electron #launch #success
 
-| **Mission Name** | Catch Me If You Can                                                                                 |
-| ---------------- | --------------------------------------------------------------------------------------------------- |
-| **Launch Date**  | 2022-11-04 17:27                                                                                    |
-| **Outcome**      | ✅ Success                                                                                           |
-| **Customer**     | [[Swedish National Space Agency]]                                                                   |
-| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                   |
-| **Vehicle**      | [[Electron]]                                                                                        |
-| **Orbit Type**   | [[Orbits#SSO]]                                                                                   |
-| **Target Orbit** | 585 km &#124; 97.66°                                                                                |
-| **Payload Mass** | 50 kg                                                                                               |
-| **Recovery**     | Partial Failure (Aerial Capture)                                                                    |
-| **Mission Link** | [Catch Me If You Can](https://www.rocketlabusa.com/missions/missions-launched/catch-me-if-you-can/) |
-| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/F32-Catch-Me-Press-Kit.pdf)                |
+| **Mission Name**   | Catch Me If You Can                                                                                 |
+| ------------------ | --------------------------------------------------------------------------------------------------- |
+| **Launch Date**    | 2022-11-04 17:27                                                                                    |
+| **Outcome**        | ✅ Success                                                                                           |
+| **Customer**       | [[Swedish National Space Agency]]                                                                   |
+| **Location**       | [[Launch Complex 1#Launch Pad B]]                                                                   |
+| **Vehicle**        | [[Electron]]                                                                                        |
+| **Orbit Type**     | [[Orbits#SSO]]                                                                                      |
+| **Payload Mass**   | 50 kg                                                                                               |
+| **Target Orbit**   | 585 km \| 97.66°                                                                                    |
+| **Achieved Orbit** | 580 x 597 km \| 97.65°                                                                              |
+| **Recovery**       | Partial Failure (Aerial Capture)                                                                    |
+| **Mission Link**   | [Catch Me If You Can](https://www.rocketlabusa.com/missions/missions-launched/catch-me-if-you-can/) |
+| **Press Kit**      | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/F32-Catch-Me-Press-Kit.pdf)                |
 
 ![[Pasted image 20250406140526.png|300]]
 

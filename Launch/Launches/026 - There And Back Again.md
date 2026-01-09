@@ -42,9 +42,9 @@ The “There And Back Again” mission deployed 34 satellites to a sun synchrono
 | **Customer**     | [[Alba Orbital]], [[Astrix Astronautics]], [[Aurora Propulsion Technologies]], [[E-Space]], [[Spaceflight]], [[Unseenlabs]] |
 | **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                                           |
 | **Vehicle**      | [[Electron]]                                                                                                                |
-| **Orbit Type**   | [[Orbits#SSO]]                                                                                                           |
-| **Target Orbit** | 520 km &#124; 94°                                                                                                           |
+| **Orbit Type**   | [[Orbits#SSO]]                                                                                                              |
 | **Payload Mass** | Unknown                                                                                                                     |
+| **Target Orbit** | 520 km &#124; 94°                                                                                                           |
 | **Recovery**     | Partial Failure (Aerial Capture)                                                                                            |
 | **Mission Link** | [There And Back Again](https://www.rocketlabusa.com/missions/missions-launched/there-and-back-again/)                       |
 | **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/There-And-Back-Again-Press-Kit2.pdf)                               |
