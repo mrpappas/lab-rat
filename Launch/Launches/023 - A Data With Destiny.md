@@ -29,21 +29,30 @@ The two Gen-2 satellites on this mission, along with those previously launched b
 
 #electron #launch #success
 
-| **Mission Name** | A Data With Destiny                                                                                 |
-| ---------------- | --------------------------------------------------------------------------------------------------- |
-| **Launch Date**  | 2021-12-09 00:02                                                                                    |
-| **Outcome**      | ✅ Success                                                                                           |
-| **Customer**     | [[BlackSky]]                                                                                        |
-| **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                   |
-| **Vehicle**      | [[Electron]]                                                                                        |
-| **Orbit Type**   | [[Orbits#LEO]]                                                                                   |
-| **Target Orbit** | 430 km &#124; 42°                                                                                   |
-| **Payload Mass** | 120 kg                                                                                              |
-| **Recovery**     | No Attempt                                                                                          |
-| **Mission Link** | [A Data With Destiny](https://www.rocketlabusa.com/missions/missions-launched/a-data-with-destiny/) |
-| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Flight-23-Press-Kit-v1.pdf)                |
+| **Mission Name**    | A Data With Destiny                                                                                 |
+| ------------------- | --------------------------------------------------------------------------------------------------- |
+| **Launch Date**     | 2021-12-09 00:02                                                                                    |
+| **Outcome**         | ✅ Success                                                                                           |
+| **Customer**        | [[BlackSky]]                                                                                        |
+| **Location**        | [[Launch Complex 1#Launch Pad A]]                                                                   |
+| **Vehicle**         | [[Electron]]                                                                                        |
+| **Orbit Type**      | [[Orbits#LEO]]                                                                                      |
+| **Payload Mass**    | 120 kg                                                                                              |
+| **Target Orbit**    | 430 km \| 42°                                                                                       |
+| **Achieved Orbits** | **Global-16**: 430 x 439 km \| 42.01°<br>**Global-17**: 433 x 440 km \| 42.01°                      |
+| **Recovery**        | No Attempt                                                                                          |
+| **Mission Link**    | [A Data With Destiny](https://www.rocketlabusa.com/missions/missions-launched/a-data-with-destiny/) |
+| **Press Kit**       | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Flight-23-Press-Kit-v1.pdf)                |
 
 ![[Pasted image 20250406135608.png|300]]
+
+
+## Payload
+
+x2 [[BlackSky#BlackSky Gen-2]]
+
+![[BlackSky#BlackSky Gen-2]]
+
 
 ## Launch Video
 

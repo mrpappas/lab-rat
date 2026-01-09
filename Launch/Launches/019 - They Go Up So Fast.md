@@ -44,19 +44,19 @@ The final payload on this mission was Rocket Lab’s in-house designed and built
 
 #electron #launch #success
 
-| **Mission Name** | They Go Up So Fast                                                                                                                                  |
-| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Launch Date**  | 2021-03-22 22:30                                                                                                                                    |
-| **Outcome**      | ✅ Success                                                                                                                                           |
+| **Mission Name** | They Go Up So Fast                                                                                                                                                                    |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Launch Date**  | 2021-03-22 22:30                                                                                                                                                                      |
+| **Outcome**      | ✅ Success                                                                                                                                                                             |
 | **Customer**     | [[BlackSky]], [[Tyvak Nano-Satellite Systems]], [[Fleet Space]], [[Myriota]], [[UNSW Canberra Space]], [[Care Weather]], [[U.S. Army Space and Missile Defense Command]], [[Trisept]] |
-| **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                                                                   |
-| **Vehicle**      | [[Electron]]                                                                                                                                        |
-| **Orbit Type**   | [[Orbits#LEO]]                                                                                                                                   |
-| **Target Orbit** | 450 km and 550 km &#124; 45°                                                                                                                        |
-| **Payload Mass** | Unknown                                                                                                                                             |
-| **Recovery**     | No Attempt                                                                                                                                          |
-| **Mission Link** | [They Go Up So Fast](https://www.rocketlabusa.com/missions/missions-launched/they-go-up-so-fast/)                                                   |
-| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Flight-19-They-Go-Up-So-Fast-Press-Kit-small.pdf)                                          |
+| **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                                                                                                     |
+| **Vehicle**      | [[Electron]]                                                                                                                                                                          |
+| **Orbit Type**   | [[Orbits#LEO]]                                                                                                                                                                        |
+| **Payload Mass** | Unknown                                                                                                                                                                               |
+| **Target Orbit** | 450 km and 550 km &#124; 45°                                                                                                                                                          |
+| **Recovery**     | No Attempt                                                                                                                                                                            |
+| **Mission Link** | [They Go Up So Fast](https://www.rocketlabusa.com/missions/missions-launched/they-go-up-so-fast/)                                                                                     |
+| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Flight-19-They-Go-Up-So-Fast-Press-Kit-small.pdf)                                                                            |
 
 ![[Pasted image 20250406133130.png|300]]
 

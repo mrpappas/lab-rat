@@ -43,9 +43,9 @@ This mission also included Rocket Lab's first attempt to bring Electron’s firs
 | **Customer**     | [[Trisept]], [[Unseenlabs]], [[Swarm]], [[The University of Auckland]], [[Valve]]                  |
 | **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                  |
 | **Vehicle**      | [[Electron]]                                                                                       |
-| **Orbit Type**   | [[Orbits#SSO]]                                                                                  |
-| **Target Orbit** | 500 km &#124; 97.3°                                                                                |
+| **Orbit Type**   | [[Orbits#SSO]]                                                                                     |
 | **Payload Mass** | 200 kg                                                                                             |
+| **Target Orbit** | 500 km &#124; 97.3°                                                                                |
 | **Recovery**     | Success (Ocean Landing)                                                                            |
 | **Mission Link** | [Return to Sender](https://www.rocketlabusa.com/missions/missions-launched/flight-16/)             |
 | **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Return-to-Sender-Press-Kit-RL-Final3.pdf) |

@@ -27,22 +27,26 @@ The mission was named ‘It’s a Little Chile Up Here’ in a nod to the belove
 
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720301764530/)
 
+>[!summary] Mission Notes
+>Payload: STP-27RM - "Monolith"
+>- https://www.americaspace.com/2023/01/25/rocket-lab-successfully-launches-first-electron-mission-from-u-s-soil/
+>- https://www.mbie.govt.nz/dmsdocument/16454-permitting-decision-summary-stp-27rm-monolith-us-air-force-research-laboratory-united-states-air-force-pdf
+>- https://spacenews.com/electron-rocket-successfully-launches-satellite-for-us-space-force-from-rocket-lab-usaaeurs-new-zealand-launch-site/
 
-#electron #launch #success
-
-| **Mission Name** | It's A Little Chile Up Here                                                                                        |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------ |
-| **Launch Date**  | 2021-07-29 06:00                                                                                                   |
-| **Outcome**      | ✅ Success                                                                                                          |
-| **Customer**     | [[U.S. Space Force]]                                                                                               |
-| **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                                  |
-| **Vehicle**      | [[Electron]]                                                                                                       |
-| **Orbit Type**   | [[Orbits#LEO]]                                                                                                  |
-| **Target Orbit** | 600 km &#124; 37°                                                                                                  |
-| **Payload Mass** | Unknown                                                                                                            |
-| **Recovery**     | No Attempt                                                                                                         |
-| **Mission Link** | [It's A Little Chile Up Here](https://www.rocketlabusa.com/missions/missions-launched/its-a-little-chile-up-here/) |
-| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Rocket-Lab-Its-A-Little-Chile-Up-Here-Press-Kit-sml.pdf)  |
+| **Mission Name**   | It's A Little Chile Up Here                                                                                        |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------ |
+| **Launch Date**    | 2021-07-29 06:00                                                                                                   |
+| **Outcome**        | ✅ Success                                                                                                          |
+| **Customer**       | [[U.S. Space Force]]                                                                                               |
+| **Location**       | [[Launch Complex 1#Launch Pad A]]                                                                                  |
+| **Vehicle**        | [[Electron]]                                                                                                       |
+| **Orbit Type**     | [[Orbits#LEO]]                                                                                                     |
+| **Payload Mass**   | Unknown                                                                                                            |
+| **Target Orbit**   | 600 km \| 37°                                                                                                      |
+| **Achieved Orbit** | 598 x 609 km \| 37.02°                                                                                             |
+| **Recovery**       | No Attempt                                                                                                         |
+| **Mission Link**   | [It's A Little Chile Up Here](https://www.rocketlabusa.com/missions/missions-launched/its-a-little-chile-up-here/) |
+| **Press Kit**      | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Rocket-Lab-Its-A-Little-Chile-Up-Here-Press-Kit-sml.pdf)  |
 
 ![[Pasted image 20250406135406.png|300]]
 

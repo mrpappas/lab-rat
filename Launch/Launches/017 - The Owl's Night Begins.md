@@ -30,25 +30,29 @@ The StriX-α satellite onboard this mission was the first of a series of spacecr
 
 #electron #launch #success
 
-| **Mission Name** | The Owl's Night Begins                                                                                     |
-| ---------------- | ---------------------------------------------------------------------------------------------------------- |
-| **Launch Date**  | 2020-12-15 10:09                                                                                           |
-| **Outcome**      | ✅ Success                                                                                                  |
-| **Customer**     | [[Synspective]]                                                                                            |
-| **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                          |
-| **Vehicle**      | [[Electron]]                                                                                               |
-| **Orbit Type**   | [[Orbits#SSO]]                                                                                          |
-| **Target Orbit** | 500 km &#124; 97.3°                                                                                        |
-| **Payload Mass** | 150 kg                                                                                                     |
-| **Recovery**     | No Attempt                                                                                                 |
-| **Mission Link** | [The Owl's Night Begins](https://www.rocketlabusa.com/missions/missions-launched/the-owls-night-begins-2/) |
-| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Flight-17-Press-Kit2.pdf)                         |
+| **Mission Name**   | The Owl's Night Begins                                                                                     |
+| ------------------ | ---------------------------------------------------------------------------------------------------------- |
+| **Launch Date**    | 2020-12-15 10:09                                                                                           |
+| **Outcome**        | ✅ Success                                                                                                  |
+| **Customer**       | [[Synspective]]                                                                                            |
+| **Location**       | [[Launch Complex 1#Launch Pad A]]                                                                          |
+| **Vehicle**        | [[Electron]]                                                                                               |
+| **Orbit Type**     | [[Orbits#SSO]]                                                                                             |
+| **Payload Mass**   | 150 kg                                                                                                     |
+| **Target Orbit**   | 500 km \| 97.3°                                                                                            |
+| **Achieved Orbit** | 495 x 512 km \| 97.38°                                                                                     |
+| **Recovery**       | No Attempt                                                                                                 |
+| **Mission Link**   | [The Owl's Night Begins](https://www.rocketlabusa.com/missions/missions-launched/the-owls-night-begins-2/) |
+| **Press Kit**      | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Flight-17-Press-Kit2.pdf)                         |
 
 ![[Pasted image 20250406132917.png|300]]
 
 ## Payload
 
-x1 [[Synspective#🛰️ Space Systems#StriX|StriX Series Satellites]] ![[Synspective#🛰️ Space Systems#StriX]]
+x1 [[Synspective#StriX]] - "StriX-Alpha"
+
+![[Synspective#StriX]]
+
 ## Launch Video
 
 <div class="responsive-video">

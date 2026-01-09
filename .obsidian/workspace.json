@@ -13,13 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Launch/Launches/025 - Without Mission A Beat.md",
+                "file": "Launch/Launches/015 - In Focus.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "025 - Without Mission A Beat"
+              "title": "015 - In Focus"
+            }
+          },
+          {
+            "id": "338f6c0010758f8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "News/Rocket Lab Completes Anomaly Review, Next Mission on the Pad in July.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Rocket Lab Completes Anomaly Review, Next Mission on the Pad in July"
             }
           }
         ]
@@ -199,6 +214,18 @@
   },
   "active": "5db46e81fc677933",
   "lastOpenFiles": [
+    "Launch/Launches/016 - Return to Sender.md",
+    "Launch/Launches/015 - In Focus.md",
+    "Launch/Launches/017 - The Owl's Night Begins.md",
+    "Launch/Launches/018 - Another One Leaves the Crust.md",
+    "Launch/Launches/019 - They Go Up So Fast.md",
+    "Launch/Launches/020 - Running Out Of Toes.md",
+    "Launch/Launches/023 - A Data With Destiny.md",
+    "Launch/Launches/022 - Love At First Insight.md",
+    "Launch/Launches/021 - It's A Little Chile Up Here.md",
+    "News/Rocket Lab Completes Anomaly Review, Next Mission on the Pad in July.md",
+    "Launch/Launches/024 - The Owl's Night Continues.md",
+    "Launch/Launches/025 - Without Mission A Beat.md",
     "Launch/Launches/026 - There And Back Again.md",
     "Launch/Launches/027 - CAPSTONE.md",
     "Launch/Launches/028 - Wise One Looks Ahead.md",
@@ -213,18 +240,6 @@
     "Launch/Launches/033 - Virginia is for Launch Lovers.md",
     "Organization/Partners/Swedish National Space Agency.md",
     "Organization/Partners/Capella Space.md",
-    "Organization/Partners/BlackSky.md",
-    "Launch/Launches/037 - Coming To A Storm Near You.md",
-    "Launch/Launches/039 - Baby Come Back.md",
-    "Launch/Launches/038 - Scout's Arrow.md",
-    "Launch/Launches/042 - The Moon God Awakens.md",
-    "Launch/Launches/041 - We Will Never Desert You.md",
-    "Launch/Launches/040 - We Love The Nightlife.md",
-    "Launch/Launches/043 - Four Of A Kind.md",
-    "Launch/Launches/079 - The Wisdom God Guides.md",
-    "Launch/Launches/078 - Don't Be Such A Square.md",
-    "Launch/Launches/077 - RAISE and Shine.md",
-    "Launch/Launches/076 - Follow My Speed.md",
     "Vault-Assets/PDFs/Launch-Media-Kit-Flight-eight.pdf",
     "Vault-Assets/Images/Pasted image 20251228164641.png",
     "Vault-Assets/Images/Pasted image 20251228152608.png",

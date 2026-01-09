@@ -27,26 +27,29 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/the-owls-n
 
 #electron #launch #success
 
-| **Mission Name** | The Owl's Night Continues                                                                                      |
-| ---------------- | -------------------------------------------------------------------------------------------------------------- |
-| **Launch Date**  | 2022-02-28 20:37                                                                                               |
-| **Outcome**      | ✅ Success                                                                                                      |
-| **Customer**     | [[Synspective]]                                                                                                |
-| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                              |
-| **Vehicle**      | [[Electron]]                                                                                                   |
-| **Orbit Type**   | [[Orbits#SSO]]                                                                                              |
-| **Target Orbit** | 561 km &#124; 97°                                                                                              |
-| **Payload Mass** | 150 kg                                                                                                         |
-| **Recovery**     | No Attempt                                                                                                     |
-| **Mission Link** | [The Owl's Night Continues](https://www.rocketlabusa.com/missions/missions-launched/the-owls-night-continues/) |
-| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Rocket-Lab-The-Owls-Night-Continues-Press-Kit.pdf)    |
+| **Mission Name**    | The Owl's Night Continues                                                                                      |
+| ------------------- | -------------------------------------------------------------------------------------------------------------- |
+| **Launch Date**     | 2022-02-28 20:37                                                                                               |
+| **Outcome**         | ✅ Success                                                                                                      |
+| **Customer**        | [[Synspective]]                                                                                                |
+| **Location**        | [[Launch Complex 1#Launch Pad B]]                                                                              |
+| **Vehicle**         | [[Electron]]                                                                                                   |
+| **Orbit Type**      | [[Orbits#SSO]]                                                                                                 |
+| **Payload Mass**    | 150 kg                                                                                                         |
+| **Target Orbit**    | 561 km \| 97°                                                                                                  |
+| **Achieved Orbits** | 555 x 572 km \| 97.78°                                                                                         |
+| **Recovery**        | No Attempt                                                                                                     |
+| **Mission Link**    | [The Owl's Night Continues](https://www.rocketlabusa.com/missions/missions-launched/the-owls-night-continues/) |
+| **Press Kit**       | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Rocket-Lab-The-Owls-Night-Continues-Press-Kit.pdf)    |
 
 
 ![[Pasted image 20250406135656.png|300]]
 
 ## Payload
 
-x1 [[Synspective#🛰️ Space Systems#StriX|StriX Series Satellites]] ![Synspective#🛰️ Space Systems#StriX]]
+x1 [[Synspective#StriX]] - "StriX-Beta"
+
+![[Synspective#StriX]]
 
 ## Launch Video
 
