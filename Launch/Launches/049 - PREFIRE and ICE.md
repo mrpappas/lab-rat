@@ -29,20 +29,21 @@ The ‘PREFIRE and Ice’ launch launched on June 5th, 2024 from [[Launch Comple
 
 #electron #launch #success
 
-| **Mission Name** | PREFIRE and ICE                                                                             |
-| ---------------- | ------------------------------------------------------------------------------------------- |
-| **Launch Date**  | 2024-06-05 03:15                                                                            |
-| **Outcome**      | ✅ Success                                                                                   |
-| **Customer**     | [[NASA]]                                                                                    |
-| Contract         | [[VADR]]                                                                                    |
-| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                           |
-| **Vehicle**      | [[Electron]]                                                                                |
-| **Orbit Type**   | [[Orbits#SSO]]                                                                           |
-| **Target Orbit** | 525 km &#124; 97.5°                                                                         |
-| **Payload Mass** | 15 kg                                                                                       |
-| **Recovery**     | No Attempt                                                                                  |
-| **Mission Link** | [PREFIRE and ICE](https://www.rocketlabusa.com/missions/missions-launched/prefire-and-ice/) |
-| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/RL-F49-PREFIRE-Ice.pdf)            |
+| **Mission Name**   | PREFIRE and ICE                                                                             |
+| ------------------ | ------------------------------------------------------------------------------------------- |
+| **Launch Date**    | 2024-06-05 03:15                                                                            |
+| **Outcome**        | ✅ Success                                                                                   |
+| **Customer**       | [[NASA]]                                                                                    |
+| Contract           | [[VADR]]                                                                                    |
+| **Location**       | [[Launch Complex 1#Launch Pad B]]                                                           |
+| **Vehicle**        | [[Electron]]                                                                                |
+| **Orbit Type**     | [[Orbits#SSO]]                                                                              |
+| **Payload Mass**   | 15 kg                                                                                       |
+| **Target Orbit**   | 525 km \| 97.5°                                                                             |
+| **Achieved Orbit** | 523 x 538 km \| 97.45°                                                                      |
+| **Recovery**       | No Attempt                                                                                  |
+| **Mission Link**   | [PREFIRE and ICE](https://www.rocketlabusa.com/missions/missions-launched/prefire-and-ice/) |
+| **Press Kit**      | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/RL-F49-PREFIRE-Ice.pdf)            |
 
 ![[Pasted image 20250406142403.png|300]]
 

@@ -31,19 +31,20 @@ The mission also included the successful splashdown and recovery of Electron's f
 
 #electron #launch #success
 
-| **Mission Name** | Four Of A Kind                                                                                     |
-| ---------------- | -------------------------------------------------------------------------------------------------- |
-| **Launch Date**  | 2024-01-31 06:34                                                                                   |
-| **Outcome**      | ✅ Success                                                                                          |
-| **Customer**     | [[Spire Global]], [[NorthStar Earth & Space]]                                                      |
-| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                  |
-| **Vehicle**      | [[Electron]]                                                                                       |
-| **Orbit Type**   | [[Orbits#LEO]]                                                                                  |
-| **Target Orbit** | 530 km &#124; 97°                                                                                  |
-| **Payload Mass** | 112 kg                                                                                             |
-| **Recovery**     | Success (Ocean Landing)                                                                            |
-| **Mission Link** | [Four Of A Kind](https://www.rocketlabusa.com/missions/missions-launched/four-of-a-kind/)          |
-| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/F43-Four-Of-A-Kind-Press-Kit-updated.pdf) |
+| **Mission Name**    | Four Of A Kind                                                                                                                                                           |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Launch Date**     | 2024-01-31 06:34                                                                                                                                                         |
+| **Outcome**         | ✅ Success                                                                                                                                                                |
+| **Customer**        | [[Spire Global]], [[NorthStar Earth & Space]]                                                                                                                            |
+| **Location**        | [[Launch Complex 1#Launch Pad B]]                                                                                                                                        |
+| **Vehicle**         | [[Electron]]                                                                                                                                                             |
+| **Orbit Type**      | [[Orbits#LEO]]                                                                                                                                                           |
+| **Payload Mass**    | 112 kg                                                                                                                                                                   |
+| **Target Orbit**    | 530 km &#124; 97°                                                                                                                                                        |
+| **Achieved Orbits** | **NorthStar 1**: 521 x 539 km \| 97.49°<br>**NorthStar 2**: 519 x 540 km \| 97.47°<br>**NorthStar 3**: 521 x 537 km \| 97.48°<br>**NorthStar 4**: 523 x 540 km \| 97.48° |
+| **Recovery**        | Success (Ocean Landing)                                                                                                                                                  |
+| **Mission Link**    | [Four Of A Kind](https://www.rocketlabusa.com/missions/missions-launched/four-of-a-kind/)                                                                                |
+| **Press Kit**       | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/F43-Four-Of-A-Kind-Press-Kit-updated.pdf)                                                                       |
 
 
 ![[Pasted image 20250406141919.png|300]]

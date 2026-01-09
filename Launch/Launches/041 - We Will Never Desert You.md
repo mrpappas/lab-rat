@@ -29,6 +29,21 @@ Anomaly occurred 2 minutes 30 seconds into the flight.
 
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720311276483/)
 
+>[!summary] Notes on Anomaly
+**Findings for the cause of the anomaly:** 
+>
+Exhaustive testing and analysis to recreate this failure mode has led to the investigation team’s determination that the arc was likely only made possible by the rare interaction of multiple conditions. Any one of these factors on their own would likely not have caused the failure of the second stage, but when they occur simultaneously in the low-pressure environment of space, they reach the threshold dictated by Paschen’s Law for an arc to form and travel. Paschen's Law is an equation that breaks down the relationship between voltage, pressure environment, distance between electrodes, and presence of gas necessary for an electrical arc to form and travel.
+>
+Three rare conditions had to present simultaneously in the low-pressure space environment to reach the threshold for arcing under [Paschen’s Law](https://en.wikipedia.org/wiki/Paschen%27s_law), including:
+>- A superimposed alternating current (AC) with the direct current (DC) high-voltage electricity provided to the stage’s power supply system, that is produced as a ripple voltage from the system’s engine motor controllers;
+>- A small concentration of helium and nitrogen gasses that were present within the interstage between Electron’s first and second stages; and
+>- An imperceptible fault in the insulation of the high voltage loom within the power supply system.
+>
+>This anomaly delayed all Electron launches for ~3 months.
+>
+Source: [[Rocket Lab Sets Next Electron Launch Window, Provides Update on Anomaly Review]]
+
+
 #electron #launch #failure #anomaly
 
 | **Mission Name** | We Will Never Desert You                                                                                       |
@@ -38,9 +53,10 @@ Anomaly occurred 2 minutes 30 seconds into the flight.
 | **Customer**     | [[Capella Space]]                                                                                              |
 | **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                              |
 | **Vehicle**      | [[Electron]]                                                                                                   |
-| **Orbit Type**   | [[Orbits#LEO]]                                                                                              |
-| **Target Orbit** | 640 km &#124; 53°                                                                                              |
+| **Orbit Type**   | [[Orbits#LEO]]                                                                                                 |
 | **Payload Mass** | 165 kg                                                                                                         |
+| **Target Orbit** | 640 km &#124; 53°                                                                                              |
+| Achieved Orbit   | n/a                                                                                                            |
 | **Recovery**     | No Attempt                                                                                                     |
 | **Mission Link** | [We Will Never Desert You](https://www.rocketlabusa.com/missions/missions-launched/we-will-never-desert-you/)  |
 | **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/FINAL-Capella-We-Will-Never-Desert-You-Press-Kit.pdf) |
@@ -49,29 +65,15 @@ Anomaly occurred 2 minutes 30 seconds into the flight.
 
 ## Payload
 
-x1 [[Capella Space#🛰️ Space Systems#Acadia|Acadia SAR]] Satellite ![[Capella Space#🛰️ Space Systems#Acadia|Acadia SAR]]
+x1 [[Capella Space#Acadia]] 
+
+![[Capella Space#Acadia]]
 
 ## Launch Video
 
 <div class="responsive-video">
 <iframe src="https://www.youtube.com/embed/AfYFqsk_NGk" title="Rocket Lab&#39;s Electron - We Will Never Desert You Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>     
 </div>
-
-## Notes
-
-
-This anomaly delayed all Electron launches for ~3 months.
-
-**Findings for the cause of the anomaly:** 
-
-Exhaustive testing and analysis to recreate this failure mode has led to the investigation team’s determination that the arc was likely only made possible by the rare interaction of multiple conditions. Any one of these factors on their own would likely not have caused the failure of the second stage, but when they occur simultaneously in the low-pressure environment of space, they reach the threshold dictated by Paschen’s Law for an arc to form and travel. Paschen's Law is an equation that breaks down the relationship between voltage, pressure environment, distance between electrodes, and presence of gas necessary for an electrical arc to form and travel.
-
-Three rare conditions had to present simultaneously in the low-pressure space environment to reach the threshold for arcing under [Paschen’s Law](https://en.wikipedia.org/wiki/Paschen%27s_law), including:
-- A superimposed alternating current (AC) with the direct current (DC) high-voltage electricity provided to the stage’s power supply system, that is produced as a ripple voltage from the system’s engine motor controllers;
-- A small concentration of helium and nitrogen gasses that were present within the interstage between Electron’s first and second stages; and
-- An imperceptible fault in the insulation of the high voltage loom within the power supply system.
-
-Source: [[Rocket Lab Sets Next Electron Launch Window, Provides Update on Anomaly Review]]
 
 
 ## News

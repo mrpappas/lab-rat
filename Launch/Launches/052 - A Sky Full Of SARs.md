@@ -28,26 +28,29 @@ Rocket Lab launched a dedicated mission for [[Capella Space]], a provider of SAR
 
 #electron #launch #success
 
-| **Mission Name** | A Sky Full Of SARs                                                                                |
-| ---------------- | ------------------------------------------------------------------------------------------------- |
-| **Launch Date**  | 2024-08-11 13:18                                                                                  |
-| **Outcome**      | ✅ Success                                                                                         |
-| **Customer**     | [[Capella Space]]                                                                                 |
-| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                 |
-| **Vehicle**      | [[Electron]]                                                                                      |
-| **Orbit Type**   | [[Orbits#LEO]]                                                                                 |
-| **Target Orbit** | 615 km &#124; 53°                                                                                 |
-| **Payload Mass** | 165 kg                                                                                            |
-| **Recovery**     | No Attempt                                                                                        |
-| **Mission Link** | [A Sky Full Of SARs](https://www.rocketlabusa.com/missions/missions-launched/a-sky-full-of-sars/) |
-| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/FINAL-RL-F52-Capella-Press-Kit.pdf)      |
+| **Mission Name**   | A Sky Full Of SARs                                                                                |
+| ------------------ | ------------------------------------------------------------------------------------------------- |
+| **Launch Date**    | 2024-08-11 13:18                                                                                  |
+| **Outcome**        | ✅ Success                                                                                         |
+| **Customer**       | [[Capella Space]]                                                                                 |
+| **Location**       | [[Launch Complex 1#Launch Pad B]]                                                                 |
+| **Vehicle**        | [[Electron]]                                                                                      |
+| **Orbit Type**     | [[Orbits#LEO]]                                                                                    |
+| **Payload Mass**   | 165 kg                                                                                            |
+| **Target Orbit**   | 615 km \| 53°                                                                                     |
+| **Achieved Orbit** | 606 x 619 km \| 53.01°                                                                            |
+| **Recovery**       | No Attempt                                                                                        |
+| **Mission Link**   | [A Sky Full Of SARs](https://www.rocketlabusa.com/missions/missions-launched/a-sky-full-of-sars/) |
+| **Press Kit**      | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/FINAL-RL-F52-Capella-Press-Kit.pdf)      |
 
 ![[Pasted image 20250406144233.png|300]]
 
 
 ## Payload
 
-[[Capella Space#🛰️ Space Systems#Acadia|Acadia-3]] Satellite ![[Capella Space#🛰️ Space Systems#Acadia|Acadia-3]]
+[[Capella Space#Acadia]] "Acadia-3" 
+
+![[Capella Space#Acadia]]
 
 ## Launch Video
 

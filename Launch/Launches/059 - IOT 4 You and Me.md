@@ -38,25 +38,28 @@ Kinéis' satellite-based AIS (S-AIS) is a high-performance system (requiring no 
 
 #electron #launch #success
 
-| **Mission Name** | IOT 4 You and Me                                                                              |
-| ---------------- | --------------------------------------------------------------------------------------------- |
-| **Launch Date**  | 2025-02-09 09:43 NZDT / 2025-02-03 20:43 UTC                                                  |
-| **Outcome**      | ✅ Success                                                                                     |
-| **Customer**     | [[Kinéis]]                                                                                    |
-| **Location**     | [[Launch Complex 1#Launch Pad A]]                                                             |
-| **Vehicle**      | [[Electron]]                                                                                  |
-| **Orbit Type**   | [[Orbits#SSO]]                                                                             |
-| **Target Orbit** | 643 km &#124; 97°                                                                             |
-| **Payload Mass** | 150 kg                                                                                        |
-| **Recovery**     | No Attempt                                                                                    |
-| **Mission Link** | [IOT 4 You and Me](https://www.rocketlabusa.com/missions/missions-launched/iot-4-you-and-me/) |
-| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/IOT-4-You-and-Me-Press-Kit.pdf)      |
+| **Mission Name**    | IOT 4 You and Me                                                                                                                                                                                          |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Launch Date**     | 2025-02-09 09:43 NZDT / 2025-02-03 20:43 UTC                                                                                                                                                              |
+| **Outcome**         | ✅ Success                                                                                                                                                                                                 |
+| **Customer**        | [[Kinéis]]                                                                                                                                                                                                |
+| **Location**        | [[Launch Complex 1#Launch Pad A]]                                                                                                                                                                         |
+| **Vehicle**         | [[Electron]]                                                                                                                                                                                              |
+| **Orbit Type**      | [[Orbits#SSO]]                                                                                                                                                                                            |
+| **Payload Mass**    | 150 kg                                                                                                                                                                                                    |
+| **Target Orbit**    | 643 km \| 97°                                                                                                                                                                                             |
+| **Achieved Orbits** | **Kineis-2A**: 509 x 662 km \| 97.92°<br>**Kineis-2B**: 581 x 641 km \| 97.93°<br>**Kineis-2C**: 636 x 652 km \| 97.96°<br>**Kineis-2D**: 617 x 658 km \| 97.97°<br>**Kineis-2E**: 607 x 665 km \| 97.94° |
+| **Recovery**        | No Attempt                                                                                                                                                                                                |
+| **Mission Link**    | [IOT 4 You and Me](https://www.rocketlabusa.com/missions/missions-launched/iot-4-you-and-me/)                                                                                                             |
+| **Press Kit**       | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/IOT-4-You-and-Me-Press-Kit.pdf)                                                                                                                  |
 
 
 ![[Pasted image 20250406151910.png|300]]
 ## Payload
 
-x5 [[Kinéis#🛰️ Space Systems#Kinéis IoT|Kinéis IoT]] Satellites ![[Kinéis#🛰️ Space Systems#Kinéis IoT|Kinéis IoT]]
+x5 [[Kinéis#Kinéis IoT]]
+
+![[Kinéis#Kinéis IoT]]
 
 ## Launch Video
 

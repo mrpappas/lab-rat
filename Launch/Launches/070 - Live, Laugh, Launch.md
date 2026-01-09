@@ -25,20 +25,20 @@ mission_link: https://rocketlabcorp.com/missions/missions-launched/live-laugh-la
 
 [📸 Mission Photo Album]()
 
-| **Mission Name** | Live, Laugh, Launch                                                                            |
-| ---------------- | ---------------------------------------------------------------------------------------------- |
-| **Launch Date**  | August 23 2025 22:30 UTC                                                                       |
-| **Outcome**      | Success ✅                                                                                      |
-| **Customer**     | Confidential Customer (Likely [[EchoStar]])                                                    |
-| **Location**     | [[Launch Complex 1#Launch Pad A]]                                                              |
-| **Vehicle**      | [[Electron]]                                                                                   |
-| **Orbit Type**   | [[Orbits#SSO]]                                                                                 |
-| **Target Orbit** | 650 km \| 96°                                                                                  |
-| Achieved Orbit   | 652 x 658 km \| 97.97°                                                                         |
-| **Payload Mass** | x1 [[EchoStar#Lyra Block-1]] (74 kg), x4 Cubesats (48-96kg)                                    |
-| **Recovery**     | No Attempt                                                                                     |
-| **Mission Link** | [Live, Laugh, Launch](https://rocketlabcorp.com/missions/missions-launched/live-laugh-launch/) |
-| **Press Kit**    | 🚫 No Press Kit Issued for this mission                                                        |
+| **Mission Name**   | Live, Laugh, Launch                                                                            |
+| ------------------ | ---------------------------------------------------------------------------------------------- |
+| **Launch Date**    | August 23 2025 22:30 UTC                                                                       |
+| **Outcome**        | Success ✅                                                                                      |
+| **Customer**       | Confidential Customer (Likely [[EchoStar]])                                                    |
+| **Location**       | [[Launch Complex 1#Launch Pad A]]                                                              |
+| **Vehicle**        | [[Electron]]                                                                                   |
+| **Orbit Type**     | [[Orbits#SSO]]                                                                                 |
+| **Payload Mass**   | x1 [[EchoStar#Lyra Block-1]] (74 kg), x4 Cubesats (48-96kg)                                    |
+| **Target Orbit**   | 650 km \| 96°                                                                                  |
+| **Achieved Orbit** | 652 x 658 km \| 97.97°                                                                         |
+| **Recovery**       | No Attempt                                                                                     |
+| **Mission Link**   | [Live, Laugh, Launch](https://rocketlabcorp.com/missions/missions-launched/live-laugh-launch/) |
+| **Press Kit**      | 🚫 No Press Kit Issued for this mission                                                        |
 
 ![[Pasted image 20250818195937.png|300]]
 

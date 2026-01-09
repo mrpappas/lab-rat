@@ -22,19 +22,20 @@ mission_link: https://rocketlabcorp.com/missions/missions-launched/the-wisdom-go
 
 The mission was Rocket Lab’s sixth launch for iQPS in 2025 alone (and seventh launch overall) to deploy the company’s constellation, highlighting the streamlined operational benefits and control over schedule that Rocket Lab’s launch service provides satellite operators. Rocket Lab is the primary launcher for iQPS’ commercial synthetic aperture radar (SAR) constellation, which is being developed and deployed at a rapid pace to provide high resolution and near-real time SAR imagery to its global users. A further five launches on Electron for iQPS are planned from 2026. 
 
-| **Mission Name** | The Wisdom God Guides                                                                                |
-| ---------------- | ---------------------------------------------------------------------------------------------------- |
-| **Launch Date**  | 2025-12-21 06:36 UTC                                                                                 |
-| **Outcome**      | ✅ Success                                                                                            |
-| **Customer**     | [[iQPS]]                                                                                             |
-| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                    |
-| **Vehicle**      | [[Electron]]                                                                                         |
-| **Orbit Type**   | [[Orbits#LEO]]                                                                                       |
-| **Target Orbit** | 575 km \| 42°                                                                                        |
-| **Payload Mass** | 100 kg                                                                                               |
-| **Recovery**     | No Attempt                                                                                           |
-| **Mission Link** | [The Wisdom God Guides](https://rocketlabcorp.com/missions/missions-launched/the-wisdom-god-guides/) |
-| **Press Kit**    | No Press Kit                                                                                         |
+| **Mission Name**   | The Wisdom God Guides                                                                                |
+| ------------------ | ---------------------------------------------------------------------------------------------------- |
+| **Launch Date**    | 2025-12-21 06:36 UTC                                                                                 |
+| **Outcome**        | ✅ Success                                                                                            |
+| **Customer**       | [[iQPS]]                                                                                             |
+| **Location**       | [[Launch Complex 1#Launch Pad B]]                                                                    |
+| **Vehicle**        | [[Electron]]                                                                                         |
+| **Orbit Type**     | [[Orbits#LEO]]                                                                                       |
+| **Payload Mass**   | 100 kg                                                                                               |
+| **Target Orbit**   | 575 km \| 42°                                                                                        |
+| **Achieved Orbit** | 569 x 583 km \| 42.01°                                                                               |
+| **Recovery**       | No Attempt                                                                                           |
+| **Mission Link**   | [The Wisdom God Guides](https://rocketlabcorp.com/missions/missions-launched/the-wisdom-god-guides/) |
+| **Press Kit**      | No Press Kit                                                                                         |
 
 
 ![[Pasted image 20251220111307.png|300]]

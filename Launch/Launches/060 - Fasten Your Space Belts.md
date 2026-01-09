@@ -28,19 +28,20 @@ Like earlier Black Sky launches on [[Electron]], this mission was supported by a
 
 #electron #launch #success
 
-| **Mission Name** | Fasten Your Space Belts                                                                                     |
-| ---------------- | ----------------------------------------------------------------------------------------------------------- |
-| **Launch Date**  | 2025-02-19 12:17 NZDT                                                                                       |
-| **Outcome**      | ✅ Success                                                                                                   |
-| **Customer**     | [[BlackSky]]                                                                                                |
-| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                           |
-| **Vehicle**      | [[Electron]]                                                                                                |
-| **Orbit Type**   | [[Orbits#LEO]]                                                                                           |
-| **Target Orbit** | 470 km &#124; 59°                                                                                           |
-| **Payload Mass** | 138 kg                                                                                                      |
-| **Recovery**     | No Attempt                                                                                                  |
-| **Mission Link** | [Fasten Your Space Belts](https://www.rocketlabusa.com/missions/missions-launched/fasten-your-space-belts/) |
-| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/RL-F60-BlackSky-Fasten-Your-Space-Belts.pdf)       |
+| **Mission Name**   | Fasten Your Space Belts                                                                                     |
+| ------------------ | ----------------------------------------------------------------------------------------------------------- |
+| **Launch Date**    | 2025-02-19 12:17 NZDT                                                                                       |
+| **Outcome**        | ✅ Success                                                                                                   |
+| **Customer**       | [[BlackSky]]                                                                                                |
+| **Location**       | [[Launch Complex 1#Launch Pad B]]                                                                           |
+| **Vehicle**        | [[Electron]]                                                                                                |
+| **Orbit Type**     | [[Orbits#LEO]]                                                                                              |
+| **Payload Mass**   | 138 kg                                                                                                      |
+| **Target Orbit**   | 470 km \| 59°                                                                                               |
+| **Achieved Orbit** | 466 x 476 km \| 59.00°                                                                                      |
+| **Recovery**       | No Attempt                                                                                                  |
+| **Mission Link**   | [Fasten Your Space Belts](https://www.rocketlabusa.com/missions/missions-launched/fasten-your-space-belts/) |
+| **Press Kit**      | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/RL-F60-BlackSky-Fasten-Your-Space-Belts.pdf)       |
 
 
 ![[Pasted image 20250406152034.png|300]]
@@ -48,7 +49,10 @@ Like earlier Black Sky launches on [[Electron]], this mission was supported by a
 
 ## Payload
 
-X1 [[BlackSky#🛰️ Space Systems#BlackSky Gen-3|BlackSky Gen-3]] ![[BlackSky#🛰️ Space Systems#BlackSky Gen-3|BlackSky Gen-3]]
+X1 [[BlackSky#BlackSky Gen-3]] 
+
+![[BlackSky#🛰️ Space Systems#BlackSky Gen-3|BlackSky Gen-3]]
+
 
 ## Launch Video
 

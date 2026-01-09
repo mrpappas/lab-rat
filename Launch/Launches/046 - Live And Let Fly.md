@@ -25,21 +25,27 @@ The ‘Live And Let Fly’ launch service was acquired using NRO’s Rapid Acqui
 
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720315524540/)
 
-#electron #launch #success
+>[!summary] Notes
+>Classified Payloads later revealed as: 
+>- [USA 352](https://space.skyrocket.de/doc_sdat/usa-352.htm)
+>- [Mola](https://space.skyrocket.de/doc_sdat/mola.htm)
+>- [AeroCube 16A + AeroCube 16B](https://space.skyrocket.de/doc_sdat/aerocube-16.htm)
 
-| **Mission Name** | Live And Let Fly                                                                              |
-| ---------------- | --------------------------------------------------------------------------------------------- |
-| **Launch Date**  | 2024-03-21 06:40                                                                              |
-| **Outcome**      | ✅ Success                                                                                     |
-| **Customer**     | [[National Reconnaissance Office (NRO)]]                                                      |
-| **Location**     | [[Launch Complex 2#Launch Pad 0C]]                                                            |
-| **Vehicle**      | [[Electron]]                                                                                  |
-| **Orbit Type**   | [[Orbits#LEO]]                                                                             |
-| **Target Orbit** | Classified                                                                                    |
-| **Payload Mass** | Classified                                                                                    |
-| **Recovery**     | No Attempt                                                                                    |
-| **Mission Link** | [Live And Let Fly](https://www.rocketlabusa.com/missions/missions-launched/live-and-let-fly/) |
-| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Live-Let-Fly-Press-Kit.pdf)          |
+| **Mission Name**    | Live And Let Fly                                                                                                                                          |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Launch Date**     | 2024-03-21 06:40                                                                                                                                          |
+| **Outcome**         | ✅ Success                                                                                                                                                 |
+| **Customer**        | [[National Reconnaissance Office (NRO)]]                                                                                                                  |
+| **Location**        | [[Launch Complex 2#Launch Pad 0C]]                                                                                                                        |
+| **Vehicle**         | [[Electron]]                                                                                                                                              |
+| **Orbit Type**      | [[Orbits#LEO]]                                                                                                                                            |
+| **Payload Mass**    | Classified                                                                                                                                                |
+| **Target Orbit**    | Classified                                                                                                                                                |
+| **Achieved Orbits** | **USA 352**: 417 x 430 km \| 50.00°<br>**Mola**: 509 x 517 km \| 50.00°<br>**AeroCube 16A**: 509 x 515 \| 50.00°<br>**AeroCube 16B**: 509 x 514 \| 50.00° |
+| **Recovery**        | No Attempt                                                                                                                                                |
+| **Mission Link**    | [Live And Let Fly](https://www.rocketlabusa.com/missions/missions-launched/live-and-let-fly/)                                                             |
+| **Press Kit**       | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Live-Let-Fly-Press-Kit.pdf)                                                                      |
+
 
 ![[Pasted image 20250406142138.png|300]]
 

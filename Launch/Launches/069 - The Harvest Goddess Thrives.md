@@ -25,27 +25,27 @@ The mission deployed [[iQPS#QPS-SAR|QPS-SAR-12]], nicknamed KUSHINADA-I for the 
 
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720328159446/)
 
-| **Mission Name** | The Harvest Goddess Thrives                                                                                        |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------ |
-| **Launch Date**  | 2025-08-05 04:10 UTC                                                                                               |
-| **Outcome**      | ✅ Success                                                                                                          |
-| **Customer**     | [[iQPS]]                                                                                                           |
-| **Contract**     | [[iQPS Four Launch Contract 2024]]                                                                                 |
-| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                                  |
-| **Vehicle**      | [[Electron]]                                                                                                       |
-| **Orbit Type**   | [[Orbits#LEO]]                                                                                                     |
-| **Target Orbit** | 575 km \| 42°                                                                                                      |
-| Achieved Orbit   | 572 x 581 \| 42.01°                                                                                                |
-| **Payload Mass** | 100 kg                                                                                                             |
-| **Recovery**     | No Attempt                                                                                                         |
-| **Mission Link** | [The Harvest Goddess Thrives](https://rocketlabcorp.com/missions/missions-launched/the-harvest-goddess-thrives-2/) |
-| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/F70-The-Harvest-Goddess-Thrives-Presskit.pdf)             |
+| **Mission Name**   | The Harvest Goddess Thrives                                                                                        |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------ |
+| **Launch Date**    | 2025-08-05 04:10 UTC                                                                                               |
+| **Outcome**        | ✅ Success                                                                                                          |
+| **Customer**       | [[iQPS]]                                                                                                           |
+| **Contract**       | [[iQPS Four Launch Contract 2024]]                                                                                 |
+| **Location**       | [[Launch Complex 1#Launch Pad B]]                                                                                  |
+| **Vehicle**        | [[Electron]]                                                                                                       |
+| **Orbit Type**     | [[Orbits#LEO]]                                                                                                     |
+| **Payload Mass**   | 100 kg                                                                                                             |
+| **Target Orbit**   | 575 km \| 42°                                                                                                      |
+| **Achieved Orbit** | 572 x 581 km \| 42.01°                                                                                             |
+| **Recovery**       | No Attempt                                                                                                         |
+| **Mission Link**   | [The Harvest Goddess Thrives](https://rocketlabcorp.com/missions/missions-launched/the-harvest-goddess-thrives-2/) |
+| **Press Kit**      | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/F70-The-Harvest-Goddess-Thrives-Presskit.pdf)             |
 
 ![[Pasted image 20250803000345.png|300]]
 
 ## Payload
 
-x 1 [[iQPS#🛰️ Space Systems#QPS-SAR|QPS-SAR]]
+x 1 [[iQPS#QPS-SAR]]
 
 ![[iQPS#QPS-SAR]]
 

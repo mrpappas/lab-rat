@@ -36,8 +36,8 @@ Rocket Lab’s launch vehicle showcased a new suite of cutting-edge technologies
 | **Location**     | [[Launch Complex 2#Launch Pad 0C]]                                                            |
 | **Vehicle**      | [[HASTE]]                                                                                     |
 | **Orbit Type**   | n/a                                                                                           |
-| **Target Orbit** | Suborbital                                                                                    |
 | **Payload Mass** | unknown                                                                                       |
+| **Target Orbit** | Suborbital                                                                                    |
 | **Recovery**     | n/a                                                                                           |
 | **Mission Link** | [HASTE A La Vista](https://www.rocketlabusa.com/missions/missions-launched/haste-a-la-vista/) |
 | **Press Kit**    | 🚫 No Press Kit Issued for this Mission                                                       |

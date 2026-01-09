@@ -96,7 +96,7 @@ date: 2026-01-02
 
 **Peter Beck (Rocket Lab CEO) (8:46):** Well, we're certainly not going to outspend them. So, you know, we have to out innovate, out think, and out hustle. And look, this has just been the DNA of the company to date.
 
-**Peter Beck (Rocket Lab CEO) (8:58):** And, you know, if you look across the history of rocket companies, it's not great. And there there's really only been SpaceX and Rocket Lab that have, as commercial companies at least, that have broken through to some kind of scale and cadence and all those kinds of things.
+**Peter Beck (Rocket Lab CEO) (8:58):** And, you know, if you look across and kind of survey the history of rocket companies, it's not great. And there there's really only been SpaceX and Rocket Lab that have, as commercial companies at least, that have broken through to some kind of scale and cadence and all those kinds of things.
 
 **Peter Beck (Rocket Lab CEO) (9:17):** And a lot of that is attributed to developing this company and growing this company in adversity and not having tremendous amount of resources. You know, every dollar, every second of every hour is precious.
 
@@ -162,7 +162,7 @@ date: 2026-01-02
 
 **Peter Beck (Rocket Lab CEO) (15:43):** And then, you know, fast forward to today, that same mission can be done with something slightly larger than a microwave, just with the reduction of electronics and compute power and all those sorts of things. So, you know, that is no longer a project of a nation state. It's a project of a company.
 
-**Peter Beck (Rocket Lab CEO) (16:03):** And of course this is where platforms like Electron really come into their own, where, you know, the launch is the final piece of that puzzle.
+**Peter Beck (Rocket Lab CEO) (16:03):** And of course this is where projects and platforms like Electron really come into their own, where, you know, the launch is the final piece of that puzzle.
 
 **Miles O’Brien (Host) (16:16):** So give me an idea of the kinds of customers that might be interested in launching and operating these smaller satellites.
 
@@ -242,7 +242,7 @@ date: 2026-01-02
 
 ### Neutron Mission, Market Fit, and Methane Reusability (23:16)
 
-**Miles O’Brien (Host) (23:16):** So what is the mission for Neutron? Is it is it a Falcon 9 killer? Are you going to try to compete head-to-head—who—what's the addressable market for the Neutron?
+**Miles O’Brien (Host) (23:16):** So what is the mission for Neutron? Is it is it a Falcon 9 killer? Are you going to try to compete head-to-head— (**Peter Beck**: No) - who—what's the addressable market for the Neutron?
 
 **Peter Beck (Rocket Lab CEO) (23:27):** So, if you look at all of the payloads that have been launched in the last 10 years, and you exclude things like Starlink, which are obviously, you know, SpaceX's own payload, the average mass was 5 tons.
 
@@ -368,7 +368,7 @@ date: 2026-01-02
 
 **Miles O’Brien (Host) (34:27):** Interesting. So, but that's on ice for now.
 
-**Peter Beck (Rocket Lab CEO) (34:35):** I guess that's on ice. But it's like I say that Mars telecommunication orbiter project is something that everybody is agreed on. So we will look to see that coming in the near future.
+**Peter Beck (Rocket Lab CEO) (34:35):** That's on ice. But it's like I say that Mars telecommunication orbiter project is something that everybody is agreed on. So we will look to see that coming in the near future.
 
 ---
 
@@ -468,7 +468,7 @@ date: 2026-01-02
 
 **Peter Beck (Rocket Lab CEO) (43:38):** And the way I look at it is—and, you know, one of the reasons for taking Rocket Lab public was—if you want to have impact you can do one really big thing once or you can do lots of little things for many, many, many, many decades over and over and over again.
 
-**Peter Beck (Rocket Lab CEO) (43:50):** So, you know, the definition of success here for me is building like this long multi-generational space company that just keeps having impact year after year after year after year.
+**Peter Beck (Rocket Lab CEO) (43:50):** So, you know, the definition of success here for me is building like this long living multi-generational space company that just keeps having impact year after year after year after year.
 
 ---
 

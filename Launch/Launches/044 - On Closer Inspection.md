@@ -36,9 +36,10 @@ To enable the rendezvous with a non-cooperative space object required a dedicate
 | **Customer**     | [[Astroscale-Japan]]                                                                                  |
 | **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                     |
 | **Vehicle**      | [[Electron]]                                                                                          |
-| **Orbit Type**   | [[Orbits#SSO]]                                                                                     |
-| **Target Orbit** | 600 km &#124; 98°                                                                                     |
+| **Orbit Type**   | [[Orbits#SSO]]                                                                                        |
 | **Payload Mass** | 150 kg                                                                                                |
+| **Target Orbit** | 600 km \| 98°                                                                                         |
+| Achieved Orbit   | 533 x 597 km \| 98.20°                                                                                |
 | **Recovery**     | No Attempt                                                                                            |
 | **Mission Link** | [On Closer Inspection](https://www.rocketlabusa.com/missions/missions-launched/on-closer-inspection/) |
 | **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/F44-On-Closer-Inspection-Press-Kit-web.pdf)  |

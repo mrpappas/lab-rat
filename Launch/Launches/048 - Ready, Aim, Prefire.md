@@ -32,20 +32,21 @@ The missions will be Rocket Lab’s 48th and 49th Electron launches overall and 
 
 #electron #launch #success
 
-| **Mission Name** | Ready, Aim, PREFIRE                                                                               |
-| ---------------- | ------------------------------------------------------------------------------------------------- |
-| **Launch Date**  | 2024-05-25 07:15                                                                                  |
-| **Outcome**      | ✅ Success                                                                                         |
-| **Customer**     | [[NASA]]                                                                                          |
-| Contract         | [[VADR]]                                                                                          |
-| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                 |
-| **Vehicle**      | [[Electron]]                                                                                      |
-| **Orbit Type**   | [[Orbits#SSO]]                                                                                 |
-| **Target Orbit** | 525 km &#124; 97.5°                                                                               |
-| **Payload Mass** | 15 kg                                                                                             |
-| **Recovery**     | No Attempt                                                                                        |
-| **Mission Link** | [Ready, Aim, PREFIRE](https://www.rocketlabusa.com/missions/missions-launched/ready-aim-prefire/) |
-| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/FINAL-PREFIRE-presskit-Web.pdf)          |
+| **Mission Name**   | Ready, Aim, PREFIRE                                                                               |
+| ------------------ | ------------------------------------------------------------------------------------------------- |
+| **Launch Date**    | 2024-05-25 07:15                                                                                  |
+| **Outcome**        | ✅ Success                                                                                         |
+| **Customer**       | [[NASA]]                                                                                          |
+| Contract           | [[VADR]]                                                                                          |
+| **Location**       | [[Launch Complex 1#Launch Pad B]]                                                                 |
+| **Vehicle**        | [[Electron]]                                                                                      |
+| **Orbit Type**     | [[Orbits#SSO]]                                                                                    |
+| **Payload Mass**   | 15 kg                                                                                             |
+| **Target Orbit**   | 525 km \| 97.5°                                                                                   |
+| **Achieved Orbit** | 524 x 541 km \| 97.50°                                                                            |
+| **Recovery**       | No Attempt                                                                                        |
+| **Mission Link**   | [Ready, Aim, PREFIRE](https://www.rocketlabusa.com/missions/missions-launched/ready-aim-prefire/) |
+| **Press Kit**      | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/FINAL-PREFIRE-presskit-Web.pdf)          |
 
 ![[Pasted image 20250406142303.png|300]]
 

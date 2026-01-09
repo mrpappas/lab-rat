@@ -34,8 +34,8 @@ This mission provided hypersonic test launch capabilities under the Multi-Servic
 | **Location**     | [[Launch Complex 2#Launch Pad 0C]]      |
 | **Vehicle**      | [[HASTE]]                               |
 | **Orbit Type**   | n/a                                     |
-| **Target Orbit** | Suborbital                              |
 | **Payload Mass** | unknown                                 |
+| **Target Orbit** | Suborbital                              |
 | **Recovery**     | n/a                                     |
 | **Mission Link** | None                                    |
 | **Press Kit**    | 🚫 No Press Kit Issued for this Mission |

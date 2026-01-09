@@ -22,20 +22,20 @@ mission_link: https://rocketlabcorp.com/missions/missions-launched/follow-my-spe
 
 [📸 Mission Photo Album](https://flickr.com/photos/rocketlab/albums/72177720330444407/)
 
-| **Mission Name** | Follow My Speed                                                                          |
-| ---------------- | ---------------------------------------------------------------------------------------- |
-| **Launch Date**  | 2025-11-20 12:43 UTC                                                                     |
-| **Outcome**      | ✅ Success                                                                                |
-| **Customer**     | Confidential Customer (Likely [[BlackSky]])                                              |
-| **Location**     | [[Launch Complex 1#Launch Pad A]]                                                        |
-| **Vehicle**      | [[Electron]]                                                                             |
-| **Orbit Type**   | [[Orbits#LEO]]                                                                           |
-| **Target Orbit** | 470 km \| 42°                                                                            |
-| Achieved Orbit   | 465 x 476 km \| 42.02°                                                                   |
-| **Payload Mass** | 138 kg                                                                                   |
-| **Recovery**     | No Attempt                                                                               |
-| **Mission Link** | [Follow My Speed](https://rocketlabcorp.com/missions/missions-launched/follow-my-speed/) |
-| **Press Kit**    | 🚫 No Press Kit Issued for this mission                                                  |
+| **Mission Name**   | Follow My Speed                                                                          |
+| ------------------ | ---------------------------------------------------------------------------------------- |
+| **Launch Date**    | 2025-11-20 12:43 UTC                                                                     |
+| **Outcome**        | ✅ Success                                                                                |
+| **Customer**       | Confidential Customer (Likely [[BlackSky]])                                              |
+| **Location**       | [[Launch Complex 1#Launch Pad A]]                                                        |
+| **Vehicle**        | [[Electron]]                                                                             |
+| **Orbit Type**     | [[Orbits#LEO]]                                                                           |
+| **Payload Mass**   | 138 kg                                                                                   |
+| **Target Orbit**   | 470 km \| 42°                                                                            |
+| **Achieved Orbit** | 465 x 476 km \| 42.02°                                                                   |
+| **Recovery**       | No Attempt                                                                               |
+| **Mission Link**   | [Follow My Speed](https://rocketlabcorp.com/missions/missions-launched/follow-my-speed/) |
+| **Press Kit**      | 🚫 No Press Kit Issued for this mission                                                  |
 
 ![[Pasted image 20251120111745.png|300]]
 

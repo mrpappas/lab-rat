@@ -29,27 +29,28 @@ Launched on March 27th 2025, the mission delivered 8x OroraTech Constellation Ph
 
 #electron #launch
 
-| **Mission Name** | Finding Hot Wildfires Near You                                                                                            |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| **Launch Date**  | 2025-03-26 15:30 UTC                                                                                                      |
-| **Outcome**      | ✅ Success                                                                                                                 |
-| **Customer**     | [[Orora Technlogies]]                                                                                                     |
-| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                                         |
-| **Vehicle**      | [[Electron]]                                                                                                              |
-| **Orbit Type**   | [[Orbits#LEO]]                                                                                                         |
-| **Target Orbit** | 550 km &#124; 97°                                                                                                         |
-| **Payload Mass** | Unknown                                                                                                                   |
-| **Recovery**     | No Attempt                                                                                                                |
-| **Mission Link** | [Finding Hot Wildfires Near You](https://www.rocketlabusa.com/missions/missions-launched/finding-hot-wildfires-near-you/) |
-| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/F63-OroraTech-presskit.pdf)                                      |
+| **Mission Name**   | Finding Hot Wildfires Near You                                                                                                                                                                                                                                                                                               |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Launch Date**    | 2025-03-26 15:30 UTC                                                                                                                                                                                                                                                                                                         |
+| **Outcome**        | ✅ Success                                                                                                                                                                                                                                                                                                                    |
+| **Customer**       | [[Orora Technlogies]]                                                                                                                                                                                                                                                                                                        |
+| **Location**       | [[Launch Complex 1#Launch Pad B]]                                                                                                                                                                                                                                                                                            |
+| **Vehicle**        | [[Electron]]                                                                                                                                                                                                                                                                                                                 |
+| **Orbit Type**     | [[Orbits#LEO]]                                                                                                                                                                                                                                                                                                               |
+| **Payload Mass**   | Unknown                                                                                                                                                                                                                                                                                                                      |
+| **Target Orbit**   | 550 km \| 97°                                                                                                                                                                                                                                                                                                                |
+| **Achieve Orbits** | **OTC-P1-1**: 527 x 566 km \| 97.52°<br>**OTC-P1-2**: 525 x 556 km \| 97.52°<br>**OTC-P1-3**: 524 x 556 km \| 97.52°<br>**OTC-P1-4**: 524 x 557 km \| 97.52°<br>**OTC-P1-5**: 526 x 552 km \| 97.52°<br>**OTC-P1-6**: 525 x 548 km \| 97.51°<br>**OTC-P1-7**: 520 x 556 km \| 97.51°<br>**OTC-P1-8**: 524 x 552 km \| 97.52° |
+| **Recovery**       | No Attempt                                                                                                                                                                                                                                                                                                                   |
+| **Mission Link**   | [Finding Hot Wildfires Near You](https://www.rocketlabusa.com/missions/missions-launched/finding-hot-wildfires-near-you/)                                                                                                                                                                                                    |
+| **Press Kit**      | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/F63-OroraTech-presskit.pdf)                                                                                                                                                                                                                                         |
 
 
 ![[Pasted image 20250320132549.png|300]]
 ## Payload
 
-x8 [[Orora Technlogies#🛰️ Space Systems#OTC-P1|OTC-P1]] satellites
+x8 [[Orora Technlogies#OTC-P1]] satellites
 
-![[Orora Technlogies#🛰️ Space Systems#OTC-P1|OTC-P1]]
+![[Orora Technlogies#OTC-P1]]
 
 ## Launch Video
 

@@ -31,19 +31,20 @@ The secondary payload was NASA's ACS3, a technology demonstration of new materia
 
 #electron #launch #success
 
-| **Mission Name** | Beginning Of The Swarm                                                                                    |
-| ---------------- | --------------------------------------------------------------------------------------------------------- |
-| **Launch Date**  | 2024-04-23 22:00                                                                                          |
-| **Outcome**      | ✅ Success                                                                                                 |
-| **Customer**     | [[NASA]], [[KAIST]]                                          |
-| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                         |
-| **Vehicle**      | [[Electron]]                                                                                              |
-| **Orbit Type**   | [[Orbits#SSO]]                                                                                         |
-| **Target Orbit** | 520 km (Neonsat-1), 1,000 km (ACS3) &#124; 97°                                                            |
-| **Payload Mass** | 115 kg                                                                                                    |
-| **Recovery**     | No Attempt                                                                                                |
-| **Mission Link** | [Beginning Of The Swarm](https://www.rocketlabusa.com/missions/missions-launched/beginning-of-the-swarm/) |
-| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/RL-F47-BeginningOfTheSwarm-PressKit-2.pdf)       |
+| **Mission Name**    | Beginning Of The Swarm                                                                                    |
+| ------------------- | --------------------------------------------------------------------------------------------------------- |
+| **Launch Date**     | 2024-04-23 22:00                                                                                          |
+| **Outcome**         | ✅ Success                                                                                                 |
+| **Customer**        | [[NASA]], [[KAIST]]                                                                                       |
+| **Location**        | [[Launch Complex 1#Launch Pad B]]                                                                         |
+| **Vehicle**         | [[Electron]]                                                                                              |
+| **Orbit Type**      | [[Orbits#SSO]]                                                                                            |
+| **Payload Mass**    | 115 kg                                                                                                    |
+| **Target Orbit**    | 520 km (Neonsat-1), 1,000 km (ACS3) \| 97°                                                                |
+| **Achieved Orbits** | **Neonsat-1**: 504 x 528 \| 97.41°<br>**ACS3**: 987 x 1020 km \| 97.41°                                   |
+| **Recovery**        | No Attempt                                                                                                |
+| **Mission Link**    | [Beginning Of The Swarm](https://www.rocketlabusa.com/missions/missions-launched/beginning-of-the-swarm/) |
+| **Press Kit**       | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/RL-F47-BeginningOfTheSwarm-PressKit-2.pdf)       |
 
 
 ![[Pasted image 20250406142222.png|300]]

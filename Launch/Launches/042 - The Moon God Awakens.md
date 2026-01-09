@@ -31,26 +31,29 @@ In addition to being launched by Electron, the QPS-SAR-5 satellite used Rocket L
 
 #electron #launch #success
 
-| **Mission Name** | The Moon God Awakens                                                                                 |
-| ---------------- | ---------------------------------------------------------------------------------------------------- |
-| **Launch Date**  | 2023-12-15 04:05                                                                                     |
-| **Outcome**      | ✅ Success                                                                                            |
-| **Customer**     | [[iQPS]]                                                                                             |
-| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                    |
-| **Vehicle**      | [[Electron]]                                                                                         |
-| **Orbit Type**   | [[Orbits#LEO]]                                                                                    |
-| **Target Orbit** | 575 km &#124; 42°                                                                                    |
-| **Payload Mass** | 100 kg                                                                                               |
-| **Recovery**     | No Attempt                                                                                           |
-| **Mission Link** | [The Moon God Awakens](https://www.rocketlabusa.com/missions/missions-launched/the-moon-god-awakes/) |
-| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/The-Moon-God-Awakens-Press-Kit5.pdf)        |
+| **Mission Name**   | The Moon God Awakens                                                                                 |
+| ------------------ | ---------------------------------------------------------------------------------------------------- |
+| **Launch Date**    | 2023-12-15 04:05                                                                                     |
+| **Outcome**        | ✅ Success                                                                                            |
+| **Customer**       | [[iQPS]]                                                                                             |
+| **Location**       | [[Launch Complex 1#Launch Pad B]]                                                                    |
+| **Vehicle**        | [[Electron]]                                                                                         |
+| **Orbit Type**     | [[Orbits#LEO]]                                                                                       |
+| **Payload Mass**   | 100 kg                                                                                               |
+| **Target Orbit**   | 575 km \| 42°                                                                                        |
+| **Achieved Orbit** | 574 x 583 km \| 42.02°                                                                               |
+| **Recovery**       | No Attempt                                                                                           |
+| **Mission Link**   | [The Moon God Awakens](https://www.rocketlabusa.com/missions/missions-launched/the-moon-god-awakes/) |
+| **Press Kit**      | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/The-Moon-God-Awakens-Press-Kit5.pdf)        |
 
 
 ![[Pasted image 20250406141811.png|300]]
 
 ## Payload
 
-x1 [[iQPS#🛰️ Space Systems#QPS-SAR|QPS-SAR]] Satellite for [[iQPS]] ![[iQPS#🛰️ Space Systems#QPS-SAR|QPS-SAR]]
+x1 [[iQPS#QPS-SAR]] - "Tsukuyomi-I"
+
+![[iQPS#QPS-SAR]]
 
 ## Launch Video
 

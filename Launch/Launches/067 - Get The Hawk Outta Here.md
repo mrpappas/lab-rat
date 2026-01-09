@@ -29,31 +29,32 @@ All of HawkEye 360’s satellites launched on Electron are deployed from Rocket 
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720327142787/)
 
 
-| **Mission Name** | Get The Hawk Outta Here                                                                                   |
-| ---------------- | --------------------------------------------------------------------------------------------------------- |
-| **Launch Date**  | 2025-06-26 17:00 UTC                                                                                      |
-| **Outcome**      | ✅ Success                                                                                                 |
-| **Customer**     | [[HawkEye 360]]                                                                                           |
-| **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                         |
-| **Vehicle**      | [[Electron]]                                                                                              |
-| **Orbit Type**   | [[Orbits#SSO]]                                                                                         |
-| **Target Orbit** | 520 km \| 97.45°                                                                                          |
-| **Payload Mass** | Unknown                                                                                                   |
-| **Recovery**     | No Attempt Likely                                                                                         |
-| **Mission Link** | [Get The Hawk Outta Here](https://rocketlabcorp.com/missions/missions-launched/get-the-hawk-outta-here/)  |
-| **Press Kit**    | [Press Kit](https://rocketlabcorp.com/assets/Uploads/RL-F68-Get-The-Hawk-Outta-Here-Presskit-1-_-sml.pdf) |
+| **Mission Name**    | Get The Hawk Outta Here                                                                                                                                        |
+| ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Launch Date**     | 2025-06-26 17:00 UTC                                                                                                                                           |
+| **Outcome**         | ✅ Success                                                                                                                                                      |
+| **Customer**        | [[HawkEye 360]]                                                                                                                                                |
+| **Location**        | [[Launch Complex 1#Launch Pad A]]                                                                                                                              |
+| **Vehicle**         | [[Electron]]                                                                                                                                                   |
+| **Orbit Type**      | [[Orbits#SSO]]                                                                                                                                                 |
+| **Payload Mass**    | Unknown                                                                                                                                                        |
+| **Target Orbit**    | 520 km \| 97.45°                                                                                                                                               |
+| **Achieved Orbits** | **Hawk 12A**: 512 x 531 km \| 97.44°<br>**Hawk 12B**: 513 x 531 km \| 97.44°<br>**Hawk 12C**: 514 x 532 km \| 97.44°<br>**Kestrel-0A**: 510 x 530 km \| 97.44° |
+| **Recovery**        | No Attempt Likely                                                                                                                                              |
+| **Mission Link**    | [Get The Hawk Outta Here](https://rocketlabcorp.com/missions/missions-launched/get-the-hawk-outta-here/)                                                       |
+| **Press Kit**       | [Press Kit](https://rocketlabcorp.com/assets/Uploads/RL-F68-Get-The-Hawk-Outta-Here-Presskit-1-_-sml.pdf)                                                      |
 
 ![[Pasted image 20250625025712.png|300]]
 
 ## Payload
 
-x3 Hawk Satellites
+x3 [[HawkEye 360#Hawk Satellite]]
 x1 [Kestrel-0A](https://space.skyrocket.de/doc_sdat/kestrel-0a.htm)
 
 Cluster 12 - "a trio of microsats called Cluster 12 to collect and geolocate radio frequency signals from around the world" built on the Defiant platform. 
 [Source](https://www.utias-sfl.net/hawkeye-360-begins-manufacturing-of-satellite-clusters-12-and-13-under-space-flight-laboratorys-flex-production-program/)
 
-![[HawkEye 360#🛰️ Space Systems#Hawk Satellite]]
+![[HawkEye 360#Hawk Satellite]]
 
 ## Launch Video
 

@@ -31,19 +31,20 @@ On October 12, 2022, JAXA launched the Epsilon-6 rocket carrying RAISE-3 and sev
 >
 The "Phoenix" Mission Rather than waiting years for the next [Epsilon vehicle](https://en.wikipedia.org/wiki/Epsilon_(rocket)) (the under-development Epsilon S), JAXA initiated a recovery plan to re-fly the lost experiments as quickly as possible. They authorized the "Innovative Satellite Technology Demonstration-4" program to rebuild the satellite bus (now RAISE-4) and re-manufacture the lost payloads.
 
-| **Mission Name** | Raise and Shine                                                                          |
-| ---------------- | ---------------------------------------------------------------------------------------- |
-| **Launch Date**  | NET 2025-12-14 03:09 UTC                                                                 |
-| **Outcome**      | ✅ Success                                                                                |
-| **Customer**     | [[JAXA]]                                                                                 |
-| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                        |
-| **Vehicle**      | [[Electron]]                                                                             |
-| **Orbit Type**   | [[Orbits#SSO]]                                                                           |
-| **Target Orbit** | 540 km \| 97.5°                                                                          |
-| **Payload Mass** | ~110 kg                                                                                  |
-| **Recovery**     | No Attempt                                                                               |
-| **Mission Link** | [Raise and Shine](https://rocketlabcorp.com/missions/missions-launched/raise-and-shine/) |
-| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/RL-F77-Press-Kit.pdf)           |
+| **Mission Name**   | Raise and Shine                                                                          |
+| ------------------ | ---------------------------------------------------------------------------------------- |
+| **Launch Date**    | NET 2025-12-14 03:09 UTC                                                                 |
+| **Outcome**        | ✅ Success                                                                                |
+| **Customer**       | [[JAXA]]                                                                                 |
+| **Location**       | [[Launch Complex 1#Launch Pad B]]                                                        |
+| **Vehicle**        | [[Electron]]                                                                             |
+| **Orbit Type**     | [[Orbits#SSO]]                                                                           |
+| **Payload Mass**   | ~110 kg                                                                                  |
+| **Target Orbit**   | 540 km \| 97.5°                                                                          |
+| **Achieved Orbit** | 536 x 553 km \| 97.48°                                                                   |
+| **Recovery**       | No Attempt                                                                               |
+| **Mission Link**   | [Raise and Shine](https://rocketlabcorp.com/missions/missions-launched/raise-and-shine/) |
+| **Press Kit**      | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/RL-F77-Press-Kit.pdf)           |
 
 ![[Pasted image 20251124170854.png|300]]
 

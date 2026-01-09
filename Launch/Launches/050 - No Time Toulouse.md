@@ -27,26 +27,29 @@ The mission was the first of five dedicated Electron launches for [[Kinéis]], a
 
 #electron #launch #success
 
-| **Mission Name** | No Time Toulouse                                                                              |
-| ---------------- | --------------------------------------------------------------------------------------------- |
-| **Launch Date**  | 2024-06-18 18:13                                                                              |
-| **Outcome**      | ✅ Success                                                                                     |
-| **Customer**     | [[Kinéis]]                                                                                    |
-| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                             |
-| **Vehicle**      | [[Electron]]                                                                                  |
-| **Orbit Type**   | [[Orbits#SSO]]                                                                             |
-| **Target Orbit** | 635 km &#124; 98°                                                                             |
-| **Payload Mass** | 150 kg                                                                                        |
-| **Recovery**     | No Attempt                                                                                    |
-| **Mission Link** | [No Time Toulouse](https://www.rocketlabusa.com/missions/missions-launched/no-time-toulouse/) |
-| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/No-Time-Toulouse-Press-Kit.pdf)      |
+| **Mission Name**    | No Time Toulouse                                                                                                                                                                                          |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Launch Date**     | 2024-06-18 18:13                                                                                                                                                                                          |
+| **Outcome**         | ✅ Success                                                                                                                                                                                                 |
+| **Customer**        | [[Kinéis]]                                                                                                                                                                                                |
+| **Location**        | [[Launch Complex 1#Launch Pad B]]                                                                                                                                                                         |
+| **Vehicle**         | [[Electron]]                                                                                                                                                                                              |
+| **Orbit Type**      | [[Orbits#SSO]]                                                                                                                                                                                            |
+| **Payload Mass**    | 150 kg                                                                                                                                                                                                    |
+| **Target Orbit**    | 635 km \| 98°                                                                                                                                                                                             |
+| **Achieved Orbits** | **Kineis-1A**: 636 x 638 km \| 98.03°<br>**Kineis-1B**: 637 x 639 km \| 98.03°<br>**Kineis-1C**: 637 x 640 km \| 98.03°<br>**Kineis-1D**: 637 x 639 km \| 98.03°<br>**Kineis-1E**: 637 x 639 km \| 98.03° |
+| **Recovery**        | No Attempt                                                                                                                                                                                                |
+| **Mission Link**    | [No Time Toulouse](https://www.rocketlabusa.com/missions/missions-launched/no-time-toulouse/)                                                                                                             |
+| **Press Kit**       | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/No-Time-Toulouse-Press-Kit.pdf)                                                                                                                  |
 
 
 ![[Pasted image 20250406142505.png|300]]
 
 ## Payload
 
-x5 [[Kinéis#🛰️ Space Systems#Kinéis IoT| Kinéis IoT]] Satellites ![[Kinéis#🛰️ Space Systems#Kinéis IoT| Kinéis IoT]]
+x5 [[Kinéis#Kinéis IoT]] 
+
+![[Kinéis#Kinéis IoT]]
 
 ## Launch Video
 

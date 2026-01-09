@@ -30,26 +30,29 @@ Rocket Lab launched the “Kinéis Killed the RadIOT Star” mission from Rocket
 #electron #launch #success
 
 
-| **Mission Name** | Kinéis Killed the RadIOT Star                                                                                           |
-| ---------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| **Launch Date**  | 2024-09-20 23:01                                                                                                        |
-| **Outcome**      | ✅ Success                                                                                                               |
-| **Customer**     | [[Kinéis]]                                                                                                              |
-| **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                                       |
-| **Vehicle**      | [[Electron]]                                                                                                            |
-| **Orbit Type**   | [[Orbits#LEO]]                                                                                                       |
-| **Target Orbit** | 643 km &#124; 98°                                                                                                       |
-| **Payload Mass** | 150 kg                                                                                                                  |
-| **Recovery**     | No Attempt                                                                                                              |
-| **Mission Link** | [Kinéis Killed the RadIOT Star](https://www.rocketlabusa.com/missions/missions-launched/kineis-killed-the-radiot-star/) |
-| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/RL-F53-Kineis-Killed-the-RadIOT-Star-Press-Kit.pdf)            |
+| **Mission Name**    | Kinéis Killed the RadIOT Star                                                                                                                                                                             |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Launch Date**     | 2024-09-20 23:01                                                                                                                                                                                          |
+| **Outcome**         | ✅ Success                                                                                                                                                                                                 |
+| **Customer**        | [[Kinéis]]                                                                                                                                                                                                |
+| **Location**        | [[Launch Complex 1#Launch Pad A]]                                                                                                                                                                         |
+| **Vehicle**         | [[Electron]]                                                                                                                                                                                              |
+| **Orbit Type**      | [[Orbits#LEO]]                                                                                                                                                                                            |
+| **Payload Mass**    | 150 kg                                                                                                                                                                                                    |
+| **Target Orbit**    | 643 km \| 98°                                                                                                                                                                                             |
+| **Achieved Orbits** | **Kineis-3A**: 636 x 640 km \| 98.02°<br>**Kineis-3B**: 635 x 639 km \| 98.01°<br>**Kineis-3C**: 638 x 640 km \| 98.01°<br>**Kineis-3D**: 638 x 640 km \| 98.02°<br>**Kineis-3E**: 637 x 640 km \| 98.01° |
+| **Recovery**        | No Attempt                                                                                                                                                                                                |
+| **Mission Link**    | [Kinéis Killed the RadIOT Star](https://www.rocketlabusa.com/missions/missions-launched/kineis-killed-the-radiot-star/)                                                                                   |
+| **Press Kit**       | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/RL-F53-Kineis-Killed-the-RadIOT-Star-Press-Kit.pdf)                                                                                              |
 
 ![[Pasted image 20250406150823.png|300]]
 
 
 ## Payload
 
-x5 [[Kinéis#🛰️ Space Systems#Kinéis IoT|Kinéis IoT]] Satellites ![[Kinéis#🛰️ Space Systems#Kinéis IoT|Kinéis IoT]]
+x5 [[Kinéis#Kinéis IoT]]
+
+![[Kinéis#Kinéis IoT]]
 
 ## Launch Video
 

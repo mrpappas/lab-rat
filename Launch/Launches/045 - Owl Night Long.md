@@ -19,7 +19,7 @@ mission_link: https://www.rocketlabusa.com/missions/missions-launched/owl-night-
 
 >[!Success] Mission Success
 
-The “Owl Night Long” mission successfully lifted off from Rocket Lab Launch Complex 1 in New Zealand and deployed a [[Synspective#🛰️ Space Systems#StriX|StriX-3]] satellite to orbit. 
+The “Owl Night Long” mission successfully lifted off from Rocket Lab Launch Complex 1 in New Zealand and deployed a [[Synspective#StriX|StriX-3]] satellite to orbit. 
 
 Rocket Lab has been the exclusive launch provider for [[Synspective]] to date and the “Owl Night Long” mission was our fourth launch for the constellation operator following launches in 2020 and 2022:
 
@@ -34,26 +34,29 @@ Synspective is a satellite data solutions provider with its own constellation of
 
 #electron #launch #success
 
-| **Mission Name** | Owl Night Long                                                                                           |
-| ---------------- | -------------------------------------------------------------------------------------------------------- |
-| **Launch Date**  | 2024-03-12 14:00                                                                                         |
-| **Outcome**      | ✅ Success                                                                                                |
-| **Customer**     | [[Synspective]]                                                                                          |
-| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                        |
-| **Vehicle**      | [[Electron]]                                                                                             |
-| **Orbit Type**   | [[Orbits#SSO]]                                                                                        |
-| **Target Orbit** | 561 km &#124; 97°                                                                                        |
-| **Payload Mass** | 100 kg                                                                                                   |
-| **Recovery**     | No Attempt                                                                                               |
-| **Mission Link** | [Owl Night Long](https://www.rocketlabusa.com/missions/missions-launched/owl-night-long/)                |
-| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/RL-Synspective-Owl-Night-Long-Press-Kit-v2.pdf) |
+| **Mission Name**   | Owl Night Long                                                                                           |
+| ------------------ | -------------------------------------------------------------------------------------------------------- |
+| **Launch Date**    | 2024-03-12 14:00                                                                                         |
+| **Outcome**        | ✅ Success                                                                                                |
+| **Customer**       | [[Synspective]]                                                                                          |
+| **Location**       | [[Launch Complex 1#Launch Pad B]]                                                                        |
+| **Vehicle**        | [[Electron]]                                                                                             |
+| **Orbit Type**     | [[Orbits#SSO]]                                                                                           |
+| **Payload Mass**   | 100 kg                                                                                                   |
+| **Target Orbit**   | 561 km \| 97°                                                                                            |
+| **Achieved Orbit** | 554 x 580 km \| 97.56°                                                                                   |
+| **Recovery**       | No Attempt                                                                                               |
+| **Mission Link**   | [Owl Night Long](https://www.rocketlabusa.com/missions/missions-launched/owl-night-long/)                |
+| **Press Kit**      | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/RL-Synspective-Owl-Night-Long-Press-Kit-v2.pdf) |
 
 
 ![[Pasted image 20250406142049.png|300]]
 
 ## Payload
 
-x1 [[Synspective#🛰️ Space Systems#StriX|StriX Series Satellites]] ![[Synspective#🛰️ Space Systems#StriX]]
+x1 [[Synspective#StriX]] - "StriX-3"
+
+![[Synspective#StriX]]
 ## Launch Video
 
 <div class="responsive-video">

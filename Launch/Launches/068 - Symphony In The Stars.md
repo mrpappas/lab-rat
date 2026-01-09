@@ -28,26 +28,26 @@ These dedicated Electron launches demonstrate both the strength of Rocket Lab’
 
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720327170026/with/54618999730)
 
-| **Mission Name** | Symphony In The Stars                                                                                |
-| ---------------- | ---------------------------------------------------------------------------------------------------- |
-| **Launch Date**  | 2025-06-28 06:45 UTC                                                                                 |
-| **Outcome**      | ✅ Success                                                                                            |
-| **Customer**     | Confidential Customer (Likely [[EchoStar]])                                                          |
-| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                    |
-| **Vehicle**      | [[Electron]]                                                                                         |
-| **Orbit Type**   | [[Orbits#SSO]]                                                                                       |
-| **Target Orbit** | 650km \| 96°                                                                                         |
-| Achieved Orbit   | 649 x 662 \| 95.98                                                                                   |
-| **Payload Mass** | 74 kg                                                                                                |
-| **Recovery**     | No Attempt Likely                                                                                    |
-| **Mission Link** | [Symphony In the Stars](https://rocketlabcorp.com/missions/missions-launched/symphony-in-the-stars/) |
-| **Press Kit**    | No Press Kit                                                                                         |
+| **Mission Name**   | Symphony In The Stars                                                                                |
+| ------------------ | ---------------------------------------------------------------------------------------------------- |
+| **Launch Date**    | 2025-06-28 06:45 UTC                                                                                 |
+| **Outcome**        | ✅ Success                                                                                            |
+| **Customer**       | Confidential Customer (Likely [[EchoStar]])                                                          |
+| **Location**       | [[Launch Complex 1#Launch Pad B]]                                                                    |
+| **Vehicle**        | [[Electron]]                                                                                         |
+| **Orbit Type**     | [[Orbits#SSO]]                                                                                       |
+| **Payload Mass**   | 74 kg                                                                                                |
+| **Target Orbit**   | 650km \| 96°                                                                                         |
+| **Achieved Orbit** | 649 x 662 km \| 95.98                                                                                |
+| **Recovery**       | No Attempt Likely                                                                                    |
+| **Mission Link**   | [Symphony In the Stars](https://rocketlabcorp.com/missions/missions-launched/symphony-in-the-stars/) |
+| **Press Kit**      | No Press Kit                                                                                         |
 
 ![[Pasted image 20250618202203.png|300]]
 
 ## Payload
 
-x1 [[EchoStar#Lyra Block-1|Echostar Lyra Block-1]]
+x1 [[EchoStar#Lyra Block-1]]
 
 ![[EchoStar#Lyra Block-1]]
 

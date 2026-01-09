@@ -34,7 +34,7 @@ sort launch_date desc
 
 %%DATAVIEW_PUBLISHER: end %%
 
-## 🛰️ Space Systems
+## Space Systems
 
 ### Acadia
 

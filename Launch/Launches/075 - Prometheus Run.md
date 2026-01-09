@@ -34,8 +34,8 @@ The mission was Rocket Lab’s sixth launch of its HASTE rocket since the launch
 | **Location**     | [[Launch Complex 2#Launch Pad 0C]]                                                     |
 | **Vehicle**      | [[HASTE]]                                                                              |
 | **Orbit Type**   | n/a                                                                                    |
-| **Target Orbit** | Suborbital                                                                             |
 | **Payload Mass** | Unknown                                                                                |
+| **Target Orbit** | Suborbital                                                                             |
 | **Recovery**     | n/a                                                                                    |
 | **Mission Link** | [Prometheus Run](https://rocketlabcorp.com/missions/missions-launched/prometheus-run/) |
 | **Press Kit**    | 🚫 No Press Kit Issued for this mission                                                |

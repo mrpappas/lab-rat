@@ -28,20 +28,20 @@ The mission was Rocket Lab’s 15th launch this year and 73rd launch overall.
 
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720329660661/)
 
-| **Mission Name** | Owl New World                                                        |
-| ---------------- | -------------------------------------------------------------------- |
-| **Launch Date**  | 2025-10-14 16:33                                                     |
-| **Outcome**      | ✅ Success                                                            |
-| **Customer**     | [[Synspective]]                                                      |
-| **Location**     | [[Launch Complex 1#Launch Pad A]]                                    |
-| **Vehicle**      | [[Electron]]                                                         |
-| **Orbit Type**   | [[Orbits#LEO]]                                                       |
-| **Target Orbit** | 583 km \| 42°                                                        |
-| Achieved Orbit   | 530 x 588 \| 41.98°                                                  |
-| **Payload Mass** | 100 kg                                                               |
-| **Recovery**     | No Attempt Made                                                      |
-| **Mission Link** | https://rocketlabcorp.com/missions/missions-launched/owl-new-world/  |
-| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/RL-F73.pdf) |
+| **Mission Name**   | Owl New World                                                        |
+| ------------------ | -------------------------------------------------------------------- |
+| **Launch Date**    | 2025-10-14 16:33                                                     |
+| **Outcome**        | ✅ Success                                                            |
+| **Customer**       | [[Synspective]]                                                      |
+| **Location**       | [[Launch Complex 1#Launch Pad A]]                                    |
+| **Vehicle**        | [[Electron]]                                                         |
+| **Orbit Type**     | [[Orbits#LEO]]                                                       |
+| **Payload Mass**   | 100 kg                                                               |
+| **Target Orbit**   | 583 km \| 42°                                                        |
+| **Achieved Orbit** | 530 x 588 km \| 41.98°                                               |
+| **Recovery**       | No Attempt Made                                                      |
+| **Mission Link**   | https://rocketlabcorp.com/missions/missions-launched/owl-new-world/  |
+| **Press Kit**      | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/RL-F73.pdf) |
 
 ![[Pasted image 20251012105036.png|300]]
 

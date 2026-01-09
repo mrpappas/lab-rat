@@ -30,26 +30,27 @@ The mission was the third overall Electron launch for iQPS and the second in a l
 
 #electron #launch
 
-| **Mission Name** | The Sea God Sees                                                                                 |
-| ---------------- | ------------------------------------------------------------------------------------------------ |
-| **Launch Date**  | NET 2025-05-17 08:17 UTC                                                                         |
-| **Outcome**      | ✅ Success                                                                                        |
-| **Customer**     | [[iQPS]]                                                                                         |
-| **Contract**     | [[iQPS Four Launch Contract 2024]]                                                               |
-| **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                |
-| **Vehicle**      | [[Electron]]                                                                                     |
-| **Orbit Type**   | [[Orbits#LEO]]                                                                                |
-| **Target Orbit** | 575 km &#124; 42°                                                                                |
-| **Payload Mass** | ~100kg                                                                                           |
-| **Recovery**     | No Attempt                                                                                       |
-| **Mission Link** | [The Sea God Sees](https://www.rocketlabusa.com/missions/missions-launched/the-sea-god-sees/)    |
-| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/F64-iQPS-Presskit-The-Sea-God-Sees.pdf) |
+| **Mission Name**   | The Sea God Sees                                                                                 |
+| ------------------ | ------------------------------------------------------------------------------------------------ |
+| **Launch Date**    | NET 2025-05-17 08:17 UTC                                                                         |
+| **Outcome**        | ✅ Success                                                                                        |
+| **Customer**       | [[iQPS]]                                                                                         |
+| **Contract**       | [[iQPS Four Launch Contract 2024]]                                                               |
+| **Location**       | [[Launch Complex 1#Launch Pad A]]                                                                |
+| **Vehicle**        | [[Electron]]                                                                                     |
+| **Orbit Type**     | [[Orbits#LEO]]                                                                                   |
+| **Payload Mass**   | ~100kg                                                                                           |
+| **Target Orbit**   | 575 km \| 42°                                                                                    |
+| **Achieved Orbit** | 569 x 582 km \| 42.01°                                                                           |
+| **Recovery**       | No Attempt                                                                                       |
+| **Mission Link**   | [The Sea God Sees](https://www.rocketlabusa.com/missions/missions-launched/the-sea-god-sees/)    |
+| **Press Kit**      | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/F64-iQPS-Presskit-The-Sea-God-Sees.pdf) |
 
 ![[Pasted image 20250505170132.png|300]]
 
 ## Payload
 
-x 1 [[iQPS#🛰️ Space Systems#QPS-SAR|QPS-SAR]]
+x 1 [[iQPS#QPS-SAR]]
 
 ![[iQPS##QPS-SAR]]
 

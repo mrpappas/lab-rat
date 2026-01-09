@@ -16,7 +16,7 @@ tags:
 **Joined:** 2024-09-16
 **Linkedin:** https://www.linkedin.com/in/michael-griffin-8209101b2/
 
->[!failure] No Longer With Rocket Lab
+>[!warning] No Longer With Rocket Lab
 
 ![[Pasted image 20241208010413.png|300]]
 

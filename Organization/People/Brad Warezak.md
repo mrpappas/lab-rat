@@ -12,7 +12,11 @@ linkedin: https://www.linkedin.com/in/bradwarezak/
 **Role:** Chief Information Officer
 **Shares Owned:** 
 **Joined:** 2022-05-01
+Left: 2025-04-01
 **Linkedin:** https://www.linkedin.com/in/bradwarezak/
+
+>[!warning] No Longer With Rocket Lab
+
 
 ![[Pasted image 20241127003519.png]]
 

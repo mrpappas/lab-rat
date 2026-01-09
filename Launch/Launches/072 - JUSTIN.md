@@ -28,8 +28,8 @@ Rocket Lab successfully launched its HASTE launch vehicle from Launch Complex 2 
 | **Location**     | [[Launch Complex 2#Launch Pad 0C]]      |
 | **Vehicle**      | [[HASTE]]                               |
 | **Orbit Type**   | n/a                                     |
-| **Target Orbit** | Suborbital                              |
 | **Payload Mass** | Unknown                                 |
+| **Target Orbit** | Suborbital                              |
 | **Recovery**     | n/a                                     |
 | **Mission Link** | None                                    |
 | **Press Kit**    | 🚫 No Press Kit Issued for this mission |

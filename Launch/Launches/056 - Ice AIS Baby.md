@@ -25,25 +25,28 @@ The “Ice AIS Baby” mission launched successfully on November 25th NZDT, 2024
 
 #electron #launch #success
 
-| **Mission Name** | Ice AIS Baby                                                                          |
-| ---------------- | ------------------------------------------------------------------------------------- |
-| **Launch Date**  | 2024-11-25 04:55                                                                      |
-| **Outcome**      | ✅ Success                                                                             |
-| **Customer**     | [[Kinéis]]                                                                            |
-| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                     |
-| **Vehicle**      | [[Electron]]                                                                          |
-| **Orbit Type**   | [[Orbits#LEO]]                                                                     |
-| **Target Orbit** | 643 km &#124; 97°                                                                     |
-| **Payload Mass** | 150 kg                                                                                |
-| **Recovery**     | No Attempt                                                                            |
-| **Mission Link** | [Ice AIS Baby](https://www.rocketlabusa.com/missions/missions-launched/ice-ais-baby/) |
-| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Ice-AIS-Baby-Press-Kit2.pdf) |
+| **Mission Name**    | Ice AIS Baby                                                                                                                                                                                              |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Launch Date**     | 2024-11-25 04:55                                                                                                                                                                                          |
+| **Outcome**         | ✅ Success                                                                                                                                                                                                 |
+| **Customer**        | [[Kinéis]]                                                                                                                                                                                                |
+| **Location**        | [[Launch Complex 1#Launch Pad B]]                                                                                                                                                                         |
+| **Vehicle**         | [[Electron]]                                                                                                                                                                                              |
+| **Orbit Type**      | [[Orbits#LEO]]                                                                                                                                                                                            |
+| **Payload Mass**    | 150 kg                                                                                                                                                                                                    |
+| **Target Orbit**    | 643 km \| 97°                                                                                                                                                                                             |
+| **Achieved Orbits** | **Kineis-5A**: 637 x 638 km \| 97.95°<br>**Kineis-5B**: 636 x 637 km \| 97.95°<br>**Kineis-5C**: 637 x 640 km \| 97.95°<br>**Kineis-5D**: 637 x 640 km \| 97.95°<br>**Kineis-5E**: 637 x 639 km \| 97.95° |
+| **Recovery**        | No Attempt                                                                                                                                                                                                |
+| **Mission Link**    | [Ice AIS Baby](https://www.rocketlabusa.com/missions/missions-launched/ice-ais-baby/)                                                                                                                     |
+| **Press Kit**       | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Ice-AIS-Baby-Press-Kit2.pdf)                                                                                                                     |
 
 ![[Pasted image 20250406151244.png|300]]
 
 ### Payload
 
-x5 [[Kinéis#🛰️ Space Systems#Kinéis IoT|Kinéis IoT]] Satellites ![[Kinéis#🛰️ Space Systems#Kinéis IoT|Kinéis IoT]]
+x5 [[Kinéis#Kinéis IoT]]
+
+![[Kinéis#Kinéis IoT]]
 
 ## 📽️ Launch Video
 

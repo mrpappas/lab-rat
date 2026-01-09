@@ -31,20 +31,22 @@ The STP-S30 mission will deploy the first DiskSats to space: a disk-shaped space
 >[!summary] Notes
 >-  This mission is supported by NASA’s [Small Spacecraft and Distributed Systems](https://www.nasa.gov/smallspacecraft/smallsat_overview/) program, based at NASA’s Ames Research Center
 >- Mission Profile: one pair will fly at low altitude, and the other will demonstrate high-altitude operations to showcase DiskSat’s maneuverability
+>- Payloads are named: DiscSat A, DiscSat B, DiscSat C, and DiscSat D
 
-| **Mission Name** | AVALANCHE (STP-S30)                                                                                  |
-| ---------------- | ---------------------------------------------------------------------------------------------------- |
-| **Launch Date**  | 2025-12-18 05:00 UTC                                                                                 |
-| **Outcome**      | ✅ Success                                                                                            |
-| **Customer**     | [[U.S. Space Force]], [[The Aerospace Corporation]]                                                  |
-| **Location**     | [[Launch Complex 2#Launch Pad 0C]]                                                                   |
-| **Vehicle**      | [[Electron]]                                                                                         |
-| **Orbit Type**   | [[Orbits#LEO]]                                                                                       |
-| **Target Orbit** | 550 km \| 45°                                                                                        |
-| **Payload Mass** | Unknown                                                                                              |
-| **Recovery**     | No Attempt Likely                                                                                    |
-| **Mission Link** | [Dont Be Such A Square](https://rocketlabcorp.com/missions/missions-launched/dont-be-such-a-square/) |
-| **Press Kit**    | No press kit                                                                                         |
+| **Mission Name**    | AVALANCHE (STP-S30)                                                                                                                                              |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Launch Date**     | 2025-12-18 05:00 UTC                                                                                                                                             |
+| **Outcome**         | ✅ Success                                                                                                                                                        |
+| **Customer**        | [[U.S. Space Force]], [[The Aerospace Corporation]]                                                                                                              |
+| **Location**        | [[Launch Complex 2#Launch Pad 0C]]                                                                                                                               |
+| **Vehicle**         | [[Electron]]                                                                                                                                                     |
+| **Orbit Type**      | [[Orbits#LEO]]                                                                                                                                                   |
+| **Payload Mass**    | Unknown                                                                                                                                                          |
+| **Target Orbit**    | 550 km \| 45°                                                                                                                                                    |
+| **Achieved Orbits** | **DiscSat A**: 541 x 553 km \| 45.05°<br>**DiscSat B**: 547 x 552 km \| 45.01°<br>**DiscSat C**: 545 x 551 km \| 45.01°<br>**DiscSat D**: 471 x 558 km \| 45.02° |
+| **Recovery**        | No Attempt Likely                                                                                                                                                |
+| **Mission Link**    | [Dont Be Such A Square](https://rocketlabcorp.com/missions/missions-launched/dont-be-such-a-square/)                                                             |
+| **Press Kit**       | No press kit                                                                                                                                                     |
 
 ![[Pasted image 20251216194804.png|300]]
 

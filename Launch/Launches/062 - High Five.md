@@ -29,26 +29,29 @@ Across these five launches in total, Rocket Lab deployed Kinéis’ complete con
 
 #electron #launch
 
-| **Mission Name** | High Five                                                                                |
-| ---------------- | ---------------------------------------------------------------------------------------- |
-| **Launch Date**  | 2025-03-18 01:31 UTC                                                                     |
-| **Outcome**      | ✅ Success                                                                                |
-| **Customer**     | [[Kinéis]]                                                                               |
-| **Location**     | [[Launch Complex 1#Launch Pad A]]                                                        |
-| **Vehicle**      | [[Electron]]                                                                             |
-| **Orbit Type**   | [[Orbits#SSO]]                                                                        |
-| **Target Orbit** | 643 km &#124; 97°                                                                        |
-| **Payload Mass** | 150 kg                                                                                   |
-| **Recovery**     | No Attempt                                                                               |
-| **Mission Link** | [High Five](https://www.rocketlabusa.com/missions/missions-launched/high-five)           |
-| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Kineis-High-Five-Press-Kit.pdf) |
+| **Mission Name**    | High Five                                                                                                                                                                                                 |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Launch Date**     | 2025-03-18 01:31 UTC                                                                                                                                                                                      |
+| **Outcome**         | ✅ Success                                                                                                                                                                                                 |
+| **Customer**        | [[Kinéis]]                                                                                                                                                                                                |
+| **Location**        | [[Launch Complex 1#Launch Pad A]]                                                                                                                                                                         |
+| **Vehicle**         | [[Electron]]                                                                                                                                                                                              |
+| **Orbit Type**      | [[Orbits#SSO]]                                                                                                                                                                                            |
+| **Payload Mass**    | 150 kg                                                                                                                                                                                                    |
+| **Target Orbit**    | 643 km \| 97°                                                                                                                                                                                             |
+| **Achieved Orbits** | **Kineis-4A**: 643 x 644 km \| 97.97°<br>**Kineis-4B**: 642 x 645 km \| 97.97°<br>**Kineis-4C**: 644 x 646 km \| 97.97°<br>**Kineis-4D**: 644 x 645 km \| 97.97°<br>**Kineis-4E**: 644 x 647 km \| 97.97° |
+| **Recovery**        | No Attempt                                                                                                                                                                                                |
+| **Mission Link**    | [High Five](https://www.rocketlabusa.com/missions/missions-launched/high-five)                                                                                                                            |
+| **Press Kit**       | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Kineis-High-Five-Press-Kit.pdf)                                                                                                                  |
 
 
 ![[Pasted image 20250315172622.png|300]]
 
 ## Payload
 
-x5 [[Kinéis#🛰️ Space Systems#Kinéis IoT|Kinéis IoT Satellites]]  ![[Kinéis#🛰️ Space Systems#Kinéis IoT|Kinéis IoT]]
+x5 [[Kinéis#Kinéis IoT]]  
+
+![[Kinéis#Kinéis IoT]]
 
 ## Launch Video
 

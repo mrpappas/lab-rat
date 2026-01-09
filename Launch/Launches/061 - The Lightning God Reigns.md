@@ -29,26 +29,27 @@ The mission launched a single [[📦 Payload Types#Synthetic Aperture Radar (SAR
 
 #electron #launch 
 
-| **Mission Name** | The Lighting God Reigns                                                                                     |
-| ---------------- | ----------------------------------------------------------------------------------------------------------- |
-| **Launch Date**  | 2025-03-15 00:00 UTC                                                                                        |
-| **Outcome**      | ✅ Success                                                                                                   |
-| **Customer**     | [[iQPS]]                                                                                                    |
-| **Contract**     | [[iQPS Four Launch Contract 2024]]                                                                          |
-| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                           |
-| **Vehicle**      | [[Electron]]                                                                                                |
-| **Orbit Type**   | [[Orbits#LEO]]                                                                                           |
-| **Target Orbit** | 575 km &#124; 42°                                                                                           |
-| **Payload Mass** | 100 kg                                                                                                      |
-| **Recovery**     | No Attempt                                                                                                  |
-| **Mission Link** | [The Lighting God Reigns](https://www.rocketlabusa.com/missions/missions-launched/the-lightning-god-reigns) |
-| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/F61-The-Lightning-God-Reigns-press-kit-final-.pdf) |
+| **Mission Name**   | The Lighting God Reigns                                                                                     |
+| ------------------ | ----------------------------------------------------------------------------------------------------------- |
+| **Launch Date**    | 2025-03-15 00:00 UTC                                                                                        |
+| **Outcome**        | ✅ Success                                                                                                   |
+| **Customer**       | [[iQPS]]                                                                                                    |
+| **Contract**       | [[iQPS Four Launch Contract 2024]]                                                                          |
+| **Location**       | [[Launch Complex 1#Launch Pad B]]                                                                           |
+| **Vehicle**        | [[Electron]]                                                                                                |
+| **Orbit Type**     | [[Orbits#LEO]]                                                                                              |
+| **Payload Mass**   | 100 kg                                                                                                      |
+| **Target Orbit**   | 575 km \| 42°                                                                                               |
+| **Achieved Orbit** | 572 x 573 km \| 42.00°                                                                                      |
+| **Recovery**       | No Attempt                                                                                                  |
+| **Mission Link**   | [The Lighting God Reigns](https://www.rocketlabusa.com/missions/missions-launched/the-lightning-god-reigns) |
+| **Press Kit**      | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/F61-The-Lightning-God-Reigns-press-kit-final-.pdf) |
 
 
 ![[Pasted image 20250314201500.png|300]]
 ## Payload
 
-x 1 [[iQPS#🛰️ Space Systems#QPS-SAR|QPS-SAR]] 
+x 1 [[iQPS#QPS-SAR]] 
 
 ![[iQPS#QPS-SAR|QPS-SAR]]
 

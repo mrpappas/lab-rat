@@ -27,19 +27,20 @@ The “Owl The Way Up” mission launched from Rocket Lab [[Launch Complex 1]] i
 
 #electron #launch #success
 
-| **Mission Name** | Owl The Way Up                                                                            |
-| ---------------- | ----------------------------------------------------------------------------------------- |
-| **Launch Date**  | 2024-12-21 14:16                                                                          |
-| **Outcome**      | ✅ Success                                                                                 |
-| **Customer**     | [[Synspective]]                                                                           |
-| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                         |
-| **Vehicle**      | [[Electron]]                                                                              |
-| **Orbit Type**   | [[Orbits#LEO]]                                                                         |
-| **Target Orbit** | 574 km &#124; 97°                                                                         |
-| **Payload Mass** | 100 kg                                                                                    |
-| **Recovery**     | No Attempt                                                                                |
-| **Mission Link** | [Owl The Way Up](https://www.rocketlabusa.com/missions/missions-launched/owl-the-way-up/) |
-| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Owl-The-Way-Up-Press-Kit.pdf)    |
+| **Mission Name**   | Owl The Way Up                                                                            |
+| ------------------ | ----------------------------------------------------------------------------------------- |
+| **Launch Date**    | 2024-12-21 14:16                                                                          |
+| **Outcome**        | ✅ Success                                                                                 |
+| **Customer**       | [[Synspective]]                                                                           |
+| **Location**       | [[Launch Complex 1#Launch Pad B]]                                                         |
+| **Vehicle**        | [[Electron]]                                                                              |
+| **Orbit Type**     | [[Orbits#LEO]]                                                                            |
+| **Payload Mass**   | 100 kg                                                                                    |
+| **Target Orbit**   | 574 km \| 97°                                                                             |
+| **Achieved Orbit** | 554 x 581 km \| 97.56°                                                                    |
+| **Recovery**       | No Attempt                                                                                |
+| **Mission Link**   | [Owl The Way Up](https://www.rocketlabusa.com/missions/missions-launched/owl-the-way-up/) |
+| **Press Kit**      | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/Owl-The-Way-Up-Press-Kit.pdf)    |
 
 
 ![[Pasted image 20250406151827.png|300]]
@@ -47,9 +48,9 @@ The “Owl The Way Up” mission launched from Rocket Lab [[Launch Complex 1]] i
 
 ### Payload
 
-x1 [[Synspective#🛰️ Space Systems#StriX|StriX Series Satellites]] 
+x1 [[Synspective#StriX]] 
 
-![[Synspective#🛰️ Space Systems#StriX]]
+![[Synspective#StriX]]
 
 ## Launch Video
 

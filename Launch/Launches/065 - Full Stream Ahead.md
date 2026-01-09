@@ -26,19 +26,20 @@ The mission will launch the next of BlackSky’s Gen-3 satellites to a mid-incli
 
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720326569466/)
 
-| **Mission Name** | The Sea God Sees                                                                                                    |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------- |
-| **Launch Date**  | 2025-06-03 23:57 UTC                                                                                                |
-| **Outcome**      | ✅ Success                                                                                                           |
-| **Customer**     | [[BlackSky]]                                                                                                        |
-| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                                   |
-| **Vehicle**      | [[Electron]]                                                                                                        |
-| **Orbit Type**   | [[Orbits#LEO]]                                                                                                      |
-| **Target Orbit** | 470 km \| 59°                                                                                                       |
-| **Payload Mass** | 138 kg                                                                                                              |
-| **Recovery**     | No Attempt                                                                                                          |
-| **Mission Link** | [Full Stream Ahead](https://rocketlabcorp.com/missions/missions-launched/full-stream-ahead-2/)                      |
-| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/RL-F65-BlackSky-Full-Stream-Ahead-Presskit-compressed.pdf) |
+| **Mission Name**   | The Sea God Sees                                                                                                    |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------- |
+| **Launch Date**    | 2025-06-03 23:57 UTC                                                                                                |
+| **Outcome**        | ✅ Success                                                                                                           |
+| **Customer**       | [[BlackSky]]                                                                                                        |
+| **Location**       | [[Launch Complex 1#Launch Pad B]]                                                                                   |
+| **Vehicle**        | [[Electron]]                                                                                                        |
+| **Orbit Type**     | [[Orbits#LEO]]                                                                                                      |
+| **Payload Mass**   | 138 kg                                                                                                              |
+| **Target Orbit**   | 470 km \| 59°                                                                                                       |
+| **Achieved Orbit** | 455 x 491 km \| 59.02°                                                                                              |
+| **Recovery**       | No Attempt                                                                                                          |
+| **Mission Link**   | [Full Stream Ahead](https://rocketlabcorp.com/missions/missions-launched/full-stream-ahead-2/)                      |
+| **Press Kit**      | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/RL-F65-BlackSky-Full-Stream-Ahead-Presskit-compressed.pdf) |
 
 
 ![[Pasted image 20250522210921.png|300]]

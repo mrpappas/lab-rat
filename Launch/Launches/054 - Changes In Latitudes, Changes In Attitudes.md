@@ -27,25 +27,37 @@ Rocket Lab’s rapid call-up launch capability, its standardized and rapid produ
 
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720321266011/)
 
+>[!summary] Notes
+> - From contract to launch in less than 10 weeks - [Source](https://www.rocketlabusa.com/updates/from-contract-to-space-in-less-than-ten-weeks-rocket-lab-launches-its-54th-electron-mission/)
+> - Confidential customer has been leaked as [[E-Space]] - [Source](https://www.mbie.govt.nz/about/open-government-and-official-information/release-of-information/lists-of-ministerial-documents-by-portfolio/space#September)
+> - Payload is likely 'ProtoSat-1' a tech demo - "The identification of E-Space as the owner is tentative, based on the registration of the satellite with Rwanda, as the Rwandan government filed an application to the International Telecom Union for a 300,000 satellite constellation to be operated under Rwandan authority by E-Space."
+
+
 #electron #launch #success
 
-| **Mission Name** | Changes In Latitudes, Changes In Attitudes                                                                                                       |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Launch Date**  | 2024-11-05 10:54                                                                                                                                 |
-| **Outcome**      | ✅ Success                                                                                                                                        |
-| **Customer**     | [[E-Space]], Confidential Customer                                                                                                               |
-| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                                                                |
-| **Vehicle**      | [[Electron]]                                                                                                                                     |
-| **Orbit Type**   | [[Orbits#SSO]]                                                                                                                                |
-| **Target Orbit** | Classified                                                                                                                                       |
-| **Payload Mass** | Classified                                                                                                                                       |
-| **Recovery**     | No Attempt                                                                                                                                       |
-| **Mission Link** | [Changes In Latitudes, Changes In Attitudes](https://www.rocketlabusa.com/missions/missions-launched/changes-in-latitudes-changes-in-attitudes/) |
-| **Press Kit**    | 🚫 No Press Kit. Confidential customer.                                                                                                          |
+| **Mission Name**   | Changes In Latitudes, Changes In Attitudes                                                                                                       |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Launch Date**    | 2024-11-05 10:54                                                                                                                                 |
+| **Outcome**        | ✅ Success                                                                                                                                        |
+| **Customer**       | [[E-Space]], Confidential Customer                                                                                                               |
+| **Location**       | [[Launch Complex 1#Launch Pad B]]                                                                                                                |
+| **Vehicle**        | [[Electron]]                                                                                                                                     |
+| **Orbit Type**     | [[Orbits#SSO]]                                                                                                                                   |
+| **Payload Mass**   | 100 kg                                                                                                                                           |
+| **Target Orbit**   | Classified                                                                                                                                       |
+| **Achieved Orbit** | 635 x 651 km \| 97.92°                                                                                                                           |
+| **Recovery**       | No Attempt                                                                                                                                       |
+| **Mission Link**   | [Changes In Latitudes, Changes In Attitudes](https://www.rocketlabusa.com/missions/missions-launched/changes-in-latitudes-changes-in-attitudes/) |
+| **Press Kit**      | 🚫 No Press Kit. Confidential customer.                                                                                                          |
 
 
 ![[Pasted image 20250406150915.png|300]]
 
+## Payload
+
+Likely [[E-Space]] Protosat 1
+
+https://space.skyrocket.de/doc_sdat/protosat-1.htm
 
 ## Launch Video
 
@@ -55,11 +67,8 @@ Rocket Lab’s rapid call-up launch capability, its standardized and rapid produ
 
 ## Notes
 
-- From contract to launch in less than 10 weeks [Source](https://www.rocketlabusa.com/updates/from-contract-to-space-in-less-than-ten-weeks-rocket-lab-launches-its-54th-electron-mission/)
-- It's been rumored that the confidential customer is [[E-Space]]. 
 
-[Source](https://www.mbie.govt.nz/about/open-government-and-official-information/release-of-information/lists-of-ministerial-documents-by-portfolio/space#September)
-![[Pasted image 20241224234855.png]]
+
 
 ## News
 %%DATAVIEW_PUBLISHER: start

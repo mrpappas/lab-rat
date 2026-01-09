@@ -27,19 +27,20 @@ The “Owl for One, One for Owl” mission was our 5th launch for [[Synspective]
 
 #electron #launch #success
 
-| **Mission Name** | Owl For One, One For Owl                                                                                     |
-| ---------------- | ------------------------------------------------------------------------------------------------------------ |
-| **Launch Date**  | 2024-08-02 16:39                                                                                             |
-| **Outcome**      | ✅ Success                                                                                                    |
-| **Customer**     | [[Synspective]]                                                                                              |
-| **Location**     | [[Launch Complex 1#Launch Pad B]]                                                                            |
-| **Vehicle**      | [[Electron]]                                                                                                 |
-| **Orbit Type**   | [[Orbits#LEO]]                                                                                            |
-| **Target Orbit** | 543 km &#124; 43°                                                                                            |
-| **Payload Mass** | 100 kg                                                                                                       |
-| **Recovery**     | No Attempt                                                                                                   |
-| **Mission Link** | [Owl For One, One For Owl](https://www.rocketlabusa.com/missions/missions-launched/owl-for-one-one-for-owl/) |
-| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/FINAL-F51-Synspective-press-kit.pdf)                |
+| **Mission Name**   | Owl For One, One For Owl                                                                                     |
+| ------------------ | ------------------------------------------------------------------------------------------------------------ |
+| **Launch Date**    | 2024-08-02 16:39                                                                                             |
+| **Outcome**        | ✅ Success                                                                                                    |
+| **Customer**       | [[Synspective]]                                                                                              |
+| **Location**       | [[Launch Complex 1#Launch Pad B]]                                                                            |
+| **Vehicle**        | [[Electron]]                                                                                                 |
+| **Orbit Type**     | [[Orbits#LEO]]                                                                                               |
+| **Payload Mass**   | 100 kg                                                                                                       |
+| **Target Orbit**   | 543 km \| 43°                                                                                                |
+| **Achieved Orbit** | 542 x 550 km \| 43.02                                                                                        |
+| **Recovery**       | No Attempt                                                                                                   |
+| **Mission Link**   | [Owl For One, One For Owl](https://www.rocketlabusa.com/missions/missions-launched/owl-for-one-one-for-owl/) |
+| **Press Kit**      | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/FINAL-F51-Synspective-press-kit.pdf)                |
 
 
 ![[Pasted image 20250406144144.png|300]]
@@ -47,7 +48,9 @@ The “Owl for One, One for Owl” mission was our 5th launch for [[Synspective]
 
 ## Payload
 
-x1 [[Synspective#🛰️ Space Systems#StriX|StriX Series Satellites]] ![[Synspective#🛰️ Space Systems#StriX]]
+x1 [[Synspective#StriX]] 'StriX-4'
+
+![[Synspective#StriX]]
 
 ## Launch Video
 

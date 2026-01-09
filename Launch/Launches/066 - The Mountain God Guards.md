@@ -29,26 +29,27 @@ Rocket Lab has now deployed four Electron missions for iQPS with 100% mission su
 
 [📸 Mission Photo Album](https://www.flickr.com/photos/rocketlab/albums/72177720326782701/)
 
-| **Mission Name** | The Mountain God Guards                                                                                             |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------- |
-| **Launch Date**  | 2025-06-11 15:15 UTC                                                                                                |
-| **Outcome**      | ✅ Success                                                                                                           |
-| **Customer**     | [[iQPS]]                                                                                                            |
-| **Contract**     | [[iQPS Four Launch Contract 2024]]                                                                                  |
-| **Location**     | [[Launch Complex 1#Launch Pad A]]                                                                                   |
-| **Vehicle**      | [[Electron]]                                                                                                        |
-| **Orbit Type**   | [[Orbits#LEO]]                                                                                                   |
-| **Target Orbit** | 575 km \| 42°                                                                                                       |
-| **Payload Mass** | 100 kg                                                                                                              |
-| **Recovery**     | No Attempt                                                                                                          |
-| **Mission Link** | [The Mountain God Guards](https://rocketlabcorp.com/missions/missions-launched/the-mountain-god-guards/)            |
-| **Press Kit**    | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/F66-The-Mountain-God-Guards-Presskit-final-compressed.pdf) |
+| **Mission Name**   | The Mountain God Guards                                                                                             |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------- |
+| **Launch Date**    | 2025-06-11 15:15 UTC                                                                                                |
+| **Outcome**        | ✅ Success                                                                                                           |
+| **Customer**       | [[iQPS]]                                                                                                            |
+| **Contract**       | [[iQPS Four Launch Contract 2024]]                                                                                  |
+| **Location**       | [[Launch Complex 1#Launch Pad A]]                                                                                   |
+| **Vehicle**        | [[Electron]]                                                                                                        |
+| **Orbit Type**     | [[Orbits#LEO]]                                                                                                      |
+| **Payload Mass**   | 100 kg                                                                                                              |
+| **Target Orbit**   | 575 km \| 42°                                                                                                       |
+| **Achieved Orbit** | 569 x 582 km \| 42.01°                                                                                              |
+| **Recovery**       | No Attempt                                                                                                          |
+| **Mission Link**   | [The Mountain God Guards](https://rocketlabcorp.com/missions/missions-launched/the-mountain-god-guards/)            |
+| **Press Kit**      | [Press Kit PDF](https://rocketlabcorp.com/assets/Uploads/F66-The-Mountain-God-Guards-Presskit-final-compressed.pdf) |
 
 ![[Pasted image 20250603181608.png|300]]
 
 ## Payload
 
-x 1 [[iQPS#🛰️ Space Systems#QPS-SAR|QPS-SAR]]
+x 1 [[iQPS#QPS-SAR]]
 
 ![[iQPS#QPS-SAR]]
 
